@@ -1,0 +1,47 @@
+Python_Learning_RoadMap
+│
+├── 📍 Phase 0 — Foundation Check (already familiar, we'll review fast)
+│   ├── ⏳ Variables & Data Types
+│   ├── ⏳ input() / print() / f-strings
+│   ├── ⏳ Conditionals (if/elif/else)
+│   ├── ⏳ Loops (for, while, nested loops)
+│   └── ⏳ Basic error reading (understanding tracebacks)
+│
+├── 📍 Phase 1 — Real Independence
+│   ├── ⏳ Functions (def, parameters, return, default args)
+│   ├── ⏳ Lists, Tuples, Dictionaries, Sets (when to use which)
+│   ├── ⏳ String methods & formatting
+│   ├── ⏳ List/Dict comprehensions
+│   └── ⏳ File I/O (reading/writing txt, csv, json)
+│
+├── 📍 Phase 2 — Structuring Real Programs
+│   ├── ⏳ Writing your own modules (import your own files)
+│   ├── ⏳ Classes & Objects — what __init__ actually does
+│   ├── ⏳ How classes relate to each other (composition, inheritance)
+│   ├── ⏳ Exception handling (try/except properly)
+│   └── ⏳ Mini Project #1 — small multi-file program from scratch
+│
+├── 📍 Phase 3 — Working with Libraries (you write, not AI)
+│   ├── ⏳ pip & virtual environments
+│   ├── ⏳ requests (talk to the internet)
+│   ├── ⏳ os / pathlib (files & folders)
+│   └── ⏳ Mini Project #2 — a tool you actually use daily
+│
+├── 📍 Phase 4 — System Control (your goal)
+│   ├── ⏳ os / subprocess — run & control programs
+│   ├── ⏳ pyautogui — control mouse/keyboard
+│   ├── ⏳ psutil — monitor system (CPU, processes, etc.)
+│   ├── ⏳ Scheduling scripts (run automatically)
+│   └── ⏳ Mini Project #3 — a real Windows automation tool
+│
+├── 📍 Phase 5 — Toward Electronics
+│   ├── ⏳ Serial communication (pyserial) — talk to Arduino/microcontrollers
+│   ├── ⏳ GPIO basics (if Raspberry Pi) or Arduino+Python bridge
+│   └── ⏳ Mini Project #4 — Python script controlling a physical device
+│
+└── 🚀 Milestone — able to build & explain a project fully on your own,
+     confident enough to eventually teach it to others (e.g. kids)
+
+Legend: ✅ Done   🟡 In Progress   ⏳ Not Started Yet
+(We'll update the icons together as you complete each part —
+ just like Smart_Bourse.)

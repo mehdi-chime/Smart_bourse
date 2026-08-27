@@ -1,0 +1,70 @@
+001: """
+002: Project : Smart_Bourse
+003: 
+004: File : run.py
+005: 
+006: Version : 6.0.0
+007: 
+008: Description :
+009: Main Entry Point
+010: """
+011: 
+012: from datetime import datetime
+013: 
+014: from utils.logger import Logger
+015: 
+016: from database.database import Database
+017: 
+018: from models.stock import Stock
+019: 
+020: from market.market_manager import MarketManager
+021: 
+022: from market.symbol_downloader import SymbolDownloader
+023: 
+024: from market_downloader import MarketDownloader
+025: 
+026: from history.history_manager import HistoryManager
+027: from history.history_downloader import HistoryDownloader
+028: from history.history_database import HistoryDatabase
+029: 
+030: from analysis import Analyzer
+031: 
+032: from indicators.indicator_manager import IndicatorManager
+033: 
+034: from strategy.strategy_manager import StrategyManager
+035: 
+036: from ai.ai_engine import AIEngine
+037: 
+038: from portfolio.portfolio import Portfolio
+039: 
+040: from paper.paper_trading import PaperTrading
+041: 
+042: from backtest.backtest_engine import BackTestEngine
+043: 
+044: 
+045: # =====================================================
+046: 
+047: def main():
+048: 
+049:     log = Logger()
+050: 
+051:     downloader = MarketDownloader()
+052: 
+053:     history = HistoryManager()
+054: 
+055:     history_downloader = HistoryDownloader()
+056: 
+057:     symbol_downloader = SymbolDownloader(history_downloader.api)
+058: 
+059:     db = Database()
+060: 
+061:     history_db = HistoryDatabase()
+062: 
+063:     analyzer = Analyzer()
+064: 
+065:     indicators = IndicatorManager()
+066: 
+067:     strategy = StrategyManager()
+068: 
+069:     ai = AIEngine()
+070: 
