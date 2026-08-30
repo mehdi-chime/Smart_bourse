@@ -1,7 +1,7 @@
-__pycache__/ 
-*.pyc 
-*.db 
-*.csv 
-data/ 
-logs/ 
-database/ 
+# __pycache__/ 
+# *.pyc 
+# *.db 
+# *.csv 
+# data/ 
+# logs/ 
+#  database/ 

@@ -1,0 +1,29 @@
+[
+    {
+        "symbol": "Foolad",
+        "trade_date": "2026-07-30",
+        "open_price": 24800,
+        "high_price": 25350,
+        "low_price": 24720,
+        "close_price": 25140,
+        "volume": 18542000
+    },
+    {
+        "symbol": "Femeli",
+        "trade_date": "2026-07-30",
+        "open_price": 8280,
+        "high_price": 8420,
+        "low_price": 8250,
+        "close_price": 8345,
+        "volume": 12654000
+    },
+    {
+        "symbol": "Khodro",
+        "trade_date": "2026-07-30",
+        "open_price": 4520,
+        "high_price": 4610,
+        "low_price": 4500,
+        "close_price": 4580,
+        "volume": 29854000
+    }
+]
