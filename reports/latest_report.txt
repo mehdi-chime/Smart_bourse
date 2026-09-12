@@ -1,0 +1,2751 @@
+======================================================================
+SMART BOURSE - DIAGNOSTIC REPORT
+======================================================================
+Date: 2026-09-12 13:46:12.088465
+Python: 3.13.5 (tags/v3.13.5:6cb20a2, Jun 11 2025, 16:15:46) [MSC v.1943 64 bit (AMD64)]
+Project: F:\python\har roz ba python\smart_bours
+
+======================================================================
+GIT INFORMATION
+======================================================================
+
+--- Git Remote ---
+origin	https://github.com/mehdi-chime/Smart_bourse.git (fetch)
+origin	https://github.com/mehdi-chime/Smart_bourse.git (push)
+
+
+--- RETURN CODE: 0 ---
+
+
+--- Current Branch ---
+main
+
+
+--- RETURN CODE: 0 ---
+
+
+--- Git Status ---
+ M DeepSeek_RoadMap.txt
+ M __pycache__/config.cpython-313.pyc
+ M __pycache__/market_downloader.cpython-313.pyc
+ M analysis/__init__.py
+ M analysis/__pycache__/__init__.cpython-313.pyc
+ M analysis/__pycache__/trend.cpython-313.pyc
+ M analysis/support_resistance.py
+ M analysis/trend.py
+ M config.py
+ M data/history/femeli_history.json
+ M data/history/foolad_history.json
+ M data/history/khodro_history.json
+ M "data/history/\331\201\331\210\331\204\330\247\330\257_history.json"
+ M data/market_today.json
+ M data/smart_bourse.db
+ D data/smart_bourse.db-journal
+ M database/__pycache__/database.cpython-313.pyc
+ M database/database.py
+ M logs/smart_bourse.log
+ M market_downloader.py
+ M run.py
+?? "New Text Document.txt"
+?? __pycache__/project_config.cpython-39.pyc
+?? ai/__pycache__/backtest_optimizer.cpython-313.pyc
+?? ai/__pycache__/momentum_scanner.cpython-313.pyc
+?? ai/__pycache__/order_flow_analyzer.cpython-313.pyc
+?? ai/__pycache__/whale_detector.cpython-313.pyc
+?? ai/backtest_optimizer.py
+?? ai/momentum_scanner.py
+?? ai/order_flow_analyzer.py
+?? ai/whale_detector.py
+?? analysis/__pycache__/support_resistance.cpython-313.pyc
+?? analyze_all_whales.py
+?? auto_trader.py
+?? batch_backtest.py
+?? bidar_scraper.py
+?? check_data_date.py
+?? check_db.py
+?? check_history.py
+?? check_project.py
+?? check_stock_data.py
+?? core/
+?? create_fundamental_csv.py
+?? daily_runner.py
+?? data/bidar_data.json
+?? data/events.json
+?? data/fundamental_data.csv
+?? data/fundamental_data.csv.txt
+?? data/history/market_2026_08_30.json
+?? data/history/market_2026_09_01.json
+?? "data/history/\330\242\330\250\330\247\330\257_history.json"
+?? "data/history/\330\242\330\250\330\247\330\257\330\247_history.json"
+?? "data/history/\330\242\330\250\330\247\330\257\330\255_history.json"
+?? "data/history/\330\242\330\261\330\247\331\205_history.json"
+?? "data/history/\330\242\330\261\330\247\331\205\330\264_history.json"
+?? "data/history/\330\242\330\263\330\247_history.json"
+?? "data/history/\330\242\330\263\333\214\330\247_history.json"
+?? "data/history/\330\242\331\201\330\247\331\202_history.json"
+?? "data/history/\330\242\331\204\331\210\331\205\333\214\331\206\330\247_history.json"
+?? "data/history/\330\242\331\210\330\247\331\206_history.json"
+?? "data/history/\330\242\331\276_history.json"
+?? "data/history/\330\242\331\276\330\255_history.json"
+?? "data/history/\330\242\332\251\331\210_history.json"
+?? "data/history/\330\247\330\252\331\210\330\242\332\257\330\247\331\207_history.json"
+?? "data/history/\330\247\330\252\331\210\332\251\330\247\330\261_history.json"
+?? "data/history/\330\247\330\252\332\251\330\247\331\205_history.json"
+?? "data/history/\330\247\330\252\332\251\330\247\331\205\330\255_history.json"
+?? "data/history/\330\247\330\254\330\257\330\247\330\257_history.json"
+?? "data/history/\330\247\330\256\330\247\330\250\330\261_history.json"
+?? "data/history/\330\247\330\256\330\247\330\250\330\261\330\255_history.json"
+?? "data/history/\330\247\330\261\330\257\330\263\330\252\330\247\331\206_history.json"
+?? "data/history/\330\247\330\261\330\262\330\264_history.json"
+?? "data/history/\330\247\330\261\331\205\330\272\330\247\331\206_history.json"
+?? "data/history/\330\247\330\261\331\210\331\206\330\257_history.json"
+?? "data/history/\330\247\330\263\330\252\333\214\331\204_history.json"
+?? "data/history/\330\247\330\267\331\204\330\263 \330\261\333\214\330\26307_history.json"
+?? "data/history/\330\247\330\267\331\204\330\263_history.json"
+?? "data/history/\330\247\330\267\331\205\331\212\331\206\330\247\331\206_history.json"
+?? "data/history/\330\247\330\271\330\252\330\250\330\247\330\261\330\263\331\207\330\247\331\205_history.json"
+?? "data/history/\330\247\331\201\330\261\330\247\331\206_history.json"
+?? "data/history/\330\247\331\201\331\202 \331\205\331\204\330\252_history.json"
+?? "data/history/\330\247\331\201\331\202_history.json"
+?? "data/history/\330\247\331\201\331\202\330\255_history.json"
+?? "data/history/\330\247\331\204\330\250\330\261\330\262_history.json"
+?? "data/history/\330\247\331\204\330\250\330\261\330\262\330\255_history.json"
+?? "data/history/\330\247\331\205\333\214\330\257\330\255_history.json"
+?? "data/history/\330\247\331\205\333\214\331\206_history.json"
+?? "data/history/\330\247\331\205\333\214\331\206\330\255_history.json"
+?? "data/history/\330\247\331\206\330\247\330\261_history.json"
+?? "data/history/\330\247\331\206\330\252\330\256\330\247\330\250094_history.json"
+?? "data/history/\330\247\331\207\330\261\331\205_history.json"
+?? "data/history/\330\247\331\276\330\247\331\204_history.json"
+?? "data/history/\330\247\332\251\330\252\330\247\331\206_history.json"
+?? "data/history/\330\250\330\247\331\204\330\250\330\261_history.json"
+?? "data/history/\330\250\330\247\331\204\330\250\330\261\330\255_history.json"
+?? "data/history/\330\250\330\247\331\206\332\251\330\247_history.json"
+?? "data/history/\330\250\330\247\331\206\332\251\330\257\330\247\330\261_history.json"
+?? "data/history/\330\250\330\247\331\206\332\251\331\276\330\247\330\257_history.json"
+?? "data/history/\330\250\330\247\331\206\332\251\333\214\330\247_history.json"
+?? "data/history/\330\250\330\252\330\261\330\247\331\206\330\263_history.json"
+?? "data/history/\330\250\330\252\330\261\330\247\331\206\330\263\330\255_history.json"
+?? "data/history/\330\250\330\260\330\261_history.json"
+?? "data/history/\330\250\330\261\332\251\330\252_history.json"
+?? "data/history/\330\250\330\263\331\210\331\212\332\206_history.json"
+?? "data/history/\330\250\330\263\331\210\333\214\332\206_history.json"
+?? "data/history/\330\250\330\264\331\207\330\247\330\250_history.json"
+?? "data/history/\330\250\330\264\331\207\330\247\330\250\330\255_history.json"
+?? "data/history/\330\250\331\201\330\254\330\261_history.json"
+?? "data/history/\330\250\331\201\330\254\330\261\330\255_history.json"
+?? "data/history/\330\250\331\203\330\247\330\250\330\255_history.json"
+?? "data/history/\330\250\331\204\331\210\330\267_history.json"
+?? "data/history/\330\250\331\205\331\210\330\252\331\210_history.json"
+?? "data/history/\330\250\331\205\331\210\330\252\331\210\330\255_history.json"
+?? "data/history/\330\250\331\206\332\251\330\261_history.json"
+?? "data/history/\330\250\331\206\333\214\330\261\331\210_history.json"
+?? "data/history/\330\250\331\206\333\214\330\261\331\210\330\255_history.json"
+?? "data/history/\330\250\331\207\331\205\331\206_history.json"
+?? "data/history/\330\250\331\207\333\214\331\206 \330\261\331\210_history.json"
+?? "data/history/\330\250\331\210\330\261\330\263_history.json"
+?? "data/history/\330\250\331\210\330\271\331\204\333\214_history.json"
+?? "data/history/\330\250\331\276\331\210\333\214\330\247_history.json"
+?? "data/history/\330\250\332\251\330\247\330\250_history.json"
+?? "data/history/\330\250\332\251\330\247\331\205\330\255_history.json"
+?? "data/history/\330\250\333\214\330\257\330\247\330\261_history.json"
+?? "data/history/\330\252\330\247\330\250\330\247\331\206_history.json"
+?? "data/history/\330\252\330\247\330\257\333\214\332\251\331\210_history.json"
+?? "data/history/\330\252\330\247\330\261\330\247\330\262_history.json"
+?? "data/history/\330\252\330\247\330\265\333\214\332\251\331\210_history.json"
+?? "data/history/\330\252\330\247\330\265\333\214\332\251\331\210\330\255_history.json"
+?? "data/history/\330\252\330\247\331\276\333\214\332\251\331\210_history.json"
+?? "data/history/\330\252\330\247\333\214\330\261\330\247_history.json"
+?? "data/history/\330\252\330\247\333\214\330\261\330\247\330\255_history.json"
+?? "data/history/\330\252\330\257\330\247\331\210\331\205_history.json"
+?? "data/history/\330\252\330\261\330\247\330\263\330\252_history.json"
+?? "data/history/\330\252\330\261\330\247\331\205 \332\206\330\247\331\276061_history.json"
+?? "data/history/\330\252\330\261\330\247\331\205 \332\206\330\247\331\27606_history.json"
+?? "data/history/\330\252\330\261\331\205\331\207_history.json"
+?? "data/history/\330\252\330\265\331\205\333\214\331\205_history.json"
+?? "data/history/\330\252\331\205\330\257\331\206_history.json"
+?? "data/history/\330\252\331\205\330\264\332\251_history.json"
+?? "data/history/\330\252\331\205\331\204\330\252_history.json"
+?? "data/history/\330\252\331\205\331\204\330\252\330\255_history.json"
+?? "data/history/\330\252\331\206\331\210\333\214\331\206_history.json"
+?? "data/history/\330\252\331\210\330\263\332\251\330\247_history.json"
+?? "data/history/\330\252\331\276\331\205\331\276\333\214_history.json"
+?? "data/history/\330\252\331\276\331\205\331\276\333\214\330\255_history.json"
+?? "data/history/\330\252\332\251\330\247\330\261\330\257\330\247\331\206_history.json"
+?? "data/history/\330\252\332\251\330\264\330\247_history.json"
+?? "data/history/\330\252\332\251\330\264\330\247\330\255_history.json"
+?? "data/history/\330\252\332\251\331\205\330\250\330\247_history.json"
+?? "data/history/\330\252\332\251\331\205\330\250\330\247\330\255_history.json"
+?? "data/history/\330\252\332\251\331\206\331\210\330\255_history.json"
+?? "data/history/\330\252\333\214\331\276\333\214\332\251\331\210_history.json"
+?? "data/history/\330\252\333\214\331\276\333\214\332\251\331\210\330\255_history.json"
+?? "data/history/\330\253\330\247\330\256\330\252_history.json"
+?? "data/history/\330\253\330\247\330\256\330\252\330\255_history.json"
+?? "data/history/\330\253\330\247\331\205\330\247\331\206_history.json"
+?? "data/history/\330\253\330\247\331\205\330\247\331\206\330\255_history.json"
+?? "data/history/\330\253\330\247\332\230\331\206_history.json"
+?? "data/history/\330\253\330\250\331\207\330\263\330\247\330\262_history.json"
+?? "data/history/\330\253\330\261\331\210\330\252 \330\263\330\247\330\262_history.json"
+?? "data/history/\330\253\330\264\330\247\331\207\330\257_history.json"
+?? "data/history/\330\253\330\264\330\247\331\207\330\257\330\255_history.json"
+?? "data/history/\330\253\330\264\330\261\331\202_history.json"
+?? "data/history/\330\253\330\264\330\261\331\202\330\255_history.json"
+?? "data/history/\330\253\331\201\330\247\330\261\330\263_history.json"
+?? "data/history/\330\253\331\205\330\261_history.json"
+?? "data/history/\330\253\331\206\331\210\330\263\330\247_history.json"
+?? "data/history/\330\253\331\206\331\210\330\263\330\247\330\255_history.json"
+?? "data/history/\330\253\331\207\330\247\331\205_history.json"
+?? "data/history/\330\253\331\276\331\207\330\261\330\247\331\206_history.json"
+?? "data/history/\330\253\331\276\331\207\330\261\330\247\331\206\330\255_history.json"
+?? "data/history/\330\254\330\247\331\210\330\257\330\247\331\206_history.json"
+?? "data/history/\330\254\331\205_history.json"
+?? "data/history/\330\254\331\205\330\255_history.json"
+?? "data/history/\330\254\331\207\330\264_history.json"
+?? "data/history/\330\255\330\252\330\247\333\214\330\257\330\255_history.json"
+?? "data/history/\330\255\330\252\331\210\332\251\330\247_history.json"
+?? "data/history/\330\255\331\201\330\247\330\261\330\263_history.json"
+?? "data/history/\330\255\331\201\330\247\330\261\333\214_history.json"
+?? "data/history/\330\255\331\276\330\252\330\261\331\210_history.json"
+?? "data/history/\330\255\331\276\330\252\330\261\331\210\330\255_history.json"
+?? "data/history/\330\255\332\251\330\264\330\252\333\214_history.json"
+?? "data/history/\330\256\330\247\330\252\331\205_history.json"
+?? "data/history/\330\256\330\247\330\260\333\214\331\206_history.json"
+?? "data/history/\330\256\330\250\330\261\331\206\330\247_history.json"
+?? "data/history/\330\256\330\250\330\261\331\207_history.json"
+?? "data/history/\330\256\330\250\330\261\332\257\330\247\331\206_history.json"
+?? "data/history/\330\256\330\250\331\207\331\205\331\206_history.json"
+?? "data/history/\330\256\330\250\331\207\331\205\331\206\330\255_history.json"
+?? "data/history/\330\256\330\252\330\261\330\247\332\251_history.json"
+?? "data/history/\330\256\330\252\330\261\330\247\332\251\330\255_history.json"
+?? "data/history/\330\256\330\252\331\210\330\261_history.json"
+?? "data/history/\330\256\330\252\331\210\330\261\330\255_history.json"
+?? "data/history/\330\256\330\252\331\210\331\202\330\247_history.json"
+?? "data/history/\330\256\330\252\331\210\331\202\330\247\330\255_history.json"
+?? "data/history/\330\256\330\261\330\247\330\263\330\247\331\206_history.json"
+?? "data/history/\330\256\330\261\333\214\331\206\332\257_history.json"
+?? "data/history/\330\256\330\261\333\214\331\206\332\257\330\255_history.json"
+?? "data/history/\330\256\330\262\330\247\331\205\333\214\330\247\330\255_history.json"
+?? "data/history/\330\256\330\262\330\261_history.json"
+?? "data/history/\330\256\330\262\330\261\330\255_history.json"
+?? "data/history/\330\256\330\263\330\247\331\276\330\247_history.json"
+?? "data/history/\330\256\330\263\330\247\331\276\330\247\330\255_history.json"
+?? "data/history/\330\256\330\264\330\261\331\202_history.json"
+?? "data/history/\330\256\330\264\330\261\331\202\330\255_history.json"
+?? "data/history/\330\256\331\201\331\206\330\261_history.json"
+?? "data/history/\330\256\331\201\331\206\330\261\330\255_history.json"
+?? "data/history/\330\256\331\204\331\206\330\252_history.json"
+?? "data/history/\330\256\331\205\330\255\330\261\332\251\331\207_history.json"
+?? "data/history/\330\256\331\205\330\255\330\261\332\251\331\207\330\255_history.json"
+?? "data/history/\330\256\331\205\330\255\331\210\330\261_history.json"
+?? "data/history/\330\256\331\205\330\255\331\210\330\261\330\255_history.json"
+?? "data/history/\330\256\331\205\331\207\330\261_history.json"
+?? "data/history/\330\256\331\205\331\207\330\261\330\255_history.json"
+?? "data/history/\330\256\331\205\331\210\330\252\331\210\330\261_history.json"
+?? "data/history/\330\256\331\205\331\210\330\252\331\210\330\261\330\255_history.json"
+?? "data/history/\330\256\331\206\330\265\333\214\330\261_history.json"
+?? "data/history/\330\256\331\210\330\257\330\261\330\247\331\206_history.json"
+?? "data/history/\330\256\331\210\330\257\330\261\331\210_history.json"
+?? "data/history/\330\256\331\210\330\257\330\261\331\210\330\255_history.json"
+?? "data/history/\330\256\331\210\330\263\330\247\330\262_history.json"
+?? "data/history/\330\256\331\210\330\263\330\247\330\262\330\255_history.json"
+?? "data/history/\330\256\332\206\330\261\330\256\330\264_history.json"
+?? "data/history/\330\256\332\206\330\261\330\256\330\264\330\255_history.json"
+?? "data/history/\330\256\332\251\330\247\330\261_history.json"
+?? "data/history/\330\256\332\251\330\247\330\261\330\255_history.json"
+?? "data/history/\330\256\332\251\331\205\332\251_history.json"
+?? "data/history/\330\256\332\257\330\263\330\252\330\261_history.json"
+?? "data/history/\330\256\332\257\330\263\330\252\330\261\330\255_history.json"
+?? "data/history/\330\257\330\247\330\250\331\210\330\261_history.json"
+?? "data/history/\330\257\330\247\330\250\331\210\330\261\330\255_history.json"
+?? "data/history/\330\257\330\247\330\252\330\247\331\205_history.json"
+?? "data/history/\330\257\330\247\330\252\330\247\331\205\330\255_history.json"
+?? "data/history/\330\257\330\247\330\252\330\261\330\247_history.json"
+?? "data/history/\330\257\330\247\330\261\331\210_history.json"
+?? "data/history/\330\257\330\247\330\261\331\210\330\255_history.json"
+?? "data/history/\330\257\330\247\330\261\331\210\331\206\330\257_history.json"
+?? "data/history/\330\257\330\247\330\261\331\210\331\206\331\210_history.json"
+?? "data/history/\330\257\330\247\330\263\331\210\331\207_history.json"
+?? "data/history/\330\257\330\247\330\263\331\210\331\207\330\255_history.json"
+?? "data/history/\330\257\330\247\331\204\330\250\330\261_history.json"
+?? "data/history/\330\257\330\247\331\204\330\250\330\261\330\255_history.json"
+?? "data/history/\330\257\330\247\331\205\333\214\331\206_history.json"
+?? "data/history/\330\257\330\247\331\205\333\214\331\206\330\255_history.json"
+?? "data/history/\330\257\330\247\331\206\330\247_history.json"
+?? "data/history/\330\257\330\247\331\206\330\247\330\255_history.json"
+?? "data/history/\330\257\330\252\331\205\330\247\330\257_history.json"
+?? "data/history/\330\257\330\252\331\205\330\247\330\257\330\255_history.json"
+?? "data/history/\330\257\330\254\330\247\330\250\330\261_history.json"
+?? "data/history/\330\257\330\254\330\247\330\250\330\261\330\255_history.json"
+?? "data/history/\330\257\330\257\330\247\331\205_history.json"
+?? "data/history/\330\257\330\257\330\247\331\205\330\255_history.json"
+?? "data/history/\330\257\330\261\330\247\330\262\332\251_history.json"
+?? "data/history/\330\257\330\261\330\247\330\262\332\251\330\255_history.json"
+?? "data/history/\330\257\330\261\330\263\330\247_history.json"
+?? "data/history/\330\257\330\261\331\210\330\262_history.json"
+?? "data/history/\330\257\330\261\331\210\330\262\330\255_history.json"
+?? "data/history/\330\257\330\262\331\207\330\261\330\247\331\210\333\214\330\255_history.json"
+?? "data/history/\330\257\330\263\330\250\330\255\330\247_history.json"
+?? "data/history/\330\257\330\263\330\250\330\255\330\247\330\255_history.json"
+?? "data/history/\330\257\330\263\330\250\330\255\330\247\331\206_history.json"
+?? "data/history/\330\257\330\263\330\250\330\255\330\247\331\206\330\255_history.json"
+?? "data/history/\330\257\330\263\333\214\331\206\330\247\330\255_history.json"
+?? "data/history/\330\257\330\264\333\214\331\205\333\214_history.json"
+?? "data/history/\330\257\330\264\333\214\331\205\333\214\330\255_history.json"
+?? "data/history/\330\257\330\271\330\250\333\214\330\257_history.json"
+?? "data/history/\330\257\331\201\330\247\330\261\330\247_history.json"
+?? "data/history/\330\257\331\201\330\247\330\261\330\247\330\255_history.json"
+?? "data/history/\330\257\331\201\330\261\330\247_history.json"
+?? "data/history/\330\257\331\201\330\261\330\247\330\255_history.json"
+?? "data/history/\330\257\331\204\330\252\330\247_history.json"
+?? "data/history/\330\257\331\204\330\261_history.json"
+?? "data/history/\330\257\331\204\330\261\330\255_history.json"
+?? "data/history/\330\257\331\204\331\202\331\205\330\247_history.json"
+?? "data/history/\330\257\331\204\331\202\331\205\330\247\330\255_history.json"
+?? "data/history/\330\257\331\204\331\210\330\263\331\207_history.json"
+?? "data/history/\330\257\331\276\330\247\330\261\330\263_history.json"
+?? "data/history/\330\257\331\276\330\247\330\261\330\263\330\255_history.json"
+?? "data/history/\330\257\332\251\333\214\331\205\333\214_history.json"
+?? "data/history/\330\257\333\214 \330\263\331\207\330\247\331\205_history.json"
+?? "data/history/\330\257\333\214\330\250\330\247_history.json"
+?? "data/history/\330\257\333\214\330\261\330\247\331\206_history.json"
+?? "data/history/\330\257\333\214\330\261\330\247\331\206\330\255_history.json"
+?? "data/history/\330\260\331\210\330\250_history.json"
+?? "data/history/\330\261\330\247\330\257\330\247\331\206_history.json"
+?? "data/history/\330\261\330\247\331\206\331\201\331\210\330\261_history.json"
+?? "data/history/\330\261\330\247\331\206\331\201\331\210\330\261\330\255_history.json"
+?? "data/history/\330\261\330\247\333\214\332\251\330\247_history.json"
+?? "data/history/\330\261\330\252\330\247\331\276_history.json"
+?? "data/history/\330\261\330\252\330\247\331\276\330\255_history.json"
+?? "data/history/\330\261\331\205\331\276\331\206\330\247_history.json"
+?? "data/history/\330\261\331\205\331\276\331\206\330\247\330\255_history.json"
+?? "data/history/\330\261\331\210\331\206\331\202_history.json"
+?? "data/history/\330\261\331\210\333\214\330\264 \331\207\331\205\330\261\330\247\331\207_history.json"
+?? "data/history/\330\261\332\251\333\214\330\264_history.json"
+?? "data/history/\330\261\332\251\333\214\330\264\330\255_history.json"
+?? "data/history/\330\262\330\264\332\251_history.json"
+?? "data/history/\330\262\331\205\330\261\330\257 \332\251\331\210\330\261\331\210\330\264_history.json"
+?? "data/history/\330\262\331\205\332\257\330\263\330\247_history.json"
+?? "data/history/\330\262\331\205\332\257\330\263\330\247\330\255_history.json"
+?? "data/history/\330\262\331\276\330\247\330\261\330\263_history.json"
+?? "data/history/\330\263\330\242\330\250\333\214\332\251_history.json"
+?? "data/history/\330\263\330\247\330\261\330\247\330\250_history.json"
+?? "data/history/\330\263\330\247\330\261\330\247\330\250\330\255_history.json"
+?? "data/history/\330\263\330\247\330\261\330\250\333\214\331\204_history.json"
+?? "data/history/\330\263\330\247\330\261\330\250\333\214\331\204\330\255_history.json"
+?? "data/history/\330\263\330\247\330\261\331\210\331\205_history.json"
+?? "data/history/\330\263\330\247\330\261\331\210\331\205\330\255_history.json"
+?? "data/history/\330\263\330\250\330\254\331\206\331\210_history.json"
+?? "data/history/\330\263\330\250\330\254\331\206\331\210\330\255_history.json"
+?? "data/history/\330\263\330\250\330\262\330\242\330\250\331\206\331\210\330\263_history.json"
+?? "data/history/\330\263\330\250\331\207\330\247\331\206_history.json"
+?? "data/history/\330\263\330\250\331\207\330\247\331\206\330\255_history.json"
+?? "data/history/\330\263\330\252\330\261\330\247\331\206_history.json"
+?? "data/history/\330\263\330\256\330\247\330\264_history.json"
+?? "data/history/\330\263\330\256\330\247\330\264\330\255_history.json"
+?? "data/history/\330\263\330\256\330\262\330\261_history.json"
+?? "data/history/\330\263\330\256\330\262\330\261\330\255_history.json"
+?? "data/history/\330\263\330\256\331\210\330\262_history.json"
+?? "data/history/\330\263\330\256\331\210\330\262\330\255_history.json"
+?? "data/history/\330\263\330\257\330\247\330\257_history.json"
+?? "data/history/\330\263\330\257\330\264\330\252_history.json"
+?? "data/history/\330\263\330\257\330\264\330\252\330\255_history.json"
+?? "data/history/\330\263\330\257\331\210\330\261_history.json"
+?? "data/history/\330\263\330\257\331\210\330\261\330\255_history.json"
+?? "data/history/\330\263\330\261\331\210_history.json"
+?? "data/history/\330\263\330\261\331\210\330\257_history.json"
+?? "data/history/\330\263\330\261\331\210\330\257\330\255_history.json"
+?? "data/history/\330\263\330\261\332\206\330\264\331\205\331\207_history.json"
+?? "data/history/\330\263\330\261\332\206\330\264\331\205\331\207\330\255_history.json"
+?? "data/history/\330\263\330\264\330\261\331\202_history.json"
+?? "data/history/\330\263\330\264\330\261\331\202\330\255_history.json"
+?? "data/history/\330\263\330\264\331\205\330\247\331\204_history.json"
+?? "data/history/\330\263\330\264\331\205\330\247\331\204\330\255_history.json"
+?? "data/history/\330\263\330\265\331\201\331\207\330\247_history.json"
+?? "data/history/\330\263\330\265\331\201\331\207\330\247\330\255_history.json"
+?? "data/history/\330\263\330\272\330\261\330\250_history.json"
+?? "data/history/\330\263\330\272\330\261\330\250\330\255_history.json"
+?? "data/history/\330\263\331\201\330\247\330\261_history.json"
+?? "data/history/\330\263\331\201\330\247\330\261\330\255_history.json"
+?? "data/history/\330\263\331\201\330\247\330\261\330\263_history.json"
+?? "data/history/\330\263\331\201\330\247\330\261\330\263\330\255_history.json"
+?? "data/history/\330\263\331\201\330\247\331\206\331\210_history.json"
+?? "data/history/\330\263\331\201\330\247\331\206\331\210\330\255_history.json"
+?? "data/history/\330\263\331\202\330\247\333\214\331\206_history.json"
+?? "data/history/\330\263\331\202\330\247\333\214\331\206\330\255_history.json"
+?? "data/history/\330\263\331\204\330\247\331\205_history.json"
+?? "data/history/\330\263\331\204\333\214\331\205\330\247\331\206_history.json"
+?? "data/history/\330\263\331\204\333\214\331\205\330\247\331\206\330\255_history.json"
+?? "data/history/\330\263\331\205\330\247\330\262\331\206_history.json"
+?? "data/history/\330\263\331\205\330\247\331\206_history.json"
+?? "data/history/\330\263\331\206\333\214\330\261_history.json"
+?? "data/history/\330\263\331\206\333\214\330\261\330\255_history.json"
+?? "data/history/\330\263\331\207\330\247_history.json"
+?? "data/history/\330\263\331\207\330\261\331\205\330\262_history.json"
+?? "data/history/\330\263\331\207\330\261\331\205\330\262\330\255_history.json"
+?? "data/history/\330\263\331\207\332\257\331\205\330\252_history.json"
+?? "data/history/\330\263\331\207\332\257\331\205\330\252\330\255_history.json"
+?? "data/history/\330\263\331\210\331\204\330\247\330\261_history.json"
+?? "data/history/\330\263\331\276_history.json"
+?? "data/history/\330\263\331\276\330\247\331\207\330\247\330\255_history.json"
+?? "data/history/\330\263\331\276\330\255_history.json"
+?? "data/history/\330\263\331\276\330\261_history.json"
+?? "data/history/\330\263\331\276\333\214\330\257 \331\205\330\267\331\207\330\26106_history.json"
+?? "data/history/\330\263\331\276\333\214\330\257_history.json"
+?? "data/history/\330\263\332\251\330\261\330\257_history.json"
+?? "data/history/\330\263\332\251\330\261\330\257\330\255_history.json"
+?? "data/history/\330\263\332\251\330\261\331\205\330\247_history.json"
+?? "data/history/\330\263\333\214\330\252\330\247\330\255_history.json"
+?? "data/history/\330\263\333\214\330\257\332\251\331\210_history.json"
+?? "data/history/\330\263\333\214\330\257\332\251\331\210\330\255_history.json"
+?? "data/history/\330\263\333\214\330\263\330\252\331\205_history.json"
+?? "data/history/\330\263\333\214\331\204\330\247\331\205\330\255_history.json"
+?? "data/history/\330\263\333\214\331\205\330\247\331\206\330\247_history.json"
+?? "data/history/\330\263\333\214\331\205\330\247\331\206\331\210_history.json"
+?? "data/history/\330\264\330\247\330\261\330\247\332\251\330\255_history.json"
+?? "data/history/\330\264\330\247\330\261\331\276\333\214\331\204\331\206\330\255_history.json"
+?? "data/history/\330\264\330\247\331\205\331\204\330\247_history.json"
+?? "data/history/\330\264\330\247\331\205\331\204\330\247\330\255_history.json"
+?? "data/history/\330\264\330\250\330\261\333\214\330\262_history.json"
+?? "data/history/\330\264\330\250\331\206\330\257\330\261_history.json"
+?? "data/history/\330\264\330\250\331\207\330\261\331\206_history.json"
+?? "data/history/\330\264\330\250\331\207\330\261\331\206\330\255_history.json"
+?? "data/history/\330\264\330\252\330\247\330\250_history.json"
+?? "data/history/\330\264\330\252\330\250\330\261\333\214\330\262_history.json"
+?? "data/history/\330\264\330\252\330\261\330\247\331\206_history.json"
+?? "data/history/\330\264\330\256\330\247\330\261\332\251_history.json"
+?? "data/history/\330\264\330\256\330\247\330\261\332\251\330\255_history.json"
+?? "data/history/\330\264\330\257\331\210\330\265_history.json"
+?? "data/history/\330\264\330\257\331\210\330\265\330\255_history.json"
+?? "data/history/\330\264\330\261\330\247\330\262_history.json"
+?? "data/history/\330\264\330\263\330\252\330\247_history.json"
+?? "data/history/\330\264\330\263\331\276\330\247_history.json"
+?? "data/history/\330\264\330\263\333\214\331\206\330\247_history.json"
+?? "data/history/\330\264\331\201\330\247_history.json"
+?? "data/history/\330\264\331\201\330\247\330\261\330\263_history.json"
+?? "data/history/\330\264\331\201\330\247\330\261\330\263\330\255_history.json"
+?? "data/history/\330\264\331\201\331\206_history.json"
+?? "data/history/\330\264\331\201\331\206\330\255_history.json"
+?? "data/history/\330\264\331\204\330\271\330\247\330\250_history.json"
+?? "data/history/\330\264\331\204\330\271\330\247\330\250\330\255_history.json"
+?? "data/history/\330\264\331\205\330\263_history.json"
+?? "data/history/\330\264\331\206\331\201\330\252_history.json"
+?? "data/history/\330\264\331\206\331\201\330\252\330\255_history.json"
+?? "data/history/\330\264\331\207\330\261_history.json"
+?? "data/history/\330\264\331\276\330\247\330\261\330\263_history.json"
+?? "data/history/\330\264\331\276\330\247\330\261\330\263\330\255_history.json"
+?? "data/history/\330\264\331\276\330\257\333\214\330\263_history.json"
+?? "data/history/\330\264\331\276\330\257\333\214\330\263\330\255_history.json"
+?? "data/history/\330\264\331\276\331\205\332\206\330\247_history.json"
+?? "data/history/\330\264\331\276\331\206\330\247_history.json"
+?? "data/history/\330\264\331\276\331\206\330\247\330\255_history.json"
+?? "data/history/\330\264\332\251\330\261\330\250\331\206_history.json"
+?? "data/history/\330\264\332\251\330\261\330\250\331\206\330\255_history.json"
+?? "data/history/\330\264\332\251\331\204\330\261_history.json"
+?? "data/history/\330\264\332\251\331\204\330\261\330\255_history.json"
+?? "data/history/\330\264\332\257\330\263\330\252\330\261_history.json"
+?? "data/history/\330\264\332\257\330\263\330\252\330\261\330\255_history.json"
+?? "data/history/\330\264\332\257\331\204_history.json"
+?? "data/history/\330\264\332\257\331\204\330\255_history.json"
+?? "data/history/\330\264\333\214\330\261\330\247\330\262_history.json"
+?? "data/history/\330\264\333\214\330\261\330\247\330\262\330\255_history.json"
+?? "data/history/\330\265\330\247\331\204\330\25507_history.json"
+?? "data/history/\330\265\330\250\330\247_history.json"
+?? "data/history/\330\265\330\250\330\247\330\255_history.json"
+?? "data/history/\330\265\330\252\330\261\330\247\331\205505_history.json"
+?? "data/history/\330\265\330\255\330\247\331\201\330\270512_history.json"
+?? "data/history/\330\265\330\255\330\247\331\201\330\270809_history.json"
+?? "data/history/\330\265\330\257\331\201_history.json"
+?? "data/history/\330\265\330\261\330\247\330\262\333\214712_history.json"
+?? "data/history/\330\265\330\265\333\214\332\251\331\210081_history.json"
+?? "data/history/\330\265\330\265\333\214\332\251\331\210810_history.json"
+?? "data/history/\330\265\330\265\333\214\332\251\331\21081_history.json"
+?? "data/history/\330\265\331\201\330\247\330\261\330\263008_history.json"
+?? "data/history/\330\265\331\201\330\247\330\261\330\26307_history.json"
+?? "data/history/\330\265\331\201\330\247\330\261\330\263086_history.json"
+?? "data/history/\330\265\331\201\330\247\330\261\330\263730_history.json"
+?? "data/history/\330\265\331\201\330\247\330\261\330\26373_history.json"
+?? "data/history/\330\265\331\201\330\247\330\261\330\2637_history.json"
+?? "data/history/\330\265\331\201\330\247\330\261\330\263840_history.json"
+?? "data/history/\330\265\331\201\330\247\330\261\330\263860_history.json"
+?? "data/history/\330\265\331\201\330\261\331\210\330\263607_history.json"
+?? "data/history/\330\265\331\201\330\261\331\210\330\263670_history.json"
+?? "data/history/\330\265\331\201\331\210\331\204\330\247051_history.json"
+?? "data/history/\330\265\331\201\331\210\331\204\330\24751_history.json"
+?? "data/history/\330\265\331\201\331\210\331\204\330\24752_history.json"
+?? "data/history/\330\265\331\201\331\210\331\204\330\247612_history.json"
+?? "data/history/\330\265\331\206\330\247\333\214\330\271 \330\247\333\214\330\261\330\247\331\20605_history.json"
+?? "data/history/\330\265\331\206\331\207\330\247\331\204_history.json"
+?? "data/history/\330\265\332\251\330\263\330\261\330\247510_history.json"
+?? "data/history/\330\265\332\251\331\210\330\261\330\264505_history.json"
+?? "data/history/\330\265\332\251\331\210\333\214\330\261510_history.json"
+?? "data/history/\330\265\332\257\331\2040509_history.json"
+?? "data/history/\330\266\330\247\330\267\331\204\330\263051102_history.json"
+?? "data/history/\330\266\330\247\330\267\331\204\330\263051103_history.json"
+?? "data/history/\330\266\330\247\330\267\331\204\330\263051109_history.json"
+?? "data/history/\330\266\330\247\330\267\331\204\330\263052500_history.json"
+?? "data/history/\330\266\330\247\330\267\331\204\330\263052503_history.json"
+?? "data/history/\330\266\330\247\330\267\331\204\330\263052504_history.json"
+?? "data/history/\330\266\330\247\330\267\331\204\330\263052509_history.json"
+?? "data/history/\330\266\330\247\330\267\331\204\330\263060900_history.json"
+?? "data/history/\330\266\330\247\330\267\331\204\330\263060901_history.json"
+?? "data/history/\330\266\330\247\330\267\331\204\330\263060906_history.json"
+?? "data/history/\330\266\330\247\330\267\331\204\330\263062200_history.json"
+?? "data/history/\330\266\330\247\330\267\331\204\330\263062201_history.json"
+?? "data/history/\330\266\330\247\330\267\331\204\330\263062203_history.json"
+?? "data/history/\330\266\330\247\330\267\331\204\330\263062206_history.json"
+?? "data/history/\330\266\330\247\330\267\331\204\330\263062209_history.json"
+?? "data/history/\330\266\330\247\330\267\331\204\330\263070503_history.json"
+?? "data/history/\330\266\330\247\330\267\331\204\330\263070504_history.json"
+?? "data/history/\330\266\330\247\330\267\331\204\330\263070508_history.json"
+?? "data/history/\330\266\330\247\330\267\331\204\330\263070510_history.json"
+?? "data/history/\330\266\330\247\330\267\331\204\330\263071900_history.json"
+?? "data/history/\330\266\330\247\330\267\331\204\330\263071904_history.json"
+?? "data/history/\330\266\330\247\330\267\331\204\330\263071906_history.json"
+?? "data/history/\330\266\330\247\330\267\331\204\330\263071910_history.json"
+?? "data/history/\330\266\330\250\330\263\330\247\331\205\330\247722_history.json"
+?? "data/history/\330\266\330\250\330\263\330\247\331\205\330\247724_history.json"
+?? "data/history/\330\266\330\250\330\263\330\247\331\205\330\247728_history.json"
+?? "data/history/\330\266\330\250\330\263\330\247\331\205\330\247731_history.json"
+?? "data/history/\330\266\330\252\330\247\330\2657005_history.json"
+?? "data/history/\330\266\330\252\330\247\330\2657008_history.json"
+?? "data/history/\330\266\330\252\330\247\330\2659018_history.json"
+?? "data/history/\330\266\330\252\330\247\330\2659020_history.json"
+?? "data/history/\330\266\330\252\331\210\330\247\331\206514_history.json"
+?? "data/history/\330\266\330\252\331\210\330\247\331\206516_history.json"
+?? "data/history/\330\266\330\252\331\210\330\247\331\206517_history.json"
+?? "data/history/\330\266\330\252\331\210\330\247\331\206520_history.json"
+?? "data/history/\330\266\330\252\331\210\330\247\331\206521_history.json"
+?? "data/history/\330\266\330\252\331\210\330\247\331\206522_history.json"
+?? "data/history/\330\266\330\252\331\210\330\247\331\206524_history.json"
+?? "data/history/\330\266\330\252\331\210\330\247\331\206526_history.json"
+?? "data/history/\330\266\330\252\331\210\330\247\331\206527_history.json"
+?? "data/history/\330\266\330\252\331\210\330\247\331\206529_history.json"
+?? "data/history/\330\266\330\252\331\210\330\247\331\206626_history.json"
+?? "data/history/\330\266\330\252\331\210\330\247\331\206629_history.json"
+?? "data/history/\330\266\330\252\331\210\330\247\331\206631_history.json"
+?? "data/history/\330\266\330\252\331\210\330\247\331\206634_history.json"
+?? "data/history/\330\266\330\252\331\210\330\247\331\206636_history.json"
+?? "data/history/\330\266\330\252\331\210\330\247\331\206638_history.json"
+?? "data/history/\330\266\330\252\331\210\330\247\331\206735_history.json"
+?? "data/history/\330\266\330\254\330\247\330\2616042_history.json"
+?? "data/history/\330\266\330\254\330\247\330\2616045_history.json"
+?? "data/history/\330\266\330\254\330\247\330\2618025_history.json"
+?? "data/history/\330\266\330\254\330\247\330\2618030_history.json"
+?? "data/history/\330\266\330\254\331\210\330\2476005_history.json"
+?? "data/history/\330\266\330\254\331\210\330\2476011_history.json"
+?? "data/history/\330\266\330\254\331\210\330\2478000_history.json"
+?? "data/history/\330\266\330\254\331\210\330\2478008_history.json"
+?? "data/history/\330\266\330\256\331\210\330\2576046_history.json"
+?? "data/history/\330\266\330\256\331\210\330\2576047_history.json"
+?? "data/history/\330\266\330\256\331\210\330\2576048_history.json"
+?? "data/history/\330\266\330\256\331\210\330\2576052_history.json"
+?? "data/history/\330\266\330\256\331\210\330\2576056_history.json"
+?? "data/history/\330\266\330\256\331\210\330\2577137_history.json"
+?? "data/history/\330\266\330\256\331\210\330\2577138_history.json"
+?? "data/history/\330\266\330\256\331\210\330\2578053_history.json"
+?? "data/history/\330\266\330\256\331\210\330\2578054_history.json"
+?? "data/history/\330\266\330\256\331\210\330\2578061_history.json"
+?? "data/history/\330\266\330\260\331\210\330\2505020_history.json"
+?? "data/history/\330\266\330\260\331\210\330\2505024_history.json"
+?? "data/history/\330\266\330\260\331\210\330\2505026_history.json"
+?? "data/history/\330\266\330\260\331\210\330\2505028_history.json"
+?? "data/history/\330\266\330\260\331\210\330\2506009_history.json"
+?? "data/history/\330\266\330\260\331\210\330\2506015_history.json"
+?? "data/history/\330\266\330\260\331\210\330\2506016_history.json"
+?? "data/history/\330\266\330\260\331\210\330\2506021_history.json"
+?? "data/history/\330\266\330\260\331\210\330\2507037_history.json"
+?? "data/history/\330\266\330\260\331\210\330\2507042_history.json"
+?? "data/history/\330\266\330\260\331\210\330\2508021_history.json"
+?? "data/history/\330\266\330\260\331\210\330\2508025_history.json"
+?? "data/history/\330\266\330\260\331\210\330\2508030_history.json"
+?? "data/history/\330\266\330\261\330\247\330\2621009_history.json"
+?? "data/history/\330\266\330\261\330\247\330\2626009_history.json"
+?? "data/history/\330\266\330\261\330\247\330\2626011_history.json"
+?? "data/history/\330\266\330\261\330\247\330\2628000_history.json"
+?? "data/history/\330\266\330\261\330\247\330\2628005_history.json"
+?? "data/history/\330\266\330\261\330\247\330\2628008_history.json"
+?? "data/history/\330\266\330\263\330\252\330\2476041_history.json"
+?? "data/history/\330\266\330\263\330\252\330\2476043_history.json"
+?? "data/history/\330\266\330\263\330\252\330\2476044_history.json"
+?? "data/history/\330\266\330\263\330\252\330\2476049_history.json"
+?? "data/history/\330\266\330\263\330\252\330\2476053_history.json"
+?? "data/history/\330\266\330\263\330\252\330\2477052_history.json"
+?? "data/history/\330\266\330\263\330\252\330\2477053_history.json"
+?? "data/history/\330\266\330\263\330\252\330\2477055_history.json"
+?? "data/history/\330\266\330\263\330\252\330\2477057_history.json"
+?? "data/history/\330\266\330\263\330\252\330\2477060_history.json"
+?? "data/history/\330\266\330\263\330\252\330\2478049_history.json"
+?? "data/history/\330\266\330\263\330\252\330\2478059_history.json"
+?? "data/history/\330\266\330\263\331\276\330\2475022_history.json"
+?? "data/history/\330\266\330\263\331\276\330\2475030_history.json"
+?? "data/history/\330\266\330\263\331\276\330\2476042_history.json"
+?? "data/history/\330\266\330\263\331\276\330\2476044_history.json"
+?? "data/history/\330\266\330\263\331\276\330\2477021_history.json"
+?? "data/history/\330\266\330\263\331\276\330\2477027_history.json"
+?? "data/history/\330\266\330\264\331\206\330\2476036_history.json"
+?? "data/history/\330\266\330\264\331\206\330\2476037_history.json"
+?? "data/history/\330\266\330\264\331\206\330\2476039_history.json"
+?? "data/history/\330\266\330\264\331\206\330\2476040_history.json"
+?? "data/history/\330\266\330\264\331\206\330\2476044_history.json"
+?? "data/history/\330\266\330\264\331\206\330\2476049_history.json"
+?? "data/history/\330\266\330\264\331\206\330\2478056_history.json"
+?? "data/history/\330\266\330\264\331\206\330\2478057_history.json"
+?? "data/history/\330\266\330\264\331\206\330\2478058_history.json"
+?? "data/history/\330\266\330\264\331\206\330\2478061_history.json"
+?? "data/history/\330\266\330\264\331\206\330\2478064_history.json"
+?? "data/history/\330\266\330\264\331\206\330\2478066_history.json"
+?? "data/history/\330\266\330\265\330\247\330\2575021_history.json"
+?? "data/history/\330\266\330\265\330\247\330\2575029_history.json"
+?? "data/history/\330\266\330\265\330\247\330\2575031_history.json"
+?? "data/history/\330\266\330\265\330\247\330\2575033_history.json"
+?? "data/history/\330\266\330\265\330\247\330\2577036_history.json"
+?? "data/history/\330\266\330\265\330\247\330\2577044_history.json"
+?? "data/history/\330\266\330\265\330\247\330\2579040_history.json"
+?? "data/history/\330\266\330\265\330\247\330\2579043_history.json"
+?? "data/history/\330\266\330\267\330\271\330\247\331\205600_history.json"
+?? "data/history/\330\266\330\267\330\271\330\247\331\205805_history.json"
+?? "data/history/\330\266\331\201\330\261\330\247\330\250\331\210\330\261\330\263702_history.json"
+?? "data/history/\330\266\331\201\330\261\330\247\330\250\331\210\330\261\330\263704_history.json"
+?? "data/history/\330\266\331\201\330\261\330\247\330\250\331\210\330\261\330\263708_history.json"
+?? "data/history/\330\266\331\201\330\261\330\247\330\250\331\210\330\261\330\263925_history.json"
+?? "data/history/\330\266\331\201\330\261\330\247\330\250\331\210\330\261\330\263929_history.json"
+?? "data/history/\330\266\331\201\330\261\330\247\330\250\331\210\330\261\330\263931_history.json"
+?? "data/history/\330\266\331\201\330\262\330\261503_history.json"
+?? "data/history/\330\266\331\201\330\262\330\261506_history.json"
+?? "data/history/\330\266\331\201\330\262\330\261614_history.json"
+?? "data/history/\330\266\331\201\330\262\330\261622_history.json"
+?? "data/history/\330\266\331\201\330\262\330\261624_history.json"
+?? "data/history/\330\266\331\201\330\262\330\261716_history.json"
+?? "data/history/\330\266\331\205\330\247\331\206_history.json"
+?? "data/history/\330\266\331\205\330\256\330\2475011_history.json"
+?? "data/history/\330\266\331\205\330\256\330\2475021_history.json"
+?? "data/history/\330\266\331\205\330\256\330\2477091_history.json"
+?? "data/history/\330\266\331\205\330\256\330\2477097_history.json"
+?? "data/history/\330\266\331\205\330\256\330\2477103_history.json"
+?? "data/history/\330\266\331\205\330\256\330\2477105_history.json"
+?? "data/history/\330\266\331\205\330\256\330\2479014_history.json"
+?? "data/history/\330\266\331\205\330\256\330\2479015_history.json"
+?? "data/history/\330\266\331\205\330\256\330\2479020_history.json"
+?? "data/history/\330\266\331\205\330\256\330\2479022_history.json"
+?? "data/history/\330\266\331\205\330\256\330\2479023_history.json"
+?? "data/history/\330\266\331\205\331\204\330\2525025_history.json"
+?? "data/history/\330\266\331\205\331\204\330\2525027_history.json"
+?? "data/history/\330\266\331\205\331\204\330\2525028_history.json"
+?? "data/history/\330\266\331\205\331\204\330\2525032_history.json"
+?? "data/history/\330\266\331\205\331\204\330\2526021_history.json"
+?? "data/history/\330\266\331\205\331\204\330\2527040_history.json"
+?? "data/history/\330\266\331\205\331\204\330\2527048_history.json"
+?? "data/history/\330\266\331\205\331\204\330\2528078_history.json"
+?? "data/history/\330\266\331\205\331\204\330\2528079_history.json"
+?? "data/history/\330\266\331\205\331\204\333\2147072_history.json"
+?? "data/history/\330\266\331\205\331\204\333\2149034_history.json"
+?? "data/history/\330\266\331\205\331\210\330\254514_history.json"
+?? "data/history/\330\266\331\205\331\210\330\254517_history.json"
+?? "data/history/\330\266\331\205\331\210\330\254518_history.json"
+?? "data/history/\330\266\331\205\331\210\330\254522_history.json"
+?? "data/history/\330\266\331\205\331\210\330\254524_history.json"
+?? "data/history/\330\266\331\205\331\210\330\254525_history.json"
+?? "data/history/\330\266\331\205\331\210\330\254527_history.json"
+?? "data/history/\330\266\331\205\331\210\330\254637_history.json"
+?? "data/history/\330\266\331\205\331\210\330\254639_history.json"
+?? "data/history/\330\266\331\205\331\210\330\254644_history.json"
+?? "data/history/\330\266\331\205\331\210\330\254648_history.json"
+?? "data/history/\330\266\331\205\331\210\330\254652_history.json"
+?? "data/history/\330\266\331\205\331\210\330\254723_history.json"
+?? "data/history/\330\266\331\205\331\210\330\254844_history.json"
+?? "data/history/\330\266\331\207\330\261\331\2055025_history.json"
+?? "data/history/\330\266\331\207\330\261\331\2055031_history.json"
+?? "data/history/\330\266\331\207\330\261\331\2056041_history.json"
+?? "data/history/\330\266\331\207\330\261\331\2056043_history.json"
+?? "data/history/\330\266\331\207\330\261\331\2057052_history.json"
+?? "data/history/\330\266\331\207\331\205\331\2065025_history.json"
+?? "data/history/\330\266\331\207\331\205\331\2065026_history.json"
+?? "data/history/\330\266\331\207\331\205\331\2065028_history.json"
+?? "data/history/\330\266\331\207\331\205\331\2065033_history.json"
+?? "data/history/\330\266\331\207\331\205\331\2067027_history.json"
+?? "data/history/\330\266\331\207\331\205\331\2067034_history.json"
+?? "data/history/\330\266\331\207\331\205\331\2067039_history.json"
+?? "data/history/\330\266\331\207\331\205\331\2069026_history.json"
+?? "data/history/\330\267\330\250\333\214\330\271\330\252061_history.json"
+?? "data/history/\330\267\330\250\333\214\330\271\330\252064_history.json"
+?? "data/history/\330\267\330\250\333\214\330\271\330\252067_history.json"
+?? "data/history/\330\267\330\250\333\214\330\271\330\252076_history.json"
+?? "data/history/\330\267\330\271\330\247\331\205_history.json"
+?? "data/history/\330\267\331\204\331\210\330\271_history.json"
+?? "data/history/\330\267\333\214\331\210\330\261_history.json"
+?? "data/history/\330\270\330\250\331\207\331\205\331\20655_history.json"
+?? "data/history/\330\270\330\250\331\207\331\205\331\20656_history.json"
+?? "data/history/\330\270\330\252\330\254\330\247\330\26155_history.json"
+?? "data/history/\330\270\330\255\330\263\333\214\330\2610511_history.json"
+?? "data/history/\330\270\330\256\330\247\330\250\330\26155_history.json"
+?? "data/history/\330\270\330\256\330\247\331\210\330\2610604_history.json"
+?? "data/history/\330\270\330\256\331\210\330\25756_history.json"
+?? "data/history/\330\270\330\257\331\201\330\247\330\261\330\24764_history.json"
+?? "data/history/\330\270\330\260\331\210\330\25055_history.json"
+?? "data/history/\330\270\330\263\330\247\331\276\330\247056_history.json"
+?? "data/history/\330\270\330\263\330\247\331\276\330\247505_history.json"
+?? "data/history/\330\270\330\263\331\276509_history.json"
+?? "data/history/\330\270\330\265\331\206\330\25755_history.json"
+?? "data/history/\330\270\330\272\332\257\331\20455_history.json"
+?? "data/history/\330\270\331\205\330\271\330\247\330\257504_history.json"
+?? "data/history/\330\270\331\205\331\204\330\25255_history.json"
+?? "data/history/\330\270\331\205\331\276\331\206\330\24755_history.json"
+?? "data/history/\330\270\331\206\331\210\333\214\331\20656_history.json"
+?? "data/history/\330\270\331\207\330\261\331\205\330\2620509_history.json"
+?? "data/history/\330\270\331\207\330\261\331\205\330\2620603_history.json"
+?? "data/history/\330\270\331\276\330\247\330\261\330\26356_history.json"
+?? "data/history/\330\270\331\276\330\263\330\25255_history.json"
+?? "data/history/\330\270\332\251\330\264\331\210510_history.json"
+?? "data/history/\330\270\332\257\330\263\330\252\330\26156_history.json"
+?? "data/history/\330\271\330\247\331\205\330\26106_history.json"
+?? "data/history/\330\271\331\202\333\214\331\202_history.json"
+?? "data/history/\330\271\331\205\330\247\330\261\330\252 \330\257\333\214_history.json"
+?? "data/history/\330\272\330\247\330\260\330\261_history.json"
+?? "data/history/\330\272\330\247\330\260\330\261\330\255_history.json"
+?? "data/history/\330\272\330\247\331\204\330\250\330\261_history.json"
+?? "data/history/\330\272\330\247\331\204\330\250\330\261\330\255_history.json"
+?? "data/history/\330\272\330\247\331\206\333\214\330\262\330\247\331\206_history.json"
+?? "data/history/\330\272\330\247\331\206\333\214\330\262\330\247\331\206\330\255_history.json"
+?? "data/history/\330\272\330\250\330\264\331\207\330\261_history.json"
+?? "data/history/\330\272\330\250\330\264\331\207\330\261\330\255_history.json"
+?? "data/history/\330\272\330\250\331\207\331\206\331\210\330\264_history.json"
+?? "data/history/\330\272\330\250\331\207\331\206\331\210\330\264\330\255_history.json"
+?? "data/history/\330\272\330\257\330\247\331\205_history.json"
+?? "data/history/\330\272\330\257\330\247\331\205\330\255_history.json"
+?? "data/history/\330\272\330\257\330\264\330\252_history.json"
+?? "data/history/\330\272\330\257\330\264\330\252\330\255_history.json"
+?? "data/history/\330\272\330\262\330\261_history.json"
+?? "data/history/\330\272\330\262\331\206\330\254\330\247\331\206_history.json"
+?? "data/history/\330\272\330\263\330\247\331\204\331\205_history.json"
+?? "data/history/\330\272\330\263\330\247\331\204\331\205\330\255_history.json"
+?? "data/history/\330\272\330\264\330\247\330\260\330\261_history.json"
+?? "data/history/\330\272\330\264\330\247\330\260\330\261\330\255_history.json"
+?? "data/history/\330\272\330\264\330\247\331\206_history.json"
+?? "data/history/\330\272\330\264\330\247\331\206\330\255_history.json"
+?? "data/history/\330\272\330\264\330\265\331\201\330\247_history.json"
+?? "data/history/\330\272\330\264\330\265\331\201\330\247\330\255_history.json"
+?? "data/history/\330\272\330\264\331\207\330\257_history.json"
+?? "data/history/\330\272\331\205\331\207\330\261\330\247_history.json"
+?? "data/history/\330\272\331\205\331\207\330\261\330\247\330\255_history.json"
+?? "data/history/\330\272\331\206\331\210\330\264_history.json"
+?? "data/history/\330\272\331\206\331\210\330\264\330\255_history.json"
+?? "data/history/\330\272\332\251\331\210\330\261\330\264_history.json"
+?? "data/history/\330\272\332\257\330\261\330\254\333\214\330\255_history.json"
+?? "data/history/\330\272\332\257\331\204_history.json"
+?? "data/history/\330\272\332\257\331\204\330\255_history.json"
+?? "data/history/\331\201\330\247\330\260\330\261_history.json"
+?? "data/history/\331\201\330\247\330\260\330\261\330\255_history.json"
+?? "data/history/\331\201\330\247\330\261\330\247\332\251_history.json"
+?? "data/history/\331\201\330\247\330\261\330\247\332\251\330\255_history.json"
+?? "data/history/\331\201\330\247\330\261\330\263_history.json"
+?? "data/history/\331\201\330\247\330\261\331\205\330\247\331\206\333\214_history.json"
+?? "data/history/\331\201\330\247\331\205\330\247_history.json"
+?? "data/history/\331\201\330\247\331\205\330\247\330\255_history.json"
+?? "data/history/\331\201\330\247\333\214\330\261\330\247_history.json"
+?? "data/history/\331\201\330\247\333\214\330\261\330\247\330\255_history.json"
+?? "data/history/\331\201\330\250\330\247\331\207\331\206\330\261_history.json"
+?? "data/history/\331\201\330\250\330\247\331\207\331\206\330\261\330\255_history.json"
+?? "data/history/\331\201\330\250\333\214\330\263\330\252\331\210\331\206_history.json"
+?? "data/history/\331\201\330\254\330\247\331\205_history.json"
+?? "data/history/\331\201\330\254\330\247\331\205\330\255_history.json"
+?? "data/history/\331\201\330\254\330\261_history.json"
+?? "data/history/\331\201\330\254\330\261\330\255_history.json"
+?? "data/history/\331\201\330\256\330\247\330\263_history.json"
+?? "data/history/\331\201\330\256\330\247\330\263\330\255_history.json"
+?? "data/history/\331\201\330\256\331\210\330\262_history.json"
+?? "data/history/\331\201\330\256\331\210\330\262\330\255_history.json"
+?? "data/history/\331\201\330\261\330\242\331\210\330\261_history.json"
+?? "data/history/\331\201\330\261\330\242\331\210\330\261\330\255_history.json"
+?? "data/history/\331\201\330\261\330\247\330\267\330\261\330\255061_history.json"
+?? "data/history/\331\201\330\261\330\247\330\267\330\261\330\255062_history.json"
+?? "data/history/\331\201\330\261\330\257\330\247_history.json"
+?? "data/history/\331\201\330\261\330\257\331\210\330\263_history.json"
+?? "data/history/\331\201\330\261\330\265\330\252_history.json"
+?? "data/history/\331\201\330\261\331\210\330\263_history.json"
+?? "data/history/\331\201\330\261\331\210\330\263\330\255_history.json"
+?? "data/history/\331\201\330\261\331\210\332\230_history.json"
+?? "data/history/\331\201\330\263\330\247\330\262\330\247\331\206_history.json"
+?? "data/history/\331\201\330\263\330\247\330\262\330\247\331\206\330\255_history.json"
+?? "data/history/\331\201\330\263\330\250\330\262\331\210\330\247\330\261_history.json"
+?? "data/history/\331\201\330\263\330\261\330\250_history.json"
+?? "data/history/\331\201\330\263\330\261\330\250\330\255_history.json"
+?? "data/history/\331\201\330\263\331\210\332\230_history.json"
+?? "data/history/\331\201\330\263\331\276\330\247_history.json"
+?? "data/history/\331\201\330\263\331\276\330\247\330\255_history.json"
+?? "data/history/\331\201\330\263\333\214\332\251\331\210_history.json"
+?? "data/history/\331\201\331\204\330\247\331\205\333\214_history.json"
+?? "data/history/\331\201\331\204\330\247\331\205\333\214\330\255_history.json"
+?? "data/history/\331\201\331\204\331\210\331\204\331\207_history.json"
+?? "data/history/\331\201\331\204\331\210\331\204\331\207\330\255_history.json"
+?? "data/history/\331\201\331\205\330\261\330\247\330\257_history.json"
+?? "data/history/\331\201\331\205\330\261\330\247\330\257\330\255_history.json"
+?? "data/history/\331\201\331\205\331\204\333\214_history.json"
+?? "data/history/\331\201\331\206\331\210\330\247\331\204_history.json"
+?? "data/history/\331\201\331\206\331\210\330\247\331\204\330\255_history.json"
+?? "data/history/\331\201\331\206\331\210\330\261\330\257_history.json"
+?? "data/history/\331\201\331\206\331\210\330\261\330\257\330\255_history.json"
+?? "data/history/\331\201\331\207\330\247\331\205\331\210\331\206_history.json"
+?? "data/history/\331\201\331\210\331\204\330\247\330\257\330\255_history.json"
+?? "data/history/\331\201\331\210\331\204\330\247\332\230_history.json"
+?? "data/history/\331\201\331\210\331\204\330\247\332\230\330\255_history.json"
+?? "data/history/\331\201\331\276\331\206\330\252\330\247\330\255_history.json"
+?? "data/history/\331\201\331\276\331\210\330\264\330\264_history.json"
+?? "data/history/\331\201\333\214\330\261\331\210\330\262\331\207_history.json"
+?? "data/history/\331\202\330\253\330\247\330\250\330\252_history.json"
+?? "data/history/\331\202\330\253\330\247\330\250\330\252\330\255_history.json"
+?? "data/history/\331\202\330\261\331\206_history.json"
+?? "data/history/\331\202\330\261\331\206\330\255_history.json"
+?? "data/history/\331\202\330\262\331\210\333\214\331\206\330\255_history.json"
+?? "data/history/\331\202\330\264\331\207\330\257_history.json"
+?? "data/history/\331\202\330\264\332\251\330\261_history.json"
+?? "data/history/\331\202\330\265\331\201\331\207\330\247_history.json"
+?? "data/history/\331\202\330\265\331\201\331\207\330\247\330\255_history.json"
+?? "data/history/\331\202\330\267\330\261\330\247\331\206_history.json"
+?? "data/history/\331\202\331\204\330\261\330\263\330\252_history.json"
+?? "data/history/\331\202\331\204\330\261\330\263\330\252\330\255_history.json"
+?? "data/history/\331\202\331\205\330\261\331\210_history.json"
+?? "data/history/\331\202\331\205\330\261\331\210\330\255_history.json"
+?? "data/history/\331\202\331\206\333\214\330\264\330\247_history.json"
+?? "data/history/\331\202\331\206\333\214\330\264\330\247\330\255_history.json"
+?? "data/history/\331\202\331\207\332\251\331\205\330\252\330\255_history.json"
+?? "data/history/\331\202\331\276\333\214\330\261\330\247_history.json"
+?? "data/history/\331\202\331\276\333\214\330\261\330\247\330\255_history.json"
+?? "data/history/\331\204\330\247\330\250\330\263\330\247_history.json"
+?? "data/history/\331\204\330\247\330\250\330\263\330\247\330\255_history.json"
+?? "data/history/\331\204\330\250\331\206_history.json"
+?? "data/history/\331\204\330\250\331\210\330\252\330\247\331\206_history.json"
+?? "data/history/\331\204\330\250\331\210\330\252\330\247\331\206\330\255_history.json"
+?? "data/history/\331\204\330\256\330\262\330\261_history.json"
+?? "data/history/\331\204\330\256\330\262\330\261\330\255_history.json"
+?? "data/history/\331\204\330\263\330\261\331\205\330\247\330\255_history.json"
+?? "data/history/\331\204\330\267\333\214\331\201_history.json"
+?? "data/history/\331\204\331\210\330\252\331\210\330\263_history.json"
+?? "data/history/\331\204\331\210\330\252\331\210\330\263\330\255_history.json"
+?? "data/history/\331\204\331\210\330\261\332\20608_history.json"
+?? "data/history/\331\204\331\276\330\247\330\261\330\263_history.json"
+?? "data/history/\331\204\331\276\330\247\330\261\330\263\330\255_history.json"
+?? "data/history/\331\205\330\247_history.json"
+?? "data/history/\331\205\330\247\330\255_history.json"
+?? "data/history/\331\205\330\247\331\206\330\247_history.json"
+?? "data/history/\331\205\330\247\331\206\333\214_history.json"
+?? "data/history/\331\205\330\247\331\207\331\210\330\261_history.json"
+?? "data/history/\331\205\330\252\330\247\331\204_history.json"
+?? "data/history/\331\205\330\255\330\252\330\264\331\205_history.json"
+?? "data/history/\331\205\330\256\330\252\331\204\330\267_history.json"
+?? "data/history/\331\205\330\257\330\247\330\261_history.json"
+?? "data/history/\331\205\330\257\330\247\330\261\330\247\331\206_history.json"
+?? "data/history/\331\205\330\257\330\247\330\261\330\247\331\206\330\255_history.json"
+?? "data/history/\331\205\330\262\331\207_history.json"
+?? "data/history/\331\205\330\267\331\207\330\26106_history.json"
+?? "data/history/\331\205\330\270\331\206\331\207 \330\264\331\207\330\26110_history.json"
+?? "data/history/\331\205\330\270\331\206\331\207 \330\264\331\207\330\2611_history.json"
+?? "data/history/\331\205\330\270\331\206\331\207 \330\264\331\207\330\2612_history.json"
+?? "data/history/\331\205\330\270\331\206\331\207 \330\264\331\207\330\2613_history.json"
+?? "data/history/\331\205\330\270\331\206\331\207 \330\264\331\207\330\2614_history.json"
+?? "data/history/\331\205\330\270\331\206\331\207 \330\264\331\207\330\2615_history.json"
+?? "data/history/\331\205\330\270\331\206\331\207 \330\264\331\207\330\2616_history.json"
+?? "data/history/\331\205\330\270\331\206\331\207 \330\264\331\207\330\2617_history.json"
+?? "data/history/\331\205\330\270\331\206\331\207 \330\264\331\207\330\2618_history.json"
+?? "data/history/\331\205\330\270\331\206\331\207 \330\264\331\207\330\2619_history.json"
+?? "data/history/\331\205\330\270\331\206\331\20710_history.json"
+?? "data/history/\331\205\330\270\331\206\331\2071_history.json"
+?? "data/history/\331\205\330\270\331\206\331\2072_history.json"
+?? "data/history/\331\205\330\270\331\206\331\2073_history.json"
+?? "data/history/\331\205\330\270\331\206\331\2074_history.json"
+?? "data/history/\331\205\330\270\331\206\331\2075_history.json"
+?? "data/history/\331\205\330\270\331\206\331\2076_history.json"
+?? "data/history/\331\205\330\270\331\206\331\2077_history.json"
+?? "data/history/\331\205\330\270\331\206\331\2078_history.json"
+?? "data/history/\331\205\330\270\331\206\331\2079_history.json"
+?? "data/history/\331\205\330\270\331\206\331\207_history.json"
+?? "data/history/\331\205\330\271\330\257\331\206_history.json"
+?? "data/history/\331\205\331\201\330\247\330\256\330\261_history.json"
+?? "data/history/\331\205\331\204\330\252_history.json"
+?? "data/history/\331\205\331\204\330\252\330\255_history.json"
+?? "data/history/\331\205\331\207\330\261\332\257\330\247\331\206_history.json"
+?? "data/history/\331\205\333\214\330\257\332\251\331\210_history.json"
+?? "data/history/\331\205\333\214\330\257\332\251\331\210\330\255_history.json"
+?? "data/history/\331\206\330\247\330\261\333\214\331\206_history.json"
+?? "data/history/\331\206\330\247\331\205\330\247_history.json"
+?? "data/history/\331\206\330\247\331\205\330\247\330\255_history.json"
+?? "data/history/\331\206\330\247\331\206_history.json"
+?? "data/history/\331\206\330\247\331\206\331\210 \330\257\330\247\330\261\331\21008_history.json"
+?? "data/history/\331\206\331\205\330\247\330\257_history.json"
+?? "data/history/\331\206\331\205\330\261\333\214\331\206\331\210_history.json"
+?? "data/history/\331\206\331\210\330\261\333\214_history.json"
+?? "data/history/\331\206\333\214\330\261\331\210\330\247\331\206\330\247_history.json"
+?? "data/history/\331\207\330\247\331\205\330\261\330\262_history.json"
+?? "data/history/\331\207\330\247\331\206\330\247_history.json"
+?? "data/history/\331\207\330\247\333\214 \331\210\330\250_history.json"
+?? "data/history/\331\207\331\205 \330\252\330\261\330\247\330\262_history.json"
+?? "data/history/\331\207\331\205\330\252\330\247_history.json"
+?? "data/history/\331\207\331\205\330\261\330\247\331\207_history.json"
+?? "data/history/\331\207\331\205\330\261\330\247\331\207\330\255_history.json"
+?? "data/history/\331\207\331\210\330\264\331\205\331\206\330\257_history.json"
+?? "data/history/\331\210\330\242\330\260\330\261_history.json"
+?? "data/history/\331\210\330\242\330\260\330\261\330\255_history.json"
+?? "data/history/\331\210\330\247\330\252\333\214_history.json"
+?? "data/history/\331\210\330\247\330\252\333\214\330\255_history.json"
+?? "data/history/\331\210\330\247\330\271\330\252\330\250\330\247\330\261_history.json"
+?? "data/history/\331\210\330\247\330\271\330\252\330\250\330\247\330\261\330\255_history.json"
+?? "data/history/\331\210\330\247\331\204\330\250\330\261_history.json"
+?? "data/history/\331\210\330\247\331\204\330\250\330\261\330\255_history.json"
+?? "data/history/\331\210\330\247\331\205\333\214\330\257_history.json"
+?? "data/history/\331\210\330\247\331\205\333\214\330\257\330\255_history.json"
+?? "data/history/\331\210\330\250\330\247\330\262\330\247\330\261_history.json"
+?? "data/history/\331\210\330\250\330\247\331\206\332\251_history.json"
+?? "data/history/\331\210\330\250\330\264\331\207\330\261_history.json"
+?? "data/history/\331\210\330\250\330\264\331\207\330\261\330\255_history.json"
+?? "data/history/\331\210\330\250\330\265\330\247\330\257\330\261_history.json"
+?? "data/history/\331\210\330\250\331\205\331\204\330\252_history.json"
+?? "data/history/\331\210\330\250\331\205\331\204\330\252\330\255_history.json"
+?? "data/history/\331\210\330\250\331\207\331\205\331\206_history.json"
+?? "data/history/\331\210\330\250\331\207\331\205\331\206\330\255_history.json"
+?? "data/history/\331\210\330\250\331\210\330\271\331\204\333\214_history.json"
+?? "data/history/\331\210\330\250\333\214\331\205\331\207\330\255_history.json"
+?? "data/history/\331\210\330\252\330\254\330\247\330\261\330\252_history.json"
+?? "data/history/\331\210\330\252\330\254\330\247\330\261\330\252\330\255_history.json"
+?? "data/history/\331\210\330\252\331\210\330\263_history.json"
+?? "data/history/\331\210\330\252\331\210\330\263\330\255_history.json"
+?? "data/history/\331\210\330\252\331\210\330\263\331\205_history.json"
+?? "data/history/\331\210\330\252\331\210\330\263\331\205\330\255_history.json"
+?? "data/history/\331\210\330\252\331\210\330\264\331\207_history.json"
+?? "data/history/\331\210\330\252\331\210\330\264\331\207\330\255_history.json"
+?? "data/history/\331\210\330\252\331\210\330\265\330\247_history.json"
+?? "data/history/\331\210\330\252\331\210\330\265\330\247\330\255_history.json"
+?? "data/history/\331\210\330\252\331\210\332\251\330\247_history.json"
+?? "data/history/\331\210\330\252\331\210\332\251\330\247\330\255_history.json"
+?? "data/history/\331\210\330\256\330\247\330\261\330\262\331\205_history.json"
+?? "data/history/\331\210\330\256\330\247\330\261\330\262\331\205\330\255_history.json"
+?? "data/history/\331\210\330\256\330\247\331\210\330\261_history.json"
+?? "data/history/\331\210\330\256\330\247\331\210\330\261\330\255_history.json"
+?? "data/history/\331\210\330\261\331\206\330\247_history.json"
+?? "data/history/\331\210\330\261\331\206\330\247\330\255_history.json"
+?? "data/history/\331\210\330\263\330\247\330\256\330\252_history.json"
+?? "data/history/\331\210\330\263\330\247\330\256\330\252\330\255_history.json"
+?? "data/history/\331\210\330\263\330\247\330\264\330\261\331\202\333\214_history.json"
+?? "data/history/\331\210\330\263\330\247\331\276\330\247_history.json"
+?? "data/history/\331\210\330\263\330\247\331\276\330\247\330\255_history.json"
+?? "data/history/\331\210\330\263\330\250\331\210\330\264\331\207\330\261_history.json"
+?? "data/history/\331\210\330\263\330\252\331\207\330\261\330\247\331\206_history.json"
+?? "data/history/\331\210\330\263\330\256\330\261\330\247\330\254_history.json"
+?? "data/history/\331\210\330\263\330\256\330\261\330\247\330\264_history.json"
+?? "data/history/\331\210\330\263\330\256\331\210\330\262_history.json"
+?? "data/history/\331\210\330\263\330\262\331\206\330\254\330\247\331\206_history.json"
+?? "data/history/\331\210\330\263\330\265\331\201\330\247_history.json"
+?? "data/history/\331\210\330\263\331\201\330\247\330\261\330\263_history.json"
+?? "data/history/\331\210\330\263\331\202\330\262\331\210\333\214\331\206_history.json"
+?? "data/history/\331\210\330\263\331\202\331\205_history.json"
+?? "data/history/\331\210\330\263\331\204\330\261\330\263\330\252\330\247_history.json"
+?? "data/history/\331\210\330\263\331\205\330\247\330\262\331\206_history.json"
+?? "data/history/\331\210\330\263\331\205\330\255\330\247\331\204_history.json"
+?? "data/history/\331\210\330\263\331\205\330\261\332\251\330\262_history.json"
+?? "data/history/\331\210\330\263\331\205\331\206\330\247\331\206_history.json"
+?? "data/history/\331\210\330\263\331\207\330\261\331\205\330\262_history.json"
+?? "data/history/\331\210\330\263\331\207\331\205\330\257\330\247_history.json"
+?? "data/history/\331\210\330\263\331\276\331\207_history.json"
+?? "data/history/\331\210\330\263\331\276\331\207\330\255_history.json"
+?? "data/history/\331\210\330\263\332\251\330\261\330\257_history.json"
+?? "data/history/\331\210\330\263\332\251\330\261\330\264\330\247_history.json"
+?? "data/history/\331\210\330\263\332\251\330\261\331\205\330\247\331\206_history.json"
+?? "data/history/\331\210\330\263\332\251\331\207\330\250\331\210_history.json"
+?? "data/history/\331\210\330\263\332\257\331\204\330\263\330\252\330\247_history.json"
+?? "data/history/\331\210\330\263\332\257\333\214\331\204\330\247_history.json"
+?? "data/history/\331\210\330\263\333\214\330\262\330\257_history.json"
+?? "data/history/\331\210\330\263\333\214\331\204\330\247\331\205_history.json"
+?? "data/history/\331\210\330\263\333\214\331\206\330\247_history.json"
+?? "data/history/\331\210\330\263\333\214\331\206\330\247\330\255_history.json"
+?? "data/history/\331\210\330\264\330\263\330\252\330\247\331\206_history.json"
+?? "data/history/\331\210\330\265\331\206\330\247_history.json"
+?? "data/history/\331\210\330\265\331\206\330\247\330\255_history.json"
+?? "data/history/\331\210\330\265\331\206\330\257\331\210\331\202_history.json"
+?? "data/history/\331\210\330\265\331\206\330\257\331\210\331\202\330\255_history.json"
+?? "data/history/\331\210\330\265\331\206\330\271\330\252_history.json"
+?? "data/history/\331\210\330\265\331\206\330\271\330\252\330\255_history.json"
+?? "data/history/\331\210\330\267\331\210\330\250\333\214_history.json"
+?? "data/history/\331\210\330\267\331\210\330\250\333\214\330\255_history.json"
+?? "data/history/\331\210\331\204\330\252\330\247\332\230_history.json"
+?? "data/history/\331\210\331\204\330\263\330\247\331\276\330\247_history.json"
+?? "data/history/\331\210\331\204\330\263\330\247\331\276\330\247\330\255_history.json"
+?? "data/history/\331\210\331\204\330\265\331\206\331\205_history.json"
+?? "data/history/\331\210\331\204\330\265\331\206\331\205\330\255_history.json"
+?? "data/history/\331\210\331\204\330\272\330\257\330\261_history.json"
+?? "data/history/\331\210\331\204\331\205\331\204\330\252_history.json"
+?? "data/history/\331\210\331\204\331\205\331\204\330\252\330\255_history.json"
+?? "data/history/\331\210\331\204\331\206\331\210\333\214\331\206\330\255_history.json"
+?? "data/history/\331\210\331\204\331\276\330\247\330\261\330\263_history.json"
+?? "data/history/\331\210\331\204\332\251\330\247\330\261_history.json"
+?? "data/history/\331\210\331\204\332\251\330\247\330\261\330\255_history.json"
+?? "data/history/\331\210\331\205\330\257\333\214\330\261_history.json"
+?? "data/history/\331\210\331\205\330\271\330\247\330\257\331\206_history.json"
+?? "data/history/\331\210\331\205\330\271\333\214\331\206_history.json"
+?? "data/history/\331\210\331\205\331\204\333\214_history.json"
+?? "data/history/\331\210\331\205\331\207\330\247\331\206_history.json"
+?? "data/history/\331\210\331\206\331\201\330\252_history.json"
+?? "data/history/\331\210\331\206\331\201\330\252\330\255_history.json"
+?? "data/history/\331\210\331\206\331\210\333\214\331\206_history.json"
+?? "data/history/\331\210\331\206\331\210\333\214\331\206\330\255_history.json"
+?? "data/history/\331\210\331\206\332\206\330\261_history.json"
+?? "data/history/\331\210\331\206\333\214\330\261\331\210_history.json"
+?? "data/history/\331\210\331\206\333\214\330\261\331\210\330\255_history.json"
+?? "data/history/\331\210\331\206\333\214\332\251\333\214\330\255_history.json"
+?? "data/history/\331\210\331\207\331\210\330\261_history.json"
+?? "data/history/\331\210\331\207\331\210\330\261\330\255_history.json"
+?? "data/history/\331\210\331\276\330\247\330\261\330\263_history.json"
+?? "data/history/\331\210\331\276\330\247\330\261\330\263\330\255_history.json"
+?? "data/history/\331\210\331\276\330\247\330\263\330\247\330\261_history.json"
+?? "data/history/\331\210\331\276\330\247\330\263\330\247\330\261\330\255_history.json"
+?? "data/history/\331\210\331\276\330\252\330\261\331\210_history.json"
+?? "data/history/\331\210\331\276\330\252\330\261\331\210\330\255_history.json"
+?? "data/history/\331\210\331\276\330\256\330\264_history.json"
+?? "data/history/\331\210\331\276\330\256\330\264\330\255_history.json"
+?? "data/history/\331\210\331\276\330\263\330\252_history.json"
+?? "data/history/\331\210\331\276\330\263\330\252\330\255_history.json"
+?? "data/history/\331\210\332\251\330\247\330\261_history.json"
+?? "data/history/\331\210\332\251\330\247\330\261\330\255_history.json"
+?? "data/history/\331\210\332\251\330\272\330\257\333\214\330\261_history.json"
+?? "data/history/\331\210\332\251\330\272\330\257\333\214\330\261\330\255_history.json"
+?? "data/history/\331\276\330\247\330\261\330\263_history.json"
+?? "data/history/\331\276\330\247\330\261\330\263\330\247\331\206_history.json"
+?? "data/history/\331\276\330\247\330\261\330\263\330\247\331\206\330\255_history.json"
+?? "data/history/\331\276\330\247\330\261\330\263\333\214\330\247\331\206\330\255_history.json"
+?? "data/history/\331\276\330\247\330\261\331\206\330\257_history.json"
+?? "data/history/\331\276\330\247\330\263\330\247_history.json"
+?? "data/history/\331\276\330\247\330\263\330\247\330\255_history.json"
+?? "data/history/\331\276\330\247\330\263\330\247\330\26106_history.json"
+?? "data/history/\331\276\330\247\330\263\330\247\330\26109_history.json"
+?? "data/history/\331\276\330\247\331\204\330\247\333\214\330\264_history.json"
+?? "data/history/\331\276\330\247\332\251\330\264\331\210_history.json"
+?? "data/history/\331\276\330\252\330\247\333\214\330\261_history.json"
+?? "data/history/\331\276\330\252\330\261\331\210\330\242\332\257\330\247\331\207_history.json"
+?? "data/history/\331\276\330\252\330\261\331\210\330\265\330\250\330\247_history.json"
+?? "data/history/\331\276\330\252\330\261\331\210\331\204_history.json"
+?? "data/history/\331\276\330\252\330\261\331\210\331\204\330\255_history.json"
+?? "data/history/\331\276\330\256\330\264 \330\247\331\210\331\204_history.json"
+?? "data/history/\331\276\330\257\330\261\330\256\330\264_history.json"
+?? "data/history/\331\276\330\257\330\261\330\256\330\264\330\255_history.json"
+?? "data/history/\331\276\330\261\330\257\330\247\330\256\330\252_history.json"
+?? "data/history/\331\276\330\261\330\257\330\247\330\256\330\252\330\255_history.json"
+?? "data/history/\331\276\330\261\330\267\331\204\330\247_history.json"
+?? "data/history/\331\276\330\263\331\207\331\206\330\257_history.json"
+?? "data/history/\331\276\331\204\330\247\330\263\332\251_history.json"
+?? "data/history/\331\276\331\204\330\247\330\263\332\251\330\255_history.json"
+?? "data/history/\331\276\331\210\330\261\330\247\330\267\330\250072_history.json"
+?? "data/history/\331\276\332\230\331\210\331\207\330\247\331\20609_history.json"
+?? "data/history/\331\276\332\251\330\261\331\205\330\247\331\206_history.json"
+?? "data/history/\331\276\332\251\331\210\333\214\330\261\330\255_history.json"
+?? "data/history/\331\276\333\214 \331\276\330\247\330\257_history.json"
+?? "data/history/\331\276\333\214\330\264\330\261\330\247\331\206_history.json"
+?? "data/history/\332\206\330\247\331\201\330\263\330\252_history.json"
+?? "data/history/\332\206\330\247\331\201\330\263\330\252\330\255_history.json"
+?? "data/history/\332\206\330\247\331\276_history.json"
+?? "data/history/\332\206\330\250\330\263\331\276\330\247_history.json"
+?? "data/history/\332\206\330\250\330\263\331\276\330\247\330\255_history.json"
+?? "data/history/\332\206\330\252\330\261_history.json"
+?? "data/history/\332\206\330\256\330\262\330\261_history.json"
+?? "data/history/\332\206\330\257\331\206_history.json"
+?? "data/history/\332\206\330\261\331\205\330\264_history.json"
+?? "data/history/\332\206\332\251\330\247\330\261\331\205_history.json"
+?? "data/history/\332\206\332\251\330\247\330\261\331\205\330\255_history.json"
+?? "data/history/\332\251\330\247\330\256_history.json"
+?? "data/history/\332\251\330\247\330\260\330\261_history.json"
+?? "data/history/\332\251\330\247\330\261\330\257\330\247\331\206_history.json"
+?? "data/history/\332\251\330\247\331\204\330\247_history.json"
+?? "data/history/\332\251\330\247\331\205\330\247\330\255_history.json"
+?? "data/history/\332\251\330\247\331\210\331\207_history.json"
+?? "data/history/\332\251\330\247\331\210\331\207\330\255_history.json"
+?? "data/history/\332\251\330\250\330\247\331\201\331\202_history.json"
+?? "data/history/\332\251\330\250\330\247\331\201\331\202\330\255_history.json"
+?? "data/history/\332\251\330\252\330\261\330\247\331\205_history.json"
+?? "data/history/\332\251\330\252\330\261\330\247\331\205\330\255_history.json"
+?? "data/history/\332\251\330\257\331\205\330\247\330\255_history.json"
+?? "data/history/\332\251\330\261\330\247\330\262\333\214_history.json"
+?? "data/history/\332\251\330\261\330\247\330\262\333\214\330\255_history.json"
+?? "data/history/\332\251\330\261\330\250\331\206_history.json"
+?? "data/history/\332\251\330\261\330\250\331\206\330\255_history.json"
+?? "data/history/\332\251\330\261\331\205\330\247\330\264\330\247_history.json"
+?? "data/history/\332\251\330\261\331\205\330\247\330\264\330\247\330\255_history.json"
+?? "data/history/\332\251\330\262\330\272\330\247\331\204_history.json"
+?? "data/history/\332\251\330\262\330\272\330\247\331\204\330\255_history.json"
+?? "data/history/\332\251\330\263\330\247\331\210\331\207_history.json"
+?? "data/history/\332\251\330\263\330\247\331\210\331\207\330\255_history.json"
+?? "data/history/\332\251\330\263\330\247\331\276\330\247_history.json"
+?? "data/history/\332\251\330\263\330\247\331\276\330\247\330\255_history.json"
+?? "data/history/\332\251\330\263\330\261\330\247\330\255_history.json"
+?? "data/history/\332\251\330\263\330\261\330\247\331\205_history.json"
+?? "data/history/\332\251\330\263\330\271\330\257\333\214_history.json"
+?? "data/history/\332\251\331\201\330\261\330\247_history.json"
+?? "data/history/\332\251\331\201\330\261\330\247\330\255_history.json"
+?? "data/history/\332\251\331\201\331\276\330\247\330\261\330\263_history.json"
+?? "data/history/\332\251\331\201\331\276\330\247\330\261\330\263\330\255_history.json"
+?? "data/history/\332\251\331\204\331\210\331\206\330\257_history.json"
+?? "data/history/\332\251\331\204\331\210\331\206\330\257\330\255_history.json"
+?? "data/history/\332\251\331\204\333\214\330\257_history.json"
+?? "data/history/\332\251\331\205\330\247\330\263\331\207_history.json"
+?? "data/history/\332\251\331\205\330\247\330\263\331\207\330\255_history.json"
+?? "data/history/\332\251\331\205\331\206\332\257\331\206\330\262_history.json"
+?? "data/history/\332\251\331\205\331\206\332\257\331\206\330\262\330\255_history.json"
+?? "data/history/\332\251\331\206\331\210\330\261_history.json"
+?? "data/history/\332\251\331\206\331\210\330\261\330\255_history.json"
+?? "data/history/\332\251\331\210\332\206\333\214\331\206_history.json"
+?? "data/history/\332\251\331\210\333\214\330\261_history.json"
+?? "data/history/\332\251\331\210\333\214\330\261\330\255_history.json"
+?? "data/history/\332\251\331\276\330\247\330\261\330\263\330\255_history.json"
+?? "data/history/\332\251\331\276\330\261\331\210\330\261_history.json"
+?? "data/history/\332\251\331\276\330\264\333\214\330\261_history.json"
+?? "data/history/\332\251\332\206\333\214\331\206\333\214_history.json"
+?? "data/history/\332\251\332\257\330\247\330\262_history.json"
+?? "data/history/\332\251\332\257\330\247\330\262\330\255_history.json"
+?? "data/history/\332\251\332\257\331\204_history.json"
+?? "data/history/\332\251\332\257\331\204\330\255_history.json"
+?? "data/history/\332\251\333\214\330\247\331\206_history.json"
+?? "data/history/\332\251\333\214\330\247\331\206\330\247_history.json"
+?? "data/history/\332\251\333\214\330\247\331\206\330\247\330\255_history.json"
+?? "data/history/\332\251\333\214\331\205\333\214\330\247\330\252\332\251_history.json"
+?? "data/history/\332\257\331\204\332\206\333\214\331\20607_history.json"
+?? "data/history/\333\214\331\204\330\257\330\247_history.json"
+?? data/market_data.db
+?? data/order_book_khegostar.json
+?? data/trades.db
+?? data/tsetmc_20260902_033119.json
+?? data/tsetmc_all_20260902_040150.json
+?? data/tsetmc_order.json
+?? data/tsetmc_price.json
+?? database/__pycache__/__init__.cpython-39.pyc
+?? database/__pycache__/database.cpython-39.pyc
+?? database/__pycache__/symbol_repository.cpython-39.pyc
+?? decision/
+?? download_all_history.py
+?? engines/
+?? excel_to_json.py
+?? find_basing_relative.py
+?? find_basing_stocks.py
+?? find_basing_stocks_advanced.py
+?? find_data.py
+?? find_high_buyer_ratio.py
+?? find_high_buyer_ratio_weekly.py
+?? find_order_book.py
+?? full_scanner.py
+?? fundamental/
+?? list_files.py
+?? logs/auto_trader.log
+?? logs/daily_run.log
+?? logs/market_scanner.log
+?? logs/run_20260830_224918.log
+?? logs/run_20260901_171755.log
+?? logs/run_20260901_174549.log
+?? logs/run_20260901_231742.log
+?? market/__pycache__/__init__.cpython-39.pyc
+?? market/__pycache__/api.cpython-39.pyc
+?? market_scanner.py
+?? models/__pycache__/__init__.cpython-39.pyc
+?? models/__pycache__/stock.cpython-39.pyc
+?? order_book_parser.py
+?? reports/auto_trader_signal.txt
+?? reports/daily_signal.txt
+?? reports/market_scanner_report.txt
+?? reports/technical_analysis_report.txt
+?? run.bat
+?? run_downloader.py
+?? save_order_book.py
+?? send_diagnostic_to_github.py
+?? show_db.py
+?? test.khegostar.py
+?? test_csv.py
+?? test_eitaa.py
+?? tsetmc_all_symbols.py
+?? tsetmc_auto.py
+?? tsetmc_fetcher.py
+?? tsetmc_order.py
+?? tsetmc_selenium.py
+?? update_khegostar.py
+
+
+--- RETURN CODE: 0 ---
+
+
+--- Last Commit ---
+49cabf0 تکمیل پروژه با داده‌ها و فایل‌ها
+
+
+--- RETURN CODE: 0 ---
+
+======================================================================
+PROJECT FILES
+======================================================================
+.gitignore | 81 bytes
+ai\ai_engine.py | 1,605 bytes
+ai\backtest_optimizer.py | 9,702 bytes
+ai\momentum_scanner.py | 2,286 bytes
+ai\order_flow_analyzer.py | 3,002 bytes
+ai\whale_detector.py | 2,641 bytes
+analysis\__init__.py | 219 bytes
+analysis\analysis.py | 3,593 bytes
+analysis\backtest.py | 345 bytes
+analysis\candlestick.py | 0 bytes
+analysis\portfolio.py | 598 bytes
+analysis\report.py | 355 bytes
+analysis\risk.py | 450 bytes
+analysis\score.py | 707 bytes
+analysis\score_engine.py | 0 bytes
+analysis\signal.py | 771 bytes
+analysis\signal_engine.py | 4,316 bytes
+analysis\strategy.py | 7,644 bytes
+analysis\support_resistance.py | 3,418 bytes
+analysis\trend.py | 3,052 bytes
+analysis\trend_detector.py | 1,735 bytes
+analyze_all_whales.py | 3,859 bytes
+auto_trader.py | 6,299 bytes
+backtest\__init__.py | 0 bytes
+backtest\backtest.py | 0 bytes
+backtest\backtest_engine.py | 6,608 bytes
+batch_backtest.py | 1,146 bytes
+bidar_scraper.py | 2,344 bytes
+charts\candlestick.py | 1,027 bytes
+charts\chart.py | 1,199 bytes
+check_data.py | 110 bytes
+check_data_date.py | 2,540 bytes
+check_db.py | 344 bytes
+check_history.py | 640 bytes
+check_project.py | 2,585 bytes
+check_stock_data.py | 1,524 bytes
+config.py | 1,315 bytes
+core\data\events.json | 268 bytes
+core\data\market_data.db | 12,288 bytes
+core\data_fetcher.py | 4,962 bytes
+core\event_analyzer.py | 5,123 bytes
+core\logger.py | 1,115 bytes
+core\market_health.py | 3,170 bytes
+core\trade_recorder.py | 1,810 bytes
+create_fundamental_csv.py | 1,172 bytes
+create_project.py | 982 bytes
+custom_signal.py | 643 bytes
+daily_change.py | 323 bytes
+daily_runner.py | 9,720 bytes
+data\bidar_data.json | 277,172 bytes
+data\config.json | 125 bytes
+data\events.json | 268 bytes
+data\fundamental_data.csv | 403 bytes
+data\fundamental_data.csv.txt | 409 bytes
+data\history\femeli_history.json | 83,684 bytes
+data\history\foolad_history.json | 82,666 bytes
+data\history\history.db | 40,960 bytes
+data\history\khodro_history.json | 81,869 bytes
+data\history\market_2026_07_24.json | 682 bytes
+data\history\market_2026_07_25.json | 682 bytes
+data\history\market_2026_07_26.json | 682 bytes
+data\history\market_2026_07_27.json | 682 bytes
+data\history\market_2026_07_28.json | 682 bytes
+data\history\market_2026_07_30.json | 682 bytes
+data\history\market_2026_07_31.json | 682 bytes
+data\history\market_2026_08_01.json | 682 bytes
+data\history\market_2026_08_02.json | 682 bytes
+data\history\market_2026_08_03.json | 682 bytes
+data\history\market_2026_08_05.json | 682 bytes
+data\history\market_2026_08_06.json | 682 bytes
+data\history\market_2026_08_07.json | 682 bytes
+data\history\market_2026_08_08.json | 682 bytes
+data\history\market_2026_08_09.json | 682 bytes
+data\history\market_2026_08_10.json | 682 bytes
+data\history\market_2026_08_11.json | 682 bytes
+data\history\market_2026_08_12.json | 476 bytes
+data\history\market_2026_08_13.json | 713 bytes
+data\history\market_2026_08_15.json | 714 bytes
+data\history\market_2026_08_25.json | 713 bytes
+data\history\market_2026_08_30.json | 713 bytes
+data\history\market_2026_09_01.json | 714 bytes
+data\history\آباد_history.json | 83,012 bytes
+data\history\آبادا_history.json | 84,299 bytes
+data\history\آبادح_history.json | 79,573 bytes
+data\history\آرام_history.json | 85,159 bytes
+data\history\آرامش_history.json | 87,116 bytes
+data\history\آسا_history.json | 59,212 bytes
+data\history\آسیا_history.json | 83,883 bytes
+data\history\آفاق_history.json | 86,390 bytes
+data\history\آلومینا_history.json | 87,852 bytes
+data\history\آوان_history.json | 13,867 bytes
+data\history\آپ_history.json | 82,996 bytes
+data\history\آپح_history.json | 27,598 bytes
+data\history\آکو_history.json | 18,202 bytes
+data\history\اتوآگاه_history.json | 87,214 bytes
+data\history\اتوکار_history.json | 5,668 bytes
+data\history\اتکام_history.json | 84,292 bytes
+data\history\اتکامح_history.json | 80,722 bytes
+data\history\اجداد_history.json | 79,938 bytes
+data\history\اخابر_history.json | 83,464 bytes
+data\history\اخابرح_history.json | 80,668 bytes
+data\history\اردستان_history.json | 87,127 bytes
+data\history\ارزش_history.json | 85,072 bytes
+data\history\ارمغان_history.json | 87,549 bytes
+data\history\اروند_history.json | 81,795 bytes
+data\history\استیل_history.json | 85,870 bytes
+data\history\اطلس ریس07_history.json | 83,641 bytes
+data\history\اطلس_history.json | 85,464 bytes
+data\history\اطمينان_history.json | 79,938 bytes
+data\history\اعتبارسهام_history.json | 67,832 bytes
+data\history\افران_history.json | 87,442 bytes
+data\history\افق ملت_history.json | 87,273 bytes
+data\history\افق_history.json | 84,221 bytes
+data\history\افقح_history.json | 79,573 bytes
+data\history\البرز_history.json | 84,639 bytes
+data\history\البرزح_history.json | 80,668 bytes
+data\history\امیدح_history.json | 79,938 bytes
+data\history\امین_history.json | 83,632 bytes
+data\history\امینح_history.json | 80,167 bytes
+data\history\انار_history.json | 84,980 bytes
+data\history\انتخاب094_history.json | 14,383 bytes
+data\history\اهرم_history.json | 85,604 bytes
+data\history\اپال_history.json | 84,410 bytes
+data\history\اکتان_history.json | 85,547 bytes
+data\history\بالبر_history.json | 84,635 bytes
+data\history\بالبرح_history.json | 80,668 bytes
+data\history\بانکا_history.json | 75,980 bytes
+data\history\بانکدار_history.json | 71,753 bytes
+data\history\بانکپاد_history.json | 2,711 bytes
+data\history\بانکیا_history.json | 27,585 bytes
+data\history\بترانس_history.json | 85,445 bytes
+data\history\بترانسح_history.json | 81,817 bytes
+data\history\بذر_history.json | 84,011 bytes
+data\history\برکت_history.json | 83,968 bytes
+data\history\بسويچ_history.json | 84,634 bytes
+data\history\بسویچ_history.json | 84,011 bytes
+data\history\بشهاب_history.json | 84,147 bytes
+data\history\بشهابح_history.json | 80,668 bytes
+data\history\بفجر_history.json | 82,850 bytes
+data\history\بفجرح_history.json | 80,303 bytes
+data\history\بكابح_history.json | 84,011 bytes
+data\history\بلوط_history.json | 85,944 bytes
+data\history\بموتو_history.json | 84,563 bytes
+data\history\بموتوح_history.json | 80,303 bytes
+data\history\بنکر_history.json | 52,869 bytes
+data\history\بنیرو_history.json | 84,515 bytes
+data\history\بنیروح_history.json | 80,668 bytes
+data\history\بهمن_history.json | 79,109 bytes
+data\history\بهین رو_history.json | 86,969 bytes
+data\history\بورس_history.json | 84,006 bytes
+data\history\بوعلی_history.json | 85,407 bytes
+data\history\بپویا_history.json | 84,159 bytes
+data\history\بکاب_history.json | 83,609 bytes
+data\history\بکامح_history.json | 80,210 bytes
+data\history\بیدار_history.json | 86,130 bytes
+data\history\تابان_history.json | 4,425 bytes
+data\history\تادیکو_history.json | 81,467 bytes
+data\history\تاراز_history.json | 84,963 bytes
+data\history\تاصیکو_history.json | 86,130 bytes
+data\history\تاصیکوح_history.json | 81,858 bytes
+data\history\تاپیکو_history.json | 86,449 bytes
+data\history\تایرا_history.json | 84,562 bytes
+data\history\تایراح_history.json | 80,668 bytes
+data\history\تداوم_history.json | 87,302 bytes
+data\history\تراست_history.json | 6,088 bytes
+data\history\ترام چاپ061_history.json | 24,740 bytes
+data\history\ترام چاپ06_history.json | 83,488 bytes
+data\history\ترمه_history.json | 84,268 bytes
+data\history\تصمیم_history.json | 86,697 bytes
+data\history\تمدن_history.json | 78,843 bytes
+data\history\تمشک_history.json | 85,342 bytes
+data\history\تملت_history.json | 83,723 bytes
+data\history\تملتح_history.json | 79,938 bytes
+data\history\تنوین_history.json | 84,596 bytes
+data\history\توسکا_history.json | 87,257 bytes
+data\history\تپمپی_history.json | 84,427 bytes
+data\history\تپمپیح_history.json | 80,668 bytes
+data\history\تکاردان_history.json | 85,932 bytes
+data\history\تکشا_history.json | 83,313 bytes
+data\history\تکشاح_history.json | 80,303 bytes
+data\history\تکمبا_history.json | 84,353 bytes
+data\history\تکمباح_history.json | 80,303 bytes
+data\history\تکنوح_history.json | 79,938 bytes
+data\history\تیپیکو_history.json | 86,337 bytes
+data\history\تیپیکوح_history.json | 81,763 bytes
+data\history\ثاخت_history.json | 82,916 bytes
+data\history\ثاختح_history.json | 79,938 bytes
+data\history\ثامان_history.json | 84,733 bytes
+data\history\ثامانح_history.json | 80,303 bytes
+data\history\ثاژن_history.json | 49,084 bytes
+data\history\ثبهساز_history.json | 85,476 bytes
+data\history\ثروت ساز_history.json | 86,950 bytes
+data\history\ثشاهد_history.json | 84,895 bytes
+data\history\ثشاهدح_history.json | 80,303 bytes
+data\history\ثشرق_history.json | 84,281 bytes
+data\history\ثشرقح_history.json | 79,938 bytes
+data\history\ثفارس_history.json | 85,433 bytes
+data\history\ثمر_history.json | 56,625 bytes
+data\history\ثنوسا_history.json | 84,402 bytes
+data\history\ثنوساح_history.json | 80,303 bytes
+data\history\ثهام_history.json | 84,860 bytes
+data\history\ثپهران_history.json | 78,562 bytes
+data\history\ثپهرانح_history.json | 38,582 bytes
+data\history\جاودان_history.json | 85,956 bytes
+data\history\جم_history.json | 82,951 bytes
+data\history\جمح_history.json | 78,843 bytes
+data\history\جهش_history.json | 84,532 bytes
+data\history\حتایدح_history.json | 80,668 bytes
+data\history\حتوکا_history.json | 84,231 bytes
+data\history\حفارس_history.json | 84,411 bytes
+data\history\حفاری_history.json | 84,778 bytes
+data\history\حپترو_history.json | 85,293 bytes
+data\history\حپتروح_history.json | 81,217 bytes
+data\history\حکشتی_history.json | 84,642 bytes
+data\history\خاتم_history.json | 86,210 bytes
+data\history\خاذین_history.json | 84,473 bytes
+data\history\خبرنا_history.json | 84,507 bytes
+data\history\خبره_history.json | 27,779 bytes
+data\history\خبرگان_history.json | 86,426 bytes
+data\history\خبهمن_history.json | 84,929 bytes
+data\history\خبهمنح_history.json | 80,303 bytes
+data\history\ختراک_history.json | 84,491 bytes
+data\history\ختراکح_history.json | 80,668 bytes
+data\history\ختور_history.json | 83,796 bytes
+data\history\ختورح_history.json | 80,303 bytes
+data\history\ختوقا_history.json | 84,654 bytes
+data\history\ختوقاح_history.json | 80,303 bytes
+data\history\خراسان_history.json | 86,644 bytes
+data\history\خرینگ_history.json | 85,345 bytes
+data\history\خرینگح_history.json | 79,573 bytes
+data\history\خزامیاح_history.json | 80,668 bytes
+data\history\خزر_history.json | 82,981 bytes
+data\history\خزرح_history.json | 79,208 bytes
+data\history\خساپا_history.json | 83,417 bytes
+data\history\خساپاح_history.json | 80,668 bytes
+data\history\خشرق_history.json | 83,730 bytes
+data\history\خشرقح_history.json | 79,573 bytes
+data\history\خفنر_history.json | 83,741 bytes
+data\history\خفنرح_history.json | 79,938 bytes
+data\history\خلنت_history.json | 83,540 bytes
+data\history\خمحرکه_history.json | 85,287 bytes
+data\history\خمحرکهح_history.json | 81,398 bytes
+data\history\خمحور_history.json | 84,443 bytes
+data\history\خمحورح_history.json | 80,668 bytes
+data\history\خمهر_history.json | 83,703 bytes
+data\history\خمهرح_history.json | 79,573 bytes
+data\history\خموتور_history.json | 85,275 bytes
+data\history\خموتورح_history.json | 81,398 bytes
+data\history\خنصیر_history.json | 84,470 bytes
+data\history\خودران_history.json | 86,519 bytes
+data\history\خودرو_history.json | 83,327 bytes
+data\history\خودروح_history.json | 80,668 bytes
+data\history\خوساز_history.json | 85,566 bytes
+data\history\خوسازح_history.json | 80,668 bytes
+data\history\خچرخش_history.json | 85,373 bytes
+data\history\خچرخشح_history.json | 80,668 bytes
+data\history\خکار_history.json | 83,848 bytes
+data\history\خکارح_history.json | 79,938 bytes
+data\history\خکمک_history.json | 83,892 bytes
+data\history\خگستر_history.json | 1,017,330 bytes
+data\history\خگسترح_history.json | 81,037 bytes
+data\history\دابور_history.json | 85,585 bytes
+data\history\دابورح_history.json | 81,033 bytes
+data\history\داتام_history.json | 84,496 bytes
+data\history\داتامح_history.json | 80,303 bytes
+data\history\داترا_history.json | 81,799 bytes
+data\history\دارو_history.json | 83,781 bytes
+data\history\داروح_history.json | 80,303 bytes
+data\history\داروند_history.json | 3,097 bytes
+data\history\دارونو_history.json | 86,505 bytes
+data\history\داسوه_history.json | 85,116 bytes
+data\history\داسوهح_history.json | 80,668 bytes
+data\history\دالبر_history.json | 84,500 bytes
+data\history\دالبرح_history.json | 80,746 bytes
+data\history\دامین_history.json | 85,462 bytes
+data\history\دامینح_history.json | 80,668 bytes
+data\history\دانا_history.json | 83,833 bytes
+data\history\داناح_history.json | 79,938 bytes
+data\history\دتماد_history.json | 85,083 bytes
+data\history\دتمادح_history.json | 81,033 bytes
+data\history\دجابر_history.json | 85,005 bytes
+data\history\دجابرح_history.json | 80,668 bytes
+data\history\ددام_history.json | 83,550 bytes
+data\history\ددامح_history.json | 80,303 bytes
+data\history\درازک_history.json | 83,713 bytes
+data\history\درازکح_history.json | 80,668 bytes
+data\history\درسا_history.json | 84,340 bytes
+data\history\دروز_history.json | 83,080 bytes
+data\history\دروزح_history.json | 79,938 bytes
+data\history\دزهراویح_history.json | 82,128 bytes
+data\history\دسبحا_history.json | 84,449 bytes
+data\history\دسبحاح_history.json | 81,196 bytes
+data\history\دسبحان_history.json | 85,075 bytes
+data\history\دسبحانح_history.json | 81,586 bytes
+data\history\دسیناح_history.json | 81,033 bytes
+data\history\دشیمی_history.json | 85,447 bytes
+data\history\دشیمیح_history.json | 81,033 bytes
+data\history\دعبید_history.json | 85,231 bytes
+data\history\دفارا_history.json | 84,812 bytes
+data\history\دفاراح_history.json | 80,668 bytes
+data\history\دفرا_history.json | 84,563 bytes
+data\history\دفراح_history.json | 79,938 bytes
+data\history\دلتا_history.json | 9,169 bytes
+data\history\دلر_history.json | 83,356 bytes
+data\history\دلرح_history.json | 79,573 bytes
+data\history\دلقما_history.json | 84,500 bytes
+data\history\دلقماح_history.json | 80,668 bytes
+data\history\دلوسه_history.json | 34,824 bytes
+data\history\دپارس_history.json | 85,266 bytes
+data\history\دپارسح_history.json | 81,658 bytes
+data\history\دکیمی_history.json | 84,813 bytes
+data\history\دی سهام_history.json | 85,901 bytes
+data\history\دیبا_history.json | 85,754 bytes
+data\history\دیران_history.json | 84,404 bytes
+data\history\دیرانح_history.json | 80,668 bytes
+data\history\ذوب_history.json | 82,433 bytes
+data\history\رادان_history.json | 42,580 bytes
+data\history\رانفور_history.json | 85,132 bytes
+data\history\رانفورح_history.json | 81,717 bytes
+data\history\رایکا_history.json | 86,437 bytes
+data\history\رتاپ_history.json | 83,583 bytes
+data\history\رتاپح_history.json | 79,938 bytes
+data\history\رمپنا_history.json | 85,506 bytes
+data\history\رمپناح_history.json | 80,668 bytes
+data\history\رونق_history.json | 83,585 bytes
+data\history\رویش همراه_history.json | 76,100 bytes
+data\history\رکیش_history.json | 83,905 bytes
+data\history\رکیشح_history.json | 79,573 bytes
+data\history\زشک_history.json | 1,723 bytes
+data\history\زمرد کوروش_history.json | 90,477 bytes
+data\history\زمگسا_history.json | 85,375 bytes
+data\history\زمگساح_history.json | 80,668 bytes
+data\history\زپارس_history.json | 85,206 bytes
+data\history\سآبیک_history.json | 85,641 bytes
+data\history\ساراب_history.json | 84,811 bytes
+data\history\سارابح_history.json | 80,303 bytes
+data\history\ساربیل_history.json | 86,211 bytes
+data\history\ساربیلح_history.json | 81,398 bytes
+data\history\ساروم_history.json | 86,630 bytes
+data\history\سارومح_history.json | 81,033 bytes
+data\history\سبجنو_history.json | 85,581 bytes
+data\history\سبجنوح_history.json | 80,668 bytes
+data\history\سبزآبنوس_history.json | 8,711 bytes
+data\history\سبهان_history.json | 84,530 bytes
+data\history\سبهانح_history.json | 81,033 bytes
+data\history\ستران_history.json | 84,894 bytes
+data\history\سخاش_history.json | 84,120 bytes
+data\history\سخاشح_history.json | 80,303 bytes
+data\history\سخزر_history.json | 83,774 bytes
+data\history\سخزرح_history.json | 79,938 bytes
+data\history\سخوز_history.json | 84,822 bytes
+data\history\سخوزح_history.json | 80,303 bytes
+data\history\سداد_history.json | 22,788 bytes
+data\history\سدشت_history.json | 84,494 bytes
+data\history\سدشتح_history.json | 79,573 bytes
+data\history\سدور_history.json | 84,775 bytes
+data\history\سدورح_history.json | 79,938 bytes
+data\history\سرو_history.json | 84,604 bytes
+data\history\سرود_history.json | 84,118 bytes
+data\history\سرودح_history.json | 79,573 bytes
+data\history\سرچشمه_history.json | 84,861 bytes
+data\history\سرچشمهح_history.json | 81,763 bytes
+data\history\سشرق_history.json | 85,096 bytes
+data\history\سشرقح_history.json | 78,843 bytes
+data\history\سشمال_history.json | 85,464 bytes
+data\history\سشمالح_history.json | 81,119 bytes
+data\history\سصفها_history.json | 85,273 bytes
+data\history\سصفهاح_history.json | 80,668 bytes
+data\history\سغرب_history.json | 83,834 bytes
+data\history\سغربح_history.json | 79,938 bytes
+data\history\سفار_history.json | 85,700 bytes
+data\history\سفارح_history.json | 79,938 bytes
+data\history\سفارس_history.json | 85,481 bytes
+data\history\سفارسح_history.json | 80,303 bytes
+data\history\سفانو_history.json | 85,478 bytes
+data\history\سفانوح_history.json | 81,033 bytes
+data\history\سقاین_history.json | 85,001 bytes
+data\history\سقاینح_history.json | 80,668 bytes
+data\history\سلام_history.json | 85,100 bytes
+data\history\سلیمان_history.json | 69,126 bytes
+data\history\سلیمانح_history.json | 41,035 bytes
+data\history\سمازن_history.json | 85,629 bytes
+data\history\سمان_history.json | 85,091 bytes
+data\history\سنیر_history.json | 83,770 bytes
+data\history\سنیرح_history.json | 80,303 bytes
+data\history\سها_history.json | 49,492 bytes
+data\history\سهرمز_history.json | 85,396 bytes
+data\history\سهرمزح_history.json | 81,267 bytes
+data\history\سهگمت_history.json | 86,483 bytes
+data\history\سهگمتح_history.json | 80,668 bytes
+data\history\سولار_history.json | 10,730 bytes
+data\history\سپ_history.json | 82,794 bytes
+data\history\سپاهاح_history.json | 79,573 bytes
+data\history\سپح_history.json | 78,843 bytes
+data\history\سپر_history.json | 85,961 bytes
+data\history\سپید مطهر06_history.json | 84,318 bytes
+data\history\سپید_history.json | 84,209 bytes
+data\history\سکرد_history.json | 84,339 bytes
+data\history\سکردح_history.json | 79,573 bytes
+data\history\سکرما_history.json | 85,425 bytes
+data\history\سیتاح_history.json | 79,938 bytes
+data\history\سیدکو_history.json | 85,421 bytes
+data\history\سیدکوح_history.json | 79,938 bytes
+data\history\سیستم_history.json | 85,624 bytes
+data\history\سیلامح_history.json | 80,668 bytes
+data\history\سیمانا_history.json | 86,424 bytes
+data\history\سیمانو_history.json | 86,701 bytes
+data\history\شاراکح_history.json | 80,668 bytes
+data\history\شارپیلنح_history.json | 70,896 bytes
+data\history\شاملا_history.json | 85,693 bytes
+data\history\شاملاح_history.json | 81,150 bytes
+data\history\شبریز_history.json | 85,878 bytes
+data\history\شبندر_history.json | 85,056 bytes
+data\history\شبهرن_history.json | 85,614 bytes
+data\history\شبهرنح_history.json | 81,033 bytes
+data\history\شتاب_history.json | 85,359 bytes
+data\history\شتبریز_history.json | 35,142 bytes
+data\history\شتران_history.json | 84,912 bytes
+data\history\شخارک_history.json | 84,499 bytes
+data\history\شخارکح_history.json | 81,033 bytes
+data\history\شدوص_history.json | 83,731 bytes
+data\history\شدوصح_history.json | 79,938 bytes
+data\history\شراز_history.json | 84,971 bytes
+data\history\شستا_history.json | 84,504 bytes
+data\history\شسپا_history.json | 84,024 bytes
+data\history\شسینا_history.json | 84,452 bytes
+data\history\شفا_history.json | 83,384 bytes
+data\history\شفارس_history.json | 84,464 bytes
+data\history\شفارسح_history.json | 80,668 bytes
+data\history\شفن_history.json | 82,791 bytes
+data\history\شفنح_history.json | 79,208 bytes
+data\history\شلعاب_history.json | 83,642 bytes
+data\history\شلعابح_history.json | 80,022 bytes
+data\history\شمس_history.json | 83,293 bytes
+data\history\شنفت_history.json | 84,507 bytes
+data\history\شنفتح_history.json | 80,303 bytes
+data\history\شهر_history.json | 83,098 bytes
+data\history\شپارس_history.json | 84,173 bytes
+data\history\شپارسح_history.json | 81,033 bytes
+data\history\شپدیس_history.json | 86,519 bytes
+data\history\شپدیسح_history.json | 80,668 bytes
+data\history\شپمچا_history.json | 49,278 bytes
+data\history\شپنا_history.json | 84,376 bytes
+data\history\شپناح_history.json | 79,938 bytes
+data\history\شکربن_history.json | 84,787 bytes
+data\history\شکربنح_history.json | 80,668 bytes
+data\history\شکلر_history.json | 84,813 bytes
+data\history\شکلرح_history.json | 79,938 bytes
+data\history\شگستر_history.json | 84,053 bytes
+data\history\شگسترح_history.json | 80,668 bytes
+data\history\شگل_history.json | 82,805 bytes
+data\history\شگلح_history.json | 79,759 bytes
+data\history\شیراز_history.json | 85,415 bytes
+data\history\شیرازح_history.json | 80,668 bytes
+data\history\صالح07_history.json | 81,115 bytes
+data\history\صبا_history.json | 83,355 bytes
+data\history\صباح_history.json | 79,208 bytes
+data\history\صترام505_history.json | 82,128 bytes
+data\history\صحافظ512_history.json | 82,174 bytes
+data\history\صحافظ809_history.json | 40,977 bytes
+data\history\صدف_history.json | 83,775 bytes
+data\history\صرازی712_history.json | 27,477 bytes
+data\history\صصیکو081_history.json | 34,250 bytes
+data\history\صصیکو810_history.json | 34,227 bytes
+data\history\صصیکو81_history.json | 34,098 bytes
+data\history\صفارس008_history.json | 42,350 bytes
+data\history\صفارس07_history.json | 81,966 bytes
+data\history\صفارس086_history.json | 52,274 bytes
+data\history\صفارس730_history.json | 82,395 bytes
+data\history\صفارس73_history.json | 81,787 bytes
+data\history\صفارس7_history.json | 81,489 bytes
+data\history\صفارس840_history.json | 60,716 bytes
+data\history\صفارس860_history.json | 52,251 bytes
+data\history\صفروس607_history.json | 82,358 bytes
+data\history\صفروس670_history.json | 82,166 bytes
+data\history\صفولا051_history.json | 82,128 bytes
+data\history\صفولا51_history.json | 81,763 bytes
+data\history\صفولا52_history.json | 81,684 bytes
+data\history\صفولا612_history.json | 83,914 bytes
+data\history\صنایع ایران05_history.json | 85,801 bytes
+data\history\صنهال_history.json | 87,069 bytes
+data\history\صکسرا510_history.json | 81,967 bytes
+data\history\صکورش505_history.json | 82,215 bytes
+data\history\صکویر510_history.json | 82,082 bytes
+data\history\صگل0509_history.json | 81,983 bytes
+data\history\ضاطلس051102_history.json | 9,804 bytes
+data\history\ضاطلس051103_history.json | 9,910 bytes
+data\history\ضاطلس051109_history.json | 9,549 bytes
+data\history\ضاطلس052500_history.json | 9,720 bytes
+data\history\ضاطلس052503_history.json | 9,742 bytes
+data\history\ضاطلس052504_history.json | 9,840 bytes
+data\history\ضاطلس052509_history.json | 9,549 bytes
+data\history\ضاطلس060900_history.json | 9,704 bytes
+data\history\ضاطلس060901_history.json | 9,726 bytes
+data\history\ضاطلس060906_history.json | 9,831 bytes
+data\history\ضاطلس062200_history.json | 9,685 bytes
+data\history\ضاطلس062201_history.json | 9,637 bytes
+data\history\ضاطلس062203_history.json | 9,723 bytes
+data\history\ضاطلس062206_history.json | 9,848 bytes
+data\history\ضاطلس062209_history.json | 9,602 bytes
+data\history\ضاطلس070503_history.json | 2,913 bytes
+data\history\ضاطلس070504_history.json | 2,905 bytes
+data\history\ضاطلس070508_history.json | 2,889 bytes
+data\history\ضاطلس070510_history.json | 2,889 bytes
+data\history\ضاطلس071900_history.json | 2,957 bytes
+data\history\ضاطلس071904_history.json | 2,889 bytes
+data\history\ضاطلس071906_history.json | 2,889 bytes
+data\history\ضاطلس071910_history.json | 2,889 bytes
+data\history\ضبساما722_history.json | 4,652 bytes
+data\history\ضبساما724_history.json | 4,652 bytes
+data\history\ضبساما728_history.json | 4,687 bytes
+data\history\ضبساما731_history.json | 4,601 bytes
+data\history\ضتاص7005_history.json | 12,134 bytes
+data\history\ضتاص7008_history.json | 12,292 bytes
+data\history\ضتاص9018_history.json | 4,799 bytes
+data\history\ضتاص9020_history.json | 4,911 bytes
+data\history\ضتوان514_history.json | 11,852 bytes
+data\history\ضتوان516_history.json | 11,748 bytes
+data\history\ضتوان517_history.json | 11,710 bytes
+data\history\ضتوان520_history.json | 11,689 bytes
+data\history\ضتوان521_history.json | 11,616 bytes
+data\history\ضتوان522_history.json | 11,618 bytes
+data\history\ضتوان524_history.json | 11,572 bytes
+data\history\ضتوان526_history.json | 10,077 bytes
+data\history\ضتوان527_history.json | 10,077 bytes
+data\history\ضتوان529_history.json | 10,077 bytes
+data\history\ضتوان626_history.json | 11,683 bytes
+data\history\ضتوان629_history.json | 11,679 bytes
+data\history\ضتوان631_history.json | 11,567 bytes
+data\history\ضتوان634_history.json | 11,391 bytes
+data\history\ضتوان636_history.json | 11,614 bytes
+data\history\ضتوان638_history.json | 10,172 bytes
+data\history\ضتوان735_history.json | 2,412 bytes
+data\history\ضجار6042_history.json | 12,542 bytes
+data\history\ضجار6045_history.json | 12,461 bytes
+data\history\ضجار8025_history.json | 7,997 bytes
+data\history\ضجار8030_history.json | 8,080 bytes
+data\history\ضجوا6005_history.json | 13,031 bytes
+data\history\ضجوا6011_history.json | 3,913 bytes
+data\history\ضجوا8000_history.json | 2,401 bytes
+data\history\ضجوا8008_history.json | 2,401 bytes
+data\history\ضخود6046_history.json | 13,025 bytes
+data\history\ضخود6047_history.json | 12,925 bytes
+data\history\ضخود6048_history.json | 13,005 bytes
+data\history\ضخود6052_history.json | 12,954 bytes
+data\history\ضخود6056_history.json | 12,665 bytes
+data\history\ضخود7137_history.json | 8,990 bytes
+data\history\ضخود7138_history.json | 8,952 bytes
+data\history\ضخود8053_history.json | 5,007 bytes
+data\history\ضخود8054_history.json | 4,993 bytes
+data\history\ضخود8061_history.json | 4,956 bytes
+data\history\ضذوب5020_history.json | 10,210 bytes
+data\history\ضذوب5024_history.json | 10,340 bytes
+data\history\ضذوب5026_history.json | 10,388 bytes
+data\history\ضذوب5028_history.json | 10,239 bytes
+data\history\ضذوب6009_history.json | 11,815 bytes
+data\history\ضذوب6015_history.json | 11,873 bytes
+data\history\ضذوب6016_history.json | 12,023 bytes
+data\history\ضذوب6021_history.json | 11,789 bytes
+data\history\ضذوب7037_history.json | 7,900 bytes
+data\history\ضذوب7042_history.json | 7,975 bytes
+data\history\ضذوب8021_history.json | 3,185 bytes
+data\history\ضذوب8025_history.json | 3,101 bytes
+data\history\ضذوب8030_history.json | 3,132 bytes
+data\history\ضراز1009_history.json | 875 bytes
+data\history\ضراز6009_history.json | 12,242 bytes
+data\history\ضراز6011_history.json | 12,090 bytes
+data\history\ضراز8000_history.json | 9,746 bytes
+data\history\ضراز8005_history.json | 9,655 bytes
+data\history\ضراز8008_history.json | 9,744 bytes
+data\history\ضستا6041_history.json | 12,366 bytes
+data\history\ضستا6043_history.json | 12,394 bytes
+data\history\ضستا6044_history.json | 12,396 bytes
+data\history\ضستا6049_history.json | 12,618 bytes
+data\history\ضستا6053_history.json | 3,187 bytes
+data\history\ضستا7052_history.json | 9,062 bytes
+data\history\ضستا7053_history.json | 8,960 bytes
+data\history\ضستا7055_history.json | 8,901 bytes
+data\history\ضستا7057_history.json | 9,109 bytes
+data\history\ضستا7060_history.json | 9,061 bytes
+data\history\ضستا8049_history.json | 4,140 bytes
+data\history\ضستا8059_history.json | 4,008 bytes
+data\history\ضسپا5022_history.json | 11,664 bytes
+data\history\ضسپا5030_history.json | 11,646 bytes
+data\history\ضسپا6042_history.json | 10,878 bytes
+data\history\ضسپا6044_history.json | 10,799 bytes
+data\history\ضسپا7021_history.json | 7,228 bytes
+data\history\ضسپا7027_history.json | 7,254 bytes
+data\history\ضشنا6036_history.json | 12,470 bytes
+data\history\ضشنا6037_history.json | 12,384 bytes
+data\history\ضشنا6039_history.json | 12,340 bytes
+data\history\ضشنا6040_history.json | 12,136 bytes
+data\history\ضشنا6044_history.json | 12,506 bytes
+data\history\ضشنا6049_history.json | 7,881 bytes
+data\history\ضشنا8056_history.json | 8,308 bytes
+data\history\ضشنا8057_history.json | 8,218 bytes
+data\history\ضشنا8058_history.json | 8,265 bytes
+data\history\ضشنا8061_history.json | 8,248 bytes
+data\history\ضشنا8064_history.json | 7,945 bytes
+data\history\ضشنا8066_history.json | 8,149 bytes
+data\history\ضصاد5021_history.json | 11,301 bytes
+data\history\ضصاد5029_history.json | 11,292 bytes
+data\history\ضصاد5031_history.json | 11,154 bytes
+data\history\ضصاد5033_history.json | 11,132 bytes
+data\history\ضصاد7036_history.json | 11,726 bytes
+data\history\ضصاد7044_history.json | 11,783 bytes
+data\history\ضصاد9040_history.json | 3,097 bytes
+data\history\ضصاد9043_history.json | 3,167 bytes
+data\history\ضطعام600_history.json | 9,066 bytes
+data\history\ضطعام805_history.json | 441 bytes
+data\history\ضفرابورس702_history.json | 3,828 bytes
+data\history\ضفرابورس704_history.json | 3,914 bytes
+data\history\ضفرابورس708_history.json | 3,932 bytes
+data\history\ضفرابورس925_history.json | 3,932 bytes
+data\history\ضفرابورس929_history.json | 3,900 bytes
+data\history\ضفرابورس931_history.json | 3,908 bytes
+data\history\ضفزر503_history.json | 7,793 bytes
+data\history\ضفزر506_history.json | 7,805 bytes
+data\history\ضفزر614_history.json | 4,025 bytes
+data\history\ضفزر622_history.json | 4,006 bytes
+data\history\ضفزر624_history.json | 4,008 bytes
+data\history\ضفزر716_history.json | 912 bytes
+data\history\ضمان_history.json | 84,715 bytes
+data\history\ضمخا5011_history.json | 10,204 bytes
+data\history\ضمخا5021_history.json | 10,196 bytes
+data\history\ضمخا7091_history.json | 11,670 bytes
+data\history\ضمخا7097_history.json | 11,684 bytes
+data\history\ضمخا7103_history.json | 2,957 bytes
+data\history\ضمخا7105_history.json | 657 bytes
+data\history\ضمخا9014_history.json | 3,118 bytes
+data\history\ضمخا9015_history.json | 3,079 bytes
+data\history\ضمخا9020_history.json | 3,158 bytes
+data\history\ضمخا9022_history.json | 3,055 bytes
+data\history\ضمخا9023_history.json | 3,055 bytes
+data\history\ضملت5025_history.json | 11,404 bytes
+data\history\ضملت5027_history.json | 11,353 bytes
+data\history\ضملت5028_history.json | 11,378 bytes
+data\history\ضملت5032_history.json | 11,379 bytes
+data\history\ضملت6021_history.json | 12,132 bytes
+data\history\ضملت7040_history.json | 7,313 bytes
+data\history\ضملت7048_history.json | 7,132 bytes
+data\history\ضملت8078_history.json | 3,115 bytes
+data\history\ضملت8079_history.json | 3,121 bytes
+data\history\ضملی7072_history.json | 12,370 bytes
+data\history\ضملی9034_history.json | 4,180 bytes
+data\history\ضموج514_history.json | 11,948 bytes
+data\history\ضموج517_history.json | 12,060 bytes
+data\history\ضموج518_history.json | 12,008 bytes
+data\history\ضموج522_history.json | 12,023 bytes
+data\history\ضموج524_history.json | 10,112 bytes
+data\history\ضموج525_history.json | 10,003 bytes
+data\history\ضموج527_history.json | 10,002 bytes
+data\history\ضموج637_history.json | 12,097 bytes
+data\history\ضموج639_history.json | 11,721 bytes
+data\history\ضموج644_history.json | 11,721 bytes
+data\history\ضموج648_history.json | 10,215 bytes
+data\history\ضموج652_history.json | 10,022 bytes
+data\history\ضموج723_history.json | 1,956 bytes
+data\history\ضموج844_history.json | 1,956 bytes
+data\history\ضهرم5025_history.json | 11,543 bytes
+data\history\ضهرم5031_history.json | 11,510 bytes
+data\history\ضهرم6041_history.json | 11,294 bytes
+data\history\ضهرم6043_history.json | 11,228 bytes
+data\history\ضهرم7052_history.json | 6,313 bytes
+data\history\ضهمن5025_history.json | 9,177 bytes
+data\history\ضهمن5026_history.json | 8,941 bytes
+data\history\ضهمن5028_history.json | 9,265 bytes
+data\history\ضهمن5033_history.json | 9,091 bytes
+data\history\ضهمن7027_history.json | 2,496 bytes
+data\history\ضهمن7034_history.json | 2,464 bytes
+data\history\ضهمن7039_history.json | 2,450 bytes
+data\history\ضهمن9026_history.json | 1,965 bytes
+data\history\طبیعت061_history.json | 82,046 bytes
+data\history\طبیعت064_history.json | 82,224 bytes
+data\history\طبیعت067_history.json | 82,152 bytes
+data\history\طبیعت076_history.json | 67,302 bytes
+data\history\طعام_history.json | 69,236 bytes
+data\history\طلوع_history.json | 86,168 bytes
+data\history\طیور_history.json | 21,052 bytes
+data\history\ظبهمن55_history.json | 58,645 bytes
+data\history\ظبهمن56_history.json | 59,517 bytes
+data\history\ظتجار55_history.json | 59,517 bytes
+data\history\ظحسیر0511_history.json | 31,683 bytes
+data\history\ظخابر55_history.json | 58,645 bytes
+data\history\ظخاور0604_history.json | 10,343 bytes
+data\history\ظخود56_history.json | 58,971 bytes
+data\history\ظدفارا64_history.json | 39,163 bytes
+data\history\ظذوب55_history.json | 58,107 bytes
+data\history\ظساپا056_history.json | 58,914 bytes
+data\history\ظساپا505_history.json | 79,938 bytes
+data\history\ظسپ509_history.json | 66,653 bytes
+data\history\ظصند55_history.json | 58,107 bytes
+data\history\ظغگل55_history.json | 58,107 bytes
+data\history\ظمعاد504_history.json | 56,943 bytes
+data\history\ظملت55_history.json | 58,971 bytes
+data\history\ظمپنا55_history.json | 58,645 bytes
+data\history\ظنوین56_history.json | 57,773 bytes
+data\history\ظهرمز0509_history.json | 42,023 bytes
+data\history\ظهرمز0603_history.json | 42,023 bytes
+data\history\ظپارس56_history.json | 58,645 bytes
+data\history\ظپست55_history.json | 58,107 bytes
+data\history\ظکشو510_history.json | 36,025 bytes
+data\history\ظگستر56_history.json | 59,517 bytes
+data\history\عامر06_history.json | 44,187 bytes
+data\history\عقیق_history.json | 84,676 bytes
+data\history\عمارت دی_history.json | 16,760 bytes
+data\history\غاذر_history.json | 84,365 bytes
+data\history\غاذرح_history.json | 79,938 bytes
+data\history\غالبر_history.json | 85,231 bytes
+data\history\غالبرح_history.json | 81,033 bytes
+data\history\غانیزان_history.json | 86,380 bytes
+data\history\غانیزانح_history.json | 17,692 bytes
+data\history\غبشهر_history.json | 84,314 bytes
+data\history\غبشهرح_history.json | 80,668 bytes
+data\history\غبهنوش_history.json | 85,954 bytes
+data\history\غبهنوشح_history.json | 81,398 bytes
+data\history\غدام_history.json | 84,405 bytes
+data\history\غدامح_history.json | 79,938 bytes
+data\history\غدشت_history.json | 83,526 bytes
+data\history\غدشتح_history.json | 80,831 bytes
+data\history\غزر_history.json | 82,952 bytes
+data\history\غزنجان_history.json | 78,899 bytes
+data\history\غسالم_history.json | 84,486 bytes
+data\history\غسالمح_history.json | 80,303 bytes
+data\history\غشاذر_history.json | 84,752 bytes
+data\history\غشاذرح_history.json | 80,303 bytes
+data\history\غشان_history.json | 83,722 bytes
+data\history\غشانح_history.json | 79,938 bytes
+data\history\غشصفا_history.json | 84,553 bytes
+data\history\غشصفاح_history.json | 80,668 bytes
+data\history\غشهد_history.json | 83,697 bytes
+data\history\غمهرا_history.json | 84,997 bytes
+data\history\غمهراح_history.json | 81,398 bytes
+data\history\غنوش_history.json | 84,050 bytes
+data\history\غنوشح_history.json | 79,938 bytes
+data\history\غکورش_history.json | 84,734 bytes
+data\history\غگرجیح_history.json | 81,033 bytes
+data\history\غگل_history.json | 82,819 bytes
+data\history\غگلح_history.json | 79,573 bytes
+data\history\فاذر_history.json | 82,777 bytes
+data\history\فاذرح_history.json | 79,938 bytes
+data\history\فاراک_history.json | 84,702 bytes
+data\history\فاراکح_history.json | 80,303 bytes
+data\history\فارس_history.json | 83,933 bytes
+data\history\فارمانی_history.json | 86,663 bytes
+data\history\فاما_history.json | 83,516 bytes
+data\history\فاماح_history.json | 79,938 bytes
+data\history\فایرا_history.json | 84,544 bytes
+data\history\فایراح_history.json | 80,303 bytes
+data\history\فباهنر_history.json | 85,702 bytes
+data\history\فباهنرح_history.json | 81,763 bytes
+data\history\فبیستون_history.json | 81,398 bytes
+data\history\فجام_history.json | 83,724 bytes
+data\history\فجامح_history.json | 79,938 bytes
+data\history\فجر_history.json | 83,145 bytes
+data\history\فجرح_history.json | 78,843 bytes
+data\history\فخاس_history.json | 83,692 bytes
+data\history\فخاسح_history.json | 80,303 bytes
+data\history\فخوز_history.json | 82,930 bytes
+data\history\فخوزح_history.json | 79,938 bytes
+data\history\فرآور_history.json | 84,533 bytes
+data\history\فرآورح_history.json | 80,668 bytes
+data\history\فراطرح061_history.json | 82,858 bytes
+data\history\فراطرح062_history.json | 82,858 bytes
+data\history\فردا_history.json | 86,536 bytes
+data\history\فردوس_history.json | 79,938 bytes
+data\history\فرصت_history.json | 83,584 bytes
+data\history\فروس_history.json | 83,592 bytes
+data\history\فروسح_history.json | 79,938 bytes
+data\history\فروژ_history.json | 83,217 bytes
+data\history\فسازان_history.json | 85,375 bytes
+data\history\فسازانح_history.json | 81,398 bytes
+data\history\فسبزوار_history.json | 87,136 bytes
+data\history\فسرب_history.json | 83,180 bytes
+data\history\فسربح_history.json | 79,938 bytes
+data\history\فسوژ_history.json | 83,958 bytes
+data\history\فسپا_history.json | 83,852 bytes
+data\history\فسپاح_history.json | 79,938 bytes
+data\history\فسیکو_history.json | 79,938 bytes
+data\history\فلامی_history.json | 84,149 bytes
+data\history\فلامیح_history.json | 80,668 bytes
+data\history\فلوله_history.json | 84,432 bytes
+data\history\فلولهح_history.json | 80,668 bytes
+data\history\فمراد_history.json | 84,958 bytes
+data\history\فمرادح_history.json | 80,668 bytes
+data\history\فملی_history.json | 84,418 bytes
+data\history\فنوال_history.json | 84,439 bytes
+data\history\فنوالح_history.json | 80,668 bytes
+data\history\فنورد_history.json | 84,375 bytes
+data\history\فنوردح_history.json | 80,303 bytes
+data\history\فهامون_history.json | 82,090 bytes
+data\history\فولاد_history.json | 84,127 bytes
+data\history\فولادح_history.json | 80,303 bytes
+data\history\فولاژ_history.json | 84,483 bytes
+data\history\فولاژح_history.json | 80,668 bytes
+data\history\فپنتاح_history.json | 80,668 bytes
+data\history\فپوشش_history.json | 222 bytes
+data\history\فیروزه_history.json | 86,672 bytes
+data\history\قثابت_history.json | 84,526 bytes
+data\history\قثابتح_history.json | 80,668 bytes
+data\history\قرن_history.json | 84,114 bytes
+data\history\قرنح_history.json | 79,573 bytes
+data\history\قزوینح_history.json | 80,668 bytes
+data\history\قشهد_history.json | 83,356 bytes
+data\history\قشکر_history.json | 82,995 bytes
+data\history\قصفها_history.json | 84,625 bytes
+data\history\قصفهاح_history.json | 80,668 bytes
+data\history\قطران_history.json | 79,938 bytes
+data\history\قلرست_history.json | 84,805 bytes
+data\history\قلرستح_history.json | 80,668 bytes
+data\history\قمرو_history.json | 83,311 bytes
+data\history\قمروح_history.json | 79,938 bytes
+data\history\قنیشا_history.json | 84,549 bytes
+data\history\قنیشاح_history.json | 80,668 bytes
+data\history\قهکمتح_history.json | 80,668 bytes
+data\history\قپیرا_history.json | 84,749 bytes
+data\history\قپیراح_history.json | 80,668 bytes
+data\history\لابسا_history.json | 84,272 bytes
+data\history\لابساح_history.json | 80,303 bytes
+data\history\لبن_history.json | 9,678 bytes
+data\history\لبوتان_history.json | 85,139 bytes
+data\history\لبوتانح_history.json | 81,033 bytes
+data\history\لخزر_history.json | 83,010 bytes
+data\history\لخزرح_history.json | 79,938 bytes
+data\history\لسرماح_history.json | 80,303 bytes
+data\history\لطیف_history.json | 83,524 bytes
+data\history\لوتوس_history.json | 84,450 bytes
+data\history\لوتوسح_history.json | 81,124 bytes
+data\history\لورچ08_history.json | 81,048 bytes
+data\history\لپارس_history.json | 85,473 bytes
+data\history\لپارسح_history.json | 81,033 bytes
+data\history\ما_history.json | 82,203 bytes
+data\history\ماح_history.json | 77,748 bytes
+data\history\مانا_history.json | 84,296 bytes
+data\history\مانی_history.json | 86,065 bytes
+data\history\ماهور_history.json | 87,428 bytes
+data\history\متال_history.json | 84,978 bytes
+data\history\محتشم_history.json | 84,458 bytes
+data\history\مختلط_history.json | 39,904 bytes
+data\history\مدار_history.json | 78,843 bytes
+data\history\مداران_history.json | 84,965 bytes
+data\history\مدارانح_history.json | 81,836 bytes
+data\history\مزه_history.json | 76,114 bytes
+data\history\مطهر06_history.json | 80,989 bytes
+data\history\مظنه شهر10_history.json | 83,588 bytes
+data\history\مظنه شهر1_history.json | 83,223 bytes
+data\history\مظنه شهر2_history.json | 83,223 bytes
+data\history\مظنه شهر3_history.json | 83,223 bytes
+data\history\مظنه شهر4_history.json | 83,223 bytes
+data\history\مظنه شهر5_history.json | 83,223 bytes
+data\history\مظنه شهر6_history.json | 83,223 bytes
+data\history\مظنه شهر7_history.json | 83,223 bytes
+data\history\مظنه شهر8_history.json | 83,223 bytes
+data\history\مظنه شهر9_history.json | 83,223 bytes
+data\history\مظنه10_history.json | 81,033 bytes
+data\history\مظنه1_history.json | 10,832 bytes
+data\history\مظنه2_history.json | 10,832 bytes
+data\history\مظنه3_history.json | 80,668 bytes
+data\history\مظنه4_history.json | 80,668 bytes
+data\history\مظنه5_history.json | 80,668 bytes
+data\history\مظنه6_history.json | 80,668 bytes
+data\history\مظنه7_history.json | 80,668 bytes
+data\history\مظنه8_history.json | 80,668 bytes
+data\history\مظنه9_history.json | 80,668 bytes
+data\history\مظنه_history.json | 80,303 bytes
+data\history\معدن_history.json | 82,937 bytes
+data\history\مفاخر_history.json | 84,423 bytes
+data\history\ملت_history.json | 82,941 bytes
+data\history\ملتح_history.json | 78,843 bytes
+data\history\مهرگان_history.json | 82,878 bytes
+data\history\میدکو_history.json | 84,476 bytes
+data\history\میدکوح_history.json | 80,687 bytes
+data\history\نارین_history.json | 85,128 bytes
+data\history\ناما_history.json | 83,942 bytes
+data\history\ناماح_history.json | 55,435 bytes
+data\history\نان_history.json | 82,106 bytes
+data\history\نانو دارو08_history.json | 57,106 bytes
+data\history\نماد_history.json | 80,877 bytes
+data\history\نمرینو_history.json | 85,069 bytes
+data\history\نوری_history.json | 84,487 bytes
+data\history\نیروانا_history.json | 41,438 bytes
+data\history\هامرز_history.json | 86,817 bytes
+data\history\هانا_history.json | 34,289 bytes
+data\history\های وب_history.json | 82,923 bytes
+data\history\هم تراز_history.json | 54,974 bytes
+data\history\همتا_history.json | 84,251 bytes
+data\history\همراه_history.json | 84,574 bytes
+data\history\همراهح_history.json | 81,033 bytes
+data\history\هوشمند_history.json | 82,501 bytes
+data\history\وآذر_history.json | 83,658 bytes
+data\history\وآذرح_history.json | 80,303 bytes
+data\history\واتی_history.json | 83,744 bytes
+data\history\واتیح_history.json | 79,573 bytes
+data\history\واعتبار_history.json | 85,967 bytes
+data\history\واعتبارح_history.json | 81,763 bytes
+data\history\والبر_history.json | 84,499 bytes
+data\history\والبرح_history.json | 80,768 bytes
+data\history\وامید_history.json | 85,182 bytes
+data\history\وامیدح_history.json | 81,535 bytes
+data\history\وبازار_history.json | 86,232 bytes
+data\history\وبانک_history.json | 84,688 bytes
+data\history\وبشهر_history.json | 84,201 bytes
+data\history\وبشهرح_history.json | 81,080 bytes
+data\history\وبصادر_history.json | 84,373 bytes
+data\history\وبملت_history.json | 85,044 bytes
+data\history\وبملتح_history.json | 80,668 bytes
+data\history\وبهمن_history.json | 84,520 bytes
+data\history\وبهمنح_history.json | 80,303 bytes
+data\history\وبوعلی_history.json | 85,051 bytes
+data\history\وبیمهح_history.json | 80,303 bytes
+data\history\وتجارت_history.json | 84,475 bytes
+data\history\وتجارتح_history.json | 81,033 bytes
+data\history\وتوس_history.json | 83,804 bytes
+data\history\وتوسح_history.json | 79,573 bytes
+data\history\وتوسم_history.json | 84,442 bytes
+data\history\وتوسمح_history.json | 80,950 bytes
+data\history\وتوشه_history.json | 84,276 bytes
+data\history\وتوشهح_history.json | 80,668 bytes
+data\history\وتوصا_history.json | 84,727 bytes
+data\history\وتوصاح_history.json | 80,303 bytes
+data\history\وتوکا_history.json | 84,598 bytes
+data\history\وتوکاح_history.json | 80,668 bytes
+data\history\وخارزم_history.json | 85,624 bytes
+data\history\وخارزمح_history.json | 81,806 bytes
+data\history\وخاور_history.json | 84,724 bytes
+data\history\وخاورح_history.json | 80,668 bytes
+data\history\ورنا_history.json | 83,986 bytes
+data\history\ورناح_history.json | 78,843 bytes
+data\history\وساخت_history.json | 84,459 bytes
+data\history\وساختح_history.json | 80,303 bytes
+data\history\وساشرقی_history.json | 81,033 bytes
+data\history\وساپا_history.json | 84,424 bytes
+data\history\وساپاح_history.json | 79,938 bytes
+data\history\وسبوشهر_history.json | 81,398 bytes
+data\history\وستهران_history.json | 81,398 bytes
+data\history\وسخراج_history.json | 80,668 bytes
+data\history\وسخراش_history.json | 80,668 bytes
+data\history\وسخوز_history.json | 79,573 bytes
+data\history\وسزنجان_history.json | 81,398 bytes
+data\history\وسصفا_history.json | 79,573 bytes
+data\history\وسفارس_history.json | 80,668 bytes
+data\history\وسقزوین_history.json | 81,398 bytes
+data\history\وسقم_history.json | 79,208 bytes
+data\history\وسلرستا_history.json | 81,033 bytes
+data\history\وسمازن_history.json | 80,303 bytes
+data\history\وسمحال_history.json | 80,668 bytes
+data\history\وسمرکز_history.json | 80,668 bytes
+data\history\وسمنان_history.json | 80,668 bytes
+data\history\وسهرمز_history.json | 80,303 bytes
+data\history\وسهمدا_history.json | 80,303 bytes
+data\history\وسپه_history.json | 83,830 bytes
+data\history\وسپهح_history.json | 80,593 bytes
+data\history\وسکرد_history.json | 79,573 bytes
+data\history\وسکرشا_history.json | 80,303 bytes
+data\history\وسکرمان_history.json | 81,033 bytes
+data\history\وسکهبو_history.json | 80,668 bytes
+data\history\وسگلستا_history.json | 81,033 bytes
+data\history\وسگیلا_history.json | 80,303 bytes
+data\history\وسیزد_history.json | 79,938 bytes
+data\history\وسیلام_history.json | 80,668 bytes
+data\history\وسینا_history.json | 84,595 bytes
+data\history\وسیناح_history.json | 80,303 bytes
+data\history\وشستان_history.json | 80,668 bytes
+data\history\وصنا_history.json | 83,838 bytes
+data\history\وصناح_history.json | 79,208 bytes
+data\history\وصندوق_history.json | 86,520 bytes
+data\history\وصندوقح_history.json | 81,763 bytes
+data\history\وصنعت_history.json | 84,486 bytes
+data\history\وصنعتح_history.json | 79,938 bytes
+data\history\وطوبی_history.json | 84,482 bytes
+data\history\وطوبیح_history.json | 80,303 bytes
+data\history\ولتاژ_history.json | 30,527 bytes
+data\history\ولساپا_history.json | 84,160 bytes
+data\history\ولساپاح_history.json | 81,033 bytes
+data\history\ولصنم_history.json | 84,540 bytes
+data\history\ولصنمح_history.json | 80,303 bytes
+data\history\ولغدر_history.json | 84,363 bytes
+data\history\ولملت_history.json | 84,275 bytes
+data\history\ولملتح_history.json | 80,668 bytes
+data\history\ولنوینح_history.json | 77,825 bytes
+data\history\ولپارس_history.json | 85,054 bytes
+data\history\ولکار_history.json | 84,414 bytes
+data\history\ولکارح_history.json | 80,668 bytes
+data\history\ومدیر_history.json | 84,584 bytes
+data\history\ومعادن_history.json | 85,526 bytes
+data\history\ومعین_history.json | 79,938 bytes
+data\history\وملی_history.json | 85,893 bytes
+data\history\ومهان_history.json | 84,521 bytes
+data\history\ونفت_history.json | 83,639 bytes
+data\history\ونفتح_history.json | 79,938 bytes
+data\history\ونوین_history.json | 84,727 bytes
+data\history\ونوینح_history.json | 80,668 bytes
+data\history\ونچر_history.json | 80,451 bytes
+data\history\ونیرو_history.json | 83,683 bytes
+data\history\ونیروح_history.json | 80,668 bytes
+data\history\ونیکیح_history.json | 81,011 bytes
+data\history\وهور_history.json | 83,882 bytes
+data\history\وهورح_history.json | 79,573 bytes
+data\history\وپارس_history.json | 84,806 bytes
+data\history\وپارسح_history.json | 80,303 bytes
+data\history\وپاسار_history.json | 85,469 bytes
+data\history\وپاسارح_history.json | 81,398 bytes
+data\history\وپترو_history.json | 85,430 bytes
+data\history\وپتروح_history.json | 80,668 bytes
+data\history\وپخش_history.json | 84,857 bytes
+data\history\وپخشح_history.json | 80,303 bytes
+data\history\وپست_history.json | 83,610 bytes
+data\history\وپستح_history.json | 79,938 bytes
+data\history\وکار_history.json | 83,733 bytes
+data\history\وکارح_history.json | 79,938 bytes
+data\history\وکغدیر_history.json | 85,348 bytes
+data\history\وکغدیرح_history.json | 81,398 bytes
+data\history\پارس_history.json | 83,662 bytes
+data\history\پارسان_history.json | 86,090 bytes
+data\history\پارسانح_history.json | 81,033 bytes
+data\history\پارسیانح_history.json | 82,128 bytes
+data\history\پارند_history.json | 87,256 bytes
+data\history\پاسا_history.json | 84,525 bytes
+data\history\پاساح_history.json | 80,303 bytes
+data\history\پاسار06_history.json | 81,951 bytes
+data\history\پاسار09_history.json | 11,451 bytes
+data\history\پالایش_history.json | 87,860 bytes
+data\history\پاکشو_history.json | 84,474 bytes
+data\history\پتایر_history.json | 84,556 bytes
+data\history\پتروآگاه_history.json | 87,828 bytes
+data\history\پتروصبا_history.json | 86,592 bytes
+data\history\پترول_history.json | 84,503 bytes
+data\history\پترولح_history.json | 80,668 bytes
+data\history\پخش اول_history.json | 81,033 bytes
+data\history\پدرخش_history.json | 84,073 bytes
+data\history\پدرخشح_history.json | 80,668 bytes
+data\history\پرداخت_history.json | 84,988 bytes
+data\history\پرداختح_history.json | 81,763 bytes
+data\history\پرطلا_history.json | 74,901 bytes
+data\history\پسهند_history.json | 85,525 bytes
+data\history\پلاسک_history.json | 84,400 bytes
+data\history\پلاسکح_history.json | 80,303 bytes
+data\history\پوراطب072_history.json | 82,858 bytes
+data\history\پژوهان09_history.json | 9,971 bytes
+data\history\پکرمان_history.json | 85,208 bytes
+data\history\پکویرح_history.json | 80,668 bytes
+data\history\پی پاد_history.json | 84,739 bytes
+data\history\پیشران_history.json | 73,523 bytes
+data\history\چافست_history.json | 85,144 bytes
+data\history\چافستح_history.json | 80,668 bytes
+data\history\چاپ_history.json | 35,993 bytes
+data\history\چبسپا_history.json | 49,278 bytes
+data\history\چبسپاح_history.json | 49,728 bytes
+data\history\چتر_history.json | 83,899 bytes
+data\history\چخزر_history.json | 84,750 bytes
+data\history\چدن_history.json | 83,225 bytes
+data\history\چرمش_history.json | 79,208 bytes
+data\history\چکارم_history.json | 49,278 bytes
+data\history\چکارمح_history.json | 49,728 bytes
+data\history\کاخ_history.json | 27,885 bytes
+data\history\کاذر_history.json | 83,688 bytes
+data\history\کاردان_history.json | 87,529 bytes
+data\history\کالا_history.json | 84,101 bytes
+data\history\کاماح_history.json | 79,938 bytes
+data\history\کاوه_history.json | 83,958 bytes
+data\history\کاوهح_history.json | 79,938 bytes
+data\history\کبافق_history.json | 85,457 bytes
+data\history\کبافقح_history.json | 80,303 bytes
+data\history\کترام_history.json | 84,391 bytes
+data\history\کترامح_history.json | 80,668 bytes
+data\history\کدماح_history.json | 80,668 bytes
+data\history\کرازی_history.json | 83,898 bytes
+data\history\کرازیح_history.json | 80,911 bytes
+data\history\کربن_history.json | 84,495 bytes
+data\history\کربنح_history.json | 28,621 bytes
+data\history\کرماشا_history.json | 86,359 bytes
+data\history\کرماشاح_history.json | 81,398 bytes
+data\history\کزغال_history.json | 84,412 bytes
+data\history\کزغالح_history.json | 81,206 bytes
+data\history\کساوه_history.json | 85,052 bytes
+data\history\کساوهح_history.json | 80,668 bytes
+data\history\کساپا_history.json | 84,353 bytes
+data\history\کساپاح_history.json | 80,668 bytes
+data\history\کسراح_history.json | 79,573 bytes
+data\history\کسرام_history.json | 83,192 bytes
+data\history\کسعدی_history.json | 84,487 bytes
+data\history\کفرا_history.json | 83,302 bytes
+data\history\کفراح_history.json | 80,216 bytes
+data\history\کفپارس_history.json | 85,144 bytes
+data\history\کفپارسح_history.json | 81,033 bytes
+data\history\کلوند_history.json | 84,463 bytes
+data\history\کلوندح_history.json | 81,136 bytes
+data\history\کلید_history.json | 85,627 bytes
+data\history\کماسه_history.json | 84,410 bytes
+data\history\کماسهح_history.json | 80,668 bytes
+data\history\کمنگنز_history.json | 85,016 bytes
+data\history\کمنگنزح_history.json | 81,763 bytes
+data\history\کنور_history.json | 83,714 bytes
+data\history\کنورح_history.json | 80,295 bytes
+data\history\کوچین_history.json | 82,173 bytes
+data\history\کویر_history.json | 83,865 bytes
+data\history\کویرح_history.json | 80,303 bytes
+data\history\کپارسح_history.json | 81,033 bytes
+data\history\کپرور_history.json | 84,814 bytes
+data\history\کپشیر_history.json | 85,088 bytes
+data\history\کچینی_history.json | 49,278 bytes
+data\history\کگاز_history.json | 84,634 bytes
+data\history\کگازح_history.json | 80,303 bytes
+data\history\کگل_history.json | 82,982 bytes
+data\history\کگلح_history.json | 79,643 bytes
+data\history\کیان_history.json | 86,790 bytes
+data\history\کیانا_history.json | 83,969 bytes
+data\history\کیاناح_history.json | 77,812 bytes
+data\history\کیمیاتک_history.json | 86,417 bytes
+data\history\گلچین07_history.json | 32,507 bytes
+data\history\یلدا_history.json | 61,234 bytes
+data\market_data.db | 0 bytes
+data\market_today.json | 269,103 bytes
+data\order_book_khegostar.json | 710 bytes
+data\smart_bourse.db | 21,987,328 bytes
+data\symbols.txt | 40 bytes
+data\trades.db | 12,288 bytes
+data\tsetmc_20260902_033119.json | 2,299 bytes
+data\tsetmc_all_20260902_040150.json | 2,674,511 bytes
+data\tsetmc_order.json | 1,169 bytes
+data\tsetmc_price.json | 900 bytes
+data\watchlist.json | 87 bytes
+database\__init__.py | 0 bytes
+database\database.py | 7,122 bytes
+database\symbol_repository.py | 6,475 bytes
+decision\ai_decision_engine.py | 4,231 bytes
+DeepSeek_RoadMap.txt | 3,657 bytes
+delete_symbols.py | 205 bytes
+download_all_history.py | 1,414 bytes
+eitaa\eitaa_bot.py | 1,394 bytes
+engines\advanced_scanner.py | 8,769 bytes
+engines\crisis_swing_engine.py | 3,017 bytes
+engines\long_term_engine.py | 4,651 bytes
+engines\market_psychology_engine.py | 4,150 bytes
+engines\mid_term_engine.py | 7,152 bytes
+engines\swing_engine.py | 2,794 bytes
+engines\swing_target.py.py | 4,735 bytes
+excel_to_json.py | 904 bytes
+filter_volume.py | 303 bytes
+find_basing_relative.py | 4,497 bytes
+find_basing_stocks.py | 2,684 bytes
+find_basing_stocks_advanced.py | 3,298 bytes
+find_data.py | 354 bytes
+find_high_buyer_ratio.py | 3,629 bytes
+find_high_buyer_ratio_weekly.py | 3,234 bytes
+find_order_book.py | 330 bytes
+full_scanner.py | 5,486 bytes
+fundamental\fundamental_analyzer.py | 7,694 bytes
+history\__init__.py | 0 bytes
+history\history_database.py | 8,920 bytes
+history\history_downloader.py | 6,037 bytes
+history\history_manager.py | 1,234 bytes
+indicators\__init__.py | 0 bytes
+indicators\adx.py | 5,107 bytes
+indicators\atr.py | 1,816 bytes
+indicators\bollinger.py | 1,668 bytes
+indicators\ema.py | 866 bytes
+indicators\fibonacci.py | 3,058 bytes
+indicators\ichimoku.py | 6,190 bytes
+indicators\indicator_manager.py | 2,350 bytes
+indicators\macd.py | 1,566 bytes
+indicators\moving_average.py | 2,316 bytes
+indicators\rsi.py | 3,996 bytes
+indicators\supertrend.py | 6,124 bytes
+list_files.py | 284 bytes
+logs\auto_trader.log | 311 bytes
+logs\daily_run.log | 16,258 bytes
+logs\market_scanner.log | 104,921 bytes
+logs\run_20260830_224918.log | 9,899 bytes
+logs\run_20260901_171755.log | 9,919 bytes
+logs\run_20260901_174549.log | 12,436 bytes
+logs\run_20260901_231742.log | 572 bytes
+logs\smart_bourse.log | 119,758 bytes
+main.py | 284 bytes
+market\__init__.py | 157 bytes
+market\api.py | 6,204 bytes
+market\data_loader.py | 1,215 bytes
+market\data_validator.py | 4,856 bytes
+market\history_downloader.py | 3,494 bytes
+market\market_manager.py | 2,914 bytes
+market\market_scanner.py | 4,621 bytes
+market\market_status.py | 4,051 bytes
+market\scheduler.py | 1,301 bytes
+market\sector_manager.py | 2,051 bytes
+market\symbol_downloader.py | 4,326 bytes
+market\symbol_loader.py | 675 bytes
+market\symbol_manager.py | 1,613 bytes
+market\updater.py | 1,964 bytes
+market.py | 660 bytes
+market_downloader.py | 3,991 bytes
+market_manager.py | 3,284 bytes
+market_scanner.py | 7,593 bytes
+models\__init__.py | 0 bytes
+models\stock.py | 555 bytes
+New Text Document.txt | 0 bytes
+news\news_analyzer.py | 1,334 bytes
+order_book_parser.py | 2,037 bytes
+paper\paper_trading.py | 2,683 bytes
+portfolio\__init__.py | 0 bytes
+portfolio\portfolio.py | 3,341 bytes
+portfolio\position.py | 1,819 bytes
+project_config.py | 179 bytes
+python ba claude\def\tamrin_1_def.py | 57 bytes
+python ba claude\def\tamrin_2_def.py | 85 bytes
+python ba claude\def\tamrin__3def.py | 266 bytes
+python ba claude\python_learning_roadmap.txt | 2,404 bytes
+python ba claude\tamrin1-1.py | 333 bytes
+python ba claude\tamrin1.py | 405 bytes
+python ba claude\tamrin2_2.py | 429 bytes
+python ba claude\tamrin3.py | 84 bytes
+python ba claude\tamrin3_3.py | 86 bytes
+python ba claude\tamrin4.py | 73 bytes
+README.md | 54 bytes
+reports\auto_trader_signal.txt | 644 bytes
+reports\daily_signal.txt | 3,211 bytes
+reports\excel_export.py | 1,166 bytes
+reports\market_scanner_report.txt | 1,002,710 bytes
+reports\performance_report.py | 1,323 bytes
+reports\report_generator.py | 1,680 bytes
+reports\report_manager.py | 108 bytes
+reports\technical_analysis_report.txt | 4,850 bytes
+requirements.txt | 0 bytes
+risk\__init__.py | 0 bytes
+risk\risk_manager.py | 3,074 bytes
+run.bat | 75 bytes
+run.py | 13,220 bytes
+run_downloader.py | 437 bytes
+run_first70.txt | 1,736 bytes
+save_order_book.py | 847 bytes
+scanner\__init__.py | 0 bytes
+scanner\scanner.py | 1,570 bytes
+scheduler\scheduler.py | 1,612 bytes
+send_diagnostic_to_github.py | 7,300 bytes
+show_db.py | 2,203 bytes
+show_stocks.py | 290 bytes
+simple_signal.py | 546 bytes
+Smart_Bourse_RoadMap.txt | 1,487 bytes
+strategy\risk_manager.py | 4,439 bytes
+strategy\scenario_engine.py | 8,885 bytes
+strategy\score_manager.py | 4,966 bytes
+strategy\signal_engine.py | 10,930 bytes
+strategy\signal_manager.py | 3,637 bytes
+strategy\strategy_manager.py | 7,014 bytes
+test.khegostar.py | 501 bytes
+test_csv.py | 334 bytes
+test_database.py | 486 bytes
+test_eitaa.py | 1,130 bytes
+test_foolad.py | 690 bytes
+tests\__init__.py | 0 bytes
+tests\test_foolad_api.py | 325 bytes
+tests\test_indicators.py | 14,328 bytes
+tests\test_logger.py | 175 bytes
+tests\test_market_scanner.py | 1,047 bytes
+tests\test_rsi.py | 2,027 bytes
+tests\test_scenario_engine.py | 1,573 bytes
+tests\test_signal_engine.py | 13,859 bytes
+tests\test_stock.py | 263 bytes
+tsetmc_all_symbols.py | 3,313 bytes
+tsetmc_auto.py | 3,179 bytes
+tsetmc_fetcher.py | 1,016 bytes
+tsetmc_order.py | 900 bytes
+tsetmc_selenium.py | 3,154 bytes
+ui\dashboard.py | 0 bytes
+ui\main_dashboard.py | 999 bytes
+update_khegostar.py | 393 bytes
+update_project.py | 2,307 bytes
+utils\__init__.py | 0 bytes
+utils\file_manager.py | 1,167 bytes
+utils\logger.py | 710 bytes
+utils\symbol_map.py | 268 bytes
+view_structure.py | 362 bytes
+======================================================================
+PYTHON FILES
+======================================================================
+ai\ai_engine.py | 92 lines
+ai\backtest_optimizer.py | 228 lines
+ai\momentum_scanner.py | 59 lines
+ai\order_flow_analyzer.py | 90 lines
+ai\whale_detector.py | 62 lines
+analysis\__init__.py | 8 lines
+analysis\analysis.py | 193 lines
+analysis\backtest.py | 31 lines
+analysis\candlestick.py | 0 lines
+analysis\portfolio.py | 45 lines
+analysis\report.py | 31 lines
+analysis\risk.py | 37 lines
+analysis\score.py | 47 lines
+analysis\score_engine.py | 0 lines
+analysis\signal.py | 55 lines
+analysis\signal_engine.py | 229 lines
+analysis\strategy.py | 322 lines
+analysis\support_resistance.py | 97 lines
+analysis\trend.py | 89 lines
+analysis\trend_detector.py | 108 lines
+analyze_all_whales.py | 95 lines
+auto_trader.py | 179 lines
+backtest\__init__.py | 0 lines
+backtest\backtest.py | 0 lines
+backtest\backtest_engine.py | 363 lines
+batch_backtest.py | 37 lines
+bidar_scraper.py | 60 lines
+charts\candlestick.py | 68 lines
+charts\chart.py | 81 lines
+check_data.py | 4 lines
+check_data_date.py | 82 lines
+check_db.py | 13 lines
+check_history.py | 22 lines
+check_project.py | 100 lines
+check_stock_data.py | 42 lines
+config.py | 35 lines
+core\data_fetcher.py | 127 lines
+core\event_analyzer.py | 122 lines
+core\logger.py | 29 lines
+core\market_health.py | 79 lines
+core\trade_recorder.py | 54 lines
+create_fundamental_csv.py | 29 lines
+create_project.py | 64 lines
+custom_signal.py | 17 lines
+daily_change.py | 9 lines
+daily_runner.py | 246 lines
+database\__init__.py | 0 lines
+database\database.py | 231 lines
+database\symbol_repository.py | 339 lines
+decision\ai_decision_engine.py | 115 lines
+delete_symbols.py | 12 lines
+download_all_history.py | 46 lines
+eitaa\eitaa_bot.py | 87 lines
+engines\advanced_scanner.py | 220 lines
+engines\crisis_swing_engine.py | 76 lines
+engines\long_term_engine.py | 121 lines
+engines\market_psychology_engine.py | 84 lines
+engines\mid_term_engine.py | 175 lines
+engines\swing_engine.py | 76 lines
+engines\swing_target.py.py | 121 lines
+excel_to_json.py | 25 lines
+filter_volume.py | 9 lines
+find_basing_relative.py | 124 lines
+find_basing_stocks.py | 83 lines
+find_basing_stocks_advanced.py | 102 lines
+find_data.py | 13 lines
+find_high_buyer_ratio.py | 100 lines
+find_high_buyer_ratio_weekly.py | 91 lines
+find_order_book.py | 10 lines
+full_scanner.py | 150 lines
+fundamental\fundamental_analyzer.py | 199 lines
+history\__init__.py | 0 lines
+history\history_database.py | 448 lines
+history\history_downloader.py | 307 lines
+history\history_manager.py | 68 lines
+indicators\__init__.py | 0 lines
+indicators\adx.py | 232 lines
+indicators\atr.py | 88 lines
+indicators\bollinger.py | 83 lines
+indicators\ema.py | 49 lines
+indicators\fibonacci.py | 147 lines
+indicators\ichimoku.py | 306 lines
+indicators\indicator_manager.py | 99 lines
+indicators\macd.py | 85 lines
+indicators\moving_average.py | 128 lines
+indicators\rsi.py | 199 lines
+indicators\supertrend.py | 284 lines
+list_files.py | 10 lines
+main.py | 15 lines
+market\__init__.py | 11 lines
+market\api.py | 267 lines
+market\data_loader.py | 73 lines
+market\data_validator.py | 237 lines
+market\history_downloader.py | 172 lines
+market\market_manager.py | 138 lines
+market\market_scanner.py | 217 lines
+market\market_status.py | 175 lines
+market\scheduler.py | 73 lines
+market\sector_manager.py | 110 lines
+market\symbol_downloader.py | 159 lines
+market\symbol_loader.py | 42 lines
+market\symbol_manager.py | 89 lines
+market\updater.py | 98 lines
+market.py | 37 lines
+market_downloader.py | 112 lines
+market_manager.py | 175 lines
+market_scanner.py | 196 lines
+models\__init__.py | 0 lines
+models\stock.py | 41 lines
+news\news_analyzer.py | 89 lines
+order_book_parser.py | 42 lines
+paper\paper_trading.py | 161 lines
+portfolio\__init__.py | 0 lines
+portfolio\portfolio.py | 185 lines
+portfolio\position.py | 113 lines
+project_config.py | 11 lines
+python ba claude\def\tamrin_1_def.py | 4 lines
+python ba claude\def\tamrin_2_def.py | 5 lines
+python ba claude\def\tamrin__3def.py | 16 lines
+python ba claude\tamrin1-1.py | 9 lines
+python ba claude\tamrin1.py | 16 lines
+python ba claude\tamrin2_2.py | 14 lines
+python ba claude\tamrin3.py | 5 lines
+python ba claude\tamrin3_3.py | 5 lines
+python ba claude\tamrin4.py | 6 lines
+reports\excel_export.py | 79 lines
+reports\performance_report.py | 85 lines
+reports\report_generator.py | 101 lines
+reports\report_manager.py | 9 lines
+risk\__init__.py | 0 lines
+risk\risk_manager.py | 195 lines
+run.py | 343 lines
+run_downloader.py | 11 lines
+save_order_book.py | 18 lines
+scanner\__init__.py | 0 lines
+scanner\scanner.py | 83 lines
+scheduler\scheduler.py | 98 lines
+send_diagnostic_to_github.py | 320 lines
+show_db.py | 75 lines
+show_stocks.py | 8 lines
+simple_signal.py | 17 lines
+strategy\risk_manager.py | 181 lines
+strategy\scenario_engine.py | 387 lines
+strategy\score_manager.py | 197 lines
+strategy\signal_engine.py | 488 lines
+strategy\signal_manager.py | 183 lines
+strategy\strategy_manager.py | 303 lines
+test.khegostar.py | 21 lines
+test_csv.py | 12 lines
+test_database.py | 32 lines
+test_eitaa.py | 36 lines
+test_foolad.py | 33 lines
+tests\__init__.py | 0 lines
+tests\test_foolad_api.py | 20 lines
+tests\test_indicators.py | 660 lines
+tests\test_logger.py | 11 lines
+tests\test_market_scanner.py | 71 lines
+tests\test_rsi.py | 114 lines
+tests\test_scenario_engine.py | 90 lines
+tests\test_signal_engine.py | 643 lines
+tests\test_stock.py | 19 lines
+tsetmc_all_symbols.py | 90 lines
+tsetmc_auto.py | 79 lines
+tsetmc_fetcher.py | 30 lines
+tsetmc_order.py | 28 lines
+tsetmc_selenium.py | 78 lines
+ui\dashboard.py | 0 lines
+ui\main_dashboard.py | 61 lines
+update_khegostar.py | 10 lines
+update_project.py | 135 lines
+utils\__init__.py | 0 lines
+utils\file_manager.py | 59 lines
+utils\logger.py | 42 lines
+utils\symbol_map.py | 16 lines
+view_structure.py | 11 lines
+======================================================================
+IMPORTANT FILE STATUS
+======================================================================
+main.py: EXISTS
+daily_runner.py: EXISTS
+project_config.py: EXISTS
+README.md: EXISTS
+======================================================================
+CHECK_PROJECT.PY OUTPUT
+======================================================================
+======================================================================
+       SMART BOURSE - PROJECT DIAGNOSTIC
+======================================================================
+
+Project path:
+F:\python\har roz ba python\smart_bours
+
+Check time:
+2026-09-12 13:46:38
+
+======================================================================
+PROJECT STRUCTURE
+======================================================================
+[FILE] .gitignore  (81 bytes)
+[DIR ] ai
+[FILE] ai\ai_engine.py  (1,605 bytes)
+[FILE] ai\backtest_optimizer.py  (9,702 bytes)
+[FILE] ai\momentum_scanner.py  (2,286 bytes)
+[FILE] ai\order_flow_analyzer.py  (3,002 bytes)
+[FILE] ai\whale_detector.py  (2,641 bytes)
+[DIR ] analysis
+[FILE] analysis\__init__.py  (219 bytes)
+[FILE] analysis\analysis.py  (3,593 bytes)
+[FILE] analysis\backtest.py  (345 bytes)
+[FILE] analysis\candlestick.py  (0 bytes)
+[FILE] analysis\portfolio.py  (598 bytes)
+[FILE] analysis\report.py  (355 bytes)
+[FILE] analysis\risk.py  (450 bytes)
+[FILE] analysis\score.py  (707 bytes)
+[FILE] analysis\score_engine.py  (0 bytes)
+[FILE] analysis\signal.py  (771 bytes)
+[FILE] analysis\signal_engine.py  (4,316 bytes)
+[FILE] analysis\strategy.py  (7,644 bytes)
+[FILE] analysis\support_resistance.py  (3,418 bytes)
+[FILE] analysis\trend.py  (3,052 bytes)
+[FILE] analysis\trend_detector.py  (1,735 bytes)
+[FILE] analyze_all_whales.py  (3,859 bytes)
+[FILE] auto_trader.py  (6,299 bytes)
+[DIR ] backtest
+[FILE] backtest\__init__.py  (0 bytes)
+[FILE] backtest\backtest.py  (0 bytes)
+[FILE] backtest\backtest_engine.py  (6,608 bytes)
+[DIR ] backup
+[FILE] batch_backtest.py  (1,146 bytes)
+[FILE] bidar_scraper.py  (2,344 bytes)
+[DIR ] charts
+[FILE] charts\candlestick.py  (1,027 bytes)
+[FILE] charts\chart.py  (1,199 bytes)
+[FILE] check_data.py  (110 bytes)
+[FILE] check_data_date.py  (2,540 bytes)
+[FILE] check_db.py  (344 bytes)
+[FILE] check_history.py  (640 bytes)
+[FILE] check_project.py  (2,585 bytes)
+[FILE] check_stock_data.py  (1,524 bytes)
+[FILE] config.py  (1,315 bytes)
+[DIR ] core
+[DIR ] core\data
+[FILE] core\data\events.json  (268 bytes)
+[FILE] core\data\market_data.db  (12,288 bytes)
+[FILE] core\data_fetcher.py  (4,962 bytes)
+[FILE] core\event_analyzer.py  (5,123 bytes)
+[FILE] core\logger.py  (1,115 bytes)
+[FILE] core\market_health.py  (3,170 bytes)
+[FILE] core\trade_recorder.py  (1,810 bytes)
+[FILE] create_fundamental_csv.py  (1,172 bytes)
+[FILE] create_project.py  (982 bytes)
+[FILE] custom_signal.py  (643 bytes)
+[FILE] daily_change.py  (323 bytes)
+[FILE] daily_runner.py  (9,720 bytes)
+[DIR ] data
+[FILE] data\bidar_data.json  (277,172 bytes)
+[FILE] data\config.json  (125 bytes)
+[FILE] data\events.json  (268 bytes)
+[FILE] data\fundamental_data.csv  (403 bytes)
+[FILE] data\fundamental_data.csv.txt  (409 bytes)
+[DIR ] data\history
+[FILE] data\history\femeli_history.json  (83,684 bytes)
+[FILE] data\history\foolad_history.json  (82,666 bytes)
+[FILE] data\history\history.db  (40,960 bytes)
+[FILE] data\history\khodro_history.json  (81,869 bytes)
+[FILE] data\history\market_2026_07_24.json  (682 bytes)
+[FILE] data\history\market_2026_07_25.json  (682 bytes)
+[FILE] data\history\market_2026_07_26.json  (682 bytes)
+[FILE] data\history\market_2026_07_27.json  (682 bytes)
+[FILE] data\history\market_2026_07_28.json  (682 bytes)
+[FILE] data\history\market_2026_07_30.json  (682 bytes)
+[FILE] data\history\market_2026_07_31.json  (682 bytes)
+[FILE] data\history\market_2026_08_01.json  (682 bytes)
+[FILE] data\history\market_2026_08_02.json  (682 bytes)
+[FILE] data\history\market_2026_08_03.json  (682 bytes)
+[FILE] data\history\market_2026_08_05.json  (682 bytes)
+[FILE] data\history\market_2026_08_06.json  (682 bytes)
+[FILE] data\history\market_2026_08_07.json  (682 bytes)
+[FILE] data\history\market_2026_08_08.json  (682 bytes)
+[FILE] data\history\market_2026_08_09.json  (682 bytes)
+[FILE] data\history\market_2026_08_10.json  (682 bytes)
+[FILE] data\history\market_2026_08_11.json  (682 bytes)
+[FILE] data\history\market_2026_08_12.json  (476 bytes)
+[FILE] data\history\market_2026_08_13.json  (713 bytes)
+[FILE] data\history\market_2026_08_15.json  (714 bytes)
+[FILE] data\history\market_2026_08_25.json  (713 bytes)
+[FILE] data\history\market_2026_08_30.json  (713 bytes)
+[FILE] data\history\market_2026_09_01.json  (714 bytes)
+
+
+--- STDERR ---
+Traceback (most recent call last):
+  File "F:\python\har roz ba python\smart_bours\check_project.py", line 38, in <module>
+    print(f"[FILE] {relative}  ({size:,} bytes)")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mehdi\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 20-23: character maps to <undefined>
+
+
+--- RETURN CODE: 1 ---
