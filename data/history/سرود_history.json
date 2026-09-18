@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "سرود",
+        "trade_date": 20260901,
+        "open_price": 17390.0,
+        "high_price": 17780.0,
+        "low_price": 16760.0,
+        "close_price": 17230.0,
+        "volume": 31691287.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260831,
+        "open_price": 17230.0,
+        "high_price": 17700.0,
+        "low_price": 17230.0,
+        "close_price": 17270.0,
+        "volume": 39520731.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260829,
+        "open_price": 17760.0,
+        "high_price": 17770.0,
+        "low_price": 17500.0,
+        "close_price": 17760.0,
+        "volume": 31709296.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260826,
+        "open_price": 17200.0,
+        "high_price": 17300.0,
+        "low_price": 16560.0,
+        "close_price": 17260.0,
+        "volume": 39035829.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260825,
+        "open_price": 16350.0,
+        "high_price": 16870.0,
+        "low_price": 16340.0,
+        "close_price": 16800.0,
+        "volume": 37122375.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260824,
+        "open_price": 16500.0,
+        "high_price": 16740.0,
+        "low_price": 16340.0,
+        "close_price": 16380.0,
+        "volume": 41251273.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260823,
+        "open_price": 17270.0,
+        "high_price": 17290.0,
+        "low_price": 16740.0,
+        "close_price": 16840.0,
+        "volume": 32167767.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260822,
+        "open_price": 17420.0,
+        "high_price": 17420.0,
+        "low_price": 16980.0,
+        "close_price": 17250.0,
+        "volume": 38604301.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260819,
+        "open_price": 16500.0,
+        "high_price": 16990.0,
+        "low_price": 16130.0,
+        "close_price": 16920.0,
+        "volume": 37101004.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260818,
+        "open_price": 16380.0,
+        "high_price": 16720.0,
+        "low_price": 15760.0,
+        "close_price": 16500.0,
+        "volume": 47864053.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260817,
+        "open_price": 16280.0,
+        "high_price": 16280.0,
+        "low_price": 15970.0,
+        "close_price": 16240.0,
+        "volume": 29433468.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260816,
+        "open_price": 15160.0,
+        "high_price": 15960.0,
+        "low_price": 15160.0,
+        "close_price": 15810.0,
+        "volume": 36344070.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260815,
+        "open_price": 16000.0,
+        "high_price": 16000.0,
+        "low_price": 15480.0,
+        "close_price": 15500.0,
+        "volume": 20729568.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260811,
+        "open_price": 16350.0,
+        "high_price": 16690.0,
+        "low_price": 15870.0,
+        "close_price": 15950.0,
+        "volume": 78148519.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260810,
+        "open_price": 16340.0,
+        "high_price": 16600.0,
+        "low_price": 16340.0,
+        "close_price": 16360.0,
+        "volume": 74899981.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260809,
+        "open_price": 17650.0,
+        "high_price": 17650.0,
+        "low_price": 16630.0,
+        "close_price": 16840.0,
+        "volume": 62947701.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260808,
+        "open_price": 17140.0,
+        "high_price": 17150.0,
+        "low_price": 17000.0,
+        "close_price": 17140.0,
+        "volume": 16014161.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260805,
+        "open_price": 16660.0,
+        "high_price": 16660.0,
+        "low_price": 16640.0,
+        "close_price": 16660.0,
+        "volume": 58859511.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260803,
+        "open_price": 16150.0,
+        "high_price": 16180.0,
+        "low_price": 15800.0,
+        "close_price": 16180.0,
+        "volume": 70239316.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260802,
+        "open_price": 16100.0,
+        "high_price": 16250.0,
+        "low_price": 15310.0,
+        "close_price": 15710.0,
+        "volume": 47896975.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260801,
+        "open_price": 15800.0,
+        "high_price": 15830.0,
+        "low_price": 15340.0,
+        "close_price": 15780.0,
+        "volume": 41084827.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260729,
+        "open_price": 15100.0,
+        "high_price": 15650.0,
+        "low_price": 14750.0,
+        "close_price": 15370.0,
+        "volume": 45661971.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260728,
+        "open_price": 15150.0,
+        "high_price": 15250.0,
+        "low_price": 14850.0,
+        "close_price": 15200.0,
+        "volume": 51532133.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260727,
+        "open_price": 15200.0,
+        "high_price": 15200.0,
+        "low_price": 14750.0,
+        "close_price": 14810.0,
+        "volume": 79186691.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260726,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 14060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260725,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 14060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260722,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 15660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260721,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 15660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260720,
+        "open_price": 15660.0,
+        "high_price": 15660.0,
+        "low_price": 15660.0,
+        "close_price": 15660.0,
+        "volume": 6309800.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260719,
+        "open_price": 14920.0,
+        "high_price": 15240.0,
+        "low_price": 14720.0,
+        "close_price": 15210.0,
+        "volume": 10374472.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260718,
+        "open_price": 15250.0,
+        "high_price": 15250.0,
+        "low_price": 14370.0,
+        "close_price": 14800.0,
+        "volume": 58616017.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260715,
+        "open_price": 14810.0,
+        "high_price": 14810.0,
+        "low_price": 14810.0,
+        "close_price": 14810.0,
+        "volume": 17215417.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260714,
+        "open_price": 14390.0,
+        "high_price": 14390.0,
+        "low_price": 14140.0,
+        "close_price": 14380.0,
+        "volume": 43048518.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260713,
+        "open_price": 13360.0,
+        "high_price": 14140.0,
+        "low_price": 13360.0,
+        "close_price": 13980.0,
+        "volume": 17346047.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260712,
+        "open_price": 13730.0,
+        "high_price": 14000.0,
+        "low_price": 13730.0,
+        "close_price": 13730.0,
+        "volume": 41842059.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260711,
+        "open_price": 14100.0,
+        "high_price": 14580.0,
+        "low_price": 14000.0,
+        "close_price": 14150.0,
+        "volume": 51788632.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260708,
+        "open_price": 14480.0,
+        "high_price": 14910.0,
+        "low_price": 14050.0,
+        "close_price": 14430.0,
+        "volume": 72788512.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260707,
+        "open_price": 14480.0,
+        "high_price": 14480.0,
+        "low_price": 14480.0,
+        "close_price": 14480.0,
+        "volume": 15763053.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260701,
+        "open_price": 14180.0,
+        "high_price": 14530.0,
+        "low_price": 13760.0,
+        "close_price": 14060.0,
+        "volume": 89464997.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260630,
+        "open_price": 14200.0,
+        "high_price": 14620.0,
+        "low_price": 14110.0,
+        "close_price": 14180.0,
+        "volume": 136744763.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260629,
+        "open_price": 14460.0,
+        "high_price": 15250.0,
+        "low_price": 14420.0,
+        "close_price": 14540.0,
+        "volume": 45860492.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260628,
+        "open_price": 15050.0,
+        "high_price": 15050.0,
+        "low_price": 14290.0,
+        "close_price": 14860.0,
+        "volume": 130295358.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260627,
+        "open_price": 14620.0,
+        "high_price": 14620.0,
+        "low_price": 14600.0,
+        "close_price": 14620.0,
+        "volume": 61370500.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260623,
+        "open_price": 14200.0,
+        "high_price": 14200.0,
+        "low_price": 14200.0,
+        "close_price": 14200.0,
+        "volume": 9853211.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260622,
+        "open_price": 13870.0,
+        "high_price": 14280.0,
+        "low_price": 13460.0,
+        "close_price": 13790.0,
+        "volume": 105142157.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260621,
+        "open_price": 14030.0,
+        "high_price": 14030.0,
+        "low_price": 13350.0,
+        "close_price": 13870.0,
+        "volume": 305798615.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260620,
+        "open_price": 13670.0,
+        "high_price": 13670.0,
+        "low_price": 13310.0,
+        "close_price": 13630.0,
+        "volume": 188319317.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260617,
+        "open_price": 13280.0,
+        "high_price": 13280.0,
+        "low_price": 13280.0,
+        "close_price": 13280.0,
+        "volume": 10056638.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260616,
+        "open_price": 12900.0,
+        "high_price": 12900.0,
+        "low_price": 12900.0,
+        "close_price": 12900.0,
+        "volume": 5753191.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260615,
+        "open_price": 12530.0,
+        "high_price": 12530.0,
+        "low_price": 12530.0,
+        "close_price": 12530.0,
+        "volume": 4803047.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260614,
+        "open_price": 12170.0,
+        "high_price": 12170.0,
+        "low_price": 12170.0,
+        "close_price": 12170.0,
+        "volume": 3552223.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260613,
+        "open_price": 11820.0,
+        "high_price": 11820.0,
+        "low_price": 11820.0,
+        "close_price": 11820.0,
+        "volume": 13587875.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260610,
+        "open_price": 11480.0,
+        "high_price": 11480.0,
+        "low_price": 11480.0,
+        "close_price": 11480.0,
+        "volume": 4761144.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260609,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 11150.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260608,
+        "open_price": 11150.0,
+        "high_price": 11150.0,
+        "low_price": 11150.0,
+        "close_price": 11150.0,
+        "volume": 8822712.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260607,
+        "open_price": 10830.0,
+        "high_price": 10830.0,
+        "low_price": 10830.0,
+        "close_price": 10830.0,
+        "volume": 12202377.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260606,
+        "open_price": 10520.0,
+        "high_price": 10520.0,
+        "low_price": 10520.0,
+        "close_price": 10520.0,
+        "volume": 9825982.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260603,
+        "open_price": 10220.0,
+        "high_price": 10220.0,
+        "low_price": 10220.0,
+        "close_price": 10220.0,
+        "volume": 11602169.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260602,
+        "open_price": 9930.0,
+        "high_price": 9930.0,
+        "low_price": 9930.0,
+        "close_price": 9930.0,
+        "volume": 9914636.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260601,
+        "open_price": 9650.0,
+        "high_price": 9650.0,
+        "low_price": 9650.0,
+        "close_price": 9650.0,
+        "volume": 38113501.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260531,
+        "open_price": 9370.0,
+        "high_price": 9370.0,
+        "low_price": 9370.0,
+        "close_price": 9370.0,
+        "volume": 23730302.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260530,
+        "open_price": 9100.0,
+        "high_price": 9100.0,
+        "low_price": 9100.0,
+        "close_price": 9100.0,
+        "volume": 69350672.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260526,
+        "open_price": 8840.0,
+        "high_price": 8840.0,
+        "low_price": 8840.0,
+        "close_price": 8840.0,
+        "volume": 78965106.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260525,
+        "open_price": 8590.0,
+        "high_price": 8590.0,
+        "low_price": 8590.0,
+        "close_price": 8590.0,
+        "volume": 77192215.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260524,
+        "open_price": 8340.0,
+        "high_price": 8340.0,
+        "low_price": 8340.0,
+        "close_price": 8340.0,
+        "volume": 43526794.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260523,
+        "open_price": 8100.0,
+        "high_price": 8100.0,
+        "low_price": 8100.0,
+        "close_price": 8100.0,
+        "volume": 20547348.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260520,
+        "open_price": 7870.0,
+        "high_price": 7870.0,
+        "low_price": 7870.0,
+        "close_price": 7870.0,
+        "volume": 23092389.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260519,
+        "open_price": 7650.0,
+        "high_price": 7650.0,
+        "low_price": 7650.0,
+        "close_price": 7650.0,
+        "volume": 4112453.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260225,
+        "open_price": 7400.0,
+        "high_price": 7580.0,
+        "low_price": 7290.0,
+        "close_price": 7430.0,
+        "volume": 6758266.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260224,
+        "open_price": 7490.0,
+        "high_price": 7490.0,
+        "low_price": 7210.0,
+        "close_price": 7370.0,
+        "volume": 6058350.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260223,
+        "open_price": 7320.0,
+        "high_price": 7320.0,
+        "low_price": 7280.0,
+        "close_price": 7320.0,
+        "volume": 18706823.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260222,
+        "open_price": 6950.0,
+        "high_price": 7300.0,
+        "low_price": 6920.0,
+        "close_price": 7110.0,
+        "volume": 9403117.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260221,
+        "open_price": 7130.0,
+        "high_price": 7150.0,
+        "low_price": 7130.0,
+        "close_price": 7130.0,
+        "volume": 6438486.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260218,
+        "open_price": 7380.0,
+        "high_price": 7550.0,
+        "low_price": 7210.0,
+        "close_price": 7350.0,
+        "volume": 2536566.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260217,
+        "open_price": 7370.0,
+        "high_price": 7410.0,
+        "low_price": 7270.0,
+        "close_price": 7380.0,
+        "volume": 5539367.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260216,
+        "open_price": 7020.0,
+        "high_price": 7220.0,
+        "low_price": 7020.0,
+        "close_price": 7200.0,
+        "volume": 8748151.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260215,
+        "open_price": 7000.0,
+        "high_price": 7090.0,
+        "low_price": 6970.0,
+        "close_price": 7010.0,
+        "volume": 12741787.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260214,
+        "open_price": 7380.0,
+        "high_price": 7450.0,
+        "low_price": 7080.0,
+        "close_price": 7180.0,
+        "volume": 6015240.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260210,
+        "open_price": 7440.0,
+        "high_price": 7440.0,
+        "low_price": 7180.0,
+        "close_price": 7280.0,
+        "volume": 8578045.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260209,
+        "open_price": 7410.0,
+        "high_price": 7430.0,
+        "low_price": 7290.0,
+        "close_price": 7290.0,
+        "volume": 9518128.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260208,
+        "open_price": 7870.0,
+        "high_price": 7880.0,
+        "low_price": 7450.0,
+        "close_price": 7510.0,
+        "volume": 11913141.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260207,
+        "open_price": 7670.0,
+        "high_price": 7680.0,
+        "low_price": 7530.0,
+        "close_price": 7680.0,
+        "volume": 7105291.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260203,
+        "open_price": 7610.0,
+        "high_price": 7760.0,
+        "low_price": 7390.0,
+        "close_price": 7460.0,
+        "volume": 6261366.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260202,
+        "open_price": 7600.0,
+        "high_price": 7630.0,
+        "low_price": 7530.0,
+        "close_price": 7610.0,
+        "volume": 8884379.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260201,
+        "open_price": 7220.0,
+        "high_price": 7430.0,
+        "low_price": 7220.0,
+        "close_price": 7410.0,
+        "volume": 8094884.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260131,
+        "open_price": 7360.0,
+        "high_price": 7580.0,
+        "low_price": 7210.0,
+        "close_price": 7220.0,
+        "volume": 22373975.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260128,
+        "open_price": 7180.0,
+        "high_price": 7490.0,
+        "low_price": 7180.0,
+        "close_price": 7430.0,
+        "volume": 8481657.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260127,
+        "open_price": 7270.0,
+        "high_price": 7440.0,
+        "low_price": 7270.0,
+        "close_price": 7280.0,
+        "volume": 23520001.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260126,
+        "open_price": 7490.0,
+        "high_price": 7490.0,
+        "low_price": 7490.0,
+        "close_price": 7490.0,
+        "volume": 11978930.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260125,
+        "open_price": 7720.0,
+        "high_price": 7780.0,
+        "low_price": 7720.0,
+        "close_price": 7720.0,
+        "volume": 14181793.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260124,
+        "open_price": 8200.0,
+        "high_price": 8200.0,
+        "low_price": 7930.0,
+        "close_price": 7950.0,
+        "volume": 35434710.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260121,
+        "open_price": 8110.0,
+        "high_price": 8190.0,
+        "low_price": 7960.0,
+        "close_price": 8170.0,
+        "volume": 35648828.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260120,
+        "open_price": 7740.0,
+        "high_price": 7960.0,
+        "low_price": 7740.0,
+        "close_price": 7960.0,
+        "volume": 44437765.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260119,
+        "open_price": 7860.0,
+        "high_price": 7910.0,
+        "low_price": 7520.0,
+        "close_price": 7730.0,
+        "volume": 18776444.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260118,
+        "open_price": 7680.0,
+        "high_price": 7680.0,
+        "low_price": 7520.0,
+        "close_price": 7680.0,
+        "volume": 26286152.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260114,
+        "open_price": 7440.0,
+        "high_price": 7590.0,
+        "low_price": 7440.0,
+        "close_price": 7460.0,
+        "volume": 26658955.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260113,
+        "open_price": 7910.0,
+        "high_price": 7910.0,
+        "low_price": 7610.0,
+        "close_price": 7670.0,
+        "volume": 40726974.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260112,
+        "open_price": 7950.0,
+        "high_price": 7970.0,
+        "low_price": 7670.0,
+        "close_price": 7840.0,
+        "volume": 19154232.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260111,
+        "open_price": 7700.0,
+        "high_price": 7990.0,
+        "low_price": 7700.0,
+        "close_price": 7740.0,
+        "volume": 53021436.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260110,
+        "open_price": 7930.0,
+        "high_price": 8090.0,
+        "low_price": 7930.0,
+        "close_price": 7930.0,
+        "volume": 23256178.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260107,
+        "open_price": 8500.0,
+        "high_price": 8570.0,
+        "low_price": 8090.0,
+        "close_price": 8170.0,
+        "volume": 23009584.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260106,
+        "open_price": 8330.0,
+        "high_price": 8330.0,
+        "low_price": 8200.0,
+        "close_price": 8330.0,
+        "volume": 18904755.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260105,
+        "open_price": 7880.0,
+        "high_price": 8120.0,
+        "low_price": 7880.0,
+        "close_price": 8090.0,
+        "volume": 30761546.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20260104,
+        "open_price": 7890.0,
+        "high_price": 8150.0,
+        "low_price": 7890.0,
+        "close_price": 7890.0,
+        "volume": 31304238.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251231,
+        "open_price": 8070.0,
+        "high_price": 8330.0,
+        "low_price": 8070.0,
+        "close_price": 8130.0,
+        "volume": 61565611.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251230,
+        "open_price": 8310.0,
+        "high_price": 8310.0,
+        "low_price": 8310.0,
+        "close_price": 8310.0,
+        "volume": 6056369.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251229,
+        "open_price": 8560.0,
+        "high_price": 8560.0,
+        "low_price": 8560.0,
+        "close_price": 8560.0,
+        "volume": 11739674.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251228,
+        "open_price": 9000.0,
+        "high_price": 9050.0,
+        "low_price": 8790.0,
+        "close_price": 8820.0,
+        "volume": 29997127.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251227,
+        "open_price": 9130.0,
+        "high_price": 9130.0,
+        "low_price": 8810.0,
+        "close_price": 9060.0,
+        "volume": 44445250.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251224,
+        "open_price": 8870.0,
+        "high_price": 8870.0,
+        "low_price": 8870.0,
+        "close_price": 8870.0,
+        "volume": 16656750.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251223,
+        "open_price": 8550.0,
+        "high_price": 8630.0,
+        "low_price": 8480.0,
+        "close_price": 8620.0,
+        "volume": 27098510.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251222,
+        "open_price": 8350.0,
+        "high_price": 8400.0,
+        "low_price": 8280.0,
+        "close_price": 8380.0,
+        "volume": 37685078.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251221,
+        "open_price": 7980.0,
+        "high_price": 8200.0,
+        "low_price": 7940.0,
+        "close_price": 8160.0,
+        "volume": 43056329.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251220,
+        "open_price": 7810.0,
+        "high_price": 8030.0,
+        "low_price": 7810.0,
+        "close_price": 7970.0,
+        "volume": 20015688.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251217,
+        "open_price": 7870.0,
+        "high_price": 7880.0,
+        "low_price": 7710.0,
+        "close_price": 7800.0,
+        "volume": 13307848.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251216,
+        "open_price": 7940.0,
+        "high_price": 8030.0,
+        "low_price": 7600.0,
+        "close_price": 7800.0,
+        "volume": 20721427.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251215,
+        "open_price": 7850.0,
+        "high_price": 7850.0,
+        "low_price": 7740.0,
+        "close_price": 7810.0,
+        "volume": 14977643.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251214,
+        "open_price": 7810.0,
+        "high_price": 7810.0,
+        "low_price": 7610.0,
+        "close_price": 7630.0,
+        "volume": 32689065.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251213,
+        "open_price": 7960.0,
+        "high_price": 8000.0,
+        "low_price": 7730.0,
+        "close_price": 7840.0,
+        "volume": 11854870.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251210,
+        "open_price": 7670.0,
+        "high_price": 7830.0,
+        "low_price": 7610.0,
+        "close_price": 7820.0,
+        "volume": 11787825.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251209,
+        "open_price": 7810.0,
+        "high_price": 7860.0,
+        "low_price": 7560.0,
+        "close_price": 7610.0,
+        "volume": 18277823.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251208,
+        "open_price": 8030.0,
+        "high_price": 8030.0,
+        "low_price": 7730.0,
+        "close_price": 7790.0,
+        "volume": 16066050.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251207,
+        "open_price": 8250.0,
+        "high_price": 8250.0,
+        "low_price": 7930.0,
+        "close_price": 7960.0,
+        "volume": 26954573.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251206,
+        "open_price": 8370.0,
+        "high_price": 8370.0,
+        "low_price": 8060.0,
+        "close_price": 8170.0,
+        "volume": 13032524.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251203,
+        "open_price": 8290.0,
+        "high_price": 8380.0,
+        "low_price": 8100.0,
+        "close_price": 8220.0,
+        "volume": 9651445.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251202,
+        "open_price": 8210.0,
+        "high_price": 8270.0,
+        "low_price": 8120.0,
+        "close_price": 8180.0,
+        "volume": 7888419.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251201,
+        "open_price": 8150.0,
+        "high_price": 8220.0,
+        "low_price": 8050.0,
+        "close_price": 8120.0,
+        "volume": 11239915.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251130,
+        "open_price": 8170.0,
+        "high_price": 8260.0,
+        "low_price": 8000.0,
+        "close_price": 8090.0,
+        "volume": 8731644.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251129,
+        "open_price": 8270.0,
+        "high_price": 8300.0,
+        "low_price": 8030.0,
+        "close_price": 8170.0,
+        "volume": 9850388.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251126,
+        "open_price": 8290.0,
+        "high_price": 8290.0,
+        "low_price": 8070.0,
+        "close_price": 8160.0,
+        "volume": 18526779.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251125,
+        "open_price": 8290.0,
+        "high_price": 8310.0,
+        "low_price": 8090.0,
+        "close_price": 8240.0,
+        "volume": 25962393.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251123,
+        "open_price": 7960.0,
+        "high_price": 8080.0,
+        "low_price": 7960.0,
+        "close_price": 8070.0,
+        "volume": 21259033.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251122,
+        "open_price": 7730.0,
+        "high_price": 7850.0,
+        "low_price": 7730.0,
+        "close_price": 7850.0,
+        "volume": 23076290.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251119,
+        "open_price": 7900.0,
+        "high_price": 7900.0,
+        "low_price": 7570.0,
+        "close_price": 7630.0,
+        "volume": 27890001.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251118,
+        "open_price": 7750.0,
+        "high_price": 7990.0,
+        "low_price": 7750.0,
+        "close_price": 7800.0,
+        "volume": 20484416.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251117,
+        "open_price": 8160.0,
+        "high_price": 8160.0,
+        "low_price": 7700.0,
+        "close_price": 7980.0,
+        "volume": 30108635.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251116,
+        "open_price": 7800.0,
+        "high_price": 7940.0,
+        "low_price": 7800.0,
+        "close_price": 7930.0,
+        "volume": 15580013.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251115,
+        "open_price": 7690.0,
+        "high_price": 7720.0,
+        "low_price": 7640.0,
+        "close_price": 7710.0,
+        "volume": 25407771.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251112,
+        "open_price": 7400.0,
+        "high_price": 7520.0,
+        "low_price": 7310.0,
+        "close_price": 7500.0,
+        "volume": 34002516.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251111,
+        "open_price": 7280.0,
+        "high_price": 7310.0,
+        "low_price": 7280.0,
+        "close_price": 7310.0,
+        "volume": 34131950.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251110,
+        "open_price": 7000.0,
+        "high_price": 7210.0,
+        "low_price": 7000.0,
+        "close_price": 7100.0,
+        "volume": 13646016.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251109,
+        "open_price": 7380.0,
+        "high_price": 7380.0,
+        "low_price": 7080.0,
+        "close_price": 7090.0,
+        "volume": 12609654.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251108,
+        "open_price": 7290.0,
+        "high_price": 7390.0,
+        "low_price": 7180.0,
+        "close_price": 7290.0,
+        "volume": 8550972.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251105,
+        "open_price": 7400.0,
+        "high_price": 7430.0,
+        "low_price": 7160.0,
+        "close_price": 7280.0,
+        "volume": 14510856.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251104,
+        "open_price": 7500.0,
+        "high_price": 7610.0,
+        "low_price": 7280.0,
+        "close_price": 7380.0,
+        "volume": 15049847.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251103,
+        "open_price": 7520.0,
+        "high_price": 7610.0,
+        "low_price": 7420.0,
+        "close_price": 7500.0,
+        "volume": 7205970.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251102,
+        "open_price": 7570.0,
+        "high_price": 7650.0,
+        "low_price": 7340.0,
+        "close_price": 7500.0,
+        "volume": 10752664.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251101,
+        "open_price": 7710.0,
+        "high_price": 7770.0,
+        "low_price": 7450.0,
+        "close_price": 7540.0,
+        "volume": 15703094.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251029,
+        "open_price": 7690.0,
+        "high_price": 7770.0,
+        "low_price": 7600.0,
+        "close_price": 7680.0,
+        "volume": 8031728.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251028,
+        "open_price": 7960.0,
+        "high_price": 8000.0,
+        "low_price": 7690.0,
+        "close_price": 7720.0,
+        "volume": 27922204.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251027,
+        "open_price": 8070.0,
+        "high_price": 8070.0,
+        "low_price": 7800.0,
+        "close_price": 7920.0,
+        "volume": 9967200.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251026,
+        "open_price": 7770.0,
+        "high_price": 7990.0,
+        "low_price": 7770.0,
+        "close_price": 7990.0,
+        "volume": 30465658.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251025,
+        "open_price": 7630.0,
+        "high_price": 7900.0,
+        "low_price": 7630.0,
+        "close_price": 7760.0,
+        "volume": 12912404.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251022,
+        "open_price": 7930.0,
+        "high_price": 8000.0,
+        "low_price": 7720.0,
+        "close_price": 7840.0,
+        "volume": 12652717.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251021,
+        "open_price": 8000.0,
+        "high_price": 8060.0,
+        "low_price": 7820.0,
+        "close_price": 7900.0,
+        "volume": 17998790.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251020,
+        "open_price": 8000.0,
+        "high_price": 8050.0,
+        "low_price": 7790.0,
+        "close_price": 7920.0,
+        "volume": 24427047.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251019,
+        "open_price": 8200.0,
+        "high_price": 8200.0,
+        "low_price": 7900.0,
+        "close_price": 8030.0,
+        "volume": 17195901.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251018,
+        "open_price": 7970.0,
+        "high_price": 7970.0,
+        "low_price": 7950.0,
+        "close_price": 7970.0,
+        "volume": 6430300.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251015,
+        "open_price": 7580.0,
+        "high_price": 7810.0,
+        "low_price": 7390.0,
+        "close_price": 7740.0,
+        "volume": 22775798.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251014,
+        "open_price": 7560.0,
+        "high_price": 7680.0,
+        "low_price": 7460.0,
+        "close_price": 7590.0,
+        "volume": 14060497.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251013,
+        "open_price": 7700.0,
+        "high_price": 7720.0,
+        "low_price": 7560.0,
+        "close_price": 7670.0,
+        "volume": 14231507.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251012,
+        "open_price": 7340.0,
+        "high_price": 7510.0,
+        "low_price": 7300.0,
+        "close_price": 7500.0,
+        "volume": 17921927.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251011,
+        "open_price": 7370.0,
+        "high_price": 7410.0,
+        "low_price": 7190.0,
+        "close_price": 7300.0,
+        "volume": 9851059.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251008,
+        "open_price": 7490.0,
+        "high_price": 7490.0,
+        "low_price": 7180.0,
+        "close_price": 7210.0,
+        "volume": 25710580.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251007,
+        "open_price": 7340.0,
+        "high_price": 7500.0,
+        "low_price": 7160.0,
+        "close_price": 7400.0,
+        "volume": 22971726.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251006,
+        "open_price": 7330.0,
+        "high_price": 7330.0,
+        "low_price": 7110.0,
+        "close_price": 7310.0,
+        "volume": 54937202.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251005,
+        "open_price": 7120.0,
+        "high_price": 7120.0,
+        "low_price": 7120.0,
+        "close_price": 7120.0,
+        "volume": 24586352.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251004,
+        "open_price": 6920.0,
+        "high_price": 6920.0,
+        "low_price": 6910.0,
+        "close_price": 6920.0,
+        "volume": 31511000.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20251001,
+        "open_price": 6690.0,
+        "high_price": 6800.0,
+        "low_price": 6540.0,
+        "close_price": 6720.0,
+        "volume": 44751491.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250930,
+        "open_price": 6610.0,
+        "high_price": 6610.0,
+        "low_price": 6610.0,
+        "close_price": 6610.0,
+        "volume": 55369387.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250929,
+        "open_price": 6420.0,
+        "high_price": 6420.0,
+        "low_price": 6420.0,
+        "close_price": 6420.0,
+        "volume": 40608352.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250928,
+        "open_price": 6240.0,
+        "high_price": 6240.0,
+        "low_price": 6240.0,
+        "close_price": 6240.0,
+        "volume": 6318406.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250927,
+        "open_price": 5900.0,
+        "high_price": 6080.0,
+        "low_price": 5870.0,
+        "close_price": 6060.0,
+        "volume": 8216508.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250924,
+        "open_price": 5850.0,
+        "high_price": 6030.0,
+        "low_price": 5820.0,
+        "close_price": 5910.0,
+        "volume": 10414064.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250923,
+        "open_price": 6120.0,
+        "high_price": 6120.0,
+        "low_price": 5900.0,
+        "close_price": 6000.0,
+        "volume": 6177558.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250922,
+        "open_price": 5990.0,
+        "high_price": 5990.0,
+        "low_price": 5890.0,
+        "close_price": 5980.0,
+        "volume": 6672944.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250921,
+        "open_price": 5780.0,
+        "high_price": 6070.0,
+        "low_price": 5780.0,
+        "close_price": 5820.0,
+        "volume": 22467253.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250920,
+        "open_price": 5950.0,
+        "high_price": 5950.0,
+        "low_price": 5950.0,
+        "close_price": 5950.0,
+        "volume": 7631189.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250917,
+        "open_price": 6140.0,
+        "high_price": 6240.0,
+        "low_price": 6060.0,
+        "close_price": 6130.0,
+        "volume": 6022377.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250916,
+        "open_price": 6310.0,
+        "high_price": 6310.0,
+        "low_price": 6130.0,
+        "close_price": 6150.0,
+        "volume": 11501932.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250915,
+        "open_price": 6450.0,
+        "high_price": 6470.0,
+        "low_price": 6210.0,
+        "close_price": 6310.0,
+        "volume": 15359315.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250914,
+        "open_price": 6290.0,
+        "high_price": 6380.0,
+        "low_price": 6220.0,
+        "close_price": 6330.0,
+        "volume": 26953956.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250913,
+        "open_price": 6170.0,
+        "high_price": 6320.0,
+        "low_price": 6130.0,
+        "close_price": 6210.0,
+        "volume": 8913952.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250909,
+        "open_price": 6270.0,
+        "high_price": 6270.0,
+        "low_price": 6100.0,
+        "close_price": 6170.0,
+        "volume": 12288559.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250908,
+        "open_price": 6130.0,
+        "high_price": 6260.0,
+        "low_price": 6080.0,
+        "close_price": 6220.0,
+        "volume": 33702391.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250907,
+        "open_price": 6100.0,
+        "high_price": 6180.0,
+        "low_price": 6010.0,
+        "close_price": 6080.0,
+        "volume": 10372011.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250906,
+        "open_price": 6280.0,
+        "high_price": 6290.0,
+        "low_price": 6100.0,
+        "close_price": 6160.0,
+        "volume": 15050066.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250903,
+        "open_price": 6400.0,
+        "high_price": 6400.0,
+        "low_price": 6180.0,
+        "close_price": 6280.0,
+        "volume": 13597704.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250902,
+        "open_price": 6060.0,
+        "high_price": 6240.0,
+        "low_price": 6050.0,
+        "close_price": 6220.0,
+        "volume": 16223376.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250831,
+        "open_price": 5980.0,
+        "high_price": 6170.0,
+        "low_price": 5980.0,
+        "close_price": 6060.0,
+        "volume": 6304000.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250830,
+        "open_price": 6130.0,
+        "high_price": 6130.0,
+        "low_price": 6020.0,
+        "close_price": 6030.0,
+        "volume": 8539011.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250827,
+        "open_price": 6130.0,
+        "high_price": 6290.0,
+        "low_price": 6060.0,
+        "close_price": 6200.0,
+        "volume": 16095061.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250826,
+        "open_price": 6190.0,
+        "high_price": 6200.0,
+        "low_price": 6080.0,
+        "close_price": 6120.0,
+        "volume": 8611887.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250825,
+        "open_price": 6300.0,
+        "high_price": 6330.0,
+        "low_price": 6090.0,
+        "close_price": 6160.0,
+        "volume": 9995998.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250823,
+        "open_price": 6240.0,
+        "high_price": 6340.0,
+        "low_price": 6240.0,
+        "close_price": 6270.0,
+        "volume": 4375909.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250820,
+        "open_price": 6220.0,
+        "high_price": 6230.0,
+        "low_price": 6140.0,
+        "close_price": 6180.0,
+        "volume": 8608360.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250819,
+        "open_price": 6200.0,
+        "high_price": 6270.0,
+        "low_price": 6070.0,
+        "close_price": 6170.0,
+        "volume": 18180354.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250818,
+        "open_price": 6370.0,
+        "high_price": 6370.0,
+        "low_price": 6110.0,
+        "close_price": 6250.0,
+        "volume": 9301350.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250817,
+        "open_price": 6190.0,
+        "high_price": 6190.0,
+        "low_price": 6160.0,
+        "close_price": 6190.0,
+        "volume": 7385998.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250816,
+        "open_price": 5850.0,
+        "high_price": 6150.0,
+        "low_price": 5850.0,
+        "close_price": 6010.0,
+        "volume": 20129870.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250813,
+        "open_price": 6030.0,
+        "high_price": 6050.0,
+        "low_price": 6030.0,
+        "close_price": 6030.0,
+        "volume": 5290733.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250812,
+        "open_price": 6330.0,
+        "high_price": 6390.0,
+        "low_price": 6150.0,
+        "close_price": 6210.0,
+        "volume": 19522616.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250811,
+        "open_price": 6270.0,
+        "high_price": 6400.0,
+        "low_price": 6270.0,
+        "close_price": 6330.0,
+        "volume": 6558456.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250810,
+        "open_price": 6400.0,
+        "high_price": 6400.0,
+        "low_price": 6270.0,
+        "close_price": 6370.0,
+        "volume": 11823988.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250809,
+        "open_price": 6300.0,
+        "high_price": 6320.0,
+        "low_price": 6110.0,
+        "close_price": 6220.0,
+        "volume": 14585012.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250806,
+        "open_price": 6070.0,
+        "high_price": 6210.0,
+        "low_price": 5990.0,
+        "close_price": 6160.0,
+        "volume": 20137015.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250805,
+        "open_price": 6220.0,
+        "high_price": 6220.0,
+        "low_price": 6000.0,
+        "close_price": 6160.0,
+        "volume": 25037784.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250804,
+        "open_price": 5980.0,
+        "high_price": 6080.0,
+        "low_price": 5880.0,
+        "close_price": 6040.0,
+        "volume": 21675602.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250803,
+        "open_price": 5880.0,
+        "high_price": 6060.0,
+        "low_price": 5880.0,
+        "close_price": 5910.0,
+        "volume": 57260934.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250802,
+        "open_price": 6280.0,
+        "high_price": 6280.0,
+        "low_price": 6010.0,
+        "close_price": 6060.0,
+        "volume": 32909563.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250730,
+        "open_price": 6180.0,
+        "high_price": 6370.0,
+        "low_price": 6180.0,
+        "close_price": 6190.0,
+        "volume": 28612152.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250729,
+        "open_price": 6320.0,
+        "high_price": 6320.0,
+        "low_price": 6320.0,
+        "close_price": 6370.0,
+        "volume": 2763460.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250728,
+        "open_price": 6670.0,
+        "high_price": 6710.0,
+        "low_price": 6470.0,
+        "close_price": 6510.0,
+        "volume": 28850402.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250727,
+        "open_price": 6530.0,
+        "high_price": 6680.0,
+        "low_price": 6520.0,
+        "close_price": 6670.0,
+        "volume": 48962377.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250726,
+        "open_price": 6720.0,
+        "high_price": 6730.0,
+        "low_price": 6400.0,
+        "close_price": 6490.0,
+        "volume": 31947582.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250723,
+        "open_price": 6730.0,
+        "high_price": 6730.0,
+        "low_price": 6450.0,
+        "close_price": 6590.0,
+        "volume": 39382730.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250722,
+        "open_price": 6640.0,
+        "high_price": 6640.0,
+        "low_price": 6640.0,
+        "close_price": 6640.0,
+        "volume": 17883415.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250721,
+        "open_price": 6450.0,
+        "high_price": 6450.0,
+        "low_price": 6450.0,
+        "close_price": 6450.0,
+        "volume": 5765371.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250720,
+        "open_price": 6310.0,
+        "high_price": 6310.0,
+        "low_price": 6310.0,
+        "close_price": 6270.0,
+        "volume": 3027288.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250719,
+        "open_price": 6130.0,
+        "high_price": 6130.0,
+        "low_price": 6060.0,
+        "close_price": 6130.0,
+        "volume": 9340709.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250716,
+        "open_price": 5870.0,
+        "high_price": 5960.0,
+        "low_price": 5870.0,
+        "close_price": 5960.0,
+        "volume": 18190102.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250715,
+        "open_price": 5810.0,
+        "high_price": 5820.0,
+        "low_price": 5690.0,
+        "close_price": 5790.0,
+        "volume": 20768148.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250714,
+        "open_price": 5670.0,
+        "high_price": 5670.0,
+        "low_price": 5570.0,
+        "close_price": 5660.0,
+        "volume": 30257306.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250713,
+        "open_price": 5510.0,
+        "high_price": 5510.0,
+        "low_price": 5510.0,
+        "close_price": 5510.0,
+        "volume": 9167696.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250712,
+        "open_price": 5350.0,
+        "high_price": 5350.0,
+        "low_price": 5300.0,
+        "close_price": 5350.0,
+        "volume": 6072379.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250709,
+        "open_price": 5290.0,
+        "high_price": 5380.0,
+        "low_price": 5180.0,
+        "close_price": 5200.0,
+        "volume": 16346305.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250708,
+        "open_price": 5380.0,
+        "high_price": 5590.0,
+        "low_price": 5320.0,
+        "close_price": 5330.0,
+        "volume": 7723513.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250707,
+        "open_price": 5480.0,
+        "high_price": 5480.0,
+        "low_price": 5400.0,
+        "close_price": 5480.0,
+        "volume": 15025467.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250702,
+        "open_price": 5290.0,
+        "high_price": 5590.0,
+        "low_price": 5290.0,
+        "close_price": 5330.0,
+        "volume": 33334222.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250701,
+        "open_price": 5370.0,
+        "high_price": 5370.0,
+        "low_price": 5370.0,
+        "close_price": 5450.0,
+        "volume": 1916943.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250630,
+        "open_price": 5450.0,
+        "high_price": 5450.0,
+        "low_price": 5450.0,
+        "close_price": 5530.0,
+        "volume": 1938511.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250629,
+        "open_price": 5610.0,
+        "high_price": 5610.0,
+        "low_price": 5610.0,
+        "close_price": 5610.0,
+        "volume": 4911295.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250628,
+        "open_price": 5780.0,
+        "high_price": 5780.0,
+        "low_price": 5780.0,
+        "close_price": 5780.0,
+        "volume": 3905203.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5950.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5950.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5950.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5950.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5950.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5950.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5950.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5950.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250611,
+        "open_price": 6050.0,
+        "high_price": 6050.0,
+        "low_price": 5870.0,
+        "close_price": 5950.0,
+        "volume": 5493439.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250610,
+        "open_price": 6050.0,
+        "high_price": 6120.0,
+        "low_price": 5900.0,
+        "close_price": 5980.0,
+        "volume": 11237624.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250609,
+        "open_price": 6130.0,
+        "high_price": 6220.0,
+        "low_price": 5960.0,
+        "close_price": 6050.0,
+        "volume": 7076515.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250608,
+        "open_price": 6080.0,
+        "high_price": 6270.0,
+        "low_price": 6080.0,
+        "close_price": 6130.0,
+        "volume": 11235091.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250607,
+        "open_price": 6400.0,
+        "high_price": 6400.0,
+        "low_price": 6220.0,
+        "close_price": 6260.0,
+        "volume": 13823714.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250603,
+        "open_price": 6480.0,
+        "high_price": 6490.0,
+        "low_price": 6310.0,
+        "close_price": 6410.0,
+        "volume": 9662894.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250602,
+        "open_price": 6240.0,
+        "high_price": 6400.0,
+        "low_price": 6240.0,
+        "close_price": 6390.0,
+        "volume": 31073100.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250601,
+        "open_price": 6210.0,
+        "high_price": 6350.0,
+        "low_price": 6210.0,
+        "close_price": 6220.0,
+        "volume": 33313135.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250531,
+        "open_price": 6540.0,
+        "high_price": 6590.0,
+        "low_price": 6350.0,
+        "close_price": 6400.0,
+        "volume": 15893909.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250528,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6540.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250527,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7290.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250526,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7290.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250525,
+        "open_price": 7310.0,
+        "high_price": 7310.0,
+        "low_price": 7100.0,
+        "close_price": 7290.0,
+        "volume": 50283631.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250524,
+        "open_price": 7100.0,
+        "high_price": 7100.0,
+        "low_price": 7060.0,
+        "close_price": 7100.0,
+        "volume": 35280256.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250521,
+        "open_price": 6660.0,
+        "high_price": 7060.0,
+        "low_price": 6660.0,
+        "close_price": 6900.0,
+        "volume": 59367052.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250520,
+        "open_price": 6880.0,
+        "high_price": 7030.0,
+        "low_price": 6820.0,
+        "close_price": 6860.0,
+        "volume": 26087303.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250519,
+        "open_price": 7030.0,
+        "high_price": 7030.0,
+        "low_price": 7030.0,
+        "close_price": 7030.0,
+        "volume": 7666484.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250518,
+        "open_price": 7410.0,
+        "high_price": 7410.0,
+        "low_price": 7230.0,
+        "close_price": 7240.0,
+        "volume": 14447154.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250517,
+        "open_price": 7680.0,
+        "high_price": 7680.0,
+        "low_price": 7270.0,
+        "close_price": 7450.0,
+        "volume": 21885518.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250514,
+        "open_price": 7460.0,
+        "high_price": 7460.0,
+        "low_price": 7460.0,
+        "close_price": 7460.0,
+        "volume": 13577095.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250513,
+        "open_price": 7340.0,
+        "high_price": 7340.0,
+        "low_price": 7160.0,
+        "close_price": 7250.0,
+        "volume": 10929845.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250512,
+        "open_price": 7140.0,
+        "high_price": 7140.0,
+        "low_price": 7140.0,
+        "close_price": 7140.0,
+        "volume": 13122294.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250511,
+        "open_price": 7130.0,
+        "high_price": 7130.0,
+        "low_price": 6920.0,
+        "close_price": 6940.0,
+        "volume": 9728152.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250510,
+        "open_price": 7280.0,
+        "high_price": 7280.0,
+        "low_price": 7110.0,
+        "close_price": 7130.0,
+        "volume": 12136158.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250507,
+        "open_price": 7380.0,
+        "high_price": 7590.0,
+        "low_price": 7170.0,
+        "close_price": 7320.0,
+        "volume": 11079580.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250506,
+        "open_price": 7530.0,
+        "high_price": 7570.0,
+        "low_price": 7350.0,
+        "close_price": 7370.0,
+        "volume": 21495700.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250505,
+        "open_price": 7750.0,
+        "high_price": 7770.0,
+        "low_price": 7400.0,
+        "close_price": 7570.0,
+        "volume": 13855965.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250504,
+        "open_price": 7550.0,
+        "high_price": 7580.0,
+        "low_price": 7500.0,
+        "close_price": 7570.0,
+        "volume": 22178856.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250503,
+        "open_price": 7380.0,
+        "high_price": 7440.0,
+        "low_price": 7150.0,
+        "close_price": 7360.0,
+        "volume": 25469458.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250430,
+        "open_price": 7230.0,
+        "high_price": 7230.0,
+        "low_price": 7230.0,
+        "close_price": 7230.0,
+        "volume": 9843351.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250429,
+        "open_price": 7040.0,
+        "high_price": 7040.0,
+        "low_price": 6910.0,
+        "close_price": 7020.0,
+        "volume": 6606529.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250428,
+        "open_price": 6760.0,
+        "high_price": 6840.0,
+        "low_price": 6760.0,
+        "close_price": 6840.0,
+        "volume": 12315627.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250427,
+        "open_price": 6510.0,
+        "high_price": 6740.0,
+        "low_price": 6390.0,
+        "close_price": 6650.0,
+        "volume": 13351669.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250426,
+        "open_price": 6470.0,
+        "high_price": 6580.0,
+        "low_price": 6400.0,
+        "close_price": 6550.0,
+        "volume": 11933581.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250423,
+        "open_price": 6410.0,
+        "high_price": 6510.0,
+        "low_price": 6270.0,
+        "close_price": 6390.0,
+        "volume": 10328746.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250422,
+        "open_price": 6530.0,
+        "high_price": 6530.0,
+        "low_price": 6360.0,
+        "close_price": 6390.0,
+        "volume": 10765892.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250421,
+        "open_price": 6570.0,
+        "high_price": 6570.0,
+        "low_price": 6370.0,
+        "close_price": 6550.0,
+        "volume": 20671473.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250420,
+        "open_price": 6360.0,
+        "high_price": 6380.0,
+        "low_price": 6260.0,
+        "close_price": 6380.0,
+        "volume": 13565065.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250419,
+        "open_price": 6100.0,
+        "high_price": 6220.0,
+        "low_price": 6050.0,
+        "close_price": 6200.0,
+        "volume": 7045285.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250416,
+        "open_price": 6040.0,
+        "high_price": 6140.0,
+        "low_price": 6040.0,
+        "close_price": 6040.0,
+        "volume": 29922171.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250415,
+        "open_price": 6220.0,
+        "high_price": 6230.0,
+        "low_price": 6220.0,
+        "close_price": 6220.0,
+        "volume": 5131030.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250414,
+        "open_price": 6680.0,
+        "high_price": 6700.0,
+        "low_price": 6380.0,
+        "close_price": 6410.0,
+        "volume": 16374989.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250413,
+        "open_price": 6600.0,
+        "high_price": 6600.0,
+        "low_price": 6430.0,
+        "close_price": 6570.0,
+        "volume": 21580743.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250412,
+        "open_price": 6330.0,
+        "high_price": 6590.0,
+        "low_price": 6330.0,
+        "close_price": 6410.0,
+        "volume": 16480667.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250409,
+        "open_price": 6770.0,
+        "high_price": 6770.0,
+        "low_price": 6440.0,
+        "close_price": 6520.0,
+        "volume": 15786238.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250408,
+        "open_price": 6590.0,
+        "high_price": 6660.0,
+        "low_price": 6560.0,
+        "close_price": 6630.0,
+        "volume": 12844546.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250407,
+        "open_price": 6590.0,
+        "high_price": 6590.0,
+        "low_price": 6410.0,
+        "close_price": 6470.0,
+        "volume": 10677192.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250406,
+        "open_price": 6510.0,
+        "high_price": 6610.0,
+        "low_price": 6400.0,
+        "close_price": 6530.0,
+        "volume": 11081696.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250405,
+        "open_price": 6460.0,
+        "high_price": 6460.0,
+        "low_price": 6330.0,
+        "close_price": 6460.0,
+        "volume": 24286499.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250330,
+        "open_price": 6280.0,
+        "high_price": 6280.0,
+        "low_price": 6280.0,
+        "close_price": 6280.0,
+        "volume": 13580260.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250329,
+        "open_price": 6070.0,
+        "high_price": 6100.0,
+        "low_price": 6000.0,
+        "close_price": 6100.0,
+        "volume": 6288622.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250326,
+        "open_price": 5900.0,
+        "high_price": 5970.0,
+        "low_price": 5840.0,
+        "close_price": 5930.0,
+        "volume": 3484434.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250325,
+        "open_price": 5800.0,
+        "high_price": 5810.0,
+        "low_price": 5750.0,
+        "close_price": 5800.0,
+        "volume": 6527487.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250318,
+        "open_price": 5770.0,
+        "high_price": 5800.0,
+        "low_price": 5620.0,
+        "close_price": 5650.0,
+        "volume": 4814075.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250317,
+        "open_price": 5940.0,
+        "high_price": 5940.0,
+        "low_price": 5720.0,
+        "close_price": 5790.0,
+        "volume": 6881611.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250316,
+        "open_price": 5810.0,
+        "high_price": 5940.0,
+        "low_price": 5810.0,
+        "close_price": 5890.0,
+        "volume": 4361787.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250315,
+        "open_price": 5730.0,
+        "high_price": 5850.0,
+        "low_price": 5730.0,
+        "close_price": 5850.0,
+        "volume": 6517097.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250312,
+        "open_price": 5650.0,
+        "high_price": 5760.0,
+        "low_price": 5550.0,
+        "close_price": 5680.0,
+        "volume": 8169936.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250311,
+        "open_price": 5570.0,
+        "high_price": 5700.0,
+        "low_price": 5540.0,
+        "close_price": 5600.0,
+        "volume": 8137991.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250310,
+        "open_price": 5740.0,
+        "high_price": 5750.0,
+        "low_price": 5620.0,
+        "close_price": 5690.0,
+        "volume": 5353760.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250309,
+        "open_price": 5500.0,
+        "high_price": 5710.0,
+        "low_price": 5500.0,
+        "close_price": 5630.0,
+        "volume": 7496940.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250308,
+        "open_price": 5840.0,
+        "high_price": 5850.0,
+        "low_price": 5600.0,
+        "close_price": 5670.0,
+        "volume": 5520940.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250305,
+        "open_price": 5780.0,
+        "high_price": 5870.0,
+        "low_price": 5690.0,
+        "close_price": 5770.0,
+        "volume": 2083225.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250304,
+        "open_price": 5780.0,
+        "high_price": 5820.0,
+        "low_price": 5610.0,
+        "close_price": 5770.0,
+        "volume": 3829881.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250303,
+        "open_price": 5650.0,
+        "high_price": 5750.0,
+        "low_price": 5650.0,
+        "close_price": 5660.0,
+        "volume": 10029424.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250302,
+        "open_price": 5880.0,
+        "high_price": 5930.0,
+        "low_price": 5770.0,
+        "close_price": 5820.0,
+        "volume": 3576472.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250301,
+        "open_price": 5860.0,
+        "high_price": 5960.0,
+        "low_price": 5700.0,
+        "close_price": 5880.0,
+        "volume": 4530939.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250226,
+        "open_price": 5860.0,
+        "high_price": 5900.0,
+        "low_price": 5710.0,
+        "close_price": 5790.0,
+        "volume": 4474068.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250225,
+        "open_price": 6020.0,
+        "high_price": 6090.0,
+        "low_price": 5770.0,
+        "close_price": 5870.0,
+        "volume": 8456812.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250224,
+        "open_price": 5760.0,
+        "high_price": 5940.0,
+        "low_price": 5760.0,
+        "close_price": 5940.0,
+        "volume": 7870441.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250223,
+        "open_price": 5850.0,
+        "high_price": 5860.0,
+        "low_price": 5700.0,
+        "close_price": 5770.0,
+        "volume": 2055552.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250222,
+        "open_price": 5860.0,
+        "high_price": 5860.0,
+        "low_price": 5690.0,
+        "close_price": 5760.0,
+        "volume": 4884355.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250219,
+        "open_price": 5900.0,
+        "high_price": 5920.0,
+        "low_price": 5730.0,
+        "close_price": 5820.0,
+        "volume": 4673767.0
+    },
+    {
+        "symbol": "سرود",
+        "trade_date": 20250218,
+        "open_price": 5780.0,
+        "high_price": 5810.0,
+        "low_price": 5720.0,
+        "close_price": 5780.0,
+        "volume": 5616699.0
+    }
+]

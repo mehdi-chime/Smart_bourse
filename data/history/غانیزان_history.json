@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260901,
+        "open_price": 8360.0,
+        "high_price": 8370.0,
+        "low_price": 7890.0,
+        "close_price": 8150.0,
+        "volume": 22854029.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260831,
+        "open_price": 8020.0,
+        "high_price": 8210.0,
+        "low_price": 7750.0,
+        "close_price": 8130.0,
+        "volume": 12272405.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260829,
+        "open_price": 8020.0,
+        "high_price": 8020.0,
+        "low_price": 7600.0,
+        "close_price": 7980.0,
+        "volume": 15791561.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260826,
+        "open_price": 7790.0,
+        "high_price": 7790.0,
+        "low_price": 7790.0,
+        "close_price": 7790.0,
+        "volume": 7191803.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260825,
+        "open_price": 7580.0,
+        "high_price": 7580.0,
+        "low_price": 7360.0,
+        "close_price": 7570.0,
+        "volume": 7981761.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260824,
+        "open_price": 7030.0,
+        "high_price": 7410.0,
+        "low_price": 7030.0,
+        "close_price": 7360.0,
+        "volume": 23937876.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260823,
+        "open_price": 7220.0,
+        "high_price": 7220.0,
+        "low_price": 7000.0,
+        "close_price": 7200.0,
+        "volume": 26264840.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260822,
+        "open_price": 6820.0,
+        "high_price": 7020.0,
+        "low_price": 6820.0,
+        "close_price": 7010.0,
+        "volume": 8603437.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260819,
+        "open_price": 6980.0,
+        "high_price": 6980.0,
+        "low_price": 6790.0,
+        "close_price": 6820.0,
+        "volume": 9485648.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260818,
+        "open_price": 7230.0,
+        "high_price": 7230.0,
+        "low_price": 6970.0,
+        "close_price": 6990.0,
+        "volume": 17163293.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260817,
+        "open_price": 7250.0,
+        "high_price": 7250.0,
+        "low_price": 7080.0,
+        "close_price": 7180.0,
+        "volume": 16546769.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260816,
+        "open_price": 7020.0,
+        "high_price": 7090.0,
+        "low_price": 7020.0,
+        "close_price": 7090.0,
+        "volume": 26203986.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260815,
+        "open_price": 7070.0,
+        "high_price": 7100.0,
+        "low_price": 6860.0,
+        "close_price": 6890.0,
+        "volume": 17599523.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260811,
+        "open_price": 7280.0,
+        "high_price": 7280.0,
+        "low_price": 6900.0,
+        "close_price": 7070.0,
+        "volume": 19707499.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260810,
+        "open_price": 7090.0,
+        "high_price": 7210.0,
+        "low_price": 7090.0,
+        "close_price": 7100.0,
+        "volume": 18425161.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260809,
+        "open_price": 7540.0,
+        "high_price": 7540.0,
+        "low_price": 7120.0,
+        "close_price": 7300.0,
+        "volume": 26771614.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260808,
+        "open_price": 7320.0,
+        "high_price": 7330.0,
+        "low_price": 7230.0,
+        "close_price": 7330.0,
+        "volume": 9276386.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260805,
+        "open_price": 7100.0,
+        "high_price": 7120.0,
+        "low_price": 7000.0,
+        "close_price": 7120.0,
+        "volume": 29231615.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260803,
+        "open_price": 6860.0,
+        "high_price": 6930.0,
+        "low_price": 6780.0,
+        "close_price": 6920.0,
+        "volume": 12787277.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260802,
+        "open_price": 6850.0,
+        "high_price": 6850.0,
+        "low_price": 6550.0,
+        "close_price": 6730.0,
+        "volume": 12294404.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260801,
+        "open_price": 6740.0,
+        "high_price": 6800.0,
+        "low_price": 6490.0,
+        "close_price": 6710.0,
+        "volume": 20428357.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260729,
+        "open_price": 6510.0,
+        "high_price": 6670.0,
+        "low_price": 6290.0,
+        "close_price": 6610.0,
+        "volume": 20462204.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260728,
+        "open_price": 6340.0,
+        "high_price": 6490.0,
+        "low_price": 6250.0,
+        "close_price": 6480.0,
+        "volume": 18560074.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260727,
+        "open_price": 6350.0,
+        "high_price": 6430.0,
+        "low_price": 6150.0,
+        "close_price": 6310.0,
+        "volume": 15885705.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260726,
+        "open_price": 6360.0,
+        "high_price": 6480.0,
+        "low_price": 6170.0,
+        "close_price": 6300.0,
+        "volume": 46565455.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260725,
+        "open_price": 6400.0,
+        "high_price": 6570.0,
+        "low_price": 6270.0,
+        "close_price": 6360.0,
+        "volume": 17063291.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260722,
+        "open_price": 6530.0,
+        "high_price": 6710.0,
+        "low_price": 6340.0,
+        "close_price": 6460.0,
+        "volume": 34925203.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260721,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 17750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260720,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260719,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7580.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260718,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7580.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260715,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7580.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260714,
+        "open_price": 7580.0,
+        "high_price": 7580.0,
+        "low_price": 7490.0,
+        "close_price": 7580.0,
+        "volume": 55158440.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260713,
+        "open_price": 7180.0,
+        "high_price": 7620.0,
+        "low_price": 7180.0,
+        "close_price": 7360.0,
+        "volume": 35646541.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260712,
+        "open_price": 7400.0,
+        "high_price": 7400.0,
+        "low_price": 7400.0,
+        "close_price": 7400.0,
+        "volume": 2840582.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260711,
+        "open_price": 7610.0,
+        "high_price": 7820.0,
+        "low_price": 7610.0,
+        "close_price": 7620.0,
+        "volume": 9487343.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260708,
+        "open_price": 7930.0,
+        "high_price": 7930.0,
+        "low_price": 7470.0,
+        "close_price": 7840.0,
+        "volume": 27203195.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260707,
+        "open_price": 7700.0,
+        "high_price": 7700.0,
+        "low_price": 7700.0,
+        "close_price": 7700.0,
+        "volume": 5305482.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260701,
+        "open_price": 7150.0,
+        "high_price": 7490.0,
+        "low_price": 7150.0,
+        "close_price": 7480.0,
+        "volume": 32749184.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260630,
+        "open_price": 7340.0,
+        "high_price": 7340.0,
+        "low_price": 7190.0,
+        "close_price": 7280.0,
+        "volume": 10504896.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260629,
+        "open_price": 7040.0,
+        "high_price": 7430.0,
+        "low_price": 7020.0,
+        "close_price": 7130.0,
+        "volume": 7305823.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260628,
+        "open_price": 7490.0,
+        "high_price": 7490.0,
+        "low_price": 7220.0,
+        "close_price": 7230.0,
+        "volume": 3183699.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260627,
+        "open_price": 7220.0,
+        "high_price": 7580.0,
+        "low_price": 7220.0,
+        "close_price": 7440.0,
+        "volume": 3105375.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260623,
+        "open_price": 7350.0,
+        "high_price": 7630.0,
+        "low_price": 7310.0,
+        "close_price": 7360.0,
+        "volume": 8715986.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260622,
+        "open_price": 7530.0,
+        "high_price": 7530.0,
+        "low_price": 7530.0,
+        "close_price": 7530.0,
+        "volume": 4333737.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260621,
+        "open_price": 7760.0,
+        "high_price": 7760.0,
+        "low_price": 7760.0,
+        "close_price": 7760.0,
+        "volume": 4420143.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260620,
+        "open_price": 8130.0,
+        "high_price": 8360.0,
+        "low_price": 7920.0,
+        "close_price": 8000.0,
+        "volume": 6287070.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260617,
+        "open_price": 8410.0,
+        "high_price": 8410.0,
+        "low_price": 8130.0,
+        "close_price": 8160.0,
+        "volume": 13191252.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260616,
+        "open_price": 8370.0,
+        "high_price": 8420.0,
+        "low_price": 7970.0,
+        "close_price": 8380.0,
+        "volume": 32823692.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260615,
+        "open_price": 8180.0,
+        "high_price": 8180.0,
+        "low_price": 8180.0,
+        "close_price": 8180.0,
+        "volume": 12051202.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260614,
+        "open_price": 7950.0,
+        "high_price": 7950.0,
+        "low_price": 7950.0,
+        "close_price": 7950.0,
+        "volume": 6516278.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260613,
+        "open_price": 7720.0,
+        "high_price": 7720.0,
+        "low_price": 7720.0,
+        "close_price": 7720.0,
+        "volume": 6347782.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260610,
+        "open_price": 7500.0,
+        "high_price": 7500.0,
+        "low_price": 7500.0,
+        "close_price": 7500.0,
+        "volume": 5855718.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260609,
+        "open_price": 7290.0,
+        "high_price": 7290.0,
+        "low_price": 7290.0,
+        "close_price": 7290.0,
+        "volume": 7044774.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260608,
+        "open_price": 7020.0,
+        "high_price": 7440.0,
+        "low_price": 7020.0,
+        "close_price": 7080.0,
+        "volume": 24797896.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260607,
+        "open_price": 7230.0,
+        "high_price": 7230.0,
+        "low_price": 7230.0,
+        "close_price": 7230.0,
+        "volume": 15913713.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260606,
+        "open_price": 7020.0,
+        "high_price": 7020.0,
+        "low_price": 6960.0,
+        "close_price": 7020.0,
+        "volume": 27250457.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260603,
+        "open_price": 6820.0,
+        "high_price": 6820.0,
+        "low_price": 6820.0,
+        "close_price": 6820.0,
+        "volume": 13270253.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260602,
+        "open_price": 6630.0,
+        "high_price": 6630.0,
+        "low_price": 6630.0,
+        "close_price": 6630.0,
+        "volume": 3428260.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260601,
+        "open_price": 6440.0,
+        "high_price": 6440.0,
+        "low_price": 6440.0,
+        "close_price": 6440.0,
+        "volume": 8602887.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260531,
+        "open_price": 6260.0,
+        "high_price": 6260.0,
+        "low_price": 6260.0,
+        "close_price": 6260.0,
+        "volume": 5645148.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260530,
+        "open_price": 6080.0,
+        "high_price": 6080.0,
+        "low_price": 6080.0,
+        "close_price": 6080.0,
+        "volume": 3836180.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260526,
+        "open_price": 5910.0,
+        "high_price": 5910.0,
+        "low_price": 5910.0,
+        "close_price": 5910.0,
+        "volume": 3109930.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260525,
+        "open_price": 5740.0,
+        "high_price": 5740.0,
+        "low_price": 5740.0,
+        "close_price": 5740.0,
+        "volume": 691763.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260524,
+        "open_price": 5580.0,
+        "high_price": 5580.0,
+        "low_price": 5580.0,
+        "close_price": 5580.0,
+        "volume": 1302632.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260523,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5420.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260520,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5420.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260519,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5420.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5420.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5420.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5420.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5420.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5420.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5420.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5420.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5420.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5420.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260225,
+        "open_price": 19000.0,
+        "high_price": 19470.0,
+        "low_price": 18810.0,
+        "close_price": 19050.0,
+        "volume": 228684.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260224,
+        "open_price": 18790.0,
+        "high_price": 19200.0,
+        "low_price": 18730.0,
+        "close_price": 18920.0,
+        "volume": 317391.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260223,
+        "open_price": 18850.0,
+        "high_price": 18880.0,
+        "low_price": 18540.0,
+        "close_price": 18650.0,
+        "volume": 309814.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260222,
+        "open_price": 18880.0,
+        "high_price": 19100.0,
+        "low_price": 18850.0,
+        "close_price": 18850.0,
+        "volume": 450410.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260221,
+        "open_price": 19440.0,
+        "high_price": 19460.0,
+        "low_price": 19430.0,
+        "close_price": 19430.0,
+        "volume": 1712606.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260218,
+        "open_price": 20040.0,
+        "high_price": 20320.0,
+        "low_price": 19880.0,
+        "close_price": 20030.0,
+        "volume": 474108.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260217,
+        "open_price": 20010.0,
+        "high_price": 20040.0,
+        "low_price": 19560.0,
+        "close_price": 19950.0,
+        "volume": 926048.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260216,
+        "open_price": 19480.0,
+        "high_price": 19650.0,
+        "low_price": 19320.0,
+        "close_price": 19460.0,
+        "volume": 545003.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260215,
+        "open_price": 20350.0,
+        "high_price": 20350.0,
+        "low_price": 19640.0,
+        "close_price": 19720.0,
+        "volume": 2381360.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260214,
+        "open_price": 20910.0,
+        "high_price": 20910.0,
+        "low_price": 20090.0,
+        "close_price": 20240.0,
+        "volume": 2543160.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260210,
+        "open_price": 21150.0,
+        "high_price": 21190.0,
+        "low_price": 20450.0,
+        "close_price": 20710.0,
+        "volume": 2857849.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260209,
+        "open_price": 21440.0,
+        "high_price": 21470.0,
+        "low_price": 20880.0,
+        "close_price": 21080.0,
+        "volume": 1581762.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260208,
+        "open_price": 21810.0,
+        "high_price": 21860.0,
+        "low_price": 21270.0,
+        "close_price": 21520.0,
+        "volume": 1174747.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260207,
+        "open_price": 21260.0,
+        "high_price": 21840.0,
+        "low_price": 21260.0,
+        "close_price": 21610.0,
+        "volume": 680954.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260203,
+        "open_price": 21820.0,
+        "high_price": 22100.0,
+        "low_price": 21170.0,
+        "close_price": 21230.0,
+        "volume": 1980283.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260202,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21820.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260201,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21820.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260131,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21820.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260128,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21820.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260127,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21820.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260126,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21820.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260125,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21820.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260124,
+        "open_price": 22720.0,
+        "high_price": 22780.0,
+        "low_price": 21530.0,
+        "close_price": 21820.0,
+        "volume": 3220335.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260121,
+        "open_price": 22150.0,
+        "high_price": 22190.0,
+        "low_price": 21520.0,
+        "close_price": 22190.0,
+        "volume": 2807122.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260120,
+        "open_price": 21650.0,
+        "high_price": 22000.0,
+        "low_price": 21380.0,
+        "close_price": 21550.0,
+        "volume": 902190.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260119,
+        "open_price": 21410.0,
+        "high_price": 21990.0,
+        "low_price": 21290.0,
+        "close_price": 21450.0,
+        "volume": 1138424.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260118,
+        "open_price": 22000.0,
+        "high_price": 22000.0,
+        "low_price": 21470.0,
+        "close_price": 21640.0,
+        "volume": 356957.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260114,
+        "open_price": 21900.0,
+        "high_price": 21960.0,
+        "low_price": 21310.0,
+        "close_price": 21460.0,
+        "volume": 5206149.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260113,
+        "open_price": 22750.0,
+        "high_price": 23020.0,
+        "low_price": 21830.0,
+        "close_price": 21960.0,
+        "volume": 1969593.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260112,
+        "open_price": 21720.0,
+        "high_price": 22750.0,
+        "low_price": 21720.0,
+        "close_price": 22500.0,
+        "volume": 1396108.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260111,
+        "open_price": 21760.0,
+        "high_price": 22620.0,
+        "low_price": 21760.0,
+        "close_price": 22090.0,
+        "volume": 1767743.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260110,
+        "open_price": 22430.0,
+        "high_price": 22750.0,
+        "low_price": 22430.0,
+        "close_price": 22430.0,
+        "volume": 3152490.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260107,
+        "open_price": 24410.0,
+        "high_price": 24410.0,
+        "low_price": 22990.0,
+        "close_price": 23120.0,
+        "volume": 4782306.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260106,
+        "open_price": 23330.0,
+        "high_price": 23720.0,
+        "low_price": 23330.0,
+        "close_price": 23700.0,
+        "volume": 2738328.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260105,
+        "open_price": 22020.0,
+        "high_price": 23050.0,
+        "low_price": 22020.0,
+        "close_price": 23030.0,
+        "volume": 3598804.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20260104,
+        "open_price": 22500.0,
+        "high_price": 23220.0,
+        "low_price": 21990.0,
+        "close_price": 22380.0,
+        "volume": 1846940.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251231,
+        "open_price": 21420.0,
+        "high_price": 22710.0,
+        "low_price": 21420.0,
+        "close_price": 22660.0,
+        "volume": 3115367.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251230,
+        "open_price": 22640.0,
+        "high_price": 23220.0,
+        "low_price": 21880.0,
+        "close_price": 22050.0,
+        "volume": 4774399.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251229,
+        "open_price": 22720.0,
+        "high_price": 22720.0,
+        "low_price": 21400.0,
+        "close_price": 22550.0,
+        "volume": 5786960.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251228,
+        "open_price": 21740.0,
+        "high_price": 22110.0,
+        "low_price": 21410.0,
+        "close_price": 22060.0,
+        "volume": 6009635.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251227,
+        "open_price": 21740.0,
+        "high_price": 21740.0,
+        "low_price": 20990.0,
+        "close_price": 21470.0,
+        "volume": 2988289.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251224,
+        "open_price": 20710.0,
+        "high_price": 21220.0,
+        "low_price": 20710.0,
+        "close_price": 21110.0,
+        "volume": 3368791.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251223,
+        "open_price": 21060.0,
+        "high_price": 21180.0,
+        "low_price": 20280.0,
+        "close_price": 20610.0,
+        "volume": 2657338.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251222,
+        "open_price": 21200.0,
+        "high_price": 21200.0,
+        "low_price": 20480.0,
+        "close_price": 20690.0,
+        "volume": 2843323.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251221,
+        "open_price": 21340.0,
+        "high_price": 21340.0,
+        "low_price": 20490.0,
+        "close_price": 20890.0,
+        "volume": 2691705.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251220,
+        "open_price": 20430.0,
+        "high_price": 20830.0,
+        "low_price": 20410.0,
+        "close_price": 20810.0,
+        "volume": 1628270.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251217,
+        "open_price": 20500.0,
+        "high_price": 20890.0,
+        "low_price": 20040.0,
+        "close_price": 20230.0,
+        "volume": 3329926.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251216,
+        "open_price": 20950.0,
+        "high_price": 20970.0,
+        "low_price": 20000.0,
+        "close_price": 20650.0,
+        "volume": 4799783.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251215,
+        "open_price": 20630.0,
+        "high_price": 20630.0,
+        "low_price": 20250.0,
+        "close_price": 20600.0,
+        "volume": 5299510.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251214,
+        "open_price": 20030.0,
+        "high_price": 20030.0,
+        "low_price": 20030.0,
+        "close_price": 20030.0,
+        "volume": 1064430.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251213,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19450.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251210,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19450.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251209,
+        "open_price": 19690.0,
+        "high_price": 19830.0,
+        "low_price": 19320.0,
+        "close_price": 19450.0,
+        "volume": 1075046.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251208,
+        "open_price": 19460.0,
+        "high_price": 19900.0,
+        "low_price": 19420.0,
+        "close_price": 19610.0,
+        "volume": 788581.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251207,
+        "open_price": 19400.0,
+        "high_price": 19600.0,
+        "low_price": 19040.0,
+        "close_price": 19330.0,
+        "volume": 1651201.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251206,
+        "open_price": 19640.0,
+        "high_price": 19640.0,
+        "low_price": 19140.0,
+        "close_price": 19340.0,
+        "volume": 2725815.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251203,
+        "open_price": 19300.0,
+        "high_price": 19770.0,
+        "low_price": 19150.0,
+        "close_price": 19350.0,
+        "volume": 2147803.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251202,
+        "open_price": 19400.0,
+        "high_price": 20080.0,
+        "low_price": 19310.0,
+        "close_price": 19540.0,
+        "volume": 1068151.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251201,
+        "open_price": 20000.0,
+        "high_price": 20240.0,
+        "low_price": 19360.0,
+        "close_price": 19650.0,
+        "volume": 376461.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251130,
+        "open_price": 19420.0,
+        "high_price": 20100.0,
+        "low_price": 19310.0,
+        "close_price": 19680.0,
+        "volume": 328420.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251129,
+        "open_price": 20120.0,
+        "high_price": 20120.0,
+        "low_price": 19420.0,
+        "close_price": 19550.0,
+        "volume": 908576.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251126,
+        "open_price": 20470.0,
+        "high_price": 20670.0,
+        "low_price": 19610.0,
+        "close_price": 20020.0,
+        "volume": 1026080.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251125,
+        "open_price": 19600.0,
+        "high_price": 20370.0,
+        "low_price": 19410.0,
+        "close_price": 20140.0,
+        "volume": 2605269.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251123,
+        "open_price": 19530.0,
+        "high_price": 20240.0,
+        "low_price": 19530.0,
+        "close_price": 19780.0,
+        "volume": 1181817.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251122,
+        "open_price": 19670.0,
+        "high_price": 20250.0,
+        "low_price": 19600.0,
+        "close_price": 19940.0,
+        "volume": 328520.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251119,
+        "open_price": 19920.0,
+        "high_price": 20290.0,
+        "low_price": 19660.0,
+        "close_price": 19980.0,
+        "volume": 736783.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251118,
+        "open_price": 20000.0,
+        "high_price": 20400.0,
+        "low_price": 19980.0,
+        "close_price": 20130.0,
+        "volume": 799699.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251117,
+        "open_price": 20150.0,
+        "high_price": 20560.0,
+        "low_price": 19980.0,
+        "close_price": 20410.0,
+        "volume": 1202852.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251116,
+        "open_price": 19740.0,
+        "high_price": 20160.0,
+        "low_price": 19740.0,
+        "close_price": 19970.0,
+        "volume": 1051385.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251115,
+        "open_price": 19560.0,
+        "high_price": 20150.0,
+        "low_price": 19550.0,
+        "close_price": 19820.0,
+        "volume": 628863.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251112,
+        "open_price": 19260.0,
+        "high_price": 20030.0,
+        "low_price": 19260.0,
+        "close_price": 19810.0,
+        "volume": 1245567.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251111,
+        "open_price": 20000.0,
+        "high_price": 20000.0,
+        "low_price": 19260.0,
+        "close_price": 19580.0,
+        "volume": 500069.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251110,
+        "open_price": 19980.0,
+        "high_price": 19990.0,
+        "low_price": 19250.0,
+        "close_price": 19620.0,
+        "volume": 567506.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251109,
+        "open_price": 20600.0,
+        "high_price": 20600.0,
+        "low_price": 19790.0,
+        "close_price": 19800.0,
+        "volume": 1853688.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251108,
+        "open_price": 20490.0,
+        "high_price": 21120.0,
+        "low_price": 19960.0,
+        "close_price": 20400.0,
+        "volume": 1075984.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251105,
+        "open_price": 21120.0,
+        "high_price": 21120.0,
+        "low_price": 20500.0,
+        "close_price": 20510.0,
+        "volume": 2114767.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251104,
+        "open_price": 21010.0,
+        "high_price": 21900.0,
+        "low_price": 20960.0,
+        "close_price": 21130.0,
+        "volume": 3127255.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251103,
+        "open_price": 21920.0,
+        "high_price": 21940.0,
+        "low_price": 20690.0,
+        "close_price": 21600.0,
+        "volume": 3639866.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251102,
+        "open_price": 20670.0,
+        "high_price": 21360.0,
+        "low_price": 20670.0,
+        "close_price": 21310.0,
+        "volume": 1819350.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251101,
+        "open_price": 20300.0,
+        "high_price": 20790.0,
+        "low_price": 20300.0,
+        "close_price": 20740.0,
+        "volume": 4431389.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251029,
+        "open_price": 20000.0,
+        "high_price": 20220.0,
+        "low_price": 19710.0,
+        "close_price": 20190.0,
+        "volume": 3162010.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251028,
+        "open_price": 19300.0,
+        "high_price": 19660.0,
+        "low_price": 19130.0,
+        "close_price": 19640.0,
+        "volume": 3172017.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251027,
+        "open_price": 18780.0,
+        "high_price": 19370.0,
+        "low_price": 18660.0,
+        "close_price": 19090.0,
+        "volume": 747824.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251026,
+        "open_price": 19550.0,
+        "high_price": 19750.0,
+        "low_price": 18970.0,
+        "close_price": 19030.0,
+        "volume": 2743633.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251025,
+        "open_price": 19730.0,
+        "high_price": 19800.0,
+        "low_price": 19150.0,
+        "close_price": 19550.0,
+        "volume": 1207046.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251022,
+        "open_price": 19400.0,
+        "high_price": 19600.0,
+        "low_price": 19150.0,
+        "close_price": 19590.0,
+        "volume": 4362430.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251021,
+        "open_price": 18420.0,
+        "high_price": 19070.0,
+        "low_price": 18040.0,
+        "close_price": 19030.0,
+        "volume": 4098743.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251020,
+        "open_price": 18600.0,
+        "high_price": 18950.0,
+        "low_price": 18470.0,
+        "close_price": 18520.0,
+        "volume": 1469313.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251019,
+        "open_price": 19600.0,
+        "high_price": 19740.0,
+        "low_price": 18610.0,
+        "close_price": 19040.0,
+        "volume": 1468124.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251018,
+        "open_price": 18610.0,
+        "high_price": 19230.0,
+        "low_price": 18610.0,
+        "close_price": 19180.0,
+        "volume": 2000593.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251015,
+        "open_price": 18670.0,
+        "high_price": 18750.0,
+        "low_price": 18670.0,
+        "close_price": 18670.0,
+        "volume": 2986718.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251014,
+        "open_price": 19240.0,
+        "high_price": 19880.0,
+        "low_price": 19080.0,
+        "close_price": 19240.0,
+        "volume": 3015291.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251013,
+        "open_price": 19730.0,
+        "high_price": 20030.0,
+        "low_price": 19170.0,
+        "close_price": 19660.0,
+        "volume": 6133430.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251012,
+        "open_price": 19580.0,
+        "high_price": 19580.0,
+        "low_price": 19580.0,
+        "close_price": 19580.0,
+        "volume": 10055659.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251011,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19010.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251008,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19010.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251007,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19010.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251006,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19010.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251005,
+        "open_price": 19010.0,
+        "high_price": 19010.0,
+        "low_price": 18600.0,
+        "close_price": 19010.0,
+        "volume": 12195349.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251004,
+        "open_price": 18290.0,
+        "high_price": 18510.0,
+        "low_price": 18020.0,
+        "close_price": 18460.0,
+        "volume": 997449.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20251001,
+        "open_price": 18130.0,
+        "high_price": 18130.0,
+        "low_price": 17230.0,
+        "close_price": 17980.0,
+        "volume": 4029701.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250930,
+        "open_price": 17620.0,
+        "high_price": 17620.0,
+        "low_price": 17620.0,
+        "close_price": 17620.0,
+        "volume": 2717046.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250929,
+        "open_price": 17110.0,
+        "high_price": 17110.0,
+        "low_price": 17110.0,
+        "close_price": 17110.0,
+        "volume": 1127218.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250928,
+        "open_price": 16730.0,
+        "high_price": 16730.0,
+        "low_price": 16730.0,
+        "close_price": 16620.0,
+        "volume": 722234.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250927,
+        "open_price": 15760.0,
+        "high_price": 16270.0,
+        "low_price": 15420.0,
+        "close_price": 16250.0,
+        "volume": 1195125.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250924,
+        "open_price": 15710.0,
+        "high_price": 15900.0,
+        "low_price": 15570.0,
+        "close_price": 15800.0,
+        "volume": 774368.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250923,
+        "open_price": 16060.0,
+        "high_price": 16060.0,
+        "low_price": 15400.0,
+        "close_price": 16020.0,
+        "volume": 1059252.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250922,
+        "open_price": 15250.0,
+        "high_price": 15930.0,
+        "low_price": 15250.0,
+        "close_price": 15600.0,
+        "volume": 279664.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250921,
+        "open_price": 15000.0,
+        "high_price": 15870.0,
+        "low_price": 14960.0,
+        "close_price": 15470.0,
+        "volume": 390456.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250920,
+        "open_price": 15410.0,
+        "high_price": 15430.0,
+        "low_price": 15410.0,
+        "close_price": 15410.0,
+        "volume": 2292285.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250917,
+        "open_price": 15650.0,
+        "high_price": 15850.0,
+        "low_price": 15580.0,
+        "close_price": 15880.0,
+        "volume": 421274.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250916,
+        "open_price": 15800.0,
+        "high_price": 16570.0,
+        "low_price": 15680.0,
+        "close_price": 16050.0,
+        "volume": 382773.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250915,
+        "open_price": 16640.0,
+        "high_price": 16640.0,
+        "low_price": 15710.0,
+        "close_price": 16160.0,
+        "volume": 451132.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250914,
+        "open_price": 15630.0,
+        "high_price": 16520.0,
+        "low_price": 15630.0,
+        "close_price": 16160.0,
+        "volume": 834302.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250913,
+        "open_price": 16100.0,
+        "high_price": 16100.0,
+        "low_price": 15800.0,
+        "close_price": 16040.0,
+        "volume": 292938.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250909,
+        "open_price": 16980.0,
+        "high_price": 16980.0,
+        "low_price": 16000.0,
+        "close_price": 16100.0,
+        "volume": 1171568.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250908,
+        "open_price": 16500.0,
+        "high_price": 16500.0,
+        "low_price": 15900.0,
+        "close_price": 16490.0,
+        "volume": 1388815.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250907,
+        "open_price": 15930.0,
+        "high_price": 16140.0,
+        "low_price": 15350.0,
+        "close_price": 16020.0,
+        "volume": 1141479.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250906,
+        "open_price": 15930.0,
+        "high_price": 15930.0,
+        "low_price": 15120.0,
+        "close_price": 15670.0,
+        "volume": 597263.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250903,
+        "open_price": 15000.0,
+        "high_price": 15710.0,
+        "low_price": 15000.0,
+        "close_price": 15470.0,
+        "volume": 543318.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250902,
+        "open_price": 14950.0,
+        "high_price": 15560.0,
+        "low_price": 14950.0,
+        "close_price": 15260.0,
+        "volume": 435179.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250831,
+        "open_price": 14970.0,
+        "high_price": 15640.0,
+        "low_price": 14970.0,
+        "close_price": 15190.0,
+        "volume": 407519.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250830,
+        "open_price": 14970.0,
+        "high_price": 15500.0,
+        "low_price": 14970.0,
+        "close_price": 15220.0,
+        "volume": 899647.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250827,
+        "open_price": 15320.0,
+        "high_price": 15390.0,
+        "low_price": 15080.0,
+        "close_price": 15430.0,
+        "volume": 350938.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250826,
+        "open_price": 15460.0,
+        "high_price": 15620.0,
+        "low_price": 15450.0,
+        "close_price": 15530.0,
+        "volume": 826964.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250825,
+        "open_price": 16260.0,
+        "high_price": 16260.0,
+        "low_price": 15330.0,
+        "close_price": 15920.0,
+        "volume": 1439836.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250823,
+        "open_price": 15830.0,
+        "high_price": 15830.0,
+        "low_price": 15180.0,
+        "close_price": 15790.0,
+        "volume": 948965.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250820,
+        "open_price": 15600.0,
+        "high_price": 15600.0,
+        "low_price": 15470.0,
+        "close_price": 15370.0,
+        "volume": 516821.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250819,
+        "open_price": 14900.0,
+        "high_price": 15170.0,
+        "low_price": 14900.0,
+        "close_price": 15150.0,
+        "volume": 1049591.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250818,
+        "open_price": 14900.0,
+        "high_price": 14900.0,
+        "low_price": 14790.0,
+        "close_price": 14730.0,
+        "volume": 809222.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250817,
+        "open_price": 14600.0,
+        "high_price": 14780.0,
+        "low_price": 14210.0,
+        "close_price": 14470.0,
+        "volume": 325113.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250816,
+        "open_price": 14160.0,
+        "high_price": 14580.0,
+        "low_price": 14160.0,
+        "close_price": 14350.0,
+        "volume": 525535.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250813,
+        "open_price": 14090.0,
+        "high_price": 14130.0,
+        "low_price": 14080.0,
+        "close_price": 14160.0,
+        "volume": 842600.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250812,
+        "open_price": 14580.0,
+        "high_price": 15000.0,
+        "low_price": 14470.0,
+        "close_price": 14510.0,
+        "volume": 1213617.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250811,
+        "open_price": 14670.0,
+        "high_price": 15000.0,
+        "low_price": 14600.0,
+        "close_price": 14910.0,
+        "volume": 255256.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250810,
+        "open_price": 14630.0,
+        "high_price": 15300.0,
+        "low_price": 14630.0,
+        "close_price": 14970.0,
+        "volume": 365309.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250809,
+        "open_price": 14600.0,
+        "high_price": 15460.0,
+        "low_price": 14600.0,
+        "close_price": 15010.0,
+        "volume": 516904.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250806,
+        "open_price": 14880.0,
+        "high_price": 15250.0,
+        "low_price": 14610.0,
+        "close_price": 15020.0,
+        "volume": 204415.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250805,
+        "open_price": 15450.0,
+        "high_price": 15500.0,
+        "low_price": 14900.0,
+        "close_price": 15060.0,
+        "volume": 1989494.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250804,
+        "open_price": 14920.0,
+        "high_price": 15600.0,
+        "low_price": 14920.0,
+        "close_price": 15360.0,
+        "volume": 856099.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250803,
+        "open_price": 15320.0,
+        "high_price": 15850.0,
+        "low_price": 15320.0,
+        "close_price": 15340.0,
+        "volume": 5051721.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250802,
+        "open_price": 15500.0,
+        "high_price": 15500.0,
+        "low_price": 15500.0,
+        "close_price": 15790.0,
+        "volume": 358449.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250730,
+        "open_price": 15970.0,
+        "high_price": 15970.0,
+        "low_price": 15970.0,
+        "close_price": 15970.0,
+        "volume": 8797175.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250729,
+        "open_price": 16030.0,
+        "high_price": 16030.0,
+        "low_price": 16030.0,
+        "close_price": 16460.0,
+        "volume": 103049.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250728,
+        "open_price": 16090.0,
+        "high_price": 16220.0,
+        "low_price": 16080.0,
+        "close_price": 16520.0,
+        "volume": 89749.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250727,
+        "open_price": 16820.0,
+        "high_price": 16830.0,
+        "low_price": 16560.0,
+        "close_price": 16570.0,
+        "volume": 1409412.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250726,
+        "open_price": 17850.0,
+        "high_price": 17850.0,
+        "low_price": 16850.0,
+        "close_price": 17070.0,
+        "volume": 784482.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250723,
+        "open_price": 17480.0,
+        "high_price": 17800.0,
+        "low_price": 16940.0,
+        "close_price": 17340.0,
+        "volume": 871254.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250722,
+        "open_price": 17290.0,
+        "high_price": 17800.0,
+        "low_price": 17290.0,
+        "close_price": 17460.0,
+        "volume": 1323865.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250721,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 17280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250720,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250719,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250716,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250715,
+        "open_price": 18220.0,
+        "high_price": 18640.0,
+        "low_price": 18220.0,
+        "close_price": 18280.0,
+        "volume": 753818.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250714,
+        "open_price": 18650.0,
+        "high_price": 18650.0,
+        "low_price": 18300.0,
+        "close_price": 18220.0,
+        "volume": 550497.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250713,
+        "open_price": 18660.0,
+        "high_price": 18660.0,
+        "low_price": 17600.0,
+        "close_price": 18180.0,
+        "volume": 1241288.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250712,
+        "open_price": 18490.0,
+        "high_price": 18490.0,
+        "low_price": 18200.0,
+        "close_price": 18120.0,
+        "volume": 834063.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250709,
+        "open_price": 17650.0,
+        "high_price": 18500.0,
+        "low_price": 17650.0,
+        "close_price": 17960.0,
+        "volume": 1674770.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250708,
+        "open_price": 17750.0,
+        "high_price": 18000.0,
+        "low_price": 17720.0,
+        "close_price": 18190.0,
+        "volume": 369416.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250707,
+        "open_price": 17760.0,
+        "high_price": 18710.0,
+        "low_price": 17760.0,
+        "close_price": 18260.0,
+        "volume": 1618633.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250702,
+        "open_price": 18230.0,
+        "high_price": 19160.0,
+        "low_price": 18230.0,
+        "close_price": 18280.0,
+        "volume": 16785585.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250701,
+        "open_price": 18230.0,
+        "high_price": 18230.0,
+        "low_price": 18230.0,
+        "close_price": 18790.0,
+        "volume": 2305.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250630,
+        "open_price": 18790.0,
+        "high_price": 18790.0,
+        "low_price": 18790.0,
+        "close_price": 18790.0,
+        "volume": 2804534.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250629,
+        "open_price": 18790.0,
+        "high_price": 18790.0,
+        "low_price": 18790.0,
+        "close_price": 19370.0,
+        "volume": 20822.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250628,
+        "open_price": 18910.0,
+        "high_price": 18910.0,
+        "low_price": 18910.0,
+        "close_price": 19370.0,
+        "volume": 564449.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19490.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19490.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19490.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19490.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19490.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19490.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19490.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19490.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250611,
+        "open_price": 19350.0,
+        "high_price": 19870.0,
+        "low_price": 19350.0,
+        "close_price": 19490.0,
+        "volume": 1515912.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250610,
+        "open_price": 19400.0,
+        "high_price": 19790.0,
+        "low_price": 19010.0,
+        "close_price": 19350.0,
+        "volume": 3473707.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250609,
+        "open_price": 19590.0,
+        "high_price": 19590.0,
+        "low_price": 18940.0,
+        "close_price": 19370.0,
+        "volume": 4556974.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250608,
+        "open_price": 19150.0,
+        "high_price": 19210.0,
+        "low_price": 19000.0,
+        "close_price": 19020.0,
+        "volume": 1853824.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250607,
+        "open_price": 18500.0,
+        "high_price": 18830.0,
+        "low_price": 18190.0,
+        "close_price": 18660.0,
+        "volume": 3656915.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250603,
+        "open_price": 18660.0,
+        "high_price": 18800.0,
+        "low_price": 18150.0,
+        "close_price": 18290.0,
+        "volume": 3197196.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250602,
+        "open_price": 19100.0,
+        "high_price": 19370.0,
+        "low_price": 18600.0,
+        "close_price": 18710.0,
+        "volume": 6063047.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250601,
+        "open_price": 19490.0,
+        "high_price": 19490.0,
+        "low_price": 18990.0,
+        "close_price": 19170.0,
+        "volume": 2355702.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250531,
+        "open_price": 20000.0,
+        "high_price": 20270.0,
+        "low_price": 19130.0,
+        "close_price": 19570.0,
+        "volume": 5355868.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250528,
+        "open_price": 19600.0,
+        "high_price": 19780.0,
+        "low_price": 19190.0,
+        "close_price": 19680.0,
+        "volume": 8380101.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250527,
+        "open_price": 19120.0,
+        "high_price": 19690.0,
+        "low_price": 18660.0,
+        "close_price": 19210.0,
+        "volume": 7604023.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250526,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250525,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250524,
+        "open_price": 18430.0,
+        "high_price": 18430.0,
+        "low_price": 18430.0,
+        "close_price": 18430.0,
+        "volume": 3047097.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250521,
+        "open_price": 17290.0,
+        "high_price": 17910.0,
+        "low_price": 17290.0,
+        "close_price": 17900.0,
+        "volume": 10295982.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250520,
+        "open_price": 17050.0,
+        "high_price": 17560.0,
+        "low_price": 16540.0,
+        "close_price": 17390.0,
+        "volume": 7468859.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250519,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 17150.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250518,
+        "open_price": 17430.0,
+        "high_price": 17430.0,
+        "low_price": 17060.0,
+        "close_price": 17150.0,
+        "volume": 2220117.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250517,
+        "open_price": 16620.0,
+        "high_price": 17110.0,
+        "low_price": 16460.0,
+        "close_price": 16960.0,
+        "volume": 3559628.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250514,
+        "open_price": 16970.0,
+        "high_price": 17150.0,
+        "low_price": 16530.0,
+        "close_price": 16620.0,
+        "volume": 6206231.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250513,
+        "open_price": 17250.0,
+        "high_price": 17290.0,
+        "low_price": 17020.0,
+        "close_price": 17040.0,
+        "volume": 4551159.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250512,
+        "open_price": 17580.0,
+        "high_price": 17950.0,
+        "low_price": 17300.0,
+        "close_price": 17540.0,
+        "volume": 8402502.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250511,
+        "open_price": 17060.0,
+        "high_price": 17060.0,
+        "low_price": 17060.0,
+        "close_price": 17530.0,
+        "volume": 262133.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250510,
+        "open_price": 17550.0,
+        "high_price": 17550.0,
+        "low_price": 17410.0,
+        "close_price": 17580.0,
+        "volume": 1927636.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250507,
+        "open_price": 17800.0,
+        "high_price": 18010.0,
+        "low_price": 17600.0,
+        "close_price": 17940.0,
+        "volume": 6182979.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250506,
+        "open_price": 17570.0,
+        "high_price": 17570.0,
+        "low_price": 16950.0,
+        "close_price": 17490.0,
+        "volume": 10883190.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250505,
+        "open_price": 17120.0,
+        "high_price": 17120.0,
+        "low_price": 17120.0,
+        "close_price": 17060.0,
+        "volume": 2465216.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250504,
+        "open_price": 16390.0,
+        "high_price": 16680.0,
+        "low_price": 16190.0,
+        "close_price": 16630.0,
+        "volume": 3142816.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250503,
+        "open_price": 15700.0,
+        "high_price": 16390.0,
+        "low_price": 15680.0,
+        "close_price": 16200.0,
+        "volume": 5287023.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250430,
+        "open_price": 15900.0,
+        "high_price": 15930.0,
+        "low_price": 15840.0,
+        "close_price": 15920.0,
+        "volume": 2943626.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250429,
+        "open_price": 15400.0,
+        "high_price": 15480.0,
+        "low_price": 15040.0,
+        "close_price": 15470.0,
+        "volume": 3906001.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250428,
+        "open_price": 15260.0,
+        "high_price": 15390.0,
+        "low_price": 14560.0,
+        "close_price": 15030.0,
+        "volume": 1753446.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250427,
+        "open_price": 14670.0,
+        "high_price": 15210.0,
+        "low_price": 14490.0,
+        "close_price": 14960.0,
+        "volume": 4016678.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250426,
+        "open_price": 14780.0,
+        "high_price": 15010.0,
+        "low_price": 14600.0,
+        "close_price": 14770.0,
+        "volume": 2657319.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250423,
+        "open_price": 14680.0,
+        "high_price": 15430.0,
+        "low_price": 14670.0,
+        "close_price": 14810.0,
+        "volume": 3860835.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250422,
+        "open_price": 15150.0,
+        "high_price": 15270.0,
+        "low_price": 15100.0,
+        "close_price": 15120.0,
+        "volume": 6345715.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250421,
+        "open_price": 15570.0,
+        "high_price": 15570.0,
+        "low_price": 15180.0,
+        "close_price": 15560.0,
+        "volume": 9037198.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250420,
+        "open_price": 14950.0,
+        "high_price": 15190.0,
+        "low_price": 14850.0,
+        "close_price": 15120.0,
+        "volume": 5959431.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250419,
+        "open_price": 14530.0,
+        "high_price": 15300.0,
+        "low_price": 14530.0,
+        "close_price": 14750.0,
+        "volume": 18248124.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250416,
+        "open_price": 14650.0,
+        "high_price": 14650.0,
+        "low_price": 14650.0,
+        "close_price": 14970.0,
+        "volume": 810030.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250415,
+        "open_price": 14670.0,
+        "high_price": 14670.0,
+        "low_price": 14670.0,
+        "close_price": 15100.0,
+        "volume": 113639.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250414,
+        "open_price": 15600.0,
+        "high_price": 15660.0,
+        "low_price": 14920.0,
+        "close_price": 15120.0,
+        "volume": 4590586.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250413,
+        "open_price": 15000.0,
+        "high_price": 15450.0,
+        "low_price": 15000.0,
+        "close_price": 15380.0,
+        "volume": 11204351.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250412,
+        "open_price": 14800.0,
+        "high_price": 14900.0,
+        "low_price": 14750.0,
+        "close_price": 15000.0,
+        "volume": 1280525.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250409,
+        "open_price": 15690.0,
+        "high_price": 15690.0,
+        "low_price": 15200.0,
+        "close_price": 15200.0,
+        "volume": 8466447.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250408,
+        "open_price": 15400.0,
+        "high_price": 15690.0,
+        "low_price": 15400.0,
+        "close_price": 15660.0,
+        "volume": 5630495.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250407,
+        "open_price": 15260.0,
+        "high_price": 15260.0,
+        "low_price": 14900.0,
+        "close_price": 15240.0,
+        "volume": 18123533.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250406,
+        "open_price": 14510.0,
+        "high_price": 14820.0,
+        "low_price": 14510.0,
+        "close_price": 14820.0,
+        "volume": 3553066.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250405,
+        "open_price": 14500.0,
+        "high_price": 14710.0,
+        "low_price": 14080.0,
+        "close_price": 14390.0,
+        "volume": 5544682.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250330,
+        "open_price": 14450.0,
+        "high_price": 14600.0,
+        "low_price": 14390.0,
+        "close_price": 14410.0,
+        "volume": 5182189.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250329,
+        "open_price": 15230.0,
+        "high_price": 15230.0,
+        "low_price": 14710.0,
+        "close_price": 14830.0,
+        "volume": 2727098.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250326,
+        "open_price": 15340.0,
+        "high_price": 15550.0,
+        "low_price": 14940.0,
+        "close_price": 15160.0,
+        "volume": 10375202.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250325,
+        "open_price": 15510.0,
+        "high_price": 15970.0,
+        "low_price": 15280.0,
+        "close_price": 15400.0,
+        "volume": 10232041.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250318,
+        "open_price": 15320.0,
+        "high_price": 15320.0,
+        "low_price": 15320.0,
+        "close_price": 15750.0,
+        "volume": 214129.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250317,
+        "open_price": 16060.0,
+        "high_price": 16060.0,
+        "low_price": 15140.0,
+        "close_price": 15790.0,
+        "volume": 20534654.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250316,
+        "open_price": 15480.0,
+        "high_price": 16100.0,
+        "low_price": 15470.0,
+        "close_price": 15600.0,
+        "volume": 23505959.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250315,
+        "open_price": 16050.0,
+        "high_price": 16520.0,
+        "low_price": 15560.0,
+        "close_price": 15940.0,
+        "volume": 22077177.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250312,
+        "open_price": 16040.0,
+        "high_price": 16040.0,
+        "low_price": 16040.0,
+        "close_price": 16040.0,
+        "volume": 2811878.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250311,
+        "open_price": 16060.0,
+        "high_price": 16060.0,
+        "low_price": 16060.0,
+        "close_price": 16530.0,
+        "volume": 92066.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250310,
+        "open_price": 16100.0,
+        "high_price": 16100.0,
+        "low_price": 16100.0,
+        "close_price": 16550.0,
+        "volume": 250879.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250309,
+        "open_price": 16120.0,
+        "high_price": 16120.0,
+        "low_price": 16120.0,
+        "close_price": 16590.0,
+        "volume": 113512.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250308,
+        "open_price": 16750.0,
+        "high_price": 16960.0,
+        "low_price": 16460.0,
+        "close_price": 16610.0,
+        "volume": 9922146.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250305,
+        "open_price": 17100.0,
+        "high_price": 17170.0,
+        "low_price": 16950.0,
+        "close_price": 16960.0,
+        "volume": 9526272.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250304,
+        "open_price": 17700.0,
+        "high_price": 17940.0,
+        "low_price": 16900.0,
+        "close_price": 17470.0,
+        "volume": 61588131.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250303,
+        "open_price": 17420.0,
+        "high_price": 17420.0,
+        "low_price": 17420.0,
+        "close_price": 17420.0,
+        "volume": 9549468.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 17950.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250301,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 17950.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250226,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 17950.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250225,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 17950.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250224,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 17950.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250223,
+        "open_price": 17950.0,
+        "high_price": 17950.0,
+        "low_price": 17950.0,
+        "close_price": 17950.0,
+        "volume": 11282894.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250222,
+        "open_price": 17430.0,
+        "high_price": 17430.0,
+        "low_price": 17430.0,
+        "close_price": 17430.0,
+        "volume": 18707365.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250219,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250218,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غانیزان",
+        "trade_date": 20250217,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16930.0,
+        "volume": 0.0
+    }
+]

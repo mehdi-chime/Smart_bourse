@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260901,
+        "open_price": 6260.0,
+        "high_price": 6300.0,
+        "low_price": 5940.0,
+        "close_price": 6150.0,
+        "volume": 40657710.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260831,
+        "open_price": 6110.0,
+        "high_price": 6270.0,
+        "low_price": 6090.0,
+        "close_price": 6120.0,
+        "volume": 91230570.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260829,
+        "open_price": 6200.0,
+        "high_price": 6340.0,
+        "low_price": 6170.0,
+        "close_price": 6270.0,
+        "volume": 69821747.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260826,
+        "open_price": 6190.0,
+        "high_price": 6330.0,
+        "low_price": 6150.0,
+        "close_price": 6260.0,
+        "volume": 122611018.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260825,
+        "open_price": 6030.0,
+        "high_price": 6260.0,
+        "low_price": 6030.0,
+        "close_price": 6150.0,
+        "volume": 87820189.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260824,
+        "open_price": 6050.0,
+        "high_price": 6260.0,
+        "low_price": 6040.0,
+        "close_price": 6160.0,
+        "volume": 35220753.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260823,
+        "open_price": 6460.0,
+        "high_price": 6460.0,
+        "low_price": 6140.0,
+        "close_price": 6210.0,
+        "volume": 62075762.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260822,
+        "open_price": 6320.0,
+        "high_price": 6480.0,
+        "low_price": 6270.0,
+        "close_price": 6320.0,
+        "volume": 45136558.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260819,
+        "open_price": 6240.0,
+        "high_price": 6350.0,
+        "low_price": 6180.0,
+        "close_price": 6310.0,
+        "volume": 38674981.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260818,
+        "open_price": 6580.0,
+        "high_price": 6580.0,
+        "low_price": 6260.0,
+        "close_price": 6340.0,
+        "volume": 96794024.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260817,
+        "open_price": 6500.0,
+        "high_price": 6500.0,
+        "low_price": 6320.0,
+        "close_price": 6450.0,
+        "volume": 128327324.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260816,
+        "open_price": 6170.0,
+        "high_price": 6470.0,
+        "low_price": 6160.0,
+        "close_price": 6320.0,
+        "volume": 94986783.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260815,
+        "open_price": 6650.0,
+        "high_price": 6650.0,
+        "low_price": 6310.0,
+        "close_price": 6310.0,
+        "volume": 193452027.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260811,
+        "open_price": 6550.0,
+        "high_price": 6570.0,
+        "low_price": 6420.0,
+        "close_price": 6500.0,
+        "volume": 117878095.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260810,
+        "open_price": 6460.0,
+        "high_price": 6460.0,
+        "low_price": 6280.0,
+        "close_price": 6430.0,
+        "volume": 123141439.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260809,
+        "open_price": 6320.0,
+        "high_price": 6320.0,
+        "low_price": 6100.0,
+        "close_price": 6280.0,
+        "volume": 138362565.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260808,
+        "open_price": 6140.0,
+        "high_price": 6140.0,
+        "low_price": 6120.0,
+        "close_price": 6140.0,
+        "volume": 190184169.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260805,
+        "open_price": 5970.0,
+        "high_price": 5970.0,
+        "low_price": 5950.0,
+        "close_price": 5970.0,
+        "volume": 194541806.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260803,
+        "open_price": 5800.0,
+        "high_price": 5800.0,
+        "low_price": 5700.0,
+        "close_price": 5800.0,
+        "volume": 270344089.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260802,
+        "open_price": 5650.0,
+        "high_price": 5660.0,
+        "low_price": 5540.0,
+        "close_price": 5640.0,
+        "volume": 123238746.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260801,
+        "open_price": 5730.0,
+        "high_price": 5730.0,
+        "low_price": 5460.0,
+        "close_price": 5500.0,
+        "volume": 73683406.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260729,
+        "open_price": 5640.0,
+        "high_price": 5720.0,
+        "low_price": 5410.0,
+        "close_price": 5610.0,
+        "volume": 109464747.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260728,
+        "open_price": 5550.0,
+        "high_price": 5570.0,
+        "low_price": 5410.0,
+        "close_price": 5570.0,
+        "volume": 260778187.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260727,
+        "open_price": 5420.0,
+        "high_price": 5580.0,
+        "low_price": 5280.0,
+        "close_price": 5410.0,
+        "volume": 172907530.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260726,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5100.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260725,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5100.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260722,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5270.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260721,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5270.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260720,
+        "open_price": 5270.0,
+        "high_price": 5270.0,
+        "low_price": 5150.0,
+        "close_price": 5270.0,
+        "volume": 173734082.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260719,
+        "open_price": 5160.0,
+        "high_price": 5190.0,
+        "low_price": 5000.0,
+        "close_price": 5120.0,
+        "volume": 95700242.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260718,
+        "open_price": 5150.0,
+        "high_price": 5300.0,
+        "low_price": 5000.0,
+        "close_price": 5040.0,
+        "volume": 176667037.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260715,
+        "open_price": 5170.0,
+        "high_price": 5180.0,
+        "low_price": 5040.0,
+        "close_price": 5150.0,
+        "volume": 87099105.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260714,
+        "open_price": 5030.0,
+        "high_price": 5050.0,
+        "low_price": 4800.0,
+        "close_price": 5030.0,
+        "volume": 245614022.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260713,
+        "open_price": 4710.0,
+        "high_price": 4990.0,
+        "low_price": 4710.0,
+        "close_price": 4910.0,
+        "volume": 149720705.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260712,
+        "open_price": 4850.0,
+        "high_price": 4850.0,
+        "low_price": 4850.0,
+        "close_price": 4850.0,
+        "volume": 72277866.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260711,
+        "open_price": 5180.0,
+        "high_price": 5180.0,
+        "low_price": 5000.0,
+        "close_price": 5000.0,
+        "volume": 127000140.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260708,
+        "open_price": 5340.0,
+        "high_price": 5340.0,
+        "low_price": 5130.0,
+        "close_price": 5150.0,
+        "volume": 129161459.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260707,
+        "open_price": 5360.0,
+        "high_price": 5400.0,
+        "low_price": 5130.0,
+        "close_price": 5280.0,
+        "volume": 224978519.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260701,
+        "open_price": 5380.0,
+        "high_price": 5380.0,
+        "low_price": 5220.0,
+        "close_price": 5250.0,
+        "volume": 123289297.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260630,
+        "open_price": 5180.0,
+        "high_price": 5270.0,
+        "low_price": 5120.0,
+        "close_price": 5240.0,
+        "volume": 96872297.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260629,
+        "open_price": 5090.0,
+        "high_price": 5200.0,
+        "low_price": 5060.0,
+        "close_price": 5120.0,
+        "volume": 99079809.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260628,
+        "open_price": 5230.0,
+        "high_price": 5230.0,
+        "low_price": 4930.0,
+        "close_price": 5050.0,
+        "volume": 129924009.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260627,
+        "open_price": 5080.0,
+        "high_price": 5080.0,
+        "low_price": 4900.0,
+        "close_price": 5080.0,
+        "volume": 164808412.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260623,
+        "open_price": 4938.0,
+        "high_price": 4938.0,
+        "low_price": 4855.0,
+        "close_price": 4938.0,
+        "volume": 145728065.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260622,
+        "open_price": 4710.0,
+        "high_price": 4842.0,
+        "low_price": 4638.0,
+        "close_price": 4795.0,
+        "volume": 232029414.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260621,
+        "open_price": 4853.0,
+        "high_price": 4853.0,
+        "low_price": 4571.0,
+        "close_price": 4701.0,
+        "volume": 257708489.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260620,
+        "open_price": 4726.0,
+        "high_price": 4726.0,
+        "low_price": 4593.0,
+        "close_price": 4712.0,
+        "volume": 264895363.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260617,
+        "open_price": 4593.0,
+        "high_price": 4593.0,
+        "low_price": 4460.0,
+        "close_price": 4589.0,
+        "volume": 198636635.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260616,
+        "open_price": 4460.0,
+        "high_price": 4460.0,
+        "low_price": 4460.0,
+        "close_price": 4460.0,
+        "volume": 72844934.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260615,
+        "open_price": 4331.0,
+        "high_price": 4331.0,
+        "low_price": 4331.0,
+        "close_price": 4331.0,
+        "volume": 51259885.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260614,
+        "open_price": 4205.0,
+        "high_price": 4205.0,
+        "low_price": 4205.0,
+        "close_price": 4205.0,
+        "volume": 51026428.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260613,
+        "open_price": 4083.0,
+        "high_price": 4083.0,
+        "low_price": 4083.0,
+        "close_price": 4083.0,
+        "volume": 69783358.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260610,
+        "open_price": 3965.0,
+        "high_price": 3965.0,
+        "low_price": 3908.0,
+        "close_price": 3965.0,
+        "volume": 250889469.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260609,
+        "open_price": 3850.0,
+        "high_price": 3850.0,
+        "low_price": 3850.0,
+        "close_price": 3850.0,
+        "volume": 35280677.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260608,
+        "open_price": 3671.0,
+        "high_price": 3896.0,
+        "low_price": 3671.0,
+        "close_price": 3738.0,
+        "volume": 145302074.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260607,
+        "open_price": 3784.0,
+        "high_price": 3784.0,
+        "low_price": 3784.0,
+        "close_price": 3784.0,
+        "volume": 34486516.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260606,
+        "open_price": 3660.0,
+        "high_price": 3679.0,
+        "low_price": 3572.0,
+        "close_price": 3674.0,
+        "volume": 91656643.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260603,
+        "open_price": 3572.0,
+        "high_price": 3572.0,
+        "low_price": 3548.0,
+        "close_price": 3572.0,
+        "volume": 305035266.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260602,
+        "open_price": 3469.0,
+        "high_price": 3469.0,
+        "low_price": 3410.0,
+        "close_price": 3468.0,
+        "volume": 287838484.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260601,
+        "open_price": 3368.0,
+        "high_price": 3368.0,
+        "low_price": 3368.0,
+        "close_price": 3368.0,
+        "volume": 165640473.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260531,
+        "open_price": 3270.0,
+        "high_price": 3270.0,
+        "low_price": 3270.0,
+        "close_price": 3270.0,
+        "volume": 79568734.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260530,
+        "open_price": 3175.0,
+        "high_price": 3175.0,
+        "low_price": 3175.0,
+        "close_price": 3175.0,
+        "volume": 59423657.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260526,
+        "open_price": 3083.0,
+        "high_price": 3083.0,
+        "low_price": 3083.0,
+        "close_price": 3083.0,
+        "volume": 154424507.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260525,
+        "open_price": 2994.0,
+        "high_price": 2994.0,
+        "low_price": 2994.0,
+        "close_price": 2994.0,
+        "volume": 49354998.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260524,
+        "open_price": 2907.0,
+        "high_price": 2907.0,
+        "low_price": 2907.0,
+        "close_price": 2907.0,
+        "volume": 86056993.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260523,
+        "open_price": 2823.0,
+        "high_price": 2823.0,
+        "low_price": 2823.0,
+        "close_price": 2823.0,
+        "volume": 8129592.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260520,
+        "open_price": 2741.0,
+        "high_price": 2741.0,
+        "low_price": 2741.0,
+        "close_price": 2741.0,
+        "volume": 48908099.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260519,
+        "open_price": 2562.0,
+        "high_price": 2720.0,
+        "low_price": 2562.0,
+        "close_price": 2662.0,
+        "volume": 198237295.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2641.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260225,
+        "open_price": 2694.0,
+        "high_price": 2694.0,
+        "low_price": 2610.0,
+        "close_price": 2641.0,
+        "volume": 17284653.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260224,
+        "open_price": 2650.0,
+        "high_price": 2659.0,
+        "low_price": 2590.0,
+        "close_price": 2622.0,
+        "volume": 39830625.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260223,
+        "open_price": 2682.0,
+        "high_price": 2682.0,
+        "low_price": 2605.0,
+        "close_price": 2625.0,
+        "volume": 46635352.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260222,
+        "open_price": 2705.0,
+        "high_price": 2717.0,
+        "low_price": 2559.0,
+        "close_price": 2612.0,
+        "volume": 144732374.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260221,
+        "open_price": 2769.0,
+        "high_price": 2769.0,
+        "low_price": 2637.0,
+        "close_price": 2638.0,
+        "volume": 96435197.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260218,
+        "open_price": 2780.0,
+        "high_price": 2789.0,
+        "low_price": 2690.0,
+        "close_price": 2718.0,
+        "volume": 10806072.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260217,
+        "open_price": 2785.0,
+        "high_price": 2786.0,
+        "low_price": 2690.0,
+        "close_price": 2714.0,
+        "volume": 13610751.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260216,
+        "open_price": 2719.0,
+        "high_price": 2759.0,
+        "low_price": 2699.0,
+        "close_price": 2705.0,
+        "volume": 21413332.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260215,
+        "open_price": 2753.0,
+        "high_price": 2800.0,
+        "low_price": 2690.0,
+        "close_price": 2711.0,
+        "volume": 10690880.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260214,
+        "open_price": 2870.0,
+        "high_price": 2884.0,
+        "low_price": 2733.0,
+        "close_price": 2753.0,
+        "volume": 20125281.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260210,
+        "open_price": 2800.0,
+        "high_price": 2940.0,
+        "low_price": 2800.0,
+        "close_price": 2817.0,
+        "volume": 16694157.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260209,
+        "open_price": 2958.0,
+        "high_price": 2958.0,
+        "low_price": 2870.0,
+        "close_price": 2886.0,
+        "volume": 25799061.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260208,
+        "open_price": 3019.0,
+        "high_price": 3019.0,
+        "low_price": 2846.0,
+        "close_price": 2958.0,
+        "volume": 43663948.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260207,
+        "open_price": 2929.0,
+        "high_price": 2932.0,
+        "low_price": 2910.0,
+        "close_price": 2932.0,
+        "volume": 16704866.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260203,
+        "open_price": 2849.0,
+        "high_price": 2861.0,
+        "low_price": 2760.0,
+        "close_price": 2847.0,
+        "volume": 17804400.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260202,
+        "open_price": 2788.0,
+        "high_price": 2795.0,
+        "low_price": 2750.0,
+        "close_price": 2778.0,
+        "volume": 22478952.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260201,
+        "open_price": 2713.0,
+        "high_price": 2793.0,
+        "low_price": 2689.0,
+        "close_price": 2714.0,
+        "volume": 58800800.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260131,
+        "open_price": 2860.0,
+        "high_price": 2870.0,
+        "low_price": 2704.0,
+        "close_price": 2712.0,
+        "volume": 52879276.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260128,
+        "open_price": 2751.0,
+        "high_price": 2845.0,
+        "low_price": 2751.0,
+        "close_price": 2787.0,
+        "volume": 90037264.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260127,
+        "open_price": 2836.0,
+        "high_price": 2850.0,
+        "low_price": 2836.0,
+        "close_price": 2836.0,
+        "volume": 62775722.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260126,
+        "open_price": 2923.0,
+        "high_price": 2923.0,
+        "low_price": 2923.0,
+        "close_price": 2923.0,
+        "volume": 30154501.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260125,
+        "open_price": 3013.0,
+        "high_price": 3013.0,
+        "low_price": 3013.0,
+        "close_price": 3013.0,
+        "volume": 32598420.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260124,
+        "open_price": 3204.0,
+        "high_price": 3204.0,
+        "low_price": 3106.0,
+        "close_price": 3106.0,
+        "volume": 40808164.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260121,
+        "open_price": 3131.0,
+        "high_price": 3224.0,
+        "low_price": 3131.0,
+        "close_price": 3202.0,
+        "volume": 21268328.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260120,
+        "open_price": 3133.0,
+        "high_price": 3167.0,
+        "low_price": 3050.0,
+        "close_price": 3131.0,
+        "volume": 38198657.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260119,
+        "open_price": 3075.0,
+        "high_price": 3075.0,
+        "low_price": 3075.0,
+        "close_price": 3075.0,
+        "volume": 27198365.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260118,
+        "open_price": 2903.0,
+        "high_price": 2990.0,
+        "low_price": 2903.0,
+        "close_price": 2986.0,
+        "volume": 36486224.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260114,
+        "open_price": 2902.0,
+        "high_price": 2980.0,
+        "low_price": 2902.0,
+        "close_price": 2903.0,
+        "volume": 79355153.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260113,
+        "open_price": 3140.0,
+        "high_price": 3144.0,
+        "low_price": 2964.0,
+        "close_price": 2991.0,
+        "volume": 71536939.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260112,
+        "open_price": 3050.0,
+        "high_price": 3071.0,
+        "low_price": 3000.0,
+        "close_price": 3055.0,
+        "volume": 57767802.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260111,
+        "open_price": 2995.0,
+        "high_price": 3059.0,
+        "low_price": 2954.0,
+        "close_price": 2982.0,
+        "volume": 63020344.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260110,
+        "open_price": 2973.0,
+        "high_price": 3069.0,
+        "low_price": 2973.0,
+        "close_price": 2993.0,
+        "volume": 77653315.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260107,
+        "open_price": 3101.0,
+        "high_price": 3101.0,
+        "low_price": 3020.0,
+        "close_price": 3064.0,
+        "volume": 46051311.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260106,
+        "open_price": 3011.0,
+        "high_price": 3011.0,
+        "low_price": 3001.0,
+        "close_price": 3011.0,
+        "volume": 68570016.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260105,
+        "open_price": 2911.0,
+        "high_price": 2925.0,
+        "low_price": 2910.0,
+        "close_price": 2924.0,
+        "volume": 40270367.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20260104,
+        "open_price": 2870.0,
+        "high_price": 2910.0,
+        "low_price": 2816.0,
+        "close_price": 2840.0,
+        "volume": 44051842.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251231,
+        "open_price": 2871.0,
+        "high_price": 2937.0,
+        "low_price": 2796.0,
+        "close_price": 2903.0,
+        "volume": 15236511.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251230,
+        "open_price": 2871.0,
+        "high_price": 2959.0,
+        "low_price": 2871.0,
+        "close_price": 2871.0,
+        "volume": 137664833.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251229,
+        "open_price": 3004.0,
+        "high_price": 3059.0,
+        "low_price": 2939.0,
+        "close_price": 2959.0,
+        "volume": 137305559.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251228,
+        "open_price": 3000.0,
+        "high_price": 3065.0,
+        "low_price": 2976.0,
+        "close_price": 3029.0,
+        "volume": 16398840.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251227,
+        "open_price": 2974.0,
+        "high_price": 2978.0,
+        "low_price": 2909.0,
+        "close_price": 2977.0,
+        "volume": 59923286.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251224,
+        "open_price": 2845.0,
+        "high_price": 2900.0,
+        "low_price": 2845.0,
+        "close_price": 2892.0,
+        "volume": 54774964.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251223,
+        "open_price": 2829.0,
+        "high_price": 2832.0,
+        "low_price": 2760.0,
+        "close_price": 2816.0,
+        "volume": 83701020.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251222,
+        "open_price": 2794.0,
+        "high_price": 2794.0,
+        "low_price": 2712.0,
+        "close_price": 2750.0,
+        "volume": 59198030.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251221,
+        "open_price": 2731.0,
+        "high_price": 2820.0,
+        "low_price": 2723.0,
+        "close_price": 2765.0,
+        "volume": 32394999.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251220,
+        "open_price": 2727.0,
+        "high_price": 2763.0,
+        "low_price": 2717.0,
+        "close_price": 2763.0,
+        "volume": 180090873.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251217,
+        "open_price": 2660.0,
+        "high_price": 2720.0,
+        "low_price": 2650.0,
+        "close_price": 2683.0,
+        "volume": 70064129.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251216,
+        "open_price": 2749.0,
+        "high_price": 2809.0,
+        "low_price": 2678.0,
+        "close_price": 2705.0,
+        "volume": 50174976.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251215,
+        "open_price": 2701.0,
+        "high_price": 2750.0,
+        "low_price": 2692.0,
+        "close_price": 2728.0,
+        "volume": 78841927.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251214,
+        "open_price": 2703.0,
+        "high_price": 2730.0,
+        "low_price": 2699.0,
+        "close_price": 2714.0,
+        "volume": 60355785.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251213,
+        "open_price": 2768.0,
+        "high_price": 2768.0,
+        "low_price": 2710.0,
+        "close_price": 2726.0,
+        "volume": 14974502.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251210,
+        "open_price": 2671.0,
+        "high_price": 2738.0,
+        "low_price": 2671.0,
+        "close_price": 2723.0,
+        "volume": 31614400.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251209,
+        "open_price": 2755.0,
+        "high_price": 2769.0,
+        "low_price": 2674.0,
+        "close_price": 2720.0,
+        "volume": 39682600.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251208,
+        "open_price": 2710.0,
+        "high_price": 2797.0,
+        "low_price": 2688.0,
+        "close_price": 2751.0,
+        "volume": 26638089.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251207,
+        "open_price": 2855.0,
+        "high_price": 2855.0,
+        "low_price": 2718.0,
+        "close_price": 2763.0,
+        "volume": 24210524.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251206,
+        "open_price": 2750.0,
+        "high_price": 2804.0,
+        "low_price": 2729.0,
+        "close_price": 2773.0,
+        "volume": 35627361.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251203,
+        "open_price": 2731.0,
+        "high_price": 2765.0,
+        "low_price": 2713.0,
+        "close_price": 2723.0,
+        "volume": 44266248.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251202,
+        "open_price": 2705.0,
+        "high_price": 2740.0,
+        "low_price": 2696.0,
+        "close_price": 2707.0,
+        "volume": 49378874.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251201,
+        "open_price": 2676.0,
+        "high_price": 2722.0,
+        "low_price": 2668.0,
+        "close_price": 2680.0,
+        "volume": 31560229.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251130,
+        "open_price": 2645.0,
+        "high_price": 2690.0,
+        "low_price": 2643.0,
+        "close_price": 2651.0,
+        "volume": 53628755.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251129,
+        "open_price": 2655.0,
+        "high_price": 2703.0,
+        "low_price": 2635.0,
+        "close_price": 2646.0,
+        "volume": 57202933.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251126,
+        "open_price": 2659.0,
+        "high_price": 2667.0,
+        "low_price": 2625.0,
+        "close_price": 2631.0,
+        "volume": 25754637.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251125,
+        "open_price": 2634.0,
+        "high_price": 2666.0,
+        "low_price": 2607.0,
+        "close_price": 2625.0,
+        "volume": 56705519.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251123,
+        "open_price": 2620.0,
+        "high_price": 2650.0,
+        "low_price": 2590.0,
+        "close_price": 2601.0,
+        "volume": 33995167.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251122,
+        "open_price": 2610.0,
+        "high_price": 2611.0,
+        "low_price": 2571.0,
+        "close_price": 2589.0,
+        "volume": 27715053.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251119,
+        "open_price": 2608.0,
+        "high_price": 2610.0,
+        "low_price": 2560.0,
+        "close_price": 2582.0,
+        "volume": 30739709.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251118,
+        "open_price": 2608.0,
+        "high_price": 2611.0,
+        "low_price": 2551.0,
+        "close_price": 2580.0,
+        "volume": 37881206.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251117,
+        "open_price": 2640.0,
+        "high_price": 2672.0,
+        "low_price": 2540.0,
+        "close_price": 2592.0,
+        "volume": 46387041.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251116,
+        "open_price": 2592.0,
+        "high_price": 2620.0,
+        "low_price": 2568.0,
+        "close_price": 2595.0,
+        "volume": 51312930.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251115,
+        "open_price": 2646.0,
+        "high_price": 2646.0,
+        "low_price": 2559.0,
+        "close_price": 2582.0,
+        "volume": 24032078.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251112,
+        "open_price": 2592.0,
+        "high_price": 2634.0,
+        "low_price": 2560.0,
+        "close_price": 2585.0,
+        "volume": 33956088.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251111,
+        "open_price": 2649.0,
+        "high_price": 2649.0,
+        "low_price": 2551.0,
+        "close_price": 2582.0,
+        "volume": 20384689.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251110,
+        "open_price": 2625.0,
+        "high_price": 2629.0,
+        "low_price": 2546.0,
+        "close_price": 2574.0,
+        "volume": 32188229.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251109,
+        "open_price": 2653.0,
+        "high_price": 2653.0,
+        "low_price": 2566.0,
+        "close_price": 2575.0,
+        "volume": 68418804.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251108,
+        "open_price": 2690.0,
+        "high_price": 2700.0,
+        "low_price": 2579.0,
+        "close_price": 2645.0,
+        "volume": 44486575.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251105,
+        "open_price": 2680.0,
+        "high_price": 2680.0,
+        "low_price": 2635.0,
+        "close_price": 2658.0,
+        "volume": 17427955.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251104,
+        "open_price": 2680.0,
+        "high_price": 2717.0,
+        "low_price": 2602.0,
+        "close_price": 2661.0,
+        "volume": 81716640.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251103,
+        "open_price": 2681.0,
+        "high_price": 2681.0,
+        "low_price": 2628.0,
+        "close_price": 2680.0,
+        "volume": 139007382.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251102,
+        "open_price": 2570.0,
+        "high_price": 2615.0,
+        "low_price": 2539.0,
+        "close_price": 2603.0,
+        "volume": 51266058.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251101,
+        "open_price": 2579.0,
+        "high_price": 2585.0,
+        "low_price": 2510.0,
+        "close_price": 2539.0,
+        "volume": 40471263.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251029,
+        "open_price": 2422.0,
+        "high_price": 2541.0,
+        "low_price": 2420.0,
+        "close_price": 2510.0,
+        "volume": 85241947.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251028,
+        "open_price": 2462.0,
+        "high_price": 2520.0,
+        "low_price": 2420.0,
+        "close_price": 2467.0,
+        "volume": 48665435.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251027,
+        "open_price": 2530.0,
+        "high_price": 2539.0,
+        "low_price": 2470.0,
+        "close_price": 2493.0,
+        "volume": 64230374.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251026,
+        "open_price": 2458.0,
+        "high_price": 2570.0,
+        "low_price": 2458.0,
+        "close_price": 2515.0,
+        "volume": 48982359.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251025,
+        "open_price": 2515.0,
+        "high_price": 2575.0,
+        "low_price": 2469.0,
+        "close_price": 2508.0,
+        "volume": 54000940.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251022,
+        "open_price": 2592.0,
+        "high_price": 2592.0,
+        "low_price": 2493.0,
+        "close_price": 2515.0,
+        "volume": 71096194.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251021,
+        "open_price": 2529.0,
+        "high_price": 2600.0,
+        "low_price": 2467.0,
+        "close_price": 2524.0,
+        "volume": 35325856.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251020,
+        "open_price": 2570.0,
+        "high_price": 2620.0,
+        "low_price": 2507.0,
+        "close_price": 2531.0,
+        "volume": 70818875.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251019,
+        "open_price": 2579.0,
+        "high_price": 2579.0,
+        "low_price": 2507.0,
+        "close_price": 2575.0,
+        "volume": 245193502.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251018,
+        "open_price": 2470.0,
+        "high_price": 2505.0,
+        "low_price": 2403.0,
+        "close_price": 2504.0,
+        "volume": 225384963.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251015,
+        "open_price": 2406.0,
+        "high_price": 2460.0,
+        "low_price": 2397.0,
+        "close_price": 2433.0,
+        "volume": 40717324.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251014,
+        "open_price": 2492.0,
+        "high_price": 2500.0,
+        "low_price": 2391.0,
+        "close_price": 2437.0,
+        "volume": 54111963.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251013,
+        "open_price": 2487.0,
+        "high_price": 2506.0,
+        "low_price": 2435.0,
+        "close_price": 2463.0,
+        "volume": 133335292.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251012,
+        "open_price": 2418.0,
+        "high_price": 2465.0,
+        "low_price": 2401.0,
+        "close_price": 2437.0,
+        "volume": 161443532.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251011,
+        "open_price": 2412.0,
+        "high_price": 2419.0,
+        "low_price": 2358.0,
+        "close_price": 2397.0,
+        "volume": 53602379.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251008,
+        "open_price": 2409.0,
+        "high_price": 2409.0,
+        "low_price": 2346.0,
+        "close_price": 2349.0,
+        "volume": 157107363.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251007,
+        "open_price": 2364.0,
+        "high_price": 2470.0,
+        "low_price": 2364.0,
+        "close_price": 2418.0,
+        "volume": 26961319.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251006,
+        "open_price": 2460.0,
+        "high_price": 2460.0,
+        "low_price": 2360.0,
+        "close_price": 2408.0,
+        "volume": 21133963.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251005,
+        "open_price": 2400.0,
+        "high_price": 2472.0,
+        "low_price": 2371.0,
+        "close_price": 2414.0,
+        "volume": 31722002.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251004,
+        "open_price": 2333.0,
+        "high_price": 2401.0,
+        "low_price": 2333.0,
+        "close_price": 2400.0,
+        "volume": 88981627.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20251001,
+        "open_price": 2359.0,
+        "high_price": 2370.0,
+        "low_price": 2297.0,
+        "close_price": 2332.0,
+        "volume": 49688955.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250930,
+        "open_price": 2419.0,
+        "high_price": 2431.0,
+        "low_price": 2320.0,
+        "close_price": 2361.0,
+        "volume": 33899769.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250929,
+        "open_price": 2366.0,
+        "high_price": 2366.0,
+        "low_price": 2320.0,
+        "close_price": 2365.0,
+        "volume": 71560136.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250928,
+        "open_price": 2305.0,
+        "high_price": 2305.0,
+        "low_price": 2305.0,
+        "close_price": 2298.0,
+        "volume": 43076722.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250927,
+        "open_price": 2121.0,
+        "high_price": 2242.0,
+        "low_price": 2121.0,
+        "close_price": 2238.0,
+        "volume": 56010171.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250924,
+        "open_price": 2209.0,
+        "high_price": 2215.0,
+        "low_price": 2153.0,
+        "close_price": 2177.0,
+        "volume": 38925757.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250923,
+        "open_price": 2279.0,
+        "high_price": 2282.0,
+        "low_price": 2155.0,
+        "close_price": 2217.0,
+        "volume": 33772814.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250922,
+        "open_price": 2185.0,
+        "high_price": 2250.0,
+        "low_price": 2185.0,
+        "close_price": 2216.0,
+        "volume": 23537377.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250921,
+        "open_price": 2168.0,
+        "high_price": 2290.0,
+        "low_price": 2167.0,
+        "close_price": 2185.0,
+        "volume": 49389214.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250920,
+        "open_price": 2233.0,
+        "high_price": 2233.0,
+        "low_price": 2233.0,
+        "close_price": 2233.0,
+        "volume": 48272217.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250917,
+        "open_price": 2323.0,
+        "high_price": 2339.0,
+        "low_price": 2266.0,
+        "close_price": 2302.0,
+        "volume": 31626797.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250916,
+        "open_price": 2350.0,
+        "high_price": 2400.0,
+        "low_price": 2304.0,
+        "close_price": 2323.0,
+        "volume": 52772138.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250915,
+        "open_price": 2380.0,
+        "high_price": 2479.0,
+        "low_price": 2339.0,
+        "close_price": 2375.0,
+        "volume": 139431561.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250914,
+        "open_price": 2400.0,
+        "high_price": 2440.0,
+        "low_price": 2377.0,
+        "close_price": 2411.0,
+        "volume": 90529128.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250913,
+        "open_price": 2422.0,
+        "high_price": 2454.0,
+        "low_price": 2366.0,
+        "close_price": 2406.0,
+        "volume": 22529016.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250909,
+        "open_price": 2450.0,
+        "high_price": 2450.0,
+        "low_price": 2397.0,
+        "close_price": 2422.0,
+        "volume": 29787264.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250908,
+        "open_price": 2375.0,
+        "high_price": 2454.0,
+        "low_price": 2323.0,
+        "close_price": 2436.0,
+        "volume": 48158671.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250907,
+        "open_price": 2355.0,
+        "high_price": 2414.0,
+        "low_price": 2355.0,
+        "close_price": 2383.0,
+        "volume": 108719578.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250906,
+        "open_price": 2465.0,
+        "high_price": 2465.0,
+        "low_price": 2342.0,
+        "close_price": 2382.0,
+        "volume": 36733511.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250903,
+        "open_price": 2398.0,
+        "high_price": 2401.0,
+        "low_price": 2333.0,
+        "close_price": 2399.0,
+        "volume": 65459007.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250902,
+        "open_price": 2347.0,
+        "high_price": 2350.0,
+        "low_price": 2300.0,
+        "close_price": 2332.0,
+        "volume": 92046931.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250831,
+        "open_price": 2300.0,
+        "high_price": 2318.0,
+        "low_price": 2255.0,
+        "close_price": 2282.0,
+        "volume": 57471334.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250830,
+        "open_price": 2249.0,
+        "high_price": 2300.0,
+        "low_price": 2232.0,
+        "close_price": 2251.0,
+        "volume": 72354709.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250827,
+        "open_price": 2181.0,
+        "high_price": 2306.0,
+        "low_price": 2181.0,
+        "close_price": 2301.0,
+        "volume": 46647731.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250826,
+        "open_price": 2216.0,
+        "high_price": 2288.0,
+        "low_price": 2215.0,
+        "close_price": 2239.0,
+        "volume": 41943997.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250825,
+        "open_price": 2299.0,
+        "high_price": 2331.0,
+        "low_price": 2262.0,
+        "close_price": 2283.0,
+        "volume": 37820082.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250823,
+        "open_price": 2270.0,
+        "high_price": 2350.0,
+        "low_price": 2264.0,
+        "close_price": 2331.0,
+        "volume": 4463180.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250820,
+        "open_price": 2370.0,
+        "high_price": 2370.0,
+        "low_price": 2282.0,
+        "close_price": 2333.0,
+        "volume": 10586545.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250819,
+        "open_price": 2333.0,
+        "high_price": 2333.0,
+        "low_price": 2295.0,
+        "close_price": 2333.0,
+        "volume": 47835493.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250818,
+        "open_price": 2305.0,
+        "high_price": 2305.0,
+        "low_price": 2253.0,
+        "close_price": 2266.0,
+        "volume": 19977586.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250817,
+        "open_price": 2280.0,
+        "high_price": 2295.0,
+        "low_price": 2280.0,
+        "close_price": 2238.0,
+        "volume": 7224811.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250816,
+        "open_price": 2230.0,
+        "high_price": 2288.0,
+        "low_price": 2218.0,
+        "close_price": 2229.0,
+        "volume": 34136163.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250813,
+        "open_price": 2300.0,
+        "high_price": 2300.0,
+        "low_price": 2191.0,
+        "close_price": 2227.0,
+        "volume": 22813691.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250812,
+        "open_price": 2264.0,
+        "high_price": 2293.0,
+        "low_price": 2241.0,
+        "close_price": 2258.0,
+        "volume": 25930978.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250811,
+        "open_price": 2312.0,
+        "high_price": 2329.0,
+        "low_price": 2200.0,
+        "close_price": 2264.0,
+        "volume": 11563924.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250810,
+        "open_price": 2280.0,
+        "high_price": 2313.0,
+        "low_price": 2254.0,
+        "close_price": 2265.0,
+        "volume": 15782881.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250809,
+        "open_price": 2299.0,
+        "high_price": 2302.0,
+        "low_price": 2235.0,
+        "close_price": 2262.0,
+        "volume": 28578509.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250806,
+        "open_price": 2288.0,
+        "high_price": 2288.0,
+        "low_price": 2220.0,
+        "close_price": 2235.0,
+        "volume": 75398042.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250805,
+        "open_price": 2347.0,
+        "high_price": 2347.0,
+        "low_price": 2255.0,
+        "close_price": 2288.0,
+        "volume": 77058974.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250804,
+        "open_price": 2306.0,
+        "high_price": 2341.0,
+        "low_price": 2273.0,
+        "close_price": 2320.0,
+        "volume": 21711523.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250803,
+        "open_price": 2357.0,
+        "high_price": 2380.0,
+        "low_price": 2306.0,
+        "close_price": 2343.0,
+        "volume": 92396736.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250802,
+        "open_price": 2375.0,
+        "high_price": 2404.0,
+        "low_price": 2313.0,
+        "close_price": 2339.0,
+        "volume": 156647851.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250730,
+        "open_price": 2320.0,
+        "high_price": 2320.0,
+        "low_price": 2320.0,
+        "close_price": 2384.0,
+        "volume": 5037319.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250729,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2391.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250728,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2391.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250727,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2391.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250726,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3825.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250723,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3825.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250722,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4075.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250721,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4075.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250720,
+        "open_price": 4130.0,
+        "high_price": 4159.0,
+        "low_price": 4065.0,
+        "close_price": 4075.0,
+        "volume": 107255687.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250719,
+        "open_price": 4120.0,
+        "high_price": 4124.0,
+        "low_price": 4016.0,
+        "close_price": 4062.0,
+        "volume": 23928379.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250716,
+        "open_price": 3921.0,
+        "high_price": 4007.0,
+        "low_price": 3921.0,
+        "close_price": 4004.0,
+        "volume": 33570913.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250715,
+        "open_price": 3947.0,
+        "high_price": 3966.0,
+        "low_price": 3832.0,
+        "close_price": 3891.0,
+        "volume": 76900631.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250714,
+        "open_price": 3930.0,
+        "high_price": 3952.0,
+        "low_price": 3854.0,
+        "close_price": 3879.0,
+        "volume": 66017319.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250713,
+        "open_price": 3843.0,
+        "high_price": 3844.0,
+        "low_price": 3799.0,
+        "close_price": 3837.0,
+        "volume": 65305865.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250712,
+        "open_price": 3746.0,
+        "high_price": 3746.0,
+        "low_price": 3673.0,
+        "close_price": 3733.0,
+        "volume": 29593791.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250709,
+        "open_price": 3600.0,
+        "high_price": 3770.0,
+        "low_price": 3560.0,
+        "close_price": 3637.0,
+        "volume": 24178385.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250708,
+        "open_price": 3863.0,
+        "high_price": 3863.0,
+        "low_price": 3651.0,
+        "close_price": 3663.0,
+        "volume": 52782782.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250707,
+        "open_price": 3813.0,
+        "high_price": 3813.0,
+        "low_price": 3697.0,
+        "close_price": 3763.0,
+        "volume": 21943863.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250702,
+        "open_price": 3642.0,
+        "high_price": 3864.0,
+        "low_price": 3642.0,
+        "close_price": 3702.0,
+        "volume": 152905791.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250701,
+        "open_price": 3754.0,
+        "high_price": 3757.0,
+        "low_price": 3754.0,
+        "close_price": 3754.0,
+        "volume": 147696350.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250630,
+        "open_price": 3870.0,
+        "high_price": 3870.0,
+        "low_price": 3870.0,
+        "close_price": 3870.0,
+        "volume": 144682153.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250629,
+        "open_price": 3989.0,
+        "high_price": 3990.0,
+        "low_price": 3989.0,
+        "close_price": 3989.0,
+        "volume": 140319830.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250628,
+        "open_price": 4065.0,
+        "high_price": 4065.0,
+        "low_price": 4065.0,
+        "close_price": 4112.0,
+        "volume": 17855789.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4190.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4190.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4190.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4190.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4190.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4190.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4190.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4190.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250611,
+        "open_price": 4322.0,
+        "high_price": 4323.0,
+        "low_price": 4160.0,
+        "close_price": 4190.0,
+        "volume": 31212838.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250610,
+        "open_price": 4340.0,
+        "high_price": 4344.0,
+        "low_price": 4155.0,
+        "close_price": 4198.0,
+        "volume": 66577373.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250609,
+        "open_price": 4305.0,
+        "high_price": 4409.0,
+        "low_price": 4180.0,
+        "close_price": 4218.0,
+        "volume": 32176844.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250608,
+        "open_price": 4276.0,
+        "high_price": 4411.0,
+        "low_price": 4253.0,
+        "close_price": 4304.0,
+        "volume": 14490202.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250607,
+        "open_price": 4312.0,
+        "high_price": 4324.0,
+        "low_price": 4240.0,
+        "close_price": 4283.0,
+        "volume": 20518605.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250603,
+        "open_price": 4406.0,
+        "high_price": 4496.0,
+        "low_price": 4300.0,
+        "close_price": 4325.0,
+        "volume": 41940916.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250602,
+        "open_price": 4422.0,
+        "high_price": 4530.0,
+        "low_price": 4390.0,
+        "close_price": 4406.0,
+        "volume": 11570461.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250601,
+        "open_price": 4440.0,
+        "high_price": 4461.0,
+        "low_price": 4350.0,
+        "close_price": 4402.0,
+        "volume": 51530193.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250531,
+        "open_price": 4458.0,
+        "high_price": 4550.0,
+        "low_price": 4411.0,
+        "close_price": 4437.0,
+        "volume": 56743306.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250528,
+        "open_price": 4589.0,
+        "high_price": 4609.0,
+        "low_price": 4443.0,
+        "close_price": 4547.0,
+        "volume": 23790682.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250527,
+        "open_price": 4540.0,
+        "high_price": 4544.0,
+        "low_price": 4442.0,
+        "close_price": 4475.0,
+        "volume": 20331695.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250526,
+        "open_price": 4440.0,
+        "high_price": 4500.0,
+        "low_price": 4309.0,
+        "close_price": 4412.0,
+        "volume": 22106856.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250525,
+        "open_price": 4529.0,
+        "high_price": 4529.0,
+        "low_price": 4315.0,
+        "close_price": 4374.0,
+        "volume": 26765331.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250524,
+        "open_price": 4460.0,
+        "high_price": 4469.0,
+        "low_price": 4300.0,
+        "close_price": 4406.0,
+        "volume": 22792964.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250521,
+        "open_price": 4280.0,
+        "high_price": 4436.0,
+        "low_price": 4239.0,
+        "close_price": 4339.0,
+        "volume": 24587943.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250520,
+        "open_price": 4560.0,
+        "high_price": 4590.0,
+        "low_price": 4342.0,
+        "close_price": 4366.0,
+        "volume": 65324491.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250519,
+        "open_price": 4738.0,
+        "high_price": 4738.0,
+        "low_price": 4470.0,
+        "close_price": 4476.0,
+        "volume": 109308510.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250518,
+        "open_price": 4750.0,
+        "high_price": 4750.0,
+        "low_price": 4513.0,
+        "close_price": 4608.0,
+        "volume": 32900711.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250517,
+        "open_price": 4671.0,
+        "high_price": 4671.0,
+        "low_price": 4581.0,
+        "close_price": 4652.0,
+        "volume": 120047691.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250514,
+        "open_price": 4450.0,
+        "high_price": 4544.0,
+        "low_price": 4424.0,
+        "close_price": 4535.0,
+        "volume": 58468070.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250513,
+        "open_price": 4423.0,
+        "high_price": 4423.0,
+        "low_price": 4300.0,
+        "close_price": 4412.0,
+        "volume": 139161246.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250512,
+        "open_price": 4295.0,
+        "high_price": 4295.0,
+        "low_price": 4295.0,
+        "close_price": 4295.0,
+        "volume": 38968672.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250511,
+        "open_price": 4151.0,
+        "high_price": 4220.0,
+        "low_price": 4124.0,
+        "close_price": 4170.0,
+        "volume": 21443286.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250510,
+        "open_price": 4249.0,
+        "high_price": 4320.0,
+        "low_price": 4249.0,
+        "close_price": 4251.0,
+        "volume": 133274679.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250507,
+        "open_price": 4436.0,
+        "high_price": 4480.0,
+        "low_price": 4271.0,
+        "close_price": 4380.0,
+        "volume": 38303561.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250506,
+        "open_price": 4594.0,
+        "high_price": 4594.0,
+        "low_price": 4330.0,
+        "close_price": 4351.0,
+        "volume": 78521036.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250505,
+        "open_price": 4500.0,
+        "high_price": 4561.0,
+        "low_price": 4351.0,
+        "close_price": 4463.0,
+        "volume": 53073938.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250504,
+        "open_price": 4480.0,
+        "high_price": 4480.0,
+        "low_price": 4306.0,
+        "close_price": 4429.0,
+        "volume": 39829593.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250503,
+        "open_price": 4409.0,
+        "high_price": 4489.0,
+        "low_price": 4409.0,
+        "close_price": 4409.0,
+        "volume": 149776283.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250430,
+        "open_price": 4490.0,
+        "high_price": 4549.0,
+        "low_price": 4430.0,
+        "close_price": 4545.0,
+        "volume": 246449698.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250429,
+        "open_price": 4330.0,
+        "high_price": 4438.0,
+        "low_price": 4206.0,
+        "close_price": 4417.0,
+        "volume": 165263212.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250428,
+        "open_price": 4490.0,
+        "high_price": 4490.0,
+        "low_price": 4230.0,
+        "close_price": 4309.0,
+        "volume": 123360127.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250427,
+        "open_price": 4330.0,
+        "high_price": 4395.0,
+        "low_price": 4140.0,
+        "close_price": 4360.0,
+        "volume": 205006483.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250426,
+        "open_price": 4268.0,
+        "high_price": 4268.0,
+        "low_price": 4220.0,
+        "close_price": 4267.0,
+        "volume": 349772207.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250423,
+        "open_price": 4156.0,
+        "high_price": 4156.0,
+        "low_price": 3920.0,
+        "close_price": 4144.0,
+        "volume": 587993803.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250422,
+        "open_price": 4035.0,
+        "high_price": 4035.0,
+        "low_price": 4035.0,
+        "close_price": 4035.0,
+        "volume": 70021657.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250421,
+        "open_price": 3918.0,
+        "high_price": 3918.0,
+        "low_price": 3918.0,
+        "close_price": 3918.0,
+        "volume": 48588107.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250420,
+        "open_price": 3808.0,
+        "high_price": 3808.0,
+        "low_price": 3808.0,
+        "close_price": 3804.0,
+        "volume": 28805026.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250419,
+        "open_price": 3698.0,
+        "high_price": 3698.0,
+        "low_price": 3698.0,
+        "close_price": 3698.0,
+        "volume": 71102646.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250416,
+        "open_price": 3591.0,
+        "high_price": 3591.0,
+        "low_price": 3591.0,
+        "close_price": 3591.0,
+        "volume": 128678612.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250415,
+        "open_price": 3487.0,
+        "high_price": 3487.0,
+        "low_price": 3487.0,
+        "close_price": 3487.0,
+        "volume": 34000646.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250414,
+        "open_price": 3387.0,
+        "high_price": 3387.0,
+        "low_price": 3387.0,
+        "close_price": 3386.0,
+        "volume": 29738760.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250413,
+        "open_price": 3317.0,
+        "high_price": 3317.0,
+        "low_price": 3317.0,
+        "close_price": 3289.0,
+        "volume": 21196150.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250412,
+        "open_price": 3170.0,
+        "high_price": 3222.0,
+        "low_price": 3170.0,
+        "close_price": 3221.0,
+        "volume": 126869755.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250409,
+        "open_price": 3170.0,
+        "high_price": 3170.0,
+        "low_price": 3003.0,
+        "close_price": 3129.0,
+        "volume": 58990489.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250408,
+        "open_price": 3084.0,
+        "high_price": 3084.0,
+        "low_price": 3040.0,
+        "close_price": 3084.0,
+        "volume": 87680419.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250407,
+        "open_price": 2940.0,
+        "high_price": 3013.0,
+        "low_price": 2931.0,
+        "close_price": 2995.0,
+        "volume": 14227522.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250406,
+        "open_price": 3120.0,
+        "high_price": 3120.0,
+        "low_price": 2989.0,
+        "close_price": 3017.0,
+        "volume": 22124045.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250405,
+        "open_price": 3080.0,
+        "high_price": 3100.0,
+        "low_price": 3002.0,
+        "close_price": 3081.0,
+        "volume": 9557228.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250330,
+        "open_price": 3159.0,
+        "high_price": 3159.0,
+        "low_price": 3061.0,
+        "close_price": 3093.0,
+        "volume": 5266958.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250329,
+        "open_price": 3160.0,
+        "high_price": 3160.0,
+        "low_price": 3020.0,
+        "close_price": 3093.0,
+        "volume": 13946777.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250326,
+        "open_price": 3100.0,
+        "high_price": 3105.0,
+        "low_price": 3031.0,
+        "close_price": 3095.0,
+        "volume": 40073495.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250325,
+        "open_price": 2921.0,
+        "high_price": 3090.0,
+        "low_price": 2921.0,
+        "close_price": 3015.0,
+        "volume": 5442819.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250318,
+        "open_price": 2950.0,
+        "high_price": 3080.0,
+        "low_price": 2926.0,
+        "close_price": 3000.0,
+        "volume": 19414906.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250317,
+        "open_price": 3095.0,
+        "high_price": 3095.0,
+        "low_price": 3005.0,
+        "close_price": 3016.0,
+        "volume": 8607538.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250316,
+        "open_price": 3090.0,
+        "high_price": 3090.0,
+        "low_price": 2970.0,
+        "close_price": 3012.0,
+        "volume": 7119657.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250315,
+        "open_price": 3043.0,
+        "high_price": 3056.0,
+        "low_price": 3005.0,
+        "close_price": 3011.0,
+        "volume": 15162626.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250312,
+        "open_price": 2903.0,
+        "high_price": 3024.0,
+        "low_price": 2903.0,
+        "close_price": 2967.0,
+        "volume": 7572325.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250311,
+        "open_price": 2945.0,
+        "high_price": 3016.0,
+        "low_price": 2897.0,
+        "close_price": 2962.0,
+        "volume": 19515926.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250310,
+        "open_price": 2912.0,
+        "high_price": 2998.0,
+        "low_price": 2906.0,
+        "close_price": 2929.0,
+        "volume": 7427133.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250309,
+        "open_price": 2936.0,
+        "high_price": 2988.0,
+        "low_price": 2876.0,
+        "close_price": 2911.0,
+        "volume": 26423994.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250308,
+        "open_price": 2951.0,
+        "high_price": 3022.0,
+        "low_price": 2919.0,
+        "close_price": 2936.0,
+        "volume": 20336144.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250305,
+        "open_price": 2929.0,
+        "high_price": 2979.0,
+        "low_price": 2929.0,
+        "close_price": 2944.0,
+        "volume": 6790470.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250304,
+        "open_price": 2945.0,
+        "high_price": 3000.0,
+        "low_price": 2940.0,
+        "close_price": 2945.0,
+        "volume": 15081872.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250303,
+        "open_price": 3027.0,
+        "high_price": 3027.0,
+        "low_price": 2937.0,
+        "close_price": 2941.0,
+        "volume": 49067744.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250302,
+        "open_price": 3035.0,
+        "high_price": 3080.0,
+        "low_price": 3002.0,
+        "close_price": 3027.0,
+        "volume": 9625903.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250301,
+        "open_price": 3120.0,
+        "high_price": 3120.0,
+        "low_price": 3003.0,
+        "close_price": 3032.0,
+        "volume": 8555125.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250226,
+        "open_price": 3080.0,
+        "high_price": 3100.0,
+        "low_price": 2971.0,
+        "close_price": 3037.0,
+        "volume": 11057689.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250225,
+        "open_price": 3082.0,
+        "high_price": 3094.0,
+        "low_price": 3005.0,
+        "close_price": 3035.0,
+        "volume": 11005437.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250224,
+        "open_price": 3010.0,
+        "high_price": 3072.0,
+        "low_price": 3010.0,
+        "close_price": 3004.0,
+        "volume": 7667827.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250223,
+        "open_price": 2960.0,
+        "high_price": 3010.0,
+        "low_price": 2960.0,
+        "close_price": 2983.0,
+        "volume": 6982600.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250222,
+        "open_price": 2996.0,
+        "high_price": 3040.0,
+        "low_price": 2948.0,
+        "close_price": 2980.0,
+        "volume": 15982915.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250219,
+        "open_price": 3010.0,
+        "high_price": 3030.0,
+        "low_price": 2974.0,
+        "close_price": 2993.0,
+        "volume": 15469941.0
+    },
+    {
+        "symbol": "وخاور",
+        "trade_date": 20250218,
+        "open_price": 3048.0,
+        "high_price": 3062.0,
+        "low_price": 2976.0,
+        "close_price": 2997.0,
+        "volume": 27774074.0
+    }
+]

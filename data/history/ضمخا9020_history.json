@@ -1,0 +1,128 @@
+[
+    {
+        "symbol": "ضمخا9020",
+        "trade_date": 20260901,
+        "open_price": 300.0,
+        "high_price": 330.0,
+        "low_price": 225.0,
+        "close_price": 261.0,
+        "volume": 152688.0
+    },
+    {
+        "symbol": "ضمخا9020",
+        "trade_date": 20260831,
+        "open_price": 280.0,
+        "high_price": 336.0,
+        "low_price": 255.0,
+        "close_price": 270.0,
+        "volume": 45941.0
+    },
+    {
+        "symbol": "ضمخا9020",
+        "trade_date": 20260829,
+        "open_price": 300.0,
+        "high_price": 360.0,
+        "low_price": 280.0,
+        "close_price": 326.0,
+        "volume": 3598.0
+    },
+    {
+        "symbol": "ضمخا9020",
+        "trade_date": 20260826,
+        "open_price": 350.0,
+        "high_price": 350.0,
+        "low_price": 230.0,
+        "close_price": 251.0,
+        "volume": 99466.0
+    },
+    {
+        "symbol": "ضمخا9020",
+        "trade_date": 20260825,
+        "open_price": 240.0,
+        "high_price": 310.0,
+        "low_price": 240.0,
+        "close_price": 292.0,
+        "volume": 1173.0
+    },
+    {
+        "symbol": "ضمخا9020",
+        "trade_date": 20260824,
+        "open_price": 214.0,
+        "high_price": 250.0,
+        "low_price": 205.0,
+        "close_price": 212.0,
+        "volume": 29675.0
+    },
+    {
+        "symbol": "ضمخا9020",
+        "trade_date": 20260823,
+        "open_price": 214.0,
+        "high_price": 350.0,
+        "low_price": 214.0,
+        "close_price": 332.0,
+        "volume": 161.0
+    },
+    {
+        "symbol": "ضمخا9020",
+        "trade_date": 20260822,
+        "open_price": 175.0,
+        "high_price": 400.0,
+        "low_price": 175.0,
+        "close_price": 352.0,
+        "volume": 2437.0
+    },
+    {
+        "symbol": "ضمخا9020",
+        "trade_date": 20260819,
+        "open_price": 160.0,
+        "high_price": 168.0,
+        "low_price": 160.0,
+        "close_price": 160.0,
+        "volume": 2055.0
+    },
+    {
+        "symbol": "ضمخا9020",
+        "trade_date": 20260818,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ضمخا9020",
+        "trade_date": 20260817,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ضمخا9020",
+        "trade_date": 20260816,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ضمخا9020",
+        "trade_date": 20260815,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ضمخا9020",
+        "trade_date": 20260811,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1.0,
+        "volume": 0.0
+    }
+]

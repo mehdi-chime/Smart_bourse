@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "سپر",
+        "trade_date": 20260901,
+        "open_price": 46138.0,
+        "high_price": 46201.0,
+        "low_price": 46100.0,
+        "close_price": 46136.0,
+        "volume": 468191665.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260831,
+        "open_price": 46080.0,
+        "high_price": 46121.0,
+        "low_price": 46031.0,
+        "close_price": 46088.0,
+        "volume": 328102759.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260829,
+        "open_price": 45983.0,
+        "high_price": 46040.0,
+        "low_price": 45983.0,
+        "close_price": 45994.0,
+        "volume": 330963326.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260826,
+        "open_price": 45903.0,
+        "high_price": 45905.0,
+        "low_price": 45903.0,
+        "close_price": 45903.0,
+        "volume": 274854114.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260825,
+        "open_price": 45846.0,
+        "high_price": 45920.0,
+        "low_price": 45802.0,
+        "close_price": 45855.0,
+        "volume": 382380549.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260824,
+        "open_price": 45789.0,
+        "high_price": 45845.0,
+        "low_price": 45756.0,
+        "close_price": 45793.0,
+        "volume": 284431970.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260823,
+        "open_price": 45732.0,
+        "high_price": 45820.0,
+        "low_price": 45676.0,
+        "close_price": 45743.0,
+        "volume": 558658936.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260822,
+        "open_price": 45675.0,
+        "high_price": 45676.0,
+        "low_price": 45675.0,
+        "close_price": 45675.0,
+        "volume": 301830353.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260819,
+        "open_price": 45613.0,
+        "high_price": 45640.0,
+        "low_price": 45598.0,
+        "close_price": 45613.0,
+        "volume": 295057361.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260818,
+        "open_price": 45556.0,
+        "high_price": 45599.0,
+        "low_price": 45556.0,
+        "close_price": 45562.0,
+        "volume": 300571692.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260817,
+        "open_price": 45499.0,
+        "high_price": 45538.0,
+        "low_price": 45460.0,
+        "close_price": 45511.0,
+        "volume": 361557929.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260816,
+        "open_price": 45442.0,
+        "high_price": 45500.0,
+        "low_price": 45442.0,
+        "close_price": 45454.0,
+        "volume": 282789225.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260815,
+        "open_price": 45385.0,
+        "high_price": 45469.0,
+        "low_price": 45300.0,
+        "close_price": 45387.0,
+        "volume": 428973117.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260811,
+        "open_price": 45286.0,
+        "high_price": 45288.0,
+        "low_price": 45253.0,
+        "close_price": 45283.0,
+        "volume": 645180326.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260810,
+        "open_price": 45210.0,
+        "high_price": 45213.0,
+        "low_price": 45176.0,
+        "close_price": 45196.0,
+        "volume": 421853108.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260809,
+        "open_price": 45154.0,
+        "high_price": 45160.0,
+        "low_price": 45154.0,
+        "close_price": 45154.0,
+        "volume": 226419506.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260808,
+        "open_price": 45098.0,
+        "high_price": 45099.0,
+        "low_price": 45098.0,
+        "close_price": 45098.0,
+        "volume": 285778404.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260805,
+        "open_price": 45037.0,
+        "high_price": 45140.0,
+        "low_price": 44942.0,
+        "close_price": 45060.0,
+        "volume": 404126672.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260803,
+        "open_price": 44925.0,
+        "high_price": 44994.0,
+        "low_price": 44925.0,
+        "close_price": 44932.0,
+        "volume": 228452955.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260802,
+        "open_price": 44869.0,
+        "high_price": 44948.0,
+        "low_price": 44869.0,
+        "close_price": 44883.0,
+        "volume": 174263286.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260801,
+        "open_price": 44813.0,
+        "high_price": 44872.0,
+        "low_price": 44813.0,
+        "close_price": 44831.0,
+        "volume": 253327860.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260729,
+        "open_price": 44770.0,
+        "high_price": 44830.0,
+        "low_price": 44770.0,
+        "close_price": 44773.0,
+        "volume": 141709882.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260728,
+        "open_price": 44697.0,
+        "high_price": 44773.0,
+        "low_price": 44697.0,
+        "close_price": 44714.0,
+        "volume": 158610111.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260727,
+        "open_price": 44641.0,
+        "high_price": 44791.0,
+        "low_price": 44609.0,
+        "close_price": 44656.0,
+        "volume": 161748435.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260726,
+        "open_price": 44585.0,
+        "high_price": 44590.0,
+        "low_price": 44585.0,
+        "close_price": 44586.0,
+        "volume": 184800005.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260725,
+        "open_price": 44529.0,
+        "high_price": 44539.0,
+        "low_price": 44529.0,
+        "close_price": 44529.0,
+        "volume": 132654698.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260722,
+        "open_price": 44469.0,
+        "high_price": 44530.0,
+        "low_price": 44469.0,
+        "close_price": 44475.0,
+        "volume": 222486520.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260721,
+        "open_price": 44413.0,
+        "high_price": 44414.0,
+        "low_price": 44371.0,
+        "close_price": 44410.0,
+        "volume": 191867033.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260720,
+        "open_price": 44358.0,
+        "high_price": 44396.0,
+        "low_price": 44358.0,
+        "close_price": 44358.0,
+        "volume": 144536616.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260719,
+        "open_price": 44305.0,
+        "high_price": 44373.0,
+        "low_price": 44305.0,
+        "close_price": 44315.0,
+        "volume": 332633199.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260718,
+        "open_price": 44248.0,
+        "high_price": 44380.0,
+        "low_price": 44220.0,
+        "close_price": 44270.0,
+        "volume": 596571094.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260715,
+        "open_price": 44188.0,
+        "high_price": 44221.0,
+        "low_price": 44188.0,
+        "close_price": 44204.0,
+        "volume": 366639443.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260714,
+        "open_price": 44133.0,
+        "high_price": 44134.0,
+        "low_price": 44133.0,
+        "close_price": 44133.0,
+        "volume": 197925628.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260713,
+        "open_price": 44079.0,
+        "high_price": 44079.0,
+        "low_price": 44050.0,
+        "close_price": 44076.0,
+        "volume": 194909851.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260712,
+        "open_price": 44023.0,
+        "high_price": 44025.0,
+        "low_price": 43990.0,
+        "close_price": 44014.0,
+        "volume": 416169844.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260711,
+        "open_price": 43968.0,
+        "high_price": 43995.0,
+        "low_price": 43920.0,
+        "close_price": 43965.0,
+        "volume": 353579357.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260708,
+        "open_price": 43911.0,
+        "high_price": 43913.0,
+        "low_price": 43911.0,
+        "close_price": 43911.0,
+        "volume": 257295458.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260707,
+        "open_price": 43854.0,
+        "high_price": 43903.0,
+        "low_price": 43854.0,
+        "close_price": 43863.0,
+        "volume": 342535644.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260701,
+        "open_price": 43703.0,
+        "high_price": 43705.0,
+        "low_price": 43703.0,
+        "close_price": 43703.0,
+        "volume": 259030171.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260630,
+        "open_price": 43551.0,
+        "high_price": 43577.0,
+        "low_price": 43533.0,
+        "close_price": 43562.0,
+        "volume": 356369666.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260629,
+        "open_price": 43522.0,
+        "high_price": 43578.0,
+        "low_price": 43490.0,
+        "close_price": 43529.0,
+        "volume": 446220217.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260628,
+        "open_price": 43472.0,
+        "high_price": 43473.0,
+        "low_price": 43472.0,
+        "close_price": 43472.0,
+        "volume": 332843721.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260627,
+        "open_price": 43414.0,
+        "high_price": 43542.0,
+        "low_price": 43345.0,
+        "close_price": 43425.0,
+        "volume": 983432880.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260623,
+        "open_price": 43350.0,
+        "high_price": 43416.0,
+        "low_price": 43270.0,
+        "close_price": 43344.0,
+        "volume": 1251645500.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260622,
+        "open_price": 43263.0,
+        "high_price": 43264.0,
+        "low_price": 43241.0,
+        "close_price": 43252.0,
+        "volume": 640464785.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260621,
+        "open_price": 43194.0,
+        "high_price": 43194.0,
+        "low_price": 43193.0,
+        "close_price": 43193.0,
+        "volume": 189619447.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260620,
+        "open_price": 43139.0,
+        "high_price": 43250.0,
+        "low_price": 43107.0,
+        "close_price": 43139.0,
+        "volume": 373467617.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260617,
+        "open_price": 43081.0,
+        "high_price": 43099.0,
+        "low_price": 43050.0,
+        "close_price": 43079.0,
+        "volume": 331916599.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260616,
+        "open_price": 43027.0,
+        "high_price": 43059.0,
+        "low_price": 42980.0,
+        "close_price": 43030.0,
+        "volume": 658667628.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260615,
+        "open_price": 42973.0,
+        "high_price": 43043.0,
+        "low_price": 42950.0,
+        "close_price": 42972.0,
+        "volume": 245392753.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260614,
+        "open_price": 44000.0,
+        "high_price": 42990.0,
+        "low_price": 42890.0,
+        "close_price": 42918.0,
+        "volume": 343279221.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260613,
+        "open_price": 42865.0,
+        "high_price": 42866.0,
+        "low_price": 42864.0,
+        "close_price": 42865.0,
+        "volume": 120395134.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260610,
+        "open_price": 42807.0,
+        "high_price": 42808.0,
+        "low_price": 42807.0,
+        "close_price": 42807.0,
+        "volume": 140062615.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260609,
+        "open_price": 42754.0,
+        "high_price": 42808.0,
+        "low_price": 42721.0,
+        "close_price": 42765.0,
+        "volume": 353780943.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260608,
+        "open_price": 42706.0,
+        "high_price": 42769.0,
+        "low_price": 42680.0,
+        "close_price": 42717.0,
+        "volume": 378004463.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260607,
+        "open_price": 42648.0,
+        "high_price": 42700.0,
+        "low_price": 42648.0,
+        "close_price": 42663.0,
+        "volume": 141758191.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260606,
+        "open_price": 42595.0,
+        "high_price": 42650.0,
+        "low_price": 42595.0,
+        "close_price": 42603.0,
+        "volume": 344013451.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260603,
+        "open_price": 42538.0,
+        "high_price": 42540.0,
+        "low_price": 42538.0,
+        "close_price": 42538.0,
+        "volume": 143572555.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260602,
+        "open_price": 42485.0,
+        "high_price": 42486.0,
+        "low_price": 42485.0,
+        "close_price": 42485.0,
+        "volume": 131768665.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260601,
+        "open_price": 42432.0,
+        "high_price": 42433.0,
+        "low_price": 42432.0,
+        "close_price": 42432.0,
+        "volume": 424995295.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260531,
+        "open_price": 42379.0,
+        "high_price": 42381.0,
+        "low_price": 42379.0,
+        "close_price": 42380.0,
+        "volume": 182242817.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260530,
+        "open_price": 42326.0,
+        "high_price": 42328.0,
+        "low_price": 42326.0,
+        "close_price": 42326.0,
+        "volume": 117388675.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260526,
+        "open_price": 42242.0,
+        "high_price": 42245.0,
+        "low_price": 42242.0,
+        "close_price": 42242.0,
+        "volume": 186864878.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260525,
+        "open_price": 42163.0,
+        "high_price": 42164.0,
+        "low_price": 42163.0,
+        "close_price": 42163.0,
+        "volume": 135161903.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260524,
+        "open_price": 42110.0,
+        "high_price": 42111.0,
+        "low_price": 42110.0,
+        "close_price": 42110.0,
+        "volume": 178690482.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260523,
+        "open_price": 42057.0,
+        "high_price": 42058.0,
+        "low_price": 42057.0,
+        "close_price": 42057.0,
+        "volume": 171233457.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260520,
+        "open_price": 42000.0,
+        "high_price": 42001.0,
+        "low_price": 42000.0,
+        "close_price": 42000.0,
+        "volume": 190347878.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260519,
+        "open_price": 41948.0,
+        "high_price": 41960.0,
+        "low_price": 41936.0,
+        "close_price": 41946.0,
+        "volume": 287105308.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260518,
+        "open_price": 41897.0,
+        "high_price": 41897.0,
+        "low_price": 41884.0,
+        "close_price": 41893.0,
+        "volume": 132139172.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260517,
+        "open_price": 41845.0,
+        "high_price": 41958.0,
+        "low_price": 41832.0,
+        "close_price": 41859.0,
+        "volume": 241001744.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260516,
+        "open_price": 41800.0,
+        "high_price": 41812.0,
+        "low_price": 41788.0,
+        "close_price": 41800.0,
+        "volume": 176848469.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260513,
+        "open_price": 41745.0,
+        "high_price": 41791.0,
+        "low_price": 41720.0,
+        "close_price": 41759.0,
+        "volume": 591195794.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260512,
+        "open_price": 41687.0,
+        "high_price": 41698.0,
+        "low_price": 41674.0,
+        "close_price": 41681.0,
+        "volume": 478916737.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260511,
+        "open_price": 41634.0,
+        "high_price": 41641.0,
+        "low_price": 41624.0,
+        "close_price": 41631.0,
+        "volume": 339572473.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260510,
+        "open_price": 41582.0,
+        "high_price": 41600.0,
+        "low_price": 41570.0,
+        "close_price": 41580.0,
+        "volume": 428575933.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260509,
+        "open_price": 41530.0,
+        "high_price": 41548.0,
+        "low_price": 41512.0,
+        "close_price": 41522.0,
+        "volume": 431392802.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260506,
+        "open_price": 41478.0,
+        "high_price": 41478.0,
+        "low_price": 41424.0,
+        "close_price": 41454.0,
+        "volume": 318721373.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260505,
+        "open_price": 41425.0,
+        "high_price": 41547.0,
+        "low_price": 41380.0,
+        "close_price": 41423.0,
+        "volume": 1778395061.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260504,
+        "open_price": 41373.0,
+        "high_price": 41480.0,
+        "low_price": 41322.0,
+        "close_price": 41362.0,
+        "volume": 972963316.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260503,
+        "open_price": 41321.0,
+        "high_price": 41397.0,
+        "low_price": 41300.0,
+        "close_price": 41319.0,
+        "volume": 294856105.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260502,
+        "open_price": 41269.0,
+        "high_price": 41270.0,
+        "low_price": 41212.0,
+        "close_price": 41253.0,
+        "volume": 622583105.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260429,
+        "open_price": 41217.0,
+        "high_price": 41227.0,
+        "low_price": 41175.0,
+        "close_price": 41208.0,
+        "volume": 557711422.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260428,
+        "open_price": 41165.0,
+        "high_price": 41166.0,
+        "low_price": 41130.0,
+        "close_price": 41155.0,
+        "volume": 356241554.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260427,
+        "open_price": 41114.0,
+        "high_price": 41115.0,
+        "low_price": 41064.0,
+        "close_price": 41103.0,
+        "volume": 551823882.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260426,
+        "open_price": 41063.0,
+        "high_price": 41080.0,
+        "low_price": 41029.0,
+        "close_price": 41052.0,
+        "volume": 526841274.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260425,
+        "open_price": 41012.0,
+        "high_price": 41014.0,
+        "low_price": 40962.0,
+        "close_price": 40998.0,
+        "volume": 635104783.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260422,
+        "open_price": 40961.0,
+        "high_price": 40988.0,
+        "low_price": 40960.0,
+        "close_price": 40962.0,
+        "volume": 77159275.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260421,
+        "open_price": 40910.0,
+        "high_price": 41030.0,
+        "low_price": 40850.0,
+        "close_price": 40909.0,
+        "volume": 589320506.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260420,
+        "open_price": 40859.0,
+        "high_price": 40859.0,
+        "low_price": 40806.0,
+        "close_price": 40850.0,
+        "volume": 271476947.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260419,
+        "open_price": 40808.0,
+        "high_price": 40808.0,
+        "low_price": 40795.0,
+        "close_price": 40806.0,
+        "volume": 145712872.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260418,
+        "open_price": 40757.0,
+        "high_price": 40815.0,
+        "low_price": 40719.0,
+        "close_price": 40780.0,
+        "volume": 380379650.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260415,
+        "open_price": 40705.0,
+        "high_price": 40729.0,
+        "low_price": 40690.0,
+        "close_price": 40705.0,
+        "volume": 162140431.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260413,
+        "open_price": 40644.0,
+        "high_price": 40644.0,
+        "low_price": 40628.0,
+        "close_price": 40629.0,
+        "volume": 260775385.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260412,
+        "open_price": 40552.0,
+        "high_price": 40560.0,
+        "low_price": 40551.0,
+        "close_price": 40552.0,
+        "volume": 117733053.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260411,
+        "open_price": 40501.0,
+        "high_price": 40625.0,
+        "low_price": 40447.0,
+        "close_price": 40506.0,
+        "volume": 153102921.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260408,
+        "open_price": 40449.0,
+        "high_price": 40454.0,
+        "low_price": 40419.0,
+        "close_price": 40442.0,
+        "volume": 147777580.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260407,
+        "open_price": 40398.0,
+        "high_price": 40440.0,
+        "low_price": 40360.0,
+        "close_price": 40391.0,
+        "volume": 189850924.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260406,
+        "open_price": 40348.0,
+        "high_price": 40349.0,
+        "low_price": 40303.0,
+        "close_price": 40346.0,
+        "volume": 280209552.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260405,
+        "open_price": 40299.0,
+        "high_price": 40416.0,
+        "low_price": 40298.0,
+        "close_price": 40302.0,
+        "volume": 230396996.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260404,
+        "open_price": 40249.0,
+        "high_price": 40273.0,
+        "low_price": 40248.0,
+        "close_price": 40257.0,
+        "volume": 300853946.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260331,
+        "open_price": 40172.0,
+        "high_price": 40300.0,
+        "low_price": 40121.0,
+        "close_price": 40208.0,
+        "volume": 814528119.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260330,
+        "open_price": 40098.0,
+        "high_price": 40215.0,
+        "low_price": 40037.0,
+        "close_price": 40121.0,
+        "volume": 318479997.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260329,
+        "open_price": 40048.0,
+        "high_price": 40048.0,
+        "low_price": 40020.0,
+        "close_price": 40037.0,
+        "volume": 260899628.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260328,
+        "open_price": 39998.0,
+        "high_price": 40090.0,
+        "low_price": 39938.0,
+        "close_price": 39994.0,
+        "volume": 870342167.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260325,
+        "open_price": 39948.0,
+        "high_price": 39999.0,
+        "low_price": 39900.0,
+        "close_price": 39938.0,
+        "volume": 47524290.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260318,
+        "open_price": 39801.0,
+        "high_price": 39928.0,
+        "low_price": 39800.0,
+        "close_price": 39803.0,
+        "volume": 284341393.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260317,
+        "open_price": 39646.0,
+        "high_price": 39729.0,
+        "low_price": 39546.0,
+        "close_price": 39643.0,
+        "volume": 2322127777.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260316,
+        "open_price": 39548.0,
+        "high_price": 39610.0,
+        "low_price": 39429.0,
+        "close_price": 39546.0,
+        "volume": 512748097.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260315,
+        "open_price": 39437.0,
+        "high_price": 39470.0,
+        "low_price": 39334.0,
+        "close_price": 39429.0,
+        "volume": 365219522.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260314,
+        "open_price": 39333.0,
+        "high_price": 39395.0,
+        "low_price": 39218.0,
+        "close_price": 39334.0,
+        "volume": 298645649.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260310,
+        "open_price": 39229.0,
+        "high_price": 39230.0,
+        "low_price": 39200.0,
+        "close_price": 39218.0,
+        "volume": 81764838.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260309,
+        "open_price": 39121.0,
+        "high_price": 39189.0,
+        "low_price": 39035.0,
+        "close_price": 39138.0,
+        "volume": 345492907.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260308,
+        "open_price": 39035.0,
+        "high_price": 39036.0,
+        "low_price": 39035.0,
+        "close_price": 39035.0,
+        "volume": 607865271.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 38957.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 38957.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 38957.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 38957.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 38957.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260225,
+        "open_price": 38958.0,
+        "high_price": 39010.0,
+        "low_price": 38912.0,
+        "close_price": 38957.0,
+        "volume": 264588154.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260224,
+        "open_price": 38908.0,
+        "high_price": 38940.0,
+        "low_price": 38853.0,
+        "close_price": 38912.0,
+        "volume": 290859745.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260223,
+        "open_price": 38860.0,
+        "high_price": 38860.0,
+        "low_price": 38810.0,
+        "close_price": 38853.0,
+        "volume": 198380124.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260222,
+        "open_price": 38810.0,
+        "high_price": 38880.0,
+        "low_price": 38762.0,
+        "close_price": 38810.0,
+        "volume": 342204749.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260221,
+        "open_price": 38762.0,
+        "high_price": 38860.0,
+        "low_price": 38714.0,
+        "close_price": 38762.0,
+        "volume": 366799185.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260218,
+        "open_price": 38713.0,
+        "high_price": 38716.0,
+        "low_price": 38713.0,
+        "close_price": 38714.0,
+        "volume": 163873983.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260217,
+        "open_price": 38664.0,
+        "high_price": 38665.0,
+        "low_price": 38664.0,
+        "close_price": 38664.0,
+        "volume": 208565567.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260216,
+        "open_price": 38616.0,
+        "high_price": 38617.0,
+        "low_price": 38616.0,
+        "close_price": 38616.0,
+        "volume": 191599080.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260215,
+        "open_price": 38568.0,
+        "high_price": 38569.0,
+        "low_price": 38568.0,
+        "close_price": 38568.0,
+        "volume": 151167599.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260214,
+        "open_price": 38520.0,
+        "high_price": 38600.0,
+        "low_price": 38446.0,
+        "close_price": 38518.0,
+        "volume": 281744290.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260210,
+        "open_price": 38446.0,
+        "high_price": 38449.0,
+        "low_price": 38446.0,
+        "close_price": 38446.0,
+        "volume": 229707576.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260209,
+        "open_price": 38378.0,
+        "high_price": 38520.0,
+        "low_price": 38331.0,
+        "close_price": 38400.0,
+        "volume": 305980859.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260208,
+        "open_price": 38333.0,
+        "high_price": 38334.0,
+        "low_price": 38274.0,
+        "close_price": 38331.0,
+        "volume": 200178074.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260207,
+        "open_price": 38277.0,
+        "high_price": 38278.0,
+        "low_price": 38250.0,
+        "close_price": 38274.0,
+        "volume": 430540378.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260203,
+        "open_price": 38205.0,
+        "high_price": 38206.0,
+        "low_price": 38151.0,
+        "close_price": 38193.0,
+        "volume": 394332520.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260202,
+        "open_price": 38146.0,
+        "high_price": 38200.0,
+        "low_price": 38100.0,
+        "close_price": 38151.0,
+        "volume": 170370548.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260201,
+        "open_price": 38101.0,
+        "high_price": 38103.0,
+        "low_price": 38057.0,
+        "close_price": 38100.0,
+        "volume": 226144927.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260131,
+        "open_price": 38058.0,
+        "high_price": 38058.0,
+        "low_price": 38020.0,
+        "close_price": 38057.0,
+        "volume": 253412533.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260128,
+        "open_price": 38013.0,
+        "high_price": 38035.0,
+        "low_price": 37961.0,
+        "close_price": 38012.0,
+        "volume": 343720930.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260127,
+        "open_price": 37961.0,
+        "high_price": 37962.0,
+        "low_price": 37958.0,
+        "close_price": 37961.0,
+        "volume": 170800134.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260126,
+        "open_price": 37917.0,
+        "high_price": 37918.0,
+        "low_price": 37868.0,
+        "close_price": 37912.0,
+        "volume": 250897555.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260125,
+        "open_price": 37873.0,
+        "high_price": 37874.0,
+        "low_price": 37829.0,
+        "close_price": 37868.0,
+        "volume": 211723328.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260124,
+        "open_price": 37829.0,
+        "high_price": 37830.0,
+        "low_price": 37826.0,
+        "close_price": 37829.0,
+        "volume": 335557408.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260121,
+        "open_price": 37785.0,
+        "high_price": 37850.0,
+        "low_price": 37733.0,
+        "close_price": 37790.0,
+        "volume": 492291717.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260120,
+        "open_price": 37733.0,
+        "high_price": 37734.0,
+        "low_price": 37733.0,
+        "close_price": 37733.0,
+        "volume": 184529124.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260119,
+        "open_price": 37689.0,
+        "high_price": 37690.0,
+        "low_price": 37689.0,
+        "close_price": 37689.0,
+        "volume": 171809039.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260118,
+        "open_price": 37645.0,
+        "high_price": 37646.0,
+        "low_price": 37645.0,
+        "close_price": 37645.0,
+        "volume": 361400206.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260114,
+        "open_price": 37557.0,
+        "high_price": 37656.0,
+        "low_price": 37557.0,
+        "close_price": 37558.0,
+        "volume": 268039257.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260113,
+        "open_price": 37506.0,
+        "high_price": 37507.0,
+        "low_price": 37480.0,
+        "close_price": 37502.0,
+        "volume": 231984593.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260112,
+        "open_price": 37462.0,
+        "high_price": 37463.0,
+        "low_price": 37459.0,
+        "close_price": 37462.0,
+        "volume": 378836931.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260111,
+        "open_price": 37418.0,
+        "high_price": 37419.0,
+        "low_price": 37418.0,
+        "close_price": 37418.0,
+        "volume": 200871623.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260110,
+        "open_price": 37375.0,
+        "high_price": 37375.0,
+        "low_price": 37374.0,
+        "close_price": 37374.0,
+        "volume": 210873278.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260107,
+        "open_price": 37330.0,
+        "high_price": 37464.0,
+        "low_price": 37279.0,
+        "close_price": 37331.0,
+        "volume": 956691012.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260106,
+        "open_price": 37279.0,
+        "high_price": 37280.0,
+        "low_price": 37279.0,
+        "close_price": 37279.0,
+        "volume": 303213917.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260105,
+        "open_price": 37235.0,
+        "high_price": 37236.0,
+        "low_price": 37235.0,
+        "close_price": 37235.0,
+        "volume": 269034644.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20260104,
+        "open_price": 37192.0,
+        "high_price": 37193.0,
+        "low_price": 37192.0,
+        "close_price": 37192.0,
+        "volume": 393103815.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251231,
+        "open_price": 37106.0,
+        "high_price": 37108.0,
+        "low_price": 37106.0,
+        "close_price": 37107.0,
+        "volume": 518192558.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251230,
+        "open_price": 37055.0,
+        "high_price": 37056.0,
+        "low_price": 37030.0,
+        "close_price": 37052.0,
+        "volume": 321396631.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251229,
+        "open_price": 37012.0,
+        "high_price": 37013.0,
+        "low_price": 36997.0,
+        "close_price": 37010.0,
+        "volume": 227334453.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251228,
+        "open_price": 36969.0,
+        "high_price": 36970.0,
+        "low_price": 36969.0,
+        "close_price": 36969.0,
+        "volume": 243092052.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251227,
+        "open_price": 36926.0,
+        "high_price": 36927.0,
+        "low_price": 36879.0,
+        "close_price": 36922.0,
+        "volume": 281784644.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251224,
+        "open_price": 36883.0,
+        "high_price": 36886.0,
+        "low_price": 36864.0,
+        "close_price": 36879.0,
+        "volume": 266627403.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251223,
+        "open_price": 36833.0,
+        "high_price": 36834.0,
+        "low_price": 36813.0,
+        "close_price": 36832.0,
+        "volume": 175010954.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251222,
+        "open_price": 36790.0,
+        "high_price": 36792.0,
+        "low_price": 36770.0,
+        "close_price": 36785.0,
+        "volume": 179565141.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251221,
+        "open_price": 36747.0,
+        "high_price": 36810.0,
+        "low_price": 36720.0,
+        "close_price": 36744.0,
+        "volume": 258322217.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251220,
+        "open_price": 36705.0,
+        "high_price": 36705.0,
+        "low_price": 36704.0,
+        "close_price": 36704.0,
+        "volume": 301634208.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251217,
+        "open_price": 36661.0,
+        "high_price": 36662.0,
+        "low_price": 36661.0,
+        "close_price": 36662.0,
+        "volume": 146770892.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251216,
+        "open_price": 36612.0,
+        "high_price": 36612.0,
+        "low_price": 36611.0,
+        "close_price": 36611.0,
+        "volume": 258265130.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251215,
+        "open_price": 36568.0,
+        "high_price": 36569.0,
+        "low_price": 36568.0,
+        "close_price": 36568.0,
+        "volume": 273876724.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251214,
+        "open_price": 36525.0,
+        "high_price": 36526.0,
+        "low_price": 36522.0,
+        "close_price": 36525.0,
+        "volume": 260642312.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251213,
+        "open_price": 36482.0,
+        "high_price": 36484.0,
+        "low_price": 36482.0,
+        "close_price": 36482.0,
+        "volume": 194983019.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251210,
+        "open_price": 36439.0,
+        "high_price": 36440.0,
+        "low_price": 36439.0,
+        "close_price": 36440.0,
+        "volume": 183784729.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251209,
+        "open_price": 36389.0,
+        "high_price": 36528.0,
+        "low_price": 36347.0,
+        "close_price": 36409.0,
+        "volume": 1008570039.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251208,
+        "open_price": 36347.0,
+        "high_price": 36348.0,
+        "low_price": 36347.0,
+        "close_price": 36347.0,
+        "volume": 157385027.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251207,
+        "open_price": 36305.0,
+        "high_price": 36306.0,
+        "low_price": 36305.0,
+        "close_price": 36305.0,
+        "volume": 107129119.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251206,
+        "open_price": 36263.0,
+        "high_price": 36264.0,
+        "low_price": 36263.0,
+        "close_price": 36263.0,
+        "volume": 134671136.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251203,
+        "open_price": 36221.0,
+        "high_price": 36222.0,
+        "low_price": 36200.0,
+        "close_price": 36207.0,
+        "volume": 289608005.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251202,
+        "open_price": 36175.0,
+        "high_price": 36176.0,
+        "low_price": 36160.0,
+        "close_price": 36170.0,
+        "volume": 146537223.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251201,
+        "open_price": 36133.0,
+        "high_price": 36134.0,
+        "low_price": 36133.0,
+        "close_price": 36133.0,
+        "volume": 142751535.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251130,
+        "open_price": 36091.0,
+        "high_price": 36092.0,
+        "low_price": 36091.0,
+        "close_price": 36091.0,
+        "volume": 103737350.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251129,
+        "open_price": 36049.0,
+        "high_price": 36050.0,
+        "low_price": 36049.0,
+        "close_price": 36049.0,
+        "volume": 122893936.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251126,
+        "open_price": 36007.0,
+        "high_price": 36008.0,
+        "low_price": 36007.0,
+        "close_price": 36007.0,
+        "volume": 93288802.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251125,
+        "open_price": 35954.0,
+        "high_price": 35955.0,
+        "low_price": 35954.0,
+        "close_price": 35954.0,
+        "volume": 233504075.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251123,
+        "open_price": 35877.0,
+        "high_price": 35879.0,
+        "low_price": 35877.0,
+        "close_price": 35877.0,
+        "volume": 241938288.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251122,
+        "open_price": 35835.0,
+        "high_price": 35836.0,
+        "low_price": 35832.0,
+        "close_price": 35835.0,
+        "volume": 176839002.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251119,
+        "open_price": 35793.0,
+        "high_price": 35847.0,
+        "low_price": 35750.0,
+        "close_price": 35798.0,
+        "volume": 249791705.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251118,
+        "open_price": 35747.0,
+        "high_price": 35780.0,
+        "low_price": 35747.0,
+        "close_price": 35750.0,
+        "volume": 183161106.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251117,
+        "open_price": 35705.0,
+        "high_price": 35723.0,
+        "low_price": 35680.0,
+        "close_price": 35706.0,
+        "volume": 150517423.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251116,
+        "open_price": 35663.0,
+        "high_price": 35664.0,
+        "low_price": 35663.0,
+        "close_price": 35663.0,
+        "volume": 197034564.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251115,
+        "open_price": 35621.0,
+        "high_price": 35641.0,
+        "low_price": 35621.0,
+        "close_price": 35623.0,
+        "volume": 188921755.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251112,
+        "open_price": 35579.0,
+        "high_price": 35594.0,
+        "low_price": 35579.0,
+        "close_price": 35581.0,
+        "volume": 189410150.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251111,
+        "open_price": 35534.0,
+        "high_price": 35535.0,
+        "low_price": 35534.0,
+        "close_price": 35534.0,
+        "volume": 210560015.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251110,
+        "open_price": 35493.0,
+        "high_price": 35494.0,
+        "low_price": 35493.0,
+        "close_price": 35493.0,
+        "volume": 198020666.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251109,
+        "open_price": 35452.0,
+        "high_price": 35472.0,
+        "low_price": 35452.0,
+        "close_price": 35454.0,
+        "volume": 146979593.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251108,
+        "open_price": 35411.0,
+        "high_price": 35412.0,
+        "low_price": 35411.0,
+        "close_price": 35411.0,
+        "volume": 200095883.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251105,
+        "open_price": 35370.0,
+        "high_price": 35371.0,
+        "low_price": 35370.0,
+        "close_price": 35370.0,
+        "volume": 118596311.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251104,
+        "open_price": 35325.0,
+        "high_price": 35326.0,
+        "low_price": 35325.0,
+        "close_price": 35325.0,
+        "volume": 135583374.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251103,
+        "open_price": 35285.0,
+        "high_price": 35285.0,
+        "low_price": 35281.0,
+        "close_price": 35284.0,
+        "volume": 95484783.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251102,
+        "open_price": 35243.0,
+        "high_price": 35244.0,
+        "low_price": 35243.0,
+        "close_price": 35243.0,
+        "volume": 113993456.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251101,
+        "open_price": 35202.0,
+        "high_price": 35302.0,
+        "low_price": 35161.0,
+        "close_price": 35202.0,
+        "volume": 184684333.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251029,
+        "open_price": 35161.0,
+        "high_price": 35162.0,
+        "low_price": 35161.0,
+        "close_price": 35161.0,
+        "volume": 148297600.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251028,
+        "open_price": 35116.0,
+        "high_price": 35117.0,
+        "low_price": 35116.0,
+        "close_price": 35116.0,
+        "volume": 106163425.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251027,
+        "open_price": 35075.0,
+        "high_price": 35076.0,
+        "low_price": 35072.0,
+        "close_price": 35075.0,
+        "volume": 157152838.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251026,
+        "open_price": 35034.0,
+        "high_price": 35035.0,
+        "low_price": 35034.0,
+        "close_price": 35035.0,
+        "volume": 126035570.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251025,
+        "open_price": 34994.0,
+        "high_price": 34994.0,
+        "low_price": 34993.0,
+        "close_price": 34993.0,
+        "volume": 132517423.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251022,
+        "open_price": 34952.0,
+        "high_price": 34953.0,
+        "low_price": 34952.0,
+        "close_price": 34953.0,
+        "volume": 118441479.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251021,
+        "open_price": 34907.0,
+        "high_price": 34920.0,
+        "low_price": 34907.0,
+        "close_price": 34911.0,
+        "volume": 195059803.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251020,
+        "open_price": 34866.0,
+        "high_price": 34881.0,
+        "low_price": 34866.0,
+        "close_price": 34868.0,
+        "volume": 143403514.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251019,
+        "open_price": 34826.0,
+        "high_price": 34826.0,
+        "low_price": 34822.0,
+        "close_price": 34825.0,
+        "volume": 121969768.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251018,
+        "open_price": 34784.0,
+        "high_price": 34800.0,
+        "low_price": 34784.0,
+        "close_price": 34785.0,
+        "volume": 134636442.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251015,
+        "open_price": 34743.0,
+        "high_price": 34744.0,
+        "low_price": 34743.0,
+        "close_price": 34743.0,
+        "volume": 182947526.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251014,
+        "open_price": 34699.0,
+        "high_price": 34700.0,
+        "low_price": 34699.0,
+        "close_price": 34700.0,
+        "volume": 101542500.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251013,
+        "open_price": 34658.0,
+        "high_price": 34659.0,
+        "low_price": 34658.0,
+        "close_price": 34658.0,
+        "volume": 139841668.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251012,
+        "open_price": 34618.0,
+        "high_price": 34619.0,
+        "low_price": 34618.0,
+        "close_price": 34618.0,
+        "volume": 134819626.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251011,
+        "open_price": 34578.0,
+        "high_price": 34579.0,
+        "low_price": 34578.0,
+        "close_price": 34578.0,
+        "volume": 144385556.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251008,
+        "open_price": 34538.0,
+        "high_price": 34539.0,
+        "low_price": 34538.0,
+        "close_price": 34538.0,
+        "volume": 142249547.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251007,
+        "open_price": 34494.0,
+        "high_price": 34495.0,
+        "low_price": 34494.0,
+        "close_price": 34494.0,
+        "volume": 227157124.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251006,
+        "open_price": 34454.0,
+        "high_price": 34455.0,
+        "low_price": 34454.0,
+        "close_price": 34454.0,
+        "volume": 157714490.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251005,
+        "open_price": 34414.0,
+        "high_price": 34415.0,
+        "low_price": 34414.0,
+        "close_price": 34414.0,
+        "volume": 195565163.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251004,
+        "open_price": 34374.0,
+        "high_price": 34405.0,
+        "low_price": 34374.0,
+        "close_price": 34378.0,
+        "volume": 252365570.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20251001,
+        "open_price": 34334.0,
+        "high_price": 34335.0,
+        "low_price": 34331.0,
+        "close_price": 34334.0,
+        "volume": 155540273.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250930,
+        "open_price": 34290.0,
+        "high_price": 34310.0,
+        "low_price": 34277.0,
+        "close_price": 34293.0,
+        "volume": 278085487.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250929,
+        "open_price": 34250.0,
+        "high_price": 34251.0,
+        "low_price": 34250.0,
+        "close_price": 34250.0,
+        "volume": 163760218.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250928,
+        "open_price": 34211.0,
+        "high_price": 34211.0,
+        "low_price": 34180.0,
+        "close_price": 34208.0,
+        "volume": 172104861.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250927,
+        "open_price": 34170.0,
+        "high_price": 34171.0,
+        "low_price": 34123.0,
+        "close_price": 34167.0,
+        "volume": 194334283.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250924,
+        "open_price": 34130.0,
+        "high_price": 34131.0,
+        "low_price": 34110.0,
+        "close_price": 34123.0,
+        "volume": 266598139.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250923,
+        "open_price": 34087.0,
+        "high_price": 34097.0,
+        "low_price": 34072.0,
+        "close_price": 34088.0,
+        "volume": 204195549.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250922,
+        "open_price": 34048.0,
+        "high_price": 34049.0,
+        "low_price": 34048.0,
+        "close_price": 34048.0,
+        "volume": 177951240.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250921,
+        "open_price": 34010.0,
+        "high_price": 34022.0,
+        "low_price": 33996.0,
+        "close_price": 34011.0,
+        "volume": 453152479.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250920,
+        "open_price": 33971.0,
+        "high_price": 33971.0,
+        "low_price": 33970.0,
+        "close_price": 33970.0,
+        "volume": 178308231.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250917,
+        "open_price": 33931.0,
+        "high_price": 33932.0,
+        "low_price": 33915.0,
+        "close_price": 33928.0,
+        "volume": 149169157.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250916,
+        "open_price": 33888.0,
+        "high_price": 33900.0,
+        "low_price": 33855.0,
+        "close_price": 33882.0,
+        "volume": 551269453.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250915,
+        "open_price": 33849.0,
+        "high_price": 33850.0,
+        "low_price": 33849.0,
+        "close_price": 33849.0,
+        "volume": 98072258.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250914,
+        "open_price": 33810.0,
+        "high_price": 33811.0,
+        "low_price": 33810.0,
+        "close_price": 33810.0,
+        "volume": 80074573.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250913,
+        "open_price": 33771.0,
+        "high_price": 33772.0,
+        "low_price": 33690.0,
+        "close_price": 33767.0,
+        "volume": 131476774.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250909,
+        "open_price": 33690.0,
+        "high_price": 33719.0,
+        "low_price": 33690.0,
+        "close_price": 33690.0,
+        "volume": 344197392.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250908,
+        "open_price": 33651.0,
+        "high_price": 33652.0,
+        "low_price": 33651.0,
+        "close_price": 33651.0,
+        "volume": 138773969.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250907,
+        "open_price": 33612.0,
+        "high_price": 33613.0,
+        "low_price": 33612.0,
+        "close_price": 33612.0,
+        "volume": 153314895.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250906,
+        "open_price": 33573.0,
+        "high_price": 33585.0,
+        "low_price": 33573.0,
+        "close_price": 33574.0,
+        "volume": 153089772.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250903,
+        "open_price": 33535.0,
+        "high_price": 33535.0,
+        "low_price": 33534.0,
+        "close_price": 33534.0,
+        "volume": 115216809.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250902,
+        "open_price": 33493.0,
+        "high_price": 33493.0,
+        "low_price": 33492.0,
+        "close_price": 33492.0,
+        "volume": 140368828.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250831,
+        "open_price": 33420.0,
+        "high_price": 33421.0,
+        "low_price": 33420.0,
+        "close_price": 33420.0,
+        "volume": 102182999.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250830,
+        "open_price": 33376.0,
+        "high_price": 33376.0,
+        "low_price": 33375.0,
+        "close_price": 33375.0,
+        "volume": 302843725.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250827,
+        "open_price": 33337.0,
+        "high_price": 33358.0,
+        "low_price": 33336.0,
+        "close_price": 33337.0,
+        "volume": 142304354.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250826,
+        "open_price": 33295.0,
+        "high_price": 33295.0,
+        "low_price": 33294.0,
+        "close_price": 33294.0,
+        "volume": 112632577.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250825,
+        "open_price": 33256.0,
+        "high_price": 33256.0,
+        "low_price": 33255.0,
+        "close_price": 33255.0,
+        "volume": 127052620.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250823,
+        "open_price": 33189.0,
+        "high_price": 33189.0,
+        "low_price": 33188.0,
+        "close_price": 33188.0,
+        "volume": 115673860.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250820,
+        "open_price": 33146.0,
+        "high_price": 33146.0,
+        "low_price": 33145.0,
+        "close_price": 33145.0,
+        "volume": 114857027.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250819,
+        "open_price": 33098.0,
+        "high_price": 33155.0,
+        "low_price": 33083.0,
+        "close_price": 33111.0,
+        "volume": 1094742483.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250818,
+        "open_price": 33055.0,
+        "high_price": 33056.0,
+        "low_price": 33055.0,
+        "close_price": 33055.0,
+        "volume": 143883810.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250817,
+        "open_price": 33013.0,
+        "high_price": 33014.0,
+        "low_price": 33013.0,
+        "close_price": 33014.0,
+        "volume": 148300508.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250816,
+        "open_price": 32972.0,
+        "high_price": 32972.0,
+        "low_price": 32971.0,
+        "close_price": 32971.0,
+        "volume": 154375138.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250813,
+        "open_price": 32923.0,
+        "high_price": 32924.0,
+        "low_price": 32923.0,
+        "close_price": 32923.0,
+        "volume": 225280511.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250812,
+        "open_price": 32876.0,
+        "high_price": 32876.0,
+        "low_price": 32875.0,
+        "close_price": 32875.0,
+        "volume": 120536507.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250811,
+        "open_price": 32835.0,
+        "high_price": 32835.0,
+        "low_price": 32834.0,
+        "close_price": 32834.0,
+        "volume": 120437287.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250810,
+        "open_price": 32793.0,
+        "high_price": 32794.0,
+        "low_price": 32793.0,
+        "close_price": 32793.0,
+        "volume": 150593339.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250809,
+        "open_price": 32752.0,
+        "high_price": 32817.0,
+        "low_price": 32748.0,
+        "close_price": 32757.0,
+        "volume": 211234892.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250806,
+        "open_price": 32704.0,
+        "high_price": 32705.0,
+        "low_price": 32704.0,
+        "close_price": 32704.0,
+        "volume": 86772349.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250805,
+        "open_price": 32656.0,
+        "high_price": 32657.0,
+        "low_price": 32656.0,
+        "close_price": 32656.0,
+        "volume": 99411669.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250804,
+        "open_price": 32615.0,
+        "high_price": 32717.0,
+        "low_price": 32615.0,
+        "close_price": 32639.0,
+        "volume": 130094005.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250803,
+        "open_price": 32574.0,
+        "high_price": 32575.0,
+        "low_price": 32574.0,
+        "close_price": 32574.0,
+        "volume": 157096875.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250802,
+        "open_price": 32533.0,
+        "high_price": 32534.0,
+        "low_price": 32533.0,
+        "close_price": 32533.0,
+        "volume": 140321424.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250730,
+        "open_price": 32486.0,
+        "high_price": 32487.0,
+        "low_price": 32486.0,
+        "close_price": 32486.0,
+        "volume": 127935515.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250729,
+        "open_price": 32439.0,
+        "high_price": 32440.0,
+        "low_price": 32439.0,
+        "close_price": 32439.0,
+        "volume": 107974938.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250728,
+        "open_price": 32398.0,
+        "high_price": 32430.0,
+        "low_price": 32398.0,
+        "close_price": 32400.0,
+        "volume": 130348292.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250727,
+        "open_price": 32357.0,
+        "high_price": 32463.0,
+        "low_price": 32357.0,
+        "close_price": 32363.0,
+        "volume": 152295244.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250726,
+        "open_price": 32316.0,
+        "high_price": 32317.0,
+        "low_price": 32316.0,
+        "close_price": 32316.0,
+        "volume": 85309088.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250723,
+        "open_price": 32269.0,
+        "high_price": 32270.0,
+        "low_price": 32269.0,
+        "close_price": 32269.0,
+        "volume": 114610543.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250722,
+        "open_price": 32222.0,
+        "high_price": 32223.0,
+        "low_price": 32222.0,
+        "close_price": 32223.0,
+        "volume": 73711914.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250721,
+        "open_price": 32181.0,
+        "high_price": 32182.0,
+        "low_price": 32181.0,
+        "close_price": 32181.0,
+        "volume": 126482691.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250720,
+        "open_price": 32141.0,
+        "high_price": 32166.0,
+        "low_price": 32141.0,
+        "close_price": 32144.0,
+        "volume": 144635710.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250719,
+        "open_price": 32101.0,
+        "high_price": 32102.0,
+        "low_price": 32101.0,
+        "close_price": 32101.0,
+        "volume": 194178906.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250716,
+        "open_price": 32054.0,
+        "high_price": 32055.0,
+        "low_price": 32054.0,
+        "close_price": 32055.0,
+        "volume": 148273727.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250715,
+        "open_price": 32007.0,
+        "high_price": 32008.0,
+        "low_price": 32007.0,
+        "close_price": 32007.0,
+        "volume": 117515180.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250714,
+        "open_price": 31967.0,
+        "high_price": 31968.0,
+        "low_price": 31967.0,
+        "close_price": 31967.0,
+        "volume": 155487986.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250713,
+        "open_price": 31928.0,
+        "high_price": 31928.0,
+        "low_price": 31927.0,
+        "close_price": 31927.0,
+        "volume": 112614056.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250712,
+        "open_price": 31887.0,
+        "high_price": 31888.0,
+        "low_price": 31887.0,
+        "close_price": 31887.0,
+        "volume": 105753780.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250709,
+        "open_price": 31842.0,
+        "high_price": 31842.0,
+        "low_price": 31839.0,
+        "close_price": 31841.0,
+        "volume": 131605271.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250708,
+        "open_price": 31801.0,
+        "high_price": 31801.0,
+        "low_price": 31800.0,
+        "close_price": 31800.0,
+        "volume": 89909347.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250707,
+        "open_price": 31766.0,
+        "high_price": 31767.0,
+        "low_price": 31766.0,
+        "close_price": 31766.0,
+        "volume": 269744528.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250702,
+        "open_price": 31657.0,
+        "high_price": 31727.0,
+        "low_price": 31657.0,
+        "close_price": 31678.0,
+        "volume": 220890955.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250701,
+        "open_price": 31616.0,
+        "high_price": 31617.0,
+        "low_price": 31616.0,
+        "close_price": 31616.0,
+        "volume": 95611909.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250630,
+        "open_price": 31583.0,
+        "high_price": 31583.0,
+        "low_price": 31582.0,
+        "close_price": 31582.0,
+        "volume": 182256057.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250629,
+        "open_price": 31540.0,
+        "high_price": 31549.0,
+        "low_price": 31539.0,
+        "close_price": 31548.0,
+        "volume": 90330023.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250628,
+        "open_price": 31515.0,
+        "high_price": 31515.0,
+        "low_price": 31514.0,
+        "close_price": 31514.0,
+        "volume": 103418961.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250625,
+        "open_price": 31468.0,
+        "high_price": 31469.0,
+        "low_price": 31443.0,
+        "close_price": 31464.0,
+        "volume": 77117965.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250624,
+        "open_price": 31418.0,
+        "high_price": 31419.0,
+        "low_price": 31418.0,
+        "close_price": 31418.0,
+        "volume": 52548984.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250623,
+        "open_price": 31393.0,
+        "high_price": 31394.0,
+        "low_price": 31393.0,
+        "close_price": 31393.0,
+        "volume": 104482946.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250622,
+        "open_price": 31368.0,
+        "high_price": 31399.0,
+        "low_price": 31368.0,
+        "close_price": 31368.0,
+        "volume": 129551691.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250621,
+        "open_price": 31343.0,
+        "high_price": 31349.0,
+        "low_price": 31343.0,
+        "close_price": 31343.0,
+        "volume": 643835178.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31296.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31296.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31296.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250611,
+        "open_price": 31265.0,
+        "high_price": 31301.0,
+        "low_price": 31265.0,
+        "close_price": 31296.0,
+        "volume": 197107683.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250610,
+        "open_price": 31224.0,
+        "high_price": 31225.0,
+        "low_price": 31224.0,
+        "close_price": 31224.0,
+        "volume": 182464109.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250609,
+        "open_price": 31191.0,
+        "high_price": 31192.0,
+        "low_price": 31191.0,
+        "close_price": 31191.0,
+        "volume": 150886656.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250608,
+        "open_price": 31158.0,
+        "high_price": 31159.0,
+        "low_price": 31158.0,
+        "close_price": 31158.0,
+        "volume": 203084822.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250607,
+        "open_price": 31125.0,
+        "high_price": 31126.0,
+        "low_price": 31125.0,
+        "close_price": 31125.0,
+        "volume": 187674892.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250603,
+        "open_price": 31065.0,
+        "high_price": 31085.0,
+        "low_price": 31065.0,
+        "close_price": 31080.0,
+        "volume": 147981281.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250602,
+        "open_price": 31012.0,
+        "high_price": 31013.0,
+        "low_price": 31012.0,
+        "close_price": 31012.0,
+        "volume": 169584768.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250601,
+        "open_price": 30979.0,
+        "high_price": 30980.0,
+        "low_price": 30978.0,
+        "close_price": 30979.0,
+        "volume": 154361309.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250531,
+        "open_price": 30946.0,
+        "high_price": 30947.0,
+        "low_price": 30946.0,
+        "close_price": 30946.0,
+        "volume": 228027849.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250528,
+        "open_price": 30906.0,
+        "high_price": 30907.0,
+        "low_price": 30906.0,
+        "close_price": 30906.0,
+        "volume": 138701080.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250527,
+        "open_price": 30866.0,
+        "high_price": 30867.0,
+        "low_price": 30865.0,
+        "close_price": 30866.0,
+        "volume": 212136286.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250526,
+        "open_price": 30833.0,
+        "high_price": 30837.0,
+        "low_price": 30833.0,
+        "close_price": 30833.0,
+        "volume": 221312876.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250525,
+        "open_price": 30800.0,
+        "high_price": 30801.0,
+        "low_price": 30800.0,
+        "close_price": 30801.0,
+        "volume": 91146327.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250524,
+        "open_price": 30767.0,
+        "high_price": 30768.0,
+        "low_price": 30767.0,
+        "close_price": 30767.0,
+        "volume": 179084148.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250521,
+        "open_price": 30727.0,
+        "high_price": 30728.0,
+        "low_price": 30726.0,
+        "close_price": 30727.0,
+        "volume": 194616856.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250520,
+        "open_price": 30687.0,
+        "high_price": 30688.0,
+        "low_price": 30687.0,
+        "close_price": 30687.0,
+        "volume": 102257430.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250519,
+        "open_price": 30654.0,
+        "high_price": 30655.0,
+        "low_price": 30654.0,
+        "close_price": 30654.0,
+        "volume": 181005149.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250518,
+        "open_price": 30622.0,
+        "high_price": 30622.0,
+        "low_price": 30621.0,
+        "close_price": 30621.0,
+        "volume": 134229578.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250517,
+        "open_price": 30589.0,
+        "high_price": 30589.0,
+        "low_price": 30588.0,
+        "close_price": 30588.0,
+        "volume": 96819333.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250514,
+        "open_price": 30548.0,
+        "high_price": 30550.0,
+        "low_price": 30548.0,
+        "close_price": 30548.0,
+        "volume": 220676689.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250513,
+        "open_price": 30515.0,
+        "high_price": 30515.0,
+        "low_price": 30508.0,
+        "close_price": 30508.0,
+        "volume": 218474250.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250512,
+        "open_price": 30475.0,
+        "high_price": 30476.0,
+        "low_price": 30475.0,
+        "close_price": 30475.0,
+        "volume": 161216242.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250511,
+        "open_price": 30442.0,
+        "high_price": 30450.0,
+        "low_price": 30442.0,
+        "close_price": 30442.0,
+        "volume": 96473072.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250510,
+        "open_price": 30409.0,
+        "high_price": 30477.0,
+        "low_price": 30409.0,
+        "close_price": 30410.0,
+        "volume": 104952389.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250507,
+        "open_price": 30370.0,
+        "high_price": 30371.0,
+        "low_price": 30370.0,
+        "close_price": 30370.0,
+        "volume": 120347876.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250506,
+        "open_price": 30331.0,
+        "high_price": 30332.0,
+        "low_price": 30331.0,
+        "close_price": 30331.0,
+        "volume": 190047151.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250505,
+        "open_price": 30299.0,
+        "high_price": 30317.0,
+        "low_price": 30299.0,
+        "close_price": 30301.0,
+        "volume": 118118209.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250504,
+        "open_price": 30267.0,
+        "high_price": 30489.0,
+        "low_price": 30267.0,
+        "close_price": 30270.0,
+        "volume": 183093520.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250503,
+        "open_price": 30836.0,
+        "high_price": 30274.0,
+        "low_price": 30235.0,
+        "close_price": 30236.0,
+        "volume": 132275501.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250430,
+        "open_price": 30196.0,
+        "high_price": 30980.0,
+        "low_price": 30196.0,
+        "close_price": 30197.0,
+        "volume": 65445016.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250429,
+        "open_price": 30157.0,
+        "high_price": 30158.0,
+        "low_price": 30157.0,
+        "close_price": 30158.0,
+        "volume": 92457038.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250428,
+        "open_price": 30126.0,
+        "high_price": 30127.0,
+        "low_price": 30125.0,
+        "close_price": 30126.0,
+        "volume": 238577442.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250427,
+        "open_price": 30093.0,
+        "high_price": 30094.0,
+        "low_price": 30093.0,
+        "close_price": 30093.0,
+        "volume": 79160751.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250426,
+        "open_price": 30061.0,
+        "high_price": 30064.0,
+        "low_price": 30061.0,
+        "close_price": 30062.0,
+        "volume": 135936752.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250423,
+        "open_price": 30022.0,
+        "high_price": 30024.0,
+        "low_price": 30022.0,
+        "close_price": 30022.0,
+        "volume": 222935721.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250422,
+        "open_price": 29983.0,
+        "high_price": 29985.0,
+        "low_price": 29983.0,
+        "close_price": 29983.0,
+        "volume": 153079747.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250421,
+        "open_price": 29951.0,
+        "high_price": 29952.0,
+        "low_price": 29951.0,
+        "close_price": 29951.0,
+        "volume": 118875294.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250420,
+        "open_price": 29919.0,
+        "high_price": 29920.0,
+        "low_price": 29919.0,
+        "close_price": 29919.0,
+        "volume": 209572472.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250419,
+        "open_price": 29887.0,
+        "high_price": 29888.0,
+        "low_price": 29887.0,
+        "close_price": 29887.0,
+        "volume": 202644894.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250416,
+        "open_price": 29848.0,
+        "high_price": 29851.0,
+        "low_price": 29848.0,
+        "close_price": 29848.0,
+        "volume": 181154698.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250415,
+        "open_price": 29809.0,
+        "high_price": 29810.0,
+        "low_price": 29809.0,
+        "close_price": 29809.0,
+        "volume": 117672137.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250414,
+        "open_price": 29777.0,
+        "high_price": 29778.0,
+        "low_price": 29767.0,
+        "close_price": 29773.0,
+        "volume": 290250880.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250413,
+        "open_price": 29745.0,
+        "high_price": 29746.0,
+        "low_price": 29745.0,
+        "close_price": 29745.0,
+        "volume": 151466919.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250412,
+        "open_price": 29713.0,
+        "high_price": 29714.0,
+        "low_price": 29713.0,
+        "close_price": 29714.0,
+        "volume": 104961911.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250409,
+        "open_price": 29674.0,
+        "high_price": 29675.0,
+        "low_price": 29674.0,
+        "close_price": 29674.0,
+        "volume": 99502047.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250408,
+        "open_price": 29635.0,
+        "high_price": 29636.0,
+        "low_price": 29635.0,
+        "close_price": 29635.0,
+        "volume": 161338001.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250407,
+        "open_price": 29603.0,
+        "high_price": 29604.0,
+        "low_price": 29603.0,
+        "close_price": 29603.0,
+        "volume": 124458032.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250406,
+        "open_price": 29571.0,
+        "high_price": 29572.0,
+        "low_price": 29571.0,
+        "close_price": 29571.0,
+        "volume": 99628187.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250405,
+        "open_price": 29540.0,
+        "high_price": 29540.0,
+        "low_price": 29539.0,
+        "close_price": 29539.0,
+        "volume": 105832729.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250330,
+        "open_price": 29463.0,
+        "high_price": 29464.0,
+        "low_price": 29463.0,
+        "close_price": 29464.0,
+        "volume": 119460221.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250329,
+        "open_price": 29370.0,
+        "high_price": 29382.0,
+        "low_price": 29370.0,
+        "close_price": 29371.0,
+        "volume": 93183131.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250326,
+        "open_price": 29332.0,
+        "high_price": 29333.0,
+        "low_price": 29332.0,
+        "close_price": 29332.0,
+        "volume": 102008102.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250325,
+        "open_price": 29294.0,
+        "high_price": 29295.0,
+        "low_price": 29294.0,
+        "close_price": 29294.0,
+        "volume": 132381656.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250318,
+        "open_price": 29179.0,
+        "high_price": 29250.0,
+        "low_price": 29179.0,
+        "close_price": 29187.0,
+        "volume": 268839253.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250317,
+        "open_price": 29095.0,
+        "high_price": 29095.0,
+        "low_price": 29094.0,
+        "close_price": 29094.0,
+        "volume": 249751516.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250316,
+        "open_price": 29063.0,
+        "high_price": 29064.0,
+        "low_price": 29063.0,
+        "close_price": 29063.0,
+        "volume": 342543930.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250315,
+        "open_price": 29032.0,
+        "high_price": 29033.0,
+        "low_price": 29032.0,
+        "close_price": 29032.0,
+        "volume": 163756892.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250312,
+        "open_price": 28994.0,
+        "high_price": 28995.0,
+        "low_price": 28994.0,
+        "close_price": 28994.0,
+        "volume": 79620329.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250311,
+        "open_price": 28956.0,
+        "high_price": 28957.0,
+        "low_price": 28956.0,
+        "close_price": 28956.0,
+        "volume": 107761344.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250310,
+        "open_price": 28926.0,
+        "high_price": 28926.0,
+        "low_price": 28925.0,
+        "close_price": 28925.0,
+        "volume": 188362173.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250309,
+        "open_price": 28894.0,
+        "high_price": 28895.0,
+        "low_price": 28894.0,
+        "close_price": 28894.0,
+        "volume": 119413531.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250308,
+        "open_price": 28863.0,
+        "high_price": 28864.0,
+        "low_price": 28863.0,
+        "close_price": 28863.0,
+        "volume": 160102108.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250305,
+        "open_price": 28826.0,
+        "high_price": 28827.0,
+        "low_price": 28826.0,
+        "close_price": 28826.0,
+        "volume": 130464090.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250304,
+        "open_price": 28791.0,
+        "high_price": 28792.0,
+        "low_price": 28791.0,
+        "close_price": 28791.0,
+        "volume": 236113979.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250303,
+        "open_price": 28760.0,
+        "high_price": 28761.0,
+        "low_price": 28760.0,
+        "close_price": 28760.0,
+        "volume": 78443806.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250302,
+        "open_price": 28729.0,
+        "high_price": 28730.0,
+        "low_price": 28729.0,
+        "close_price": 28730.0,
+        "volume": 112059812.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250301,
+        "open_price": 28698.0,
+        "high_price": 28699.0,
+        "low_price": 28698.0,
+        "close_price": 28698.0,
+        "volume": 219279931.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250226,
+        "open_price": 28663.0,
+        "high_price": 28664.0,
+        "low_price": 28663.0,
+        "close_price": 28663.0,
+        "volume": 140374978.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250225,
+        "open_price": 28628.0,
+        "high_price": 28629.0,
+        "low_price": 28628.0,
+        "close_price": 28628.0,
+        "volume": 122184912.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250224,
+        "open_price": 28597.0,
+        "high_price": 28598.0,
+        "low_price": 28597.0,
+        "close_price": 28597.0,
+        "volume": 118971585.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250223,
+        "open_price": 28566.0,
+        "high_price": 28567.0,
+        "low_price": 28566.0,
+        "close_price": 28566.0,
+        "volume": 176379535.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250222,
+        "open_price": 28535.0,
+        "high_price": 28536.0,
+        "low_price": 28535.0,
+        "close_price": 28536.0,
+        "volume": 250234334.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250219,
+        "open_price": 28500.0,
+        "high_price": 28501.0,
+        "low_price": 28500.0,
+        "close_price": 28500.0,
+        "volume": 182713093.0
+    },
+    {
+        "symbol": "سپر",
+        "trade_date": 20250218,
+        "open_price": 28465.0,
+        "high_price": 28466.0,
+        "low_price": 28465.0,
+        "close_price": 28465.0,
+        "volume": 142650792.0
+    }
+]

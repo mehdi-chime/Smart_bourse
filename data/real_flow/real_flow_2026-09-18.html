@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Smart Bourse — گزارش جریان پول حقیقی</title>
+<style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+        font-family: 'Tahoma', 'Segoe UI', sans-serif;
+        background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+        min-height: 100vh;
+        padding: 20px;
+        color: #333;
+    }
+    .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        background: white;
+        border-radius: 16px;
+        box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        overflow: hidden;
+    }
+    .header {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        padding: 30px;
+        text-align: center;
+    }
+    .header h1 {
+        font-size: 28px;
+        margin-bottom: 10px;
+    }
+    .header .date {
+        font-size: 14px;
+        opacity: 0.9;
+    }
+    .summary {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+        gap: 15px;
+        padding: 25px;
+        background: #f8f9fa;
+    }
+    .summary-card {
+        padding: 20px;
+        border-radius: 12px;
+        text-align: center;
+        color: white;
+        transition: transform 0.2s;
+    }
+    .summary-card:hover { transform: translateY(-3px); }
+    .summary-card.buy { background: linear-gradient(135deg, #11998e, #38ef7d); }
+    .summary-card.sell { background: linear-gradient(135deg, #eb3349, #f45c43); }
+    .summary-card.queue { background: linear-gradient(135deg, #f2994a, #f2c94c); }
+    .summary-card.normal { background: linear-gradient(135deg, #4b6cb7, #182848); }
+    .summary-card .num {
+        font-size: 36px;
+        font-weight: bold;
+        margin-bottom: 5px;
+    }
+    .summary-card .label {
+        font-size: 14px;
+        opacity: 0.95;
+    }
+    .section {
+        padding: 25px 30px;
+    }
+    .section h2 {
+        font-size: 22px;
+        margin-bottom: 15px;
+        padding-bottom: 10px;
+        border-bottom: 3px solid;
+    }
+    .section.buy h2 { color: #11998e; border-color: #11998e; }
+    .section.sell h2 { color: #eb3349; border-color: #eb3349; }
+    .section.queue h2 { color: #f2994a; border-color: #f2994a; }
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 15px;
+        font-size: 14px;
+    }
+    th {
+        background: #f1f3f5;
+        padding: 12px 10px;
+        text-align: right;
+        font-weight: 600;
+        color: #495057;
+        border-bottom: 2px solid #dee2e6;
+    }
+    td {
+        padding: 10px;
+        border-bottom: 1px solid #e9ecef;
+    }
+    tr:hover { background: #f8f9fa; }
+    .symbol {
+        font-weight: bold;
+        color: #212529;
+    }
+    .ratio-badge {
+        display: inline-block;
+        padding: 4px 10px;
+        border-radius: 20px;
+        font-weight: bold;
+        font-size: 13px;
+    }
+    .ratio-buy { background: #d4edda; color: #155724; }
+    .ratio-sell { background: #f8d7da; color: #721c24; }
+    .ratio-queue { background: #fff3cd; color: #856404; }
+    .empty {
+        text-align: center;
+        padding: 30px;
+        color: #6c757d;
+        font-style: italic;
+    }
+    .footer {
+        padding: 20px;
+        text-align: center;
+        background: #f8f9fa;
+        color: #6c757d;
+        font-size: 13px;
+    }
+</style>
+</head>
+<body>
+<div class="container">
+    <div class="header">
+        <h1>📊 گزارش جریان پول حقیقی</h1>
+        <div class="date">Smart Bourse — تاریخ معاملاتی: 2026-09-18</div>
+        <div class="date">ساخته‌شده: 2026-09-18T13:44:14.149939</div>
+    </div>
+
+    <div class="summary">
+        <div class="summary-card buy">
+            <div class="num">6</div>
+            <div class="label">🟢 SAFE_BUY</div>
+        </div>
+        <div class="summary-card sell">
+            <div class="num">0</div>
+            <div class="label">🔴 SAFE_SELL</div>
+        </div>
+        <div class="summary-card queue">
+            <div class="num">1</div>
+            <div class="label">🟡 QUEUE_BUY</div>
+        </div>
+        <div class="summary-card normal">
+            <div class="num">357</div>
+            <div class="label">⚪ NORMAL</div>
+        </div>
+    </div>
+
+    
+            <div class="section buy">
+                <h2>🟢 SAFE_BUY — سهام امن برای خرید</h2>
+                
+            <table>
+                <thead>
+                    <tr>
+                        <th>نماد</th>
+                        <th>نام شرکت</th>
+                        <th>قیمت</th>
+                        <th>نسبت</th>
+                        <th>خرید حقیقی</th>
+                        <th>فروش حقیقی</th>
+                        <th>ارزش (میلیارد)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    
+                <tr>
+                    <td class="symbol">وكغدير</td>
+                    <td>بين المللي توسعه ص. معادن غدير</td>
+                    <td>6,960</td>
+                    <td><span class="ratio-badge ratio-buy">20.30</span></td>
+                    <td>222,355,801</td>
+                    <td>10,955,801</td>
+                    <td>1656.17</td>
+                </tr>
+            
+                <tr>
+                    <td class="symbol">فرآور</td>
+                    <td>فرآوري‌موادمعدني‌ايران‌</td>
+                    <td>6,770</td>
+                    <td><span class="ratio-badge ratio-buy">19.06</span></td>
+                    <td>20,267,781</td>
+                    <td>1,063,424</td>
+                    <td>143.31</td>
+                </tr>
+            
+                <tr>
+                    <td class="symbol">مداران</td>
+                    <td>داده‌پردازي‌ايران‌</td>
+                    <td>9,380</td>
+                    <td><span class="ratio-badge ratio-buy">12.86</span></td>
+                    <td>4,120,470</td>
+                    <td>320,470</td>
+                    <td>55.53</td>
+                </tr>
+            
+                <tr>
+                    <td class="symbol">چكاوه</td>
+                    <td>صنايع‌كاغذسازي‌كاوه‌</td>
+                    <td>11,450</td>
+                    <td><span class="ratio-badge ratio-buy">8.59</span></td>
+                    <td>4,924,576</td>
+                    <td>573,576</td>
+                    <td>56.39</td>
+                </tr>
+            
+                <tr>
+                    <td class="symbol">پكوير</td>
+                    <td>كوير تاير</td>
+                    <td>3,600</td>
+                    <td><span class="ratio-badge ratio-buy">6.41</span></td>
+                    <td>30,400,212</td>
+                    <td>4,746,134</td>
+                    <td>118.08</td>
+                </tr>
+            
+                <tr>
+                    <td class="symbol">نوري</td>
+                    <td>پتروشيمي نوري</td>
+                    <td>46,400</td>
+                    <td><span class="ratio-badge ratio-buy">5.57</span></td>
+                    <td>34,270,554</td>
+                    <td>6,154,611</td>
+                    <td>1629.13</td>
+                </tr>
+            
+                </tbody>
+            </table>
+        
+            </div>
+        
+            <div class="section sell">
+                <h2>🔴 SAFE_SELL — سهام امن برای فروش</h2>
+                <div class="empty">هیچ نمادی در این دسته نیست</div>
+            </div>
+        
+            <div class="section queue">
+                <h2>🟡 QUEUE_BUY — صف خرید</h2>
+                
+            <table>
+                <thead>
+                    <tr>
+                        <th>نماد</th>
+                        <th>نام شرکت</th>
+                        <th>قیمت</th>
+                        <th>نسبت</th>
+                        <th>خرید حقیقی</th>
+                        <th>فروش حقیقی</th>
+                        <th>ارزش (میلیارد)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    
+                <tr>
+                    <td class="symbol">غزنجان</td>
+                    <td>شير پاستوريزه پگاه زنجان</td>
+                    <td>6,928</td>
+                    <td><span class="ratio-badge ratio-queue">9999.00</span></td>
+                    <td>173,088,136</td>
+                    <td>0</td>
+                    <td>1199.87</td>
+                </tr>
+            
+                </tbody>
+            </table>
+        
+            </div>
+        
+
+    <div class="footer">
+        Smart Bourse © 2026 — Mehdi Jalali
+        <br>
+        این گزارش فقط برای کمک به تصمیم‌گیری است، نه جایگزین آن.
+    </div>
+</div>
+</body>
+</html>

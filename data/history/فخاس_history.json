@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260901,
+        "open_price": 2990.0,
+        "high_price": 3046.0,
+        "low_price": 2870.0,
+        "close_price": 2975.0,
+        "volume": 80715923.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260831,
+        "open_price": 2890.0,
+        "high_price": 3047.0,
+        "low_price": 2883.0,
+        "close_price": 2958.0,
+        "volume": 103918989.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260829,
+        "open_price": 2940.0,
+        "high_price": 2988.0,
+        "low_price": 2903.0,
+        "close_price": 2972.0,
+        "volume": 136079621.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260826,
+        "open_price": 2902.0,
+        "high_price": 2902.0,
+        "low_price": 2880.0,
+        "close_price": 2901.0,
+        "volume": 64788685.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260825,
+        "open_price": 2800.0,
+        "high_price": 2821.0,
+        "low_price": 2739.0,
+        "close_price": 2818.0,
+        "volume": 91959613.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260824,
+        "open_price": 2730.0,
+        "high_price": 2741.0,
+        "low_price": 2700.0,
+        "close_price": 2739.0,
+        "volume": 106662239.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260823,
+        "open_price": 2673.0,
+        "high_price": 2673.0,
+        "low_price": 2595.0,
+        "close_price": 2662.0,
+        "volume": 121987876.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260822,
+        "open_price": 2597.0,
+        "high_price": 2597.0,
+        "low_price": 2570.0,
+        "close_price": 2596.0,
+        "volume": 60251017.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260819,
+        "open_price": 2555.0,
+        "high_price": 2575.0,
+        "low_price": 2501.0,
+        "close_price": 2522.0,
+        "volume": 44167822.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260818,
+        "open_price": 2666.0,
+        "high_price": 2666.0,
+        "low_price": 2555.0,
+        "close_price": 2578.0,
+        "volume": 52420280.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260817,
+        "open_price": 2737.0,
+        "high_price": 2737.0,
+        "low_price": 2581.0,
+        "close_price": 2634.0,
+        "volume": 84957279.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260816,
+        "open_price": 2690.0,
+        "high_price": 2690.0,
+        "low_price": 2620.0,
+        "close_price": 2660.0,
+        "volume": 20984361.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260815,
+        "open_price": 2660.0,
+        "high_price": 2660.0,
+        "low_price": 2525.0,
+        "close_price": 2612.0,
+        "volume": 37886641.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260811,
+        "open_price": 2588.0,
+        "high_price": 2588.0,
+        "low_price": 2526.0,
+        "close_price": 2585.0,
+        "volume": 66390859.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260810,
+        "open_price": 2420.0,
+        "high_price": 2523.0,
+        "low_price": 2377.0,
+        "close_price": 2513.0,
+        "volume": 90123545.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260809,
+        "open_price": 2528.0,
+        "high_price": 2528.0,
+        "low_price": 2382.0,
+        "close_price": 2450.0,
+        "volume": 72601597.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260808,
+        "open_price": 2455.0,
+        "high_price": 2455.0,
+        "low_price": 2455.0,
+        "close_price": 2455.0,
+        "volume": 16152089.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260805,
+        "open_price": 2384.0,
+        "high_price": 2384.0,
+        "low_price": 2384.0,
+        "close_price": 2384.0,
+        "volume": 33512941.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260803,
+        "open_price": 2300.0,
+        "high_price": 2317.0,
+        "low_price": 2299.0,
+        "close_price": 2315.0,
+        "volume": 51712066.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260802,
+        "open_price": 2243.0,
+        "high_price": 2297.0,
+        "low_price": 2208.0,
+        "close_price": 2250.0,
+        "volume": 53792419.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260801,
+        "open_price": 2242.0,
+        "high_price": 2290.0,
+        "low_price": 2233.0,
+        "close_price": 2244.0,
+        "volume": 55840271.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260729,
+        "open_price": 2389.0,
+        "high_price": 2389.0,
+        "low_price": 2282.0,
+        "close_price": 2302.0,
+        "volume": 36035446.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260728,
+        "open_price": 2356.0,
+        "high_price": 2356.0,
+        "low_price": 2304.0,
+        "close_price": 2352.0,
+        "volume": 93955693.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260727,
+        "open_price": 2288.0,
+        "high_price": 2288.0,
+        "low_price": 2288.0,
+        "close_price": 2288.0,
+        "volume": 35106116.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260726,
+        "open_price": 2222.0,
+        "high_price": 2222.0,
+        "low_price": 2222.0,
+        "close_price": 2222.0,
+        "volume": 14383545.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260725,
+        "open_price": 2159.0,
+        "high_price": 2159.0,
+        "low_price": 2114.0,
+        "close_price": 2158.0,
+        "volume": 29149308.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260722,
+        "open_price": 2098.0,
+        "high_price": 2098.0,
+        "low_price": 2060.0,
+        "close_price": 2097.0,
+        "volume": 46384219.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260721,
+        "open_price": 2037.0,
+        "high_price": 2037.0,
+        "low_price": 2037.0,
+        "close_price": 2037.0,
+        "volume": 4183839.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260720,
+        "open_price": 1978.0,
+        "high_price": 1978.0,
+        "low_price": 1970.0,
+        "close_price": 1978.0,
+        "volume": 10094308.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260719,
+        "open_price": 1830.0,
+        "high_price": 1927.0,
+        "low_price": 1830.0,
+        "close_price": 1921.0,
+        "volume": 34779655.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260718,
+        "open_price": 1869.0,
+        "high_price": 1898.0,
+        "low_price": 1869.0,
+        "close_price": 1871.0,
+        "volume": 60248252.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260715,
+        "open_price": 1926.0,
+        "high_price": 1999.0,
+        "low_price": 1896.0,
+        "close_price": 1926.0,
+        "volume": 18788174.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260714,
+        "open_price": 1935.0,
+        "high_price": 1988.0,
+        "low_price": 1915.0,
+        "close_price": 1944.0,
+        "volume": 14945263.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260713,
+        "open_price": 1972.0,
+        "high_price": 2020.0,
+        "low_price": 1972.0,
+        "close_price": 1974.0,
+        "volume": 70717676.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260712,
+        "open_price": 2032.0,
+        "high_price": 2032.0,
+        "low_price": 2032.0,
+        "close_price": 2032.0,
+        "volume": 10994797.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260711,
+        "open_price": 2100.0,
+        "high_price": 2111.0,
+        "low_price": 2040.0,
+        "close_price": 2094.0,
+        "volume": 68343181.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260708,
+        "open_price": 2066.0,
+        "high_price": 2066.0,
+        "low_price": 1948.0,
+        "close_price": 2050.0,
+        "volume": 74362909.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260707,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2006.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260701,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2066.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260630,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2066.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260629,
+        "open_price": 2052.0,
+        "high_price": 2067.0,
+        "low_price": 2020.0,
+        "close_price": 2066.0,
+        "volume": 30890654.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260628,
+        "open_price": 2055.0,
+        "high_price": 2055.0,
+        "low_price": 1997.0,
+        "close_price": 2007.0,
+        "volume": 37398020.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260627,
+        "open_price": 2067.0,
+        "high_price": 2088.0,
+        "low_price": 2036.0,
+        "close_price": 2058.0,
+        "volume": 17765108.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260623,
+        "open_price": 2000.0,
+        "high_price": 2089.0,
+        "low_price": 2000.0,
+        "close_price": 2036.0,
+        "volume": 43165877.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260622,
+        "open_price": 2061.0,
+        "high_price": 2106.0,
+        "low_price": 2044.0,
+        "close_price": 2047.0,
+        "volume": 23396117.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260621,
+        "open_price": 2117.0,
+        "high_price": 2119.0,
+        "low_price": 2106.0,
+        "close_price": 2107.0,
+        "volume": 52090098.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260620,
+        "open_price": 2241.0,
+        "high_price": 2274.0,
+        "low_price": 2158.0,
+        "close_price": 2171.0,
+        "volume": 30993737.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260617,
+        "open_price": 2223.0,
+        "high_price": 2253.0,
+        "low_price": 2223.0,
+        "close_price": 2224.0,
+        "volume": 52477161.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260616,
+        "open_price": 2383.0,
+        "high_price": 2383.0,
+        "low_price": 2245.0,
+        "close_price": 2291.0,
+        "volume": 99532463.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260615,
+        "open_price": 2314.0,
+        "high_price": 2314.0,
+        "low_price": 2314.0,
+        "close_price": 2314.0,
+        "volume": 17572967.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260614,
+        "open_price": 2247.0,
+        "high_price": 2247.0,
+        "low_price": 2247.0,
+        "close_price": 2247.0,
+        "volume": 11255570.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260613,
+        "open_price": 2182.0,
+        "high_price": 2182.0,
+        "low_price": 2182.0,
+        "close_price": 2182.0,
+        "volume": 10861388.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260610,
+        "open_price": 2167.0,
+        "high_price": 2167.0,
+        "low_price": 2085.0,
+        "close_price": 2119.0,
+        "volume": 34628069.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260609,
+        "open_price": 2080.0,
+        "high_price": 2129.0,
+        "low_price": 2080.0,
+        "close_price": 2115.0,
+        "volume": 7741825.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260608,
+        "open_price": 2067.0,
+        "high_price": 2128.0,
+        "low_price": 2067.0,
+        "close_price": 2067.0,
+        "volume": 9894868.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260607,
+        "open_price": 2129.0,
+        "high_price": 2140.0,
+        "low_price": 2081.0,
+        "close_price": 2130.0,
+        "volume": 37158784.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260606,
+        "open_price": 2070.0,
+        "high_price": 2126.0,
+        "low_price": 2070.0,
+        "close_price": 2078.0,
+        "volume": 53675596.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260603,
+        "open_price": 2146.0,
+        "high_price": 2147.0,
+        "low_price": 2133.0,
+        "close_price": 2133.0,
+        "volume": 14965811.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260602,
+        "open_price": 2210.0,
+        "high_price": 2259.0,
+        "low_price": 2162.0,
+        "close_price": 2198.0,
+        "volume": 67570604.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260601,
+        "open_price": 2277.0,
+        "high_price": 2277.0,
+        "low_price": 2145.0,
+        "close_price": 2228.0,
+        "volume": 103333424.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260531,
+        "open_price": 2211.0,
+        "high_price": 2211.0,
+        "low_price": 2211.0,
+        "close_price": 2211.0,
+        "volume": 20554732.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260530,
+        "open_price": 2148.0,
+        "high_price": 2148.0,
+        "low_price": 2102.0,
+        "close_price": 2147.0,
+        "volume": 30098886.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260526,
+        "open_price": 2090.0,
+        "high_price": 2150.0,
+        "low_price": 2041.0,
+        "close_price": 2086.0,
+        "volume": 77820740.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260525,
+        "open_price": 2113.0,
+        "high_price": 2113.0,
+        "low_price": 2052.0,
+        "close_price": 2104.0,
+        "volume": 158393943.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260524,
+        "open_price": 2020.0,
+        "high_price": 2080.0,
+        "low_price": 2020.0,
+        "close_price": 2052.0,
+        "volume": 309065312.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260523,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260520,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260519,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2066.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2066.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2066.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2066.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2066.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2066.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2066.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2066.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2066.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2066.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2066.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2066.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2066.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2066.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2066.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2066.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2066.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2066.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2066.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260225,
+        "open_price": 2021.0,
+        "high_price": 2117.0,
+        "low_price": 2021.0,
+        "close_price": 2066.0,
+        "volume": 3584733.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260224,
+        "open_price": 2131.0,
+        "high_price": 2131.0,
+        "low_price": 2021.0,
+        "close_price": 2060.0,
+        "volume": 3081679.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260223,
+        "open_price": 2040.0,
+        "high_price": 2129.0,
+        "low_price": 2040.0,
+        "close_price": 2078.0,
+        "volume": 6550967.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260222,
+        "open_price": 2113.0,
+        "high_price": 2113.0,
+        "low_price": 2059.0,
+        "close_price": 2071.0,
+        "volume": 6502151.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260221,
+        "open_price": 2140.0,
+        "high_price": 2140.0,
+        "low_price": 2113.0,
+        "close_price": 2114.0,
+        "volume": 13120043.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260218,
+        "open_price": 2177.0,
+        "high_price": 2228.0,
+        "low_price": 2150.0,
+        "close_price": 2178.0,
+        "volume": 12875058.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260217,
+        "open_price": 2180.0,
+        "high_price": 2199.0,
+        "low_price": 2148.0,
+        "close_price": 2176.0,
+        "volume": 3213655.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260216,
+        "open_price": 2139.0,
+        "high_price": 2183.0,
+        "low_price": 2122.0,
+        "close_price": 2148.0,
+        "volume": 6568307.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260215,
+        "open_price": 2163.0,
+        "high_price": 2163.0,
+        "low_price": 2113.0,
+        "close_price": 2127.0,
+        "volume": 11948684.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260214,
+        "open_price": 2182.0,
+        "high_price": 2210.0,
+        "low_price": 2139.0,
+        "close_price": 2157.0,
+        "volume": 8554535.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260210,
+        "open_price": 2142.0,
+        "high_price": 2196.0,
+        "low_price": 2136.0,
+        "close_price": 2157.0,
+        "volume": 5524097.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260209,
+        "open_price": 2190.0,
+        "high_price": 2209.0,
+        "low_price": 2120.0,
+        "close_price": 2134.0,
+        "volume": 26026083.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260208,
+        "open_price": 2249.0,
+        "high_price": 2266.0,
+        "low_price": 2148.0,
+        "close_price": 2185.0,
+        "volume": 23371605.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260207,
+        "open_price": 2182.0,
+        "high_price": 2217.0,
+        "low_price": 2171.0,
+        "close_price": 2214.0,
+        "volume": 20259735.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260203,
+        "open_price": 2238.0,
+        "high_price": 2239.0,
+        "low_price": 2130.0,
+        "close_price": 2153.0,
+        "volume": 20341372.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260202,
+        "open_price": 2210.0,
+        "high_price": 2260.0,
+        "low_price": 2171.0,
+        "close_price": 2195.0,
+        "volume": 17269618.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260201,
+        "open_price": 2198.0,
+        "high_price": 2238.0,
+        "low_price": 2188.0,
+        "close_price": 2203.0,
+        "volume": 17308809.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260131,
+        "open_price": 2279.0,
+        "high_price": 2279.0,
+        "low_price": 2163.0,
+        "close_price": 2191.0,
+        "volume": 26456036.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260128,
+        "open_price": 2224.0,
+        "high_price": 2282.0,
+        "low_price": 2224.0,
+        "close_price": 2229.0,
+        "volume": 52092801.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260127,
+        "open_price": 2292.0,
+        "high_price": 2292.0,
+        "low_price": 2292.0,
+        "close_price": 2292.0,
+        "volume": 7069361.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260126,
+        "open_price": 2362.0,
+        "high_price": 2362.0,
+        "low_price": 2362.0,
+        "close_price": 2362.0,
+        "volume": 1062657.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260125,
+        "open_price": 2435.0,
+        "high_price": 2435.0,
+        "low_price": 2435.0,
+        "close_price": 2435.0,
+        "volume": 2977516.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260124,
+        "open_price": 2589.0,
+        "high_price": 2589.0,
+        "low_price": 2497.0,
+        "close_price": 2510.0,
+        "volume": 31833908.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260121,
+        "open_price": 2552.0,
+        "high_price": 2601.0,
+        "low_price": 2520.0,
+        "close_price": 2574.0,
+        "volume": 20245787.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260120,
+        "open_price": 2590.0,
+        "high_price": 2590.0,
+        "low_price": 2513.0,
+        "close_price": 2526.0,
+        "volume": 20129842.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260119,
+        "open_price": 2633.0,
+        "high_price": 2633.0,
+        "low_price": 2502.0,
+        "close_price": 2590.0,
+        "volume": 18673743.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260118,
+        "open_price": 2523.0,
+        "high_price": 2560.0,
+        "low_price": 2508.0,
+        "close_price": 2557.0,
+        "volume": 23486014.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260114,
+        "open_price": 2485.0,
+        "high_price": 2501.0,
+        "low_price": 2485.0,
+        "close_price": 2486.0,
+        "volume": 72984369.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260113,
+        "open_price": 2585.0,
+        "high_price": 2689.0,
+        "low_price": 2553.0,
+        "close_price": 2561.0,
+        "volume": 56071231.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260112,
+        "open_price": 2630.0,
+        "high_price": 2654.0,
+        "low_price": 2581.0,
+        "close_price": 2631.0,
+        "volume": 18470890.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260111,
+        "open_price": 2599.0,
+        "high_price": 2670.0,
+        "low_price": 2552.0,
+        "close_price": 2577.0,
+        "volume": 60283095.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260110,
+        "open_price": 2630.0,
+        "high_price": 2678.0,
+        "low_price": 2630.0,
+        "close_price": 2630.0,
+        "volume": 58334683.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260107,
+        "open_price": 2741.0,
+        "high_price": 2741.0,
+        "low_price": 2663.0,
+        "close_price": 2711.0,
+        "volume": 81776406.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260106,
+        "open_price": 2662.0,
+        "high_price": 2662.0,
+        "low_price": 2662.0,
+        "close_price": 2662.0,
+        "volume": 39974544.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260105,
+        "open_price": 2583.0,
+        "high_price": 2585.0,
+        "low_price": 2579.0,
+        "close_price": 2585.0,
+        "volume": 33916312.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20260104,
+        "open_price": 2545.0,
+        "high_price": 2590.0,
+        "low_price": 2498.0,
+        "close_price": 2510.0,
+        "volume": 55818910.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251231,
+        "open_price": 2557.0,
+        "high_price": 2625.0,
+        "low_price": 2557.0,
+        "close_price": 2575.0,
+        "volume": 75306326.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251230,
+        "open_price": 2636.0,
+        "high_price": 2636.0,
+        "low_price": 2636.0,
+        "close_price": 2636.0,
+        "volume": 7262402.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251229,
+        "open_price": 2820.0,
+        "high_price": 2820.0,
+        "low_price": 2712.0,
+        "close_price": 2717.0,
+        "volume": 25327382.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251228,
+        "open_price": 2779.0,
+        "high_price": 2875.0,
+        "low_price": 2757.0,
+        "close_price": 2795.0,
+        "volume": 52525080.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251227,
+        "open_price": 2950.0,
+        "high_price": 2950.0,
+        "low_price": 2812.0,
+        "close_price": 2842.0,
+        "volume": 106609145.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251224,
+        "open_price": 2862.0,
+        "high_price": 2915.0,
+        "low_price": 2831.0,
+        "close_price": 2898.0,
+        "volume": 81642372.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251223,
+        "open_price": 2750.0,
+        "high_price": 2861.0,
+        "low_price": 2716.0,
+        "close_price": 2831.0,
+        "volume": 45142455.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251222,
+        "open_price": 2786.0,
+        "high_price": 2786.0,
+        "low_price": 2714.0,
+        "close_price": 2778.0,
+        "volume": 223688836.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251221,
+        "open_price": 2705.0,
+        "high_price": 2705.0,
+        "low_price": 2705.0,
+        "close_price": 2705.0,
+        "volume": 44770224.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251220,
+        "open_price": 2627.0,
+        "high_price": 2627.0,
+        "low_price": 2627.0,
+        "close_price": 2627.0,
+        "volume": 76502422.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251217,
+        "open_price": 2551.0,
+        "high_price": 2551.0,
+        "low_price": 2551.0,
+        "close_price": 2551.0,
+        "volume": 43417445.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251216,
+        "open_price": 2477.0,
+        "high_price": 2477.0,
+        "low_price": 2455.0,
+        "close_price": 2477.0,
+        "volume": 157933400.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251215,
+        "open_price": 2439.0,
+        "high_price": 2439.0,
+        "low_price": 2439.0,
+        "close_price": 2405.0,
+        "volume": 20959520.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251214,
+        "open_price": 2418.0,
+        "high_price": 2418.0,
+        "low_price": 2418.0,
+        "close_price": 2368.0,
+        "volume": 11261666.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251213,
+        "open_price": 2395.0,
+        "high_price": 2395.0,
+        "low_price": 2395.0,
+        "close_price": 2348.0,
+        "volume": 12565792.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251210,
+        "open_price": 2341.0,
+        "high_price": 2356.0,
+        "low_price": 2310.0,
+        "close_price": 2326.0,
+        "volume": 22467435.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251209,
+        "open_price": 2330.0,
+        "high_price": 2330.0,
+        "low_price": 2265.0,
+        "close_price": 2288.0,
+        "volume": 9063555.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251208,
+        "open_price": 2300.0,
+        "high_price": 2341.0,
+        "low_price": 2289.0,
+        "close_price": 2285.0,
+        "volume": 10723673.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251207,
+        "open_price": 2273.0,
+        "high_price": 2273.0,
+        "low_price": 2260.0,
+        "close_price": 2273.0,
+        "volume": 47655160.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251206,
+        "open_price": 2200.0,
+        "high_price": 2254.0,
+        "low_price": 2193.0,
+        "close_price": 2207.0,
+        "volume": 12523281.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251203,
+        "open_price": 2212.0,
+        "high_price": 2212.0,
+        "low_price": 2178.0,
+        "close_price": 2189.0,
+        "volume": 21835036.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251202,
+        "open_price": 2223.0,
+        "high_price": 2240.0,
+        "low_price": 2173.0,
+        "close_price": 2191.0,
+        "volume": 30996302.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251201,
+        "open_price": 2248.0,
+        "high_price": 2248.0,
+        "low_price": 2172.0,
+        "close_price": 2202.0,
+        "volume": 17783076.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251130,
+        "open_price": 2247.0,
+        "high_price": 2247.0,
+        "low_price": 2185.0,
+        "close_price": 2207.0,
+        "volume": 19241750.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251129,
+        "open_price": 2229.0,
+        "high_price": 2263.0,
+        "low_price": 2200.0,
+        "close_price": 2212.0,
+        "volume": 18018115.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251126,
+        "open_price": 2222.0,
+        "high_price": 2248.0,
+        "low_price": 2172.0,
+        "close_price": 2208.0,
+        "volume": 27082570.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251125,
+        "open_price": 2257.0,
+        "high_price": 2280.0,
+        "low_price": 2211.0,
+        "close_price": 2222.0,
+        "volume": 5099314.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251123,
+        "open_price": 2253.0,
+        "high_price": 2260.0,
+        "low_price": 2208.0,
+        "close_price": 2219.0,
+        "volume": 10437522.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251122,
+        "open_price": 2252.0,
+        "high_price": 2252.0,
+        "low_price": 2208.0,
+        "close_price": 2211.0,
+        "volume": 5068702.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251119,
+        "open_price": 2259.0,
+        "high_price": 2259.0,
+        "low_price": 2210.0,
+        "close_price": 2208.0,
+        "volume": 5716927.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251118,
+        "open_price": 2261.0,
+        "high_price": 2261.0,
+        "low_price": 2198.0,
+        "close_price": 2204.0,
+        "volume": 10025844.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251117,
+        "open_price": 2243.0,
+        "high_price": 2243.0,
+        "low_price": 2233.0,
+        "close_price": 2196.0,
+        "volume": 11005058.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251116,
+        "open_price": 2179.0,
+        "high_price": 2213.0,
+        "low_price": 2159.0,
+        "close_price": 2178.0,
+        "volume": 19873872.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251115,
+        "open_price": 2168.0,
+        "high_price": 2201.0,
+        "low_price": 2151.0,
+        "close_price": 2149.0,
+        "volume": 5146985.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251112,
+        "open_price": 2190.0,
+        "high_price": 2190.0,
+        "low_price": 2136.0,
+        "close_price": 2145.0,
+        "volume": 10787488.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251111,
+        "open_price": 2142.0,
+        "high_price": 2192.0,
+        "low_price": 2117.0,
+        "close_price": 2141.0,
+        "volume": 14449749.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251110,
+        "open_price": 2147.0,
+        "high_price": 2195.0,
+        "low_price": 2098.0,
+        "close_price": 2140.0,
+        "volume": 17977899.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251109,
+        "open_price": 2175.0,
+        "high_price": 2179.0,
+        "low_price": 2105.0,
+        "close_price": 2151.0,
+        "volume": 14611549.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251108,
+        "open_price": 2199.0,
+        "high_price": 2228.0,
+        "low_price": 2118.0,
+        "close_price": 2170.0,
+        "volume": 15558517.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251105,
+        "open_price": 2176.0,
+        "high_price": 2245.0,
+        "low_price": 2176.0,
+        "close_price": 2183.0,
+        "volume": 37328901.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251104,
+        "open_price": 2243.0,
+        "high_price": 2243.0,
+        "low_price": 2243.0,
+        "close_price": 2243.0,
+        "volume": 46793205.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251103,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2312.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251102,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2312.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251101,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2312.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251029,
+        "open_price": 2324.0,
+        "high_price": 2324.0,
+        "low_price": 2320.0,
+        "close_price": 2312.0,
+        "volume": 32787913.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251028,
+        "open_price": 2255.0,
+        "high_price": 2280.0,
+        "low_price": 2230.0,
+        "close_price": 2257.0,
+        "volume": 27127882.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251027,
+        "open_price": 2229.0,
+        "high_price": 2250.0,
+        "low_price": 2200.0,
+        "close_price": 2214.0,
+        "volume": 22080097.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251026,
+        "open_price": 2200.0,
+        "high_price": 2247.0,
+        "low_price": 2168.0,
+        "close_price": 2209.0,
+        "volume": 12461021.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251025,
+        "open_price": 2246.0,
+        "high_price": 2259.0,
+        "low_price": 2196.0,
+        "close_price": 2213.0,
+        "volume": 31422992.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251022,
+        "open_price": 2279.0,
+        "high_price": 2316.0,
+        "low_price": 2228.0,
+        "close_price": 2263.0,
+        "volume": 19152580.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251021,
+        "open_price": 2250.0,
+        "high_price": 2280.0,
+        "low_price": 2205.0,
+        "close_price": 2261.0,
+        "volume": 10907879.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251020,
+        "open_price": 2280.0,
+        "high_price": 2310.0,
+        "low_price": 2224.0,
+        "close_price": 2270.0,
+        "volume": 15473932.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251019,
+        "open_price": 2375.0,
+        "high_price": 2375.0,
+        "low_price": 2280.0,
+        "close_price": 2292.0,
+        "volume": 46778339.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251018,
+        "open_price": 2360.0,
+        "high_price": 2382.0,
+        "low_price": 2303.0,
+        "close_price": 2350.0,
+        "volume": 70962007.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251015,
+        "open_price": 2330.0,
+        "high_price": 2384.0,
+        "low_price": 2285.0,
+        "close_price": 2321.0,
+        "volume": 130086039.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251014,
+        "open_price": 2375.0,
+        "high_price": 2375.0,
+        "low_price": 2375.0,
+        "close_price": 2355.0,
+        "volume": 28640944.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251013,
+        "open_price": 2333.0,
+        "high_price": 2333.0,
+        "low_price": 2333.0,
+        "close_price": 2306.0,
+        "volume": 23746044.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251012,
+        "open_price": 2266.0,
+        "high_price": 2266.0,
+        "low_price": 2266.0,
+        "close_price": 2266.0,
+        "volume": 68738802.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251011,
+        "open_price": 2200.0,
+        "high_price": 2200.0,
+        "low_price": 2200.0,
+        "close_price": 2200.0,
+        "volume": 59264916.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251008,
+        "open_price": 2163.0,
+        "high_price": 2163.0,
+        "low_price": 2163.0,
+        "close_price": 2136.0,
+        "volume": 23086977.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251007,
+        "open_price": 2090.0,
+        "high_price": 2150.0,
+        "low_price": 2090.0,
+        "close_price": 2100.0,
+        "volume": 9655073.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251006,
+        "open_price": 2120.0,
+        "high_price": 2120.0,
+        "low_price": 2061.0,
+        "close_price": 2088.0,
+        "volume": 20391836.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251005,
+        "open_price": 2116.0,
+        "high_price": 2116.0,
+        "low_price": 2021.0,
+        "close_price": 2059.0,
+        "volume": 12557799.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251004,
+        "open_price": 2080.0,
+        "high_price": 2089.0,
+        "low_price": 2068.0,
+        "close_price": 2055.0,
+        "volume": 18109581.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20251001,
+        "open_price": 2070.0,
+        "high_price": 2070.0,
+        "low_price": 1976.0,
+        "close_price": 2029.0,
+        "volume": 5748113.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250930,
+        "open_price": 2100.0,
+        "high_price": 2100.0,
+        "low_price": 1992.0,
+        "close_price": 2037.0,
+        "volume": 13752243.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250929,
+        "open_price": 2090.0,
+        "high_price": 2090.0,
+        "low_price": 2070.0,
+        "close_price": 2053.0,
+        "volume": 15703356.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250928,
+        "open_price": 2054.0,
+        "high_price": 2061.0,
+        "low_price": 2040.0,
+        "close_price": 2030.0,
+        "volume": 19935665.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250927,
+        "open_price": 1942.0,
+        "high_price": 2030.0,
+        "low_price": 1942.0,
+        "close_price": 2001.0,
+        "volume": 7081696.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250924,
+        "open_price": 1943.0,
+        "high_price": 1943.0,
+        "low_price": 1943.0,
+        "close_price": 2002.0,
+        "volume": 754072.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250923,
+        "open_price": 1999.0,
+        "high_price": 1999.0,
+        "low_price": 1950.0,
+        "close_price": 2003.0,
+        "volume": 4543747.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250922,
+        "open_price": 1969.0,
+        "high_price": 2020.0,
+        "low_price": 1969.0,
+        "close_price": 2010.0,
+        "volume": 13425771.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250921,
+        "open_price": 1973.0,
+        "high_price": 2030.0,
+        "low_price": 1973.0,
+        "close_price": 2029.0,
+        "volume": 3804388.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250920,
+        "open_price": 1978.0,
+        "high_price": 1979.0,
+        "low_price": 1978.0,
+        "close_price": 2034.0,
+        "volume": 3595755.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250917,
+        "open_price": 1992.0,
+        "high_price": 1996.0,
+        "low_price": 1990.0,
+        "close_price": 2039.0,
+        "volume": 7889118.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250916,
+        "open_price": 2010.0,
+        "high_price": 2038.0,
+        "low_price": 1999.0,
+        "close_price": 2051.0,
+        "volume": 6411384.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250915,
+        "open_price": 2118.0,
+        "high_price": 2118.0,
+        "low_price": 2005.0,
+        "close_price": 2060.0,
+        "volume": 6244037.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250914,
+        "open_price": 2077.0,
+        "high_price": 2113.0,
+        "low_price": 2050.0,
+        "close_price": 2067.0,
+        "volume": 4276483.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250913,
+        "open_price": 2060.0,
+        "high_price": 2060.0,
+        "low_price": 2017.0,
+        "close_price": 2066.0,
+        "volume": 2817470.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250909,
+        "open_price": 2091.0,
+        "high_price": 2094.0,
+        "low_price": 2034.0,
+        "close_price": 2069.0,
+        "volume": 12833089.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250908,
+        "open_price": 2106.0,
+        "high_price": 2126.0,
+        "low_price": 2065.0,
+        "close_price": 2072.0,
+        "volume": 11649178.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250907,
+        "open_price": 2012.0,
+        "high_price": 2064.0,
+        "low_price": 2010.0,
+        "close_price": 2065.0,
+        "volume": 7278442.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250906,
+        "open_price": 2086.0,
+        "high_price": 2086.0,
+        "low_price": 2018.0,
+        "close_price": 2071.0,
+        "volume": 7417499.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250903,
+        "open_price": 2136.0,
+        "high_price": 2136.0,
+        "low_price": 2062.0,
+        "close_price": 2080.0,
+        "volume": 2336280.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250902,
+        "open_price": 2135.0,
+        "high_price": 2135.0,
+        "low_price": 2100.0,
+        "close_price": 2080.0,
+        "volume": 4429239.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250831,
+        "open_price": 2120.0,
+        "high_price": 2120.0,
+        "low_price": 2042.0,
+        "close_price": 2073.0,
+        "volume": 1386075.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250830,
+        "open_price": 2021.0,
+        "high_price": 2064.0,
+        "low_price": 2019.0,
+        "close_price": 2074.0,
+        "volume": 4625752.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250827,
+        "open_price": 2018.0,
+        "high_price": 2120.0,
+        "low_price": 2018.0,
+        "close_price": 2080.0,
+        "volume": 2893339.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250826,
+        "open_price": 2021.0,
+        "high_price": 2089.0,
+        "low_price": 2021.0,
+        "close_price": 2080.0,
+        "volume": 2960365.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250825,
+        "open_price": 2041.0,
+        "high_price": 2041.0,
+        "low_price": 2030.0,
+        "close_price": 2083.0,
+        "volume": 5565604.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250823,
+        "open_price": 2041.0,
+        "high_price": 2055.0,
+        "low_price": 2041.0,
+        "close_price": 2092.0,
+        "volume": 1164527.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250820,
+        "open_price": 2099.0,
+        "high_price": 2131.0,
+        "low_price": 2078.0,
+        "close_price": 2093.0,
+        "volume": 6659951.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250819,
+        "open_price": 2074.0,
+        "high_price": 2074.0,
+        "low_price": 2042.0,
+        "close_price": 2092.0,
+        "volume": 8019128.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250818,
+        "open_price": 2198.0,
+        "high_price": 2198.0,
+        "low_price": 2074.0,
+        "close_price": 2105.0,
+        "volume": 26761376.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250817,
+        "open_price": 2138.0,
+        "high_price": 2199.0,
+        "low_price": 2137.0,
+        "close_price": 2138.0,
+        "volume": 3527472.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250816,
+        "open_price": 2084.0,
+        "high_price": 2087.0,
+        "low_price": 2084.0,
+        "close_price": 2135.0,
+        "volume": 8265454.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250813,
+        "open_price": 2084.0,
+        "high_price": 2084.0,
+        "low_price": 2084.0,
+        "close_price": 2148.0,
+        "volume": 218377.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250812,
+        "open_price": 2087.0,
+        "high_price": 2087.0,
+        "low_price": 2087.0,
+        "close_price": 2148.0,
+        "volume": 2131614.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250811,
+        "open_price": 2095.0,
+        "high_price": 2095.0,
+        "low_price": 2092.0,
+        "close_price": 2151.0,
+        "volume": 3198171.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250810,
+        "open_price": 2184.0,
+        "high_price": 2188.0,
+        "low_price": 2128.0,
+        "close_price": 2156.0,
+        "volume": 32211226.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250809,
+        "open_price": 2208.0,
+        "high_price": 2209.0,
+        "low_price": 2146.0,
+        "close_price": 2193.0,
+        "volume": 14785678.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250806,
+        "open_price": 2150.0,
+        "high_price": 2155.0,
+        "low_price": 2150.0,
+        "close_price": 2212.0,
+        "volume": 2491418.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250805,
+        "open_price": 2182.0,
+        "high_price": 2250.0,
+        "low_price": 2173.0,
+        "close_price": 2216.0,
+        "volume": 101430982.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250804,
+        "open_price": 2239.0,
+        "high_price": 2275.0,
+        "low_price": 2239.0,
+        "close_price": 2240.0,
+        "volume": 271316432.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250803,
+        "open_price": 2285.0,
+        "high_price": 2285.0,
+        "low_price": 2285.0,
+        "close_price": 2308.0,
+        "volume": 26747508.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250802,
+        "open_price": 2344.0,
+        "high_price": 2344.0,
+        "low_price": 2344.0,
+        "close_price": 2355.0,
+        "volume": 33784983.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250730,
+        "open_price": 2344.0,
+        "high_price": 2344.0,
+        "low_price": 2344.0,
+        "close_price": 2416.0,
+        "volume": 72555.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250729,
+        "open_price": 2344.0,
+        "high_price": 2344.0,
+        "low_price": 2344.0,
+        "close_price": 2416.0,
+        "volume": 47734.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250728,
+        "open_price": 2398.0,
+        "high_price": 2398.0,
+        "low_price": 2346.0,
+        "close_price": 2416.0,
+        "volume": 968434.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250727,
+        "open_price": 2363.0,
+        "high_price": 2434.0,
+        "low_price": 2362.0,
+        "close_price": 2418.0,
+        "volume": 13322001.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250726,
+        "open_price": 2370.0,
+        "high_price": 2486.0,
+        "low_price": 2370.0,
+        "close_price": 2435.0,
+        "volume": 13403249.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250723,
+        "open_price": 2494.0,
+        "high_price": 2494.0,
+        "low_price": 2396.0,
+        "close_price": 2443.0,
+        "volume": 27638241.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250722,
+        "open_price": 2490.0,
+        "high_price": 2499.0,
+        "low_price": 2441.0,
+        "close_price": 2470.0,
+        "volume": 19010573.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250721,
+        "open_price": 2523.0,
+        "high_price": 2529.0,
+        "low_price": 2443.0,
+        "close_price": 2477.0,
+        "volume": 32962536.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250720,
+        "open_price": 2590.0,
+        "high_price": 2590.0,
+        "low_price": 2469.0,
+        "close_price": 2518.0,
+        "volume": 26824662.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250719,
+        "open_price": 2568.0,
+        "high_price": 2580.0,
+        "low_price": 2512.0,
+        "close_price": 2545.0,
+        "volume": 38012794.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250716,
+        "open_price": 2522.0,
+        "high_price": 2597.0,
+        "low_price": 2521.0,
+        "close_price": 2556.0,
+        "volume": 24505734.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250715,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2517.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250714,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2517.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250713,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2517.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250712,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2517.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250709,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2797.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250708,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2797.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250707,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2797.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250702,
+        "open_price": 2760.0,
+        "high_price": 2879.0,
+        "low_price": 2760.0,
+        "close_price": 2797.0,
+        "volume": 64106806.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250701,
+        "open_price": 2845.0,
+        "high_price": 2845.0,
+        "low_price": 2845.0,
+        "close_price": 2845.0,
+        "volume": 74150479.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250630,
+        "open_price": 2845.0,
+        "high_price": 2845.0,
+        "low_price": 2845.0,
+        "close_price": 2932.0,
+        "volume": 173709.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250629,
+        "open_price": 2909.0,
+        "high_price": 2909.0,
+        "low_price": 2909.0,
+        "close_price": 2932.0,
+        "volume": 29278070.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250628,
+        "open_price": 2951.0,
+        "high_price": 2951.0,
+        "low_price": 2951.0,
+        "close_price": 2998.0,
+        "volume": 18913242.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3042.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3042.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3042.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3042.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3042.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3042.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3042.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3042.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250611,
+        "open_price": 3115.0,
+        "high_price": 3115.0,
+        "low_price": 3007.0,
+        "close_price": 3042.0,
+        "volume": 7133990.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250610,
+        "open_price": 3095.0,
+        "high_price": 3095.0,
+        "low_price": 3008.0,
+        "close_price": 3044.0,
+        "volume": 15491124.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250609,
+        "open_price": 3120.0,
+        "high_price": 3134.0,
+        "low_price": 2985.0,
+        "close_price": 3051.0,
+        "volume": 22609706.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250608,
+        "open_price": 3039.0,
+        "high_price": 3120.0,
+        "low_price": 3005.0,
+        "close_price": 3064.0,
+        "volume": 22849786.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250607,
+        "open_price": 3148.0,
+        "high_price": 3148.0,
+        "low_price": 3054.0,
+        "close_price": 3087.0,
+        "volume": 26509224.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250603,
+        "open_price": 3148.0,
+        "high_price": 3148.0,
+        "low_price": 3140.0,
+        "close_price": 3148.0,
+        "volume": 184874564.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250602,
+        "open_price": 3057.0,
+        "high_price": 3057.0,
+        "low_price": 3057.0,
+        "close_price": 3057.0,
+        "volume": 45516200.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250601,
+        "open_price": 3041.0,
+        "high_price": 3041.0,
+        "low_price": 3041.0,
+        "close_price": 2968.0,
+        "volume": 6820349.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250531,
+        "open_price": 3002.0,
+        "high_price": 3002.0,
+        "low_price": 3002.0,
+        "close_price": 2953.0,
+        "volume": 17284639.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250528,
+        "open_price": 2969.0,
+        "high_price": 2969.0,
+        "low_price": 2969.0,
+        "close_price": 2915.0,
+        "volume": 14669035.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250527,
+        "open_price": 2892.0,
+        "high_price": 2904.0,
+        "low_price": 2828.0,
+        "close_price": 2883.0,
+        "volume": 7795362.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250526,
+        "open_price": 2841.0,
+        "high_price": 2900.0,
+        "low_price": 2828.0,
+        "close_price": 2892.0,
+        "volume": 10787867.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250525,
+        "open_price": 2968.0,
+        "high_price": 2968.0,
+        "low_price": 2841.0,
+        "close_price": 2915.0,
+        "volume": 6617174.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250524,
+        "open_price": 2898.0,
+        "high_price": 2985.0,
+        "low_price": 2898.0,
+        "close_price": 2928.0,
+        "volume": 29244462.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250521,
+        "open_price": 2958.0,
+        "high_price": 2958.0,
+        "low_price": 2958.0,
+        "close_price": 2987.0,
+        "volume": 26255528.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250520,
+        "open_price": 3057.0,
+        "high_price": 3057.0,
+        "low_price": 2968.0,
+        "close_price": 3049.0,
+        "volume": 5771252.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250519,
+        "open_price": 3098.0,
+        "high_price": 3098.0,
+        "low_price": 3008.0,
+        "close_price": 3059.0,
+        "volume": 18739374.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250518,
+        "open_price": 3103.0,
+        "high_price": 3173.0,
+        "low_price": 3021.0,
+        "close_price": 3101.0,
+        "volume": 8029335.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250517,
+        "open_price": 3111.0,
+        "high_price": 3200.0,
+        "low_price": 3057.0,
+        "close_price": 3114.0,
+        "volume": 6742868.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250514,
+        "open_price": 3192.0,
+        "high_price": 3192.0,
+        "low_price": 3061.0,
+        "close_price": 3117.0,
+        "volume": 16362155.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250513,
+        "open_price": 3229.0,
+        "high_price": 3229.0,
+        "low_price": 3086.0,
+        "close_price": 3155.0,
+        "volume": 9283909.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250512,
+        "open_price": 3200.0,
+        "high_price": 3248.0,
+        "low_price": 3140.0,
+        "close_price": 3166.0,
+        "volume": 11805802.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250511,
+        "open_price": 3210.0,
+        "high_price": 3210.0,
+        "low_price": 3088.0,
+        "close_price": 3158.0,
+        "volume": 10941319.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250510,
+        "open_price": 3274.0,
+        "high_price": 3274.0,
+        "low_price": 3109.0,
+        "close_price": 3183.0,
+        "volume": 7508795.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250507,
+        "open_price": 3250.0,
+        "high_price": 3256.0,
+        "low_price": 3210.0,
+        "close_price": 3188.0,
+        "volume": 10756698.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250506,
+        "open_price": 3229.0,
+        "high_price": 3236.0,
+        "low_price": 3108.0,
+        "close_price": 3162.0,
+        "volume": 12660761.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250505,
+        "open_price": 3150.0,
+        "high_price": 3201.0,
+        "low_price": 3113.0,
+        "close_price": 3142.0,
+        "volume": 16714821.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250504,
+        "open_price": 3113.0,
+        "high_price": 3140.0,
+        "low_price": 3076.0,
+        "close_price": 3108.0,
+        "volume": 11063850.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250503,
+        "open_price": 3090.0,
+        "high_price": 3197.0,
+        "low_price": 3054.0,
+        "close_price": 3113.0,
+        "volume": 13729833.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250430,
+        "open_price": 3190.0,
+        "high_price": 3190.0,
+        "low_price": 3190.0,
+        "close_price": 3111.0,
+        "volume": 5697262.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250429,
+        "open_price": 3170.0,
+        "high_price": 3175.0,
+        "low_price": 3090.0,
+        "close_price": 3098.0,
+        "volume": 7287511.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250428,
+        "open_price": 3128.0,
+        "high_price": 3142.0,
+        "low_price": 3100.0,
+        "close_price": 3083.0,
+        "volume": 14066733.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250427,
+        "open_price": 3090.0,
+        "high_price": 3138.0,
+        "low_price": 2983.0,
+        "close_price": 3051.0,
+        "volume": 12460783.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250426,
+        "open_price": 3105.0,
+        "high_price": 3105.0,
+        "low_price": 3035.0,
+        "close_price": 3060.0,
+        "volume": 21720463.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250423,
+        "open_price": 3069.0,
+        "high_price": 3070.0,
+        "low_price": 2940.0,
+        "close_price": 3015.0,
+        "volume": 22123213.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250422,
+        "open_price": 2974.0,
+        "high_price": 3036.0,
+        "low_price": 2872.0,
+        "close_price": 2981.0,
+        "volume": 22410455.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250421,
+        "open_price": 2980.0,
+        "high_price": 2981.0,
+        "low_price": 2868.0,
+        "close_price": 2948.0,
+        "volume": 29496540.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250420,
+        "open_price": 2882.0,
+        "high_price": 2896.0,
+        "low_price": 2882.0,
+        "close_price": 2895.0,
+        "volume": 54306752.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250419,
+        "open_price": 2793.0,
+        "high_price": 2870.0,
+        "low_price": 2793.0,
+        "close_price": 2812.0,
+        "volume": 44802010.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250416,
+        "open_price": 2825.0,
+        "high_price": 2833.0,
+        "low_price": 2813.0,
+        "close_price": 2879.0,
+        "volume": 9599007.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250415,
+        "open_price": 2919.0,
+        "high_price": 2919.0,
+        "low_price": 2834.0,
+        "close_price": 2899.0,
+        "volume": 10160304.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250414,
+        "open_price": 2981.0,
+        "high_price": 2981.0,
+        "low_price": 2867.0,
+        "close_price": 2921.0,
+        "volume": 20612248.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250413,
+        "open_price": 2916.0,
+        "high_price": 2940.0,
+        "low_price": 2908.0,
+        "close_price": 2931.0,
+        "volume": 50658666.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250412,
+        "open_price": 2934.0,
+        "high_price": 2934.0,
+        "low_price": 2850.0,
+        "close_price": 2855.0,
+        "volume": 39060909.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250409,
+        "open_price": 2993.0,
+        "high_price": 2993.0,
+        "low_price": 2904.0,
+        "close_price": 2938.0,
+        "volume": 26888918.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250408,
+        "open_price": 3045.0,
+        "high_price": 3046.0,
+        "low_price": 2913.0,
+        "close_price": 2993.0,
+        "volume": 13753359.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250407,
+        "open_price": 2998.0,
+        "high_price": 3059.0,
+        "low_price": 2998.0,
+        "close_price": 3003.0,
+        "volume": 40001333.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250406,
+        "open_price": 3002.0,
+        "high_price": 3002.0,
+        "low_price": 3002.0,
+        "close_price": 3090.0,
+        "volume": 1859380.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250405,
+        "open_price": 3012.0,
+        "high_price": 3012.0,
+        "low_price": 3012.0,
+        "close_price": 3094.0,
+        "volume": 4640419.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250330,
+        "open_price": 3023.0,
+        "high_price": 3023.0,
+        "low_price": 3023.0,
+        "close_price": 3105.0,
+        "volume": 4589293.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250329,
+        "open_price": 3027.0,
+        "high_price": 3027.0,
+        "low_price": 3027.0,
+        "close_price": 3116.0,
+        "volume": 1465298.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250326,
+        "open_price": 3033.0,
+        "high_price": 3033.0,
+        "low_price": 3033.0,
+        "close_price": 3120.0,
+        "volume": 2412934.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250325,
+        "open_price": 3041.0,
+        "high_price": 3043.0,
+        "low_price": 3040.0,
+        "close_price": 3126.0,
+        "volume": 2917261.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250318,
+        "open_price": 3081.0,
+        "high_price": 3089.0,
+        "low_price": 3081.0,
+        "close_price": 3133.0,
+        "volume": 16933967.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250317,
+        "open_price": 3173.0,
+        "high_price": 3173.0,
+        "low_price": 3089.0,
+        "close_price": 3176.0,
+        "volume": 3573287.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250316,
+        "open_price": 3189.0,
+        "high_price": 3189.0,
+        "low_price": 3094.0,
+        "close_price": 3184.0,
+        "volume": 3454337.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4689.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250312,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4689.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250311,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4689.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4689.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4689.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4689.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250305,
+        "open_price": 4697.0,
+        "high_price": 4699.0,
+        "low_price": 4570.0,
+        "close_price": 4689.0,
+        "volume": 6623996.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250304,
+        "open_price": 4580.0,
+        "high_price": 4710.0,
+        "low_price": 4580.0,
+        "close_price": 4702.0,
+        "volume": 4067173.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250303,
+        "open_price": 4587.0,
+        "high_price": 4620.0,
+        "low_price": 4587.0,
+        "close_price": 4713.0,
+        "volume": 2869551.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250302,
+        "open_price": 4730.0,
+        "high_price": 4799.0,
+        "low_price": 4700.0,
+        "close_price": 4728.0,
+        "volume": 10578787.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250301,
+        "open_price": 4699.0,
+        "high_price": 4743.0,
+        "low_price": 4656.0,
+        "close_price": 4731.0,
+        "volume": 9969020.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250226,
+        "open_price": 4757.0,
+        "high_price": 4788.0,
+        "low_price": 4650.0,
+        "close_price": 4742.0,
+        "volume": 6023538.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250225,
+        "open_price": 4750.0,
+        "high_price": 4847.0,
+        "low_price": 4714.0,
+        "close_price": 4757.0,
+        "volume": 13572599.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250224,
+        "open_price": 4700.0,
+        "high_price": 4803.0,
+        "low_price": 4664.0,
+        "close_price": 4733.0,
+        "volume": 21234403.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250223,
+        "open_price": 4600.0,
+        "high_price": 4720.0,
+        "low_price": 4600.0,
+        "close_price": 4665.0,
+        "volume": 9711990.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250222,
+        "open_price": 4563.0,
+        "high_price": 4699.0,
+        "low_price": 4477.0,
+        "close_price": 4658.0,
+        "volume": 29363325.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250219,
+        "open_price": 4550.0,
+        "high_price": 4628.0,
+        "low_price": 4517.0,
+        "close_price": 4563.0,
+        "volume": 5095612.0
+    },
+    {
+        "symbol": "فخاس",
+        "trade_date": 20250218,
+        "open_price": 4563.0,
+        "high_price": 4626.0,
+        "low_price": 4461.0,
+        "close_price": 4555.0,
+        "volume": 4141823.0
+    }
+]

@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "خودران",
+        "trade_date": 20260901,
+        "open_price": 15725.0,
+        "high_price": 15725.0,
+        "low_price": 14809.0,
+        "close_price": 15456.0,
+        "volume": 49441482.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260831,
+        "open_price": 15110.0,
+        "high_price": 15528.0,
+        "low_price": 15110.0,
+        "close_price": 15267.0,
+        "volume": 46319858.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260829,
+        "open_price": 15730.0,
+        "high_price": 15750.0,
+        "low_price": 15301.0,
+        "close_price": 15577.0,
+        "volume": 27385631.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260826,
+        "open_price": 15138.0,
+        "high_price": 15331.0,
+        "low_price": 15005.0,
+        "close_price": 15300.0,
+        "volume": 26072752.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260825,
+        "open_price": 14863.0,
+        "high_price": 15122.0,
+        "low_price": 14520.0,
+        "close_price": 14885.0,
+        "volume": 30680258.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260824,
+        "open_price": 14360.0,
+        "high_price": 14768.0,
+        "low_price": 14340.0,
+        "close_price": 14700.0,
+        "volume": 55959302.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260823,
+        "open_price": 14384.0,
+        "high_price": 14384.0,
+        "low_price": 14002.0,
+        "close_price": 14338.0,
+        "volume": 58904843.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260822,
+        "open_price": 13967.0,
+        "high_price": 13967.0,
+        "low_price": 13900.0,
+        "close_price": 13966.0,
+        "volume": 19549040.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260819,
+        "open_price": 13100.0,
+        "high_price": 13726.0,
+        "low_price": 13100.0,
+        "close_price": 13561.0,
+        "volume": 25355221.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260818,
+        "open_price": 13279.0,
+        "high_price": 13676.0,
+        "low_price": 12881.0,
+        "close_price": 13328.0,
+        "volume": 73143553.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260817,
+        "open_price": 13281.0,
+        "high_price": 13281.0,
+        "low_price": 13077.0,
+        "close_price": 13279.0,
+        "volume": 26913277.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260816,
+        "open_price": 12400.0,
+        "high_price": 12941.0,
+        "low_price": 12400.0,
+        "close_price": 12895.0,
+        "volume": 29793967.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260815,
+        "open_price": 12870.0,
+        "high_price": 12870.0,
+        "low_price": 12487.0,
+        "close_price": 12565.0,
+        "volume": 44389244.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260811,
+        "open_price": 12998.0,
+        "high_price": 13090.0,
+        "low_price": 12604.0,
+        "close_price": 12873.0,
+        "volume": 56781337.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260810,
+        "open_price": 12450.0,
+        "high_price": 13047.0,
+        "low_price": 12401.0,
+        "close_price": 12886.0,
+        "volume": 74293484.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260809,
+        "open_price": 13000.0,
+        "high_price": 13100.0,
+        "low_price": 12716.0,
+        "close_price": 12742.0,
+        "volume": 67191308.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260808,
+        "open_price": 13109.0,
+        "high_price": 13109.0,
+        "low_price": 13109.0,
+        "close_price": 13109.0,
+        "volume": 21515373.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260805,
+        "open_price": 12730.0,
+        "high_price": 12730.0,
+        "low_price": 12610.0,
+        "close_price": 12728.0,
+        "volume": 25702842.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260803,
+        "open_price": 12340.0,
+        "high_price": 12372.0,
+        "low_price": 12250.0,
+        "close_price": 12360.0,
+        "volume": 20073496.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260802,
+        "open_price": 12053.0,
+        "high_price": 12053.0,
+        "low_price": 11830.0,
+        "close_price": 12012.0,
+        "volume": 40253842.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260801,
+        "open_price": 11253.0,
+        "high_price": 11809.0,
+        "low_price": 11253.0,
+        "close_price": 11702.0,
+        "volume": 52556405.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260729,
+        "open_price": 11320.0,
+        "high_price": 11549.0,
+        "low_price": 11265.0,
+        "close_price": 11466.0,
+        "volume": 17460509.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260728,
+        "open_price": 11320.0,
+        "high_price": 11586.0,
+        "low_price": 11301.0,
+        "close_price": 11489.0,
+        "volume": 23172139.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260727,
+        "open_price": 11288.0,
+        "high_price": 11288.0,
+        "low_price": 11131.0,
+        "close_price": 11249.0,
+        "volume": 44266225.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260726,
+        "open_price": 10960.0,
+        "high_price": 10960.0,
+        "low_price": 10960.0,
+        "close_price": 10960.0,
+        "volume": 5172726.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260725,
+        "open_price": 10694.0,
+        "high_price": 10694.0,
+        "low_price": 10533.0,
+        "close_price": 10641.0,
+        "volume": 10387789.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260722,
+        "open_price": 10420.0,
+        "high_price": 10630.0,
+        "low_price": 10155.0,
+        "close_price": 10383.0,
+        "volume": 36459018.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260721,
+        "open_price": 10270.0,
+        "high_price": 10501.0,
+        "low_price": 10261.0,
+        "close_price": 10469.0,
+        "volume": 14726043.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260720,
+        "open_price": 10200.0,
+        "high_price": 10254.0,
+        "low_price": 9960.0,
+        "close_price": 10196.0,
+        "volume": 24122091.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260719,
+        "open_price": 9901.0,
+        "high_price": 10100.0,
+        "low_price": 9830.0,
+        "close_price": 9956.0,
+        "volume": 25051132.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260718,
+        "open_price": 10131.0,
+        "high_price": 10256.0,
+        "low_price": 10131.0,
+        "close_price": 10131.0,
+        "volume": 15916009.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260715,
+        "open_price": 10550.0,
+        "high_price": 10800.0,
+        "low_price": 10344.0,
+        "close_price": 10444.0,
+        "volume": 43530603.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260714,
+        "open_price": 10677.0,
+        "high_price": 10800.0,
+        "low_price": 10656.0,
+        "close_price": 10663.0,
+        "volume": 51421639.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260713,
+        "open_price": 10984.0,
+        "high_price": 11100.0,
+        "low_price": 10984.0,
+        "close_price": 10985.0,
+        "volume": 39381399.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260712,
+        "open_price": 11323.0,
+        "high_price": 11323.0,
+        "low_price": 11323.0,
+        "close_price": 11323.0,
+        "volume": 2364136.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260711,
+        "open_price": 11672.0,
+        "high_price": 11890.0,
+        "low_price": 11672.0,
+        "close_price": 11673.0,
+        "volume": 15688948.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260708,
+        "open_price": 11931.0,
+        "high_price": 12321.0,
+        "low_price": 11931.0,
+        "close_price": 12032.0,
+        "volume": 129249791.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260707,
+        "open_price": 12302.0,
+        "high_price": 12302.0,
+        "low_price": 12116.0,
+        "close_price": 12300.0,
+        "volume": 30142533.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260701,
+        "open_price": 12004.0,
+        "high_price": 12004.0,
+        "low_price": 11670.0,
+        "close_price": 11944.0,
+        "volume": 132591442.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260630,
+        "open_price": 11630.0,
+        "high_price": 11848.0,
+        "low_price": 11310.0,
+        "close_price": 11655.0,
+        "volume": 87271866.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260629,
+        "open_price": 11437.0,
+        "high_price": 11660.0,
+        "low_price": 11437.0,
+        "close_price": 11503.0,
+        "volume": 106129362.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260628,
+        "open_price": 11790.0,
+        "high_price": 11790.0,
+        "low_price": 11790.0,
+        "close_price": 11790.0,
+        "volume": 6059811.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260627,
+        "open_price": 12300.0,
+        "high_price": 12488.0,
+        "low_price": 12130.0,
+        "close_price": 12154.0,
+        "volume": 31305379.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260623,
+        "open_price": 12580.0,
+        "high_price": 12779.0,
+        "low_price": 12276.0,
+        "close_price": 12505.0,
+        "volume": 77250666.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260622,
+        "open_price": 12620.0,
+        "high_price": 12700.0,
+        "low_price": 12453.0,
+        "close_price": 12478.0,
+        "volume": 69238406.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260621,
+        "open_price": 12875.0,
+        "high_price": 13180.0,
+        "low_price": 12432.0,
+        "close_price": 12838.0,
+        "volume": 141164413.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260620,
+        "open_price": 13181.0,
+        "high_price": 13181.0,
+        "low_price": 12415.0,
+        "close_price": 12816.0,
+        "volume": 218944777.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260617,
+        "open_price": 12501.0,
+        "high_price": 13095.0,
+        "low_price": 12333.0,
+        "close_price": 12798.0,
+        "volume": 151316110.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260616,
+        "open_price": 12985.0,
+        "high_price": 12985.0,
+        "low_price": 12315.0,
+        "close_price": 12714.0,
+        "volume": 216605606.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260615,
+        "open_price": 12608.0,
+        "high_price": 12608.0,
+        "low_price": 12608.0,
+        "close_price": 12608.0,
+        "volume": 8756294.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260614,
+        "open_price": 12241.0,
+        "high_price": 12241.0,
+        "low_price": 12241.0,
+        "close_price": 12241.0,
+        "volume": 47669771.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260613,
+        "open_price": 11885.0,
+        "high_price": 11885.0,
+        "low_price": 11885.0,
+        "close_price": 11885.0,
+        "volume": 31368225.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260610,
+        "open_price": 11400.0,
+        "high_price": 11843.0,
+        "low_price": 11168.0,
+        "close_price": 11539.0,
+        "volume": 135912276.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260609,
+        "open_price": 11499.0,
+        "high_price": 11499.0,
+        "low_price": 11499.0,
+        "close_price": 11499.0,
+        "volume": 24712695.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260608,
+        "open_price": 11165.0,
+        "high_price": 11165.0,
+        "low_price": 11165.0,
+        "close_price": 11165.0,
+        "volume": 2922186.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260607,
+        "open_price": 11390.0,
+        "high_price": 11518.0,
+        "low_price": 11390.0,
+        "close_price": 11510.0,
+        "volume": 44054945.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260606,
+        "open_price": 11010.0,
+        "high_price": 11358.0,
+        "low_price": 10867.0,
+        "close_price": 11183.0,
+        "volume": 46086554.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260603,
+        "open_price": 11020.0,
+        "high_price": 11200.0,
+        "low_price": 11001.0,
+        "close_price": 11038.0,
+        "volume": 43688541.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260602,
+        "open_price": 11231.0,
+        "high_price": 11560.0,
+        "low_price": 11125.0,
+        "close_price": 11341.0,
+        "volume": 108590795.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260601,
+        "open_price": 11775.0,
+        "high_price": 11800.0,
+        "low_price": 11219.0,
+        "close_price": 11469.0,
+        "volume": 117856591.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260531,
+        "open_price": 11594.0,
+        "high_price": 11594.0,
+        "low_price": 11321.0,
+        "close_price": 11543.0,
+        "volume": 61533909.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260530,
+        "open_price": 11257.0,
+        "high_price": 11257.0,
+        "low_price": 11257.0,
+        "close_price": 11257.0,
+        "volume": 11949734.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260526,
+        "open_price": 10531.0,
+        "high_price": 11144.0,
+        "low_price": 10531.0,
+        "close_price": 10930.0,
+        "volume": 103671827.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260525,
+        "open_price": 11084.0,
+        "high_price": 11084.0,
+        "low_price": 10550.0,
+        "close_price": 10856.0,
+        "volume": 106894507.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260524,
+        "open_price": 10762.0,
+        "high_price": 10762.0,
+        "low_price": 10762.0,
+        "close_price": 10762.0,
+        "volume": 11176520.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260523,
+        "open_price": 10449.0,
+        "high_price": 10449.0,
+        "low_price": 10449.0,
+        "close_price": 10449.0,
+        "volume": 6209494.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260520,
+        "open_price": 10000.0,
+        "high_price": 10200.0,
+        "low_price": 9995.0,
+        "close_price": 10145.0,
+        "volume": 28045581.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260519,
+        "open_price": 9507.0,
+        "high_price": 10095.0,
+        "low_price": 9507.0,
+        "close_price": 9903.0,
+        "volume": 56445023.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9801.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260225,
+        "open_price": 9945.0,
+        "high_price": 9945.0,
+        "low_price": 9670.0,
+        "close_price": 9801.0,
+        "volume": 10503627.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260224,
+        "open_price": 10015.0,
+        "high_price": 10015.0,
+        "low_price": 9713.0,
+        "close_price": 9757.0,
+        "volume": 8248790.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260223,
+        "open_price": 10000.0,
+        "high_price": 10240.0,
+        "low_price": 9770.0,
+        "close_price": 10013.0,
+        "volume": 11332577.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260222,
+        "open_price": 10011.0,
+        "high_price": 10011.0,
+        "low_price": 10011.0,
+        "close_price": 10011.0,
+        "volume": 3059628.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260221,
+        "open_price": 10320.0,
+        "high_price": 10320.0,
+        "low_price": 10320.0,
+        "close_price": 10320.0,
+        "volume": 2050289.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260218,
+        "open_price": 10950.0,
+        "high_price": 10950.0,
+        "low_price": 10550.0,
+        "close_price": 10630.0,
+        "volume": 21897104.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260217,
+        "open_price": 11010.0,
+        "high_price": 11010.0,
+        "low_price": 10760.0,
+        "close_price": 10870.0,
+        "volume": 26815794.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260216,
+        "open_price": 10800.0,
+        "high_price": 10950.0,
+        "low_price": 10510.0,
+        "close_price": 10870.0,
+        "volume": 47538206.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260215,
+        "open_price": 10710.0,
+        "high_price": 10790.0,
+        "low_price": 10600.0,
+        "close_price": 10640.0,
+        "volume": 30837313.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260214,
+        "open_price": 10990.0,
+        "high_price": 10990.0,
+        "low_price": 10450.0,
+        "close_price": 10920.0,
+        "volume": 41963249.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260210,
+        "open_price": 10670.0,
+        "high_price": 10670.0,
+        "low_price": 10670.0,
+        "close_price": 10670.0,
+        "volume": 7386689.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260209,
+        "open_price": 10380.0,
+        "high_price": 10500.0,
+        "low_price": 10360.0,
+        "close_price": 10360.0,
+        "volume": 8871852.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260208,
+        "open_price": 10930.0,
+        "high_price": 10930.0,
+        "low_price": 10420.0,
+        "close_price": 10680.0,
+        "volume": 10928881.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260207,
+        "open_price": 10630.0,
+        "high_price": 10630.0,
+        "low_price": 10510.0,
+        "close_price": 10620.0,
+        "volume": 3564168.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260203,
+        "open_price": 10580.0,
+        "high_price": 10710.0,
+        "low_price": 10190.0,
+        "close_price": 10330.0,
+        "volume": 10095846.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260202,
+        "open_price": 10430.0,
+        "high_price": 10540.0,
+        "low_price": 10370.0,
+        "close_price": 10500.0,
+        "volume": 4789590.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260201,
+        "open_price": 10200.0,
+        "high_price": 10450.0,
+        "low_price": 10140.0,
+        "close_price": 10240.0,
+        "volume": 11468092.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260131,
+        "open_price": 10780.0,
+        "high_price": 10780.0,
+        "low_price": 10410.0,
+        "close_price": 10450.0,
+        "volume": 19094346.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260128,
+        "open_price": 10710.0,
+        "high_price": 11010.0,
+        "low_price": 10670.0,
+        "close_price": 10730.0,
+        "volume": 64114878.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260127,
+        "open_price": 10990.0,
+        "high_price": 10990.0,
+        "low_price": 10990.0,
+        "close_price": 10990.0,
+        "volume": 8729314.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260126,
+        "open_price": 11320.0,
+        "high_price": 11320.0,
+        "low_price": 11320.0,
+        "close_price": 11320.0,
+        "volume": 1820714.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260125,
+        "open_price": 11670.0,
+        "high_price": 11670.0,
+        "low_price": 11670.0,
+        "close_price": 11670.0,
+        "volume": 2101614.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260124,
+        "open_price": 12020.0,
+        "high_price": 12240.0,
+        "low_price": 12020.0,
+        "close_price": 12030.0,
+        "volume": 8373932.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260121,
+        "open_price": 12390.0,
+        "high_price": 12390.0,
+        "low_price": 12270.0,
+        "close_price": 12390.0,
+        "volume": 57203080.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260120,
+        "open_price": 11760.0,
+        "high_price": 12330.0,
+        "low_price": 11630.0,
+        "close_price": 12030.0,
+        "volume": 59854049.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260119,
+        "open_price": 12030.0,
+        "high_price": 12330.0,
+        "low_price": 11720.0,
+        "close_price": 11980.0,
+        "volume": 58628061.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260118,
+        "open_price": 12000.0,
+        "high_price": 12270.0,
+        "low_price": 11880.0,
+        "close_price": 12080.0,
+        "volume": 44106908.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260114,
+        "open_price": 12060.0,
+        "high_price": 12070.0,
+        "low_price": 11890.0,
+        "close_price": 11920.0,
+        "volume": 7614335.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260113,
+        "open_price": 12130.0,
+        "high_price": 12270.0,
+        "low_price": 12100.0,
+        "close_price": 12250.0,
+        "volume": 119398493.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260112,
+        "open_price": 11870.0,
+        "high_price": 12020.0,
+        "low_price": 11700.0,
+        "close_price": 11920.0,
+        "volume": 40708241.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260111,
+        "open_price": 11610.0,
+        "high_price": 12000.0,
+        "low_price": 11610.0,
+        "close_price": 11670.0,
+        "volume": 32745268.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260110,
+        "open_price": 11960.0,
+        "high_price": 12080.0,
+        "low_price": 11960.0,
+        "close_price": 11960.0,
+        "volume": 18736393.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260107,
+        "open_price": 12700.0,
+        "high_price": 12700.0,
+        "low_price": 12260.0,
+        "close_price": 12320.0,
+        "volume": 33820443.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260106,
+        "open_price": 12520.0,
+        "high_price": 12650.0,
+        "low_price": 12520.0,
+        "close_price": 12630.0,
+        "volume": 23500015.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260105,
+        "open_price": 12080.0,
+        "high_price": 12310.0,
+        "low_price": 12080.0,
+        "close_price": 12290.0,
+        "volume": 22351196.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20260104,
+        "open_price": 12080.0,
+        "high_price": 12400.0,
+        "low_price": 11890.0,
+        "close_price": 11960.0,
+        "volume": 17093506.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251231,
+        "open_price": 11980.0,
+        "high_price": 12540.0,
+        "low_price": 11980.0,
+        "close_price": 12250.0,
+        "volume": 34541903.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251230,
+        "open_price": 12350.0,
+        "high_price": 12370.0,
+        "low_price": 12350.0,
+        "close_price": 12350.0,
+        "volume": 2593751.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251229,
+        "open_price": 12990.0,
+        "high_price": 12990.0,
+        "low_price": 12610.0,
+        "close_price": 12730.0,
+        "volume": 26987074.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251228,
+        "open_price": 12920.0,
+        "high_price": 13210.0,
+        "low_price": 12760.0,
+        "close_price": 13000.0,
+        "volume": 38073143.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251227,
+        "open_price": 12970.0,
+        "high_price": 13170.0,
+        "low_price": 12760.0,
+        "close_price": 12960.0,
+        "volume": 35704346.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251224,
+        "open_price": 12640.0,
+        "high_price": 12820.0,
+        "low_price": 12600.0,
+        "close_price": 12790.0,
+        "volume": 26254979.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251223,
+        "open_price": 12330.0,
+        "high_price": 12560.0,
+        "low_price": 12240.0,
+        "close_price": 12450.0,
+        "volume": 17533987.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251222,
+        "open_price": 12350.0,
+        "high_price": 12600.0,
+        "low_price": 12150.0,
+        "close_price": 12350.0,
+        "volume": 29107492.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251221,
+        "open_price": 12350.0,
+        "high_price": 12520.0,
+        "low_price": 12160.0,
+        "close_price": 12320.0,
+        "volume": 20851265.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251220,
+        "open_price": 11990.0,
+        "high_price": 12290.0,
+        "low_price": 11990.0,
+        "close_price": 12250.0,
+        "volume": 16862915.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251217,
+        "open_price": 11860.0,
+        "high_price": 12070.0,
+        "low_price": 11840.0,
+        "close_price": 11940.0,
+        "volume": 10293959.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251216,
+        "open_price": 12050.0,
+        "high_price": 12240.0,
+        "low_price": 11750.0,
+        "close_price": 12070.0,
+        "volume": 27610351.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251215,
+        "open_price": 11570.0,
+        "high_price": 11970.0,
+        "low_price": 11570.0,
+        "close_price": 11890.0,
+        "volume": 18599184.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251214,
+        "open_price": 11610.0,
+        "high_price": 11720.0,
+        "low_price": 11400.0,
+        "close_price": 11630.0,
+        "volume": 16424556.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251213,
+        "open_price": 11630.0,
+        "high_price": 11780.0,
+        "low_price": 11550.0,
+        "close_price": 11700.0,
+        "volume": 18701670.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251210,
+        "open_price": 11360.0,
+        "high_price": 11530.0,
+        "low_price": 11130.0,
+        "close_price": 11440.0,
+        "volume": 25820947.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251209,
+        "open_price": 11020.0,
+        "high_price": 11220.0,
+        "low_price": 11020.0,
+        "close_price": 11200.0,
+        "volume": 31499759.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251208,
+        "open_price": 10620.0,
+        "high_price": 11030.0,
+        "low_price": 10620.0,
+        "close_price": 10900.0,
+        "volume": 26654430.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251207,
+        "open_price": 10950.0,
+        "high_price": 10990.0,
+        "low_price": 10600.0,
+        "close_price": 10800.0,
+        "volume": 24808488.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251206,
+        "open_price": 10660.0,
+        "high_price": 10910.0,
+        "low_price": 10650.0,
+        "close_price": 10840.0,
+        "volume": 21135845.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251203,
+        "open_price": 10630.0,
+        "high_price": 10660.0,
+        "low_price": 10540.0,
+        "close_price": 10600.0,
+        "volume": 14618972.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251202,
+        "open_price": 10370.0,
+        "high_price": 10690.0,
+        "low_price": 10310.0,
+        "close_price": 10560.0,
+        "volume": 32138592.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251201,
+        "open_price": 10350.0,
+        "high_price": 10510.0,
+        "low_price": 10300.0,
+        "close_price": 10400.0,
+        "volume": 18530394.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251130,
+        "open_price": 10270.0,
+        "high_price": 10330.0,
+        "low_price": 10150.0,
+        "close_price": 10260.0,
+        "volume": 9333841.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251129,
+        "open_price": 10480.0,
+        "high_price": 10550.0,
+        "low_price": 10260.0,
+        "close_price": 10330.0,
+        "volume": 17182119.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251126,
+        "open_price": 10700.0,
+        "high_price": 10740.0,
+        "low_price": 10470.0,
+        "close_price": 10570.0,
+        "volume": 39216993.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251125,
+        "open_price": 10680.0,
+        "high_price": 10860.0,
+        "low_price": 10600.0,
+        "close_price": 10790.0,
+        "volume": 22591456.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251123,
+        "open_price": 10280.0,
+        "high_price": 10650.0,
+        "low_price": 10260.0,
+        "close_price": 10550.0,
+        "volume": 42560939.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251122,
+        "open_price": 10360.0,
+        "high_price": 10390.0,
+        "low_price": 10230.0,
+        "close_price": 10340.0,
+        "volume": 11874814.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251119,
+        "open_price": 10200.0,
+        "high_price": 10340.0,
+        "low_price": 10200.0,
+        "close_price": 10270.0,
+        "volume": 10288331.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251118,
+        "open_price": 10270.0,
+        "high_price": 10350.0,
+        "low_price": 10170.0,
+        "close_price": 10240.0,
+        "volume": 14122667.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251117,
+        "open_price": 10520.0,
+        "high_price": 10560.0,
+        "low_price": 10250.0,
+        "close_price": 10450.0,
+        "volume": 27141274.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251116,
+        "open_price": 10300.0,
+        "high_price": 10530.0,
+        "low_price": 10210.0,
+        "close_price": 10380.0,
+        "volume": 23583160.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251115,
+        "open_price": 10450.0,
+        "high_price": 10450.0,
+        "low_price": 10230.0,
+        "close_price": 10310.0,
+        "volume": 8577915.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251112,
+        "open_price": 10060.0,
+        "high_price": 10390.0,
+        "low_price": 9980.0,
+        "close_price": 10230.0,
+        "volume": 22380796.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251111,
+        "open_price": 10150.0,
+        "high_price": 10190.0,
+        "low_price": 9900.0,
+        "close_price": 10110.0,
+        "volume": 11727535.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251110,
+        "open_price": 10100.0,
+        "high_price": 10210.0,
+        "low_price": 10060.0,
+        "close_price": 10100.0,
+        "volume": 17780718.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251109,
+        "open_price": 10520.0,
+        "high_price": 10550.0,
+        "low_price": 10350.0,
+        "close_price": 10370.0,
+        "volume": 12462222.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251108,
+        "open_price": 10750.0,
+        "high_price": 10800.0,
+        "low_price": 10420.0,
+        "close_price": 10670.0,
+        "volume": 32847569.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251105,
+        "open_price": 10530.0,
+        "high_price": 10750.0,
+        "low_price": 10520.0,
+        "close_price": 10630.0,
+        "volume": 38399071.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251104,
+        "open_price": 10720.0,
+        "high_price": 10950.0,
+        "low_price": 10630.0,
+        "close_price": 10820.0,
+        "volume": 47401554.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251103,
+        "open_price": 10890.0,
+        "high_price": 11090.0,
+        "low_price": 10820.0,
+        "close_price": 10950.0,
+        "volume": 107848337.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251102,
+        "open_price": 10640.0,
+        "high_price": 11050.0,
+        "low_price": 10620.0,
+        "close_price": 10890.0,
+        "volume": 76351279.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251101,
+        "open_price": 10810.0,
+        "high_price": 11000.0,
+        "low_price": 10610.0,
+        "close_price": 10870.0,
+        "volume": 70179086.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251029,
+        "open_price": 10450.0,
+        "high_price": 10850.0,
+        "low_price": 10290.0,
+        "close_price": 10680.0,
+        "volume": 109198563.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251028,
+        "open_price": 10650.0,
+        "high_price": 10740.0,
+        "low_price": 10360.0,
+        "close_price": 10540.0,
+        "volume": 78124850.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251027,
+        "open_price": 10470.0,
+        "high_price": 10740.0,
+        "low_price": 10310.0,
+        "close_price": 10550.0,
+        "volume": 91059892.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251026,
+        "open_price": 10340.0,
+        "high_price": 10590.0,
+        "low_price": 10230.0,
+        "close_price": 10440.0,
+        "volume": 37640559.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251025,
+        "open_price": 10450.0,
+        "high_price": 10460.0,
+        "low_price": 10200.0,
+        "close_price": 10330.0,
+        "volume": 23517122.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251022,
+        "open_price": 10500.0,
+        "high_price": 10600.0,
+        "low_price": 10220.0,
+        "close_price": 10490.0,
+        "volume": 37314820.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251021,
+        "open_price": 10270.0,
+        "high_price": 10590.0,
+        "low_price": 10140.0,
+        "close_price": 10360.0,
+        "volume": 54348857.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251020,
+        "open_price": 10410.0,
+        "high_price": 10690.0,
+        "low_price": 10310.0,
+        "close_price": 10450.0,
+        "volume": 75378174.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251019,
+        "open_price": 10770.0,
+        "high_price": 10770.0,
+        "low_price": 10420.0,
+        "close_price": 10620.0,
+        "volume": 80569778.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251018,
+        "open_price": 10400.0,
+        "high_price": 10550.0,
+        "low_price": 10400.0,
+        "close_price": 10530.0,
+        "volume": 49640762.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251015,
+        "open_price": 10210.0,
+        "high_price": 10490.0,
+        "low_price": 10130.0,
+        "close_price": 10250.0,
+        "volume": 86564262.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251014,
+        "open_price": 10290.0,
+        "high_price": 10530.0,
+        "low_price": 10160.0,
+        "close_price": 10440.0,
+        "volume": 93483738.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251013,
+        "open_price": 10360.0,
+        "high_price": 10410.0,
+        "low_price": 10000.0,
+        "close_price": 10230.0,
+        "volume": 78134121.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251012,
+        "open_price": 10020.0,
+        "high_price": 10120.0,
+        "low_price": 10020.0,
+        "close_price": 10120.0,
+        "volume": 29231093.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251011,
+        "open_price": 9710.0,
+        "high_price": 9920.0,
+        "low_price": 9510.0,
+        "close_price": 9830.0,
+        "volume": 47109865.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251008,
+        "open_price": 9760.0,
+        "high_price": 9810.0,
+        "low_price": 9320.0,
+        "close_price": 9640.0,
+        "volume": 79206097.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251007,
+        "open_price": 9300.0,
+        "high_price": 9630.0,
+        "low_price": 9190.0,
+        "close_price": 9590.0,
+        "volume": 68095270.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251006,
+        "open_price": 9200.0,
+        "high_price": 9520.0,
+        "low_price": 9100.0,
+        "close_price": 9350.0,
+        "volume": 81632440.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251005,
+        "open_price": 9250.0,
+        "high_price": 9300.0,
+        "low_price": 9110.0,
+        "close_price": 9250.0,
+        "volume": 57372660.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251004,
+        "open_price": 9030.0,
+        "high_price": 9030.0,
+        "low_price": 9030.0,
+        "close_price": 9030.0,
+        "volume": 10191116.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20251001,
+        "open_price": 8800.0,
+        "high_price": 8990.0,
+        "low_price": 8610.0,
+        "close_price": 8770.0,
+        "volume": 40105450.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250930,
+        "open_price": 8850.0,
+        "high_price": 9080.0,
+        "low_price": 8700.0,
+        "close_price": 8870.0,
+        "volume": 48549123.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250929,
+        "open_price": 8840.0,
+        "high_price": 8840.0,
+        "low_price": 8840.0,
+        "close_price": 8840.0,
+        "volume": 8078916.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250928,
+        "open_price": 8590.0,
+        "high_price": 8590.0,
+        "low_price": 8590.0,
+        "close_price": 8590.0,
+        "volume": 4420936.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250927,
+        "open_price": 8000.0,
+        "high_price": 8410.0,
+        "low_price": 8000.0,
+        "close_price": 8340.0,
+        "volume": 11153960.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250924,
+        "open_price": 8120.0,
+        "high_price": 8240.0,
+        "low_price": 8110.0,
+        "close_price": 8170.0,
+        "volume": 12890027.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250923,
+        "open_price": 8460.0,
+        "high_price": 8530.0,
+        "low_price": 8220.0,
+        "close_price": 8350.0,
+        "volume": 10553617.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250922,
+        "open_price": 8360.0,
+        "high_price": 8470.0,
+        "low_price": 8360.0,
+        "close_price": 8460.0,
+        "volume": 17230067.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250921,
+        "open_price": 8210.0,
+        "high_price": 8320.0,
+        "low_price": 8180.0,
+        "close_price": 8230.0,
+        "volume": 9725155.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250920,
+        "open_price": 8430.0,
+        "high_price": 8430.0,
+        "low_price": 8430.0,
+        "close_price": 8430.0,
+        "volume": 12348338.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250917,
+        "open_price": 8670.0,
+        "high_price": 8810.0,
+        "low_price": 8660.0,
+        "close_price": 8690.0,
+        "volume": 13283778.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250916,
+        "open_price": 8910.0,
+        "high_price": 9020.0,
+        "low_price": 8910.0,
+        "close_price": 8920.0,
+        "volume": 23894717.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250915,
+        "open_price": 9310.0,
+        "high_price": 9390.0,
+        "low_price": 8990.0,
+        "close_price": 9180.0,
+        "volume": 28628522.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250914,
+        "open_price": 8970.0,
+        "high_price": 9210.0,
+        "low_price": 8970.0,
+        "close_price": 9200.0,
+        "volume": 21004240.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250913,
+        "open_price": 8920.0,
+        "high_price": 9090.0,
+        "low_price": 8910.0,
+        "close_price": 8950.0,
+        "volume": 40193561.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250909,
+        "open_price": 9320.0,
+        "high_price": 9320.0,
+        "low_price": 8900.0,
+        "close_price": 9180.0,
+        "volume": 53331465.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250908,
+        "open_price": 9050.0,
+        "high_price": 9050.0,
+        "low_price": 9050.0,
+        "close_price": 9050.0,
+        "volume": 10688351.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250907,
+        "open_price": 8490.0,
+        "high_price": 8840.0,
+        "low_price": 8460.0,
+        "close_price": 8790.0,
+        "volume": 39674656.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250906,
+        "open_price": 8710.0,
+        "high_price": 8860.0,
+        "low_price": 8450.0,
+        "close_price": 8590.0,
+        "volume": 40591920.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250903,
+        "open_price": 8700.0,
+        "high_price": 8780.0,
+        "low_price": 8580.0,
+        "close_price": 8710.0,
+        "volume": 25152570.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250902,
+        "open_price": 8440.0,
+        "high_price": 8540.0,
+        "low_price": 8400.0,
+        "close_price": 8530.0,
+        "volume": 14190810.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250831,
+        "open_price": 8180.0,
+        "high_price": 8340.0,
+        "low_price": 8180.0,
+        "close_price": 8300.0,
+        "volume": 27674217.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250830,
+        "open_price": 8080.0,
+        "high_price": 8200.0,
+        "low_price": 8080.0,
+        "close_price": 8100.0,
+        "volume": 23239717.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250827,
+        "open_price": 8200.0,
+        "high_price": 8470.0,
+        "low_price": 8150.0,
+        "close_price": 8320.0,
+        "volume": 9218202.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250826,
+        "open_price": 8200.0,
+        "high_price": 8410.0,
+        "low_price": 8130.0,
+        "close_price": 8230.0,
+        "volume": 5864426.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250825,
+        "open_price": 8450.0,
+        "high_price": 8540.0,
+        "low_price": 8340.0,
+        "close_price": 8370.0,
+        "volume": 9520576.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250823,
+        "open_price": 8430.0,
+        "high_price": 8780.0,
+        "low_price": 8410.0,
+        "close_price": 8590.0,
+        "volume": 16722794.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250820,
+        "open_price": 8560.0,
+        "high_price": 8660.0,
+        "low_price": 8480.0,
+        "close_price": 8550.0,
+        "volume": 10790360.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250819,
+        "open_price": 8690.0,
+        "high_price": 8890.0,
+        "low_price": 8530.0,
+        "close_price": 8730.0,
+        "volume": 23679728.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250818,
+        "open_price": 8770.0,
+        "high_price": 8770.0,
+        "low_price": 8770.0,
+        "close_price": 8770.0,
+        "volume": 16559572.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250817,
+        "open_price": 8400.0,
+        "high_price": 8520.0,
+        "low_price": 8400.0,
+        "close_price": 8520.0,
+        "volume": 10866221.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250816,
+        "open_price": 8110.0,
+        "high_price": 8490.0,
+        "low_price": 8080.0,
+        "close_price": 8280.0,
+        "volume": 4905123.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250813,
+        "open_price": 8500.0,
+        "high_price": 8500.0,
+        "low_price": 8310.0,
+        "close_price": 8310.0,
+        "volume": 7111398.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250812,
+        "open_price": 8620.0,
+        "high_price": 8690.0,
+        "low_price": 8510.0,
+        "close_price": 8560.0,
+        "volume": 6657082.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250811,
+        "open_price": 8860.0,
+        "high_price": 8930.0,
+        "low_price": 8690.0,
+        "close_price": 8770.0,
+        "volume": 4856455.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250810,
+        "open_price": 9100.0,
+        "high_price": 9100.0,
+        "low_price": 8880.0,
+        "close_price": 8940.0,
+        "volume": 6623223.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250809,
+        "open_price": 8940.0,
+        "high_price": 9150.0,
+        "low_price": 8940.0,
+        "close_price": 9090.0,
+        "volume": 10530300.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250806,
+        "open_price": 8720.0,
+        "high_price": 9040.0,
+        "low_price": 8690.0,
+        "close_price": 8920.0,
+        "volume": 6239874.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250805,
+        "open_price": 9260.0,
+        "high_price": 9260.0,
+        "low_price": 8860.0,
+        "close_price": 8940.0,
+        "volume": 11221430.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250804,
+        "open_price": 8980.0,
+        "high_price": 9290.0,
+        "low_price": 8930.0,
+        "close_price": 9130.0,
+        "volume": 13683024.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250803,
+        "open_price": 8960.0,
+        "high_price": 9350.0,
+        "low_price": 8960.0,
+        "close_price": 9040.0,
+        "volume": 24125601.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250802,
+        "open_price": 9240.0,
+        "high_price": 9350.0,
+        "low_price": 9230.0,
+        "close_price": 9230.0,
+        "volume": 5251562.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250730,
+        "open_price": 9700.0,
+        "high_price": 9700.0,
+        "low_price": 9470.0,
+        "close_price": 9510.0,
+        "volume": 2911043.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250729,
+        "open_price": 9850.0,
+        "high_price": 9860.0,
+        "low_price": 9760.0,
+        "close_price": 9760.0,
+        "volume": 4495041.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250728,
+        "open_price": 10120.0,
+        "high_price": 10260.0,
+        "low_price": 10000.0,
+        "close_price": 10050.0,
+        "volume": 6924028.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250727,
+        "open_price": 10220.0,
+        "high_price": 10340.0,
+        "low_price": 10150.0,
+        "close_price": 10220.0,
+        "volume": 6700498.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250726,
+        "open_price": 10330.0,
+        "high_price": 10510.0,
+        "low_price": 10200.0,
+        "close_price": 10350.0,
+        "volume": 6088304.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250723,
+        "open_price": 10490.0,
+        "high_price": 10490.0,
+        "low_price": 10320.0,
+        "close_price": 10330.0,
+        "volume": 10521829.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250722,
+        "open_price": 10780.0,
+        "high_price": 10830.0,
+        "low_price": 10510.0,
+        "close_price": 10630.0,
+        "volume": 7815502.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250721,
+        "open_price": 10580.0,
+        "high_price": 10740.0,
+        "low_price": 10510.0,
+        "close_price": 10670.0,
+        "volume": 5479430.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250720,
+        "open_price": 10440.0,
+        "high_price": 10560.0,
+        "low_price": 10400.0,
+        "close_price": 10490.0,
+        "volume": 6783382.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250719,
+        "open_price": 10400.0,
+        "high_price": 10580.0,
+        "low_price": 10400.0,
+        "close_price": 10470.0,
+        "volume": 9766794.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250716,
+        "open_price": 10090.0,
+        "high_price": 10420.0,
+        "low_price": 10090.0,
+        "close_price": 10330.0,
+        "volume": 8880449.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250715,
+        "open_price": 10030.0,
+        "high_price": 10330.0,
+        "low_price": 10030.0,
+        "close_price": 10150.0,
+        "volume": 9610735.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250714,
+        "open_price": 10070.0,
+        "high_price": 10150.0,
+        "low_price": 9990.0,
+        "close_price": 10070.0,
+        "volume": 11581258.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250713,
+        "open_price": 10020.0,
+        "high_price": 10100.0,
+        "low_price": 9680.0,
+        "close_price": 9860.0,
+        "volume": 14102884.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250712,
+        "open_price": 9630.0,
+        "high_price": 10150.0,
+        "low_price": 9630.0,
+        "close_price": 9960.0,
+        "volume": 16007617.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250709,
+        "open_price": 9980.0,
+        "high_price": 9980.0,
+        "low_price": 9850.0,
+        "close_price": 9860.0,
+        "volume": 14100394.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250708,
+        "open_price": 10300.0,
+        "high_price": 10340.0,
+        "low_price": 10140.0,
+        "close_price": 10150.0,
+        "volume": 12665927.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250707,
+        "open_price": 10750.0,
+        "high_price": 10870.0,
+        "low_price": 10340.0,
+        "close_price": 10450.0,
+        "volume": 24912151.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250702,
+        "open_price": 10650.0,
+        "high_price": 10750.0,
+        "low_price": 10650.0,
+        "close_price": 10650.0,
+        "volume": 48664200.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250701,
+        "open_price": 10970.0,
+        "high_price": 10970.0,
+        "low_price": 10970.0,
+        "close_price": 10970.0,
+        "volume": 10127073.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250630,
+        "open_price": 11300.0,
+        "high_price": 11300.0,
+        "low_price": 11300.0,
+        "close_price": 11300.0,
+        "volume": 10224393.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250629,
+        "open_price": 11640.0,
+        "high_price": 11640.0,
+        "low_price": 11640.0,
+        "close_price": 11640.0,
+        "volume": 10207750.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250628,
+        "open_price": 11990.0,
+        "high_price": 11990.0,
+        "low_price": 11990.0,
+        "close_price": 11990.0,
+        "volume": 327989.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12360.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12360.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12360.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12360.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12360.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12360.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12360.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12360.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250611,
+        "open_price": 12400.0,
+        "high_price": 12400.0,
+        "low_price": 12160.0,
+        "close_price": 12360.0,
+        "volume": 47515442.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250610,
+        "open_price": 11850.0,
+        "high_price": 12180.0,
+        "low_price": 11780.0,
+        "close_price": 12040.0,
+        "volume": 36118808.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250609,
+        "open_price": 12160.0,
+        "high_price": 12220.0,
+        "low_price": 11730.0,
+        "close_price": 11830.0,
+        "volume": 19448118.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250608,
+        "open_price": 11750.0,
+        "high_price": 12140.0,
+        "low_price": 11750.0,
+        "close_price": 12090.0,
+        "volume": 29188390.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250607,
+        "open_price": 11960.0,
+        "high_price": 11960.0,
+        "low_price": 11790.0,
+        "close_price": 11790.0,
+        "volume": 17679618.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250603,
+        "open_price": 12380.0,
+        "high_price": 12380.0,
+        "low_price": 12010.0,
+        "close_price": 12150.0,
+        "volume": 19007779.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250602,
+        "open_price": 12090.0,
+        "high_price": 12260.0,
+        "low_price": 12090.0,
+        "close_price": 12250.0,
+        "volume": 23819966.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250601,
+        "open_price": 12020.0,
+        "high_price": 12110.0,
+        "low_price": 11830.0,
+        "close_price": 11910.0,
+        "volume": 29428706.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250531,
+        "open_price": 12400.0,
+        "high_price": 12560.0,
+        "low_price": 11920.0,
+        "close_price": 12190.0,
+        "volume": 25710367.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250528,
+        "open_price": 12120.0,
+        "high_price": 12390.0,
+        "low_price": 12070.0,
+        "close_price": 12250.0,
+        "volume": 19353979.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250527,
+        "open_price": 12190.0,
+        "high_price": 12280.0,
+        "low_price": 11920.0,
+        "close_price": 12140.0,
+        "volume": 27264708.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250526,
+        "open_price": 12100.0,
+        "high_price": 12390.0,
+        "low_price": 11810.0,
+        "close_price": 11990.0,
+        "volume": 57336993.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250525,
+        "open_price": 12300.0,
+        "high_price": 12300.0,
+        "low_price": 12160.0,
+        "close_price": 12170.0,
+        "volume": 17619172.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250524,
+        "open_price": 12500.0,
+        "high_price": 12620.0,
+        "low_price": 12200.0,
+        "close_price": 12530.0,
+        "volume": 29961076.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250521,
+        "open_price": 12190.0,
+        "high_price": 12440.0,
+        "low_price": 12190.0,
+        "close_price": 12260.0,
+        "volume": 37485801.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250520,
+        "open_price": 12710.0,
+        "high_price": 12850.0,
+        "low_price": 12500.0,
+        "close_price": 12560.0,
+        "volume": 44431160.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250519,
+        "open_price": 12960.0,
+        "high_price": 13180.0,
+        "low_price": 12840.0,
+        "close_price": 12880.0,
+        "volume": 61151350.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250518,
+        "open_price": 13150.0,
+        "high_price": 13390.0,
+        "low_price": 13020.0,
+        "close_price": 13230.0,
+        "volume": 46371401.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250517,
+        "open_price": 13310.0,
+        "high_price": 13480.0,
+        "low_price": 12870.0,
+        "close_price": 13120.0,
+        "volume": 57424520.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250514,
+        "open_price": 13150.0,
+        "high_price": 13400.0,
+        "low_price": 12950.0,
+        "close_price": 13260.0,
+        "volume": 65493480.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250513,
+        "open_price": 13340.0,
+        "high_price": 13470.0,
+        "low_price": 13030.0,
+        "close_price": 13300.0,
+        "volume": 100529863.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250512,
+        "open_price": 13320.0,
+        "high_price": 13320.0,
+        "low_price": 13250.0,
+        "close_price": 13320.0,
+        "volume": 43145116.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250511,
+        "open_price": 12980.0,
+        "high_price": 13070.0,
+        "low_price": 12920.0,
+        "close_price": 12940.0,
+        "volume": 57971557.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250510,
+        "open_price": 13310.0,
+        "high_price": 13390.0,
+        "low_price": 13310.0,
+        "close_price": 13310.0,
+        "volume": 57923211.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250507,
+        "open_price": 13820.0,
+        "high_price": 13820.0,
+        "low_price": 13330.0,
+        "close_price": 13720.0,
+        "volume": 168566608.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250506,
+        "open_price": 13430.0,
+        "high_price": 13430.0,
+        "low_price": 13200.0,
+        "close_price": 13420.0,
+        "volume": 113565061.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250505,
+        "open_price": 13060.0,
+        "high_price": 13060.0,
+        "low_price": 12850.0,
+        "close_price": 13040.0,
+        "volume": 103649742.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250504,
+        "open_price": 12400.0,
+        "high_price": 13040.0,
+        "low_price": 12290.0,
+        "close_price": 12680.0,
+        "volume": 168590850.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250503,
+        "open_price": 12670.0,
+        "high_price": 12670.0,
+        "low_price": 12670.0,
+        "close_price": 12670.0,
+        "volume": 16547804.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250430,
+        "open_price": 12800.0,
+        "high_price": 13080.0,
+        "low_price": 12800.0,
+        "close_price": 13060.0,
+        "volume": 56414342.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250429,
+        "open_price": 12270.0,
+        "high_price": 12790.0,
+        "low_price": 12180.0,
+        "close_price": 12700.0,
+        "volume": 79905988.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250428,
+        "open_price": 12520.0,
+        "high_price": 12800.0,
+        "low_price": 12150.0,
+        "close_price": 12420.0,
+        "volume": 48644351.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250427,
+        "open_price": 12520.0,
+        "high_price": 12620.0,
+        "low_price": 12520.0,
+        "close_price": 12520.0,
+        "volume": 42718664.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250426,
+        "open_price": 13220.0,
+        "high_price": 13220.0,
+        "low_price": 12810.0,
+        "close_price": 12900.0,
+        "volume": 126326754.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250423,
+        "open_price": 13390.0,
+        "high_price": 13620.0,
+        "low_price": 13050.0,
+        "close_price": 13200.0,
+        "volume": 238303753.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250422,
+        "open_price": 13450.0,
+        "high_price": 13450.0,
+        "low_price": 13450.0,
+        "close_price": 13450.0,
+        "volume": 75124892.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250421,
+        "open_price": 13060.0,
+        "high_price": 13060.0,
+        "low_price": 13060.0,
+        "close_price": 13060.0,
+        "volume": 775591.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250420,
+        "open_price": 12680.0,
+        "high_price": 12680.0,
+        "low_price": 12680.0,
+        "close_price": 12680.0,
+        "volume": 11480655.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250419,
+        "open_price": 12320.0,
+        "high_price": 12320.0,
+        "low_price": 12320.0,
+        "close_price": 12320.0,
+        "volume": 28779415.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250416,
+        "open_price": 11940.0,
+        "high_price": 12000.0,
+        "low_price": 11800.0,
+        "close_price": 11970.0,
+        "volume": 34589739.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250415,
+        "open_price": 11680.0,
+        "high_price": 11680.0,
+        "low_price": 11430.0,
+        "close_price": 11660.0,
+        "volume": 128359227.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250414,
+        "open_price": 11340.0,
+        "high_price": 11340.0,
+        "low_price": 11340.0,
+        "close_price": 11340.0,
+        "volume": 11793147.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250413,
+        "open_price": 11010.0,
+        "high_price": 11010.0,
+        "low_price": 11010.0,
+        "close_price": 11010.0,
+        "volume": 31330709.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250412,
+        "open_price": 10470.0,
+        "high_price": 10760.0,
+        "low_price": 10400.0,
+        "close_price": 10690.0,
+        "volume": 35984965.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250409,
+        "open_price": 10550.0,
+        "high_price": 10550.0,
+        "low_price": 10250.0,
+        "close_price": 10450.0,
+        "volume": 29736432.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250408,
+        "open_price": 10250.0,
+        "high_price": 10250.0,
+        "low_price": 10250.0,
+        "close_price": 10250.0,
+        "volume": 13657179.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250407,
+        "open_price": 10000.0,
+        "high_price": 10040.0,
+        "low_price": 9830.0,
+        "close_price": 9960.0,
+        "volume": 7996771.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250406,
+        "open_price": 10200.0,
+        "high_price": 10270.0,
+        "low_price": 9980.0,
+        "close_price": 10110.0,
+        "volume": 11309843.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250405,
+        "open_price": 10180.0,
+        "high_price": 10330.0,
+        "low_price": 10060.0,
+        "close_price": 10180.0,
+        "volume": 18154667.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250330,
+        "open_price": 9950.0,
+        "high_price": 10160.0,
+        "low_price": 9870.0,
+        "close_price": 10060.0,
+        "volume": 12901272.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250329,
+        "open_price": 9860.0,
+        "high_price": 9960.0,
+        "low_price": 9730.0,
+        "close_price": 9880.0,
+        "volume": 6314945.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250326,
+        "open_price": 9950.0,
+        "high_price": 10050.0,
+        "low_price": 9860.0,
+        "close_price": 9930.0,
+        "volume": 16336212.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250325,
+        "open_price": 9730.0,
+        "high_price": 9890.0,
+        "low_price": 9730.0,
+        "close_price": 9880.0,
+        "volume": 15987044.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250318,
+        "open_price": 9610.0,
+        "high_price": 9660.0,
+        "low_price": 9610.0,
+        "close_price": 9610.0,
+        "volume": 17468597.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250317,
+        "open_price": 9880.0,
+        "high_price": 10090.0,
+        "low_price": 9770.0,
+        "close_price": 9900.0,
+        "volume": 22509399.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250316,
+        "open_price": 10140.0,
+        "high_price": 10190.0,
+        "low_price": 9980.0,
+        "close_price": 10070.0,
+        "volume": 16463259.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250315,
+        "open_price": 10020.0,
+        "high_price": 10090.0,
+        "low_price": 9950.0,
+        "close_price": 10080.0,
+        "volume": 25768576.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250312,
+        "open_price": 9710.0,
+        "high_price": 9890.0,
+        "low_price": 9620.0,
+        "close_price": 9800.0,
+        "volume": 8462662.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250311,
+        "open_price": 10080.0,
+        "high_price": 10080.0,
+        "low_price": 9800.0,
+        "close_price": 9830.0,
+        "volume": 29681914.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250310,
+        "open_price": 10000.0,
+        "high_price": 10190.0,
+        "low_price": 9970.0,
+        "close_price": 10100.0,
+        "volume": 29730307.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250309,
+        "open_price": 9980.0,
+        "high_price": 10020.0,
+        "low_price": 9850.0,
+        "close_price": 9900.0,
+        "volume": 25990879.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250308,
+        "open_price": 10360.0,
+        "high_price": 10440.0,
+        "low_price": 9990.0,
+        "close_price": 10150.0,
+        "volume": 62023380.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250305,
+        "open_price": 10220.0,
+        "high_price": 10540.0,
+        "low_price": 10030.0,
+        "close_price": 10290.0,
+        "volume": 38132730.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250304,
+        "open_price": 10310.0,
+        "high_price": 10680.0,
+        "low_price": 10250.0,
+        "close_price": 10330.0,
+        "volume": 67554715.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250303,
+        "open_price": 10560.0,
+        "high_price": 10560.0,
+        "low_price": 10560.0,
+        "close_price": 10560.0,
+        "volume": 12359307.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250302,
+        "open_price": 10700.0,
+        "high_price": 10990.0,
+        "low_price": 10630.0,
+        "close_price": 10880.0,
+        "volume": 78995600.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250301,
+        "open_price": 10650.0,
+        "high_price": 11080.0,
+        "low_price": 10630.0,
+        "close_price": 10860.0,
+        "volume": 59745340.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250226,
+        "open_price": 10970.0,
+        "high_price": 10970.0,
+        "low_price": 10670.0,
+        "close_price": 10890.0,
+        "volume": 81175157.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250225,
+        "open_price": 10670.0,
+        "high_price": 10670.0,
+        "low_price": 10510.0,
+        "close_price": 10660.0,
+        "volume": 111697378.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250224,
+        "open_price": 10360.0,
+        "high_price": 10360.0,
+        "low_price": 10360.0,
+        "close_price": 10360.0,
+        "volume": 11368286.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250223,
+        "open_price": 10060.0,
+        "high_price": 10060.0,
+        "low_price": 10060.0,
+        "close_price": 10060.0,
+        "volume": 16470647.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250222,
+        "open_price": 9930.0,
+        "high_price": 9990.0,
+        "low_price": 9750.0,
+        "close_price": 9770.0,
+        "volume": 30924705.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250219,
+        "open_price": 10140.0,
+        "high_price": 10150.0,
+        "low_price": 9920.0,
+        "close_price": 10050.0,
+        "volume": 19318146.0
+    },
+    {
+        "symbol": "خودران",
+        "trade_date": 20250218,
+        "open_price": 10050.0,
+        "high_price": 10200.0,
+        "low_price": 9970.0,
+        "close_price": 10090.0,
+        "volume": 20260983.0
+    }
+]

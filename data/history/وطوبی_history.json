@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260901,
+        "open_price": 4710.0,
+        "high_price": 4740.0,
+        "low_price": 4540.0,
+        "close_price": 4670.0,
+        "volume": 4617789.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260831,
+        "open_price": 4670.0,
+        "high_price": 4710.0,
+        "low_price": 4670.0,
+        "close_price": 4680.0,
+        "volume": 2209364.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260829,
+        "open_price": 4660.0,
+        "high_price": 4720.0,
+        "low_price": 4650.0,
+        "close_price": 4670.0,
+        "volume": 1024272.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260826,
+        "open_price": 4600.0,
+        "high_price": 4660.0,
+        "low_price": 4590.0,
+        "close_price": 4620.0,
+        "volume": 751067.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260825,
+        "open_price": 4550.0,
+        "high_price": 4580.0,
+        "low_price": 4540.0,
+        "close_price": 4570.0,
+        "volume": 465614.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260824,
+        "open_price": 4450.0,
+        "high_price": 4520.0,
+        "low_price": 4290.0,
+        "close_price": 4450.0,
+        "volume": 1910743.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260823,
+        "open_price": 4420.0,
+        "high_price": 4450.0,
+        "low_price": 4400.0,
+        "close_price": 4420.0,
+        "volume": 5062297.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260822,
+        "open_price": 4390.0,
+        "high_price": 4430.0,
+        "low_price": 4350.0,
+        "close_price": 4380.0,
+        "volume": 1539451.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260819,
+        "open_price": 4320.0,
+        "high_price": 4370.0,
+        "low_price": 4300.0,
+        "close_price": 4320.0,
+        "volume": 1208318.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260818,
+        "open_price": 4300.0,
+        "high_price": 4370.0,
+        "low_price": 4190.0,
+        "close_price": 4280.0,
+        "volume": 2014529.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260817,
+        "open_price": 4280.0,
+        "high_price": 4310.0,
+        "low_price": 4230.0,
+        "close_price": 4270.0,
+        "volume": 894003.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260816,
+        "open_price": 4130.0,
+        "high_price": 4210.0,
+        "low_price": 4120.0,
+        "close_price": 4190.0,
+        "volume": 2692316.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260815,
+        "open_price": 4070.0,
+        "high_price": 4140.0,
+        "low_price": 4000.0,
+        "close_price": 4090.0,
+        "volume": 8325854.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260811,
+        "open_price": 4050.0,
+        "high_price": 4060.0,
+        "low_price": 3990.0,
+        "close_price": 4020.0,
+        "volume": 1236561.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260810,
+        "open_price": 3950.0,
+        "high_price": 4010.0,
+        "low_price": 3930.0,
+        "close_price": 3960.0,
+        "volume": 1967633.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260809,
+        "open_price": 3940.0,
+        "high_price": 3940.0,
+        "low_price": 3850.0,
+        "close_price": 3910.0,
+        "volume": 7875209.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260808,
+        "open_price": 3800.0,
+        "high_price": 3840.0,
+        "low_price": 3760.0,
+        "close_price": 3830.0,
+        "volume": 2429013.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260805,
+        "open_price": 3670.0,
+        "high_price": 3780.0,
+        "low_price": 3660.0,
+        "close_price": 3730.0,
+        "volume": 4179487.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260803,
+        "open_price": 3620.0,
+        "high_price": 3680.0,
+        "low_price": 3620.0,
+        "close_price": 3670.0,
+        "volume": 1378799.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260802,
+        "open_price": 3580.0,
+        "high_price": 3780.0,
+        "low_price": 3580.0,
+        "close_price": 3610.0,
+        "volume": 1156831.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260801,
+        "open_price": 3690.0,
+        "high_price": 3700.0,
+        "low_price": 3690.0,
+        "close_price": 3690.0,
+        "volume": 2009020.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260729,
+        "open_price": 3800.0,
+        "high_price": 3800.0,
+        "low_price": 3800.0,
+        "close_price": 3800.0,
+        "volume": 182983.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260728,
+        "open_price": 3930.0,
+        "high_price": 3970.0,
+        "low_price": 3910.0,
+        "close_price": 3910.0,
+        "volume": 1397911.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260727,
+        "open_price": 4080.0,
+        "high_price": 4120.0,
+        "low_price": 3910.0,
+        "close_price": 4030.0,
+        "volume": 5223007.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260726,
+        "open_price": 4090.0,
+        "high_price": 4100.0,
+        "low_price": 3900.0,
+        "close_price": 4030.0,
+        "volume": 3899567.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260725,
+        "open_price": 4160.0,
+        "high_price": 4160.0,
+        "low_price": 4000.0,
+        "close_price": 4020.0,
+        "volume": 8374903.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260722,
+        "open_price": 4240.0,
+        "high_price": 4240.0,
+        "low_price": 4100.0,
+        "close_price": 4120.0,
+        "volume": 6701510.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260721,
+        "open_price": 4180.0,
+        "high_price": 4260.0,
+        "low_price": 4180.0,
+        "close_price": 4220.0,
+        "volume": 3536600.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260720,
+        "open_price": 4150.0,
+        "high_price": 4210.0,
+        "low_price": 4130.0,
+        "close_price": 4160.0,
+        "volume": 3351735.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260719,
+        "open_price": 4210.0,
+        "high_price": 4210.0,
+        "low_price": 4100.0,
+        "close_price": 4130.0,
+        "volume": 6497824.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260718,
+        "open_price": 4250.0,
+        "high_price": 4290.0,
+        "low_price": 4210.0,
+        "close_price": 4220.0,
+        "volume": 7961443.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260715,
+        "open_price": 4310.0,
+        "high_price": 4380.0,
+        "low_price": 4290.0,
+        "close_price": 4340.0,
+        "volume": 4722315.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260714,
+        "open_price": 4230.0,
+        "high_price": 4490.0,
+        "low_price": 4230.0,
+        "close_price": 4330.0,
+        "volume": 13061676.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260713,
+        "open_price": 4360.0,
+        "high_price": 4360.0,
+        "low_price": 4360.0,
+        "close_price": 4360.0,
+        "volume": 5132140.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260712,
+        "open_price": 4530.0,
+        "high_price": 4600.0,
+        "low_price": 4340.0,
+        "close_price": 4490.0,
+        "volume": 5638143.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260711,
+        "open_price": 4440.0,
+        "high_price": 4500.0,
+        "low_price": 4430.0,
+        "close_price": 4470.0,
+        "volume": 4555713.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260708,
+        "open_price": 4420.0,
+        "high_price": 4490.0,
+        "low_price": 4240.0,
+        "close_price": 4370.0,
+        "volume": 4380828.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260707,
+        "open_price": 4370.0,
+        "high_price": 4370.0,
+        "low_price": 4340.0,
+        "close_price": 4370.0,
+        "volume": 2806728.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260701,
+        "open_price": 4260.0,
+        "high_price": 4260.0,
+        "low_price": 4190.0,
+        "close_price": 4250.0,
+        "volume": 4707819.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260630,
+        "open_price": 4130.0,
+        "high_price": 4150.0,
+        "low_price": 4110.0,
+        "close_price": 4140.0,
+        "volume": 6774613.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260629,
+        "open_price": 3940.0,
+        "high_price": 4030.0,
+        "low_price": 3940.0,
+        "close_price": 4030.0,
+        "volume": 4639103.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260628,
+        "open_price": 3900.0,
+        "high_price": 3980.0,
+        "low_price": 3890.0,
+        "close_price": 3920.0,
+        "volume": 2259429.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260627,
+        "open_price": 3930.0,
+        "high_price": 3940.0,
+        "low_price": 3820.0,
+        "close_price": 3880.0,
+        "volume": 4886702.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260623,
+        "open_price": 3825.0,
+        "high_price": 3846.0,
+        "low_price": 3750.0,
+        "close_price": 3835.0,
+        "volume": 5228570.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260622,
+        "open_price": 3770.0,
+        "high_price": 3770.0,
+        "low_price": 3713.0,
+        "close_price": 3734.0,
+        "volume": 4600549.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260621,
+        "open_price": 3942.0,
+        "high_price": 3942.0,
+        "low_price": 3714.0,
+        "close_price": 3751.0,
+        "volume": 7287266.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260620,
+        "open_price": 3886.0,
+        "high_price": 3892.0,
+        "low_price": 3739.0,
+        "close_price": 3828.0,
+        "volume": 4358716.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260617,
+        "open_price": 3696.0,
+        "high_price": 3785.0,
+        "low_price": 3696.0,
+        "close_price": 3779.0,
+        "volume": 5820885.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260616,
+        "open_price": 3730.0,
+        "high_price": 3730.0,
+        "low_price": 3550.0,
+        "close_price": 3675.0,
+        "volume": 4860712.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260615,
+        "open_price": 3622.0,
+        "high_price": 3622.0,
+        "low_price": 3622.0,
+        "close_price": 3622.0,
+        "volume": 5204820.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260614,
+        "open_price": 3517.0,
+        "high_price": 3517.0,
+        "low_price": 3517.0,
+        "close_price": 3517.0,
+        "volume": 3795290.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260613,
+        "open_price": 3415.0,
+        "high_price": 3415.0,
+        "low_price": 3415.0,
+        "close_price": 3415.0,
+        "volume": 4940586.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260610,
+        "open_price": 3317.0,
+        "high_price": 3317.0,
+        "low_price": 3300.0,
+        "close_price": 3316.0,
+        "volume": 6324629.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260609,
+        "open_price": 3221.0,
+        "high_price": 3221.0,
+        "low_price": 3221.0,
+        "close_price": 3221.0,
+        "volume": 2326395.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260608,
+        "open_price": 3112.0,
+        "high_price": 3196.0,
+        "low_price": 3112.0,
+        "close_price": 3128.0,
+        "volume": 7541118.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260607,
+        "open_price": 3208.0,
+        "high_price": 3208.0,
+        "low_price": 3208.0,
+        "close_price": 3208.0,
+        "volume": 5140893.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260606,
+        "open_price": 3100.0,
+        "high_price": 3119.0,
+        "low_price": 3055.0,
+        "close_price": 3115.0,
+        "volume": 5417708.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260603,
+        "open_price": 3099.0,
+        "high_price": 3099.0,
+        "low_price": 3010.0,
+        "close_price": 3029.0,
+        "volume": 1192347.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260602,
+        "open_price": 3040.0,
+        "high_price": 3079.0,
+        "low_price": 2919.0,
+        "close_price": 3019.0,
+        "volume": 6060646.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260601,
+        "open_price": 3017.0,
+        "high_price": 3017.0,
+        "low_price": 2900.0,
+        "close_price": 3004.0,
+        "volume": 6451067.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260531,
+        "open_price": 2930.0,
+        "high_price": 2930.0,
+        "low_price": 2930.0,
+        "close_price": 2930.0,
+        "volume": 794637.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260530,
+        "open_price": 2855.0,
+        "high_price": 2855.0,
+        "low_price": 2835.0,
+        "close_price": 2845.0,
+        "volume": 1429892.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260526,
+        "open_price": 2765.0,
+        "high_price": 2803.0,
+        "low_price": 2730.0,
+        "close_price": 2772.0,
+        "volume": 3800727.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260525,
+        "open_price": 2726.0,
+        "high_price": 2726.0,
+        "low_price": 2674.0,
+        "close_price": 2722.0,
+        "volume": 6964836.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260524,
+        "open_price": 2647.0,
+        "high_price": 2647.0,
+        "low_price": 2647.0,
+        "close_price": 2647.0,
+        "volume": 9779110.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260523,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2570.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260520,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2570.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260519,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2570.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2570.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2570.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2570.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2570.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2570.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2570.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2570.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2570.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2570.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2570.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2570.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2570.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2570.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2644.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2644.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2644.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2644.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2644.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2644.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2644.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2644.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2644.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2644.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2644.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2644.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2644.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2644.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2644.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2644.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2644.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2644.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2644.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2644.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2644.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2644.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2644.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2644.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2644.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2644.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2644.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2644.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2644.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2644.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2644.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2644.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2644.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2644.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2644.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2644.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260225,
+        "open_price": 2650.0,
+        "high_price": 2661.0,
+        "low_price": 2600.0,
+        "close_price": 2644.0,
+        "volume": 1432205.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260224,
+        "open_price": 2600.0,
+        "high_price": 2626.0,
+        "low_price": 2526.0,
+        "close_price": 2584.0,
+        "volume": 1224611.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260223,
+        "open_price": 2602.0,
+        "high_price": 2628.0,
+        "low_price": 2600.0,
+        "close_price": 2602.0,
+        "volume": 1998667.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260222,
+        "open_price": 2525.0,
+        "high_price": 2650.0,
+        "low_price": 2525.0,
+        "close_price": 2601.0,
+        "volume": 873907.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260221,
+        "open_price": 2602.0,
+        "high_price": 2609.0,
+        "low_price": 2600.0,
+        "close_price": 2600.0,
+        "volume": 3813494.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260218,
+        "open_price": 2602.0,
+        "high_price": 2603.0,
+        "low_price": 2600.0,
+        "close_price": 2601.0,
+        "volume": 605138.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260217,
+        "open_price": 2639.0,
+        "high_price": 2668.0,
+        "low_price": 2600.0,
+        "close_price": 2618.0,
+        "volume": 700430.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260216,
+        "open_price": 2632.0,
+        "high_price": 2633.0,
+        "low_price": 2600.0,
+        "close_price": 2601.0,
+        "volume": 1253481.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260215,
+        "open_price": 2605.0,
+        "high_price": 2632.0,
+        "low_price": 2598.0,
+        "close_price": 2601.0,
+        "volume": 2249370.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260214,
+        "open_price": 2734.0,
+        "high_price": 2734.0,
+        "low_price": 2578.0,
+        "close_price": 2597.0,
+        "volume": 7790550.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260210,
+        "open_price": 2710.0,
+        "high_price": 2712.0,
+        "low_price": 2619.0,
+        "close_price": 2657.0,
+        "volume": 4076697.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260209,
+        "open_price": 2700.0,
+        "high_price": 2725.0,
+        "low_price": 2673.0,
+        "close_price": 2699.0,
+        "volume": 5373287.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260208,
+        "open_price": 2659.0,
+        "high_price": 2659.0,
+        "low_price": 2600.0,
+        "close_price": 2647.0,
+        "volume": 1937504.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260207,
+        "open_price": 2525.0,
+        "high_price": 2594.0,
+        "low_price": 2525.0,
+        "close_price": 2582.0,
+        "volume": 4521816.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260203,
+        "open_price": 2571.0,
+        "high_price": 2571.0,
+        "low_price": 2450.0,
+        "close_price": 2519.0,
+        "volume": 1587463.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260202,
+        "open_price": 2509.0,
+        "high_price": 2511.0,
+        "low_price": 2498.0,
+        "close_price": 2510.0,
+        "volume": 2380304.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260201,
+        "open_price": 2423.0,
+        "high_price": 2479.0,
+        "low_price": 2423.0,
+        "close_price": 2438.0,
+        "volume": 1696743.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260131,
+        "open_price": 2397.0,
+        "high_price": 2432.0,
+        "low_price": 2397.0,
+        "close_price": 2419.0,
+        "volume": 3265317.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260128,
+        "open_price": 2389.0,
+        "high_price": 2418.0,
+        "low_price": 2385.0,
+        "close_price": 2393.0,
+        "volume": 6520178.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260127,
+        "open_price": 2427.0,
+        "high_price": 2430.0,
+        "low_price": 2331.0,
+        "close_price": 2385.0,
+        "volume": 3815405.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260126,
+        "open_price": 2419.0,
+        "high_price": 2420.0,
+        "low_price": 2398.0,
+        "close_price": 2403.0,
+        "volume": 5160728.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260125,
+        "open_price": 2414.0,
+        "high_price": 2430.0,
+        "low_price": 2391.0,
+        "close_price": 2400.0,
+        "volume": 3449871.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260124,
+        "open_price": 2431.0,
+        "high_price": 2431.0,
+        "low_price": 2317.0,
+        "close_price": 2391.0,
+        "volume": 5766854.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260121,
+        "open_price": 2380.0,
+        "high_price": 2422.0,
+        "low_price": 2377.0,
+        "close_price": 2388.0,
+        "volume": 561763.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260120,
+        "open_price": 2338.0,
+        "high_price": 2375.0,
+        "low_price": 2338.0,
+        "close_price": 2363.0,
+        "volume": 1481748.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260119,
+        "open_price": 2293.0,
+        "high_price": 2341.0,
+        "low_price": 2293.0,
+        "close_price": 2306.0,
+        "volume": 1664307.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260118,
+        "open_price": 2274.0,
+        "high_price": 2290.0,
+        "low_price": 2274.0,
+        "close_price": 2278.0,
+        "volume": 1128574.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260114,
+        "open_price": 2241.0,
+        "high_price": 2250.0,
+        "low_price": 2237.0,
+        "close_price": 2240.0,
+        "volume": 4635635.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260113,
+        "open_price": 2239.0,
+        "high_price": 2278.0,
+        "low_price": 2227.0,
+        "close_price": 2237.0,
+        "volume": 5995219.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260112,
+        "open_price": 2208.0,
+        "high_price": 2248.0,
+        "low_price": 2184.0,
+        "close_price": 2227.0,
+        "volume": 4391414.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260111,
+        "open_price": 2183.0,
+        "high_price": 2208.0,
+        "low_price": 2180.0,
+        "close_price": 2183.0,
+        "volume": 3260770.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260110,
+        "open_price": 2113.0,
+        "high_price": 2204.0,
+        "low_price": 2113.0,
+        "close_price": 2182.0,
+        "volume": 8008425.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260107,
+        "open_price": 2165.0,
+        "high_price": 2199.0,
+        "low_price": 2165.0,
+        "close_price": 2178.0,
+        "volume": 4338746.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260106,
+        "open_price": 2151.0,
+        "high_price": 2151.0,
+        "low_price": 2127.0,
+        "close_price": 2151.0,
+        "volume": 2186423.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260105,
+        "open_price": 2090.0,
+        "high_price": 2091.0,
+        "low_price": 2070.0,
+        "close_price": 2089.0,
+        "volume": 1880818.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20260104,
+        "open_price": 2022.0,
+        "high_price": 2098.0,
+        "low_price": 2022.0,
+        "close_price": 2031.0,
+        "volume": 5722173.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251231,
+        "open_price": 2080.0,
+        "high_price": 2131.0,
+        "low_price": 2080.0,
+        "close_price": 2084.0,
+        "volume": 2050927.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251230,
+        "open_price": 2260.0,
+        "high_price": 2260.0,
+        "low_price": 2134.0,
+        "close_price": 2144.0,
+        "volume": 6237087.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251229,
+        "open_price": 2238.0,
+        "high_price": 2241.0,
+        "low_price": 2164.0,
+        "close_price": 2199.0,
+        "volume": 4275828.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251228,
+        "open_price": 2247.0,
+        "high_price": 2251.0,
+        "low_price": 2160.0,
+        "close_price": 2230.0,
+        "volume": 9824650.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251227,
+        "open_price": 2208.0,
+        "high_price": 2208.0,
+        "low_price": 2160.0,
+        "close_price": 2186.0,
+        "volume": 2603466.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251224,
+        "open_price": 2096.0,
+        "high_price": 2158.0,
+        "low_price": 2096.0,
+        "close_price": 2144.0,
+        "volume": 7948549.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251223,
+        "open_price": 2117.0,
+        "high_price": 2170.0,
+        "low_price": 2054.0,
+        "close_price": 2096.0,
+        "volume": 4214629.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251222,
+        "open_price": 2100.0,
+        "high_price": 2185.0,
+        "low_price": 2090.0,
+        "close_price": 2117.0,
+        "volume": 15825865.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251221,
+        "open_price": 2217.0,
+        "high_price": 2217.0,
+        "low_price": 2147.0,
+        "close_price": 2154.0,
+        "volume": 12132815.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251220,
+        "open_price": 2175.0,
+        "high_price": 2240.0,
+        "low_price": 2175.0,
+        "close_price": 2213.0,
+        "volume": 4168800.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251217,
+        "open_price": 2199.0,
+        "high_price": 2221.0,
+        "low_price": 2131.0,
+        "close_price": 2175.0,
+        "volume": 5025960.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251216,
+        "open_price": 2168.0,
+        "high_price": 2212.0,
+        "low_price": 2132.0,
+        "close_price": 2157.0,
+        "volume": 4702030.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251215,
+        "open_price": 2134.0,
+        "high_price": 2157.0,
+        "low_price": 2120.0,
+        "close_price": 2148.0,
+        "volume": 7252585.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251214,
+        "open_price": 2116.0,
+        "high_price": 2155.0,
+        "low_price": 2112.0,
+        "close_price": 2113.0,
+        "volume": 3414126.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251213,
+        "open_price": 2186.0,
+        "high_price": 2187.0,
+        "low_price": 2063.0,
+        "close_price": 2107.0,
+        "volume": 12920554.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251210,
+        "open_price": 2100.0,
+        "high_price": 2154.0,
+        "low_price": 2056.0,
+        "close_price": 2126.0,
+        "volume": 9518495.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251209,
+        "open_price": 2102.0,
+        "high_price": 2102.0,
+        "low_price": 2028.0,
+        "close_price": 2092.0,
+        "volume": 21906769.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251208,
+        "open_price": 2043.0,
+        "high_price": 2043.0,
+        "low_price": 2043.0,
+        "close_price": 2041.0,
+        "volume": 7506454.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251207,
+        "open_price": 1977.0,
+        "high_price": 1989.0,
+        "low_price": 1977.0,
+        "close_price": 1984.0,
+        "volume": 7099092.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251206,
+        "open_price": 1962.0,
+        "high_price": 1962.0,
+        "low_price": 1917.0,
+        "close_price": 1932.0,
+        "volume": 16995114.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251203,
+        "open_price": 1962.0,
+        "high_price": 1962.0,
+        "low_price": 1848.0,
+        "close_price": 1932.0,
+        "volume": 31648726.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251202,
+        "open_price": 1914.0,
+        "high_price": 1914.0,
+        "low_price": 1914.0,
+        "close_price": 1905.0,
+        "volume": 7119370.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251201,
+        "open_price": 1883.0,
+        "high_price": 1883.0,
+        "low_price": 1883.0,
+        "close_price": 1859.0,
+        "volume": 4739163.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251130,
+        "open_price": 1857.0,
+        "high_price": 1857.0,
+        "low_price": 1857.0,
+        "close_price": 1829.0,
+        "volume": 4107131.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251129,
+        "open_price": 1803.0,
+        "high_price": 1803.0,
+        "low_price": 1803.0,
+        "close_price": 1803.0,
+        "volume": 12728182.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251126,
+        "open_price": 1762.0,
+        "high_price": 1762.0,
+        "low_price": 1762.0,
+        "close_price": 1751.0,
+        "volume": 7401805.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251125,
+        "open_price": 1711.0,
+        "high_price": 1711.0,
+        "low_price": 1711.0,
+        "close_price": 1711.0,
+        "volume": 12237263.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251123,
+        "open_price": 1665.0,
+        "high_price": 1668.0,
+        "low_price": 1640.0,
+        "close_price": 1662.0,
+        "volume": 8463599.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251122,
+        "open_price": 1630.0,
+        "high_price": 1630.0,
+        "low_price": 1630.0,
+        "close_price": 1620.0,
+        "volume": 7398058.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251119,
+        "open_price": 1572.0,
+        "high_price": 1588.0,
+        "low_price": 1560.0,
+        "close_price": 1583.0,
+        "volume": 8832471.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251118,
+        "open_price": 1530.0,
+        "high_price": 1560.0,
+        "low_price": 1528.0,
+        "close_price": 1542.0,
+        "volume": 6355971.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251117,
+        "open_price": 1520.0,
+        "high_price": 1547.0,
+        "low_price": 1520.0,
+        "close_price": 1515.0,
+        "volume": 1907883.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251116,
+        "open_price": 1518.0,
+        "high_price": 1545.0,
+        "low_price": 1510.0,
+        "close_price": 1513.0,
+        "volume": 1183234.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251115,
+        "open_price": 1482.0,
+        "high_price": 1551.0,
+        "low_price": 1480.0,
+        "close_price": 1511.0,
+        "volume": 4037191.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251112,
+        "open_price": 1523.0,
+        "high_price": 1543.0,
+        "low_price": 1514.0,
+        "close_price": 1518.0,
+        "volume": 2972389.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251111,
+        "open_price": 1525.0,
+        "high_price": 1525.0,
+        "low_price": 1491.0,
+        "close_price": 1515.0,
+        "volume": 3483682.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251110,
+        "open_price": 1520.0,
+        "high_price": 1535.0,
+        "low_price": 1509.0,
+        "close_price": 1518.0,
+        "volume": 4008496.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251109,
+        "open_price": 1534.0,
+        "high_price": 1545.0,
+        "low_price": 1485.0,
+        "close_price": 1520.0,
+        "volume": 4570427.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251108,
+        "open_price": 1538.0,
+        "high_price": 1570.0,
+        "low_price": 1501.0,
+        "close_price": 1527.0,
+        "volume": 2391408.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251105,
+        "open_price": 1525.0,
+        "high_price": 1530.0,
+        "low_price": 1507.0,
+        "close_price": 1525.0,
+        "volume": 3436754.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251104,
+        "open_price": 1508.0,
+        "high_price": 1537.0,
+        "low_price": 1508.0,
+        "close_price": 1525.0,
+        "volume": 2566583.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251103,
+        "open_price": 1559.0,
+        "high_price": 1559.0,
+        "low_price": 1509.0,
+        "close_price": 1526.0,
+        "volume": 1150484.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251102,
+        "open_price": 1500.0,
+        "high_price": 1553.0,
+        "low_price": 1485.0,
+        "close_price": 1527.0,
+        "volume": 2407381.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251101,
+        "open_price": 1560.0,
+        "high_price": 1560.0,
+        "low_price": 1530.0,
+        "close_price": 1529.0,
+        "volume": 1686970.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251029,
+        "open_price": 1527.0,
+        "high_price": 1559.0,
+        "low_price": 1526.0,
+        "close_price": 1528.0,
+        "volume": 1408436.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251028,
+        "open_price": 1492.0,
+        "high_price": 1552.0,
+        "low_price": 1491.0,
+        "close_price": 1527.0,
+        "volume": 5665720.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251027,
+        "open_price": 1562.0,
+        "high_price": 1562.0,
+        "low_price": 1518.0,
+        "close_price": 1521.0,
+        "volume": 443948.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251026,
+        "open_price": 1534.0,
+        "high_price": 1539.0,
+        "low_price": 1495.0,
+        "close_price": 1521.0,
+        "volume": 6386364.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251025,
+        "open_price": 1495.0,
+        "high_price": 1522.0,
+        "low_price": 1463.0,
+        "close_price": 1495.0,
+        "volume": 2548624.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251022,
+        "open_price": 1486.0,
+        "high_price": 1530.0,
+        "low_price": 1472.0,
+        "close_price": 1493.0,
+        "volume": 4102150.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251021,
+        "open_price": 1495.0,
+        "high_price": 1495.0,
+        "low_price": 1445.0,
+        "close_price": 1486.0,
+        "volume": 522307.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251020,
+        "open_price": 1471.0,
+        "high_price": 1519.0,
+        "low_price": 1470.0,
+        "close_price": 1487.0,
+        "volume": 3943339.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251019,
+        "open_price": 1508.0,
+        "high_price": 1508.0,
+        "low_price": 1476.0,
+        "close_price": 1476.0,
+        "volume": 3211603.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251018,
+        "open_price": 1396.0,
+        "high_price": 1475.0,
+        "low_price": 1396.0,
+        "close_price": 1465.0,
+        "volume": 8334214.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251015,
+        "open_price": 1456.0,
+        "high_price": 1456.0,
+        "low_price": 1456.0,
+        "close_price": 1433.0,
+        "volume": 5217278.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251014,
+        "open_price": 1417.0,
+        "high_price": 1417.0,
+        "low_price": 1340.0,
+        "close_price": 1414.0,
+        "volume": 10355736.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251013,
+        "open_price": 1398.0,
+        "high_price": 1398.0,
+        "low_price": 1398.0,
+        "close_price": 1376.0,
+        "volume": 5061560.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251012,
+        "open_price": 1379.0,
+        "high_price": 1383.0,
+        "low_price": 1379.0,
+        "close_price": 1358.0,
+        "volume": 4145514.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251011,
+        "open_price": 1322.0,
+        "high_price": 1366.0,
+        "low_price": 1320.0,
+        "close_price": 1343.0,
+        "volume": 5319021.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251008,
+        "open_price": 1316.0,
+        "high_price": 1349.0,
+        "low_price": 1301.0,
+        "close_price": 1327.0,
+        "volume": 4876913.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251007,
+        "open_price": 1293.0,
+        "high_price": 1350.0,
+        "low_price": 1293.0,
+        "close_price": 1323.0,
+        "volume": 1982527.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251006,
+        "open_price": 1330.0,
+        "high_price": 1355.0,
+        "low_price": 1316.0,
+        "close_price": 1319.0,
+        "volume": 1761288.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251005,
+        "open_price": 1310.0,
+        "high_price": 1340.0,
+        "low_price": 1310.0,
+        "close_price": 1316.0,
+        "volume": 4868362.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251004,
+        "open_price": 1328.0,
+        "high_price": 1338.0,
+        "low_price": 1320.0,
+        "close_price": 1308.0,
+        "volume": 2634937.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20251001,
+        "open_price": 1273.0,
+        "high_price": 1312.0,
+        "low_price": 1273.0,
+        "close_price": 1301.0,
+        "volume": 5332201.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250930,
+        "open_price": 1287.0,
+        "high_price": 1327.0,
+        "low_price": 1287.0,
+        "close_price": 1301.0,
+        "volume": 6710025.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250929,
+        "open_price": 1336.0,
+        "high_price": 1337.0,
+        "low_price": 1307.0,
+        "close_price": 1305.0,
+        "volume": 2376174.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250928,
+        "open_price": 1264.0,
+        "high_price": 1314.0,
+        "low_price": 1264.0,
+        "close_price": 1300.0,
+        "volume": 8406629.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250927,
+        "open_price": 1247.0,
+        "high_price": 1298.0,
+        "low_price": 1247.0,
+        "close_price": 1276.0,
+        "volume": 8860752.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250924,
+        "open_price": 1213.0,
+        "high_price": 1287.0,
+        "low_price": 1213.0,
+        "close_price": 1266.0,
+        "volume": 14916854.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250923,
+        "open_price": 1291.0,
+        "high_price": 1291.0,
+        "low_price": 1228.0,
+        "close_price": 1250.0,
+        "volume": 4753386.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250922,
+        "open_price": 1241.0,
+        "high_price": 1280.0,
+        "low_price": 1241.0,
+        "close_price": 1265.0,
+        "volume": 4604753.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250921,
+        "open_price": 1246.0,
+        "high_price": 1246.0,
+        "low_price": 1245.0,
+        "close_price": 1279.0,
+        "volume": 1364921.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250920,
+        "open_price": 1256.0,
+        "high_price": 1257.0,
+        "low_price": 1256.0,
+        "close_price": 1283.0,
+        "volume": 3382804.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250917,
+        "open_price": 1259.0,
+        "high_price": 1290.0,
+        "low_price": 1258.0,
+        "close_price": 1294.0,
+        "volume": 672602.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250916,
+        "open_price": 1268.0,
+        "high_price": 1300.0,
+        "low_price": 1263.0,
+        "close_price": 1296.0,
+        "volume": 1913366.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250915,
+        "open_price": 1295.0,
+        "high_price": 1300.0,
+        "low_price": 1271.0,
+        "close_price": 1302.0,
+        "volume": 2812017.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250914,
+        "open_price": 1285.0,
+        "high_price": 1315.0,
+        "low_price": 1284.0,
+        "close_price": 1310.0,
+        "volume": 5506898.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250913,
+        "open_price": 1285.0,
+        "high_price": 1316.0,
+        "low_price": 1285.0,
+        "close_price": 1320.0,
+        "volume": 236790.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250909,
+        "open_price": 1332.0,
+        "high_price": 1332.0,
+        "low_price": 1294.0,
+        "close_price": 1320.0,
+        "volume": 4397382.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250908,
+        "open_price": 1315.0,
+        "high_price": 1351.0,
+        "low_price": 1315.0,
+        "close_price": 1334.0,
+        "volume": 662624.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250907,
+        "open_price": 1326.0,
+        "high_price": 1340.0,
+        "low_price": 1310.0,
+        "close_price": 1334.0,
+        "volume": 12181303.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250906,
+        "open_price": 1342.0,
+        "high_price": 1360.0,
+        "low_price": 1330.0,
+        "close_price": 1334.0,
+        "volume": 4055765.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250903,
+        "open_price": 1369.0,
+        "high_price": 1369.0,
+        "low_price": 1343.0,
+        "close_price": 1336.0,
+        "volume": 1306585.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250902,
+        "open_price": 1370.0,
+        "high_price": 1370.0,
+        "low_price": 1340.0,
+        "close_price": 1334.0,
+        "volume": 1156620.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250831,
+        "open_price": 1359.0,
+        "high_price": 1359.0,
+        "low_price": 1359.0,
+        "close_price": 1331.0,
+        "volume": 3132189.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250830,
+        "open_price": 1330.0,
+        "high_price": 1342.0,
+        "low_price": 1330.0,
+        "close_price": 1320.0,
+        "volume": 2635073.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250827,
+        "open_price": 1331.0,
+        "high_price": 1349.0,
+        "low_price": 1330.0,
+        "close_price": 1317.0,
+        "volume": 809334.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250826,
+        "open_price": 1330.0,
+        "high_price": 1346.0,
+        "low_price": 1330.0,
+        "close_price": 1316.0,
+        "volume": 2423803.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250825,
+        "open_price": 1317.0,
+        "high_price": 1347.0,
+        "low_price": 1308.0,
+        "close_price": 1312.0,
+        "volume": 15306185.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250823,
+        "open_price": 1321.0,
+        "high_price": 1370.0,
+        "low_price": 1310.0,
+        "close_price": 1348.0,
+        "volume": 6277290.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250820,
+        "open_price": 1369.0,
+        "high_price": 1369.0,
+        "low_price": 1320.0,
+        "close_price": 1348.0,
+        "volume": 7164213.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250819,
+        "open_price": 1347.0,
+        "high_price": 1363.0,
+        "low_price": 1347.0,
+        "close_price": 1348.0,
+        "volume": 3085058.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250818,
+        "open_price": 1353.0,
+        "high_price": 1370.0,
+        "low_price": 1347.0,
+        "close_price": 1347.0,
+        "volume": 2859402.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250817,
+        "open_price": 1347.0,
+        "high_price": 1375.0,
+        "low_price": 1347.0,
+        "close_price": 1347.0,
+        "volume": 467207.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250816,
+        "open_price": 1377.0,
+        "high_price": 1377.0,
+        "low_price": 1310.0,
+        "close_price": 1346.0,
+        "volume": 6410846.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250813,
+        "open_price": 1318.0,
+        "high_price": 1319.0,
+        "low_price": 1316.0,
+        "close_price": 1343.0,
+        "volume": 3619550.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250812,
+        "open_price": 1358.0,
+        "high_price": 1359.0,
+        "low_price": 1356.0,
+        "close_price": 1356.0,
+        "volume": 2904983.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250811,
+        "open_price": 1391.0,
+        "high_price": 1391.0,
+        "low_price": 1353.0,
+        "close_price": 1356.0,
+        "volume": 2081644.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250810,
+        "open_price": 1380.0,
+        "high_price": 1388.0,
+        "low_price": 1348.0,
+        "close_price": 1351.0,
+        "volume": 3221466.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250809,
+        "open_price": 1348.0,
+        "high_price": 1377.0,
+        "low_price": 1346.0,
+        "close_price": 1348.0,
+        "volume": 2592697.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250806,
+        "open_price": 1381.0,
+        "high_price": 1381.0,
+        "low_price": 1345.0,
+        "close_price": 1345.0,
+        "volume": 1140962.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250805,
+        "open_price": 1343.0,
+        "high_price": 1382.0,
+        "low_price": 1342.0,
+        "close_price": 1345.0,
+        "volume": 2626921.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250804,
+        "open_price": 1343.0,
+        "high_price": 1353.0,
+        "low_price": 1342.0,
+        "close_price": 1342.0,
+        "volume": 2782776.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250803,
+        "open_price": 1327.0,
+        "high_price": 1345.0,
+        "low_price": 1327.0,
+        "close_price": 1342.0,
+        "volume": 5395460.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250802,
+        "open_price": 1345.0,
+        "high_price": 1360.0,
+        "low_price": 1344.0,
+        "close_price": 1344.0,
+        "volume": 4787920.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250730,
+        "open_price": 1342.0,
+        "high_price": 1380.0,
+        "low_price": 1342.0,
+        "close_price": 1344.0,
+        "volume": 1884045.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250729,
+        "open_price": 1342.0,
+        "high_price": 1360.0,
+        "low_price": 1342.0,
+        "close_price": 1342.0,
+        "volume": 6395111.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250728,
+        "open_price": 1336.0,
+        "high_price": 1337.0,
+        "low_price": 1334.0,
+        "close_price": 1342.0,
+        "volume": 8981868.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250727,
+        "open_price": 1405.0,
+        "high_price": 1405.0,
+        "low_price": 1372.0,
+        "close_price": 1375.0,
+        "volume": 3892128.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250726,
+        "open_price": 1378.0,
+        "high_price": 1402.0,
+        "low_price": 1335.0,
+        "close_price": 1375.0,
+        "volume": 4462544.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250723,
+        "open_price": 1371.0,
+        "high_price": 1399.0,
+        "low_price": 1370.0,
+        "close_price": 1376.0,
+        "volume": 4389065.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250722,
+        "open_price": 1382.0,
+        "high_price": 1382.0,
+        "low_price": 1369.0,
+        "close_price": 1370.0,
+        "volume": 4486786.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250721,
+        "open_price": 1420.0,
+        "high_price": 1420.0,
+        "low_price": 1345.0,
+        "close_price": 1369.0,
+        "volume": 15320545.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250720,
+        "open_price": 1391.0,
+        "high_price": 1391.0,
+        "low_price": 1381.0,
+        "close_price": 1379.0,
+        "volume": 7781971.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250719,
+        "open_price": 1388.0,
+        "high_price": 1388.0,
+        "low_price": 1388.0,
+        "close_price": 1351.0,
+        "volume": 938353.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250716,
+        "open_price": 1377.0,
+        "high_price": 1377.0,
+        "low_price": 1377.0,
+        "close_price": 1348.0,
+        "volume": 3072259.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250715,
+        "open_price": 1365.0,
+        "high_price": 1365.0,
+        "low_price": 1365.0,
+        "close_price": 1337.0,
+        "volume": 3413138.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250714,
+        "open_price": 1353.0,
+        "high_price": 1353.0,
+        "low_price": 1327.0,
+        "close_price": 1326.0,
+        "volume": 5074185.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250713,
+        "open_price": 1328.0,
+        "high_price": 1328.0,
+        "low_price": 1328.0,
+        "close_price": 1314.0,
+        "volume": 7382438.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250712,
+        "open_price": 1311.0,
+        "high_price": 1322.0,
+        "low_price": 1296.0,
+        "close_price": 1290.0,
+        "volume": 2474083.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250709,
+        "open_price": 1308.0,
+        "high_price": 1316.0,
+        "low_price": 1293.0,
+        "close_price": 1284.0,
+        "volume": 2301698.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250708,
+        "open_price": 1288.0,
+        "high_price": 1311.0,
+        "low_price": 1286.0,
+        "close_price": 1280.0,
+        "volume": 5189511.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250707,
+        "open_price": 1301.0,
+        "high_price": 1301.0,
+        "low_price": 1278.0,
+        "close_price": 1274.0,
+        "volume": 4720989.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250702,
+        "open_price": 1270.0,
+        "high_price": 1290.0,
+        "low_price": 1264.0,
+        "close_price": 1266.0,
+        "volume": 1952329.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250701,
+        "open_price": 1260.0,
+        "high_price": 1286.0,
+        "low_price": 1259.0,
+        "close_price": 1263.0,
+        "volume": 6634925.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250630,
+        "open_price": 1260.0,
+        "high_price": 1308.0,
+        "low_price": 1258.0,
+        "close_price": 1261.0,
+        "volume": 13231282.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250629,
+        "open_price": 1288.0,
+        "high_price": 1304.0,
+        "low_price": 1276.0,
+        "close_price": 1296.0,
+        "volume": 5876159.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250628,
+        "open_price": 1302.0,
+        "high_price": 1355.0,
+        "low_price": 1302.0,
+        "close_price": 1313.0,
+        "volume": 46291652.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1342.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1342.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1342.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1342.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1342.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1342.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1342.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1342.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250611,
+        "open_price": 1340.0,
+        "high_price": 1376.0,
+        "low_price": 1339.0,
+        "close_price": 1342.0,
+        "volume": 3669729.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250610,
+        "open_price": 1337.0,
+        "high_price": 1355.0,
+        "low_price": 1337.0,
+        "close_price": 1340.0,
+        "volume": 4741607.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250609,
+        "open_price": 1349.0,
+        "high_price": 1349.0,
+        "low_price": 1318.0,
+        "close_price": 1338.0,
+        "volume": 6080814.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250608,
+        "open_price": 1344.0,
+        "high_price": 1370.0,
+        "low_price": 1340.0,
+        "close_price": 1346.0,
+        "volume": 5334392.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250607,
+        "open_price": 1377.0,
+        "high_price": 1377.0,
+        "low_price": 1337.0,
+        "close_price": 1344.0,
+        "volume": 14387631.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250603,
+        "open_price": 1384.0,
+        "high_price": 1406.0,
+        "low_price": 1359.0,
+        "close_price": 1378.0,
+        "volume": 4829575.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250602,
+        "open_price": 1385.0,
+        "high_price": 1410.0,
+        "low_price": 1360.0,
+        "close_price": 1385.0,
+        "volume": 5679417.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250601,
+        "open_price": 1424.0,
+        "high_price": 1424.0,
+        "low_price": 1382.0,
+        "close_price": 1395.0,
+        "volume": 8666693.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250531,
+        "open_price": 1476.0,
+        "high_price": 1476.0,
+        "low_price": 1393.0,
+        "close_price": 1424.0,
+        "volume": 6767366.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250528,
+        "open_price": 1429.0,
+        "high_price": 1439.0,
+        "low_price": 1405.0,
+        "close_price": 1435.0,
+        "volume": 15008154.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250527,
+        "open_price": 1416.0,
+        "high_price": 1432.0,
+        "low_price": 1398.0,
+        "close_price": 1398.0,
+        "volume": 3770012.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250526,
+        "open_price": 1425.0,
+        "high_price": 1431.0,
+        "low_price": 1371.0,
+        "close_price": 1392.0,
+        "volume": 4946124.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250525,
+        "open_price": 1393.0,
+        "high_price": 1430.0,
+        "low_price": 1375.0,
+        "close_price": 1390.0,
+        "volume": 7563955.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250524,
+        "open_price": 1404.0,
+        "high_price": 1430.0,
+        "low_price": 1372.0,
+        "close_price": 1393.0,
+        "volume": 9052073.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250521,
+        "open_price": 1404.0,
+        "high_price": 1404.0,
+        "low_price": 1404.0,
+        "close_price": 1404.0,
+        "volume": 16625840.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250520,
+        "open_price": 1497.0,
+        "high_price": 1497.0,
+        "low_price": 1426.0,
+        "close_price": 1447.0,
+        "volume": 13168838.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250519,
+        "open_price": 1437.0,
+        "high_price": 1481.0,
+        "low_price": 1429.0,
+        "close_price": 1470.0,
+        "volume": 20510304.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250518,
+        "open_price": 1457.0,
+        "high_price": 1479.0,
+        "low_price": 1415.0,
+        "close_price": 1438.0,
+        "volume": 8568774.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250517,
+        "open_price": 1471.0,
+        "high_price": 1495.0,
+        "low_price": 1439.0,
+        "close_price": 1458.0,
+        "volume": 7911724.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250514,
+        "open_price": 1471.0,
+        "high_price": 1495.0,
+        "low_price": 1457.0,
+        "close_price": 1471.0,
+        "volume": 4948491.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250513,
+        "open_price": 1506.0,
+        "high_price": 1506.0,
+        "low_price": 1469.0,
+        "close_price": 1471.0,
+        "volume": 3493470.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250512,
+        "open_price": 1472.0,
+        "high_price": 1472.0,
+        "low_price": 1472.0,
+        "close_price": 1463.0,
+        "volume": 8105158.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250511,
+        "open_price": 1459.0,
+        "high_price": 1459.0,
+        "low_price": 1419.0,
+        "close_price": 1430.0,
+        "volume": 6128134.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250510,
+        "open_price": 1437.0,
+        "high_price": 1478.0,
+        "low_price": 1395.0,
+        "close_price": 1417.0,
+        "volume": 9501044.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250507,
+        "open_price": 1446.0,
+        "high_price": 1451.0,
+        "low_price": 1430.0,
+        "close_price": 1438.0,
+        "volume": 8087882.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250506,
+        "open_price": 1397.0,
+        "high_price": 1434.0,
+        "low_price": 1397.0,
+        "close_price": 1409.0,
+        "volume": 8113029.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250505,
+        "open_price": 1420.0,
+        "high_price": 1421.0,
+        "low_price": 1370.0,
+        "close_price": 1393.0,
+        "volume": 6470575.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250504,
+        "open_price": 1352.0,
+        "high_price": 1392.0,
+        "low_price": 1352.0,
+        "close_price": 1380.0,
+        "volume": 8250715.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250503,
+        "open_price": 1352.0,
+        "high_price": 1374.0,
+        "low_price": 1330.0,
+        "close_price": 1352.0,
+        "volume": 13289933.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250430,
+        "open_price": 1367.0,
+        "high_price": 1368.0,
+        "low_price": 1350.0,
+        "close_price": 1350.0,
+        "volume": 5988011.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250429,
+        "open_price": 1330.0,
+        "high_price": 1357.0,
+        "low_price": 1315.0,
+        "close_price": 1329.0,
+        "volume": 7478555.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250428,
+        "open_price": 1314.0,
+        "high_price": 1349.0,
+        "low_price": 1314.0,
+        "close_price": 1319.0,
+        "volume": 4536515.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250427,
+        "open_price": 1326.0,
+        "high_price": 1342.0,
+        "low_price": 1298.0,
+        "close_price": 1317.0,
+        "volume": 5486404.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250426,
+        "open_price": 1370.0,
+        "high_price": 1370.0,
+        "low_price": 1310.0,
+        "close_price": 1327.0,
+        "volume": 12684886.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250423,
+        "open_price": 1377.0,
+        "high_price": 1379.0,
+        "low_price": 1317.0,
+        "close_price": 1339.0,
+        "volume": 9458219.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250422,
+        "open_price": 1323.0,
+        "high_price": 1385.0,
+        "low_price": 1317.0,
+        "close_price": 1348.0,
+        "volume": 9357491.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250421,
+        "open_price": 1364.0,
+        "high_price": 1364.0,
+        "low_price": 1320.0,
+        "close_price": 1357.0,
+        "volume": 12382212.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250420,
+        "open_price": 1343.0,
+        "high_price": 1343.0,
+        "low_price": 1314.0,
+        "close_price": 1325.0,
+        "volume": 6466783.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250419,
+        "open_price": 1313.0,
+        "high_price": 1317.0,
+        "low_price": 1283.0,
+        "close_price": 1304.0,
+        "volume": 9537164.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250416,
+        "open_price": 1307.0,
+        "high_price": 1307.0,
+        "low_price": 1276.0,
+        "close_price": 1279.0,
+        "volume": 3683883.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250415,
+        "open_price": 1289.0,
+        "high_price": 1291.0,
+        "low_price": 1268.0,
+        "close_price": 1275.0,
+        "volume": 9275791.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250414,
+        "open_price": 1271.0,
+        "high_price": 1271.0,
+        "low_price": 1241.0,
+        "close_price": 1254.0,
+        "volume": 9334241.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250413,
+        "open_price": 1254.0,
+        "high_price": 1254.0,
+        "low_price": 1253.0,
+        "close_price": 1234.0,
+        "volume": 5370190.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250412,
+        "open_price": 1230.0,
+        "high_price": 1247.0,
+        "low_price": 1201.0,
+        "close_price": 1218.0,
+        "volume": 3590639.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250409,
+        "open_price": 1211.0,
+        "high_price": 1249.0,
+        "low_price": 1210.0,
+        "close_price": 1218.0,
+        "volume": 7702176.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250408,
+        "open_price": 1234.0,
+        "high_price": 1236.0,
+        "low_price": 1216.0,
+        "close_price": 1216.0,
+        "volume": 6166746.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250407,
+        "open_price": 1203.0,
+        "high_price": 1210.0,
+        "low_price": 1180.0,
+        "close_price": 1200.0,
+        "volume": 8548331.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250406,
+        "open_price": 1238.0,
+        "high_price": 1256.0,
+        "low_price": 1190.0,
+        "close_price": 1203.0,
+        "volume": 17079620.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250405,
+        "open_price": 1200.0,
+        "high_price": 1250.0,
+        "low_price": 1194.0,
+        "close_price": 1226.0,
+        "volume": 6794930.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250330,
+        "open_price": 1223.0,
+        "high_price": 1258.0,
+        "low_price": 1218.0,
+        "close_price": 1230.0,
+        "volume": 3995985.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250329,
+        "open_price": 1250.0,
+        "high_price": 1250.0,
+        "low_price": 1210.0,
+        "close_price": 1222.0,
+        "volume": 12572645.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250326,
+        "open_price": 1259.0,
+        "high_price": 1259.0,
+        "low_price": 1215.0,
+        "close_price": 1228.0,
+        "volume": 8407837.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250325,
+        "open_price": 1254.0,
+        "high_price": 1254.0,
+        "low_price": 1222.0,
+        "close_price": 1234.0,
+        "volume": 8346955.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250318,
+        "open_price": 1224.0,
+        "high_price": 1224.0,
+        "low_price": 1189.0,
+        "close_price": 1223.0,
+        "volume": 25970180.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250317,
+        "open_price": 1220.0,
+        "high_price": 1220.0,
+        "low_price": 1220.0,
+        "close_price": 1189.0,
+        "volume": 1373140.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250316,
+        "open_price": 1218.0,
+        "high_price": 1218.0,
+        "low_price": 1218.0,
+        "close_price": 1185.0,
+        "volume": 814461.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1423.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250312,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1423.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250311,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1423.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250310,
+        "open_price": 1406.0,
+        "high_price": 1449.0,
+        "low_price": 1406.0,
+        "close_price": 1423.0,
+        "volume": 10025256.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250309,
+        "open_price": 1385.0,
+        "high_price": 1448.0,
+        "low_price": 1385.0,
+        "close_price": 1421.0,
+        "volume": 8117042.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250308,
+        "open_price": 1499.0,
+        "high_price": 1499.0,
+        "low_price": 1422.0,
+        "close_price": 1426.0,
+        "volume": 13840820.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250305,
+        "open_price": 1462.0,
+        "high_price": 1515.0,
+        "low_price": 1458.0,
+        "close_price": 1465.0,
+        "volume": 20642452.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250304,
+        "open_price": 1498.0,
+        "high_price": 1548.0,
+        "low_price": 1498.0,
+        "close_price": 1503.0,
+        "volume": 62303648.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250303,
+        "open_price": 1503.0,
+        "high_price": 1503.0,
+        "low_price": 1503.0,
+        "close_price": 1544.0,
+        "volume": 1056735.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250302,
+        "open_price": 1549.0,
+        "high_price": 1549.0,
+        "low_price": 1549.0,
+        "close_price": 1549.0,
+        "volume": 14444964.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250301,
+        "open_price": 1610.0,
+        "high_price": 1619.0,
+        "low_price": 1576.0,
+        "close_price": 1596.0,
+        "volume": 4597480.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250226,
+        "open_price": 1643.0,
+        "high_price": 1643.0,
+        "low_price": 1570.0,
+        "close_price": 1601.0,
+        "volume": 5599848.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250225,
+        "open_price": 1594.0,
+        "high_price": 1614.0,
+        "low_price": 1574.0,
+        "close_price": 1597.0,
+        "volume": 7158585.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250224,
+        "open_price": 1588.0,
+        "high_price": 1590.0,
+        "low_price": 1566.0,
+        "close_price": 1567.0,
+        "volume": 6362169.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250223,
+        "open_price": 1549.0,
+        "high_price": 1593.0,
+        "low_price": 1530.0,
+        "close_price": 1548.0,
+        "volume": 2926264.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250222,
+        "open_price": 1558.0,
+        "high_price": 1583.0,
+        "low_price": 1540.0,
+        "close_price": 1549.0,
+        "volume": 4212594.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250219,
+        "open_price": 1531.0,
+        "high_price": 1575.0,
+        "low_price": 1516.0,
+        "close_price": 1543.0,
+        "volume": 4917755.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250218,
+        "open_price": 1569.0,
+        "high_price": 1569.0,
+        "low_price": 1515.0,
+        "close_price": 1531.0,
+        "volume": 2637061.0
+    },
+    {
+        "symbol": "وطوبی",
+        "trade_date": 20250217,
+        "open_price": 1485.0,
+        "high_price": 1568.0,
+        "low_price": 1485.0,
+        "close_price": 1532.0,
+        "volume": 3790033.0
+    }
+]

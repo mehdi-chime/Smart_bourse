@@ -1,0 +1,2387 @@
+[
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260901,
+        "open_price": 29009.0,
+        "high_price": 29799.0,
+        "low_price": 28320.0,
+        "close_price": 28866.0,
+        "volume": 66403.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260831,
+        "open_price": 29068.0,
+        "high_price": 29071.0,
+        "low_price": 28255.0,
+        "close_price": 29003.0,
+        "volume": 1849966.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260829,
+        "open_price": 28233.0,
+        "high_price": 29371.0,
+        "low_price": 28233.0,
+        "close_price": 29071.0,
+        "volume": 11637780.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260826,
+        "open_price": 28516.0,
+        "high_price": 28516.0,
+        "low_price": 28516.0,
+        "close_price": 28516.0,
+        "volume": 812481.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260825,
+        "open_price": 27350.0,
+        "high_price": 28202.0,
+        "low_price": 27350.0,
+        "close_price": 27686.0,
+        "volume": 1986881.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260824,
+        "open_price": 27897.0,
+        "high_price": 27897.0,
+        "low_price": 27100.0,
+        "close_price": 27381.0,
+        "volume": 399618.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260823,
+        "open_price": 27994.0,
+        "high_price": 27994.0,
+        "low_price": 27240.0,
+        "close_price": 27332.0,
+        "volume": 39472.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260822,
+        "open_price": 26680.0,
+        "high_price": 27300.0,
+        "low_price": 26680.0,
+        "close_price": 27179.0,
+        "volume": 4339697.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260819,
+        "open_price": 26500.0,
+        "high_price": 27283.0,
+        "low_price": 26410.0,
+        "close_price": 26676.0,
+        "volume": 4716949.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260818,
+        "open_price": 26700.0,
+        "high_price": 27000.0,
+        "low_price": 26320.0,
+        "close_price": 26532.0,
+        "volume": 188336.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260817,
+        "open_price": 26500.0,
+        "high_price": 26536.0,
+        "low_price": 26200.0,
+        "close_price": 26393.0,
+        "volume": 487390.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260816,
+        "open_price": 25796.0,
+        "high_price": 26150.0,
+        "low_price": 25700.0,
+        "close_price": 25764.0,
+        "volume": 293970.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260815,
+        "open_price": 25440.0,
+        "high_price": 26144.0,
+        "low_price": 25210.0,
+        "close_price": 25639.0,
+        "volume": 245739.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260811,
+        "open_price": 25600.0,
+        "high_price": 25963.0,
+        "low_price": 25411.0,
+        "close_price": 25428.0,
+        "volume": 143559.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260810,
+        "open_price": 25000.0,
+        "high_price": 25800.0,
+        "low_price": 25000.0,
+        "close_price": 25208.0,
+        "volume": 436594.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260809,
+        "open_price": 25566.0,
+        "high_price": 25566.0,
+        "low_price": 24420.0,
+        "close_price": 25049.0,
+        "volume": 2064193.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260808,
+        "open_price": 25150.0,
+        "high_price": 25150.0,
+        "low_price": 24820.0,
+        "close_price": 25052.0,
+        "volume": 6289874.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260805,
+        "open_price": 24423.0,
+        "high_price": 24423.0,
+        "low_price": 24221.0,
+        "close_price": 24418.0,
+        "volume": 1691443.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260803,
+        "open_price": 23330.0,
+        "high_price": 23770.0,
+        "low_price": 23300.0,
+        "close_price": 23712.0,
+        "volume": 1303978.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260802,
+        "open_price": 23082.0,
+        "high_price": 23082.0,
+        "low_price": 22850.0,
+        "close_price": 23078.0,
+        "volume": 534051.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260801,
+        "open_price": 22250.0,
+        "high_price": 22750.0,
+        "low_price": 22250.0,
+        "close_price": 22410.0,
+        "volume": 533192.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260729,
+        "open_price": 22800.0,
+        "high_price": 22800.0,
+        "low_price": 22203.0,
+        "close_price": 22694.0,
+        "volume": 388611.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260728,
+        "open_price": 22399.0,
+        "high_price": 22844.0,
+        "low_price": 22180.0,
+        "close_price": 22489.0,
+        "volume": 744000.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260727,
+        "open_price": 22399.0,
+        "high_price": 22399.0,
+        "low_price": 22100.0,
+        "close_price": 22179.0,
+        "volume": 681830.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260726,
+        "open_price": 21850.0,
+        "high_price": 22330.0,
+        "low_price": 21850.0,
+        "close_price": 22077.0,
+        "volume": 4448160.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260725,
+        "open_price": 21820.0,
+        "high_price": 22096.0,
+        "low_price": 21820.0,
+        "close_price": 21822.0,
+        "volume": 37818.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260722,
+        "open_price": 22321.0,
+        "high_price": 22321.0,
+        "low_price": 21600.0,
+        "close_price": 21904.0,
+        "volume": 237894.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260721,
+        "open_price": 21700.0,
+        "high_price": 22090.0,
+        "low_price": 21601.0,
+        "close_price": 21677.0,
+        "volume": 227683.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260720,
+        "open_price": 22032.0,
+        "high_price": 22032.0,
+        "low_price": 21245.0,
+        "close_price": 21469.0,
+        "volume": 317485.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260719,
+        "open_price": 21900.0,
+        "high_price": 21900.0,
+        "low_price": 20860.0,
+        "close_price": 21391.0,
+        "volume": 490.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260718,
+        "open_price": 21309.0,
+        "high_price": 21309.0,
+        "low_price": 20904.0,
+        "close_price": 21288.0,
+        "volume": 3172272.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260715,
+        "open_price": 21550.0,
+        "high_price": 21550.0,
+        "low_price": 21300.0,
+        "close_price": 21549.0,
+        "volume": 30078.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260714,
+        "open_price": 22138.0,
+        "high_price": 22138.0,
+        "low_price": 21550.0,
+        "close_price": 21551.0,
+        "volume": 32046.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260713,
+        "open_price": 20812.0,
+        "high_price": 22089.0,
+        "low_price": 20812.0,
+        "close_price": 21495.0,
+        "volume": 3440.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260712,
+        "open_price": 21452.0,
+        "high_price": 21452.0,
+        "low_price": 21450.0,
+        "close_price": 21451.0,
+        "volume": 116137.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260711,
+        "open_price": 22006.0,
+        "high_price": 22680.0,
+        "low_price": 22003.0,
+        "close_price": 22105.0,
+        "volume": 470136.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260708,
+        "open_price": 22241.0,
+        "high_price": 23100.0,
+        "low_price": 22226.0,
+        "close_price": 22681.0,
+        "volume": 568712.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260707,
+        "open_price": 22900.0,
+        "high_price": 22914.0,
+        "low_price": 22900.0,
+        "close_price": 22913.0,
+        "volume": 3701146.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260701,
+        "open_price": 22099.0,
+        "high_price": 22601.0,
+        "low_price": 21800.0,
+        "close_price": 22247.0,
+        "volume": 420999.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260630,
+        "open_price": 22122.0,
+        "high_price": 22122.0,
+        "low_price": 21801.0,
+        "close_price": 21943.0,
+        "volume": 300993.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260629,
+        "open_price": 21470.0,
+        "high_price": 21484.0,
+        "low_price": 21000.0,
+        "close_price": 21478.0,
+        "volume": 744072.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260628,
+        "open_price": 20795.0,
+        "high_price": 21422.0,
+        "low_price": 20782.0,
+        "close_price": 20859.0,
+        "volume": 814144.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260627,
+        "open_price": 21870.0,
+        "high_price": 21870.0,
+        "low_price": 21101.0,
+        "close_price": 21422.0,
+        "volume": 1262432.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260623,
+        "open_price": 21240.0,
+        "high_price": 21241.0,
+        "low_price": 21238.0,
+        "close_price": 21241.0,
+        "volume": 478717.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260622,
+        "open_price": 20700.0,
+        "high_price": 21000.0,
+        "low_price": 20611.0,
+        "close_price": 20623.0,
+        "volume": 2128565.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260621,
+        "open_price": 21550.0,
+        "high_price": 21597.0,
+        "low_price": 20822.0,
+        "close_price": 21248.0,
+        "volume": 2123316.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260620,
+        "open_price": 21543.0,
+        "high_price": 21751.0,
+        "low_price": 21200.0,
+        "close_price": 21461.0,
+        "volume": 3079684.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260617,
+        "open_price": 21400.0,
+        "high_price": 21700.0,
+        "low_price": 21353.0,
+        "close_price": 21543.0,
+        "volume": 2050731.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260616,
+        "open_price": 22495.0,
+        "high_price": 22495.0,
+        "low_price": 21300.0,
+        "close_price": 22009.0,
+        "volume": 13403479.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260615,
+        "open_price": 21841.0,
+        "high_price": 21841.0,
+        "low_price": 21760.0,
+        "close_price": 21840.0,
+        "volume": 8665952.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260614,
+        "open_price": 21218.0,
+        "high_price": 21218.0,
+        "low_price": 21041.0,
+        "close_price": 21205.0,
+        "volume": 3285445.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260613,
+        "open_price": 20600.0,
+        "high_price": 20600.0,
+        "low_price": 20600.0,
+        "close_price": 20600.0,
+        "volume": 4000250.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260610,
+        "open_price": 19610.0,
+        "high_price": 20041.0,
+        "low_price": 19600.0,
+        "close_price": 20000.0,
+        "volume": 1193766.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260609,
+        "open_price": 19458.0,
+        "high_price": 19458.0,
+        "low_price": 19458.0,
+        "close_price": 19458.0,
+        "volume": 6866806.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260608,
+        "open_price": 18527.0,
+        "high_price": 19100.0,
+        "low_price": 18527.0,
+        "close_price": 18892.0,
+        "volume": 8092719.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260607,
+        "open_price": 19000.0,
+        "high_price": 19100.0,
+        "low_price": 19000.0,
+        "close_price": 19099.0,
+        "volume": 10141615.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260606,
+        "open_price": 18500.0,
+        "high_price": 18930.0,
+        "low_price": 18400.0,
+        "close_price": 18544.0,
+        "volume": 289261.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260603,
+        "open_price": 18150.0,
+        "high_price": 18513.0,
+        "low_price": 18150.0,
+        "close_price": 18383.0,
+        "volume": 461521.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260602,
+        "open_price": 18306.0,
+        "high_price": 18670.0,
+        "low_price": 18306.0,
+        "close_price": 18363.0,
+        "volume": 168280.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260601,
+        "open_price": 18200.0,
+        "high_price": 18570.0,
+        "low_price": 18200.0,
+        "close_price": 18306.0,
+        "volume": 2197249.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260531,
+        "open_price": 18030.0,
+        "high_price": 18030.0,
+        "low_price": 18030.0,
+        "close_price": 18030.0,
+        "volume": 1917450.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260530,
+        "open_price": 17504.0,
+        "high_price": 17505.0,
+        "low_price": 17504.0,
+        "close_price": 17505.0,
+        "volume": 6732200.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260526,
+        "open_price": 16759.0,
+        "high_price": 17266.0,
+        "low_price": 16600.0,
+        "close_price": 16996.0,
+        "volume": 4932762.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260525,
+        "open_price": 17050.0,
+        "high_price": 17054.0,
+        "low_price": 16559.0,
+        "close_price": 16764.0,
+        "volume": 1960596.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260524,
+        "open_price": 16559.0,
+        "high_price": 16559.0,
+        "low_price": 16559.0,
+        "close_price": 16559.0,
+        "volume": 5570000.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260523,
+        "open_price": 16180.0,
+        "high_price": 16182.0,
+        "low_price": 16000.0,
+        "close_price": 16077.0,
+        "volume": 740761.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260520,
+        "open_price": 15920.0,
+        "high_price": 15920.0,
+        "low_price": 15689.0,
+        "close_price": 15711.0,
+        "volume": 141132.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260519,
+        "open_price": 15656.0,
+        "high_price": 15800.0,
+        "low_price": 15656.0,
+        "close_price": 15689.0,
+        "volume": 812906.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260225,
+        "open_price": 16200.0,
+        "high_price": 16300.0,
+        "low_price": 16100.0,
+        "close_price": 16140.0,
+        "volume": 259180.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260224,
+        "open_price": 16050.0,
+        "high_price": 16259.0,
+        "low_price": 16050.0,
+        "close_price": 16064.0,
+        "volume": 12540.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260223,
+        "open_price": 15900.0,
+        "high_price": 16000.0,
+        "low_price": 15900.0,
+        "close_price": 15961.0,
+        "volume": 107366.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260222,
+        "open_price": 15900.0,
+        "high_price": 16229.0,
+        "low_price": 15750.0,
+        "close_price": 15828.0,
+        "volume": 207527.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260221,
+        "open_price": 16550.0,
+        "high_price": 16550.0,
+        "low_price": 16200.0,
+        "close_price": 16200.0,
+        "volume": 174391.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260218,
+        "open_price": 17010.0,
+        "high_price": 17010.0,
+        "low_price": 16600.0,
+        "close_price": 16640.0,
+        "volume": 3487.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260217,
+        "open_price": 16810.0,
+        "high_price": 17000.0,
+        "low_price": 16760.0,
+        "close_price": 16960.0,
+        "volume": 8327.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260216,
+        "open_price": 16850.0,
+        "high_price": 16990.0,
+        "low_price": 16610.0,
+        "close_price": 16850.0,
+        "volume": 1197184.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260215,
+        "open_price": 16900.0,
+        "high_price": 17100.0,
+        "low_price": 16900.0,
+        "close_price": 16940.0,
+        "volume": 36779.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260214,
+        "open_price": 17350.0,
+        "high_price": 17640.0,
+        "low_price": 17350.0,
+        "close_price": 17380.0,
+        "volume": 8965.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260210,
+        "open_price": 17350.0,
+        "high_price": 17590.0,
+        "low_price": 17250.0,
+        "close_price": 17350.0,
+        "volume": 7237.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260209,
+        "open_price": 17400.0,
+        "high_price": 17400.0,
+        "low_price": 17250.0,
+        "close_price": 17270.0,
+        "volume": 97031.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260208,
+        "open_price": 17800.0,
+        "high_price": 17800.0,
+        "low_price": 17450.0,
+        "close_price": 17700.0,
+        "volume": 228167.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260207,
+        "open_price": 17300.0,
+        "high_price": 17560.0,
+        "low_price": 17300.0,
+        "close_price": 17560.0,
+        "volume": 379116.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260203,
+        "open_price": 17200.0,
+        "high_price": 17330.0,
+        "low_price": 17000.0,
+        "close_price": 17050.0,
+        "volume": 12778.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260202,
+        "open_price": 17470.0,
+        "high_price": 17470.0,
+        "low_price": 17460.0,
+        "close_price": 17470.0,
+        "volume": 25760.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260201,
+        "open_price": 17000.0,
+        "high_price": 17300.0,
+        "low_price": 17000.0,
+        "close_price": 17000.0,
+        "volume": 40059.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260131,
+        "open_price": 16850.0,
+        "high_price": 16850.0,
+        "low_price": 16850.0,
+        "close_price": 16850.0,
+        "volume": 1300.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260128,
+        "open_price": 17250.0,
+        "high_price": 17400.0,
+        "low_price": 17250.0,
+        "close_price": 17320.0,
+        "volume": 93989.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260127,
+        "open_price": 17580.0,
+        "high_price": 17580.0,
+        "low_price": 17250.0,
+        "close_price": 17250.0,
+        "volume": 217698.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260126,
+        "open_price": 18300.0,
+        "high_price": 18300.0,
+        "low_price": 17660.0,
+        "close_price": 17740.0,
+        "volume": 17167.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260125,
+        "open_price": 18150.0,
+        "high_price": 18400.0,
+        "low_price": 18150.0,
+        "close_price": 18160.0,
+        "volume": 163404.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260124,
+        "open_price": 18660.0,
+        "high_price": 18990.0,
+        "low_price": 18600.0,
+        "close_price": 18660.0,
+        "volume": 126006.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260121,
+        "open_price": 18990.0,
+        "high_price": 19150.0,
+        "low_price": 18920.0,
+        "close_price": 19000.0,
+        "volume": 207446.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260120,
+        "open_price": 18550.0,
+        "high_price": 19070.0,
+        "low_price": 18550.0,
+        "close_price": 18760.0,
+        "volume": 58835.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260119,
+        "open_price": 18900.0,
+        "high_price": 18900.0,
+        "low_price": 18500.0,
+        "close_price": 18540.0,
+        "volume": 1147183.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260118,
+        "open_price": 18710.0,
+        "high_price": 18890.0,
+        "low_price": 18550.0,
+        "close_price": 18690.0,
+        "volume": 33734.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260114,
+        "open_price": 18450.0,
+        "high_price": 18450.0,
+        "low_price": 18450.0,
+        "close_price": 18450.0,
+        "volume": 611448.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260113,
+        "open_price": 18960.0,
+        "high_price": 19100.0,
+        "low_price": 18610.0,
+        "close_price": 18970.0,
+        "volume": 253298.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260112,
+        "open_price": 18730.0,
+        "high_price": 19310.0,
+        "low_price": 18730.0,
+        "close_price": 18950.0,
+        "volume": 26851.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260111,
+        "open_price": 18900.0,
+        "high_price": 19140.0,
+        "low_price": 18600.0,
+        "close_price": 18800.0,
+        "volume": 159144.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260110,
+        "open_price": 19180.0,
+        "high_price": 19190.0,
+        "low_price": 18660.0,
+        "close_price": 18780.0,
+        "volume": 290598.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260107,
+        "open_price": 19370.0,
+        "high_price": 19620.0,
+        "low_price": 19100.0,
+        "close_price": 19220.0,
+        "volume": 332971.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260106,
+        "open_price": 18790.0,
+        "high_price": 19070.0,
+        "low_price": 18790.0,
+        "close_price": 19060.0,
+        "volume": 1559181.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260105,
+        "open_price": 18200.0,
+        "high_price": 18690.0,
+        "low_price": 18200.0,
+        "close_price": 18520.0,
+        "volume": 19626.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20260104,
+        "open_price": 18090.0,
+        "high_price": 18440.0,
+        "low_price": 18090.0,
+        "close_price": 18200.0,
+        "volume": 6707.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251231,
+        "open_price": 18060.0,
+        "high_price": 18640.0,
+        "low_price": 18060.0,
+        "close_price": 18600.0,
+        "volume": 112356.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251230,
+        "open_price": 18110.0,
+        "high_price": 18120.0,
+        "low_price": 18110.0,
+        "close_price": 18110.0,
+        "volume": 1022307.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251229,
+        "open_price": 18760.0,
+        "high_price": 18850.0,
+        "low_price": 18500.0,
+        "close_price": 18620.0,
+        "volume": 90228.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251228,
+        "open_price": 18700.0,
+        "high_price": 19120.0,
+        "low_price": 18700.0,
+        "close_price": 18760.0,
+        "volume": 427893.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251227,
+        "open_price": 18520.0,
+        "high_price": 19100.0,
+        "low_price": 18520.0,
+        "close_price": 18700.0,
+        "volume": 292275.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251224,
+        "open_price": 18490.0,
+        "high_price": 18570.0,
+        "low_price": 18300.0,
+        "close_price": 18570.0,
+        "volume": 8521478.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251223,
+        "open_price": 17920.0,
+        "high_price": 18130.0,
+        "low_price": 17920.0,
+        "close_price": 18030.0,
+        "volume": 18554.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251222,
+        "open_price": 17820.0,
+        "high_price": 18000.0,
+        "low_price": 17700.0,
+        "close_price": 17870.0,
+        "volume": 1028174.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251221,
+        "open_price": 17730.0,
+        "high_price": 17950.0,
+        "low_price": 17730.0,
+        "close_price": 17910.0,
+        "volume": 2372.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251220,
+        "open_price": 17700.0,
+        "high_price": 17890.0,
+        "low_price": 17680.0,
+        "close_price": 17710.0,
+        "volume": 1103100.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251217,
+        "open_price": 17500.0,
+        "high_price": 17500.0,
+        "low_price": 17450.0,
+        "close_price": 17450.0,
+        "volume": 23860.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251216,
+        "open_price": 17590.0,
+        "high_price": 17600.0,
+        "low_price": 17140.0,
+        "close_price": 17500.0,
+        "volume": 86950.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251215,
+        "open_price": 17150.0,
+        "high_price": 17400.0,
+        "low_price": 17150.0,
+        "close_price": 17280.0,
+        "volume": 35004.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251214,
+        "open_price": 16900.0,
+        "high_price": 17100.0,
+        "low_price": 16900.0,
+        "close_price": 17040.0,
+        "volume": 160759.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251213,
+        "open_price": 16900.0,
+        "high_price": 17100.0,
+        "low_price": 16900.0,
+        "close_price": 16930.0,
+        "volume": 119024.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251210,
+        "open_price": 16730.0,
+        "high_price": 16800.0,
+        "low_price": 16700.0,
+        "close_price": 16790.0,
+        "volume": 20359.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251209,
+        "open_price": 16450.0,
+        "high_price": 16570.0,
+        "low_price": 16400.0,
+        "close_price": 16500.0,
+        "volume": 29306.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251208,
+        "open_price": 16350.0,
+        "high_price": 16470.0,
+        "low_price": 16260.0,
+        "close_price": 16450.0,
+        "volume": 45274.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251207,
+        "open_price": 16550.0,
+        "high_price": 16550.0,
+        "low_price": 16380.0,
+        "close_price": 16380.0,
+        "volume": 4100150.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251206,
+        "open_price": 16290.0,
+        "high_price": 16290.0,
+        "low_price": 16190.0,
+        "close_price": 16220.0,
+        "volume": 6306.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251203,
+        "open_price": 15900.0,
+        "high_price": 16060.0,
+        "low_price": 15870.0,
+        "close_price": 16060.0,
+        "volume": 6214424.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251202,
+        "open_price": 15730.0,
+        "high_price": 15790.0,
+        "low_price": 15650.0,
+        "close_price": 15710.0,
+        "volume": 411678.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251201,
+        "open_price": 15840.0,
+        "high_price": 15840.0,
+        "low_price": 15600.0,
+        "close_price": 15600.0,
+        "volume": 205566.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251130,
+        "open_price": 15350.0,
+        "high_price": 15650.0,
+        "low_price": 15350.0,
+        "close_price": 15620.0,
+        "volume": 8600.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251129,
+        "open_price": 15400.0,
+        "high_price": 15400.0,
+        "low_price": 15400.0,
+        "close_price": 15400.0,
+        "volume": 1000.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251126,
+        "open_price": 15600.0,
+        "high_price": 15600.0,
+        "low_price": 15500.0,
+        "close_price": 15500.0,
+        "volume": 37560.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251125,
+        "open_price": 15400.0,
+        "high_price": 15660.0,
+        "low_price": 15400.0,
+        "close_price": 15420.0,
+        "volume": 114129.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251123,
+        "open_price": 15300.0,
+        "high_price": 15300.0,
+        "low_price": 15200.0,
+        "close_price": 15220.0,
+        "volume": 114114.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251122,
+        "open_price": 15150.0,
+        "high_price": 15300.0,
+        "low_price": 15150.0,
+        "close_price": 15280.0,
+        "volume": 35402.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251119,
+        "open_price": 15000.0,
+        "high_price": 15190.0,
+        "low_price": 15000.0,
+        "close_price": 15190.0,
+        "volume": 19335.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251118,
+        "open_price": 15030.0,
+        "high_price": 15030.0,
+        "low_price": 14950.0,
+        "close_price": 15010.0,
+        "volume": 3335100.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251117,
+        "open_price": 15000.0,
+        "high_price": 15000.0,
+        "low_price": 14950.0,
+        "close_price": 14950.0,
+        "volume": 32506.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251116,
+        "open_price": 14780.0,
+        "high_price": 14920.0,
+        "low_price": 14780.0,
+        "close_price": 14910.0,
+        "volume": 10558.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251115,
+        "open_price": 14750.0,
+        "high_price": 14900.0,
+        "low_price": 14750.0,
+        "close_price": 14900.0,
+        "volume": 200468.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251112,
+        "open_price": 14620.0,
+        "high_price": 14620.0,
+        "low_price": 14620.0,
+        "close_price": 14620.0,
+        "volume": 2420.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251111,
+        "open_price": 14750.0,
+        "high_price": 14750.0,
+        "low_price": 14750.0,
+        "close_price": 14750.0,
+        "volume": 8579.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251110,
+        "open_price": 15010.0,
+        "high_price": 15010.0,
+        "low_price": 14910.0,
+        "close_price": 14980.0,
+        "volume": 1625.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251109,
+        "open_price": 14810.0,
+        "high_price": 14810.0,
+        "low_price": 14810.0,
+        "close_price": 14810.0,
+        "volume": 1641.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251108,
+        "open_price": 15050.0,
+        "high_price": 15300.0,
+        "low_price": 15030.0,
+        "close_price": 15240.0,
+        "volume": 1505.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251105,
+        "open_price": 14950.0,
+        "high_price": 15150.0,
+        "low_price": 14950.0,
+        "close_price": 15010.0,
+        "volume": 1101.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251104,
+        "open_price": 15250.0,
+        "high_price": 15310.0,
+        "low_price": 15100.0,
+        "close_price": 15120.0,
+        "volume": 18936.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251103,
+        "open_price": 15340.0,
+        "high_price": 15340.0,
+        "low_price": 15050.0,
+        "close_price": 15090.0,
+        "volume": 12731.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251102,
+        "open_price": 14900.0,
+        "high_price": 15150.0,
+        "low_price": 14900.0,
+        "close_price": 14900.0,
+        "volume": 67037.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251101,
+        "open_price": 15000.0,
+        "high_price": 15200.0,
+        "low_price": 14900.0,
+        "close_price": 14960.0,
+        "volume": 2005341.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251029,
+        "open_price": 14700.0,
+        "high_price": 14850.0,
+        "low_price": 14700.0,
+        "close_price": 14850.0,
+        "volume": 204374.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251028,
+        "open_price": 14800.0,
+        "high_price": 14920.0,
+        "low_price": 14600.0,
+        "close_price": 14710.0,
+        "volume": 15221.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251027,
+        "open_price": 14700.0,
+        "high_price": 14700.0,
+        "low_price": 14600.0,
+        "close_price": 14620.0,
+        "volume": 119223.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251026,
+        "open_price": 14500.0,
+        "high_price": 14580.0,
+        "low_price": 14450.0,
+        "close_price": 14500.0,
+        "volume": 385509.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251025,
+        "open_price": 14300.0,
+        "high_price": 14500.0,
+        "low_price": 14300.0,
+        "close_price": 14350.0,
+        "volume": 38791.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251022,
+        "open_price": 14340.0,
+        "high_price": 14340.0,
+        "low_price": 14340.0,
+        "close_price": 14340.0,
+        "volume": 3000.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251021,
+        "open_price": 14590.0,
+        "high_price": 14590.0,
+        "low_price": 14250.0,
+        "close_price": 14370.0,
+        "volume": 3032.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251020,
+        "open_price": 14690.0,
+        "high_price": 14690.0,
+        "low_price": 14300.0,
+        "close_price": 14460.0,
+        "volume": 3733.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251019,
+        "open_price": 14300.0,
+        "high_price": 14510.0,
+        "low_price": 14200.0,
+        "close_price": 14330.0,
+        "volume": 563654.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251018,
+        "open_price": 14170.0,
+        "high_price": 14200.0,
+        "low_price": 14120.0,
+        "close_price": 14150.0,
+        "volume": 2271642.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251015,
+        "open_price": 14000.0,
+        "high_price": 14000.0,
+        "low_price": 13900.0,
+        "close_price": 13900.0,
+        "volume": 89217.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251014,
+        "open_price": 14060.0,
+        "high_price": 14300.0,
+        "low_price": 14060.0,
+        "close_price": 14160.0,
+        "volume": 2746.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251013,
+        "open_price": 14300.0,
+        "high_price": 14300.0,
+        "low_price": 14100.0,
+        "close_price": 14200.0,
+        "volume": 218064.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251012,
+        "open_price": 14190.0,
+        "high_price": 14200.0,
+        "low_price": 14150.0,
+        "close_price": 14180.0,
+        "volume": 152084.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251011,
+        "open_price": 13960.0,
+        "high_price": 13970.0,
+        "low_price": 13960.0,
+        "close_price": 13960.0,
+        "volume": 2087.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251008,
+        "open_price": 13660.0,
+        "high_price": 13960.0,
+        "low_price": 13550.0,
+        "close_price": 13600.0,
+        "volume": 37145.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251007,
+        "open_price": 13510.0,
+        "high_price": 13930.0,
+        "low_price": 13510.0,
+        "close_price": 13650.0,
+        "volume": 5415545.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251006,
+        "open_price": 13740.0,
+        "high_price": 13740.0,
+        "low_price": 13410.0,
+        "close_price": 13590.0,
+        "volume": 155915.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251005,
+        "open_price": 13500.0,
+        "high_price": 13670.0,
+        "low_price": 13400.0,
+        "close_price": 13470.0,
+        "volume": 211282.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251004,
+        "open_price": 13260.0,
+        "high_price": 13390.0,
+        "low_price": 13260.0,
+        "close_price": 13300.0,
+        "volume": 732008.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20251001,
+        "open_price": 13050.0,
+        "high_price": 13050.0,
+        "low_price": 13050.0,
+        "close_price": 13050.0,
+        "volume": 437.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250930,
+        "open_price": 13270.0,
+        "high_price": 13270.0,
+        "low_price": 13100.0,
+        "close_price": 13120.0,
+        "volume": 116320.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250929,
+        "open_price": 12900.0,
+        "high_price": 13140.0,
+        "low_price": 12900.0,
+        "close_price": 13050.0,
+        "volume": 594623.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250928,
+        "open_price": 12890.0,
+        "high_price": 12950.0,
+        "low_price": 12860.0,
+        "close_price": 12910.0,
+        "volume": 147530.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250927,
+        "open_price": 12780.0,
+        "high_price": 12780.0,
+        "low_price": 12650.0,
+        "close_price": 12730.0,
+        "volume": 3722087.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250924,
+        "open_price": 12650.0,
+        "high_price": 12650.0,
+        "low_price": 12650.0,
+        "close_price": 12650.0,
+        "volume": 3.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250923,
+        "open_price": 12620.0,
+        "high_price": 12690.0,
+        "low_price": 12600.0,
+        "close_price": 12690.0,
+        "volume": 65572.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250922,
+        "open_price": 12590.0,
+        "high_price": 12590.0,
+        "low_price": 12450.0,
+        "close_price": 12450.0,
+        "volume": 60373.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250921,
+        "open_price": 12420.0,
+        "high_price": 12420.0,
+        "low_price": 12420.0,
+        "close_price": 12420.0,
+        "volume": 8000000.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250920,
+        "open_price": 12500.0,
+        "high_price": 12500.0,
+        "low_price": 12380.0,
+        "close_price": 12500.0,
+        "volume": 150805.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250917,
+        "open_price": 12710.0,
+        "high_price": 12720.0,
+        "low_price": 12640.0,
+        "close_price": 12720.0,
+        "volume": 15873605.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250916,
+        "open_price": 12980.0,
+        "high_price": 12980.0,
+        "low_price": 12980.0,
+        "close_price": 12980.0,
+        "volume": 752.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250915,
+        "open_price": 12990.0,
+        "high_price": 12990.0,
+        "low_price": 12900.0,
+        "close_price": 12900.0,
+        "volume": 45080.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250914,
+        "open_price": 12840.0,
+        "high_price": 12950.0,
+        "low_price": 12840.0,
+        "close_price": 12940.0,
+        "volume": 348185.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250913,
+        "open_price": 12830.0,
+        "high_price": 12830.0,
+        "low_price": 12830.0,
+        "close_price": 12830.0,
+        "volume": 1687.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250909,
+        "open_price": 12800.0,
+        "high_price": 12850.0,
+        "low_price": 12800.0,
+        "close_price": 12800.0,
+        "volume": 92398.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250908,
+        "open_price": 12700.0,
+        "high_price": 12790.0,
+        "low_price": 12700.0,
+        "close_price": 12730.0,
+        "volume": 63906.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250907,
+        "open_price": 12650.0,
+        "high_price": 12650.0,
+        "low_price": 12640.0,
+        "close_price": 12650.0,
+        "volume": 10086.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250906,
+        "open_price": 12500.0,
+        "high_price": 12500.0,
+        "low_price": 12450.0,
+        "close_price": 12460.0,
+        "volume": 20811.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250903,
+        "open_price": 12330.0,
+        "high_price": 12330.0,
+        "low_price": 12330.0,
+        "close_price": 12330.0,
+        "volume": 89000.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250902,
+        "open_price": 12250.0,
+        "high_price": 12270.0,
+        "low_price": 12250.0,
+        "close_price": 12260.0,
+        "volume": 11000.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250831,
+        "open_price": 11950.0,
+        "high_price": 11950.0,
+        "low_price": 11920.0,
+        "close_price": 11920.0,
+        "volume": 105000.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250830,
+        "open_price": 11940.0,
+        "high_price": 11940.0,
+        "low_price": 11870.0,
+        "close_price": 11870.0,
+        "volume": 1061700.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250827,
+        "open_price": 11920.0,
+        "high_price": 12060.0,
+        "low_price": 11910.0,
+        "close_price": 12000.0,
+        "volume": 1107433.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250826,
+        "open_price": 11940.0,
+        "high_price": 12090.0,
+        "low_price": 11940.0,
+        "close_price": 12010.0,
+        "volume": 567.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250825,
+        "open_price": 12140.0,
+        "high_price": 12140.0,
+        "low_price": 11950.0,
+        "close_price": 11950.0,
+        "volume": 3567.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250823,
+        "open_price": 12250.0,
+        "high_price": 12250.0,
+        "low_price": 12250.0,
+        "close_price": 12250.0,
+        "volume": 1000.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250820,
+        "open_price": 12150.0,
+        "high_price": 12250.0,
+        "low_price": 12150.0,
+        "close_price": 12210.0,
+        "volume": 1800.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250819,
+        "open_price": 12470.0,
+        "high_price": 12470.0,
+        "low_price": 12470.0,
+        "close_price": 12470.0,
+        "volume": 3400.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250818,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12350.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250817,
+        "open_price": 12390.0,
+        "high_price": 12400.0,
+        "low_price": 12250.0,
+        "close_price": 12350.0,
+        "volume": 7390.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250816,
+        "open_price": 12230.0,
+        "high_price": 12230.0,
+        "low_price": 12230.0,
+        "close_price": 12230.0,
+        "volume": 4745.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250813,
+        "open_price": 12260.0,
+        "high_price": 12260.0,
+        "low_price": 12260.0,
+        "close_price": 12260.0,
+        "volume": 1000.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250812,
+        "open_price": 12400.0,
+        "high_price": 12400.0,
+        "low_price": 12400.0,
+        "close_price": 12400.0,
+        "volume": 3205.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250811,
+        "open_price": 12450.0,
+        "high_price": 12450.0,
+        "low_price": 12450.0,
+        "close_price": 12450.0,
+        "volume": 1000.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250810,
+        "open_price": 12490.0,
+        "high_price": 12550.0,
+        "low_price": 12460.0,
+        "close_price": 12480.0,
+        "volume": 4002420.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250809,
+        "open_price": 12500.0,
+        "high_price": 12560.0,
+        "low_price": 12500.0,
+        "close_price": 12560.0,
+        "volume": 2863697.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250806,
+        "open_price": 12480.0,
+        "high_price": 12480.0,
+        "low_price": 12430.0,
+        "close_price": 12430.0,
+        "volume": 20835400.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250805,
+        "open_price": 12950.0,
+        "high_price": 12950.0,
+        "low_price": 12700.0,
+        "close_price": 12810.0,
+        "volume": 13754.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250804,
+        "open_price": 12750.0,
+        "high_price": 12750.0,
+        "low_price": 12750.0,
+        "close_price": 12750.0,
+        "volume": 393.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250803,
+        "open_price": 12830.0,
+        "high_price": 13000.0,
+        "low_price": 12810.0,
+        "close_price": 12830.0,
+        "volume": 84179.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250802,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250730,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250729,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250728,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250727,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "یلدا",
+        "trade_date": 20250726,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    }
+]

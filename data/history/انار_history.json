@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "انار",
+        "trade_date": 20260901,
+        "open_price": 39155.0,
+        "high_price": 39319.0,
+        "low_price": 39031.0,
+        "close_price": 39131.0,
+        "volume": 7094501.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260831,
+        "open_price": 38961.0,
+        "high_price": 39025.0,
+        "low_price": 38961.0,
+        "close_price": 38982.0,
+        "volume": 2102296.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260829,
+        "open_price": 38900.0,
+        "high_price": 38981.0,
+        "low_price": 38851.0,
+        "close_price": 38905.0,
+        "volume": 3301763.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260826,
+        "open_price": 38678.0,
+        "high_price": 38840.0,
+        "low_price": 38678.0,
+        "close_price": 38762.0,
+        "volume": 3972255.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260825,
+        "open_price": 38590.0,
+        "high_price": 38680.0,
+        "low_price": 38570.0,
+        "close_price": 38633.0,
+        "volume": 7378343.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260824,
+        "open_price": 38493.0,
+        "high_price": 38869.0,
+        "low_price": 38491.0,
+        "close_price": 38515.0,
+        "volume": 9345796.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260823,
+        "open_price": 38370.0,
+        "high_price": 38475.0,
+        "low_price": 38355.0,
+        "close_price": 38387.0,
+        "volume": 2425327.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260822,
+        "open_price": 38300.0,
+        "high_price": 38400.0,
+        "low_price": 38300.0,
+        "close_price": 38319.0,
+        "volume": 5887275.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260819,
+        "open_price": 38210.0,
+        "high_price": 38300.0,
+        "low_price": 38210.0,
+        "close_price": 38220.0,
+        "volume": 5891815.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260818,
+        "open_price": 38155.0,
+        "high_price": 38225.0,
+        "low_price": 38145.0,
+        "close_price": 38168.0,
+        "volume": 2367380.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260817,
+        "open_price": 38090.0,
+        "high_price": 38500.0,
+        "low_price": 38084.0,
+        "close_price": 38103.0,
+        "volume": 11809913.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260816,
+        "open_price": 38200.0,
+        "high_price": 38200.0,
+        "low_price": 37659.0,
+        "close_price": 38007.0,
+        "volume": 4088463.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260815,
+        "open_price": 38000.0,
+        "high_price": 38184.0,
+        "low_price": 37950.0,
+        "close_price": 38070.0,
+        "volume": 2654880.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260811,
+        "open_price": 37850.0,
+        "high_price": 38149.0,
+        "low_price": 37850.0,
+        "close_price": 37883.0,
+        "volume": 15320271.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260810,
+        "open_price": 37701.0,
+        "high_price": 38050.0,
+        "low_price": 37651.0,
+        "close_price": 37755.0,
+        "volume": 4636550.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260809,
+        "open_price": 37103.0,
+        "high_price": 37798.0,
+        "low_price": 37103.0,
+        "close_price": 37550.0,
+        "volume": 24596290.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260808,
+        "open_price": 37300.0,
+        "high_price": 37300.0,
+        "low_price": 37022.0,
+        "close_price": 37073.0,
+        "volume": 2103379.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260805,
+        "open_price": 36950.0,
+        "high_price": 37099.0,
+        "low_price": 36880.0,
+        "close_price": 36942.0,
+        "volume": 2438818.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260803,
+        "open_price": 36800.0,
+        "high_price": 36900.0,
+        "low_price": 36770.0,
+        "close_price": 36838.0,
+        "volume": 5995663.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260802,
+        "open_price": 36646.0,
+        "high_price": 36770.0,
+        "low_price": 36646.0,
+        "close_price": 36705.0,
+        "volume": 893909.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260801,
+        "open_price": 36600.0,
+        "high_price": 36609.0,
+        "low_price": 36586.0,
+        "close_price": 36599.0,
+        "volume": 1820076.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260729,
+        "open_price": 37160.0,
+        "high_price": 37160.0,
+        "low_price": 36501.0,
+        "close_price": 36542.0,
+        "volume": 4804792.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260728,
+        "open_price": 36400.0,
+        "high_price": 36500.0,
+        "low_price": 36396.0,
+        "close_price": 36461.0,
+        "volume": 2554923.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260727,
+        "open_price": 36500.0,
+        "high_price": 36500.0,
+        "low_price": 36290.0,
+        "close_price": 36331.0,
+        "volume": 12632450.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260726,
+        "open_price": 36200.0,
+        "high_price": 36500.0,
+        "low_price": 36200.0,
+        "close_price": 36214.0,
+        "volume": 1929939.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260725,
+        "open_price": 36170.0,
+        "high_price": 36200.0,
+        "low_price": 36142.0,
+        "close_price": 36162.0,
+        "volume": 947818.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260722,
+        "open_price": 36088.0,
+        "high_price": 36092.0,
+        "low_price": 36000.0,
+        "close_price": 36078.0,
+        "volume": 1706149.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260721,
+        "open_price": 35900.0,
+        "high_price": 35950.0,
+        "low_price": 35900.0,
+        "close_price": 35932.0,
+        "volume": 4803327.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260720,
+        "open_price": 35843.0,
+        "high_price": 35870.0,
+        "low_price": 35830.0,
+        "close_price": 35859.0,
+        "volume": 1386035.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260719,
+        "open_price": 35840.0,
+        "high_price": 35860.0,
+        "low_price": 35765.0,
+        "close_price": 35787.0,
+        "volume": 2996154.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260718,
+        "open_price": 35783.0,
+        "high_price": 35810.0,
+        "low_price": 35710.0,
+        "close_price": 35765.0,
+        "volume": 3491650.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260715,
+        "open_price": 35796.0,
+        "high_price": 35825.0,
+        "low_price": 35700.0,
+        "close_price": 35783.0,
+        "volume": 10995910.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260714,
+        "open_price": 35750.0,
+        "high_price": 35800.0,
+        "low_price": 35611.0,
+        "close_price": 35723.0,
+        "volume": 5339278.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260713,
+        "open_price": 35650.0,
+        "high_price": 35691.0,
+        "low_price": 35650.0,
+        "close_price": 35673.0,
+        "volume": 1339434.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260712,
+        "open_price": 35560.0,
+        "high_price": 35572.0,
+        "low_price": 35540.0,
+        "close_price": 35561.0,
+        "volume": 3301519.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260711,
+        "open_price": 35500.0,
+        "high_price": 35500.0,
+        "low_price": 35480.0,
+        "close_price": 35483.0,
+        "volume": 7142550.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260708,
+        "open_price": 35360.0,
+        "high_price": 35469.0,
+        "low_price": 35351.0,
+        "close_price": 35374.0,
+        "volume": 1263907.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260707,
+        "open_price": 35301.0,
+        "high_price": 35358.0,
+        "low_price": 35250.0,
+        "close_price": 35286.0,
+        "volume": 1114500.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260701,
+        "open_price": 35400.0,
+        "high_price": 35400.0,
+        "low_price": 35170.0,
+        "close_price": 35182.0,
+        "volume": 1979937.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260630,
+        "open_price": 35400.0,
+        "high_price": 35400.0,
+        "low_price": 35020.0,
+        "close_price": 35102.0,
+        "volume": 7845502.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260629,
+        "open_price": 34770.0,
+        "high_price": 35100.0,
+        "low_price": 34770.0,
+        "close_price": 34992.0,
+        "volume": 1354004.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260628,
+        "open_price": 34200.0,
+        "high_price": 34800.0,
+        "low_price": 34160.0,
+        "close_price": 34588.0,
+        "volume": 1477781.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260627,
+        "open_price": 34100.0,
+        "high_price": 34150.0,
+        "low_price": 33949.0,
+        "close_price": 33988.0,
+        "volume": 6859482.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260623,
+        "open_price": 33700.0,
+        "high_price": 34568.0,
+        "low_price": 33650.0,
+        "close_price": 33769.0,
+        "volume": 7515848.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260622,
+        "open_price": 33550.0,
+        "high_price": 33700.0,
+        "low_price": 33550.0,
+        "close_price": 33562.0,
+        "volume": 7242877.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260621,
+        "open_price": 33350.0,
+        "high_price": 33700.0,
+        "low_price": 33283.0,
+        "close_price": 33384.0,
+        "volume": 6940678.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260620,
+        "open_price": 33080.0,
+        "high_price": 33300.0,
+        "low_price": 33020.0,
+        "close_price": 33138.0,
+        "volume": 16773205.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260617,
+        "open_price": 33600.0,
+        "high_price": 33827.0,
+        "low_price": 32865.0,
+        "close_price": 32961.0,
+        "volume": 19049414.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260616,
+        "open_price": 32805.0,
+        "high_price": 33000.0,
+        "low_price": 32750.0,
+        "close_price": 32842.0,
+        "volume": 6097127.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260615,
+        "open_price": 32800.0,
+        "high_price": 32800.0,
+        "low_price": 32709.0,
+        "close_price": 32750.0,
+        "volume": 7368464.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260614,
+        "open_price": 32770.0,
+        "high_price": 32780.0,
+        "low_price": 32680.0,
+        "close_price": 32706.0,
+        "volume": 1708635.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260613,
+        "open_price": 32893.0,
+        "high_price": 32900.0,
+        "low_price": 32656.0,
+        "close_price": 32703.0,
+        "volume": 13589381.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260610,
+        "open_price": 32632.0,
+        "high_price": 32700.0,
+        "low_price": 32610.0,
+        "close_price": 32634.0,
+        "volume": 1057902.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260609,
+        "open_price": 32800.0,
+        "high_price": 33000.0,
+        "low_price": 32500.0,
+        "close_price": 32610.0,
+        "volume": 3775115.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260608,
+        "open_price": 32200.0,
+        "high_price": 32615.0,
+        "low_price": 32180.0,
+        "close_price": 32490.0,
+        "volume": 28899888.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260607,
+        "open_price": 32124.0,
+        "high_price": 32150.0,
+        "low_price": 32082.0,
+        "close_price": 32124.0,
+        "volume": 1688000.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260606,
+        "open_price": 32000.0,
+        "high_price": 32150.0,
+        "low_price": 31980.0,
+        "close_price": 32039.0,
+        "volume": 1405855.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260603,
+        "open_price": 31950.0,
+        "high_price": 31998.0,
+        "low_price": 31893.0,
+        "close_price": 31939.0,
+        "volume": 8545839.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260602,
+        "open_price": 31900.0,
+        "high_price": 32199.0,
+        "low_price": 31870.0,
+        "close_price": 31903.0,
+        "volume": 5510141.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260601,
+        "open_price": 31797.0,
+        "high_price": 32269.0,
+        "low_price": 31750.0,
+        "close_price": 31847.0,
+        "volume": 6476261.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260531,
+        "open_price": 31715.0,
+        "high_price": 31900.0,
+        "low_price": 31713.0,
+        "close_price": 31736.0,
+        "volume": 5423755.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260530,
+        "open_price": 31633.0,
+        "high_price": 31700.0,
+        "low_price": 31633.0,
+        "close_price": 31650.0,
+        "volume": 36608802.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260526,
+        "open_price": 31555.0,
+        "high_price": 31568.0,
+        "low_price": 31520.0,
+        "close_price": 31555.0,
+        "volume": 21847077.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260525,
+        "open_price": 31493.0,
+        "high_price": 31496.0,
+        "low_price": 31480.0,
+        "close_price": 31492.0,
+        "volume": 11121257.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260524,
+        "open_price": 31419.0,
+        "high_price": 31440.0,
+        "low_price": 31345.0,
+        "close_price": 31400.0,
+        "volume": 3684058.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260523,
+        "open_price": 31252.0,
+        "high_price": 31253.0,
+        "low_price": 31252.0,
+        "close_price": 31252.0,
+        "volume": 3603012.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260520,
+        "open_price": 31190.0,
+        "high_price": 31191.0,
+        "low_price": 31190.0,
+        "close_price": 31190.0,
+        "volume": 54523214.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260519,
+        "open_price": 31129.0,
+        "high_price": 31129.0,
+        "low_price": 31129.0,
+        "close_price": 31129.0,
+        "volume": 688267.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32091.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260225,
+        "open_price": 32091.0,
+        "high_price": 32092.0,
+        "low_price": 32091.0,
+        "close_price": 32091.0,
+        "volume": 40361.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260224,
+        "open_price": 32049.0,
+        "high_price": 32050.0,
+        "low_price": 32047.0,
+        "close_price": 32049.0,
+        "volume": 10131059.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260223,
+        "open_price": 32000.0,
+        "high_price": 32005.0,
+        "low_price": 32000.0,
+        "close_price": 32002.0,
+        "volume": 13028789.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260222,
+        "open_price": 31960.0,
+        "high_price": 31960.0,
+        "low_price": 31955.0,
+        "close_price": 31959.0,
+        "volume": 3220648.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260221,
+        "open_price": 31920.0,
+        "high_price": 31930.0,
+        "low_price": 31900.0,
+        "close_price": 31920.0,
+        "volume": 5473886.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260218,
+        "open_price": 31880.0,
+        "high_price": 31890.0,
+        "low_price": 31880.0,
+        "close_price": 31890.0,
+        "volume": 387081.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260217,
+        "open_price": 31820.0,
+        "high_price": 31830.0,
+        "low_price": 31810.0,
+        "close_price": 31830.0,
+        "volume": 2405168.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260216,
+        "open_price": 31770.0,
+        "high_price": 31780.0,
+        "low_price": 31770.0,
+        "close_price": 31770.0,
+        "volume": 339810.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260215,
+        "open_price": 31720.0,
+        "high_price": 31730.0,
+        "low_price": 31710.0,
+        "close_price": 31730.0,
+        "volume": 26959655.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260214,
+        "open_price": 31660.0,
+        "high_price": 31670.0,
+        "low_price": 31660.0,
+        "close_price": 31670.0,
+        "volume": 140586.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260210,
+        "open_price": 31560.0,
+        "high_price": 31570.0,
+        "low_price": 31560.0,
+        "close_price": 31570.0,
+        "volume": 1323052.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260209,
+        "open_price": 31510.0,
+        "high_price": 31520.0,
+        "low_price": 31510.0,
+        "close_price": 31510.0,
+        "volume": 817804.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260208,
+        "open_price": 31470.0,
+        "high_price": 31480.0,
+        "low_price": 31470.0,
+        "close_price": 31480.0,
+        "volume": 2650268.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260207,
+        "open_price": 30920.0,
+        "high_price": 31460.0,
+        "low_price": 30910.0,
+        "close_price": 31400.0,
+        "volume": 3155320.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260203,
+        "open_price": 31390.0,
+        "high_price": 31400.0,
+        "low_price": 31390.0,
+        "close_price": 31400.0,
+        "volume": 10305633.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260202,
+        "open_price": 31360.0,
+        "high_price": 31370.0,
+        "low_price": 31350.0,
+        "close_price": 31360.0,
+        "volume": 17757052.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260201,
+        "open_price": 31330.0,
+        "high_price": 31340.0,
+        "low_price": 31320.0,
+        "close_price": 31330.0,
+        "volume": 1565578.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260131,
+        "open_price": 31320.0,
+        "high_price": 31330.0,
+        "low_price": 31310.0,
+        "close_price": 31320.0,
+        "volume": 8578647.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260128,
+        "open_price": 31260.0,
+        "high_price": 31270.0,
+        "low_price": 31260.0,
+        "close_price": 31270.0,
+        "volume": 2019455.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260127,
+        "open_price": 31220.0,
+        "high_price": 31230.0,
+        "low_price": 31210.0,
+        "close_price": 31220.0,
+        "volume": 1525854.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260126,
+        "open_price": 31220.0,
+        "high_price": 31220.0,
+        "low_price": 31210.0,
+        "close_price": 31210.0,
+        "volume": 1463565.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260125,
+        "open_price": 31150.0,
+        "high_price": 31160.0,
+        "low_price": 31150.0,
+        "close_price": 31160.0,
+        "volume": 662710.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260124,
+        "open_price": 31120.0,
+        "high_price": 31130.0,
+        "low_price": 31110.0,
+        "close_price": 31120.0,
+        "volume": 1710874.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260121,
+        "open_price": 31070.0,
+        "high_price": 31070.0,
+        "low_price": 31060.0,
+        "close_price": 31070.0,
+        "volume": 1708108.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260120,
+        "open_price": 31000.0,
+        "high_price": 31040.0,
+        "low_price": 31000.0,
+        "close_price": 31030.0,
+        "volume": 2328987.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260119,
+        "open_price": 30970.0,
+        "high_price": 30980.0,
+        "low_price": 30960.0,
+        "close_price": 30970.0,
+        "volume": 4997845.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260118,
+        "open_price": 30910.0,
+        "high_price": 30920.0,
+        "low_price": 30900.0,
+        "close_price": 30910.0,
+        "volume": 15465302.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260114,
+        "open_price": 30840.0,
+        "high_price": 30850.0,
+        "low_price": 30830.0,
+        "close_price": 30840.0,
+        "volume": 2210273.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260113,
+        "open_price": 30790.0,
+        "high_price": 30820.0,
+        "low_price": 30790.0,
+        "close_price": 30800.0,
+        "volume": 3760779.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260112,
+        "open_price": 30760.0,
+        "high_price": 30760.0,
+        "low_price": 30750.0,
+        "close_price": 30760.0,
+        "volume": 1686907.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260111,
+        "open_price": 30710.0,
+        "high_price": 30720.0,
+        "low_price": 30710.0,
+        "close_price": 30720.0,
+        "volume": 2729829.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260110,
+        "open_price": 30680.0,
+        "high_price": 30690.0,
+        "low_price": 30680.0,
+        "close_price": 30680.0,
+        "volume": 3360133.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260107,
+        "open_price": 30650.0,
+        "high_price": 30660.0,
+        "low_price": 30650.0,
+        "close_price": 30660.0,
+        "volume": 3897050.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260106,
+        "open_price": 30630.0,
+        "high_price": 30630.0,
+        "low_price": 30620.0,
+        "close_price": 30630.0,
+        "volume": 1689538.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260105,
+        "open_price": 30590.0,
+        "high_price": 30600.0,
+        "low_price": 30570.0,
+        "close_price": 30590.0,
+        "volume": 5445746.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20260104,
+        "open_price": 30530.0,
+        "high_price": 30550.0,
+        "low_price": 30520.0,
+        "close_price": 30540.0,
+        "volume": 6057386.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251231,
+        "open_price": 30480.0,
+        "high_price": 30480.0,
+        "low_price": 30460.0,
+        "close_price": 30480.0,
+        "volume": 4293202.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251230,
+        "open_price": 30420.0,
+        "high_price": 30420.0,
+        "low_price": 30390.0,
+        "close_price": 30410.0,
+        "volume": 11291201.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251229,
+        "open_price": 30360.0,
+        "high_price": 30370.0,
+        "low_price": 30350.0,
+        "close_price": 30360.0,
+        "volume": 3704391.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251228,
+        "open_price": 30340.0,
+        "high_price": 30350.0,
+        "low_price": 30310.0,
+        "close_price": 30330.0,
+        "volume": 15455765.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251227,
+        "open_price": 30320.0,
+        "high_price": 30340.0,
+        "low_price": 30290.0,
+        "close_price": 30310.0,
+        "volume": 2374668.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251224,
+        "open_price": 30260.0,
+        "high_price": 30260.0,
+        "low_price": 30220.0,
+        "close_price": 30250.0,
+        "volume": 2938607.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251223,
+        "open_price": 30190.0,
+        "high_price": 30190.0,
+        "low_price": 30170.0,
+        "close_price": 30180.0,
+        "volume": 1237349.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251222,
+        "open_price": 30150.0,
+        "high_price": 30150.0,
+        "low_price": 30130.0,
+        "close_price": 30150.0,
+        "volume": 1266231.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251221,
+        "open_price": 30060.0,
+        "high_price": 30100.0,
+        "low_price": 30060.0,
+        "close_price": 30100.0,
+        "volume": 4571854.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251220,
+        "open_price": 30010.0,
+        "high_price": 30050.0,
+        "low_price": 30010.0,
+        "close_price": 30030.0,
+        "volume": 1909449.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251217,
+        "open_price": 29960.0,
+        "high_price": 29970.0,
+        "low_price": 29950.0,
+        "close_price": 29960.0,
+        "volume": 4456949.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251216,
+        "open_price": 29940.0,
+        "high_price": 29950.0,
+        "low_price": 29910.0,
+        "close_price": 29930.0,
+        "volume": 5430581.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251215,
+        "open_price": 29900.0,
+        "high_price": 29900.0,
+        "low_price": 29880.0,
+        "close_price": 29890.0,
+        "volume": 2842906.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251214,
+        "open_price": 29860.0,
+        "high_price": 29870.0,
+        "low_price": 29850.0,
+        "close_price": 29860.0,
+        "volume": 38823759.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251213,
+        "open_price": 29810.0,
+        "high_price": 29830.0,
+        "low_price": 29790.0,
+        "close_price": 29810.0,
+        "volume": 1449695.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251210,
+        "open_price": 29750.0,
+        "high_price": 29760.0,
+        "low_price": 29740.0,
+        "close_price": 29760.0,
+        "volume": 7123860.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251209,
+        "open_price": 29720.0,
+        "high_price": 29720.0,
+        "low_price": 29690.0,
+        "close_price": 29710.0,
+        "volume": 915252.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251208,
+        "open_price": 29680.0,
+        "high_price": 29680.0,
+        "low_price": 29670.0,
+        "close_price": 29680.0,
+        "volume": 447803.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251207,
+        "open_price": 29630.0,
+        "high_price": 29650.0,
+        "low_price": 29600.0,
+        "close_price": 29640.0,
+        "volume": 16055759.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251206,
+        "open_price": 29570.0,
+        "high_price": 29630.0,
+        "low_price": 29570.0,
+        "close_price": 29600.0,
+        "volume": 9246082.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251203,
+        "open_price": 29530.0,
+        "high_price": 29540.0,
+        "low_price": 29520.0,
+        "close_price": 29540.0,
+        "volume": 67305432.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251202,
+        "open_price": 29500.0,
+        "high_price": 29520.0,
+        "low_price": 29480.0,
+        "close_price": 29510.0,
+        "volume": 51144651.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251201,
+        "open_price": 29460.0,
+        "high_price": 29480.0,
+        "low_price": 29450.0,
+        "close_price": 29470.0,
+        "volume": 8517394.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251130,
+        "open_price": 29410.0,
+        "high_price": 29440.0,
+        "low_price": 29410.0,
+        "close_price": 29440.0,
+        "volume": 19609191.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251129,
+        "open_price": 29400.0,
+        "high_price": 29400.0,
+        "low_price": 29360.0,
+        "close_price": 29400.0,
+        "volume": 26068550.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251126,
+        "open_price": 29340.0,
+        "high_price": 29350.0,
+        "low_price": 29320.0,
+        "close_price": 29340.0,
+        "volume": 9778557.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251125,
+        "open_price": 29300.0,
+        "high_price": 29300.0,
+        "low_price": 29280.0,
+        "close_price": 29300.0,
+        "volume": 3783792.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251123,
+        "open_price": 29250.0,
+        "high_price": 29270.0,
+        "low_price": 29240.0,
+        "close_price": 29260.0,
+        "volume": 26463113.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251122,
+        "open_price": 29220.0,
+        "high_price": 29590.0,
+        "low_price": 29200.0,
+        "close_price": 29230.0,
+        "volume": 20091236.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251119,
+        "open_price": 29150.0,
+        "high_price": 29200.0,
+        "low_price": 29150.0,
+        "close_price": 29190.0,
+        "volume": 925621.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251118,
+        "open_price": 29100.0,
+        "high_price": 29150.0,
+        "low_price": 29100.0,
+        "close_price": 29130.0,
+        "volume": 38176534.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251117,
+        "open_price": 29080.0,
+        "high_price": 29100.0,
+        "low_price": 29080.0,
+        "close_price": 29090.0,
+        "volume": 22261967.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251116,
+        "open_price": 29060.0,
+        "high_price": 29070.0,
+        "low_price": 29040.0,
+        "close_price": 29060.0,
+        "volume": 11303696.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251115,
+        "open_price": 28980.0,
+        "high_price": 29040.0,
+        "low_price": 28980.0,
+        "close_price": 29030.0,
+        "volume": 586130.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251112,
+        "open_price": 28940.0,
+        "high_price": 28970.0,
+        "low_price": 28940.0,
+        "close_price": 28960.0,
+        "volume": 9360580.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251111,
+        "open_price": 28930.0,
+        "high_price": 28930.0,
+        "low_price": 28910.0,
+        "close_price": 28920.0,
+        "volume": 6544790.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251110,
+        "open_price": 28870.0,
+        "high_price": 29000.0,
+        "low_price": 28870.0,
+        "close_price": 28890.0,
+        "volume": 11826356.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251109,
+        "open_price": 28840.0,
+        "high_price": 28870.0,
+        "low_price": 28840.0,
+        "close_price": 28860.0,
+        "volume": 18811200.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251108,
+        "open_price": 28840.0,
+        "high_price": 28840.0,
+        "low_price": 28800.0,
+        "close_price": 28830.0,
+        "volume": 1862115.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251105,
+        "open_price": 28790.0,
+        "high_price": 28800.0,
+        "low_price": 28760.0,
+        "close_price": 28790.0,
+        "volume": 5516805.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251104,
+        "open_price": 28760.0,
+        "high_price": 28770.0,
+        "low_price": 28740.0,
+        "close_price": 28760.0,
+        "volume": 2101879.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251103,
+        "open_price": 28700.0,
+        "high_price": 28760.0,
+        "low_price": 28700.0,
+        "close_price": 28740.0,
+        "volume": 7039201.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251102,
+        "open_price": 28650.0,
+        "high_price": 28700.0,
+        "low_price": 28650.0,
+        "close_price": 28700.0,
+        "volume": 9048064.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251101,
+        "open_price": 28610.0,
+        "high_price": 28650.0,
+        "low_price": 28610.0,
+        "close_price": 28650.0,
+        "volume": 11166017.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251029,
+        "open_price": 28560.0,
+        "high_price": 28590.0,
+        "low_price": 28560.0,
+        "close_price": 28570.0,
+        "volume": 2412434.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251028,
+        "open_price": 28560.0,
+        "high_price": 28560.0,
+        "low_price": 28530.0,
+        "close_price": 28550.0,
+        "volume": 4039195.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251027,
+        "open_price": 28490.0,
+        "high_price": 28520.0,
+        "low_price": 28450.0,
+        "close_price": 28510.0,
+        "volume": 802470.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251026,
+        "open_price": 28400.0,
+        "high_price": 28490.0,
+        "low_price": 28400.0,
+        "close_price": 28470.0,
+        "volume": 2624804.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251025,
+        "open_price": 28160.0,
+        "high_price": 28410.0,
+        "low_price": 28160.0,
+        "close_price": 28400.0,
+        "volume": 13184866.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251022,
+        "open_price": 28350.0,
+        "high_price": 28370.0,
+        "low_price": 28260.0,
+        "close_price": 28330.0,
+        "volume": 135417.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251021,
+        "open_price": 28190.0,
+        "high_price": 28250.0,
+        "low_price": 28190.0,
+        "close_price": 28220.0,
+        "volume": 402166.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251020,
+        "open_price": 28090.0,
+        "high_price": 28170.0,
+        "low_price": 28090.0,
+        "close_price": 28160.0,
+        "volume": 456154.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251019,
+        "open_price": 28080.0,
+        "high_price": 28150.0,
+        "low_price": 27750.0,
+        "close_price": 28040.0,
+        "volume": 996765.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251018,
+        "open_price": 28050.0,
+        "high_price": 28400.0,
+        "low_price": 28050.0,
+        "close_price": 28160.0,
+        "volume": 1806866.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251015,
+        "open_price": 28000.0,
+        "high_price": 28200.0,
+        "low_price": 28000.0,
+        "close_price": 28100.0,
+        "volume": 472057.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251014,
+        "open_price": 28100.0,
+        "high_price": 28190.0,
+        "low_price": 28100.0,
+        "close_price": 28130.0,
+        "volume": 566618.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251013,
+        "open_price": 27900.0,
+        "high_price": 28040.0,
+        "low_price": 27760.0,
+        "close_price": 27980.0,
+        "volume": 855403.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251012,
+        "open_price": 27880.0,
+        "high_price": 28140.0,
+        "low_price": 27830.0,
+        "close_price": 27940.0,
+        "volume": 456578.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251011,
+        "open_price": 27900.0,
+        "high_price": 27900.0,
+        "low_price": 27760.0,
+        "close_price": 27800.0,
+        "volume": 1946856.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251008,
+        "open_price": 27600.0,
+        "high_price": 27740.0,
+        "low_price": 27600.0,
+        "close_price": 27690.0,
+        "volume": 682869.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251007,
+        "open_price": 27540.0,
+        "high_price": 27710.0,
+        "low_price": 27540.0,
+        "close_price": 27640.0,
+        "volume": 660490.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251006,
+        "open_price": 27940.0,
+        "high_price": 27940.0,
+        "low_price": 27500.0,
+        "close_price": 27580.0,
+        "volume": 2054721.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251005,
+        "open_price": 27400.0,
+        "high_price": 27600.0,
+        "low_price": 27400.0,
+        "close_price": 27500.0,
+        "volume": 4650236.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251004,
+        "open_price": 27300.0,
+        "high_price": 27500.0,
+        "low_price": 27300.0,
+        "close_price": 27370.0,
+        "volume": 2630743.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20251001,
+        "open_price": 27670.0,
+        "high_price": 27670.0,
+        "low_price": 26950.0,
+        "close_price": 27330.0,
+        "volume": 611816.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250930,
+        "open_price": 26600.0,
+        "high_price": 27370.0,
+        "low_price": 26600.0,
+        "close_price": 26870.0,
+        "volume": 1230356.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250929,
+        "open_price": 26350.0,
+        "high_price": 26730.0,
+        "low_price": 26330.0,
+        "close_price": 26590.0,
+        "volume": 1798134.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250928,
+        "open_price": 26300.0,
+        "high_price": 26590.0,
+        "low_price": 26220.0,
+        "close_price": 26300.0,
+        "volume": 3696723.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250927,
+        "open_price": 26100.0,
+        "high_price": 26300.0,
+        "low_price": 26000.0,
+        "close_price": 26150.0,
+        "volume": 2075582.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250924,
+        "open_price": 25900.0,
+        "high_price": 26300.0,
+        "low_price": 25800.0,
+        "close_price": 25900.0,
+        "volume": 4155722.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250923,
+        "open_price": 26250.0,
+        "high_price": 26300.0,
+        "low_price": 26200.0,
+        "close_price": 26280.0,
+        "volume": 63958.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250922,
+        "open_price": 26010.0,
+        "high_price": 26250.0,
+        "low_price": 26010.0,
+        "close_price": 26190.0,
+        "volume": 266494.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250921,
+        "open_price": 26100.0,
+        "high_price": 26150.0,
+        "low_price": 25900.0,
+        "close_price": 25990.0,
+        "volume": 406225.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250920,
+        "open_price": 25760.0,
+        "high_price": 26290.0,
+        "low_price": 25760.0,
+        "close_price": 26190.0,
+        "volume": 172973.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250917,
+        "open_price": 26300.0,
+        "high_price": 26400.0,
+        "low_price": 26250.0,
+        "close_price": 26350.0,
+        "volume": 54879.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250916,
+        "open_price": 26550.0,
+        "high_price": 26600.0,
+        "low_price": 26500.0,
+        "close_price": 26550.0,
+        "volume": 259073.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250915,
+        "open_price": 26590.0,
+        "high_price": 26600.0,
+        "low_price": 26500.0,
+        "close_price": 26570.0,
+        "volume": 317242.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250914,
+        "open_price": 26300.0,
+        "high_price": 26500.0,
+        "low_price": 26300.0,
+        "close_price": 26370.0,
+        "volume": 184834.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250913,
+        "open_price": 25310.0,
+        "high_price": 26250.0,
+        "low_price": 25310.0,
+        "close_price": 26180.0,
+        "volume": 84654.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250909,
+        "open_price": 26200.0,
+        "high_price": 26300.0,
+        "low_price": 26000.0,
+        "close_price": 26080.0,
+        "volume": 743218.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250908,
+        "open_price": 26300.0,
+        "high_price": 26400.0,
+        "low_price": 26100.0,
+        "close_price": 26300.0,
+        "volume": 6475103.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250907,
+        "open_price": 25700.0,
+        "high_price": 26080.0,
+        "low_price": 25700.0,
+        "close_price": 25840.0,
+        "volume": 432195.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250906,
+        "open_price": 25400.0,
+        "high_price": 26000.0,
+        "low_price": 25400.0,
+        "close_price": 25830.0,
+        "volume": 6393907.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250903,
+        "open_price": 25500.0,
+        "high_price": 25700.0,
+        "low_price": 25200.0,
+        "close_price": 25460.0,
+        "volume": 916947.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250902,
+        "open_price": 24650.0,
+        "high_price": 25340.0,
+        "low_price": 24650.0,
+        "close_price": 25030.0,
+        "volume": 1028278.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250831,
+        "open_price": 24200.0,
+        "high_price": 24740.0,
+        "low_price": 24200.0,
+        "close_price": 24620.0,
+        "volume": 230636.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250830,
+        "open_price": 24200.0,
+        "high_price": 24250.0,
+        "low_price": 24100.0,
+        "close_price": 24160.0,
+        "volume": 273201.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250827,
+        "open_price": 24500.0,
+        "high_price": 24800.0,
+        "low_price": 24300.0,
+        "close_price": 24490.0,
+        "volume": 231987.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250826,
+        "open_price": 24000.0,
+        "high_price": 24410.0,
+        "low_price": 24000.0,
+        "close_price": 24350.0,
+        "volume": 454437.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250825,
+        "open_price": 24500.0,
+        "high_price": 24500.0,
+        "low_price": 24100.0,
+        "close_price": 24190.0,
+        "volume": 35902.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250823,
+        "open_price": 24300.0,
+        "high_price": 24800.0,
+        "low_price": 24200.0,
+        "close_price": 24420.0,
+        "volume": 233163.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250820,
+        "open_price": 24360.0,
+        "high_price": 24690.0,
+        "low_price": 24320.0,
+        "close_price": 24390.0,
+        "volume": 10181.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250819,
+        "open_price": 24500.0,
+        "high_price": 24700.0,
+        "low_price": 24500.0,
+        "close_price": 24650.0,
+        "volume": 65537.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250818,
+        "open_price": 24520.0,
+        "high_price": 24700.0,
+        "low_price": 24460.0,
+        "close_price": 24600.0,
+        "volume": 140670.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250817,
+        "open_price": 24360.0,
+        "high_price": 24800.0,
+        "low_price": 24360.0,
+        "close_price": 24460.0,
+        "volume": 62496.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250816,
+        "open_price": 24010.0,
+        "high_price": 24350.0,
+        "low_price": 24000.0,
+        "close_price": 24200.0,
+        "volume": 369088.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250813,
+        "open_price": 24900.0,
+        "high_price": 24900.0,
+        "low_price": 24150.0,
+        "close_price": 24160.0,
+        "volume": 52739.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250812,
+        "open_price": 24710.0,
+        "high_price": 24710.0,
+        "low_price": 24700.0,
+        "close_price": 24700.0,
+        "volume": 6341.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250811,
+        "open_price": 24970.0,
+        "high_price": 25000.0,
+        "low_price": 24860.0,
+        "close_price": 24950.0,
+        "volume": 52620.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250810,
+        "open_price": 25300.0,
+        "high_price": 25300.0,
+        "low_price": 24900.0,
+        "close_price": 24960.0,
+        "volume": 4820691.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250809,
+        "open_price": 25010.0,
+        "high_price": 25400.0,
+        "low_price": 25010.0,
+        "close_price": 25200.0,
+        "volume": 2243783.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250806,
+        "open_price": 25110.0,
+        "high_price": 25570.0,
+        "low_price": 24950.0,
+        "close_price": 25100.0,
+        "volume": 95543.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250805,
+        "open_price": 25550.0,
+        "high_price": 25620.0,
+        "low_price": 25430.0,
+        "close_price": 25440.0,
+        "volume": 39249.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250804,
+        "open_price": 25640.0,
+        "high_price": 25640.0,
+        "low_price": 25500.0,
+        "close_price": 25500.0,
+        "volume": 520206.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250803,
+        "open_price": 25600.0,
+        "high_price": 25600.0,
+        "low_price": 24900.0,
+        "close_price": 25240.0,
+        "volume": 1626150.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250802,
+        "open_price": 25610.0,
+        "high_price": 25620.0,
+        "low_price": 25530.0,
+        "close_price": 25610.0,
+        "volume": 909999.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250730,
+        "open_price": 25610.0,
+        "high_price": 25630.0,
+        "low_price": 25610.0,
+        "close_price": 25620.0,
+        "volume": 2114376.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250729,
+        "open_price": 25620.0,
+        "high_price": 25620.0,
+        "low_price": 25600.0,
+        "close_price": 25620.0,
+        "volume": 4309137.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250728,
+        "open_price": 25600.0,
+        "high_price": 25610.0,
+        "low_price": 25590.0,
+        "close_price": 25600.0,
+        "volume": 1939779.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250727,
+        "open_price": 25500.0,
+        "high_price": 25570.0,
+        "low_price": 25500.0,
+        "close_price": 25550.0,
+        "volume": 1265398.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250726,
+        "open_price": 25490.0,
+        "high_price": 25600.0,
+        "low_price": 25490.0,
+        "close_price": 25550.0,
+        "volume": 698546.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250723,
+        "open_price": 25400.0,
+        "high_price": 25540.0,
+        "low_price": 25380.0,
+        "close_price": 25410.0,
+        "volume": 1314545.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250722,
+        "open_price": 25310.0,
+        "high_price": 25390.0,
+        "low_price": 25290.0,
+        "close_price": 25330.0,
+        "volume": 2337760.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250721,
+        "open_price": 25210.0,
+        "high_price": 25400.0,
+        "low_price": 25180.0,
+        "close_price": 25230.0,
+        "volume": 13361248.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250720,
+        "open_price": 25070.0,
+        "high_price": 25380.0,
+        "low_price": 25070.0,
+        "close_price": 25150.0,
+        "volume": 931538.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250719,
+        "open_price": 25000.0,
+        "high_price": 25200.0,
+        "low_price": 24900.0,
+        "close_price": 24970.0,
+        "volume": 355798.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250716,
+        "open_price": 24500.0,
+        "high_price": 25080.0,
+        "low_price": 24500.0,
+        "close_price": 24700.0,
+        "volume": 324536.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250715,
+        "open_price": 24350.0,
+        "high_price": 24500.0,
+        "low_price": 24350.0,
+        "close_price": 24430.0,
+        "volume": 133369.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250714,
+        "open_price": 24170.0,
+        "high_price": 24290.0,
+        "low_price": 24160.0,
+        "close_price": 24220.0,
+        "volume": 311878.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250713,
+        "open_price": 24150.0,
+        "high_price": 24150.0,
+        "low_price": 24150.0,
+        "close_price": 24150.0,
+        "volume": 13392.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250712,
+        "open_price": 24010.0,
+        "high_price": 24300.0,
+        "low_price": 24000.0,
+        "close_price": 24090.0,
+        "volume": 19588.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250709,
+        "open_price": 23930.0,
+        "high_price": 23940.0,
+        "low_price": 23870.0,
+        "close_price": 23920.0,
+        "volume": 163724.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250708,
+        "open_price": 23930.0,
+        "high_price": 23940.0,
+        "low_price": 23930.0,
+        "close_price": 23930.0,
+        "volume": 40259.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250707,
+        "open_price": 24120.0,
+        "high_price": 24370.0,
+        "low_price": 23820.0,
+        "close_price": 23940.0,
+        "volume": 354328.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250702,
+        "open_price": 23820.0,
+        "high_price": 24400.0,
+        "low_price": 23820.0,
+        "close_price": 23820.0,
+        "volume": 660127.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250701,
+        "open_price": 24550.0,
+        "high_price": 24550.0,
+        "low_price": 24550.0,
+        "close_price": 24550.0,
+        "volume": 466.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250630,
+        "open_price": 25300.0,
+        "high_price": 25300.0,
+        "low_price": 25300.0,
+        "close_price": 25300.0,
+        "volume": 3642.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250629,
+        "open_price": 26080.0,
+        "high_price": 26080.0,
+        "low_price": 26080.0,
+        "close_price": 26080.0,
+        "volume": 2063.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250628,
+        "open_price": 26880.0,
+        "high_price": 26880.0,
+        "low_price": 26880.0,
+        "close_price": 26880.0,
+        "volume": 152211.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250611,
+        "open_price": 27750.0,
+        "high_price": 27750.0,
+        "low_price": 27560.0,
+        "close_price": 27710.0,
+        "volume": 250839.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250610,
+        "open_price": 27500.0,
+        "high_price": 27750.0,
+        "low_price": 27500.0,
+        "close_price": 27580.0,
+        "volume": 678012.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250609,
+        "open_price": 27900.0,
+        "high_price": 28000.0,
+        "low_price": 27550.0,
+        "close_price": 27690.0,
+        "volume": 121799.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250608,
+        "open_price": 27830.0,
+        "high_price": 28100.0,
+        "low_price": 27820.0,
+        "close_price": 27940.0,
+        "volume": 17323.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250607,
+        "open_price": 28120.0,
+        "high_price": 28390.0,
+        "low_price": 27900.0,
+        "close_price": 28110.0,
+        "volume": 420824.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250603,
+        "open_price": 28490.0,
+        "high_price": 28500.0,
+        "low_price": 28370.0,
+        "close_price": 28420.0,
+        "volume": 308195.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250602,
+        "open_price": 28460.0,
+        "high_price": 28580.0,
+        "low_price": 28310.0,
+        "close_price": 28470.0,
+        "volume": 634305.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250601,
+        "open_price": 28400.0,
+        "high_price": 28400.0,
+        "low_price": 28300.0,
+        "close_price": 28380.0,
+        "volume": 1057110.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250531,
+        "open_price": 28360.0,
+        "high_price": 28450.0,
+        "low_price": 28360.0,
+        "close_price": 28400.0,
+        "volume": 561283.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250528,
+        "open_price": 28150.0,
+        "high_price": 28480.0,
+        "low_price": 28150.0,
+        "close_price": 28360.0,
+        "volume": 6734.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250527,
+        "open_price": 28340.0,
+        "high_price": 28350.0,
+        "low_price": 28250.0,
+        "close_price": 28310.0,
+        "volume": 751216.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250526,
+        "open_price": 27810.0,
+        "high_price": 28100.0,
+        "low_price": 27800.0,
+        "close_price": 28010.0,
+        "volume": 337303.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250525,
+        "open_price": 28050.0,
+        "high_price": 28090.0,
+        "low_price": 27800.0,
+        "close_price": 27880.0,
+        "volume": 488141.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250524,
+        "open_price": 28150.0,
+        "high_price": 28150.0,
+        "low_price": 27800.0,
+        "close_price": 27870.0,
+        "volume": 173614.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250521,
+        "open_price": 27800.0,
+        "high_price": 28000.0,
+        "low_price": 27750.0,
+        "close_price": 27800.0,
+        "volume": 485978.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250520,
+        "open_price": 28450.0,
+        "high_price": 28450.0,
+        "low_price": 28000.0,
+        "close_price": 28200.0,
+        "volume": 1011976.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250519,
+        "open_price": 28500.0,
+        "high_price": 28890.0,
+        "low_price": 28460.0,
+        "close_price": 28530.0,
+        "volume": 484002.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250518,
+        "open_price": 28440.0,
+        "high_price": 28840.0,
+        "low_price": 28440.0,
+        "close_price": 28730.0,
+        "volume": 328248.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250517,
+        "open_price": 28580.0,
+        "high_price": 28700.0,
+        "low_price": 28520.0,
+        "close_price": 28580.0,
+        "volume": 967044.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250514,
+        "open_price": 28220.0,
+        "high_price": 28580.0,
+        "low_price": 28220.0,
+        "close_price": 28420.0,
+        "volume": 496238.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250513,
+        "open_price": 28070.0,
+        "high_price": 28400.0,
+        "low_price": 28060.0,
+        "close_price": 28310.0,
+        "volume": 76534.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250512,
+        "open_price": 27640.0,
+        "high_price": 28220.0,
+        "low_price": 27640.0,
+        "close_price": 28210.0,
+        "volume": 634973.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250511,
+        "open_price": 27000.0,
+        "high_price": 27510.0,
+        "low_price": 27000.0,
+        "close_price": 27400.0,
+        "volume": 414962.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250510,
+        "open_price": 28010.0,
+        "high_price": 28010.0,
+        "low_price": 27480.0,
+        "close_price": 27560.0,
+        "volume": 3112336.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250507,
+        "open_price": 28350.0,
+        "high_price": 28400.0,
+        "low_price": 28230.0,
+        "close_price": 28320.0,
+        "volume": 308095.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250506,
+        "open_price": 27710.0,
+        "high_price": 28140.0,
+        "low_price": 27550.0,
+        "close_price": 27820.0,
+        "volume": 630576.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250505,
+        "open_price": 27740.0,
+        "high_price": 27740.0,
+        "low_price": 27140.0,
+        "close_price": 27620.0,
+        "volume": 285443.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250504,
+        "open_price": 27000.0,
+        "high_price": 27750.0,
+        "low_price": 26830.0,
+        "close_price": 27010.0,
+        "volume": 641171.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250503,
+        "open_price": 27800.0,
+        "high_price": 27800.0,
+        "low_price": 27450.0,
+        "close_price": 27650.0,
+        "volume": 745359.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250430,
+        "open_price": 27730.0,
+        "high_price": 28010.0,
+        "low_price": 27540.0,
+        "close_price": 27880.0,
+        "volume": 649188.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250429,
+        "open_price": 27550.0,
+        "high_price": 27630.0,
+        "low_price": 27170.0,
+        "close_price": 27530.0,
+        "volume": 220651.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250428,
+        "open_price": 27100.0,
+        "high_price": 27680.0,
+        "low_price": 27100.0,
+        "close_price": 27480.0,
+        "volume": 2256223.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250427,
+        "open_price": 27000.0,
+        "high_price": 27270.0,
+        "low_price": 26700.0,
+        "close_price": 26980.0,
+        "volume": 924186.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250426,
+        "open_price": 27110.0,
+        "high_price": 27400.0,
+        "low_price": 26900.0,
+        "close_price": 27110.0,
+        "volume": 1622044.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250423,
+        "open_price": 26970.0,
+        "high_price": 27040.0,
+        "low_price": 26450.0,
+        "close_price": 26880.0,
+        "volume": 1042919.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250422,
+        "open_price": 26900.0,
+        "high_price": 26980.0,
+        "low_price": 26460.0,
+        "close_price": 26780.0,
+        "volume": 2609704.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250421,
+        "open_price": 27870.0,
+        "high_price": 27870.0,
+        "low_price": 26550.0,
+        "close_price": 27060.0,
+        "volume": 6501735.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250420,
+        "open_price": 26980.0,
+        "high_price": 27220.0,
+        "low_price": 26980.0,
+        "close_price": 27210.0,
+        "volume": 7692467.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250419,
+        "open_price": 26170.0,
+        "high_price": 26680.0,
+        "low_price": 26170.0,
+        "close_price": 26430.0,
+        "volume": 859733.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250416,
+        "open_price": 25850.0,
+        "high_price": 26420.0,
+        "low_price": 25850.0,
+        "close_price": 26160.0,
+        "volume": 736624.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250415,
+        "open_price": 26150.0,
+        "high_price": 26150.0,
+        "low_price": 25640.0,
+        "close_price": 25850.0,
+        "volume": 3353826.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250414,
+        "open_price": 27000.0,
+        "high_price": 27000.0,
+        "low_price": 26010.0,
+        "close_price": 26250.0,
+        "volume": 3892659.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250413,
+        "open_price": 26410.0,
+        "high_price": 26410.0,
+        "low_price": 26390.0,
+        "close_price": 26410.0,
+        "volume": 10232977.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250412,
+        "open_price": 25350.0,
+        "high_price": 25700.0,
+        "low_price": 25350.0,
+        "close_price": 25650.0,
+        "volume": 626545.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250409,
+        "open_price": 25930.0,
+        "high_price": 25930.0,
+        "low_price": 25340.0,
+        "close_price": 25500.0,
+        "volume": 2938899.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250408,
+        "open_price": 25820.0,
+        "high_price": 25830.0,
+        "low_price": 25590.0,
+        "close_price": 25830.0,
+        "volume": 7717402.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250407,
+        "open_price": 25100.0,
+        "high_price": 25200.0,
+        "low_price": 25060.0,
+        "close_price": 25080.0,
+        "volume": 209001.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250406,
+        "open_price": 25300.0,
+        "high_price": 25320.0,
+        "low_price": 25000.0,
+        "close_price": 25220.0,
+        "volume": 244242.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250405,
+        "open_price": 25770.0,
+        "high_price": 25770.0,
+        "low_price": 25400.0,
+        "close_price": 25490.0,
+        "volume": 343383.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250330,
+        "open_price": 25200.0,
+        "high_price": 25690.0,
+        "low_price": 25190.0,
+        "close_price": 25330.0,
+        "volume": 581963.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250329,
+        "open_price": 25010.0,
+        "high_price": 25100.0,
+        "low_price": 24980.0,
+        "close_price": 25020.0,
+        "volume": 184921.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250326,
+        "open_price": 25000.0,
+        "high_price": 25180.0,
+        "low_price": 24700.0,
+        "close_price": 25100.0,
+        "volume": 114500.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250325,
+        "open_price": 24800.0,
+        "high_price": 24960.0,
+        "low_price": 24800.0,
+        "close_price": 24880.0,
+        "volume": 181206.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250318,
+        "open_price": 24500.0,
+        "high_price": 24500.0,
+        "low_price": 24220.0,
+        "close_price": 24340.0,
+        "volume": 81783.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250317,
+        "open_price": 24550.0,
+        "high_price": 24600.0,
+        "low_price": 24300.0,
+        "close_price": 24430.0,
+        "volume": 583570.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250316,
+        "open_price": 24590.0,
+        "high_price": 24680.0,
+        "low_price": 24210.0,
+        "close_price": 24640.0,
+        "volume": 2365276.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250315,
+        "open_price": 24100.0,
+        "high_price": 24700.0,
+        "low_price": 24100.0,
+        "close_price": 24420.0,
+        "volume": 772117.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250312,
+        "open_price": 23410.0,
+        "high_price": 24190.0,
+        "low_price": 23410.0,
+        "close_price": 24020.0,
+        "volume": 250833.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250311,
+        "open_price": 24390.0,
+        "high_price": 24390.0,
+        "low_price": 23800.0,
+        "close_price": 23830.0,
+        "volume": 20551.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250310,
+        "open_price": 24030.0,
+        "high_price": 24350.0,
+        "low_price": 24030.0,
+        "close_price": 24130.0,
+        "volume": 77599.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250309,
+        "open_price": 24300.0,
+        "high_price": 24300.0,
+        "low_price": 23900.0,
+        "close_price": 24140.0,
+        "volume": 182260.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250308,
+        "open_price": 24620.0,
+        "high_price": 24620.0,
+        "low_price": 24050.0,
+        "close_price": 24270.0,
+        "volume": 525597.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250305,
+        "open_price": 24510.0,
+        "high_price": 24910.0,
+        "low_price": 24510.0,
+        "close_price": 24790.0,
+        "volume": 292499.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250304,
+        "open_price": 25100.0,
+        "high_price": 25200.0,
+        "low_price": 24500.0,
+        "close_price": 24990.0,
+        "volume": 411912.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250303,
+        "open_price": 24820.0,
+        "high_price": 25500.0,
+        "low_price": 24820.0,
+        "close_price": 24820.0,
+        "volume": 482687.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250302,
+        "open_price": 25230.0,
+        "high_price": 25600.0,
+        "low_price": 25230.0,
+        "close_price": 25580.0,
+        "volume": 2236367.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250301,
+        "open_price": 25190.0,
+        "high_price": 25360.0,
+        "low_price": 25000.0,
+        "close_price": 25270.0,
+        "volume": 699845.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250226,
+        "open_price": 25190.0,
+        "high_price": 25300.0,
+        "low_price": 24950.0,
+        "close_price": 25120.0,
+        "volume": 822208.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250225,
+        "open_price": 24910.0,
+        "high_price": 25240.0,
+        "low_price": 24810.0,
+        "close_price": 25140.0,
+        "volume": 3547828.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250224,
+        "open_price": 24500.0,
+        "high_price": 25000.0,
+        "low_price": 24500.0,
+        "close_price": 24800.0,
+        "volume": 3019885.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250223,
+        "open_price": 24110.0,
+        "high_price": 24680.0,
+        "low_price": 24110.0,
+        "close_price": 24500.0,
+        "volume": 491227.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250222,
+        "open_price": 24310.0,
+        "high_price": 24490.0,
+        "low_price": 23800.0,
+        "close_price": 24180.0,
+        "volume": 400244.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250219,
+        "open_price": 24400.0,
+        "high_price": 24400.0,
+        "low_price": 23960.0,
+        "close_price": 24080.0,
+        "volume": 285960.0
+    },
+    {
+        "symbol": "انار",
+        "trade_date": 20250218,
+        "open_price": 24000.0,
+        "high_price": 24450.0,
+        "low_price": 23880.0,
+        "close_price": 24250.0,
+        "volume": 1748295.0
+    }
+]

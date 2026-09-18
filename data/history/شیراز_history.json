@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260901,
+        "open_price": 68900.0,
+        "high_price": 68900.0,
+        "low_price": 64900.0,
+        "close_price": 67360.0,
+        "volume": 5186182.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260831,
+        "open_price": 66000.0,
+        "high_price": 67170.0,
+        "low_price": 64020.0,
+        "close_price": 66900.0,
+        "volume": 6363139.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260829,
+        "open_price": 65500.0,
+        "high_price": 65540.0,
+        "low_price": 64000.0,
+        "close_price": 65220.0,
+        "volume": 5976584.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260826,
+        "open_price": 63640.0,
+        "high_price": 63640.0,
+        "low_price": 63630.0,
+        "close_price": 63640.0,
+        "volume": 9492266.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260825,
+        "open_price": 61790.0,
+        "high_price": 61810.0,
+        "low_price": 61130.0,
+        "close_price": 61790.0,
+        "volume": 4816944.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260824,
+        "open_price": 60980.0,
+        "high_price": 60980.0,
+        "low_price": 58850.0,
+        "close_price": 60010.0,
+        "volume": 8079500.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260823,
+        "open_price": 61000.0,
+        "high_price": 62150.0,
+        "low_price": 59830.0,
+        "close_price": 60190.0,
+        "volume": 6224954.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260822,
+        "open_price": 58720.0,
+        "high_price": 61740.0,
+        "low_price": 58720.0,
+        "close_price": 61680.0,
+        "volume": 4606274.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260819,
+        "open_price": 59340.0,
+        "high_price": 61600.0,
+        "low_price": 59330.0,
+        "close_price": 59950.0,
+        "volume": 8837311.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260818,
+        "open_price": 62000.0,
+        "high_price": 62000.0,
+        "low_price": 60740.0,
+        "close_price": 61160.0,
+        "volume": 7095233.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260817,
+        "open_price": 62260.0,
+        "high_price": 62310.0,
+        "low_price": 60630.0,
+        "close_price": 61890.0,
+        "volume": 11147734.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260816,
+        "open_price": 60070.0,
+        "high_price": 61750.0,
+        "low_price": 60070.0,
+        "close_price": 60500.0,
+        "volume": 8102673.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260815,
+        "open_price": 63790.0,
+        "high_price": 64000.0,
+        "low_price": 61880.0,
+        "close_price": 61920.0,
+        "volume": 2895193.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260811,
+        "open_price": 65300.0,
+        "high_price": 65850.0,
+        "low_price": 63250.0,
+        "close_price": 63790.0,
+        "volume": 7885080.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260810,
+        "open_price": 68000.0,
+        "high_price": 68000.0,
+        "low_price": 64070.0,
+        "close_price": 65200.0,
+        "volume": 4882203.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260809,
+        "open_price": 68610.0,
+        "high_price": 68610.0,
+        "low_price": 64630.0,
+        "close_price": 66050.0,
+        "volume": 7450988.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260808,
+        "open_price": 66620.0,
+        "high_price": 66620.0,
+        "low_price": 66620.0,
+        "close_price": 66620.0,
+        "volume": 6942675.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260805,
+        "open_price": 64680.0,
+        "high_price": 64680.0,
+        "low_price": 63710.0,
+        "close_price": 64680.0,
+        "volume": 9370944.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260803,
+        "open_price": 62810.0,
+        "high_price": 62810.0,
+        "low_price": 61950.0,
+        "close_price": 62800.0,
+        "volume": 10591358.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260802,
+        "open_price": 60100.0,
+        "high_price": 62500.0,
+        "low_price": 60000.0,
+        "close_price": 60990.0,
+        "volume": 10535706.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260801,
+        "open_price": 61850.0,
+        "high_price": 61850.0,
+        "low_price": 61850.0,
+        "close_price": 61850.0,
+        "volume": 1959918.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260729,
+        "open_price": 66000.0,
+        "high_price": 66000.0,
+        "low_price": 62640.0,
+        "close_price": 63760.0,
+        "volume": 3765996.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260728,
+        "open_price": 62570.0,
+        "high_price": 64720.0,
+        "low_price": 62500.0,
+        "close_price": 64570.0,
+        "volume": 4449730.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260727,
+        "open_price": 63180.0,
+        "high_price": 64110.0,
+        "low_price": 61300.0,
+        "close_price": 62840.0,
+        "volume": 5195815.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260726,
+        "open_price": 62360.0,
+        "high_price": 62360.0,
+        "low_price": 62360.0,
+        "close_price": 62360.0,
+        "volume": 12424587.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260725,
+        "open_price": 63500.0,
+        "high_price": 63500.0,
+        "low_price": 60350.0,
+        "close_price": 60550.0,
+        "volume": 5956213.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260722,
+        "open_price": 65190.0,
+        "high_price": 65190.0,
+        "low_price": 61410.0,
+        "close_price": 62210.0,
+        "volume": 4910903.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260721,
+        "open_price": 62100.0,
+        "high_price": 64010.0,
+        "low_price": 60500.0,
+        "close_price": 63300.0,
+        "volume": 9100833.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260720,
+        "open_price": 65560.0,
+        "high_price": 65560.0,
+        "low_price": 61760.0,
+        "close_price": 62150.0,
+        "volume": 11653439.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260719,
+        "open_price": 63660.0,
+        "high_price": 63660.0,
+        "low_price": 63660.0,
+        "close_price": 63660.0,
+        "volume": 856046.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260718,
+        "open_price": 65620.0,
+        "high_price": 65620.0,
+        "low_price": 65620.0,
+        "close_price": 65620.0,
+        "volume": 934210.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260715,
+        "open_price": 67640.0,
+        "high_price": 69150.0,
+        "low_price": 67640.0,
+        "close_price": 67640.0,
+        "volume": 3483126.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260714,
+        "open_price": 69730.0,
+        "high_price": 69730.0,
+        "low_price": 69730.0,
+        "close_price": 69730.0,
+        "volume": 1092232.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260713,
+        "open_price": 71880.0,
+        "high_price": 71880.0,
+        "low_price": 71880.0,
+        "close_price": 71880.0,
+        "volume": 10072701.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260712,
+        "open_price": 74100.0,
+        "high_price": 74100.0,
+        "low_price": 74100.0,
+        "close_price": 74100.0,
+        "volume": 915483.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260711,
+        "open_price": 76390.0,
+        "high_price": 76390.0,
+        "low_price": 76390.0,
+        "close_price": 76390.0,
+        "volume": 10239435.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260708,
+        "open_price": 79000.0,
+        "high_price": 80950.0,
+        "low_price": 76340.0,
+        "close_price": 78750.0,
+        "volume": 9642252.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260707,
+        "open_price": 78700.0,
+        "high_price": 78700.0,
+        "low_price": 78700.0,
+        "close_price": 78700.0,
+        "volume": 4433384.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260701,
+        "open_price": 76640.0,
+        "high_price": 76830.0,
+        "low_price": 73310.0,
+        "close_price": 76410.0,
+        "volume": 8285117.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260630,
+        "open_price": 74800.0,
+        "high_price": 74870.0,
+        "low_price": 73180.0,
+        "close_price": 74600.0,
+        "volume": 7402193.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260629,
+        "open_price": 71020.0,
+        "high_price": 74900.0,
+        "low_price": 71020.0,
+        "close_price": 72690.0,
+        "volume": 5917782.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260628,
+        "open_price": 73190.0,
+        "high_price": 74980.0,
+        "low_price": 73190.0,
+        "close_price": 73210.0,
+        "volume": 5693138.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260627,
+        "open_price": 75580.0,
+        "high_price": 75580.0,
+        "low_price": 73540.0,
+        "close_price": 75450.0,
+        "volume": 7175952.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260623,
+        "open_price": 73380.0,
+        "high_price": 73380.0,
+        "low_price": 73380.0,
+        "close_price": 73380.0,
+        "volume": 2915476.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260622,
+        "open_price": 68310.0,
+        "high_price": 72520.0,
+        "low_price": 68300.0,
+        "close_price": 71250.0,
+        "volume": 16595611.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260621,
+        "open_price": 71130.0,
+        "high_price": 71130.0,
+        "low_price": 66990.0,
+        "close_price": 70410.0,
+        "volume": 25220464.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260620,
+        "open_price": 70210.0,
+        "high_price": 72000.0,
+        "low_price": 68110.0,
+        "close_price": 69060.0,
+        "volume": 19987784.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260617,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 89520.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 89520.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260615,
+        "open_price": 89520.0,
+        "high_price": 89520.0,
+        "low_price": 89520.0,
+        "close_price": 89520.0,
+        "volume": 5752251.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260614,
+        "open_price": 85950.0,
+        "high_price": 88520.0,
+        "low_price": 85950.0,
+        "close_price": 86920.0,
+        "volume": 71990523.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260613,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260610,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260609,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260608,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260607,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260606,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260603,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260602,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260601,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260531,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260530,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260526,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260525,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260524,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260523,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260520,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260519,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60710.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260225,
+        "open_price": 60730.0,
+        "high_price": 60730.0,
+        "low_price": 60210.0,
+        "close_price": 60710.0,
+        "volume": 5059253.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260224,
+        "open_price": 60220.0,
+        "high_price": 60270.0,
+        "low_price": 58380.0,
+        "close_price": 58970.0,
+        "volume": 2499164.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260223,
+        "open_price": 58490.0,
+        "high_price": 58530.0,
+        "low_price": 58490.0,
+        "close_price": 58530.0,
+        "volume": 2270779.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260222,
+        "open_price": 56530.0,
+        "high_price": 58240.0,
+        "low_price": 56530.0,
+        "close_price": 56830.0,
+        "volume": 9635720.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260221,
+        "open_price": 58270.0,
+        "high_price": 58270.0,
+        "low_price": 58270.0,
+        "close_price": 58270.0,
+        "volume": 124244.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260218,
+        "open_price": 63550.0,
+        "high_price": 63550.0,
+        "low_price": 59870.0,
+        "close_price": 60070.0,
+        "volume": 3996087.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260217,
+        "open_price": 61020.0,
+        "high_price": 63900.0,
+        "low_price": 60580.0,
+        "close_price": 61720.0,
+        "volume": 2833441.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260216,
+        "open_price": 62430.0,
+        "high_price": 63310.0,
+        "low_price": 62430.0,
+        "close_price": 62450.0,
+        "volume": 6212256.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260215,
+        "open_price": 64360.0,
+        "high_price": 64360.0,
+        "low_price": 64360.0,
+        "close_price": 64360.0,
+        "volume": 940403.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260214,
+        "open_price": 69400.0,
+        "high_price": 69400.0,
+        "low_price": 65660.0,
+        "close_price": 66350.0,
+        "volume": 2249954.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260210,
+        "open_price": 67280.0,
+        "high_price": 70000.0,
+        "low_price": 67280.0,
+        "close_price": 67690.0,
+        "volume": 6815667.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260209,
+        "open_price": 69920.0,
+        "high_price": 69990.0,
+        "low_price": 69290.0,
+        "close_price": 69360.0,
+        "volume": 1102990.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260208,
+        "open_price": 74010.0,
+        "high_price": 74010.0,
+        "low_price": 69710.0,
+        "close_price": 71430.0,
+        "volume": 10232443.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260207,
+        "open_price": 71980.0,
+        "high_price": 71980.0,
+        "low_price": 71010.0,
+        "close_price": 71860.0,
+        "volume": 6727620.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260203,
+        "open_price": 69710.0,
+        "high_price": 72130.0,
+        "low_price": 69710.0,
+        "close_price": 69890.0,
+        "volume": 19195122.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260202,
+        "open_price": 73710.0,
+        "high_price": 73890.0,
+        "low_price": 70010.0,
+        "close_price": 71860.0,
+        "volume": 8422891.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260201,
+        "open_price": 70910.0,
+        "high_price": 72310.0,
+        "low_price": 70910.0,
+        "close_price": 72170.0,
+        "volume": 11781668.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260131,
+        "open_price": 71740.0,
+        "high_price": 71740.0,
+        "low_price": 67580.0,
+        "close_price": 70210.0,
+        "volume": 17619648.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260128,
+        "open_price": 69660.0,
+        "high_price": 69660.0,
+        "low_price": 68920.0,
+        "close_price": 69660.0,
+        "volume": 17052428.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260127,
+        "open_price": 64690.0,
+        "high_price": 68690.0,
+        "low_price": 64690.0,
+        "close_price": 67640.0,
+        "volume": 31671286.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260126,
+        "open_price": 66690.0,
+        "high_price": 66750.0,
+        "low_price": 66690.0,
+        "close_price": 66690.0,
+        "volume": 6593558.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260125,
+        "open_price": 68510.0,
+        "high_price": 70700.0,
+        "low_price": 68430.0,
+        "close_price": 68750.0,
+        "volume": 19726347.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260124,
+        "open_price": 73090.0,
+        "high_price": 73090.0,
+        "low_price": 68850.0,
+        "close_price": 70540.0,
+        "volume": 54360818.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260121,
+        "open_price": 70970.0,
+        "high_price": 70970.0,
+        "low_price": 70970.0,
+        "close_price": 70970.0,
+        "volume": 3481990.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260120,
+        "open_price": 68910.0,
+        "high_price": 68910.0,
+        "low_price": 68910.0,
+        "close_price": 68910.0,
+        "volume": 7736213.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260119,
+        "open_price": 66910.0,
+        "high_price": 66910.0,
+        "low_price": 66910.0,
+        "close_price": 66910.0,
+        "volume": 25042519.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260118,
+        "open_price": 64970.0,
+        "high_price": 64970.0,
+        "low_price": 64970.0,
+        "close_price": 64970.0,
+        "volume": 961052.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260114,
+        "open_price": 63080.0,
+        "high_price": 63080.0,
+        "low_price": 62300.0,
+        "close_price": 63080.0,
+        "volume": 59032908.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260113,
+        "open_price": 61250.0,
+        "high_price": 61250.0,
+        "low_price": 61250.0,
+        "close_price": 61250.0,
+        "volume": 12076591.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260112,
+        "open_price": 59470.0,
+        "high_price": 59470.0,
+        "low_price": 59470.0,
+        "close_price": 59470.0,
+        "volume": 334913.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260111,
+        "open_price": 57740.0,
+        "high_price": 57740.0,
+        "low_price": 57740.0,
+        "close_price": 57740.0,
+        "volume": 659518.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260110,
+        "open_price": 56060.0,
+        "high_price": 56060.0,
+        "low_price": 55500.0,
+        "close_price": 56060.0,
+        "volume": 18453341.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260107,
+        "open_price": 54430.0,
+        "high_price": 54430.0,
+        "low_price": 54430.0,
+        "close_price": 54430.0,
+        "volume": 913314.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260106,
+        "open_price": 52850.0,
+        "high_price": 52850.0,
+        "low_price": 52850.0,
+        "close_price": 52850.0,
+        "volume": 1284065.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260105,
+        "open_price": 51320.0,
+        "high_price": 51320.0,
+        "low_price": 51320.0,
+        "close_price": 51320.0,
+        "volume": 1049499.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20260104,
+        "open_price": 49840.0,
+        "high_price": 49840.0,
+        "low_price": 48900.0,
+        "close_price": 49830.0,
+        "volume": 14848384.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251231,
+        "open_price": 45850.0,
+        "high_price": 48560.0,
+        "low_price": 45850.0,
+        "close_price": 48390.0,
+        "volume": 4144099.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251230,
+        "open_price": 47120.0,
+        "high_price": 48000.0,
+        "low_price": 47120.0,
+        "close_price": 47150.0,
+        "volume": 12883089.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251229,
+        "open_price": 50900.0,
+        "high_price": 50900.0,
+        "low_price": 48330.0,
+        "close_price": 48570.0,
+        "volume": 10676205.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251228,
+        "open_price": 50380.0,
+        "high_price": 50380.0,
+        "low_price": 47800.0,
+        "close_price": 49820.0,
+        "volume": 6882622.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251227,
+        "open_price": 48940.0,
+        "high_price": 48940.0,
+        "low_price": 48490.0,
+        "close_price": 48920.0,
+        "volume": 14910709.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251224,
+        "open_price": 47520.0,
+        "high_price": 47520.0,
+        "low_price": 46900.0,
+        "close_price": 47520.0,
+        "volume": 3593497.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251223,
+        "open_price": 45710.0,
+        "high_price": 47000.0,
+        "low_price": 45010.0,
+        "close_price": 46140.0,
+        "volume": 6578389.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251222,
+        "open_price": 46370.0,
+        "high_price": 46370.0,
+        "low_price": 43680.0,
+        "close_price": 45790.0,
+        "volume": 15439239.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251221,
+        "open_price": 45020.0,
+        "high_price": 45020.0,
+        "low_price": 45020.0,
+        "close_price": 45020.0,
+        "volume": 2380536.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251220,
+        "open_price": 43710.0,
+        "high_price": 43710.0,
+        "low_price": 43710.0,
+        "close_price": 43710.0,
+        "volume": 2551403.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251217,
+        "open_price": 41000.0,
+        "high_price": 42740.0,
+        "low_price": 41000.0,
+        "close_price": 42440.0,
+        "volume": 7220924.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251216,
+        "open_price": 40950.0,
+        "high_price": 41600.0,
+        "low_price": 40080.0,
+        "close_price": 41500.0,
+        "volume": 25462177.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251215,
+        "open_price": 40000.0,
+        "high_price": 41190.0,
+        "low_price": 39450.0,
+        "close_price": 40390.0,
+        "volume": 12184314.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251214,
+        "open_price": 40380.0,
+        "high_price": 41500.0,
+        "low_price": 40380.0,
+        "close_price": 40440.0,
+        "volume": 25741692.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251213,
+        "open_price": 41620.0,
+        "high_price": 41620.0,
+        "low_price": 41620.0,
+        "close_price": 41620.0,
+        "volume": 10235703.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251210,
+        "open_price": 42900.0,
+        "high_price": 42940.0,
+        "low_price": 41750.0,
+        "close_price": 42900.0,
+        "volume": 4545731.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251209,
+        "open_price": 42700.0,
+        "high_price": 42700.0,
+        "low_price": 41050.0,
+        "close_price": 41690.0,
+        "volume": 3866818.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251208,
+        "open_price": 41450.0,
+        "high_price": 42900.0,
+        "low_price": 40900.0,
+        "close_price": 41800.0,
+        "volume": 3799272.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251207,
+        "open_price": 43700.0,
+        "high_price": 43700.0,
+        "low_price": 41320.0,
+        "close_price": 41770.0,
+        "volume": 8726530.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251206,
+        "open_price": 42590.0,
+        "high_price": 42590.0,
+        "low_price": 42590.0,
+        "close_price": 42590.0,
+        "volume": 2410441.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251203,
+        "open_price": 40500.0,
+        "high_price": 41400.0,
+        "low_price": 39700.0,
+        "close_price": 41350.0,
+        "volume": 13948123.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251202,
+        "open_price": 39090.0,
+        "high_price": 40440.0,
+        "low_price": 39050.0,
+        "close_price": 40200.0,
+        "volume": 12415369.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251201,
+        "open_price": 39270.0,
+        "high_price": 39540.0,
+        "low_price": 39000.0,
+        "close_price": 39270.0,
+        "volume": 4046049.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251130,
+        "open_price": 37230.0,
+        "high_price": 39100.0,
+        "low_price": 37230.0,
+        "close_price": 38550.0,
+        "volume": 3739402.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251129,
+        "open_price": 39070.0,
+        "high_price": 39450.0,
+        "low_price": 37900.0,
+        "close_price": 38140.0,
+        "volume": 5169177.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251126,
+        "open_price": 39250.0,
+        "high_price": 39250.0,
+        "low_price": 38220.0,
+        "close_price": 39070.0,
+        "volume": 32767899.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251125,
+        "open_price": 38110.0,
+        "high_price": 38110.0,
+        "low_price": 38110.0,
+        "close_price": 38110.0,
+        "volume": 13773276.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251123,
+        "open_price": 37000.0,
+        "high_price": 37000.0,
+        "low_price": 37000.0,
+        "close_price": 37000.0,
+        "volume": 10272375.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251122,
+        "open_price": 35930.0,
+        "high_price": 36300.0,
+        "low_price": 35660.0,
+        "close_price": 35930.0,
+        "volume": 2048398.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251119,
+        "open_price": 36080.0,
+        "high_price": 36080.0,
+        "low_price": 35420.0,
+        "close_price": 35730.0,
+        "volume": 10434161.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251118,
+        "open_price": 35650.0,
+        "high_price": 35800.0,
+        "low_price": 35260.0,
+        "close_price": 35680.0,
+        "volume": 2535749.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251117,
+        "open_price": 36490.0,
+        "high_price": 36500.0,
+        "low_price": 35430.0,
+        "close_price": 35730.0,
+        "volume": 4688034.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251116,
+        "open_price": 35010.0,
+        "high_price": 36050.0,
+        "low_price": 35010.0,
+        "close_price": 35770.0,
+        "volume": 5216824.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251115,
+        "open_price": 34950.0,
+        "high_price": 36190.0,
+        "low_price": 34920.0,
+        "close_price": 35730.0,
+        "volume": 2148911.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251112,
+        "open_price": 36000.0,
+        "high_price": 36000.0,
+        "low_price": 35360.0,
+        "close_price": 35690.0,
+        "volume": 6432595.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251111,
+        "open_price": 37040.0,
+        "high_price": 37040.0,
+        "low_price": 35540.0,
+        "close_price": 35810.0,
+        "volume": 2571720.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251110,
+        "open_price": 35760.0,
+        "high_price": 36500.0,
+        "low_price": 35500.0,
+        "close_price": 36000.0,
+        "volume": 4513957.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251109,
+        "open_price": 36730.0,
+        "high_price": 37880.0,
+        "low_price": 36550.0,
+        "close_price": 36550.0,
+        "volume": 9426196.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251108,
+        "open_price": 38130.0,
+        "high_price": 38800.0,
+        "low_price": 37030.0,
+        "close_price": 37680.0,
+        "volume": 1247311.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251105,
+        "open_price": 37330.0,
+        "high_price": 38450.0,
+        "low_price": 37330.0,
+        "close_price": 37800.0,
+        "volume": 3948070.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251104,
+        "open_price": 40050.0,
+        "high_price": 40050.0,
+        "low_price": 38400.0,
+        "close_price": 38470.0,
+        "volume": 10151932.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251103,
+        "open_price": 39700.0,
+        "high_price": 40250.0,
+        "low_price": 38800.0,
+        "close_price": 39580.0,
+        "volume": 5476064.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251102,
+        "open_price": 38260.0,
+        "high_price": 39680.0,
+        "low_price": 38210.0,
+        "close_price": 39140.0,
+        "volume": 6881520.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251101,
+        "open_price": 40780.0,
+        "high_price": 40780.0,
+        "low_price": 38730.0,
+        "close_price": 39240.0,
+        "volume": 4728834.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251029,
+        "open_price": 40400.0,
+        "high_price": 40400.0,
+        "low_price": 39200.0,
+        "close_price": 39920.0,
+        "volume": 3847750.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251028,
+        "open_price": 40420.0,
+        "high_price": 40420.0,
+        "low_price": 40020.0,
+        "close_price": 40400.0,
+        "volume": 24841208.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251027,
+        "open_price": 39350.0,
+        "high_price": 39350.0,
+        "low_price": 38530.0,
+        "close_price": 39250.0,
+        "volume": 16858318.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251026,
+        "open_price": 38210.0,
+        "high_price": 38210.0,
+        "low_price": 38210.0,
+        "close_price": 38210.0,
+        "volume": 19381217.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251025,
+        "open_price": 37100.0,
+        "high_price": 37100.0,
+        "low_price": 36600.0,
+        "close_price": 37100.0,
+        "volume": 14300303.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251022,
+        "open_price": 36020.0,
+        "high_price": 36020.0,
+        "low_price": 34980.0,
+        "close_price": 36020.0,
+        "volume": 12198353.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251021,
+        "open_price": 35200.0,
+        "high_price": 35200.0,
+        "low_price": 34200.0,
+        "close_price": 34980.0,
+        "volume": 805511.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251020,
+        "open_price": 34760.0,
+        "high_price": 36680.0,
+        "low_price": 34660.0,
+        "close_price": 35180.0,
+        "volume": 1634485.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251019,
+        "open_price": 36480.0,
+        "high_price": 36480.0,
+        "low_price": 35300.0,
+        "close_price": 35730.0,
+        "volume": 653866.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251018,
+        "open_price": 34860.0,
+        "high_price": 35900.0,
+        "low_price": 34860.0,
+        "close_price": 35750.0,
+        "volume": 5195251.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251015,
+        "open_price": 35800.0,
+        "high_price": 35800.0,
+        "low_price": 34760.0,
+        "close_price": 34860.0,
+        "volume": 4544218.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251014,
+        "open_price": 35190.0,
+        "high_price": 36260.0,
+        "low_price": 35060.0,
+        "close_price": 35830.0,
+        "volume": 1411103.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251013,
+        "open_price": 36390.0,
+        "high_price": 36750.0,
+        "low_price": 35430.0,
+        "close_price": 36130.0,
+        "volume": 1322257.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251012,
+        "open_price": 34400.0,
+        "high_price": 36250.0,
+        "low_price": 34400.0,
+        "close_price": 36240.0,
+        "volume": 4354275.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251011,
+        "open_price": 34500.0,
+        "high_price": 35800.0,
+        "low_price": 34500.0,
+        "close_price": 35200.0,
+        "volume": 791303.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251008,
+        "open_price": 34800.0,
+        "high_price": 35710.0,
+        "low_price": 34680.0,
+        "close_price": 35100.0,
+        "volume": 1832217.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251007,
+        "open_price": 35540.0,
+        "high_price": 36990.0,
+        "low_price": 35140.0,
+        "close_price": 35750.0,
+        "volume": 2022413.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251006,
+        "open_price": 36680.0,
+        "high_price": 37250.0,
+        "low_price": 35520.0,
+        "close_price": 36220.0,
+        "volume": 3564208.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251005,
+        "open_price": 36680.0,
+        "high_price": 36680.0,
+        "low_price": 35010.0,
+        "close_price": 36610.0,
+        "volume": 9092134.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251004,
+        "open_price": 35150.0,
+        "high_price": 35710.0,
+        "low_price": 35150.0,
+        "close_price": 35620.0,
+        "volume": 2666052.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20251001,
+        "open_price": 34370.0,
+        "high_price": 35250.0,
+        "low_price": 33530.0,
+        "close_price": 34670.0,
+        "volume": 2390672.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250930,
+        "open_price": 34600.0,
+        "high_price": 34600.0,
+        "low_price": 33680.0,
+        "close_price": 34550.0,
+        "volume": 6623838.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250929,
+        "open_price": 33600.0,
+        "high_price": 33600.0,
+        "low_price": 33600.0,
+        "close_price": 33600.0,
+        "volume": 5407287.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250928,
+        "open_price": 32630.0,
+        "high_price": 32630.0,
+        "low_price": 32630.0,
+        "close_price": 32630.0,
+        "volume": 6268375.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250927,
+        "open_price": 30330.0,
+        "high_price": 31700.0,
+        "low_price": 30330.0,
+        "close_price": 31680.0,
+        "volume": 4290591.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250924,
+        "open_price": 31200.0,
+        "high_price": 31500.0,
+        "low_price": 30540.0,
+        "close_price": 30780.0,
+        "volume": 5860134.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250923,
+        "open_price": 30670.0,
+        "high_price": 31500.0,
+        "low_price": 30670.0,
+        "close_price": 31260.0,
+        "volume": 239844.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250922,
+        "open_price": 31700.0,
+        "high_price": 31970.0,
+        "low_price": 30750.0,
+        "close_price": 31290.0,
+        "volume": 3020562.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250921,
+        "open_price": 30560.0,
+        "high_price": 32440.0,
+        "low_price": 30560.0,
+        "close_price": 31040.0,
+        "volume": 12994971.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250920,
+        "open_price": 30570.0,
+        "high_price": 30570.0,
+        "low_price": 30570.0,
+        "close_price": 31500.0,
+        "volume": 23135.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250917,
+        "open_price": 31000.0,
+        "high_price": 31660.0,
+        "low_price": 30960.0,
+        "close_price": 31510.0,
+        "volume": 1801239.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250916,
+        "open_price": 31710.0,
+        "high_price": 31710.0,
+        "low_price": 31450.0,
+        "close_price": 31910.0,
+        "volume": 1706106.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250915,
+        "open_price": 32370.0,
+        "high_price": 32660.0,
+        "low_price": 31500.0,
+        "close_price": 32420.0,
+        "volume": 3252518.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250914,
+        "open_price": 31600.0,
+        "high_price": 31730.0,
+        "low_price": 30750.0,
+        "close_price": 31710.0,
+        "volume": 5345730.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250913,
+        "open_price": 31300.0,
+        "high_price": 31730.0,
+        "low_price": 29890.0,
+        "close_price": 30810.0,
+        "volume": 1662839.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250909,
+        "open_price": 31010.0,
+        "high_price": 31800.0,
+        "low_price": 29980.0,
+        "close_price": 30810.0,
+        "volume": 585515.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250908,
+        "open_price": 31000.0,
+        "high_price": 31000.0,
+        "low_price": 30990.0,
+        "close_price": 30900.0,
+        "volume": 2990152.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250907,
+        "open_price": 29160.0,
+        "high_price": 30800.0,
+        "low_price": 29150.0,
+        "close_price": 30100.0,
+        "volume": 1079052.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250906,
+        "open_price": 30440.0,
+        "high_price": 30440.0,
+        "low_price": 29250.0,
+        "close_price": 29910.0,
+        "volume": 1571713.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250903,
+        "open_price": 29550.0,
+        "high_price": 29600.0,
+        "low_price": 29000.0,
+        "close_price": 29560.0,
+        "volume": 4520147.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250902,
+        "open_price": 28730.0,
+        "high_price": 28740.0,
+        "low_price": 28710.0,
+        "close_price": 28740.0,
+        "volume": 4693701.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250831,
+        "open_price": 27680.0,
+        "high_price": 28270.0,
+        "low_price": 27680.0,
+        "close_price": 27910.0,
+        "volume": 2097051.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250830,
+        "open_price": 27130.0,
+        "high_price": 27690.0,
+        "low_price": 27130.0,
+        "close_price": 27450.0,
+        "volume": 2630482.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250827,
+        "open_price": 27180.0,
+        "high_price": 28690.0,
+        "low_price": 27180.0,
+        "close_price": 27960.0,
+        "volume": 771942.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250826,
+        "open_price": 27170.0,
+        "high_price": 28150.0,
+        "low_price": 27170.0,
+        "close_price": 27900.0,
+        "volume": 1315379.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250825,
+        "open_price": 27940.0,
+        "high_price": 27940.0,
+        "low_price": 27200.0,
+        "close_price": 27840.0,
+        "volume": 489022.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250823,
+        "open_price": 27350.0,
+        "high_price": 28200.0,
+        "low_price": 27210.0,
+        "close_price": 27910.0,
+        "volume": 321371.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250820,
+        "open_price": 27350.0,
+        "high_price": 28400.0,
+        "low_price": 27350.0,
+        "close_price": 27920.0,
+        "volume": 157857.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250819,
+        "open_price": 28640.0,
+        "high_price": 28640.0,
+        "low_price": 27180.0,
+        "close_price": 27920.0,
+        "volume": 1186005.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250818,
+        "open_price": 28300.0,
+        "high_price": 28690.0,
+        "low_price": 27630.0,
+        "close_price": 27960.0,
+        "volume": 952272.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250817,
+        "open_price": 27480.0,
+        "high_price": 28200.0,
+        "low_price": 27480.0,
+        "close_price": 27870.0,
+        "volume": 2283735.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250816,
+        "open_price": 26820.0,
+        "high_price": 28320.0,
+        "low_price": 26780.0,
+        "close_price": 27380.0,
+        "volume": 2143987.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250813,
+        "open_price": 27330.0,
+        "high_price": 27330.0,
+        "low_price": 27000.0,
+        "close_price": 27500.0,
+        "volume": 1440572.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250812,
+        "open_price": 27580.0,
+        "high_price": 28590.0,
+        "low_price": 27480.0,
+        "close_price": 27830.0,
+        "volume": 2175559.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250811,
+        "open_price": 28000.0,
+        "high_price": 29160.0,
+        "low_price": 27770.0,
+        "close_price": 28320.0,
+        "volume": 1704620.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250810,
+        "open_price": 28500.0,
+        "high_price": 28700.0,
+        "low_price": 28220.0,
+        "close_price": 28620.0,
+        "volume": 3945982.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250809,
+        "open_price": 27000.0,
+        "high_price": 28320.0,
+        "low_price": 27000.0,
+        "close_price": 28170.0,
+        "volume": 3601184.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250806,
+        "open_price": 27420.0,
+        "high_price": 28240.0,
+        "low_price": 27010.0,
+        "close_price": 27500.0,
+        "volume": 2201143.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250805,
+        "open_price": 26960.0,
+        "high_price": 27890.0,
+        "low_price": 26960.0,
+        "close_price": 27420.0,
+        "volume": 7667061.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250804,
+        "open_price": 27760.0,
+        "high_price": 28070.0,
+        "low_price": 27760.0,
+        "close_price": 27790.0,
+        "volume": 10970734.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250803,
+        "open_price": 28880.0,
+        "high_price": 28880.0,
+        "low_price": 28020.0,
+        "close_price": 28610.0,
+        "volume": 1344732.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250802,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 33950.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250730,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 33950.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250729,
+        "open_price": 33070.0,
+        "high_price": 33070.0,
+        "low_price": 33070.0,
+        "close_price": 33950.0,
+        "volume": 390363.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250728,
+        "open_price": 33580.0,
+        "high_price": 33580.0,
+        "low_price": 33210.0,
+        "close_price": 34090.0,
+        "volume": 405329.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250727,
+        "open_price": 34790.0,
+        "high_price": 34790.0,
+        "low_price": 33920.0,
+        "close_price": 34230.0,
+        "volume": 12439393.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250726,
+        "open_price": 34450.0,
+        "high_price": 34800.0,
+        "low_price": 34180.0,
+        "close_price": 34320.0,
+        "volume": 6047377.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250723,
+        "open_price": 34570.0,
+        "high_price": 34790.0,
+        "low_price": 34270.0,
+        "close_price": 34450.0,
+        "volume": 16898074.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250722,
+        "open_price": 34990.0,
+        "high_price": 35900.0,
+        "low_price": 34160.0,
+        "close_price": 34600.0,
+        "volume": 10736379.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250721,
+        "open_price": 35650.0,
+        "high_price": 35680.0,
+        "low_price": 35000.0,
+        "close_price": 34910.0,
+        "volume": 796930.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250720,
+        "open_price": 33810.0,
+        "high_price": 34750.0,
+        "low_price": 33810.0,
+        "close_price": 34650.0,
+        "volume": 4611612.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250719,
+        "open_price": 34530.0,
+        "high_price": 34530.0,
+        "low_price": 33620.0,
+        "close_price": 33740.0,
+        "volume": 1019774.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250716,
+        "open_price": 33610.0,
+        "high_price": 33800.0,
+        "low_price": 33400.0,
+        "close_price": 33540.0,
+        "volume": 3638259.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250715,
+        "open_price": 33730.0,
+        "high_price": 33730.0,
+        "low_price": 33050.0,
+        "close_price": 33440.0,
+        "volume": 8253920.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250714,
+        "open_price": 33480.0,
+        "high_price": 33760.0,
+        "low_price": 32460.0,
+        "close_price": 33080.0,
+        "volume": 6498598.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250713,
+        "open_price": 33330.0,
+        "high_price": 33330.0,
+        "low_price": 32770.0,
+        "close_price": 32840.0,
+        "volume": 2263258.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250712,
+        "open_price": 31700.0,
+        "high_price": 32520.0,
+        "low_price": 31700.0,
+        "close_price": 32360.0,
+        "volume": 2689185.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250709,
+        "open_price": 31060.0,
+        "high_price": 31990.0,
+        "low_price": 31060.0,
+        "close_price": 31580.0,
+        "volume": 1889105.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250708,
+        "open_price": 31310.0,
+        "high_price": 32250.0,
+        "low_price": 31280.0,
+        "close_price": 32020.0,
+        "volume": 893715.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250707,
+        "open_price": 31330.0,
+        "high_price": 33210.0,
+        "low_price": 31330.0,
+        "close_price": 32240.0,
+        "volume": 909990.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250702,
+        "open_price": 32130.0,
+        "high_price": 33600.0,
+        "low_price": 32130.0,
+        "close_price": 32260.0,
+        "volume": 31484128.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250701,
+        "open_price": 32230.0,
+        "high_price": 32230.0,
+        "low_price": 32230.0,
+        "close_price": 33120.0,
+        "volume": 272288.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250630,
+        "open_price": 33210.0,
+        "high_price": 33210.0,
+        "low_price": 33210.0,
+        "close_price": 33220.0,
+        "volume": 2770293.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250629,
+        "open_price": 34170.0,
+        "high_price": 34170.0,
+        "low_price": 34170.0,
+        "close_price": 34230.0,
+        "volume": 2630671.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250628,
+        "open_price": 34770.0,
+        "high_price": 34770.0,
+        "low_price": 34770.0,
+        "close_price": 35220.0,
+        "volume": 1607858.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 35840.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 35840.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 35840.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 35840.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 35840.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 35840.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 35840.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 35840.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250611,
+        "open_price": 36080.0,
+        "high_price": 36080.0,
+        "low_price": 35000.0,
+        "close_price": 35840.0,
+        "volume": 2865004.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250610,
+        "open_price": 35010.0,
+        "high_price": 35620.0,
+        "low_price": 35000.0,
+        "close_price": 35030.0,
+        "volume": 612959.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250609,
+        "open_price": 36000.0,
+        "high_price": 36000.0,
+        "low_price": 34520.0,
+        "close_price": 35010.0,
+        "volume": 1887147.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250608,
+        "open_price": 35320.0,
+        "high_price": 35820.0,
+        "low_price": 34960.0,
+        "close_price": 35330.0,
+        "volume": 1566477.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250607,
+        "open_price": 35190.0,
+        "high_price": 36090.0,
+        "low_price": 35010.0,
+        "close_price": 35450.0,
+        "volume": 1985835.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250603,
+        "open_price": 36580.0,
+        "high_price": 36580.0,
+        "low_price": 35800.0,
+        "close_price": 36090.0,
+        "volume": 2065384.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250602,
+        "open_price": 36230.0,
+        "high_price": 36950.0,
+        "low_price": 36070.0,
+        "close_price": 36290.0,
+        "volume": 1083364.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250601,
+        "open_price": 35960.0,
+        "high_price": 37150.0,
+        "low_price": 35690.0,
+        "close_price": 36310.0,
+        "volume": 6085319.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250531,
+        "open_price": 36110.0,
+        "high_price": 36110.0,
+        "low_price": 36050.0,
+        "close_price": 36110.0,
+        "volume": 17942133.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250528,
+        "open_price": 34310.0,
+        "high_price": 35080.0,
+        "low_price": 33980.0,
+        "close_price": 35060.0,
+        "volume": 5171387.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250527,
+        "open_price": 34210.0,
+        "high_price": 34500.0,
+        "low_price": 33510.0,
+        "close_price": 34060.0,
+        "volume": 6389164.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250526,
+        "open_price": 35000.0,
+        "high_price": 35000.0,
+        "low_price": 34220.0,
+        "close_price": 34290.0,
+        "volume": 12741151.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250525,
+        "open_price": 36110.0,
+        "high_price": 36400.0,
+        "low_price": 35060.0,
+        "close_price": 35270.0,
+        "volume": 7264227.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250524,
+        "open_price": 36940.0,
+        "high_price": 36940.0,
+        "low_price": 35700.0,
+        "close_price": 36140.0,
+        "volume": 3284929.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250521,
+        "open_price": 36090.0,
+        "high_price": 36530.0,
+        "low_price": 36090.0,
+        "close_price": 36100.0,
+        "volume": 5664689.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250520,
+        "open_price": 37620.0,
+        "high_price": 37960.0,
+        "low_price": 36840.0,
+        "close_price": 37200.0,
+        "volume": 2141126.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250519,
+        "open_price": 38650.0,
+        "high_price": 38650.0,
+        "low_price": 37620.0,
+        "close_price": 37970.0,
+        "volume": 1674304.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250518,
+        "open_price": 39770.0,
+        "high_price": 39770.0,
+        "low_price": 37920.0,
+        "close_price": 38200.0,
+        "volume": 2574230.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250517,
+        "open_price": 39470.0,
+        "high_price": 39470.0,
+        "low_price": 38100.0,
+        "close_price": 38740.0,
+        "volume": 1211775.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250514,
+        "open_price": 39200.0,
+        "high_price": 40320.0,
+        "low_price": 38690.0,
+        "close_price": 39270.0,
+        "volume": 2198934.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250513,
+        "open_price": 39520.0,
+        "high_price": 39520.0,
+        "low_price": 38040.0,
+        "close_price": 39200.0,
+        "volume": 3946825.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250512,
+        "open_price": 38370.0,
+        "high_price": 38370.0,
+        "low_price": 37550.0,
+        "close_price": 38370.0,
+        "volume": 3110357.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250511,
+        "open_price": 37700.0,
+        "high_price": 38490.0,
+        "low_price": 37170.0,
+        "close_price": 37260.0,
+        "volume": 5515307.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250510,
+        "open_price": 38500.0,
+        "high_price": 38750.0,
+        "low_price": 36900.0,
+        "close_price": 38310.0,
+        "volume": 5612126.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250507,
+        "open_price": 37630.0,
+        "high_price": 37630.0,
+        "low_price": 37630.0,
+        "close_price": 37630.0,
+        "volume": 6235258.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250506,
+        "open_price": 35600.0,
+        "high_price": 36830.0,
+        "low_price": 35520.0,
+        "close_price": 36540.0,
+        "volume": 7109486.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250505,
+        "open_price": 35450.0,
+        "high_price": 36350.0,
+        "low_price": 35330.0,
+        "close_price": 35760.0,
+        "volume": 2722379.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250504,
+        "open_price": 35340.0,
+        "high_price": 36180.0,
+        "low_price": 35330.0,
+        "close_price": 35530.0,
+        "volume": 2525758.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250503,
+        "open_price": 37620.0,
+        "high_price": 37620.0,
+        "low_price": 36390.0,
+        "close_price": 36420.0,
+        "volume": 3047887.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250430,
+        "open_price": 37500.0,
+        "high_price": 37930.0,
+        "low_price": 37380.0,
+        "close_price": 37510.0,
+        "volume": 3400496.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250429,
+        "open_price": 38000.0,
+        "high_price": 38000.0,
+        "low_price": 37220.0,
+        "close_price": 37630.0,
+        "volume": 3247810.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250428,
+        "open_price": 38030.0,
+        "high_price": 38950.0,
+        "low_price": 37460.0,
+        "close_price": 37950.0,
+        "volume": 1532435.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250427,
+        "open_price": 37620.0,
+        "high_price": 38700.0,
+        "low_price": 37610.0,
+        "close_price": 38060.0,
+        "volume": 1578757.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250426,
+        "open_price": 40850.0,
+        "high_price": 40850.0,
+        "low_price": 38700.0,
+        "close_price": 38770.0,
+        "volume": 4897856.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250423,
+        "open_price": 40800.0,
+        "high_price": 40890.0,
+        "low_price": 39840.0,
+        "close_price": 39890.0,
+        "volume": 5418334.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250422,
+        "open_price": 42100.0,
+        "high_price": 42100.0,
+        "low_price": 41050.0,
+        "close_price": 41070.0,
+        "volume": 2875622.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250421,
+        "open_price": 42320.0,
+        "high_price": 42320.0,
+        "low_price": 40910.0,
+        "close_price": 42310.0,
+        "volume": 5429840.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250420,
+        "open_price": 41450.0,
+        "high_price": 41450.0,
+        "low_price": 41450.0,
+        "close_price": 41090.0,
+        "volume": 1779660.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250419,
+        "open_price": 40280.0,
+        "high_price": 40280.0,
+        "low_price": 39550.0,
+        "close_price": 40250.0,
+        "volume": 2647862.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250416,
+        "open_price": 38980.0,
+        "high_price": 39910.0,
+        "low_price": 37830.0,
+        "close_price": 39110.0,
+        "volume": 1479608.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250415,
+        "open_price": 39240.0,
+        "high_price": 39240.0,
+        "low_price": 37180.0,
+        "close_price": 38750.0,
+        "volume": 5004028.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250414,
+        "open_price": 38260.0,
+        "high_price": 38260.0,
+        "low_price": 38150.0,
+        "close_price": 38100.0,
+        "volume": 2377546.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250413,
+        "open_price": 37150.0,
+        "high_price": 37150.0,
+        "low_price": 37150.0,
+        "close_price": 37150.0,
+        "volume": 3687761.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250412,
+        "open_price": 36160.0,
+        "high_price": 37040.0,
+        "low_price": 35300.0,
+        "close_price": 36070.0,
+        "volume": 1596191.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250409,
+        "open_price": 36160.0,
+        "high_price": 36160.0,
+        "low_price": 35300.0,
+        "close_price": 35970.0,
+        "volume": 4107854.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250408,
+        "open_price": 35870.0,
+        "high_price": 35870.0,
+        "low_price": 35870.0,
+        "close_price": 35110.0,
+        "volume": 769020.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250407,
+        "open_price": 34450.0,
+        "high_price": 34990.0,
+        "low_price": 34270.0,
+        "close_price": 34830.0,
+        "volume": 874935.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250406,
+        "open_price": 34700.0,
+        "high_price": 35190.0,
+        "low_price": 34420.0,
+        "close_price": 34990.0,
+        "volume": 755154.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250405,
+        "open_price": 34510.0,
+        "high_price": 35850.0,
+        "low_price": 34510.0,
+        "close_price": 35110.0,
+        "volume": 3390523.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250330,
+        "open_price": 35000.0,
+        "high_price": 36390.0,
+        "low_price": 35000.0,
+        "close_price": 35570.0,
+        "volume": 1010882.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250329,
+        "open_price": 36580.0,
+        "high_price": 36580.0,
+        "low_price": 34780.0,
+        "close_price": 35490.0,
+        "volume": 2309967.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250326,
+        "open_price": 35000.0,
+        "high_price": 36580.0,
+        "low_price": 35000.0,
+        "close_price": 35850.0,
+        "volume": 1453494.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 35520.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 35520.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250317,
+        "open_price": 36550.0,
+        "high_price": 36550.0,
+        "low_price": 35240.0,
+        "close_price": 35520.0,
+        "volume": 1697397.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250316,
+        "open_price": 35820.0,
+        "high_price": 35820.0,
+        "low_price": 35300.0,
+        "close_price": 35510.0,
+        "volume": 2262623.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34780.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250312,
+        "open_price": 35890.0,
+        "high_price": 35890.0,
+        "low_price": 34100.0,
+        "close_price": 34780.0,
+        "volume": 1806536.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250311,
+        "open_price": 36100.0,
+        "high_price": 36100.0,
+        "low_price": 35020.0,
+        "close_price": 35150.0,
+        "volume": 3440626.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250310,
+        "open_price": 36270.0,
+        "high_price": 37000.0,
+        "low_price": 35720.0,
+        "close_price": 36100.0,
+        "volume": 3372894.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250309,
+        "open_price": 36580.0,
+        "high_price": 37000.0,
+        "low_price": 35680.0,
+        "close_price": 36270.0,
+        "volume": 4787506.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250308,
+        "open_price": 37650.0,
+        "high_price": 37650.0,
+        "low_price": 36530.0,
+        "close_price": 36680.0,
+        "volume": 2763174.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250305,
+        "open_price": 36580.0,
+        "high_price": 38110.0,
+        "low_price": 36580.0,
+        "close_price": 37650.0,
+        "volume": 574441.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250304,
+        "open_price": 36940.0,
+        "high_price": 38800.0,
+        "low_price": 36940.0,
+        "close_price": 37670.0,
+        "volume": 1762682.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250303,
+        "open_price": 37870.0,
+        "high_price": 37870.0,
+        "low_price": 37610.0,
+        "close_price": 37990.0,
+        "volume": 1896367.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250302,
+        "open_price": 37760.0,
+        "high_price": 39750.0,
+        "low_price": 37760.0,
+        "close_price": 38770.0,
+        "volume": 2261105.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250301,
+        "open_price": 38930.0,
+        "high_price": 39690.0,
+        "low_price": 37780.0,
+        "close_price": 38890.0,
+        "volume": 863873.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250226,
+        "open_price": 38900.0,
+        "high_price": 39300.0,
+        "low_price": 38000.0,
+        "close_price": 38900.0,
+        "volume": 814252.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250225,
+        "open_price": 39740.0,
+        "high_price": 39740.0,
+        "low_price": 38460.0,
+        "close_price": 38900.0,
+        "volume": 2114499.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250224,
+        "open_price": 38720.0,
+        "high_price": 39000.0,
+        "low_price": 38430.0,
+        "close_price": 38590.0,
+        "volume": 1701517.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250223,
+        "open_price": 37720.0,
+        "high_price": 38650.0,
+        "low_price": 37520.0,
+        "close_price": 37870.0,
+        "volume": 1362316.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250222,
+        "open_price": 37630.0,
+        "high_price": 38500.0,
+        "low_price": 37560.0,
+        "close_price": 37790.0,
+        "volume": 2314074.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250219,
+        "open_price": 37610.0,
+        "high_price": 37610.0,
+        "low_price": 36920.0,
+        "close_price": 37610.0,
+        "volume": 3927583.0
+    },
+    {
+        "symbol": "شیراز",
+        "trade_date": 20250218,
+        "open_price": 37160.0,
+        "high_price": 37180.0,
+        "low_price": 36200.0,
+        "close_price": 36520.0,
+        "volume": 1197828.0
+    }
+]

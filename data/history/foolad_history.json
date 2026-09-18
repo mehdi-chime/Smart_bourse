@@ -1,6 +1,42 @@
 [
     {
         "symbol": "Foolad",
+        "trade_date": 20260831,
+        "open_price": 2728.0,
+        "high_price": 2849.0,
+        "low_price": 2703.0,
+        "close_price": 2772.0,
+        "volume": 3114358037.0
+    },
+    {
+        "symbol": "Foolad",
+        "trade_date": 20260829,
+        "open_price": 2777.0,
+        "high_price": 2777.0,
+        "low_price": 2740.0,
+        "close_price": 2776.0,
+        "volume": 1658402344.0
+    },
+    {
+        "symbol": "Foolad",
+        "trade_date": 20260826,
+        "open_price": 2677.0,
+        "high_price": 2698.0,
+        "low_price": 2677.0,
+        "close_price": 2697.0,
+        "volume": 1903641165.0
+    },
+    {
+        "symbol": "Foolad",
+        "trade_date": 20260825,
+        "open_price": 2590.0,
+        "high_price": 2670.0,
+        "low_price": 2563.0,
+        "close_price": 2620.0,
+        "volume": 3470385961.0
+    },
+    {
+        "symbol": "Foolad",
         "trade_date": 20260824,
         "open_price": 2601.0,
         "high_price": 2670.0,
@@ -2306,7 +2342,7 @@
     {
         "symbol": "Foolad",
         "trade_date": 20250729,
-        "open_price": 0.0,
+        "open_price": 2956.0,
         "high_price": 2969.0,
         "low_price": 2956.0,
         "close_price": 2956.0,
@@ -3247,41 +3283,5 @@
         "low_price": 5330.0,
         "close_price": 5400.0,
         "volume": 146176556.0
-    },
-    {
-        "symbol": "Foolad",
-        "trade_date": 20250216,
-        "open_price": 5380.0,
-        "high_price": 5410.0,
-        "low_price": 5300.0,
-        "close_price": 5320.0,
-        "volume": 357058647.0
-    },
-    {
-        "symbol": "Foolad",
-        "trade_date": 20250215,
-        "open_price": 5550.0,
-        "high_price": 5550.0,
-        "low_price": 5450.0,
-        "close_price": 5460.0,
-        "volume": 267672236.0
-    },
-    {
-        "symbol": "Foolad",
-        "trade_date": 20250211,
-        "open_price": 5680.0,
-        "high_price": 5810.0,
-        "low_price": 5540.0,
-        "close_price": 5610.0,
-        "volume": 444920016.0
-    },
-    {
-        "symbol": "Foolad",
-        "trade_date": 20250209,
-        "open_price": 5560.0,
-        "high_price": 5760.0,
-        "low_price": 5560.0,
-        "close_price": 5710.0,
-        "volume": 521750179.0
     }
 ]

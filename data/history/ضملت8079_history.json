@@ -1,0 +1,128 @@
+[
+    {
+        "symbol": "ضملت8079",
+        "trade_date": 20260901,
+        "open_price": 92.0,
+        "high_price": 149.0,
+        "low_price": 82.0,
+        "close_price": 107.0,
+        "volume": 832.0
+    },
+    {
+        "symbol": "ضملت8079",
+        "trade_date": 20260831,
+        "open_price": 75.0,
+        "high_price": 110.0,
+        "low_price": 75.0,
+        "close_price": 100.0,
+        "volume": 7903.0
+    },
+    {
+        "symbol": "ضملت8079",
+        "trade_date": 20260829,
+        "open_price": 92.0,
+        "high_price": 103.0,
+        "low_price": 72.0,
+        "close_price": 77.0,
+        "volume": 41739.0
+    },
+    {
+        "symbol": "ضملت8079",
+        "trade_date": 20260826,
+        "open_price": 70.0,
+        "high_price": 79.0,
+        "low_price": 54.0,
+        "close_price": 63.0,
+        "volume": 5839.0
+    },
+    {
+        "symbol": "ضملت8079",
+        "trade_date": 20260825,
+        "open_price": 44.0,
+        "high_price": 79.0,
+        "low_price": 40.0,
+        "close_price": 46.0,
+        "volume": 19075.0
+    },
+    {
+        "symbol": "ضملت8079",
+        "trade_date": 20260824,
+        "open_price": 65.0,
+        "high_price": 65.0,
+        "low_price": 52.0,
+        "close_price": 61.0,
+        "volume": 153.0
+    },
+    {
+        "symbol": "ضملت8079",
+        "trade_date": 20260823,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 78.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ضملت8079",
+        "trade_date": 20260822,
+        "open_price": 70.0,
+        "high_price": 90.0,
+        "low_price": 17.0,
+        "close_price": 78.0,
+        "volume": 3541.0
+    },
+    {
+        "symbol": "ضملت8079",
+        "trade_date": 20260819,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 45.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ضملت8079",
+        "trade_date": 20260818,
+        "open_price": 31.0,
+        "high_price": 60.0,
+        "low_price": 31.0,
+        "close_price": 45.0,
+        "volume": 391.0
+    },
+    {
+        "symbol": "ضملت8079",
+        "trade_date": 20260817,
+        "open_price": 19.0,
+        "high_price": 26.0,
+        "low_price": 19.0,
+        "close_price": 22.0,
+        "volume": 2.0
+    },
+    {
+        "symbol": "ضملت8079",
+        "trade_date": 20260816,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ضملت8079",
+        "trade_date": 20260815,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ضملت8079",
+        "trade_date": 20260811,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1.0,
+        "volume": 0.0
+    }
+]

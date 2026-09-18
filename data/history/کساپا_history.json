@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260901,
+        "open_price": 3600.0,
+        "high_price": 3690.0,
+        "low_price": 3510.0,
+        "close_price": 3570.0,
+        "volume": 17471046.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260831,
+        "open_price": 3610.0,
+        "high_price": 3670.0,
+        "low_price": 3610.0,
+        "close_price": 3610.0,
+        "volume": 14605805.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260829,
+        "open_price": 3630.0,
+        "high_price": 3810.0,
+        "low_price": 3630.0,
+        "close_price": 3720.0,
+        "volume": 13500253.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260826,
+        "open_price": 3730.0,
+        "high_price": 3730.0,
+        "low_price": 3630.0,
+        "close_price": 3710.0,
+        "volume": 24438427.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260825,
+        "open_price": 3590.0,
+        "high_price": 3670.0,
+        "low_price": 3510.0,
+        "close_price": 3630.0,
+        "volume": 19466345.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260824,
+        "open_price": 3600.0,
+        "high_price": 3690.0,
+        "low_price": 3530.0,
+        "close_price": 3570.0,
+        "volume": 14013581.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260823,
+        "open_price": 3600.0,
+        "high_price": 3770.0,
+        "low_price": 3560.0,
+        "close_price": 3630.0,
+        "volume": 21394319.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260822,
+        "open_price": 3660.0,
+        "high_price": 3690.0,
+        "low_price": 3580.0,
+        "close_price": 3670.0,
+        "volume": 13535038.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260819,
+        "open_price": 3500.0,
+        "high_price": 3610.0,
+        "low_price": 3440.0,
+        "close_price": 3590.0,
+        "volume": 25086431.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260818,
+        "open_price": 3510.0,
+        "high_price": 3510.0,
+        "low_price": 3490.0,
+        "close_price": 3510.0,
+        "volume": 18238914.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260817,
+        "open_price": 3380.0,
+        "high_price": 3410.0,
+        "low_price": 3330.0,
+        "close_price": 3410.0,
+        "volume": 5189320.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260816,
+        "open_price": 3250.0,
+        "high_price": 3330.0,
+        "low_price": 3220.0,
+        "close_price": 3320.0,
+        "volume": 5801298.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260815,
+        "open_price": 3300.0,
+        "high_price": 3320.0,
+        "low_price": 3140.0,
+        "close_price": 3240.0,
+        "volume": 16371032.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260811,
+        "open_price": 3230.0,
+        "high_price": 3250.0,
+        "low_price": 3130.0,
+        "close_price": 3230.0,
+        "volume": 10784123.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260810,
+        "open_price": 3030.0,
+        "high_price": 3170.0,
+        "low_price": 3030.0,
+        "close_price": 3160.0,
+        "volume": 10146999.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260809,
+        "open_price": 3220.0,
+        "high_price": 3220.0,
+        "low_price": 3050.0,
+        "close_price": 3080.0,
+        "volume": 20296716.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260808,
+        "open_price": 3140.0,
+        "high_price": 3140.0,
+        "low_price": 3140.0,
+        "close_price": 3140.0,
+        "volume": 3071880.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260805,
+        "open_price": 3057.0,
+        "high_price": 3057.0,
+        "low_price": 3030.0,
+        "close_price": 3057.0,
+        "volume": 6169643.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260803,
+        "open_price": 2968.0,
+        "high_price": 2968.0,
+        "low_price": 2967.0,
+        "close_price": 2968.0,
+        "volume": 7300868.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260802,
+        "open_price": 2902.0,
+        "high_price": 2907.0,
+        "low_price": 2830.0,
+        "close_price": 2882.0,
+        "volume": 10055435.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260801,
+        "open_price": 2889.0,
+        "high_price": 2889.0,
+        "low_price": 2750.0,
+        "close_price": 2823.0,
+        "volume": 8629619.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260729,
+        "open_price": 2920.0,
+        "high_price": 2920.0,
+        "low_price": 2831.0,
+        "close_price": 2835.0,
+        "volume": 13698736.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260728,
+        "open_price": 2833.0,
+        "high_price": 2958.0,
+        "low_price": 2831.0,
+        "close_price": 2918.0,
+        "volume": 7721440.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260727,
+        "open_price": 2960.0,
+        "high_price": 2960.0,
+        "low_price": 2800.0,
+        "close_price": 2875.0,
+        "volume": 6638430.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260726,
+        "open_price": 2874.0,
+        "high_price": 2874.0,
+        "low_price": 2874.0,
+        "close_price": 2874.0,
+        "volume": 5240146.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260725,
+        "open_price": 2810.0,
+        "high_price": 2910.0,
+        "low_price": 2775.0,
+        "close_price": 2791.0,
+        "volume": 13201555.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260722,
+        "open_price": 2940.0,
+        "high_price": 2940.0,
+        "low_price": 2850.0,
+        "close_price": 2860.0,
+        "volume": 2220421.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260721,
+        "open_price": 2850.0,
+        "high_price": 2950.0,
+        "low_price": 2850.0,
+        "close_price": 2930.0,
+        "volume": 10126062.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260720,
+        "open_price": 2830.0,
+        "high_price": 2990.0,
+        "low_price": 2830.0,
+        "close_price": 2870.0,
+        "volume": 23180018.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260719,
+        "open_price": 2910.0,
+        "high_price": 2910.0,
+        "low_price": 2910.0,
+        "close_price": 2910.0,
+        "volume": 685247.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260718,
+        "open_price": 3000.0,
+        "high_price": 3000.0,
+        "low_price": 3000.0,
+        "close_price": 3000.0,
+        "volume": 392094.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260715,
+        "open_price": 3090.0,
+        "high_price": 3090.0,
+        "low_price": 3090.0,
+        "close_price": 3090.0,
+        "volume": 762249.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260714,
+        "open_price": 3180.0,
+        "high_price": 3180.0,
+        "low_price": 3180.0,
+        "close_price": 3180.0,
+        "volume": 142500.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260713,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3270.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260712,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260711,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260708,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260707,
+        "open_price": 3260.0,
+        "high_price": 3300.0,
+        "low_price": 3210.0,
+        "close_price": 3280.0,
+        "volume": 19256410.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260701,
+        "open_price": 3200.0,
+        "high_price": 3220.0,
+        "low_price": 3160.0,
+        "close_price": 3210.0,
+        "volume": 12806259.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260630,
+        "open_price": 3140.0,
+        "high_price": 3140.0,
+        "low_price": 3050.0,
+        "close_price": 3130.0,
+        "volume": 7187209.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260629,
+        "open_price": 2930.0,
+        "high_price": 3100.0,
+        "low_price": 2930.0,
+        "close_price": 3050.0,
+        "volume": 9291685.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260628,
+        "open_price": 3010.0,
+        "high_price": 3010.0,
+        "low_price": 3010.0,
+        "close_price": 3010.0,
+        "volume": 1554724.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260627,
+        "open_price": 3240.0,
+        "high_price": 3240.0,
+        "low_price": 3080.0,
+        "close_price": 3100.0,
+        "volume": 9173847.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260623,
+        "open_price": 3233.0,
+        "high_price": 3233.0,
+        "low_price": 3050.0,
+        "close_price": 3174.0,
+        "volume": 6254227.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260622,
+        "open_price": 3099.0,
+        "high_price": 3180.0,
+        "low_price": 3016.0,
+        "close_price": 3139.0,
+        "volume": 7098767.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260621,
+        "open_price": 3106.0,
+        "high_price": 3206.0,
+        "low_price": 3054.0,
+        "close_price": 3096.0,
+        "volume": 13347593.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260620,
+        "open_price": 3225.0,
+        "high_price": 3289.0,
+        "low_price": 3109.0,
+        "close_price": 3148.0,
+        "volume": 19779694.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260617,
+        "open_price": 3300.0,
+        "high_price": 3300.0,
+        "low_price": 3197.0,
+        "close_price": 3205.0,
+        "volume": 17520606.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260616,
+        "open_price": 3402.0,
+        "high_price": 3402.0,
+        "low_price": 3204.0,
+        "close_price": 3295.0,
+        "volume": 30276875.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260615,
+        "open_price": 3303.0,
+        "high_price": 3303.0,
+        "low_price": 3303.0,
+        "close_price": 3303.0,
+        "volume": 762912.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260614,
+        "open_price": 3207.0,
+        "high_price": 3207.0,
+        "low_price": 3207.0,
+        "close_price": 3207.0,
+        "volume": 4660536.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260613,
+        "open_price": 3114.0,
+        "high_price": 3114.0,
+        "low_price": 3114.0,
+        "close_price": 3114.0,
+        "volume": 574338.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260610,
+        "open_price": 3036.0,
+        "high_price": 3036.0,
+        "low_price": 2860.0,
+        "close_price": 3024.0,
+        "volume": 14390440.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260609,
+        "open_price": 2948.0,
+        "high_price": 2948.0,
+        "low_price": 2948.0,
+        "close_price": 2948.0,
+        "volume": 387823.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260608,
+        "open_price": 2863.0,
+        "high_price": 2863.0,
+        "low_price": 2863.0,
+        "close_price": 2863.0,
+        "volume": 1652188.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260607,
+        "open_price": 2951.0,
+        "high_price": 2951.0,
+        "low_price": 2951.0,
+        "close_price": 2951.0,
+        "volume": 439241.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260606,
+        "open_price": 2898.0,
+        "high_price": 2976.0,
+        "low_price": 2814.0,
+        "close_price": 2866.0,
+        "volume": 8278633.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260603,
+        "open_price": 2901.0,
+        "high_price": 2990.0,
+        "low_price": 2891.0,
+        "close_price": 2901.0,
+        "volume": 7044407.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260602,
+        "open_price": 3010.0,
+        "high_price": 3110.0,
+        "low_price": 2931.0,
+        "close_price": 2980.0,
+        "volume": 21823918.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260601,
+        "open_price": 3050.0,
+        "high_price": 3050.0,
+        "low_price": 2900.0,
+        "close_price": 3021.0,
+        "volume": 24385670.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260531,
+        "open_price": 2962.0,
+        "high_price": 2962.0,
+        "low_price": 2962.0,
+        "close_price": 2962.0,
+        "volume": 287496.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260530,
+        "open_price": 2876.0,
+        "high_price": 2876.0,
+        "low_price": 2876.0,
+        "close_price": 2876.0,
+        "volume": 942717.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260526,
+        "open_price": 2798.0,
+        "high_price": 2798.0,
+        "low_price": 2637.0,
+        "close_price": 2793.0,
+        "volume": 8131682.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260525,
+        "open_price": 2717.0,
+        "high_price": 2717.0,
+        "low_price": 2717.0,
+        "close_price": 2717.0,
+        "volume": 9160569.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260524,
+        "open_price": 2638.0,
+        "high_price": 2638.0,
+        "low_price": 2569.0,
+        "close_price": 2638.0,
+        "volume": 18473047.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260523,
+        "open_price": 2562.0,
+        "high_price": 2562.0,
+        "low_price": 2562.0,
+        "close_price": 2562.0,
+        "volume": 1172578.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260520,
+        "open_price": 2488.0,
+        "high_price": 2488.0,
+        "low_price": 2488.0,
+        "close_price": 2488.0,
+        "volume": 422603.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260519,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2416.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2416.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2416.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2416.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2416.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2416.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2416.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2416.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2416.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2416.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2416.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2416.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2416.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2416.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2416.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2416.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2416.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2416.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2416.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2416.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2416.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2416.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2416.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2416.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2416.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2416.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2416.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2416.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2416.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2416.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2416.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2416.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2416.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2416.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2416.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2659.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260225,
+        "open_price": 2645.0,
+        "high_price": 2725.0,
+        "low_price": 2645.0,
+        "close_price": 2659.0,
+        "volume": 9600995.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260224,
+        "open_price": 2805.0,
+        "high_price": 2805.0,
+        "low_price": 2721.0,
+        "close_price": 2726.0,
+        "volume": 2630904.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260223,
+        "open_price": 2805.0,
+        "high_price": 2805.0,
+        "low_price": 2770.0,
+        "close_price": 2805.0,
+        "volume": 7236266.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260222,
+        "open_price": 2631.0,
+        "high_price": 2793.0,
+        "low_price": 2631.0,
+        "close_price": 2724.0,
+        "volume": 16163333.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260221,
+        "open_price": 2712.0,
+        "high_price": 2712.0,
+        "low_price": 2712.0,
+        "close_price": 2712.0,
+        "volume": 1568031.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260218,
+        "open_price": 2860.0,
+        "high_price": 2860.0,
+        "low_price": 2782.0,
+        "close_price": 2795.0,
+        "volume": 4950955.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260217,
+        "open_price": 2920.0,
+        "high_price": 2920.0,
+        "low_price": 2770.0,
+        "close_price": 2868.0,
+        "volume": 24062899.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260216,
+        "open_price": 2835.0,
+        "high_price": 2835.0,
+        "low_price": 2835.0,
+        "close_price": 2835.0,
+        "volume": 3996521.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260215,
+        "open_price": 2690.0,
+        "high_price": 2773.0,
+        "low_price": 2613.0,
+        "close_price": 2753.0,
+        "volume": 10268940.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260214,
+        "open_price": 2600.0,
+        "high_price": 2694.0,
+        "low_price": 2600.0,
+        "close_price": 2693.0,
+        "volume": 10719342.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260210,
+        "open_price": 2552.0,
+        "high_price": 2661.0,
+        "low_price": 2549.0,
+        "close_price": 2616.0,
+        "volume": 2814816.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260209,
+        "open_price": 2670.0,
+        "high_price": 2710.0,
+        "low_price": 2618.0,
+        "close_price": 2623.0,
+        "volume": 7509244.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260208,
+        "open_price": 2788.0,
+        "high_price": 2788.0,
+        "low_price": 2626.0,
+        "close_price": 2698.0,
+        "volume": 4392576.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260207,
+        "open_price": 2707.0,
+        "high_price": 2707.0,
+        "low_price": 2707.0,
+        "close_price": 2707.0,
+        "volume": 2100212.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260203,
+        "open_price": 2726.0,
+        "high_price": 2755.0,
+        "low_price": 2598.0,
+        "close_price": 2629.0,
+        "volume": 4332444.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260202,
+        "open_price": 2696.0,
+        "high_price": 2707.0,
+        "low_price": 2602.0,
+        "close_price": 2678.0,
+        "volume": 7614315.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260201,
+        "open_price": 2628.0,
+        "high_price": 2697.0,
+        "low_price": 2628.0,
+        "close_price": 2629.0,
+        "volume": 7521839.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260131,
+        "open_price": 2789.0,
+        "high_price": 2789.0,
+        "low_price": 2707.0,
+        "close_price": 2709.0,
+        "volume": 3723369.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260128,
+        "open_price": 2789.0,
+        "high_price": 2840.0,
+        "low_price": 2789.0,
+        "close_price": 2790.0,
+        "volume": 13328241.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260127,
+        "open_price": 2875.0,
+        "high_price": 2875.0,
+        "low_price": 2875.0,
+        "close_price": 2875.0,
+        "volume": 4322677.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260126,
+        "open_price": 2963.0,
+        "high_price": 2963.0,
+        "low_price": 2963.0,
+        "close_price": 2963.0,
+        "volume": 2176264.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260125,
+        "open_price": 3054.0,
+        "high_price": 3054.0,
+        "low_price": 3054.0,
+        "close_price": 3054.0,
+        "volume": 5603734.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260124,
+        "open_price": 3148.0,
+        "high_price": 3148.0,
+        "low_price": 3148.0,
+        "close_price": 3148.0,
+        "volume": 4769185.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260121,
+        "open_price": 3142.0,
+        "high_price": 3270.0,
+        "low_price": 3132.0,
+        "close_price": 3245.0,
+        "volume": 9444094.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260120,
+        "open_price": 3199.0,
+        "high_price": 3240.0,
+        "low_price": 3069.0,
+        "close_price": 3175.0,
+        "volume": 6358446.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260119,
+        "open_price": 3160.0,
+        "high_price": 3201.0,
+        "low_price": 3025.0,
+        "close_price": 3148.0,
+        "volume": 10776438.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260118,
+        "open_price": 3111.0,
+        "high_price": 3129.0,
+        "low_price": 3033.0,
+        "close_price": 3108.0,
+        "volume": 6202459.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260114,
+        "open_price": 3025.0,
+        "high_price": 3109.0,
+        "low_price": 3025.0,
+        "close_price": 3044.0,
+        "volume": 12855992.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260113,
+        "open_price": 3090.0,
+        "high_price": 3199.0,
+        "low_price": 3040.0,
+        "close_price": 3118.0,
+        "volume": 8256141.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260112,
+        "open_price": 3111.0,
+        "high_price": 3258.0,
+        "low_price": 3074.0,
+        "close_price": 3119.0,
+        "volume": 18596386.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260111,
+        "open_price": 3169.0,
+        "high_price": 3169.0,
+        "low_price": 3169.0,
+        "close_price": 3169.0,
+        "volume": 2088971.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260110,
+        "open_price": 3266.0,
+        "high_price": 3266.0,
+        "low_price": 3266.0,
+        "close_price": 3266.0,
+        "volume": 1668402.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260107,
+        "open_price": 3536.0,
+        "high_price": 3536.0,
+        "low_price": 3352.0,
+        "close_price": 3366.0,
+        "volume": 6983124.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260106,
+        "open_price": 3321.0,
+        "high_price": 3460.0,
+        "low_price": 3321.0,
+        "close_price": 3455.0,
+        "volume": 6791557.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260105,
+        "open_price": 3230.0,
+        "high_price": 3408.0,
+        "low_price": 3230.0,
+        "close_price": 3360.0,
+        "volume": 13817836.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20260104,
+        "open_price": 3440.0,
+        "high_price": 3440.0,
+        "low_price": 3299.0,
+        "close_price": 3309.0,
+        "volume": 4971165.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251231,
+        "open_price": 3395.0,
+        "high_price": 3466.0,
+        "low_price": 3395.0,
+        "close_price": 3401.0,
+        "volume": 32469042.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251230,
+        "open_price": 3499.0,
+        "high_price": 3499.0,
+        "low_price": 3499.0,
+        "close_price": 3499.0,
+        "volume": 860239.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251229,
+        "open_price": 3620.0,
+        "high_price": 3730.0,
+        "low_price": 3599.0,
+        "close_price": 3607.0,
+        "volume": 9983301.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251228,
+        "open_price": 3720.0,
+        "high_price": 3819.0,
+        "low_price": 3615.0,
+        "close_price": 3710.0,
+        "volume": 13825734.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251227,
+        "open_price": 3744.0,
+        "high_price": 3746.0,
+        "low_price": 3570.0,
+        "close_price": 3715.0,
+        "volume": 18440526.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251224,
+        "open_price": 3661.0,
+        "high_price": 3672.0,
+        "low_price": 3584.0,
+        "close_price": 3637.0,
+        "volume": 19333384.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251223,
+        "open_price": 3700.0,
+        "high_price": 3700.0,
+        "low_price": 3527.0,
+        "close_price": 3566.0,
+        "volume": 22855421.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251222,
+        "open_price": 3660.0,
+        "high_price": 3680.0,
+        "low_price": 3536.0,
+        "close_price": 3636.0,
+        "volume": 12844474.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251221,
+        "open_price": 3587.0,
+        "high_price": 3587.0,
+        "low_price": 3486.0,
+        "close_price": 3573.0,
+        "volume": 21113446.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251220,
+        "open_price": 3475.0,
+        "high_price": 3486.0,
+        "low_price": 3475.0,
+        "close_price": 3483.0,
+        "volume": 4443281.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251217,
+        "open_price": 3340.0,
+        "high_price": 3421.0,
+        "low_price": 3223.0,
+        "close_price": 3385.0,
+        "volume": 24936486.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251216,
+        "open_price": 3400.0,
+        "high_price": 3450.0,
+        "low_price": 3273.0,
+        "close_price": 3322.0,
+        "volume": 22896233.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251215,
+        "open_price": 3376.0,
+        "high_price": 3376.0,
+        "low_price": 3325.0,
+        "close_price": 3374.0,
+        "volume": 13161176.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251214,
+        "open_price": 3190.0,
+        "high_price": 3293.0,
+        "low_price": 3161.0,
+        "close_price": 3278.0,
+        "volume": 8328812.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251213,
+        "open_price": 3122.0,
+        "high_price": 3213.0,
+        "low_price": 3113.0,
+        "close_price": 3198.0,
+        "volume": 17048250.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251210,
+        "open_price": 3145.0,
+        "high_price": 3177.0,
+        "low_price": 3054.0,
+        "close_price": 3120.0,
+        "volume": 8380320.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251209,
+        "open_price": 3032.0,
+        "high_price": 3168.0,
+        "low_price": 3032.0,
+        "close_price": 3108.0,
+        "volume": 8008415.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251208,
+        "open_price": 3119.0,
+        "high_price": 3184.0,
+        "low_price": 3063.0,
+        "close_price": 3110.0,
+        "volume": 6993298.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251207,
+        "open_price": 3117.0,
+        "high_price": 3117.0,
+        "low_price": 3027.0,
+        "close_price": 3093.0,
+        "volume": 12146939.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251206,
+        "open_price": 3078.0,
+        "high_price": 3078.0,
+        "low_price": 3078.0,
+        "close_price": 3027.0,
+        "volume": 2160773.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251203,
+        "open_price": 2922.0,
+        "high_price": 3002.0,
+        "low_price": 2922.0,
+        "close_price": 2989.0,
+        "volume": 4624051.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251202,
+        "open_price": 2900.0,
+        "high_price": 2958.0,
+        "low_price": 2870.0,
+        "close_price": 2915.0,
+        "volume": 4255387.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251201,
+        "open_price": 2868.0,
+        "high_price": 2991.0,
+        "low_price": 2868.0,
+        "close_price": 2896.0,
+        "volume": 3951011.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251130,
+        "open_price": 2831.0,
+        "high_price": 2952.0,
+        "low_price": 2831.0,
+        "close_price": 2907.0,
+        "volume": 3308959.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251129,
+        "open_price": 2950.0,
+        "high_price": 2950.0,
+        "low_price": 2889.0,
+        "close_price": 2914.0,
+        "volume": 2915635.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251126,
+        "open_price": 2920.0,
+        "high_price": 2940.0,
+        "low_price": 2890.0,
+        "close_price": 2897.0,
+        "volume": 12397640.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251125,
+        "open_price": 2940.0,
+        "high_price": 3010.0,
+        "low_price": 2923.0,
+        "close_price": 2979.0,
+        "volume": 4467480.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251123,
+        "open_price": 2880.0,
+        "high_price": 2988.0,
+        "low_price": 2880.0,
+        "close_price": 2950.0,
+        "volume": 4192451.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251122,
+        "open_price": 2845.0,
+        "high_price": 2931.0,
+        "low_price": 2831.0,
+        "close_price": 2917.0,
+        "volume": 14718832.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251119,
+        "open_price": 2910.0,
+        "high_price": 2910.0,
+        "low_price": 2841.0,
+        "close_price": 2846.0,
+        "volume": 14528025.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251118,
+        "open_price": 2949.0,
+        "high_price": 2976.0,
+        "low_price": 2910.0,
+        "close_price": 2928.0,
+        "volume": 4541631.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251117,
+        "open_price": 3019.0,
+        "high_price": 3051.0,
+        "low_price": 2942.0,
+        "close_price": 2999.0,
+        "volume": 8139778.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251116,
+        "open_price": 2906.0,
+        "high_price": 2995.0,
+        "low_price": 2906.0,
+        "close_price": 2963.0,
+        "volume": 5593166.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251115,
+        "open_price": 2990.0,
+        "high_price": 2999.0,
+        "low_price": 2905.0,
+        "close_price": 2937.0,
+        "volume": 3888556.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251112,
+        "open_price": 2930.0,
+        "high_price": 2965.0,
+        "low_price": 2930.0,
+        "close_price": 2932.0,
+        "volume": 18242542.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251111,
+        "open_price": 3040.0,
+        "high_price": 3172.0,
+        "low_price": 3002.0,
+        "close_price": 3020.0,
+        "volume": 5747817.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251110,
+        "open_price": 3091.0,
+        "high_price": 3197.0,
+        "low_price": 3091.0,
+        "close_price": 3094.0,
+        "volume": 5330959.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251109,
+        "open_price": 3300.0,
+        "high_price": 3300.0,
+        "low_price": 3141.0,
+        "close_price": 3186.0,
+        "volume": 3881837.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251108,
+        "open_price": 3110.0,
+        "high_price": 3257.0,
+        "low_price": 3110.0,
+        "close_price": 3238.0,
+        "volume": 17990120.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251105,
+        "open_price": 3131.0,
+        "high_price": 3132.0,
+        "low_price": 3131.0,
+        "close_price": 3163.0,
+        "volume": 3001706.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251104,
+        "open_price": 3225.0,
+        "high_price": 3290.0,
+        "low_price": 3225.0,
+        "close_price": 3227.0,
+        "volume": 8523874.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251103,
+        "open_price": 3460.0,
+        "high_price": 3460.0,
+        "low_price": 3295.0,
+        "close_price": 3324.0,
+        "volume": 16538742.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251102,
+        "open_price": 3539.0,
+        "high_price": 3539.0,
+        "low_price": 3340.0,
+        "close_price": 3396.0,
+        "volume": 46029596.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251101,
+        "open_price": 3443.0,
+        "high_price": 3443.0,
+        "low_price": 3443.0,
+        "close_price": 3443.0,
+        "volume": 5139075.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251029,
+        "open_price": 3352.0,
+        "high_price": 3352.0,
+        "low_price": 3352.0,
+        "close_price": 3343.0,
+        "volume": 4376687.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251028,
+        "open_price": 3314.0,
+        "high_price": 3314.0,
+        "low_price": 3314.0,
+        "close_price": 3255.0,
+        "volume": 1847637.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251027,
+        "open_price": 3292.0,
+        "high_price": 3292.0,
+        "low_price": 3292.0,
+        "close_price": 3218.0,
+        "volume": 1074170.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251026,
+        "open_price": 3263.0,
+        "high_price": 3263.0,
+        "low_price": 3263.0,
+        "close_price": 3197.0,
+        "volume": 1477879.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251025,
+        "open_price": 3213.0,
+        "high_price": 3213.0,
+        "low_price": 3213.0,
+        "close_price": 3168.0,
+        "volume": 2464669.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251022,
+        "open_price": 3181.0,
+        "high_price": 3181.0,
+        "low_price": 3181.0,
+        "close_price": 3120.0,
+        "volume": 1733610.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251021,
+        "open_price": 3159.0,
+        "high_price": 3159.0,
+        "low_price": 3159.0,
+        "close_price": 3089.0,
+        "volume": 1227898.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251020,
+        "open_price": 3102.0,
+        "high_price": 3102.0,
+        "low_price": 3102.0,
+        "close_price": 3067.0,
+        "volume": 3151032.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251019,
+        "open_price": 3045.0,
+        "high_price": 3045.0,
+        "low_price": 3045.0,
+        "close_price": 3012.0,
+        "volume": 3226144.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251018,
+        "open_price": 2987.0,
+        "high_price": 2987.0,
+        "low_price": 2987.0,
+        "close_price": 2957.0,
+        "volume": 3364464.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251015,
+        "open_price": 2901.0,
+        "high_price": 2901.0,
+        "low_price": 2841.0,
+        "close_price": 2900.0,
+        "volume": 20145887.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251014,
+        "open_price": 2833.0,
+        "high_price": 2833.0,
+        "low_price": 2833.0,
+        "close_price": 2817.0,
+        "volume": 4722628.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251013,
+        "open_price": 2755.0,
+        "high_price": 2755.0,
+        "low_price": 2718.0,
+        "close_price": 2751.0,
+        "volume": 11134549.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251012,
+        "open_price": 2709.0,
+        "high_price": 2710.0,
+        "low_price": 2700.0,
+        "close_price": 2675.0,
+        "volume": 3251321.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251011,
+        "open_price": 2599.0,
+        "high_price": 2633.0,
+        "low_price": 2571.0,
+        "close_price": 2632.0,
+        "volume": 8145100.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251008,
+        "open_price": 2600.0,
+        "high_price": 2600.0,
+        "low_price": 2523.0,
+        "close_price": 2557.0,
+        "volume": 4039404.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251007,
+        "open_price": 2569.0,
+        "high_price": 2599.0,
+        "low_price": 2482.0,
+        "close_price": 2559.0,
+        "volume": 4059866.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251006,
+        "open_price": 2552.0,
+        "high_price": 2610.0,
+        "low_price": 2470.0,
+        "close_price": 2536.0,
+        "volume": 7912294.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251005,
+        "open_price": 2574.0,
+        "high_price": 2614.0,
+        "low_price": 2510.0,
+        "close_price": 2542.0,
+        "volume": 5690488.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251004,
+        "open_price": 2545.0,
+        "high_price": 2554.0,
+        "low_price": 2520.0,
+        "close_price": 2548.0,
+        "volume": 6361909.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20251001,
+        "open_price": 2462.0,
+        "high_price": 2495.0,
+        "low_price": 2462.0,
+        "close_price": 2480.0,
+        "volume": 4914892.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250930,
+        "open_price": 2620.0,
+        "high_price": 2620.0,
+        "low_price": 2474.0,
+        "close_price": 2538.0,
+        "volume": 12747779.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250929,
+        "open_price": 2588.0,
+        "high_price": 2588.0,
+        "low_price": 2588.0,
+        "close_price": 2550.0,
+        "volume": 3118058.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250928,
+        "open_price": 2509.0,
+        "high_price": 2513.0,
+        "low_price": 2509.0,
+        "close_price": 2513.0,
+        "volume": 6979783.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250927,
+        "open_price": 2328.0,
+        "high_price": 2470.0,
+        "low_price": 2328.0,
+        "close_price": 2440.0,
+        "volume": 6557467.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250924,
+        "open_price": 2352.0,
+        "high_price": 2352.0,
+        "low_price": 2352.0,
+        "close_price": 2399.0,
+        "volume": 2063260.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250923,
+        "open_price": 2490.0,
+        "high_price": 2490.0,
+        "low_price": 2388.0,
+        "close_price": 2424.0,
+        "volume": 4166240.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250922,
+        "open_price": 2397.0,
+        "high_price": 2520.0,
+        "low_price": 2397.0,
+        "close_price": 2461.0,
+        "volume": 2838215.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250921,
+        "open_price": 2438.0,
+        "high_price": 2454.0,
+        "low_price": 2438.0,
+        "close_price": 2457.0,
+        "volume": 4462985.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250920,
+        "open_price": 2442.0,
+        "high_price": 2442.0,
+        "low_price": 2442.0,
+        "close_price": 2513.0,
+        "volume": 322083.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250917,
+        "open_price": 2552.0,
+        "high_price": 2552.0,
+        "low_price": 2459.0,
+        "close_price": 2517.0,
+        "volume": 1606619.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250916,
+        "open_price": 2590.0,
+        "high_price": 2590.0,
+        "low_price": 2463.0,
+        "close_price": 2532.0,
+        "volume": 1806688.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250915,
+        "open_price": 2525.0,
+        "high_price": 2605.0,
+        "low_price": 2500.0,
+        "close_price": 2535.0,
+        "volume": 2836921.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250914,
+        "open_price": 2525.0,
+        "high_price": 2568.0,
+        "low_price": 2500.0,
+        "close_price": 2532.0,
+        "volume": 4010581.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250913,
+        "open_price": 2470.0,
+        "high_price": 2543.0,
+        "low_price": 2439.0,
+        "close_price": 2496.0,
+        "volume": 3110761.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250909,
+        "open_price": 2500.0,
+        "high_price": 2522.0,
+        "low_price": 2461.0,
+        "close_price": 2505.0,
+        "volume": 3350176.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250908,
+        "open_price": 2423.0,
+        "high_price": 2526.0,
+        "low_price": 2423.0,
+        "close_price": 2514.0,
+        "volume": 6498529.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250907,
+        "open_price": 2480.0,
+        "high_price": 2505.0,
+        "low_price": 2416.0,
+        "close_price": 2453.0,
+        "volume": 5714878.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250906,
+        "open_price": 2526.0,
+        "high_price": 2578.0,
+        "low_price": 2439.0,
+        "close_price": 2457.0,
+        "volume": 7315821.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250903,
+        "open_price": 2565.0,
+        "high_price": 2566.0,
+        "low_price": 2510.0,
+        "close_price": 2514.0,
+        "volume": 2667525.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250902,
+        "open_price": 2470.0,
+        "high_price": 2511.0,
+        "low_price": 2460.0,
+        "close_price": 2492.0,
+        "volume": 4913480.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250831,
+        "open_price": 2364.0,
+        "high_price": 2497.0,
+        "low_price": 2364.0,
+        "close_price": 2438.0,
+        "volume": 5361482.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250830,
+        "open_price": 2372.0,
+        "high_price": 2372.0,
+        "low_price": 2372.0,
+        "close_price": 2437.0,
+        "volume": 649992.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250827,
+        "open_price": 2396.0,
+        "high_price": 2520.0,
+        "low_price": 2393.0,
+        "close_price": 2445.0,
+        "volume": 4161223.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250826,
+        "open_price": 2430.0,
+        "high_price": 2461.0,
+        "low_price": 2430.0,
+        "close_price": 2467.0,
+        "volume": 3119375.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250825,
+        "open_price": 2549.0,
+        "high_price": 2549.0,
+        "low_price": 2459.0,
+        "close_price": 2505.0,
+        "volume": 2401594.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250823,
+        "open_price": 2490.0,
+        "high_price": 2566.0,
+        "low_price": 2480.0,
+        "close_price": 2535.0,
+        "volume": 1836073.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250820,
+        "open_price": 2512.0,
+        "high_price": 2584.0,
+        "low_price": 2500.0,
+        "close_price": 2548.0,
+        "volume": 2467736.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250819,
+        "open_price": 2560.0,
+        "high_price": 2599.0,
+        "low_price": 2528.0,
+        "close_price": 2577.0,
+        "volume": 2969587.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250818,
+        "open_price": 2707.0,
+        "high_price": 2725.0,
+        "low_price": 2572.0,
+        "close_price": 2604.0,
+        "volume": 4465201.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250817,
+        "open_price": 2669.0,
+        "high_price": 2683.0,
+        "low_price": 2630.0,
+        "close_price": 2651.0,
+        "volume": 3542625.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250816,
+        "open_price": 2602.0,
+        "high_price": 2660.0,
+        "low_price": 2602.0,
+        "close_price": 2605.0,
+        "volume": 6328794.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250813,
+        "open_price": 2625.0,
+        "high_price": 2625.0,
+        "low_price": 2625.0,
+        "close_price": 2682.0,
+        "volume": 1658521.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250812,
+        "open_price": 2675.0,
+        "high_price": 2754.0,
+        "low_price": 2672.0,
+        "close_price": 2706.0,
+        "volume": 3561738.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250811,
+        "open_price": 2754.0,
+        "high_price": 2754.0,
+        "low_price": 2754.0,
+        "close_price": 2754.0,
+        "volume": 12960891.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250810,
+        "open_price": 2610.0,
+        "high_price": 2716.0,
+        "low_price": 2610.0,
+        "close_price": 2674.0,
+        "volume": 4845367.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250809,
+        "open_price": 2563.0,
+        "high_price": 2713.0,
+        "low_price": 2563.0,
+        "close_price": 2637.0,
+        "volume": 1997683.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250806,
+        "open_price": 2595.0,
+        "high_price": 2674.0,
+        "low_price": 2595.0,
+        "close_price": 2636.0,
+        "volume": 3075360.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250805,
+        "open_price": 2757.0,
+        "high_price": 2757.0,
+        "low_price": 2599.0,
+        "close_price": 2675.0,
+        "volume": 3385504.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250804,
+        "open_price": 2561.0,
+        "high_price": 2718.0,
+        "low_price": 2561.0,
+        "close_price": 2678.0,
+        "volume": 7629557.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250803,
+        "open_price": 2631.0,
+        "high_price": 2703.0,
+        "low_price": 2631.0,
+        "close_price": 2639.0,
+        "volume": 11609921.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250802,
+        "open_price": 2703.0,
+        "high_price": 2703.0,
+        "low_price": 2703.0,
+        "close_price": 2712.0,
+        "volume": 4799570.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250730,
+        "open_price": 2721.0,
+        "high_price": 2721.0,
+        "low_price": 2721.0,
+        "close_price": 2786.0,
+        "volume": 1107534.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250729,
+        "open_price": 2741.0,
+        "high_price": 2741.0,
+        "low_price": 2741.0,
+        "close_price": 2805.0,
+        "volume": 1164959.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250728,
+        "open_price": 2835.0,
+        "high_price": 2904.0,
+        "low_price": 2818.0,
+        "close_price": 2825.0,
+        "volume": 4706558.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250727,
+        "open_price": 2899.0,
+        "high_price": 2960.0,
+        "low_price": 2898.0,
+        "close_price": 2905.0,
+        "volume": 5239001.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250726,
+        "open_price": 2995.0,
+        "high_price": 3070.0,
+        "low_price": 2982.0,
+        "close_price": 2987.0,
+        "volume": 7743277.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250723,
+        "open_price": 3183.0,
+        "high_price": 3183.0,
+        "low_price": 3072.0,
+        "close_price": 3074.0,
+        "volume": 6413279.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250722,
+        "open_price": 3279.0,
+        "high_price": 3281.0,
+        "low_price": 3144.0,
+        "close_price": 3166.0,
+        "volume": 4430646.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250721,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3241.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250720,
+        "open_price": 3358.0,
+        "high_price": 3358.0,
+        "low_price": 3234.0,
+        "close_price": 3241.0,
+        "volume": 8391786.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250719,
+        "open_price": 3358.0,
+        "high_price": 3358.0,
+        "low_price": 3276.0,
+        "close_price": 3334.0,
+        "volume": 4539005.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250716,
+        "open_price": 3277.0,
+        "high_price": 3277.0,
+        "low_price": 3214.0,
+        "close_price": 3261.0,
+        "volume": 4651512.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250715,
+        "open_price": 3169.0,
+        "high_price": 3307.0,
+        "low_price": 3169.0,
+        "close_price": 3182.0,
+        "volume": 22072313.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250714,
+        "open_price": 3262.0,
+        "high_price": 3300.0,
+        "low_price": 3262.0,
+        "close_price": 3267.0,
+        "volume": 24939739.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250713,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3362.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250712,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3376.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250709,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3376.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250708,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3376.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250707,
+        "open_price": 3471.0,
+        "high_price": 3473.0,
+        "low_price": 3367.0,
+        "close_price": 3376.0,
+        "volume": 12905712.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250702,
+        "open_price": 3471.0,
+        "high_price": 3471.0,
+        "low_price": 3471.0,
+        "close_price": 3471.0,
+        "volume": 59262808.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250701,
+        "open_price": 3473.0,
+        "high_price": 3473.0,
+        "low_price": 3473.0,
+        "close_price": 3578.0,
+        "volume": 64729.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250630,
+        "open_price": 3580.0,
+        "high_price": 3580.0,
+        "low_price": 3580.0,
+        "close_price": 3580.0,
+        "volume": 3909779.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250629,
+        "open_price": 3664.0,
+        "high_price": 3664.0,
+        "low_price": 3664.0,
+        "close_price": 3690.0,
+        "volume": 3016464.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250628,
+        "open_price": 3726.0,
+        "high_price": 3726.0,
+        "low_price": 3726.0,
+        "close_price": 3777.0,
+        "volume": 2159936.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3841.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3841.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3841.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3841.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3841.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3841.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3841.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3841.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250611,
+        "open_price": 3975.0,
+        "high_price": 3975.0,
+        "low_price": 3768.0,
+        "close_price": 3841.0,
+        "volume": 3647956.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250610,
+        "open_price": 3900.0,
+        "high_price": 3949.0,
+        "low_price": 3817.0,
+        "close_price": 3875.0,
+        "volume": 5550925.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250609,
+        "open_price": 4011.0,
+        "high_price": 4011.0,
+        "low_price": 3830.0,
+        "close_price": 3845.0,
+        "volume": 10420138.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250608,
+        "open_price": 3918.0,
+        "high_price": 4037.0,
+        "low_price": 3918.0,
+        "close_price": 3948.0,
+        "volume": 7867129.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250607,
+        "open_price": 4081.0,
+        "high_price": 4081.0,
+        "low_price": 4018.0,
+        "close_price": 4039.0,
+        "volume": 3038142.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250603,
+        "open_price": 4111.0,
+        "high_price": 4250.0,
+        "low_price": 4091.0,
+        "close_price": 4142.0,
+        "volume": 5860935.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250602,
+        "open_price": 4260.0,
+        "high_price": 4354.0,
+        "low_price": 4127.0,
+        "close_price": 4217.0,
+        "volume": 6733171.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250601,
+        "open_price": 4430.0,
+        "high_price": 4430.0,
+        "low_price": 4200.0,
+        "close_price": 4251.0,
+        "volume": 10520667.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250531,
+        "open_price": 4329.0,
+        "high_price": 4329.0,
+        "low_price": 4329.0,
+        "close_price": 4329.0,
+        "volume": 5894904.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250528,
+        "open_price": 4190.0,
+        "high_price": 4217.0,
+        "low_price": 4190.0,
+        "close_price": 4203.0,
+        "volume": 3179513.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250527,
+        "open_price": 4095.0,
+        "high_price": 4150.0,
+        "low_price": 4040.0,
+        "close_price": 4095.0,
+        "volume": 5182287.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250526,
+        "open_price": 4000.0,
+        "high_price": 4192.0,
+        "low_price": 3977.0,
+        "close_price": 4035.0,
+        "volume": 12848235.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250525,
+        "open_price": 4220.0,
+        "high_price": 4275.0,
+        "low_price": 4075.0,
+        "close_price": 4100.0,
+        "volume": 8926778.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250524,
+        "open_price": 4315.0,
+        "high_price": 4315.0,
+        "low_price": 4133.0,
+        "close_price": 4201.0,
+        "volume": 6786090.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250521,
+        "open_price": 4183.0,
+        "high_price": 4262.0,
+        "low_price": 4183.0,
+        "close_price": 4194.0,
+        "volume": 9797517.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250520,
+        "open_price": 4353.0,
+        "high_price": 4400.0,
+        "low_price": 4306.0,
+        "close_price": 4312.0,
+        "volume": 4986554.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250519,
+        "open_price": 4458.0,
+        "high_price": 4594.0,
+        "low_price": 4425.0,
+        "close_price": 4439.0,
+        "volume": 13594186.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250518,
+        "open_price": 4559.0,
+        "high_price": 4640.0,
+        "low_price": 4477.0,
+        "close_price": 4561.0,
+        "volume": 8645579.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250517,
+        "open_price": 4695.0,
+        "high_price": 4740.0,
+        "low_price": 4521.0,
+        "close_price": 4549.0,
+        "volume": 14786413.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250514,
+        "open_price": 4660.0,
+        "high_price": 4699.0,
+        "low_price": 4501.0,
+        "close_price": 4660.0,
+        "volume": 21352782.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250513,
+        "open_price": 4528.0,
+        "high_price": 4644.0,
+        "low_price": 4400.0,
+        "close_price": 4563.0,
+        "volume": 21569231.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250512,
+        "open_price": 4509.0,
+        "high_price": 4509.0,
+        "low_price": 4479.0,
+        "close_price": 4509.0,
+        "volume": 6247143.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250511,
+        "open_price": 4376.0,
+        "high_price": 4498.0,
+        "low_price": 4365.0,
+        "close_price": 4378.0,
+        "volume": 6588926.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250510,
+        "open_price": 4550.0,
+        "high_price": 4600.0,
+        "low_price": 4482.0,
+        "close_price": 4500.0,
+        "volume": 31998652.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250507,
+        "open_price": 4625.0,
+        "high_price": 4625.0,
+        "low_price": 4625.0,
+        "close_price": 4620.0,
+        "volume": 3483176.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250506,
+        "open_price": 4557.0,
+        "high_price": 4557.0,
+        "low_price": 4557.0,
+        "close_price": 4491.0,
+        "volume": 1823282.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250505,
+        "open_price": 4474.0,
+        "high_price": 4474.0,
+        "low_price": 4474.0,
+        "close_price": 4425.0,
+        "volume": 2245668.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250504,
+        "open_price": 4344.0,
+        "high_price": 4344.0,
+        "low_price": 4330.0,
+        "close_price": 4344.0,
+        "volume": 6527961.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250503,
+        "open_price": 4022.0,
+        "high_price": 4265.0,
+        "low_price": 4022.0,
+        "close_price": 4218.0,
+        "volume": 27253688.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250430,
+        "open_price": 4141.0,
+        "high_price": 4141.0,
+        "low_price": 4141.0,
+        "close_price": 4141.0,
+        "volume": 7940609.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250429,
+        "open_price": 3926.0,
+        "high_price": 4043.0,
+        "low_price": 3926.0,
+        "close_price": 4021.0,
+        "volume": 7822277.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250428,
+        "open_price": 4057.0,
+        "high_price": 4057.0,
+        "low_price": 3868.0,
+        "close_price": 3926.0,
+        "volume": 10703170.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250427,
+        "open_price": 3974.0,
+        "high_price": 4064.0,
+        "low_price": 3974.0,
+        "close_price": 3984.0,
+        "volume": 10846824.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250426,
+        "open_price": 4090.0,
+        "high_price": 4240.0,
+        "low_price": 4066.0,
+        "close_price": 4096.0,
+        "volume": 18741923.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250423,
+        "open_price": 4269.0,
+        "high_price": 4269.0,
+        "low_price": 4186.0,
+        "close_price": 4191.0,
+        "volume": 6634723.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250422,
+        "open_price": 4370.0,
+        "high_price": 4396.0,
+        "low_price": 4277.0,
+        "close_price": 4315.0,
+        "volume": 6059514.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250421,
+        "open_price": 4445.0,
+        "high_price": 4445.0,
+        "low_price": 4251.0,
+        "close_price": 4409.0,
+        "volume": 10756660.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250420,
+        "open_price": 4316.0,
+        "high_price": 4316.0,
+        "low_price": 4315.0,
+        "close_price": 4316.0,
+        "volume": 5400599.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250419,
+        "open_price": 4260.0,
+        "high_price": 4280.0,
+        "low_price": 4061.0,
+        "close_price": 4191.0,
+        "volume": 11939582.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250416,
+        "open_price": 4067.0,
+        "high_price": 4254.0,
+        "low_price": 4067.0,
+        "close_price": 4184.0,
+        "volume": 10360237.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250415,
+        "open_price": 4264.0,
+        "high_price": 4264.0,
+        "low_price": 4041.0,
+        "close_price": 4160.0,
+        "volume": 24667692.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250414,
+        "open_price": 4180.0,
+        "high_price": 4180.0,
+        "low_price": 4180.0,
+        "close_price": 4165.0,
+        "volume": 3273436.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250413,
+        "open_price": 4165.0,
+        "high_price": 4165.0,
+        "low_price": 4165.0,
+        "close_price": 4059.0,
+        "volume": 456813.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250412,
+        "open_price": 4123.0,
+        "high_price": 4123.0,
+        "low_price": 4123.0,
+        "close_price": 4044.0,
+        "volume": 1281146.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250409,
+        "open_price": 4067.0,
+        "high_price": 4067.0,
+        "low_price": 4067.0,
+        "close_price": 4003.0,
+        "volume": 1822126.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250408,
+        "open_price": 4017.0,
+        "high_price": 4017.0,
+        "low_price": 4017.0,
+        "close_price": 3949.0,
+        "volume": 1673495.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250407,
+        "open_price": 3954.0,
+        "high_price": 3954.0,
+        "low_price": 3954.0,
+        "close_price": 3900.0,
+        "volume": 2120746.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250406,
+        "open_price": 3923.0,
+        "high_price": 3923.0,
+        "low_price": 3923.0,
+        "close_price": 3839.0,
+        "volume": 1062913.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250405,
+        "open_price": 3888.0,
+        "high_price": 3888.0,
+        "low_price": 3888.0,
+        "close_price": 3809.0,
+        "volume": 1207524.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250330,
+        "open_price": 3809.0,
+        "high_price": 3809.0,
+        "low_price": 3671.0,
+        "close_price": 3775.0,
+        "volume": 2924530.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3699.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250326,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3699.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3699.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4540.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4540.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4540.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4540.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250312,
+        "open_price": 4490.0,
+        "high_price": 4680.0,
+        "low_price": 4490.0,
+        "close_price": 4540.0,
+        "volume": 9781560.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250311,
+        "open_price": 4660.0,
+        "high_price": 4660.0,
+        "low_price": 4610.0,
+        "close_price": 4620.0,
+        "volume": 3872756.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250310,
+        "open_price": 4740.0,
+        "high_price": 4860.0,
+        "low_price": 4740.0,
+        "close_price": 4750.0,
+        "volume": 5174595.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250309,
+        "open_price": 4810.0,
+        "high_price": 4830.0,
+        "low_price": 4810.0,
+        "close_price": 4880.0,
+        "volume": 1501973.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250308,
+        "open_price": 5110.0,
+        "high_price": 5110.0,
+        "low_price": 4900.0,
+        "close_price": 4950.0,
+        "volume": 5699648.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250305,
+        "open_price": 5150.0,
+        "high_price": 5160.0,
+        "low_price": 5010.0,
+        "close_price": 5050.0,
+        "volume": 7922302.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250304,
+        "open_price": 5030.0,
+        "high_price": 5240.0,
+        "low_price": 4990.0,
+        "close_price": 5120.0,
+        "volume": 6040146.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250303,
+        "open_price": 5060.0,
+        "high_price": 5060.0,
+        "low_price": 5060.0,
+        "close_price": 5140.0,
+        "volume": 1333839.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250302,
+        "open_price": 5050.0,
+        "high_price": 5280.0,
+        "low_price": 5050.0,
+        "close_price": 5210.0,
+        "volume": 5666065.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250301,
+        "open_price": 5260.0,
+        "high_price": 5260.0,
+        "low_price": 5120.0,
+        "close_price": 5140.0,
+        "volume": 6211001.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250226,
+        "open_price": 5530.0,
+        "high_price": 5530.0,
+        "low_price": 5250.0,
+        "close_price": 5270.0,
+        "volume": 7239080.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250225,
+        "open_price": 5450.0,
+        "high_price": 5450.0,
+        "low_price": 5250.0,
+        "close_price": 5410.0,
+        "volume": 7360159.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250224,
+        "open_price": 5360.0,
+        "high_price": 5360.0,
+        "low_price": 5330.0,
+        "close_price": 5300.0,
+        "volume": 1651625.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250223,
+        "open_price": 5050.0,
+        "high_price": 5230.0,
+        "low_price": 5050.0,
+        "close_price": 5210.0,
+        "volume": 3141049.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250222,
+        "open_price": 5300.0,
+        "high_price": 5300.0,
+        "low_price": 5060.0,
+        "close_price": 5080.0,
+        "volume": 6052706.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250219,
+        "open_price": 5260.0,
+        "high_price": 5330.0,
+        "low_price": 5120.0,
+        "close_price": 5210.0,
+        "volume": 8016243.0
+    },
+    {
+        "symbol": "کساپا",
+        "trade_date": 20250218,
+        "open_price": 5260.0,
+        "high_price": 5390.0,
+        "low_price": 5260.0,
+        "close_price": 5260.0,
+        "volume": 7302310.0
+    }
+]

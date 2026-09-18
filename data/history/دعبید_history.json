@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260901,
+        "open_price": 21950.0,
+        "high_price": 22180.0,
+        "low_price": 20900.0,
+        "close_price": 21410.0,
+        "volume": 34563716.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260831,
+        "open_price": 21700.0,
+        "high_price": 21980.0,
+        "low_price": 21340.0,
+        "close_price": 21540.0,
+        "volume": 50646418.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260829,
+        "open_price": 21900.0,
+        "high_price": 22060.0,
+        "low_price": 21490.0,
+        "close_price": 21990.0,
+        "volume": 53324557.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260826,
+        "open_price": 20930.0,
+        "high_price": 21490.0,
+        "low_price": 20930.0,
+        "close_price": 21420.0,
+        "volume": 47932467.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260825,
+        "open_price": 21680.0,
+        "high_price": 21680.0,
+        "low_price": 20590.0,
+        "close_price": 20870.0,
+        "volume": 68541947.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260824,
+        "open_price": 21370.0,
+        "high_price": 21710.0,
+        "low_price": 20450.0,
+        "close_price": 21220.0,
+        "volume": 89167093.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260823,
+        "open_price": 21140.0,
+        "high_price": 21140.0,
+        "low_price": 20030.0,
+        "close_price": 21080.0,
+        "volume": 233964104.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260822,
+        "open_price": 20530.0,
+        "high_price": 20530.0,
+        "low_price": 20530.0,
+        "close_price": 20530.0,
+        "volume": 14083491.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260819,
+        "open_price": 19940.0,
+        "high_price": 19940.0,
+        "low_price": 19940.0,
+        "close_price": 19940.0,
+        "volume": 30423300.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260818,
+        "open_price": 19360.0,
+        "high_price": 19360.0,
+        "low_price": 19360.0,
+        "close_price": 19360.0,
+        "volume": 16454830.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260817,
+        "open_price": 18800.0,
+        "high_price": 18800.0,
+        "low_price": 18800.0,
+        "close_price": 18800.0,
+        "volume": 21654127.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260816,
+        "open_price": 18260.0,
+        "high_price": 18260.0,
+        "low_price": 18260.0,
+        "close_price": 18260.0,
+        "volume": 24688128.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260815,
+        "open_price": 17480.0,
+        "high_price": 18300.0,
+        "low_price": 17240.0,
+        "close_price": 17730.0,
+        "volume": 65830617.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260811,
+        "open_price": 18400.0,
+        "high_price": 18500.0,
+        "low_price": 17700.0,
+        "close_price": 17770.0,
+        "volume": 56804338.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260810,
+        "open_price": 18200.0,
+        "high_price": 18600.0,
+        "low_price": 18200.0,
+        "close_price": 18240.0,
+        "volume": 59248045.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260809,
+        "open_price": 19230.0,
+        "high_price": 19230.0,
+        "low_price": 18660.0,
+        "close_price": 18760.0,
+        "volume": 45008645.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260808,
+        "open_price": 19000.0,
+        "high_price": 19300.0,
+        "low_price": 18930.0,
+        "close_price": 19230.0,
+        "volume": 16088925.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260805,
+        "open_price": 18960.0,
+        "high_price": 19100.0,
+        "low_price": 18450.0,
+        "close_price": 18740.0,
+        "volume": 75888147.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260803,
+        "open_price": 18930.0,
+        "high_price": 18950.0,
+        "low_price": 18440.0,
+        "close_price": 18720.0,
+        "volume": 59347220.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260802,
+        "open_price": 18050.0,
+        "high_price": 18890.0,
+        "low_price": 18010.0,
+        "close_price": 18400.0,
+        "volume": 141983279.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260801,
+        "open_price": 18340.0,
+        "high_price": 18340.0,
+        "low_price": 18340.0,
+        "close_price": 18340.0,
+        "volume": 7953767.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260729,
+        "open_price": 18900.0,
+        "high_price": 18900.0,
+        "low_price": 18900.0,
+        "close_price": 18900.0,
+        "volume": 21956565.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260728,
+        "open_price": 19480.0,
+        "high_price": 19480.0,
+        "low_price": 19480.0,
+        "close_price": 19480.0,
+        "volume": 9500277.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260727,
+        "open_price": 20080.0,
+        "high_price": 20080.0,
+        "low_price": 20080.0,
+        "close_price": 20080.0,
+        "volume": 13214421.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260726,
+        "open_price": 20970.0,
+        "high_price": 20970.0,
+        "low_price": 20310.0,
+        "close_price": 20700.0,
+        "volume": 32453104.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260725,
+        "open_price": 21700.0,
+        "high_price": 21700.0,
+        "low_price": 20500.0,
+        "close_price": 20930.0,
+        "volume": 56217769.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260722,
+        "open_price": 21140.0,
+        "high_price": 21140.0,
+        "low_price": 20890.0,
+        "close_price": 21130.0,
+        "volume": 91520439.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260721,
+        "open_price": 20530.0,
+        "high_price": 20530.0,
+        "low_price": 20530.0,
+        "close_price": 20530.0,
+        "volume": 19204417.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260720,
+        "open_price": 19940.0,
+        "high_price": 19940.0,
+        "low_price": 19940.0,
+        "close_price": 19940.0,
+        "volume": 38563181.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260719,
+        "open_price": 19350.0,
+        "high_price": 19360.0,
+        "low_price": 19110.0,
+        "close_price": 19360.0,
+        "volume": 60583853.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260718,
+        "open_price": 19450.0,
+        "high_price": 19450.0,
+        "low_price": 18610.0,
+        "close_price": 18800.0,
+        "volume": 102800936.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260715,
+        "open_price": 19180.0,
+        "high_price": 19180.0,
+        "low_price": 18980.0,
+        "close_price": 19180.0,
+        "volume": 87793899.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260714,
+        "open_price": 18520.0,
+        "high_price": 18750.0,
+        "low_price": 18210.0,
+        "close_price": 18630.0,
+        "volume": 68043897.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260713,
+        "open_price": 17730.0,
+        "high_price": 18260.0,
+        "low_price": 17730.0,
+        "close_price": 18210.0,
+        "volume": 76370154.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260712,
+        "open_price": 18000.0,
+        "high_price": 18500.0,
+        "low_price": 17460.0,
+        "close_price": 17730.0,
+        "volume": 110396648.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260711,
+        "open_price": 17770.0,
+        "high_price": 17770.0,
+        "low_price": 17600.0,
+        "close_price": 17770.0,
+        "volume": 15037767.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260708,
+        "open_price": 17130.0,
+        "high_price": 17590.0,
+        "low_price": 16570.0,
+        "close_price": 17270.0,
+        "volume": 129966223.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260707,
+        "open_price": 17250.0,
+        "high_price": 17250.0,
+        "low_price": 16500.0,
+        "close_price": 17080.0,
+        "volume": 190333144.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260701,
+        "open_price": 16750.0,
+        "high_price": 16750.0,
+        "low_price": 16750.0,
+        "close_price": 16750.0,
+        "volume": 75351408.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260630,
+        "open_price": 16270.0,
+        "high_price": 16270.0,
+        "low_price": 16270.0,
+        "close_price": 16270.0,
+        "volume": 39456377.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260629,
+        "open_price": 15800.0,
+        "high_price": 15800.0,
+        "low_price": 15800.0,
+        "close_price": 15800.0,
+        "volume": 6256119.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260628,
+        "open_price": 15250.0,
+        "high_price": 15890.0,
+        "low_price": 15190.0,
+        "close_price": 15340.0,
+        "volume": 177258963.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260627,
+        "open_price": 15660.0,
+        "high_price": 15660.0,
+        "low_price": 15220.0,
+        "close_price": 15650.0,
+        "volume": 72545586.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260623,
+        "open_price": 15210.0,
+        "high_price": 15210.0,
+        "low_price": 15210.0,
+        "close_price": 15210.0,
+        "volume": 49914731.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260622,
+        "open_price": 14770.0,
+        "high_price": 14770.0,
+        "low_price": 14770.0,
+        "close_price": 14770.0,
+        "volume": 16058019.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260621,
+        "open_price": 14820.0,
+        "high_price": 14820.0,
+        "low_price": 13960.0,
+        "close_price": 14340.0,
+        "volume": 433347372.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260620,
+        "open_price": 14390.0,
+        "high_price": 14390.0,
+        "low_price": 14390.0,
+        "close_price": 14390.0,
+        "volume": 4207990.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260617,
+        "open_price": 13980.0,
+        "high_price": 13980.0,
+        "low_price": 13980.0,
+        "close_price": 13980.0,
+        "volume": 54270063.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260616,
+        "open_price": 13580.0,
+        "high_price": 13580.0,
+        "low_price": 13580.0,
+        "close_price": 13580.0,
+        "volume": 48456450.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260615,
+        "open_price": 13190.0,
+        "high_price": 13190.0,
+        "low_price": 13190.0,
+        "close_price": 13190.0,
+        "volume": 30512323.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260614,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12810.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260613,
+        "open_price": 12810.0,
+        "high_price": 12810.0,
+        "low_price": 12810.0,
+        "close_price": 12810.0,
+        "volume": 1419715.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260610,
+        "open_price": 12440.0,
+        "high_price": 12440.0,
+        "low_price": 12440.0,
+        "close_price": 12440.0,
+        "volume": 84696750.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260609,
+        "open_price": 12080.0,
+        "high_price": 12080.0,
+        "low_price": 12080.0,
+        "close_price": 12080.0,
+        "volume": 63577413.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260608,
+        "open_price": 11200.0,
+        "high_price": 11880.0,
+        "low_price": 11200.0,
+        "close_price": 11730.0,
+        "volume": 280048409.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260607,
+        "open_price": 11540.0,
+        "high_price": 11540.0,
+        "low_price": 11540.0,
+        "close_price": 11540.0,
+        "volume": 49034558.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260606,
+        "open_price": 11210.0,
+        "high_price": 11210.0,
+        "low_price": 11210.0,
+        "close_price": 11210.0,
+        "volume": 97386683.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260603,
+        "open_price": 10890.0,
+        "high_price": 10890.0,
+        "low_price": 10890.0,
+        "close_price": 10890.0,
+        "volume": 75111034.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260602,
+        "open_price": 10580.0,
+        "high_price": 10580.0,
+        "low_price": 10580.0,
+        "close_price": 10580.0,
+        "volume": 87699644.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260601,
+        "open_price": 10280.0,
+        "high_price": 10280.0,
+        "low_price": 10280.0,
+        "close_price": 10280.0,
+        "volume": 84006746.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260531,
+        "open_price": 9990.0,
+        "high_price": 9990.0,
+        "low_price": 9990.0,
+        "close_price": 9990.0,
+        "volume": 22094206.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260530,
+        "open_price": 9700.0,
+        "high_price": 9700.0,
+        "low_price": 9700.0,
+        "close_price": 9700.0,
+        "volume": 32559308.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260526,
+        "open_price": 9420.0,
+        "high_price": 9420.0,
+        "low_price": 9420.0,
+        "close_price": 9420.0,
+        "volume": 843231.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260525,
+        "open_price": 9150.0,
+        "high_price": 9150.0,
+        "low_price": 9150.0,
+        "close_price": 9150.0,
+        "volume": 2702720.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260524,
+        "open_price": 8890.0,
+        "high_price": 8890.0,
+        "low_price": 8890.0,
+        "close_price": 8890.0,
+        "volume": 451777.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260523,
+        "open_price": 8640.0,
+        "high_price": 8640.0,
+        "low_price": 8640.0,
+        "close_price": 8640.0,
+        "volume": 8426368.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260520,
+        "open_price": 8390.0,
+        "high_price": 8390.0,
+        "low_price": 8390.0,
+        "close_price": 8390.0,
+        "volume": 23445326.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260519,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8150.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8150.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8150.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8150.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8150.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8150.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8150.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8150.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8150.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8150.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8150.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8150.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8150.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8150.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8150.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8150.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8150.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8150.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8150.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8150.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8470.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8470.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8470.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8470.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8470.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8470.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8470.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8470.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8470.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8470.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8470.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8470.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8470.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8470.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8470.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8470.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8470.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8470.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8470.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8470.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8470.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8470.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8470.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8470.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8470.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8470.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8470.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8470.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8470.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8470.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8470.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260225,
+        "open_price": 8410.0,
+        "high_price": 8680.0,
+        "low_price": 8400.0,
+        "close_price": 8470.0,
+        "volume": 8020216.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260224,
+        "open_price": 8570.0,
+        "high_price": 8790.0,
+        "low_price": 8570.0,
+        "close_price": 8570.0,
+        "volume": 20819521.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260223,
+        "open_price": 8910.0,
+        "high_price": 9190.0,
+        "low_price": 8760.0,
+        "close_price": 8830.0,
+        "volume": 7604197.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260222,
+        "open_price": 9030.0,
+        "high_price": 9030.0,
+        "low_price": 9030.0,
+        "close_price": 9030.0,
+        "volume": 7057687.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260221,
+        "open_price": 9310.0,
+        "high_price": 9320.0,
+        "low_price": 9300.0,
+        "close_price": 9300.0,
+        "volume": 3598133.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260218,
+        "open_price": 9720.0,
+        "high_price": 9760.0,
+        "low_price": 9260.0,
+        "close_price": 9580.0,
+        "volume": 12193643.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260217,
+        "open_price": 9360.0,
+        "high_price": 9500.0,
+        "low_price": 9360.0,
+        "close_price": 9480.0,
+        "volume": 12687674.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260216,
+        "open_price": 9070.0,
+        "high_price": 9330.0,
+        "low_price": 9070.0,
+        "close_price": 9230.0,
+        "volume": 11323937.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260215,
+        "open_price": 9220.0,
+        "high_price": 9420.0,
+        "low_price": 8880.0,
+        "close_price": 9150.0,
+        "volume": 20202001.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260214,
+        "open_price": 9120.0,
+        "high_price": 9530.0,
+        "low_price": 9110.0,
+        "close_price": 9150.0,
+        "volume": 56065124.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260210,
+        "open_price": 9390.0,
+        "high_price": 9480.0,
+        "low_price": 9390.0,
+        "close_price": 9390.0,
+        "volume": 19507288.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260209,
+        "open_price": 9680.0,
+        "high_price": 9690.0,
+        "low_price": 9680.0,
+        "close_price": 9680.0,
+        "volume": 11622556.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260208,
+        "open_price": 10390.0,
+        "high_price": 10390.0,
+        "low_price": 9860.0,
+        "close_price": 9970.0,
+        "volume": 44024395.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260207,
+        "open_price": 9940.0,
+        "high_price": 10180.0,
+        "low_price": 9940.0,
+        "close_price": 10160.0,
+        "volume": 30965586.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260203,
+        "open_price": 9900.0,
+        "high_price": 10000.0,
+        "low_price": 9890.0,
+        "close_price": 9890.0,
+        "volume": 41392959.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260202,
+        "open_price": 10180.0,
+        "high_price": 10440.0,
+        "low_price": 10180.0,
+        "close_price": 10190.0,
+        "volume": 79306572.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260201,
+        "open_price": 10490.0,
+        "high_price": 10490.0,
+        "low_price": 10490.0,
+        "close_price": 10490.0,
+        "volume": 3454854.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260131,
+        "open_price": 10810.0,
+        "high_price": 10810.0,
+        "low_price": 10810.0,
+        "close_price": 10810.0,
+        "volume": 1481196.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260128,
+        "open_price": 11140.0,
+        "high_price": 11140.0,
+        "low_price": 11140.0,
+        "close_price": 11140.0,
+        "volume": 2139655.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260127,
+        "open_price": 11480.0,
+        "high_price": 11480.0,
+        "low_price": 11480.0,
+        "close_price": 11480.0,
+        "volume": 1556177.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260126,
+        "open_price": 11830.0,
+        "high_price": 11830.0,
+        "low_price": 11830.0,
+        "close_price": 11830.0,
+        "volume": 2403270.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260125,
+        "open_price": 12300.0,
+        "high_price": 12300.0,
+        "low_price": 11970.0,
+        "close_price": 12190.0,
+        "volume": 7335787.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260124,
+        "open_price": 12340.0,
+        "high_price": 12340.0,
+        "low_price": 12320.0,
+        "close_price": 12330.0,
+        "volume": 131734187.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260121,
+        "open_price": 11990.0,
+        "high_price": 11990.0,
+        "low_price": 11910.0,
+        "close_price": 11990.0,
+        "volume": 56524532.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260120,
+        "open_price": 11650.0,
+        "high_price": 11660.0,
+        "low_price": 11560.0,
+        "close_price": 11650.0,
+        "volume": 101481058.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260119,
+        "open_price": 11330.0,
+        "high_price": 11330.0,
+        "low_price": 11310.0,
+        "close_price": 11330.0,
+        "volume": 92917560.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260118,
+        "open_price": 11000.0,
+        "high_price": 11000.0,
+        "low_price": 10970.0,
+        "close_price": 11000.0,
+        "volume": 53496631.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260114,
+        "open_price": 10590.0,
+        "high_price": 11090.0,
+        "low_price": 10590.0,
+        "close_price": 10680.0,
+        "volume": 80436574.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260113,
+        "open_price": 11230.0,
+        "high_price": 11230.0,
+        "low_price": 10880.0,
+        "close_price": 10910.0,
+        "volume": 23280699.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260112,
+        "open_price": 11490.0,
+        "high_price": 11690.0,
+        "low_price": 11010.0,
+        "close_price": 11210.0,
+        "volume": 43654281.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260111,
+        "open_price": 11340.0,
+        "high_price": 11710.0,
+        "low_price": 11340.0,
+        "close_price": 11350.0,
+        "volume": 65821248.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260110,
+        "open_price": 11690.0,
+        "high_price": 11710.0,
+        "low_price": 11690.0,
+        "close_price": 11690.0,
+        "volume": 66603433.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260107,
+        "open_price": 12210.0,
+        "high_price": 12220.0,
+        "low_price": 11800.0,
+        "close_price": 12050.0,
+        "volume": 72513649.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260106,
+        "open_price": 11890.0,
+        "high_price": 11900.0,
+        "low_price": 11870.0,
+        "close_price": 11900.0,
+        "volume": 49500027.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260105,
+        "open_price": 11580.0,
+        "high_price": 11580.0,
+        "low_price": 11420.0,
+        "close_price": 11560.0,
+        "volume": 51535160.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20260104,
+        "open_price": 11240.0,
+        "high_price": 11270.0,
+        "low_price": 10950.0,
+        "close_price": 11250.0,
+        "volume": 96461317.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251231,
+        "open_price": 10540.0,
+        "high_price": 11180.0,
+        "low_price": 10540.0,
+        "close_price": 10950.0,
+        "volume": 57609386.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251230,
+        "open_price": 11130.0,
+        "high_price": 11130.0,
+        "low_price": 10690.0,
+        "close_price": 10860.0,
+        "volume": 33044400.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251229,
+        "open_price": 11030.0,
+        "high_price": 11120.0,
+        "low_price": 10560.0,
+        "close_price": 11020.0,
+        "volume": 43807840.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251228,
+        "open_price": 10770.0,
+        "high_price": 10820.0,
+        "low_price": 10600.0,
+        "close_price": 10800.0,
+        "volume": 54071103.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251227,
+        "open_price": 10510.0,
+        "high_price": 10510.0,
+        "low_price": 10500.0,
+        "close_price": 10510.0,
+        "volume": 24768403.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251224,
+        "open_price": 10210.0,
+        "high_price": 10210.0,
+        "low_price": 10210.0,
+        "close_price": 10210.0,
+        "volume": 34557205.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251223,
+        "open_price": 10000.0,
+        "high_price": 10120.0,
+        "low_price": 9880.0,
+        "close_price": 9920.0,
+        "volume": 53447737.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251222,
+        "open_price": 10380.0,
+        "high_price": 10410.0,
+        "low_price": 9830.0,
+        "close_price": 10180.0,
+        "volume": 34138242.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251221,
+        "open_price": 9980.0,
+        "high_price": 10160.0,
+        "low_price": 9930.0,
+        "close_price": 10130.0,
+        "volume": 37622803.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251220,
+        "open_price": 9880.0,
+        "high_price": 9880.0,
+        "low_price": 9780.0,
+        "close_price": 9870.0,
+        "volume": 28807019.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251217,
+        "open_price": 9440.0,
+        "high_price": 9650.0,
+        "low_price": 9440.0,
+        "close_price": 9600.0,
+        "volume": 38333680.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251216,
+        "open_price": 9420.0,
+        "high_price": 9450.0,
+        "low_price": 9190.0,
+        "close_price": 9370.0,
+        "volume": 47891510.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251215,
+        "open_price": 9300.0,
+        "high_price": 9300.0,
+        "low_price": 8920.0,
+        "close_price": 9180.0,
+        "volume": 116759389.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251214,
+        "open_price": 9030.0,
+        "high_price": 9030.0,
+        "low_price": 8920.0,
+        "close_price": 9030.0,
+        "volume": 114325013.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251213,
+        "open_price": 8770.0,
+        "high_price": 8770.0,
+        "low_price": 8770.0,
+        "close_price": 8770.0,
+        "volume": 14238784.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251210,
+        "open_price": 8460.0,
+        "high_price": 8540.0,
+        "low_price": 8380.0,
+        "close_price": 8520.0,
+        "volume": 51070962.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251209,
+        "open_price": 8310.0,
+        "high_price": 8310.0,
+        "low_price": 8130.0,
+        "close_price": 8300.0,
+        "volume": 152794738.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251208,
+        "open_price": 8070.0,
+        "high_price": 8070.0,
+        "low_price": 8070.0,
+        "close_price": 8070.0,
+        "volume": 46865087.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251207,
+        "open_price": 7840.0,
+        "high_price": 7840.0,
+        "low_price": 7840.0,
+        "close_price": 7840.0,
+        "volume": 20813241.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251206,
+        "open_price": 7620.0,
+        "high_price": 7620.0,
+        "low_price": 7620.0,
+        "close_price": 7620.0,
+        "volume": 62734746.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251203,
+        "open_price": 7400.0,
+        "high_price": 7400.0,
+        "low_price": 7400.0,
+        "close_price": 7400.0,
+        "volume": 107594396.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251202,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7190.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251201,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7190.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251130,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7190.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251129,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7190.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251126,
+        "open_price": 7350.0,
+        "high_price": 7360.0,
+        "low_price": 7120.0,
+        "close_price": 7190.0,
+        "volume": 15718909.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251125,
+        "open_price": 7250.0,
+        "high_price": 7410.0,
+        "low_price": 7220.0,
+        "close_price": 7330.0,
+        "volume": 9769180.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251123,
+        "open_price": 7350.0,
+        "high_price": 7430.0,
+        "low_price": 7200.0,
+        "close_price": 7340.0,
+        "volume": 9607077.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251122,
+        "open_price": 7450.0,
+        "high_price": 7460.0,
+        "low_price": 7270.0,
+        "close_price": 7390.0,
+        "volume": 8275388.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251119,
+        "open_price": 7550.0,
+        "high_price": 7600.0,
+        "low_price": 7300.0,
+        "close_price": 7430.0,
+        "volume": 14603719.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251118,
+        "open_price": 7520.0,
+        "high_price": 7520.0,
+        "low_price": 7420.0,
+        "close_price": 7520.0,
+        "volume": 42739594.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251117,
+        "open_price": 7170.0,
+        "high_price": 7320.0,
+        "low_price": 7030.0,
+        "close_price": 7310.0,
+        "volume": 27483147.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251116,
+        "open_price": 6940.0,
+        "high_price": 7190.0,
+        "low_price": 6940.0,
+        "close_price": 7110.0,
+        "volume": 5647126.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251115,
+        "open_price": 7220.0,
+        "high_price": 7240.0,
+        "low_price": 7010.0,
+        "close_price": 7130.0,
+        "volume": 4482079.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251112,
+        "open_price": 7270.0,
+        "high_price": 7270.0,
+        "low_price": 7100.0,
+        "close_price": 7140.0,
+        "volume": 7856968.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251111,
+        "open_price": 7190.0,
+        "high_price": 7300.0,
+        "low_price": 7090.0,
+        "close_price": 7140.0,
+        "volume": 27783547.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251110,
+        "open_price": 7150.0,
+        "high_price": 7300.0,
+        "low_price": 7100.0,
+        "close_price": 7190.0,
+        "volume": 11107275.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251109,
+        "open_price": 7580.0,
+        "high_price": 7600.0,
+        "low_price": 7270.0,
+        "close_price": 7310.0,
+        "volume": 15304961.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251108,
+        "open_price": 7350.0,
+        "high_price": 7500.0,
+        "low_price": 7340.0,
+        "close_price": 7490.0,
+        "volume": 43233386.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251105,
+        "open_price": 7150.0,
+        "high_price": 7370.0,
+        "low_price": 7150.0,
+        "close_price": 7290.0,
+        "volume": 21320124.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251104,
+        "open_price": 7300.0,
+        "high_price": 7400.0,
+        "low_price": 7170.0,
+        "close_price": 7240.0,
+        "volume": 12727187.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251103,
+        "open_price": 7340.0,
+        "high_price": 7340.0,
+        "low_price": 7150.0,
+        "close_price": 7240.0,
+        "volume": 10330299.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251102,
+        "open_price": 7350.0,
+        "high_price": 7350.0,
+        "low_price": 7110.0,
+        "close_price": 7250.0,
+        "volume": 17996024.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251101,
+        "open_price": 7240.0,
+        "high_price": 7240.0,
+        "low_price": 7180.0,
+        "close_price": 7240.0,
+        "volume": 45749257.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251029,
+        "open_price": 7030.0,
+        "high_price": 7030.0,
+        "low_price": 7000.0,
+        "close_price": 7030.0,
+        "volume": 28814691.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251028,
+        "open_price": 6740.0,
+        "high_price": 6890.0,
+        "low_price": 6590.0,
+        "close_price": 6830.0,
+        "volume": 33667293.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251027,
+        "open_price": 6760.0,
+        "high_price": 6770.0,
+        "low_price": 6600.0,
+        "close_price": 6690.0,
+        "volume": 8529216.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251026,
+        "open_price": 6740.0,
+        "high_price": 6770.0,
+        "low_price": 6530.0,
+        "close_price": 6680.0,
+        "volume": 6695523.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251025,
+        "open_price": 6740.0,
+        "high_price": 6790.0,
+        "low_price": 6550.0,
+        "close_price": 6710.0,
+        "volume": 3205137.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251022,
+        "open_price": 6870.0,
+        "high_price": 6870.0,
+        "low_price": 6650.0,
+        "close_price": 6720.0,
+        "volume": 12269915.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251021,
+        "open_price": 6720.0,
+        "high_price": 7000.0,
+        "low_price": 6670.0,
+        "close_price": 6850.0,
+        "volume": 3119559.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251020,
+        "open_price": 6930.0,
+        "high_price": 7040.0,
+        "low_price": 6690.0,
+        "close_price": 6870.0,
+        "volume": 3892373.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251019,
+        "open_price": 6900.0,
+        "high_price": 7040.0,
+        "low_price": 6890.0,
+        "close_price": 6890.0,
+        "volume": 6222192.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251018,
+        "open_price": 6920.0,
+        "high_price": 6990.0,
+        "low_price": 6820.0,
+        "close_price": 6840.0,
+        "volume": 7152683.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251015,
+        "open_price": 6730.0,
+        "high_price": 6850.0,
+        "low_price": 6730.0,
+        "close_price": 6800.0,
+        "volume": 10713366.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251014,
+        "open_price": 6970.0,
+        "high_price": 7000.0,
+        "low_price": 6780.0,
+        "close_price": 6930.0,
+        "volume": 4732450.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251013,
+        "open_price": 7070.0,
+        "high_price": 7160.0,
+        "low_price": 6850.0,
+        "close_price": 6980.0,
+        "volume": 10477370.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251012,
+        "open_price": 6980.0,
+        "high_price": 7270.0,
+        "low_price": 6960.0,
+        "close_price": 7060.0,
+        "volume": 15777063.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251011,
+        "open_price": 7020.0,
+        "high_price": 7140.0,
+        "low_price": 7020.0,
+        "close_price": 7150.0,
+        "volume": 6332690.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251008,
+        "open_price": 7050.0,
+        "high_price": 7050.0,
+        "low_price": 7050.0,
+        "close_price": 7230.0,
+        "volume": 1980922.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251007,
+        "open_price": 7160.0,
+        "high_price": 7260.0,
+        "low_price": 7160.0,
+        "close_price": 7260.0,
+        "volume": 8797429.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251006,
+        "open_price": 7390.0,
+        "high_price": 7390.0,
+        "low_price": 7170.0,
+        "close_price": 7380.0,
+        "volume": 1055800.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251005,
+        "open_price": 7600.0,
+        "high_price": 7600.0,
+        "low_price": 7250.0,
+        "close_price": 7390.0,
+        "volume": 3712595.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251004,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7380.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20251001,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10080.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250930,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10080.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250929,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10080.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250928,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10080.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250927,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10080.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250924,
+        "open_price": 9790.0,
+        "high_price": 9790.0,
+        "low_price": 9790.0,
+        "close_price": 10080.0,
+        "volume": 466838.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250923,
+        "open_price": 9790.0,
+        "high_price": 9790.0,
+        "low_price": 9790.0,
+        "close_price": 10090.0,
+        "volume": 180934.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250922,
+        "open_price": 9880.0,
+        "high_price": 10000.0,
+        "low_price": 9880.0,
+        "close_price": 10090.0,
+        "volume": 3649171.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250921,
+        "open_price": 9880.0,
+        "high_price": 9880.0,
+        "low_price": 9880.0,
+        "close_price": 10180.0,
+        "volume": 39792.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250920,
+        "open_price": 9880.0,
+        "high_price": 9880.0,
+        "low_price": 9880.0,
+        "close_price": 10180.0,
+        "volume": 70903.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250917,
+        "open_price": 9880.0,
+        "high_price": 9880.0,
+        "low_price": 9880.0,
+        "close_price": 10180.0,
+        "volume": 95047.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250916,
+        "open_price": 9880.0,
+        "high_price": 9880.0,
+        "low_price": 9880.0,
+        "close_price": 10180.0,
+        "volume": 99925.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250915,
+        "open_price": 9890.0,
+        "high_price": 9890.0,
+        "low_price": 9890.0,
+        "close_price": 10180.0,
+        "volume": 201615.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250914,
+        "open_price": 9910.0,
+        "high_price": 9910.0,
+        "low_price": 9910.0,
+        "close_price": 10190.0,
+        "volume": 866193.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250913,
+        "open_price": 10010.0,
+        "high_price": 10010.0,
+        "low_price": 9920.0,
+        "close_price": 10210.0,
+        "volume": 261769.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250909,
+        "open_price": 10240.0,
+        "high_price": 10520.0,
+        "low_price": 9990.0,
+        "close_price": 10220.0,
+        "volume": 3151082.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250908,
+        "open_price": 9970.0,
+        "high_price": 10570.0,
+        "low_price": 9970.0,
+        "close_price": 10230.0,
+        "volume": 7060144.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250907,
+        "open_price": 9970.0,
+        "high_price": 9970.0,
+        "low_price": 9970.0,
+        "close_price": 10270.0,
+        "volume": 181251.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250906,
+        "open_price": 9990.0,
+        "high_price": 9990.0,
+        "low_price": 9990.0,
+        "close_price": 10270.0,
+        "volume": 809421.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250903,
+        "open_price": 10000.0,
+        "high_price": 10000.0,
+        "low_price": 10000.0,
+        "close_price": 10290.0,
+        "volume": 333138.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250902,
+        "open_price": 10020.0,
+        "high_price": 10020.0,
+        "low_price": 10020.0,
+        "close_price": 10300.0,
+        "volume": 653071.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250831,
+        "open_price": 10030.0,
+        "high_price": 10030.0,
+        "low_price": 10030.0,
+        "close_price": 10320.0,
+        "volume": 297254.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250830,
+        "open_price": 10030.0,
+        "high_price": 10030.0,
+        "low_price": 10030.0,
+        "close_price": 10330.0,
+        "volume": 79390.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250827,
+        "open_price": 10030.0,
+        "high_price": 10030.0,
+        "low_price": 10030.0,
+        "close_price": 10330.0,
+        "volume": 79389.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250826,
+        "open_price": 10030.0,
+        "high_price": 10030.0,
+        "low_price": 10030.0,
+        "close_price": 10330.0,
+        "volume": 85262.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250825,
+        "open_price": 10030.0,
+        "high_price": 10030.0,
+        "low_price": 10030.0,
+        "close_price": 10330.0,
+        "volume": 178899.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250823,
+        "open_price": 10030.0,
+        "high_price": 10030.0,
+        "low_price": 10030.0,
+        "close_price": 10330.0,
+        "volume": 75471.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250820,
+        "open_price": 10100.0,
+        "high_price": 10100.0,
+        "low_price": 10100.0,
+        "close_price": 10330.0,
+        "volume": 2870701.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250819,
+        "open_price": 10140.0,
+        "high_price": 10140.0,
+        "low_price": 10120.0,
+        "close_price": 10410.0,
+        "volume": 834406.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250818,
+        "open_price": 10320.0,
+        "high_price": 10320.0,
+        "low_price": 10140.0,
+        "close_price": 10430.0,
+        "volume": 630727.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250817,
+        "open_price": 10690.0,
+        "high_price": 10690.0,
+        "low_price": 10210.0,
+        "close_price": 10450.0,
+        "volume": 3392433.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250816,
+        "open_price": 10070.0,
+        "high_price": 10070.0,
+        "low_price": 10070.0,
+        "close_price": 10380.0,
+        "volume": 54524.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250813,
+        "open_price": 10070.0,
+        "high_price": 10070.0,
+        "low_price": 10070.0,
+        "close_price": 10380.0,
+        "volume": 24033.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250812,
+        "open_price": 10070.0,
+        "high_price": 10070.0,
+        "low_price": 10070.0,
+        "close_price": 10380.0,
+        "volume": 82113.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250811,
+        "open_price": 10070.0,
+        "high_price": 10070.0,
+        "low_price": 10070.0,
+        "close_price": 10380.0,
+        "volume": 20147.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250810,
+        "open_price": 10140.0,
+        "high_price": 10340.0,
+        "low_price": 10080.0,
+        "close_price": 10380.0,
+        "volume": 234363.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250809,
+        "open_price": 10070.0,
+        "high_price": 10690.0,
+        "low_price": 10070.0,
+        "close_price": 10390.0,
+        "volume": 4220215.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250806,
+        "open_price": 10080.0,
+        "high_price": 10080.0,
+        "low_price": 10080.0,
+        "close_price": 10380.0,
+        "volume": 257959.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250805,
+        "open_price": 10110.0,
+        "high_price": 10110.0,
+        "low_price": 10110.0,
+        "close_price": 10390.0,
+        "volume": 972021.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250804,
+        "open_price": 10110.0,
+        "high_price": 10110.0,
+        "low_price": 10110.0,
+        "close_price": 10420.0,
+        "volume": 140365.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250803,
+        "open_price": 10110.0,
+        "high_price": 10110.0,
+        "low_price": 10110.0,
+        "close_price": 10420.0,
+        "volume": 179056.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250802,
+        "open_price": 10250.0,
+        "high_price": 10250.0,
+        "low_price": 10250.0,
+        "close_price": 10420.0,
+        "volume": 5049294.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250730,
+        "open_price": 10250.0,
+        "high_price": 10250.0,
+        "low_price": 10250.0,
+        "close_price": 10560.0,
+        "volume": 123506.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250729,
+        "open_price": 10250.0,
+        "high_price": 10250.0,
+        "low_price": 10250.0,
+        "close_price": 10560.0,
+        "volume": 92500.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250728,
+        "open_price": 10260.0,
+        "high_price": 10390.0,
+        "low_price": 10260.0,
+        "close_price": 10560.0,
+        "volume": 336576.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250727,
+        "open_price": 10400.0,
+        "high_price": 10480.0,
+        "low_price": 10350.0,
+        "close_price": 10570.0,
+        "volume": 3370400.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250726,
+        "open_price": 10490.0,
+        "high_price": 10780.0,
+        "low_price": 10450.0,
+        "close_price": 10660.0,
+        "volume": 6146610.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250723,
+        "open_price": 10690.0,
+        "high_price": 11050.0,
+        "low_price": 10660.0,
+        "close_price": 10770.0,
+        "volume": 8067452.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250722,
+        "open_price": 11280.0,
+        "high_price": 11280.0,
+        "low_price": 10780.0,
+        "close_price": 10980.0,
+        "volume": 2883529.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250721,
+        "open_price": 11180.0,
+        "high_price": 11290.0,
+        "low_price": 10790.0,
+        "close_price": 11010.0,
+        "volume": 9915861.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250720,
+        "open_price": 10880.0,
+        "high_price": 10900.0,
+        "low_price": 10880.0,
+        "close_price": 11120.0,
+        "volume": 3011370.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250719,
+        "open_price": 11190.0,
+        "high_price": 11200.0,
+        "low_price": 10900.0,
+        "close_price": 11210.0,
+        "volume": 742153.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250716,
+        "open_price": 11040.0,
+        "high_price": 11320.0,
+        "low_price": 10960.0,
+        "close_price": 11230.0,
+        "volume": 2156810.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250715,
+        "open_price": 11030.0,
+        "high_price": 11460.0,
+        "low_price": 10990.0,
+        "close_price": 11290.0,
+        "volume": 4148697.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250714,
+        "open_price": 11640.0,
+        "high_price": 11640.0,
+        "low_price": 11190.0,
+        "close_price": 11320.0,
+        "volume": 2540713.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250713,
+        "open_price": 11480.0,
+        "high_price": 11590.0,
+        "low_price": 11170.0,
+        "close_price": 11310.0,
+        "volume": 4939811.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250712,
+        "open_price": 11000.0,
+        "high_price": 11590.0,
+        "low_price": 10980.0,
+        "close_price": 11260.0,
+        "volume": 4307704.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250709,
+        "open_price": 11000.0,
+        "high_price": 11000.0,
+        "low_price": 11000.0,
+        "close_price": 11310.0,
+        "volume": 978512.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250708,
+        "open_price": 11010.0,
+        "high_price": 11250.0,
+        "low_price": 11010.0,
+        "close_price": 11340.0,
+        "volume": 437516.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250707,
+        "open_price": 11380.0,
+        "high_price": 11520.0,
+        "low_price": 11040.0,
+        "close_price": 11350.0,
+        "volume": 1131528.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250702,
+        "open_price": 11320.0,
+        "high_price": 11880.0,
+        "low_price": 11320.0,
+        "close_price": 11380.0,
+        "volume": 14105116.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250701,
+        "open_price": 11330.0,
+        "high_price": 11330.0,
+        "low_price": 11330.0,
+        "close_price": 11660.0,
+        "volume": 658422.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250630,
+        "open_price": 11390.0,
+        "high_price": 11390.0,
+        "low_price": 11390.0,
+        "close_price": 11680.0,
+        "volume": 1608691.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250629,
+        "open_price": 11650.0,
+        "high_price": 11650.0,
+        "low_price": 11650.0,
+        "close_price": 11740.0,
+        "volume": 7429346.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250628,
+        "open_price": 11810.0,
+        "high_price": 11810.0,
+        "low_price": 11810.0,
+        "close_price": 12010.0,
+        "volume": 4494093.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12170.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12170.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12170.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12170.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12170.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12170.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12170.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12170.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250611,
+        "open_price": 11900.0,
+        "high_price": 12090.0,
+        "low_price": 11830.0,
+        "close_price": 12170.0,
+        "volume": 652468.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250610,
+        "open_price": 12160.0,
+        "high_price": 12160.0,
+        "low_price": 11890.0,
+        "close_price": 12190.0,
+        "volume": 1536030.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250609,
+        "open_price": 12320.0,
+        "high_price": 12610.0,
+        "low_price": 11890.0,
+        "close_price": 12250.0,
+        "volume": 9297580.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250608,
+        "open_price": 12270.0,
+        "high_price": 12410.0,
+        "low_price": 11960.0,
+        "close_price": 12250.0,
+        "volume": 6618260.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250607,
+        "open_price": 12270.0,
+        "high_price": 12270.0,
+        "low_price": 12000.0,
+        "close_price": 12320.0,
+        "volume": 1308173.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250603,
+        "open_price": 12350.0,
+        "high_price": 12350.0,
+        "low_price": 12050.0,
+        "close_price": 12370.0,
+        "volume": 1453145.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250602,
+        "open_price": 12130.0,
+        "high_price": 12510.0,
+        "low_price": 11910.0,
+        "close_price": 12420.0,
+        "volume": 10095559.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250601,
+        "open_price": 11910.0,
+        "high_price": 12080.0,
+        "low_price": 11840.0,
+        "close_price": 12160.0,
+        "volume": 1229649.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250531,
+        "open_price": 12190.0,
+        "high_price": 12340.0,
+        "low_price": 11740.0,
+        "close_price": 12200.0,
+        "volume": 10687396.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250528,
+        "open_price": 11710.0,
+        "high_price": 12240.0,
+        "low_price": 11710.0,
+        "close_price": 12030.0,
+        "volume": 3206144.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250527,
+        "open_price": 12070.0,
+        "high_price": 12270.0,
+        "low_price": 11670.0,
+        "close_price": 12010.0,
+        "volume": 4346233.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250526,
+        "open_price": 11550.0,
+        "high_price": 12250.0,
+        "low_price": 11550.0,
+        "close_price": 11980.0,
+        "volume": 5871742.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250525,
+        "open_price": 11770.0,
+        "high_price": 12000.0,
+        "low_price": 11570.0,
+        "close_price": 11900.0,
+        "volume": 724552.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250524,
+        "open_price": 11910.0,
+        "high_price": 12140.0,
+        "low_price": 11590.0,
+        "close_price": 11920.0,
+        "volume": 1724602.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250521,
+        "open_price": 11950.0,
+        "high_price": 11950.0,
+        "low_price": 11620.0,
+        "close_price": 11940.0,
+        "volume": 798097.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250520,
+        "open_price": 12000.0,
+        "high_price": 12090.0,
+        "low_price": 11640.0,
+        "close_price": 11970.0,
+        "volume": 1849249.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250519,
+        "open_price": 12190.0,
+        "high_price": 12210.0,
+        "low_price": 11540.0,
+        "close_price": 12000.0,
+        "volume": 7345863.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250518,
+        "open_price": 11870.0,
+        "high_price": 11890.0,
+        "low_price": 11740.0,
+        "close_price": 11860.0,
+        "volume": 10520361.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250517,
+        "open_price": 11320.0,
+        "high_price": 11610.0,
+        "low_price": 11280.0,
+        "close_price": 11550.0,
+        "volume": 10591747.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250514,
+        "open_price": 11320.0,
+        "high_price": 11400.0,
+        "low_price": 11200.0,
+        "close_price": 11280.0,
+        "volume": 3682598.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250513,
+        "open_price": 11060.0,
+        "high_price": 11370.0,
+        "low_price": 11060.0,
+        "close_price": 11270.0,
+        "volume": 9549536.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250512,
+        "open_price": 10900.0,
+        "high_price": 11050.0,
+        "low_price": 10900.0,
+        "close_price": 11040.0,
+        "volume": 12780160.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250511,
+        "open_price": 10810.0,
+        "high_price": 10810.0,
+        "low_price": 10480.0,
+        "close_price": 10730.0,
+        "volume": 2600208.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250510,
+        "open_price": 11050.0,
+        "high_price": 11070.0,
+        "low_price": 10510.0,
+        "close_price": 10800.0,
+        "volume": 3002901.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250507,
+        "open_price": 10550.0,
+        "high_price": 11100.0,
+        "low_price": 10550.0,
+        "close_price": 10810.0,
+        "volume": 3158039.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250506,
+        "open_price": 10790.0,
+        "high_price": 10790.0,
+        "low_price": 10520.0,
+        "close_price": 10790.0,
+        "volume": 2049962.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250505,
+        "open_price": 10720.0,
+        "high_price": 10950.0,
+        "low_price": 10580.0,
+        "close_price": 10840.0,
+        "volume": 3209882.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250504,
+        "open_price": 10720.0,
+        "high_price": 10790.0,
+        "low_price": 10660.0,
+        "close_price": 10900.0,
+        "volume": 2778484.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250503,
+        "open_price": 11050.0,
+        "high_price": 11050.0,
+        "low_price": 10720.0,
+        "close_price": 10980.0,
+        "volume": 2424761.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250430,
+        "open_price": 10970.0,
+        "high_price": 11170.0,
+        "low_price": 10740.0,
+        "close_price": 11050.0,
+        "volume": 9709937.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250429,
+        "open_price": 10750.0,
+        "high_price": 11070.0,
+        "low_price": 10440.0,
+        "close_price": 10850.0,
+        "volume": 13645364.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250428,
+        "open_price": 10530.0,
+        "high_price": 10660.0,
+        "low_price": 10530.0,
+        "close_price": 10760.0,
+        "volume": 2960341.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250427,
+        "open_price": 10570.0,
+        "high_price": 10840.0,
+        "low_price": 10570.0,
+        "close_price": 10850.0,
+        "volume": 1269358.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250426,
+        "open_price": 11200.0,
+        "high_price": 11200.0,
+        "low_price": 10620.0,
+        "close_price": 10890.0,
+        "volume": 2920816.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250423,
+        "open_price": 11030.0,
+        "high_price": 11210.0,
+        "low_price": 10690.0,
+        "close_price": 10940.0,
+        "volume": 3576018.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250422,
+        "open_price": 11330.0,
+        "high_price": 11330.0,
+        "low_price": 10760.0,
+        "close_price": 11020.0,
+        "volume": 2246962.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250421,
+        "open_price": 10880.0,
+        "high_price": 11010.0,
+        "low_price": 10870.0,
+        "close_price": 11000.0,
+        "volume": 14343065.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250420,
+        "open_price": 10330.0,
+        "high_price": 10930.0,
+        "low_price": 10330.0,
+        "close_price": 10690.0,
+        "volume": 7840576.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250419,
+        "open_price": 10420.0,
+        "high_price": 10560.0,
+        "low_price": 10370.0,
+        "close_price": 10640.0,
+        "volume": 1667688.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250416,
+        "open_price": 10420.0,
+        "high_price": 10690.0,
+        "low_price": 10420.0,
+        "close_price": 10690.0,
+        "volume": 1742528.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250415,
+        "open_price": 10520.0,
+        "high_price": 10650.0,
+        "low_price": 10450.0,
+        "close_price": 10740.0,
+        "volume": 1133567.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250414,
+        "open_price": 10940.0,
+        "high_price": 11020.0,
+        "low_price": 10490.0,
+        "close_price": 10770.0,
+        "volume": 2706923.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250413,
+        "open_price": 11040.0,
+        "high_price": 11040.0,
+        "low_price": 10580.0,
+        "close_price": 10810.0,
+        "volume": 4521646.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10720.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250409,
+        "open_price": 10850.0,
+        "high_price": 10850.0,
+        "low_price": 10430.0,
+        "close_price": 10720.0,
+        "volume": 1009904.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250408,
+        "open_price": 10410.0,
+        "high_price": 11000.0,
+        "low_price": 10410.0,
+        "close_price": 10750.0,
+        "volume": 3594231.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250407,
+        "open_price": 10450.0,
+        "high_price": 10490.0,
+        "low_price": 10420.0,
+        "close_price": 10730.0,
+        "volume": 327523.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250406,
+        "open_price": 10890.0,
+        "high_price": 10890.0,
+        "low_price": 10450.0,
+        "close_price": 10740.0,
+        "volume": 1002228.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250405,
+        "open_price": 10850.0,
+        "high_price": 10920.0,
+        "low_price": 10520.0,
+        "close_price": 10770.0,
+        "volume": 2576044.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250330,
+        "open_price": 10500.0,
+        "high_price": 10770.0,
+        "low_price": 10500.0,
+        "close_price": 10790.0,
+        "volume": 1683653.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250329,
+        "open_price": 10880.0,
+        "high_price": 10880.0,
+        "low_price": 10530.0,
+        "close_price": 10810.0,
+        "volume": 3271715.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250326,
+        "open_price": 11060.0,
+        "high_price": 11060.0,
+        "low_price": 10740.0,
+        "close_price": 10850.0,
+        "volume": 2487044.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250325,
+        "open_price": 11050.0,
+        "high_price": 11050.0,
+        "low_price": 10560.0,
+        "close_price": 10830.0,
+        "volume": 2705592.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250318,
+        "open_price": 11000.0,
+        "high_price": 11000.0,
+        "low_price": 10590.0,
+        "close_price": 10880.0,
+        "volume": 5776142.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250317,
+        "open_price": 10930.0,
+        "high_price": 10980.0,
+        "low_price": 10590.0,
+        "close_price": 10910.0,
+        "volume": 11288247.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250316,
+        "open_price": 10340.0,
+        "high_price": 10910.0,
+        "low_price": 10330.0,
+        "close_price": 10800.0,
+        "volume": 10356547.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250315,
+        "open_price": 10660.0,
+        "high_price": 10660.0,
+        "low_price": 10450.0,
+        "close_price": 10640.0,
+        "volume": 12294169.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250312,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10350.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250311,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10440.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10440.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10440.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250308,
+        "open_price": 10890.0,
+        "high_price": 10890.0,
+        "low_price": 10280.0,
+        "close_price": 10440.0,
+        "volume": 7829014.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250305,
+        "open_price": 10290.0,
+        "high_price": 10290.0,
+        "low_price": 10290.0,
+        "close_price": 10590.0,
+        "volume": 465635.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250304,
+        "open_price": 10310.0,
+        "high_price": 10310.0,
+        "low_price": 10310.0,
+        "close_price": 10600.0,
+        "volume": 832823.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250303,
+        "open_price": 10320.0,
+        "high_price": 10320.0,
+        "low_price": 10320.0,
+        "close_price": 10620.0,
+        "volume": 269050.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250302,
+        "open_price": 10330.0,
+        "high_price": 10330.0,
+        "low_price": 10330.0,
+        "close_price": 10630.0,
+        "volume": 433099.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250301,
+        "open_price": 10340.0,
+        "high_price": 10340.0,
+        "low_price": 10340.0,
+        "close_price": 10640.0,
+        "volume": 505981.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250226,
+        "open_price": 10420.0,
+        "high_price": 10420.0,
+        "low_price": 10360.0,
+        "close_price": 10650.0,
+        "volume": 1067481.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250225,
+        "open_price": 10430.0,
+        "high_price": 10630.0,
+        "low_price": 10430.0,
+        "close_price": 10680.0,
+        "volume": 2711950.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250224,
+        "open_price": 10550.0,
+        "high_price": 10630.0,
+        "low_price": 10530.0,
+        "close_price": 10750.0,
+        "volume": 3537693.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250223,
+        "open_price": 10580.0,
+        "high_price": 10800.0,
+        "low_price": 10580.0,
+        "close_price": 10850.0,
+        "volume": 1652296.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250222,
+        "open_price": 10650.0,
+        "high_price": 10720.0,
+        "low_price": 10640.0,
+        "close_price": 10900.0,
+        "volume": 2033827.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250219,
+        "open_price": 10750.0,
+        "high_price": 10950.0,
+        "low_price": 10750.0,
+        "close_price": 10960.0,
+        "volume": 3761367.0
+    },
+    {
+        "symbol": "دعبید",
+        "trade_date": 20250218,
+        "open_price": 10820.0,
+        "high_price": 10820.0,
+        "low_price": 10820.0,
+        "close_price": 11080.0,
+        "volume": 2290448.0
+    }
+]

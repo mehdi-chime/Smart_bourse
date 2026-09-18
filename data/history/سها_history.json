@@ -1,0 +1,1946 @@
+[
+    {
+        "symbol": "سها",
+        "trade_date": 20260901,
+        "open_price": 1299000.0,
+        "high_price": 1299000.0,
+        "low_price": 1270000.0,
+        "close_price": 1296490.0,
+        "volume": 325.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260831,
+        "open_price": 1300000.0,
+        "high_price": 1300000.0,
+        "low_price": 1250000.0,
+        "close_price": 1261366.0,
+        "volume": 276.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260829,
+        "open_price": 1270084.0,
+        "high_price": 1270084.0,
+        "low_price": 1270084.0,
+        "close_price": 1270084.0,
+        "volume": 226.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260826,
+        "open_price": 1230000.0,
+        "high_price": 1234442.0,
+        "low_price": 1230000.0,
+        "close_price": 1233092.0,
+        "volume": 658.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260825,
+        "open_price": 1149475.0,
+        "high_price": 1209210.0,
+        "low_price": 1149475.0,
+        "close_price": 1198488.0,
+        "volume": 41.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260824,
+        "open_price": 1185000.0,
+        "high_price": 1199000.0,
+        "low_price": 1175000.0,
+        "close_price": 1183560.0,
+        "volume": 604.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260823,
+        "open_price": 1182000.0,
+        "high_price": 1182000.0,
+        "low_price": 1182000.0,
+        "close_price": 1182000.0,
+        "volume": 5.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260822,
+        "open_price": 1188000.0,
+        "high_price": 1188000.0,
+        "low_price": 1165000.0,
+        "close_price": 1171500.0,
+        "volume": 4.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260819,
+        "open_price": 1162000.0,
+        "high_price": 1162000.0,
+        "low_price": 1158000.0,
+        "close_price": 1158991.0,
+        "volume": 218.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260818,
+        "open_price": 1163000.0,
+        "high_price": 1163000.0,
+        "low_price": 1161000.0,
+        "close_price": 1162935.0,
+        "volume": 62.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260817,
+        "open_price": 1150001.0,
+        "high_price": 1162000.0,
+        "low_price": 1145000.0,
+        "close_price": 1148990.0,
+        "volume": 359.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260816,
+        "open_price": 1140000.0,
+        "high_price": 1140000.0,
+        "low_price": 1125000.0,
+        "close_price": 1139444.0,
+        "volume": 211.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260815,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1132271.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260811,
+        "open_price": 1132000.0,
+        "high_price": 1155000.0,
+        "low_price": 1132000.0,
+        "close_price": 1132271.0,
+        "volume": 425.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260810,
+        "open_price": 1140400.0,
+        "high_price": 1140400.0,
+        "low_price": 1140400.0,
+        "close_price": 1140400.0,
+        "volume": 9.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260809,
+        "open_price": 1147893.0,
+        "high_price": 1147893.0,
+        "low_price": 1098000.0,
+        "close_price": 1112546.0,
+        "volume": 1988.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260808,
+        "open_price": 1114460.0,
+        "high_price": 1114460.0,
+        "low_price": 1114460.0,
+        "close_price": 1114460.0,
+        "volume": 170.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260805,
+        "open_price": 1082000.0,
+        "high_price": 1082000.0,
+        "low_price": 1082000.0,
+        "close_price": 1082000.0,
+        "volume": 250.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260803,
+        "open_price": 1051000.0,
+        "high_price": 1051000.0,
+        "low_price": 1051000.0,
+        "close_price": 1051000.0,
+        "volume": 665.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260802,
+        "open_price": 1024000.0,
+        "high_price": 1028000.0,
+        "low_price": 1024000.0,
+        "close_price": 1026823.0,
+        "volume": 68.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260801,
+        "open_price": 1027500.0,
+        "high_price": 1027500.0,
+        "low_price": 1007000.0,
+        "close_price": 1007804.0,
+        "volume": 1707.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260729,
+        "open_price": 1007000.0,
+        "high_price": 1020000.0,
+        "low_price": 1007000.0,
+        "close_price": 1012058.0,
+        "volume": 1285.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260728,
+        "open_price": 1018000.0,
+        "high_price": 1027000.0,
+        "low_price": 1017000.0,
+        "close_price": 1024110.0,
+        "volume": 1038.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260727,
+        "open_price": 1018802.0,
+        "high_price": 1018802.0,
+        "low_price": 1003000.0,
+        "close_price": 1012914.0,
+        "volume": 2997.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260726,
+        "open_price": 984000.0,
+        "high_price": 989157.0,
+        "low_price": 984000.0,
+        "close_price": 989129.0,
+        "volume": 1126.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260725,
+        "open_price": 960000.0,
+        "high_price": 970000.0,
+        "low_price": 960000.0,
+        "close_price": 960347.0,
+        "volume": 518.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260722,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 956881.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260721,
+        "open_price": 953000.0,
+        "high_price": 965000.0,
+        "low_price": 953000.0,
+        "close_price": 956881.0,
+        "volume": 236.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260720,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 943000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260719,
+        "open_price": 943000.0,
+        "high_price": 943000.0,
+        "low_price": 943000.0,
+        "close_price": 943000.0,
+        "volume": 30.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260718,
+        "open_price": 937000.0,
+        "high_price": 937000.0,
+        "low_price": 930000.0,
+        "close_price": 930722.0,
+        "volume": 194.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260715,
+        "open_price": 965000.0,
+        "high_price": 973350.0,
+        "low_price": 940000.0,
+        "close_price": 948119.0,
+        "volume": 1714.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260714,
+        "open_price": 945000.0,
+        "high_price": 945000.0,
+        "low_price": 945000.0,
+        "close_price": 945000.0,
+        "volume": 1587.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260713,
+        "open_price": 966586.0,
+        "high_price": 966586.0,
+        "low_price": 966586.0,
+        "close_price": 966586.0,
+        "volume": 3420.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260712,
+        "open_price": 996480.0,
+        "high_price": 996480.0,
+        "low_price": 996480.0,
+        "close_price": 996480.0,
+        "volume": 1549.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260711,
+        "open_price": 1040000.0,
+        "high_price": 1040000.0,
+        "low_price": 1025000.0,
+        "close_price": 1027298.0,
+        "volume": 124.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260708,
+        "open_price": 1027481.0,
+        "high_price": 1027481.0,
+        "low_price": 1027481.0,
+        "close_price": 1027481.0,
+        "volume": 2025.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260707,
+        "open_price": 997555.0,
+        "high_price": 997555.0,
+        "low_price": 997555.0,
+        "close_price": 997555.0,
+        "volume": 186.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260701,
+        "open_price": 965000.0,
+        "high_price": 980988.0,
+        "low_price": 965000.0,
+        "close_price": 968500.0,
+        "volume": 3198.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260630,
+        "open_price": 984174.0,
+        "high_price": 984174.0,
+        "low_price": 965000.0,
+        "close_price": 965064.0,
+        "volume": 1505.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260629,
+        "open_price": 955510.0,
+        "high_price": 955510.0,
+        "low_price": 955509.0,
+        "close_price": 955509.0,
+        "volume": 1850.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260628,
+        "open_price": 955509.0,
+        "high_price": 955509.0,
+        "low_price": 955509.0,
+        "close_price": 955509.0,
+        "volume": 4.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260627,
+        "open_price": 1021744.0,
+        "high_price": 1021744.0,
+        "low_price": 985000.0,
+        "close_price": 985059.0,
+        "volume": 1136.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260623,
+        "open_price": 964405.0,
+        "high_price": 1000000.0,
+        "low_price": 964405.0,
+        "close_price": 991986.0,
+        "volume": 602.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260622,
+        "open_price": 994231.0,
+        "high_price": 994231.0,
+        "low_price": 994231.0,
+        "close_price": 994231.0,
+        "volume": 281.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260621,
+        "open_price": 1029542.0,
+        "high_price": 1029542.0,
+        "low_price": 980000.0,
+        "close_price": 1024980.0,
+        "volume": 430.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260620,
+        "open_price": 961933.0,
+        "high_price": 1000000.0,
+        "low_price": 961933.0,
+        "close_price": 999556.0,
+        "volume": 212.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260617,
+        "open_price": 998202.0,
+        "high_price": 998202.0,
+        "low_price": 940065.0,
+        "close_price": 991683.0,
+        "volume": 1181.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260616,
+        "open_price": 969129.0,
+        "high_price": 969129.0,
+        "low_price": 969129.0,
+        "close_price": 969129.0,
+        "volume": 1511.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260615,
+        "open_price": 940902.0,
+        "high_price": 940902.0,
+        "low_price": 940902.0,
+        "close_price": 940902.0,
+        "volume": 2.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260614,
+        "open_price": 913498.0,
+        "high_price": 913498.0,
+        "low_price": 913498.0,
+        "close_price": 913498.0,
+        "volume": 6.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260613,
+        "open_price": 886892.0,
+        "high_price": 886892.0,
+        "low_price": 886892.0,
+        "close_price": 886892.0,
+        "volume": 222.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260610,
+        "open_price": 833510.0,
+        "high_price": 862001.0,
+        "low_price": 833510.0,
+        "close_price": 861061.0,
+        "volume": 182.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260609,
+        "open_price": 855882.0,
+        "high_price": 855882.0,
+        "low_price": 855881.0,
+        "close_price": 855881.0,
+        "volume": 908.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260608,
+        "open_price": 830954.0,
+        "high_price": 830955.0,
+        "low_price": 830954.0,
+        "close_price": 830954.0,
+        "volume": 1268.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260607,
+        "open_price": 842477.0,
+        "high_price": 842477.0,
+        "low_price": 820001.0,
+        "close_price": 830954.0,
+        "volume": 2528.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260606,
+        "open_price": 827050.0,
+        "high_price": 827050.0,
+        "low_price": 815000.0,
+        "close_price": 817939.0,
+        "volume": 41.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260603,
+        "open_price": 800000.0,
+        "high_price": 827054.0,
+        "low_price": 800000.0,
+        "close_price": 822987.0,
+        "volume": 1168.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260602,
+        "open_price": 805000.0,
+        "high_price": 818799.0,
+        "low_price": 800000.0,
+        "close_price": 802972.0,
+        "volume": 3418.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260601,
+        "open_price": 794990.0,
+        "high_price": 794990.0,
+        "low_price": 785003.0,
+        "close_price": 794951.0,
+        "volume": 509.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260531,
+        "open_price": 771835.0,
+        "high_price": 771835.0,
+        "low_price": 771835.0,
+        "close_price": 771835.0,
+        "volume": 7.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260530,
+        "open_price": 749355.0,
+        "high_price": 749355.0,
+        "low_price": 749355.0,
+        "close_price": 749355.0,
+        "volume": 9.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260526,
+        "open_price": 725000.0,
+        "high_price": 740242.0,
+        "low_price": 725000.0,
+        "close_price": 727530.0,
+        "volume": 4013.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260525,
+        "open_price": 718960.0,
+        "high_price": 718999.0,
+        "low_price": 714000.0,
+        "close_price": 718682.0,
+        "volume": 6400.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260524,
+        "open_price": 713771.0,
+        "high_price": 713771.0,
+        "low_price": 713771.0,
+        "close_price": 713771.0,
+        "volume": 34.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260523,
+        "open_price": 685000.0,
+        "high_price": 697771.0,
+        "low_price": 685000.0,
+        "close_price": 692982.0,
+        "volume": 16.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260520,
+        "open_price": 677448.0,
+        "high_price": 677448.0,
+        "low_price": 677448.0,
+        "close_price": 677448.0,
+        "volume": 4026.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260519,
+        "open_price": 698400.0,
+        "high_price": 698400.0,
+        "low_price": 698400.0,
+        "close_price": 698400.0,
+        "volume": 1000.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 720000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260225,
+        "open_price": 720000.0,
+        "high_price": 720000.0,
+        "low_price": 720000.0,
+        "close_price": 720000.0,
+        "volume": 920.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260224,
+        "open_price": 726240.0,
+        "high_price": 726240.0,
+        "low_price": 712000.0,
+        "close_price": 712606.0,
+        "volume": 47.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260223,
+        "open_price": 721147.0,
+        "high_price": 721147.0,
+        "low_price": 707000.0,
+        "close_price": 720263.0,
+        "volume": 32.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260222,
+        "open_price": 700000.0,
+        "high_price": 705000.0,
+        "low_price": 700000.0,
+        "close_price": 700143.0,
+        "volume": 315.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260221,
+        "open_price": 710000.0,
+        "high_price": 710000.0,
+        "low_price": 704220.0,
+        "close_price": 709410.0,
+        "volume": 4423.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260218,
+        "open_price": 726000.0,
+        "high_price": 726000.0,
+        "low_price": 726000.0,
+        "close_price": 726000.0,
+        "volume": 17.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260217,
+        "open_price": 744600.0,
+        "high_price": 744600.0,
+        "low_price": 744600.0,
+        "close_price": 744600.0,
+        "volume": 1000.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260216,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 745660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260215,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 745660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260214,
+        "open_price": 763000.0,
+        "high_price": 763000.0,
+        "low_price": 735000.0,
+        "close_price": 745660.0,
+        "volume": 2189.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260210,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 755260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260209,
+        "open_price": 749620.0,
+        "high_price": 757000.0,
+        "low_price": 749620.0,
+        "close_price": 755260.0,
+        "volume": 746.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260208,
+        "open_price": 772650.0,
+        "high_price": 782180.0,
+        "low_price": 772650.0,
+        "close_price": 772790.0,
+        "volume": 204.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260207,
+        "open_price": 765000.0,
+        "high_price": 765000.0,
+        "low_price": 765000.0,
+        "close_price": 765000.0,
+        "volume": 279.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260203,
+        "open_price": 754000.0,
+        "high_price": 754000.0,
+        "low_price": 749970.0,
+        "close_price": 749980.0,
+        "volume": 1011.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260202,
+        "open_price": 773160.0,
+        "high_price": 773160.0,
+        "low_price": 773160.0,
+        "close_price": 773160.0,
+        "volume": 8.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260201,
+        "open_price": 762580.0,
+        "high_price": 762580.0,
+        "low_price": 755820.0,
+        "close_price": 762020.0,
+        "volume": 109.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260131,
+        "open_price": 740370.0,
+        "high_price": 740370.0,
+        "low_price": 740370.0,
+        "close_price": 740370.0,
+        "volume": 10.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260128,
+        "open_price": 763260.0,
+        "high_price": 763260.0,
+        "low_price": 763260.0,
+        "close_price": 763260.0,
+        "volume": 20.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260127,
+        "open_price": 736970.0,
+        "high_price": 768060.0,
+        "low_price": 736970.0,
+        "close_price": 741030.0,
+        "volume": 23.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260126,
+        "open_price": 759760.0,
+        "high_price": 759760.0,
+        "low_price": 759760.0,
+        "close_price": 759760.0,
+        "volume": 898.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260125,
+        "open_price": 798810.0,
+        "high_price": 798810.0,
+        "low_price": 783150.0,
+        "close_price": 783250.0,
+        "volume": 1527.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260124,
+        "open_price": 807370.0,
+        "high_price": 807370.0,
+        "low_price": 807370.0,
+        "close_price": 807370.0,
+        "volume": 1207.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260121,
+        "open_price": 833300.0,
+        "high_price": 834500.0,
+        "low_price": 820000.0,
+        "close_price": 832340.0,
+        "volume": 358.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260120,
+        "open_price": 820280.0,
+        "high_price": 820290.0,
+        "low_price": 813000.0,
+        "close_price": 817030.0,
+        "volume": 5570.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260119,
+        "open_price": 795000.0,
+        "high_price": 807000.0,
+        "low_price": 794000.0,
+        "close_price": 796400.0,
+        "volume": 1464.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260118,
+        "open_price": 793000.0,
+        "high_price": 793000.0,
+        "low_price": 790000.0,
+        "close_price": 790050.0,
+        "volume": 1525.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260114,
+        "open_price": 793640.0,
+        "high_price": 810000.0,
+        "low_price": 778080.0,
+        "close_price": 781580.0,
+        "volume": 8533.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260113,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 802140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260112,
+        "open_price": 804010.0,
+        "high_price": 804010.0,
+        "low_price": 801000.0,
+        "close_price": 802140.0,
+        "volume": 174.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260111,
+        "open_price": 800700.0,
+        "high_price": 800700.0,
+        "low_price": 785000.0,
+        "close_price": 800100.0,
+        "volume": 162.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260110,
+        "open_price": 780000.0,
+        "high_price": 788000.0,
+        "low_price": 780000.0,
+        "close_price": 784590.0,
+        "volume": 76.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260107,
+        "open_price": 789850.0,
+        "high_price": 791500.0,
+        "low_price": 789850.0,
+        "close_price": 791320.0,
+        "volume": 275.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260106,
+        "open_price": 789840.0,
+        "high_price": 789850.0,
+        "low_price": 789830.0,
+        "close_price": 789850.0,
+        "volume": 4477.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260105,
+        "open_price": 765590.0,
+        "high_price": 767040.0,
+        "low_price": 763000.0,
+        "close_price": 766850.0,
+        "volume": 680.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20260104,
+        "open_price": 747000.0,
+        "high_price": 747000.0,
+        "low_price": 747000.0,
+        "close_price": 747000.0,
+        "volume": 645.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251231,
+        "open_price": 762450.0,
+        "high_price": 767040.0,
+        "low_price": 747500.0,
+        "close_price": 755300.0,
+        "volume": 10.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251230,
+        "open_price": 773000.0,
+        "high_price": 776990.0,
+        "low_price": 754880.0,
+        "close_price": 758260.0,
+        "volume": 1560.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251229,
+        "open_price": 794730.0,
+        "high_price": 794730.0,
+        "low_price": 765000.0,
+        "close_price": 778220.0,
+        "volume": 147.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251228,
+        "open_price": 770100.0,
+        "high_price": 780300.0,
+        "low_price": 770010.0,
+        "close_price": 771600.0,
+        "volume": 3333.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251227,
+        "open_price": 758010.0,
+        "high_price": 767100.0,
+        "low_price": 755000.0,
+        "close_price": 765150.0,
+        "volume": 2409.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251224,
+        "open_price": 755300.0,
+        "high_price": 755300.0,
+        "low_price": 740550.0,
+        "close_price": 744770.0,
+        "volume": 1027.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251223,
+        "open_price": 733350.0,
+        "high_price": 733350.0,
+        "low_price": 730000.0,
+        "close_price": 733310.0,
+        "volume": 110.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251222,
+        "open_price": 725000.0,
+        "high_price": 739480.0,
+        "low_price": 717000.0,
+        "close_price": 717490.0,
+        "volume": 194.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251221,
+        "open_price": 730000.0,
+        "high_price": 730000.0,
+        "low_price": 711200.0,
+        "close_price": 718570.0,
+        "volume": 7588.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251220,
+        "open_price": 711000.0,
+        "high_price": 713990.0,
+        "low_price": 711000.0,
+        "close_price": 711090.0,
+        "volume": 239.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251217,
+        "open_price": 706860.0,
+        "high_price": 706860.0,
+        "low_price": 706860.0,
+        "close_price": 706860.0,
+        "volume": 4.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251216,
+        "open_price": 717060.0,
+        "high_price": 717060.0,
+        "low_price": 684000.0,
+        "close_price": 699370.0,
+        "volume": 12502.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251215,
+        "open_price": 701760.0,
+        "high_price": 701760.0,
+        "low_price": 692000.0,
+        "close_price": 697900.0,
+        "volume": 101.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251214,
+        "open_price": 685000.0,
+        "high_price": 698700.0,
+        "low_price": 685000.0,
+        "close_price": 685080.0,
+        "volume": 340.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251213,
+        "open_price": 681500.0,
+        "high_price": 695100.0,
+        "low_price": 681380.0,
+        "close_price": 681440.0,
+        "volume": 7160.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251210,
+        "open_price": 688500.0,
+        "high_price": 688500.0,
+        "low_price": 688190.0,
+        "close_price": 688230.0,
+        "volume": 23.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251209,
+        "open_price": 672500.0,
+        "high_price": 681360.0,
+        "low_price": 672500.0,
+        "close_price": 679700.0,
+        "volume": 81210.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251208,
+        "open_price": 667500.0,
+        "high_price": 667500.0,
+        "low_price": 667500.0,
+        "close_price": 667500.0,
+        "volume": 108.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251207,
+        "open_price": 684930.0,
+        "high_price": 684930.0,
+        "low_price": 671500.0,
+        "close_price": 672900.0,
+        "volume": 982.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251206,
+        "open_price": 655000.0,
+        "high_price": 675940.0,
+        "low_price": 655000.0,
+        "close_price": 674120.0,
+        "volume": 65722.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251203,
+        "open_price": 656480.0,
+        "high_price": 656490.0,
+        "low_price": 643600.0,
+        "close_price": 656260.0,
+        "volume": 61111.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251202,
+        "open_price": 638000.0,
+        "high_price": 640550.0,
+        "low_price": 625000.0,
+        "close_price": 637370.0,
+        "volume": 4881.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251201,
+        "open_price": 645960.0,
+        "high_price": 645960.0,
+        "low_price": 633450.0,
+        "close_price": 634330.0,
+        "volume": 1100.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251130,
+        "open_price": 628500.0,
+        "high_price": 638520.0,
+        "low_price": 623600.0,
+        "close_price": 627290.0,
+        "volume": 2888.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251129,
+        "open_price": 640000.0,
+        "high_price": 640000.0,
+        "low_price": 627000.0,
+        "close_price": 627160.0,
+        "volume": 412.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251126,
+        "open_price": 632500.0,
+        "high_price": 645660.0,
+        "low_price": 632500.0,
+        "close_price": 639840.0,
+        "volume": 2241.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251125,
+        "open_price": 633000.0,
+        "high_price": 635000.0,
+        "low_price": 633000.0,
+        "close_price": 633280.0,
+        "volume": 2028.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251123,
+        "open_price": 620000.0,
+        "high_price": 637550.0,
+        "low_price": 620000.0,
+        "close_price": 627150.0,
+        "volume": 8881.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251122,
+        "open_price": 619000.0,
+        "high_price": 619000.0,
+        "low_price": 617000.0,
+        "close_price": 618990.0,
+        "volume": 1504.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251119,
+        "open_price": 616000.0,
+        "high_price": 623700.0,
+        "low_price": 613000.0,
+        "close_price": 615890.0,
+        "volume": 1217.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251118,
+        "open_price": 623210.0,
+        "high_price": 623210.0,
+        "low_price": 616650.0,
+        "close_price": 616800.0,
+        "volume": 332.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251117,
+        "open_price": 622000.0,
+        "high_price": 622000.0,
+        "low_price": 615000.0,
+        "close_price": 616650.0,
+        "volume": 2202.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251116,
+        "open_price": 616410.0,
+        "high_price": 616410.0,
+        "low_price": 610250.0,
+        "close_price": 612160.0,
+        "volume": 387.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251115,
+        "open_price": 603000.0,
+        "high_price": 615000.0,
+        "low_price": 603000.0,
+        "close_price": 604330.0,
+        "volume": 18.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251112,
+        "open_price": 596000.0,
+        "high_price": 600000.0,
+        "low_price": 596000.0,
+        "close_price": 599080.0,
+        "volume": 3350.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251111,
+        "open_price": 601000.0,
+        "high_price": 601000.0,
+        "low_price": 600000.0,
+        "close_price": 600000.0,
+        "volume": 2312.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251110,
+        "open_price": 597510.0,
+        "high_price": 597510.0,
+        "low_price": 597500.0,
+        "close_price": 597500.0,
+        "volume": 1900.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251109,
+        "open_price": 604010.0,
+        "high_price": 604010.0,
+        "low_price": 596800.0,
+        "close_price": 596810.0,
+        "volume": 1513.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251108,
+        "open_price": 615000.0,
+        "high_price": 617000.0,
+        "low_price": 615000.0,
+        "close_price": 615250.0,
+        "volume": 119.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251105,
+        "open_price": 607500.0,
+        "high_price": 618000.0,
+        "low_price": 607500.0,
+        "close_price": 611390.0,
+        "volume": 372.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251104,
+        "open_price": 616630.0,
+        "high_price": 627800.0,
+        "low_price": 615500.0,
+        "close_price": 615760.0,
+        "volume": 750.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251103,
+        "open_price": 616600.0,
+        "high_price": 628800.0,
+        "low_price": 616600.0,
+        "close_price": 616630.0,
+        "volume": 2801.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251102,
+        "open_price": 605350.0,
+        "high_price": 613000.0,
+        "low_price": 605350.0,
+        "close_price": 610500.0,
+        "volume": 19160.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251101,
+        "open_price": 616900.0,
+        "high_price": 616900.0,
+        "low_price": 611000.0,
+        "close_price": 615920.0,
+        "volume": 18052.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251029,
+        "open_price": 611160.0,
+        "high_price": 611160.0,
+        "low_price": 611150.0,
+        "close_price": 611150.0,
+        "volume": 1502.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251028,
+        "open_price": 616900.0,
+        "high_price": 617000.0,
+        "low_price": 611150.0,
+        "close_price": 616390.0,
+        "volume": 17138.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251027,
+        "open_price": 608600.0,
+        "high_price": 614000.0,
+        "low_price": 608600.0,
+        "close_price": 611150.0,
+        "volume": 17000.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251026,
+        "open_price": 604120.0,
+        "high_price": 619720.0,
+        "low_price": 590000.0,
+        "close_price": 604590.0,
+        "volume": 17838.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251025,
+        "open_price": 603100.0,
+        "high_price": 603800.0,
+        "low_price": 590040.0,
+        "close_price": 601690.0,
+        "volume": 19884.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251022,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251021,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251020,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251019,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251018,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251015,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251014,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251013,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251012,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251011,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251008,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251007,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سها",
+        "trade_date": 20251006,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    }
+]

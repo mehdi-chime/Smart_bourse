@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260901,
+        "open_price": 25900.0,
+        "high_price": 25956.0,
+        "low_price": 24444.0,
+        "close_price": 25536.0,
+        "volume": 9285317.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260831,
+        "open_price": 24002.0,
+        "high_price": 25486.0,
+        "low_price": 24002.0,
+        "close_price": 25200.0,
+        "volume": 21985021.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260829,
+        "open_price": 24795.0,
+        "high_price": 24795.0,
+        "low_price": 24216.0,
+        "close_price": 24744.0,
+        "volume": 5912370.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260826,
+        "open_price": 24099.0,
+        "high_price": 24213.0,
+        "low_price": 23350.0,
+        "close_price": 24073.0,
+        "volume": 5383928.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260825,
+        "open_price": 22900.0,
+        "high_price": 23680.0,
+        "low_price": 22900.0,
+        "close_price": 23507.0,
+        "volume": 6816406.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260824,
+        "open_price": 23290.0,
+        "high_price": 23290.0,
+        "low_price": 22360.0,
+        "close_price": 23011.0,
+        "volume": 6236091.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260823,
+        "open_price": 23000.0,
+        "high_price": 23193.0,
+        "low_price": 22581.0,
+        "close_price": 22925.0,
+        "volume": 6425561.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260822,
+        "open_price": 22790.0,
+        "high_price": 22849.0,
+        "low_price": 22467.0,
+        "close_price": 22730.0,
+        "volume": 4104306.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260819,
+        "open_price": 22700.0,
+        "high_price": 22700.0,
+        "low_price": 21795.0,
+        "close_price": 22361.0,
+        "volume": 4545658.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260818,
+        "open_price": 22600.0,
+        "high_price": 23119.0,
+        "low_price": 21850.0,
+        "close_price": 22465.0,
+        "volume": 9142396.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260817,
+        "open_price": 22575.0,
+        "high_price": 22584.0,
+        "low_price": 22273.0,
+        "close_price": 22506.0,
+        "volume": 10096991.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260816,
+        "open_price": 20890.0,
+        "high_price": 22181.0,
+        "low_price": 20890.0,
+        "close_price": 21930.0,
+        "volume": 5599346.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260815,
+        "open_price": 21502.0,
+        "high_price": 21850.0,
+        "low_price": 21384.0,
+        "close_price": 21535.0,
+        "volume": 4181104.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260811,
+        "open_price": 22298.0,
+        "high_price": 22298.0,
+        "low_price": 21800.0,
+        "close_price": 22045.0,
+        "volume": 4043277.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260810,
+        "open_price": 21476.0,
+        "high_price": 22498.0,
+        "low_price": 21463.0,
+        "close_price": 21888.0,
+        "volume": 7322054.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260809,
+        "open_price": 23055.0,
+        "high_price": 23055.0,
+        "low_price": 22060.0,
+        "close_price": 22126.0,
+        "volume": 12678531.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260808,
+        "open_price": 22750.0,
+        "high_price": 22751.0,
+        "low_price": 22250.0,
+        "close_price": 22742.0,
+        "volume": 15298295.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260805,
+        "open_price": 22091.0,
+        "high_price": 22091.0,
+        "low_price": 21810.0,
+        "close_price": 22089.0,
+        "volume": 7844095.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260803,
+        "open_price": 21020.0,
+        "high_price": 21456.0,
+        "low_price": 21020.0,
+        "close_price": 21448.0,
+        "volume": 5941066.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260802,
+        "open_price": 20879.0,
+        "high_price": 20886.0,
+        "low_price": 20576.0,
+        "close_price": 20832.0,
+        "volume": 4625126.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260801,
+        "open_price": 20180.0,
+        "high_price": 20590.0,
+        "low_price": 19840.0,
+        "close_price": 20278.0,
+        "volume": 2273698.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260729,
+        "open_price": 20450.0,
+        "high_price": 20990.0,
+        "low_price": 20175.0,
+        "close_price": 20410.0,
+        "volume": 4386953.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260728,
+        "open_price": 20748.0,
+        "high_price": 20949.0,
+        "low_price": 20000.0,
+        "close_price": 20793.0,
+        "volume": 22336936.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260727,
+        "open_price": 20345.0,
+        "high_price": 20690.0,
+        "low_price": 19840.0,
+        "close_price": 20339.0,
+        "volume": 7685309.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260726,
+        "open_price": 20135.0,
+        "high_price": 20282.0,
+        "low_price": 20134.0,
+        "close_price": 20250.0,
+        "volume": 5363667.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260725,
+        "open_price": 19760.0,
+        "high_price": 20180.0,
+        "low_price": 19453.0,
+        "close_price": 19692.0,
+        "volume": 3031986.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260722,
+        "open_price": 20000.0,
+        "high_price": 20280.0,
+        "low_price": 19316.0,
+        "close_price": 19745.0,
+        "volume": 4369986.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260721,
+        "open_price": 19404.0,
+        "high_price": 19932.0,
+        "low_price": 19404.0,
+        "close_price": 19913.0,
+        "volume": 4177602.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260720,
+        "open_price": 19380.0,
+        "high_price": 19404.0,
+        "low_price": 19102.0,
+        "close_price": 19352.0,
+        "volume": 3345935.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260719,
+        "open_price": 18544.0,
+        "high_price": 19251.0,
+        "low_price": 18544.0,
+        "close_price": 18839.0,
+        "volume": 3146708.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260718,
+        "open_price": 19101.0,
+        "high_price": 19331.0,
+        "low_price": 19101.0,
+        "close_price": 19117.0,
+        "volume": 5817242.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260715,
+        "open_price": 19304.0,
+        "high_price": 19955.0,
+        "low_price": 19242.0,
+        "close_price": 19691.0,
+        "volume": 3938960.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260714,
+        "open_price": 19693.0,
+        "high_price": 19970.0,
+        "low_price": 19692.0,
+        "close_price": 19775.0,
+        "volume": 4277890.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260713,
+        "open_price": 20257.0,
+        "high_price": 20772.0,
+        "low_price": 20257.0,
+        "close_price": 20301.0,
+        "volume": 15054710.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260712,
+        "open_price": 20883.0,
+        "high_price": 20883.0,
+        "low_price": 20883.0,
+        "close_price": 20883.0,
+        "volume": 1830501.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260711,
+        "open_price": 21526.0,
+        "high_price": 21824.0,
+        "low_price": 21526.0,
+        "close_price": 21528.0,
+        "volume": 4514701.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260708,
+        "open_price": 21825.0,
+        "high_price": 22747.0,
+        "low_price": 21825.0,
+        "close_price": 22191.0,
+        "volume": 26017613.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260707,
+        "open_price": 22500.0,
+        "high_price": 22500.0,
+        "low_price": 22500.0,
+        "close_price": 22500.0,
+        "volume": 6800342.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260701,
+        "open_price": 21100.0,
+        "high_price": 22140.0,
+        "low_price": 21100.0,
+        "close_price": 21845.0,
+        "volume": 36913747.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260630,
+        "open_price": 21290.0,
+        "high_price": 21860.0,
+        "low_price": 21195.0,
+        "close_price": 21496.0,
+        "volume": 17968702.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260629,
+        "open_price": 21294.0,
+        "high_price": 21927.0,
+        "low_price": 21294.0,
+        "close_price": 21326.0,
+        "volume": 39371792.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260628,
+        "open_price": 21952.0,
+        "high_price": 21952.0,
+        "low_price": 21952.0,
+        "close_price": 21952.0,
+        "volume": 2080990.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260627,
+        "open_price": 23155.0,
+        "high_price": 23155.0,
+        "low_price": 21817.0,
+        "close_price": 22630.0,
+        "volume": 55041684.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260623,
+        "open_price": 22481.0,
+        "high_price": 22481.0,
+        "low_price": 22481.0,
+        "close_price": 22481.0,
+        "volume": 10908319.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260622,
+        "open_price": 22190.0,
+        "high_price": 22195.0,
+        "low_price": 20907.0,
+        "close_price": 21827.0,
+        "volume": 49780183.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260621,
+        "open_price": 21697.0,
+        "high_price": 21697.0,
+        "low_price": 20667.0,
+        "close_price": 21549.0,
+        "volume": 55945979.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260620,
+        "open_price": 21066.0,
+        "high_price": 21066.0,
+        "low_price": 21066.0,
+        "close_price": 21066.0,
+        "volume": 2069614.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260617,
+        "open_price": 20453.0,
+        "high_price": 20453.0,
+        "low_price": 20453.0,
+        "close_price": 20453.0,
+        "volume": 1775185.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260616,
+        "open_price": 19858.0,
+        "high_price": 19858.0,
+        "low_price": 19858.0,
+        "close_price": 19858.0,
+        "volume": 693709.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260614,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260613,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260610,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260609,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260608,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260607,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260606,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260603,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260602,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260601,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260531,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260530,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260526,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260525,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260524,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260523,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260520,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260519,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19280.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260225,
+        "open_price": 19170.0,
+        "high_price": 19450.0,
+        "low_price": 19000.0,
+        "close_price": 19280.0,
+        "volume": 1557165.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260224,
+        "open_price": 18755.0,
+        "high_price": 19094.0,
+        "low_price": 18563.0,
+        "close_price": 18943.0,
+        "volume": 3276923.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260223,
+        "open_price": 18701.0,
+        "high_price": 19242.0,
+        "low_price": 18701.0,
+        "close_price": 19131.0,
+        "volume": 5001308.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260222,
+        "open_price": 18683.0,
+        "high_price": 18960.0,
+        "low_price": 18683.0,
+        "close_price": 18684.0,
+        "volume": 5261070.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260221,
+        "open_price": 19680.0,
+        "high_price": 19680.0,
+        "low_price": 19260.0,
+        "close_price": 19260.0,
+        "volume": 5499174.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260218,
+        "open_price": 20250.0,
+        "high_price": 20630.0,
+        "low_price": 19690.0,
+        "close_price": 19850.0,
+        "volume": 2112794.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260217,
+        "open_price": 20480.0,
+        "high_price": 20500.0,
+        "low_price": 19970.0,
+        "close_price": 20260.0,
+        "volume": 2660939.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260216,
+        "open_price": 19960.0,
+        "high_price": 20450.0,
+        "low_price": 19960.0,
+        "close_price": 20310.0,
+        "volume": 1677499.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260215,
+        "open_price": 20820.0,
+        "high_price": 20820.0,
+        "low_price": 20440.0,
+        "close_price": 20440.0,
+        "volume": 3831572.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260214,
+        "open_price": 21380.0,
+        "high_price": 21710.0,
+        "low_price": 20660.0,
+        "close_price": 21070.0,
+        "volume": 3791218.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260210,
+        "open_price": 20760.0,
+        "high_price": 21580.0,
+        "low_price": 20760.0,
+        "close_price": 21270.0,
+        "volume": 5419484.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260209,
+        "open_price": 21420.0,
+        "high_price": 21540.0,
+        "low_price": 21370.0,
+        "close_price": 21400.0,
+        "volume": 9581393.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260208,
+        "open_price": 22130.0,
+        "high_price": 22130.0,
+        "low_price": 21700.0,
+        "close_price": 22030.0,
+        "volume": 20092306.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260207,
+        "open_price": 21490.0,
+        "high_price": 21490.0,
+        "low_price": 21490.0,
+        "close_price": 21490.0,
+        "volume": 3662328.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260203,
+        "open_price": 21050.0,
+        "high_price": 21050.0,
+        "low_price": 20630.0,
+        "close_price": 20870.0,
+        "volume": 13493317.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260202,
+        "open_price": 20440.0,
+        "high_price": 20440.0,
+        "low_price": 20420.0,
+        "close_price": 20440.0,
+        "volume": 1818105.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260201,
+        "open_price": 19030.0,
+        "high_price": 20140.0,
+        "low_price": 19030.0,
+        "close_price": 19850.0,
+        "volume": 7109669.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260131,
+        "open_price": 19520.0,
+        "high_price": 20090.0,
+        "low_price": 19370.0,
+        "close_price": 19560.0,
+        "volume": 9841371.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260128,
+        "open_price": 19910.0,
+        "high_price": 20440.0,
+        "low_price": 19910.0,
+        "close_price": 19960.0,
+        "volume": 21591532.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260127,
+        "open_price": 20520.0,
+        "high_price": 20520.0,
+        "low_price": 20520.0,
+        "close_price": 20520.0,
+        "volume": 10718031.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260126,
+        "open_price": 21150.0,
+        "high_price": 21150.0,
+        "low_price": 21150.0,
+        "close_price": 21150.0,
+        "volume": 1879981.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260125,
+        "open_price": 21800.0,
+        "high_price": 21800.0,
+        "low_price": 21800.0,
+        "close_price": 21800.0,
+        "volume": 2582528.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260124,
+        "open_price": 22380.0,
+        "high_price": 22860.0,
+        "low_price": 22360.0,
+        "close_price": 22470.0,
+        "volume": 8531759.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260121,
+        "open_price": 23410.0,
+        "high_price": 23410.0,
+        "low_price": 22870.0,
+        "close_price": 23050.0,
+        "volume": 12517076.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260120,
+        "open_price": 24080.0,
+        "high_price": 24080.0,
+        "low_price": 23380.0,
+        "close_price": 23570.0,
+        "volume": 9247348.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260119,
+        "open_price": 24250.0,
+        "high_price": 24420.0,
+        "low_price": 23350.0,
+        "close_price": 24100.0,
+        "volume": 21302728.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260118,
+        "open_price": 23500.0,
+        "high_price": 23830.0,
+        "low_price": 23340.0,
+        "close_price": 23710.0,
+        "volume": 15264784.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260114,
+        "open_price": 23140.0,
+        "high_price": 23140.0,
+        "low_price": 23140.0,
+        "close_price": 23140.0,
+        "volume": 5282224.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260113,
+        "open_price": 23960.0,
+        "high_price": 23960.0,
+        "low_price": 23280.0,
+        "close_price": 23850.0,
+        "volume": 27213043.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260112,
+        "open_price": 23270.0,
+        "high_price": 23270.0,
+        "low_price": 23270.0,
+        "close_price": 23270.0,
+        "volume": 5685274.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260111,
+        "open_price": 21730.0,
+        "high_price": 22700.0,
+        "low_price": 21730.0,
+        "close_price": 22600.0,
+        "volume": 17277252.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260110,
+        "open_price": 21380.0,
+        "high_price": 22690.0,
+        "low_price": 21380.0,
+        "close_price": 22040.0,
+        "volume": 27998339.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260107,
+        "open_price": 22040.0,
+        "high_price": 22040.0,
+        "low_price": 22040.0,
+        "close_price": 22040.0,
+        "volume": 23333923.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260106,
+        "open_price": 21400.0,
+        "high_price": 21400.0,
+        "low_price": 21400.0,
+        "close_price": 21400.0,
+        "volume": 10475589.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260105,
+        "open_price": 20780.0,
+        "high_price": 20780.0,
+        "low_price": 20780.0,
+        "close_price": 20780.0,
+        "volume": 2536885.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20260104,
+        "open_price": 20490.0,
+        "high_price": 20490.0,
+        "low_price": 19700.0,
+        "close_price": 20180.0,
+        "volume": 4808071.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251231,
+        "open_price": 19160.0,
+        "high_price": 20320.0,
+        "low_price": 19150.0,
+        "close_price": 19910.0,
+        "volume": 7763537.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251230,
+        "open_price": 19720.0,
+        "high_price": 19900.0,
+        "low_price": 19720.0,
+        "close_price": 19730.0,
+        "volume": 3973970.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251229,
+        "open_price": 21250.0,
+        "high_price": 21250.0,
+        "low_price": 20140.0,
+        "close_price": 20320.0,
+        "volume": 7524739.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251228,
+        "open_price": 20370.0,
+        "high_price": 20920.0,
+        "low_price": 20280.0,
+        "close_price": 20730.0,
+        "volume": 7433604.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251227,
+        "open_price": 20570.0,
+        "high_price": 20570.0,
+        "low_price": 20040.0,
+        "close_price": 20450.0,
+        "volume": 9782906.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251224,
+        "open_price": 19980.0,
+        "high_price": 20040.0,
+        "low_price": 19700.0,
+        "close_price": 20010.0,
+        "volume": 15183418.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251223,
+        "open_price": 19670.0,
+        "high_price": 19760.0,
+        "low_price": 19180.0,
+        "close_price": 19460.0,
+        "volume": 3649485.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251222,
+        "open_price": 19640.0,
+        "high_price": 19640.0,
+        "low_price": 19030.0,
+        "close_price": 19250.0,
+        "volume": 4155645.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251221,
+        "open_price": 18860.0,
+        "high_price": 19250.0,
+        "low_price": 18800.0,
+        "close_price": 19120.0,
+        "volume": 6208792.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251220,
+        "open_price": 18500.0,
+        "high_price": 18690.0,
+        "low_price": 18490.0,
+        "close_price": 18690.0,
+        "volume": 11680089.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251217,
+        "open_price": 18090.0,
+        "high_price": 18310.0,
+        "low_price": 17830.0,
+        "close_price": 18150.0,
+        "volume": 3075420.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251216,
+        "open_price": 17820.0,
+        "high_price": 18490.0,
+        "low_price": 17820.0,
+        "close_price": 18320.0,
+        "volume": 5705413.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251215,
+        "open_price": 17410.0,
+        "high_price": 18220.0,
+        "low_price": 17410.0,
+        "close_price": 17960.0,
+        "volume": 5366408.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251214,
+        "open_price": 17970.0,
+        "high_price": 17970.0,
+        "low_price": 17620.0,
+        "close_price": 17760.0,
+        "volume": 3071460.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251213,
+        "open_price": 17530.0,
+        "high_price": 17870.0,
+        "low_price": 17530.0,
+        "close_price": 17760.0,
+        "volume": 2504266.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251210,
+        "open_price": 17100.0,
+        "high_price": 17550.0,
+        "low_price": 17090.0,
+        "close_price": 17460.0,
+        "volume": 12644318.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251209,
+        "open_price": 17080.0,
+        "high_price": 17100.0,
+        "low_price": 16980.0,
+        "close_price": 17040.0,
+        "volume": 1993388.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251208,
+        "open_price": 16840.0,
+        "high_price": 17180.0,
+        "low_price": 16840.0,
+        "close_price": 16990.0,
+        "volume": 2918796.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251207,
+        "open_price": 17300.0,
+        "high_price": 17500.0,
+        "low_price": 16800.0,
+        "close_price": 17140.0,
+        "volume": 3662651.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251206,
+        "open_price": 17070.0,
+        "high_price": 17270.0,
+        "low_price": 16900.0,
+        "close_price": 17200.0,
+        "volume": 2759331.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251203,
+        "open_price": 16600.0,
+        "high_price": 16960.0,
+        "low_price": 16600.0,
+        "close_price": 16790.0,
+        "volume": 4125160.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251202,
+        "open_price": 16510.0,
+        "high_price": 16650.0,
+        "low_price": 16450.0,
+        "close_price": 16620.0,
+        "volume": 3174111.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251201,
+        "open_price": 16370.0,
+        "high_price": 16490.0,
+        "low_price": 16290.0,
+        "close_price": 16410.0,
+        "volume": 2045482.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251130,
+        "open_price": 15770.0,
+        "high_price": 16190.0,
+        "low_price": 15770.0,
+        "close_price": 16050.0,
+        "volume": 3781501.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251129,
+        "open_price": 15610.0,
+        "high_price": 16180.0,
+        "low_price": 15610.0,
+        "close_price": 15980.0,
+        "volume": 5020024.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251126,
+        "open_price": 16190.0,
+        "high_price": 16270.0,
+        "low_price": 15770.0,
+        "close_price": 15980.0,
+        "volume": 9422790.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251125,
+        "open_price": 16010.0,
+        "high_price": 16330.0,
+        "low_price": 15990.0,
+        "close_price": 16120.0,
+        "volume": 8329904.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251123,
+        "open_price": 15900.0,
+        "high_price": 15900.0,
+        "low_price": 15700.0,
+        "close_price": 15900.0,
+        "volume": 16886747.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251122,
+        "open_price": 15360.0,
+        "high_price": 15490.0,
+        "low_price": 15360.0,
+        "close_price": 15440.0,
+        "volume": 1187529.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251119,
+        "open_price": 14900.0,
+        "high_price": 15330.0,
+        "low_price": 14900.0,
+        "close_price": 15260.0,
+        "volume": 1476070.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251118,
+        "open_price": 14990.0,
+        "high_price": 15390.0,
+        "low_price": 14990.0,
+        "close_price": 15210.0,
+        "volume": 3862831.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251117,
+        "open_price": 15390.0,
+        "high_price": 15420.0,
+        "low_price": 15140.0,
+        "close_price": 15350.0,
+        "volume": 3855554.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251116,
+        "open_price": 15150.0,
+        "high_price": 15340.0,
+        "low_price": 15070.0,
+        "close_price": 15200.0,
+        "volume": 1654236.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251115,
+        "open_price": 15090.0,
+        "high_price": 15300.0,
+        "low_price": 15010.0,
+        "close_price": 15120.0,
+        "volume": 1294620.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251112,
+        "open_price": 15010.0,
+        "high_price": 15090.0,
+        "low_price": 14950.0,
+        "close_price": 15010.0,
+        "volume": 1468848.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251111,
+        "open_price": 15140.0,
+        "high_price": 15300.0,
+        "low_price": 14950.0,
+        "close_price": 15110.0,
+        "volume": 1252016.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251110,
+        "open_price": 15330.0,
+        "high_price": 15330.0,
+        "low_price": 15120.0,
+        "close_price": 15230.0,
+        "volume": 3879601.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251109,
+        "open_price": 15600.0,
+        "high_price": 15600.0,
+        "low_price": 15320.0,
+        "close_price": 15330.0,
+        "volume": 6650737.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251108,
+        "open_price": 15650.0,
+        "high_price": 16080.0,
+        "low_price": 15620.0,
+        "close_price": 15790.0,
+        "volume": 1494812.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251105,
+        "open_price": 15670.0,
+        "high_price": 15900.0,
+        "low_price": 15460.0,
+        "close_price": 15650.0,
+        "volume": 4234015.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251104,
+        "open_price": 15650.0,
+        "high_price": 16170.0,
+        "low_price": 15650.0,
+        "close_price": 15900.0,
+        "volume": 4137669.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251103,
+        "open_price": 16290.0,
+        "high_price": 16290.0,
+        "low_price": 15950.0,
+        "close_price": 16030.0,
+        "volume": 5643050.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251102,
+        "open_price": 15450.0,
+        "high_price": 15970.0,
+        "low_price": 15450.0,
+        "close_price": 15880.0,
+        "volume": 3320953.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251101,
+        "open_price": 16020.0,
+        "high_price": 16340.0,
+        "low_price": 15660.0,
+        "close_price": 15840.0,
+        "volume": 4673131.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251029,
+        "open_price": 16060.0,
+        "high_price": 16260.0,
+        "low_price": 15830.0,
+        "close_price": 16100.0,
+        "volume": 7873910.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251028,
+        "open_price": 15840.0,
+        "high_price": 16040.0,
+        "low_price": 15830.0,
+        "close_price": 16020.0,
+        "volume": 11505063.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251027,
+        "open_price": 15700.0,
+        "high_price": 15810.0,
+        "low_price": 15370.0,
+        "close_price": 15580.0,
+        "volume": 14353057.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251026,
+        "open_price": 15400.0,
+        "high_price": 15400.0,
+        "low_price": 15400.0,
+        "close_price": 15400.0,
+        "volume": 11583994.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251025,
+        "open_price": 14970.0,
+        "high_price": 15200.0,
+        "low_price": 14880.0,
+        "close_price": 14960.0,
+        "volume": 2888438.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251022,
+        "open_price": 15040.0,
+        "high_price": 15320.0,
+        "low_price": 14920.0,
+        "close_price": 15210.0,
+        "volume": 10656949.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251021,
+        "open_price": 14880.0,
+        "high_price": 15020.0,
+        "low_price": 14830.0,
+        "close_price": 14930.0,
+        "volume": 1693751.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251020,
+        "open_price": 15010.0,
+        "high_price": 15190.0,
+        "low_price": 14810.0,
+        "close_price": 15010.0,
+        "volume": 844995.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251019,
+        "open_price": 15450.0,
+        "high_price": 15500.0,
+        "low_price": 15150.0,
+        "close_price": 15230.0,
+        "volume": 2040349.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251018,
+        "open_price": 14740.0,
+        "high_price": 15130.0,
+        "low_price": 14740.0,
+        "close_price": 15130.0,
+        "volume": 20836727.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251015,
+        "open_price": 14640.0,
+        "high_price": 14790.0,
+        "low_price": 14540.0,
+        "close_price": 14690.0,
+        "volume": 7966032.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251014,
+        "open_price": 15000.0,
+        "high_price": 15080.0,
+        "low_price": 14690.0,
+        "close_price": 14930.0,
+        "volume": 5322146.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251013,
+        "open_price": 15170.0,
+        "high_price": 15230.0,
+        "low_price": 14840.0,
+        "close_price": 15000.0,
+        "volume": 6240160.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251012,
+        "open_price": 14630.0,
+        "high_price": 15170.0,
+        "low_price": 14630.0,
+        "close_price": 15030.0,
+        "volume": 6023814.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251011,
+        "open_price": 14600.0,
+        "high_price": 14960.0,
+        "low_price": 14550.0,
+        "close_price": 14740.0,
+        "volume": 2963061.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251008,
+        "open_price": 14830.0,
+        "high_price": 14830.0,
+        "low_price": 14440.0,
+        "close_price": 14590.0,
+        "volume": 5373440.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251007,
+        "open_price": 14540.0,
+        "high_price": 15160.0,
+        "low_price": 14510.0,
+        "close_price": 14810.0,
+        "volume": 12492205.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251006,
+        "open_price": 14990.0,
+        "high_price": 15050.0,
+        "low_price": 14460.0,
+        "close_price": 14870.0,
+        "volume": 11570109.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251005,
+        "open_price": 14630.0,
+        "high_price": 14630.0,
+        "low_price": 14460.0,
+        "close_price": 14620.0,
+        "volume": 31520450.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251004,
+        "open_price": 14190.0,
+        "high_price": 14210.0,
+        "low_price": 14190.0,
+        "close_price": 14210.0,
+        "volume": 11936729.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20251001,
+        "open_price": 13670.0,
+        "high_price": 14090.0,
+        "low_price": 13650.0,
+        "close_price": 13800.0,
+        "volume": 6701511.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250930,
+        "open_price": 14040.0,
+        "high_price": 14040.0,
+        "low_price": 13850.0,
+        "close_price": 14020.0,
+        "volume": 17663690.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250929,
+        "open_price": 13640.0,
+        "high_price": 13640.0,
+        "low_price": 13640.0,
+        "close_price": 13640.0,
+        "volume": 557649.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250928,
+        "open_price": 13250.0,
+        "high_price": 13250.0,
+        "low_price": 13250.0,
+        "close_price": 13250.0,
+        "volume": 5696232.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250927,
+        "open_price": 12310.0,
+        "high_price": 12880.0,
+        "low_price": 12310.0,
+        "close_price": 12870.0,
+        "volume": 1517358.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250924,
+        "open_price": 12300.0,
+        "high_price": 12650.0,
+        "low_price": 12290.0,
+        "close_price": 12510.0,
+        "volume": 1838921.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250923,
+        "open_price": 12530.0,
+        "high_price": 12770.0,
+        "low_price": 12530.0,
+        "close_price": 12650.0,
+        "volume": 1691321.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250922,
+        "open_price": 12340.0,
+        "high_price": 12650.0,
+        "low_price": 12340.0,
+        "close_price": 12640.0,
+        "volume": 1418680.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250921,
+        "open_price": 12330.0,
+        "high_price": 12480.0,
+        "low_price": 12070.0,
+        "close_price": 12290.0,
+        "volume": 1668925.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250920,
+        "open_price": 12430.0,
+        "high_price": 12450.0,
+        "low_price": 12430.0,
+        "close_price": 12430.0,
+        "volume": 7329053.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250917,
+        "open_price": 13230.0,
+        "high_price": 13230.0,
+        "low_price": 12750.0,
+        "close_price": 12810.0,
+        "volume": 655131.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250916,
+        "open_price": 13030.0,
+        "high_price": 13220.0,
+        "low_price": 12950.0,
+        "close_price": 13060.0,
+        "volume": 1193150.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250915,
+        "open_price": 13300.0,
+        "high_price": 13370.0,
+        "low_price": 13040.0,
+        "close_price": 13260.0,
+        "volume": 5552782.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250914,
+        "open_price": 13000.0,
+        "high_price": 13300.0,
+        "low_price": 13000.0,
+        "close_price": 13240.0,
+        "volume": 1776331.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250913,
+        "open_price": 12890.0,
+        "high_price": 13060.0,
+        "low_price": 12850.0,
+        "close_price": 12980.0,
+        "volume": 933076.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250909,
+        "open_price": 13240.0,
+        "high_price": 13340.0,
+        "low_price": 12890.0,
+        "close_price": 13050.0,
+        "volume": 3100741.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250908,
+        "open_price": 13000.0,
+        "high_price": 13250.0,
+        "low_price": 13000.0,
+        "close_price": 13240.0,
+        "volume": 3440138.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250907,
+        "open_price": 12800.0,
+        "high_price": 12980.0,
+        "low_price": 12620.0,
+        "close_price": 12870.0,
+        "volume": 1553190.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250906,
+        "open_price": 12600.0,
+        "high_price": 12980.0,
+        "low_price": 12560.0,
+        "close_price": 12710.0,
+        "volume": 1956757.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250903,
+        "open_price": 12870.0,
+        "high_price": 12870.0,
+        "low_price": 12660.0,
+        "close_price": 12850.0,
+        "volume": 18885648.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250902,
+        "open_price": 12410.0,
+        "high_price": 12510.0,
+        "low_price": 12220.0,
+        "close_price": 12500.0,
+        "volume": 17835719.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250831,
+        "open_price": 11830.0,
+        "high_price": 12180.0,
+        "low_price": 11830.0,
+        "close_price": 12150.0,
+        "volume": 2105872.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250830,
+        "open_price": 11860.0,
+        "high_price": 11980.0,
+        "low_price": 11830.0,
+        "close_price": 11830.0,
+        "volume": 2935725.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250827,
+        "open_price": 12010.0,
+        "high_price": 12280.0,
+        "low_price": 11970.0,
+        "close_price": 12190.0,
+        "volume": 1186893.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250826,
+        "open_price": 11970.0,
+        "high_price": 12090.0,
+        "low_price": 11890.0,
+        "close_price": 12030.0,
+        "volume": 1247694.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250825,
+        "open_price": 12020.0,
+        "high_price": 12230.0,
+        "low_price": 12000.0,
+        "close_price": 12120.0,
+        "volume": 1320805.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250823,
+        "open_price": 12060.0,
+        "high_price": 12220.0,
+        "low_price": 12000.0,
+        "close_price": 12150.0,
+        "volume": 2033201.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250820,
+        "open_price": 12150.0,
+        "high_price": 12260.0,
+        "low_price": 12100.0,
+        "close_price": 12190.0,
+        "volume": 1260095.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250819,
+        "open_price": 12200.0,
+        "high_price": 12350.0,
+        "low_price": 12200.0,
+        "close_price": 12300.0,
+        "volume": 1094674.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250818,
+        "open_price": 12470.0,
+        "high_price": 12800.0,
+        "low_price": 12310.0,
+        "close_price": 12440.0,
+        "volume": 2782306.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250817,
+        "open_price": 12000.0,
+        "high_price": 12450.0,
+        "low_price": 12000.0,
+        "close_price": 12440.0,
+        "volume": 2293208.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250816,
+        "open_price": 11800.0,
+        "high_price": 12190.0,
+        "low_price": 11650.0,
+        "close_price": 12090.0,
+        "volume": 5916044.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250813,
+        "open_price": 12230.0,
+        "high_price": 12310.0,
+        "low_price": 11960.0,
+        "close_price": 12010.0,
+        "volume": 8690585.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250812,
+        "open_price": 12350.0,
+        "high_price": 12450.0,
+        "low_price": 12260.0,
+        "close_price": 12320.0,
+        "volume": 825602.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250811,
+        "open_price": 12500.0,
+        "high_price": 12600.0,
+        "low_price": 12360.0,
+        "close_price": 12410.0,
+        "volume": 1082591.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250810,
+        "open_price": 12600.0,
+        "high_price": 12790.0,
+        "low_price": 12600.0,
+        "close_price": 12650.0,
+        "volume": 260130.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250809,
+        "open_price": 12360.0,
+        "high_price": 12810.0,
+        "low_price": 12360.0,
+        "close_price": 12710.0,
+        "volume": 1013504.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250806,
+        "open_price": 12570.0,
+        "high_price": 12570.0,
+        "low_price": 12390.0,
+        "close_price": 12480.0,
+        "volume": 941491.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250805,
+        "open_price": 12900.0,
+        "high_price": 12900.0,
+        "low_price": 12480.0,
+        "close_price": 12550.0,
+        "volume": 2247336.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250804,
+        "open_price": 12830.0,
+        "high_price": 12830.0,
+        "low_price": 12530.0,
+        "close_price": 12730.0,
+        "volume": 642064.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250803,
+        "open_price": 12420.0,
+        "high_price": 12800.0,
+        "low_price": 12410.0,
+        "close_price": 12600.0,
+        "volume": 2212376.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250802,
+        "open_price": 12680.0,
+        "high_price": 12680.0,
+        "low_price": 12350.0,
+        "close_price": 12460.0,
+        "volume": 3087923.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250730,
+        "open_price": 12530.0,
+        "high_price": 12770.0,
+        "low_price": 12530.0,
+        "close_price": 12610.0,
+        "volume": 5298705.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250729,
+        "open_price": 12930.0,
+        "high_price": 12950.0,
+        "low_price": 12900.0,
+        "close_price": 12910.0,
+        "volume": 5327982.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250728,
+        "open_price": 13600.0,
+        "high_price": 13600.0,
+        "low_price": 13240.0,
+        "close_price": 13290.0,
+        "volume": 5514308.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250727,
+        "open_price": 13600.0,
+        "high_price": 13760.0,
+        "low_price": 13530.0,
+        "close_price": 13640.0,
+        "volume": 1918426.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250726,
+        "open_price": 13750.0,
+        "high_price": 13800.0,
+        "low_price": 13600.0,
+        "close_price": 13650.0,
+        "volume": 7149965.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250723,
+        "open_price": 13750.0,
+        "high_price": 13830.0,
+        "low_price": 13700.0,
+        "close_price": 13780.0,
+        "volume": 7767439.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250722,
+        "open_price": 14040.0,
+        "high_price": 14110.0,
+        "low_price": 13840.0,
+        "close_price": 13910.0,
+        "volume": 1967842.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250721,
+        "open_price": 13930.0,
+        "high_price": 14100.0,
+        "low_price": 13890.0,
+        "close_price": 14010.0,
+        "volume": 1857727.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250720,
+        "open_price": 13540.0,
+        "high_price": 13900.0,
+        "low_price": 13540.0,
+        "close_price": 13810.0,
+        "volume": 985908.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250719,
+        "open_price": 13440.0,
+        "high_price": 13660.0,
+        "low_price": 13440.0,
+        "close_price": 13550.0,
+        "volume": 1690218.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250716,
+        "open_price": 13160.0,
+        "high_price": 13410.0,
+        "low_price": 13120.0,
+        "close_price": 13280.0,
+        "volume": 4672533.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250715,
+        "open_price": 12970.0,
+        "high_price": 13070.0,
+        "low_price": 12870.0,
+        "close_price": 13020.0,
+        "volume": 2927441.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250714,
+        "open_price": 12640.0,
+        "high_price": 12900.0,
+        "low_price": 12640.0,
+        "close_price": 12860.0,
+        "volume": 1847699.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250713,
+        "open_price": 13140.0,
+        "high_price": 13140.0,
+        "low_price": 12560.0,
+        "close_price": 12800.0,
+        "volume": 774590.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250712,
+        "open_price": 12310.0,
+        "high_price": 12840.0,
+        "low_price": 12310.0,
+        "close_price": 12830.0,
+        "volume": 3409477.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250709,
+        "open_price": 12200.0,
+        "high_price": 12890.0,
+        "low_price": 12190.0,
+        "close_price": 12470.0,
+        "volume": 2281693.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250708,
+        "open_price": 12530.0,
+        "high_price": 12660.0,
+        "low_price": 12480.0,
+        "close_price": 12550.0,
+        "volume": 3199469.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250707,
+        "open_price": 12870.0,
+        "high_price": 13190.0,
+        "low_price": 12600.0,
+        "close_price": 12860.0,
+        "volume": 5686587.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250702,
+        "open_price": 12870.0,
+        "high_price": 12980.0,
+        "low_price": 12870.0,
+        "close_price": 12870.0,
+        "volume": 13701147.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250701,
+        "open_price": 13260.0,
+        "high_price": 13260.0,
+        "low_price": 13260.0,
+        "close_price": 13260.0,
+        "volume": 5096821.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250630,
+        "open_price": 13660.0,
+        "high_price": 13660.0,
+        "low_price": 13660.0,
+        "close_price": 13660.0,
+        "volume": 5070081.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250629,
+        "open_price": 14080.0,
+        "high_price": 14080.0,
+        "low_price": 14080.0,
+        "close_price": 14080.0,
+        "volume": 9035256.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250628,
+        "open_price": 14510.0,
+        "high_price": 14510.0,
+        "low_price": 14510.0,
+        "close_price": 14510.0,
+        "volume": 489239.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 14950.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 14950.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 14950.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 14950.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 14950.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 14950.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 14950.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 14950.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250611,
+        "open_price": 14950.0,
+        "high_price": 15080.0,
+        "low_price": 14770.0,
+        "close_price": 14950.0,
+        "volume": 1659089.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250610,
+        "open_price": 14720.0,
+        "high_price": 15050.0,
+        "low_price": 14720.0,
+        "close_price": 14970.0,
+        "volume": 1669332.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250609,
+        "open_price": 15330.0,
+        "high_price": 15330.0,
+        "low_price": 14820.0,
+        "close_price": 15000.0,
+        "volume": 2190288.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250608,
+        "open_price": 15150.0,
+        "high_price": 15260.0,
+        "low_price": 15070.0,
+        "close_price": 15180.0,
+        "volume": 2125809.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250607,
+        "open_price": 15400.0,
+        "high_price": 15410.0,
+        "low_price": 15120.0,
+        "close_price": 15180.0,
+        "volume": 4078241.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250603,
+        "open_price": 15950.0,
+        "high_price": 15950.0,
+        "low_price": 15260.0,
+        "close_price": 15580.0,
+        "volume": 2130189.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250602,
+        "open_price": 15260.0,
+        "high_price": 15590.0,
+        "low_price": 15210.0,
+        "close_price": 15550.0,
+        "volume": 3608915.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250601,
+        "open_price": 15050.0,
+        "high_price": 15490.0,
+        "low_price": 15050.0,
+        "close_price": 15360.0,
+        "volume": 1454278.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250531,
+        "open_price": 15110.0,
+        "high_price": 15450.0,
+        "low_price": 15110.0,
+        "close_price": 15290.0,
+        "volume": 4547306.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250528,
+        "open_price": 15160.0,
+        "high_price": 15230.0,
+        "low_price": 15060.0,
+        "close_price": 15130.0,
+        "volume": 3105638.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250527,
+        "open_price": 15150.0,
+        "high_price": 15320.0,
+        "low_price": 15150.0,
+        "close_price": 15230.0,
+        "volume": 1985435.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250526,
+        "open_price": 15010.0,
+        "high_price": 15290.0,
+        "low_price": 15010.0,
+        "close_price": 15110.0,
+        "volume": 7485577.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250525,
+        "open_price": 15370.0,
+        "high_price": 15370.0,
+        "low_price": 14900.0,
+        "close_price": 14990.0,
+        "volume": 6447133.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250524,
+        "open_price": 15460.0,
+        "high_price": 15540.0,
+        "low_price": 15250.0,
+        "close_price": 15360.0,
+        "volume": 2201590.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250521,
+        "open_price": 15120.0,
+        "high_price": 15310.0,
+        "low_price": 15120.0,
+        "close_price": 15140.0,
+        "volume": 6041023.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250520,
+        "open_price": 15600.0,
+        "high_price": 15840.0,
+        "low_price": 15420.0,
+        "close_price": 15580.0,
+        "volume": 9630988.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250519,
+        "open_price": 15670.0,
+        "high_price": 16350.0,
+        "low_price": 15670.0,
+        "close_price": 15890.0,
+        "volume": 6158423.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250518,
+        "open_price": 15810.0,
+        "high_price": 16090.0,
+        "low_price": 15700.0,
+        "close_price": 15930.0,
+        "volume": 6770837.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250517,
+        "open_price": 15850.0,
+        "high_price": 15940.0,
+        "low_price": 15600.0,
+        "close_price": 15810.0,
+        "volume": 19046018.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250514,
+        "open_price": 15820.0,
+        "high_price": 16130.0,
+        "low_price": 15590.0,
+        "close_price": 15840.0,
+        "volume": 7083213.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250513,
+        "open_price": 15870.0,
+        "high_price": 15960.0,
+        "low_price": 15400.0,
+        "close_price": 15800.0,
+        "volume": 11712209.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250512,
+        "open_price": 15500.0,
+        "high_price": 15500.0,
+        "low_price": 15330.0,
+        "close_price": 15500.0,
+        "volume": 7193567.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250511,
+        "open_price": 14800.0,
+        "high_price": 15330.0,
+        "low_price": 14700.0,
+        "close_price": 15050.0,
+        "volume": 8895096.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250510,
+        "open_price": 15150.0,
+        "high_price": 15310.0,
+        "low_price": 15060.0,
+        "close_price": 15080.0,
+        "volume": 5849110.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250507,
+        "open_price": 15280.0,
+        "high_price": 15650.0,
+        "low_price": 15280.0,
+        "close_price": 15520.0,
+        "volume": 17531913.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250506,
+        "open_price": 15150.0,
+        "high_price": 15400.0,
+        "low_price": 15060.0,
+        "close_price": 15200.0,
+        "volume": 5440798.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250505,
+        "open_price": 14810.0,
+        "high_price": 15200.0,
+        "low_price": 14810.0,
+        "close_price": 15130.0,
+        "volume": 5874809.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250504,
+        "open_price": 14530.0,
+        "high_price": 14970.0,
+        "low_price": 14530.0,
+        "close_price": 14760.0,
+        "volume": 5614216.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250503,
+        "open_price": 14970.0,
+        "high_price": 15130.0,
+        "low_price": 14970.0,
+        "close_price": 14970.0,
+        "volume": 13349264.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250430,
+        "open_price": 15000.0,
+        "high_price": 15540.0,
+        "low_price": 15000.0,
+        "close_price": 15430.0,
+        "volume": 7408387.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250429,
+        "open_price": 15390.0,
+        "high_price": 15400.0,
+        "low_price": 15110.0,
+        "close_price": 15280.0,
+        "volume": 2753893.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250428,
+        "open_price": 15030.0,
+        "high_price": 15350.0,
+        "low_price": 14980.0,
+        "close_price": 15130.0,
+        "volume": 2881112.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250427,
+        "open_price": 14940.0,
+        "high_price": 15340.0,
+        "low_price": 14930.0,
+        "close_price": 15080.0,
+        "volume": 9620060.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250426,
+        "open_price": 15500.0,
+        "high_price": 15730.0,
+        "low_price": 15100.0,
+        "close_price": 15390.0,
+        "volume": 10796277.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250423,
+        "open_price": 15810.0,
+        "high_price": 15820.0,
+        "low_price": 15450.0,
+        "close_price": 15510.0,
+        "volume": 9979460.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250422,
+        "open_price": 15920.0,
+        "high_price": 16110.0,
+        "low_price": 15870.0,
+        "close_price": 15920.0,
+        "volume": 32336261.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250421,
+        "open_price": 16500.0,
+        "high_price": 16500.0,
+        "low_price": 15860.0,
+        "close_price": 16360.0,
+        "volume": 38801407.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250420,
+        "open_price": 16020.0,
+        "high_price": 16020.0,
+        "low_price": 16000.0,
+        "close_price": 16020.0,
+        "volume": 24554140.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250419,
+        "open_price": 15740.0,
+        "high_price": 15740.0,
+        "low_price": 15280.0,
+        "close_price": 15560.0,
+        "volume": 6542291.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250416,
+        "open_price": 15410.0,
+        "high_price": 15410.0,
+        "low_price": 15100.0,
+        "close_price": 15290.0,
+        "volume": 11291187.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250415,
+        "open_price": 15470.0,
+        "high_price": 15470.0,
+        "low_price": 15150.0,
+        "close_price": 15170.0,
+        "volume": 20270888.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250414,
+        "open_price": 15710.0,
+        "high_price": 15710.0,
+        "low_price": 15250.0,
+        "close_price": 15610.0,
+        "volume": 28831443.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250413,
+        "open_price": 15260.0,
+        "high_price": 15260.0,
+        "low_price": 15260.0,
+        "close_price": 15260.0,
+        "volume": 13257198.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250412,
+        "open_price": 14700.0,
+        "high_price": 15010.0,
+        "low_price": 14560.0,
+        "close_price": 14820.0,
+        "volume": 5321584.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250409,
+        "open_price": 14720.0,
+        "high_price": 14720.0,
+        "low_price": 14330.0,
+        "close_price": 14590.0,
+        "volume": 12767437.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250408,
+        "open_price": 14670.0,
+        "high_price": 14680.0,
+        "low_price": 14670.0,
+        "close_price": 14680.0,
+        "volume": 12953128.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250407,
+        "open_price": 14570.0,
+        "high_price": 14570.0,
+        "low_price": 14150.0,
+        "close_price": 14260.0,
+        "volume": 5561061.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250406,
+        "open_price": 14220.0,
+        "high_price": 14390.0,
+        "low_price": 14150.0,
+        "close_price": 14320.0,
+        "volume": 7976659.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250405,
+        "open_price": 14150.0,
+        "high_price": 14690.0,
+        "low_price": 14040.0,
+        "close_price": 14380.0,
+        "volume": 6398564.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250330,
+        "open_price": 13890.0,
+        "high_price": 14380.0,
+        "low_price": 13890.0,
+        "close_price": 14310.0,
+        "volume": 8947773.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250329,
+        "open_price": 14200.0,
+        "high_price": 14200.0,
+        "low_price": 13700.0,
+        "close_price": 13970.0,
+        "volume": 10783959.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250326,
+        "open_price": 13910.0,
+        "high_price": 14240.0,
+        "low_price": 13910.0,
+        "close_price": 14110.0,
+        "volume": 5190815.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250325,
+        "open_price": 13460.0,
+        "high_price": 13860.0,
+        "low_price": 13460.0,
+        "close_price": 13850.0,
+        "volume": 7552348.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250318,
+        "open_price": 13370.0,
+        "high_price": 13750.0,
+        "low_price": 13370.0,
+        "close_price": 13460.0,
+        "volume": 9973816.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250317,
+        "open_price": 13790.0,
+        "high_price": 13900.0,
+        "low_price": 13610.0,
+        "close_price": 13780.0,
+        "volume": 9305189.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250316,
+        "open_price": 13910.0,
+        "high_price": 13960.0,
+        "low_price": 13760.0,
+        "close_price": 13890.0,
+        "volume": 29850153.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250315,
+        "open_price": 13880.0,
+        "high_price": 13900.0,
+        "low_price": 13810.0,
+        "close_price": 13900.0,
+        "volume": 13726968.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250312,
+        "open_price": 13290.0,
+        "high_price": 13670.0,
+        "low_price": 13290.0,
+        "close_price": 13500.0,
+        "volume": 3151263.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250311,
+        "open_price": 13640.0,
+        "high_price": 13690.0,
+        "low_price": 13380.0,
+        "close_price": 13500.0,
+        "volume": 5721678.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250310,
+        "open_price": 13440.0,
+        "high_price": 13880.0,
+        "low_price": 13330.0,
+        "close_price": 13550.0,
+        "volume": 8718921.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250309,
+        "open_price": 13480.0,
+        "high_price": 13610.0,
+        "low_price": 13440.0,
+        "close_price": 13480.0,
+        "volume": 10026343.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250308,
+        "open_price": 14210.0,
+        "high_price": 14210.0,
+        "low_price": 13640.0,
+        "close_price": 13850.0,
+        "volume": 10092469.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250305,
+        "open_price": 13770.0,
+        "high_price": 14180.0,
+        "low_price": 13770.0,
+        "close_price": 14060.0,
+        "volume": 4347794.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250304,
+        "open_price": 14050.0,
+        "high_price": 14410.0,
+        "low_price": 13900.0,
+        "close_price": 14090.0,
+        "volume": 14818174.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250303,
+        "open_price": 14270.0,
+        "high_price": 14280.0,
+        "low_price": 14270.0,
+        "close_price": 14270.0,
+        "volume": 22118773.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250302,
+        "open_price": 14580.0,
+        "high_price": 14890.0,
+        "low_price": 14490.0,
+        "close_price": 14710.0,
+        "volume": 12820556.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250301,
+        "open_price": 14460.0,
+        "high_price": 14970.0,
+        "low_price": 14460.0,
+        "close_price": 14720.0,
+        "volume": 9128314.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250226,
+        "open_price": 14860.0,
+        "high_price": 14860.0,
+        "low_price": 14540.0,
+        "close_price": 14600.0,
+        "volume": 17943296.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250225,
+        "open_price": 14920.0,
+        "high_price": 15140.0,
+        "low_price": 14650.0,
+        "close_price": 14980.0,
+        "volume": 23431597.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250224,
+        "open_price": 14490.0,
+        "high_price": 14740.0,
+        "low_price": 14390.0,
+        "close_price": 14700.0,
+        "volume": 13890327.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250223,
+        "open_price": 14000.0,
+        "high_price": 14380.0,
+        "low_price": 14000.0,
+        "close_price": 14320.0,
+        "volume": 10903613.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250222,
+        "open_price": 14340.0,
+        "high_price": 14340.0,
+        "low_price": 13720.0,
+        "close_price": 13970.0,
+        "volume": 20727424.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250219,
+        "open_price": 14130.0,
+        "high_price": 14190.0,
+        "low_price": 13900.0,
+        "close_price": 14100.0,
+        "volume": 13365555.0
+    },
+    {
+        "symbol": "اکتان",
+        "trade_date": 20250218,
+        "open_price": 13730.0,
+        "high_price": 14110.0,
+        "low_price": 13730.0,
+        "close_price": 13870.0,
+        "volume": 10539561.0
+    }
+]

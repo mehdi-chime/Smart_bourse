@@ -1,0 +1,1091 @@
+[
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260901,
+        "open_price": 12008.0,
+        "high_price": 12200.0,
+        "low_price": 11585.0,
+        "close_price": 11972.0,
+        "volume": 4889427.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260831,
+        "open_price": 12190.0,
+        "high_price": 12190.0,
+        "low_price": 11617.0,
+        "close_price": 11943.0,
+        "volume": 9799044.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260829,
+        "open_price": 11769.0,
+        "high_price": 12100.0,
+        "low_price": 11754.0,
+        "close_price": 11945.0,
+        "volume": 3468358.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260826,
+        "open_price": 11799.0,
+        "high_price": 11800.0,
+        "low_price": 11696.0,
+        "close_price": 11751.0,
+        "volume": 1852783.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260825,
+        "open_price": 11800.0,
+        "high_price": 11823.0,
+        "low_price": 11590.0,
+        "close_price": 11696.0,
+        "volume": 4594003.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260824,
+        "open_price": 11608.0,
+        "high_price": 11858.0,
+        "low_price": 11308.0,
+        "close_price": 11691.0,
+        "volume": 27099253.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260823,
+        "open_price": 11360.0,
+        "high_price": 11629.0,
+        "low_price": 11360.0,
+        "close_price": 11608.0,
+        "volume": 5404975.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260822,
+        "open_price": 11564.0,
+        "high_price": 11564.0,
+        "low_price": 11232.0,
+        "close_price": 11291.0,
+        "volume": 1425747.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260819,
+        "open_price": 10736.0,
+        "high_price": 11390.0,
+        "low_price": 10736.0,
+        "close_price": 11228.0,
+        "volume": 1588868.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260818,
+        "open_price": 11071.0,
+        "high_price": 11071.0,
+        "low_price": 10749.0,
+        "close_price": 11065.0,
+        "volume": 19846858.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260817,
+        "open_price": 10749.0,
+        "high_price": 10749.0,
+        "low_price": 10749.0,
+        "close_price": 10749.0,
+        "volume": 3386550.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260816,
+        "open_price": 10000.0,
+        "high_price": 10441.0,
+        "low_price": 10000.0,
+        "close_price": 10436.0,
+        "volume": 6765018.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260815,
+        "open_price": 10157.0,
+        "high_price": 10253.0,
+        "low_price": 10135.0,
+        "close_price": 10137.0,
+        "volume": 4693788.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260811,
+        "open_price": 10527.0,
+        "high_price": 10700.0,
+        "low_price": 10385.0,
+        "close_price": 10448.0,
+        "volume": 2708290.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260810,
+        "open_price": 10695.0,
+        "high_price": 10830.0,
+        "low_price": 10695.0,
+        "close_price": 10706.0,
+        "volume": 15875532.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260809,
+        "open_price": 11448.0,
+        "high_price": 11448.0,
+        "low_price": 10953.0,
+        "close_price": 11025.0,
+        "volume": 3070905.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260808,
+        "open_price": 11100.0,
+        "high_price": 11300.0,
+        "low_price": 11100.0,
+        "close_price": 11291.0,
+        "volume": 15561093.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260805,
+        "open_price": 10971.0,
+        "high_price": 10971.0,
+        "low_price": 10716.0,
+        "close_price": 10971.0,
+        "volume": 8477812.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260803,
+        "open_price": 10422.0,
+        "high_price": 10652.0,
+        "low_price": 10422.0,
+        "close_price": 10652.0,
+        "volume": 2415479.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260802,
+        "open_price": 10258.0,
+        "high_price": 10410.0,
+        "low_price": 10173.0,
+        "close_price": 10342.0,
+        "volume": 72654424.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260801,
+        "open_price": 9950.0,
+        "high_price": 10178.0,
+        "low_price": 9949.0,
+        "close_price": 10107.0,
+        "volume": 57759278.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260729,
+        "open_price": 9738.0,
+        "high_price": 9975.0,
+        "low_price": 9685.0,
+        "close_price": 9949.0,
+        "volume": 8237357.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260728,
+        "open_price": 9719.0,
+        "high_price": 9738.0,
+        "low_price": 9500.0,
+        "close_price": 9685.0,
+        "volume": 1015163.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260727,
+        "open_price": 9549.0,
+        "high_price": 9559.0,
+        "low_price": 9100.0,
+        "close_price": 9455.0,
+        "volume": 6136878.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260726,
+        "open_price": 9281.0,
+        "high_price": 9281.0,
+        "low_price": 9281.0,
+        "close_price": 9281.0,
+        "volume": 2294650.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260725,
+        "open_price": 9041.0,
+        "high_price": 9041.0,
+        "low_price": 8783.0,
+        "close_price": 9011.0,
+        "volume": 1981347.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260722,
+        "open_price": 8778.0,
+        "high_price": 8778.0,
+        "low_price": 8778.0,
+        "close_price": 8778.0,
+        "volume": 2202593.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260721,
+        "open_price": 8523.0,
+        "high_price": 8523.0,
+        "low_price": 8523.0,
+        "close_price": 8523.0,
+        "volume": 5072852.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260720,
+        "open_price": 8274.0,
+        "high_price": 8277.0,
+        "low_price": 8220.0,
+        "close_price": 8275.0,
+        "volume": 420067.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260719,
+        "open_price": 8011.0,
+        "high_price": 8250.0,
+        "low_price": 8011.0,
+        "close_price": 8036.0,
+        "volume": 2723845.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260718,
+        "open_price": 8270.0,
+        "high_price": 8750.0,
+        "low_price": 8257.0,
+        "close_price": 8258.0,
+        "volume": 3416144.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260715,
+        "open_price": 8552.0,
+        "high_price": 8948.0,
+        "low_price": 8497.0,
+        "close_price": 8512.0,
+        "volume": 2926042.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260714,
+        "open_price": 8770.0,
+        "high_price": 8910.0,
+        "low_price": 8757.0,
+        "close_price": 8759.0,
+        "volume": 7323539.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260713,
+        "open_price": 9026.0,
+        "high_price": 9190.0,
+        "low_price": 9026.0,
+        "close_price": 9027.0,
+        "volume": 5728625.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260712,
+        "open_price": 9305.0,
+        "high_price": 9309.0,
+        "low_price": 9305.0,
+        "close_price": 9305.0,
+        "volume": 4391568.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260711,
+        "open_price": 9595.0,
+        "high_price": 9865.0,
+        "low_price": 9592.0,
+        "close_price": 9592.0,
+        "volume": 6724443.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260708,
+        "open_price": 10130.0,
+        "high_price": 10180.0,
+        "low_price": 9847.0,
+        "close_price": 9888.0,
+        "volume": 5233173.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260707,
+        "open_price": 10040.0,
+        "high_price": 10160.0,
+        "low_price": 10005.0,
+        "close_price": 10151.0,
+        "volume": 6137138.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260701,
+        "open_price": 9799.0,
+        "high_price": 9920.0,
+        "low_price": 9605.0,
+        "close_price": 9865.0,
+        "volume": 2877941.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260630,
+        "open_price": 9590.0,
+        "high_price": 9642.0,
+        "low_price": 9455.0,
+        "close_price": 9632.0,
+        "volume": 6204091.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260629,
+        "open_price": 9323.0,
+        "high_price": 9638.0,
+        "low_price": 9323.0,
+        "close_price": 9362.0,
+        "volume": 30645725.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260628,
+        "open_price": 9611.0,
+        "high_price": 9611.0,
+        "low_price": 9611.0,
+        "close_price": 9611.0,
+        "volume": 18505673.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260627,
+        "open_price": 10000.0,
+        "high_price": 10001.0,
+        "low_price": 9700.0,
+        "close_price": 9908.0,
+        "volume": 32300730.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260620,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260617,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260614,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260613,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260610,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260609,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260608,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260607,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260606,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260603,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260602,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260601,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260531,
+        "open_price": 10000.0,
+        "high_price": 10000.0,
+        "low_price": 10000.0,
+        "close_price": 10000.0,
+        "volume": 398000000.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260530,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260526,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260525,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260524,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260523,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260520,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260519,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260225,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260224,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بانکیا",
+        "trade_date": 20260223,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    }
+]

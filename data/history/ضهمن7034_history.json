@@ -1,0 +1,101 @@
+[
+    {
+        "symbol": "ضهمن7034",
+        "trade_date": 20260901,
+        "open_price": 400.0,
+        "high_price": 401.0,
+        "low_price": 400.0,
+        "close_price": 400.0,
+        "volume": 1050.0
+    },
+    {
+        "symbol": "ضهمن7034",
+        "trade_date": 20260831,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 650.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ضهمن7034",
+        "trade_date": 20260829,
+        "open_price": 650.0,
+        "high_price": 650.0,
+        "low_price": 650.0,
+        "close_price": 650.0,
+        "volume": 20.0
+    },
+    {
+        "symbol": "ضهمن7034",
+        "trade_date": 20260826,
+        "open_price": 510.0,
+        "high_price": 510.0,
+        "low_price": 500.0,
+        "close_price": 502.0,
+        "volume": 50.0
+    },
+    {
+        "symbol": "ضهمن7034",
+        "trade_date": 20260825,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 500.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ضهمن7034",
+        "trade_date": 20260824,
+        "open_price": 500.0,
+        "high_price": 500.0,
+        "low_price": 500.0,
+        "close_price": 500.0,
+        "volume": 108.0
+    },
+    {
+        "symbol": "ضهمن7034",
+        "trade_date": 20260823,
+        "open_price": 350.0,
+        "high_price": 350.0,
+        "low_price": 350.0,
+        "close_price": 350.0,
+        "volume": 18.0
+    },
+    {
+        "symbol": "ضهمن7034",
+        "trade_date": 20260822,
+        "open_price": 195.0,
+        "high_price": 290.0,
+        "low_price": 195.0,
+        "close_price": 214.0,
+        "volume": 1258.0
+    },
+    {
+        "symbol": "ضهمن7034",
+        "trade_date": 20260819,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ضهمن7034",
+        "trade_date": 20260818,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ضهمن7034",
+        "trade_date": 20260817,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1.0,
+        "volume": 0.0
+    }
+]

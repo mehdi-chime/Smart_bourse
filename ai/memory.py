@@ -1,0 +1,115 @@
+"""
+Project : Smart_Bourse
+File    : ai/memory.py
+Version : 1.0.0
+
+Description :
+    حافظه‌ی AI — ذخیره‌ی همه‌ی سیگنال‌ها و نتایج
+"""
+
+import json
+from datetime import datetime
+from pathlib import Path
+
+
+class AIMemory:
+
+    def __init__(self, base_dir=None):
+        if base_dir is None:
+            base_dir = Path(__file__).parent.parent / "data" / "ai"
+        self.base_dir = Path(base_dir)
+        self.base_dir.mkdir(parents=True, exist_ok=True)
+
+        self.signals_file = self.base_dir / "memory.jsonl"
+        self.outcomes_file = self.base_dir / "outcomes.jsonl"
+        self.context_file = self.base_dir / "market_context.jsonl"
+
+    def save_signal(self, trade_date, symbol, category, ratio,
+                    rsi=None, technical_score=None, final_score=None,
+                    last_price=None, context=None):
+        entry = {
+            "date": trade_date,
+            "saved_at": datetime.now().isoformat(),
+            "symbol": symbol,
+            "category": category,
+            "ratio": ratio,
+            "rsi": rsi,
+            "technical_score": technical_score,
+            "final_score": final_score,
+            "last_price": last_price,
+            "context": context or {},
+        }
+        with open(self.signals_file, "a", encoding="utf-8") as f:
+            f.write(json.dumps(entry, ensure_ascii=False) + "\n")
+
+    def save_outcome(self, trade_date, symbol, category, price_at_signal,
+                     price_after_1d=None, price_after_3d=None,
+                     price_after_7d=None, success=None):
+        entry = {
+            "date": trade_date,
+            "checked_at": datetime.now().isoformat(),
+            "symbol": symbol,
+            "category": category,
+            "price_at_signal": price_at_signal,
+            "price_after_1d": price_after_1d,
+            "price_after_3d": price_after_3d,
+            "price_after_7d": price_after_7d,
+            "success": success,
+        }
+        with open(self.outcomes_file, "a", encoding="utf-8") as f:
+            f.write(json.dumps(entry, ensure_ascii=False) + "\n")
+
+    def save_context(self, trade_date, context):
+        entry = {
+            "date": trade_date,
+            "saved_at": datetime.now().isoformat(),
+            **context,
+        }
+        with open(self.context_file, "a", encoding="utf-8") as f:
+            f.write(json.dumps(entry, ensure_ascii=False) + "\n")
+
+    def load_signals(self):
+        if not self.signals_file.exists():
+            return []
+        entries = []
+        with open(self.signals_file, "r", encoding="utf-8") as f:
+            for line in f:
+                try:
+                    entries.append(json.loads(line))
+                except Exception:
+                    pass
+        return entries
+
+    def load_outcomes(self):
+        if not self.outcomes_file.exists():
+            return []
+        entries = []
+        with open(self.outcomes_file, "r", encoding="utf-8") as f:
+            for line in f:
+                try:
+                    entries.append(json.loads(line))
+                except Exception:
+                    pass
+        return entries
+
+    def get_pending_signals(self, days_ago=7):
+        signals = self.load_signals()
+        outcomes = self.load_outcomes()
+        checked = {(o["date"], o["symbol"]) for o in outcomes}
+        pending = []
+        for s in signals:
+            key = (s["date"], s["symbol"])
+            if key not in checked:
+                pending.append(s)
+        return pending
+
+    def stats(self):
+        signals = self.load_signals()
+        outcomes = self.load_outcomes()
+        return {
+            "total_signals": len(signals),
+            "total_outcomes": len(outcomes),
+            "pending": len(self.get_pending_signals()),
+            "success_count": sum(1 for o in outcomes if o.get("success")),
+            "failure_count": sum(1 for o in outcomes if o.get("success") is False),
+        }

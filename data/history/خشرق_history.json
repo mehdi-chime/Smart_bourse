@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260901,
+        "open_price": 2622.0,
+        "high_price": 2648.0,
+        "low_price": 2544.0,
+        "close_price": 2578.0,
+        "volume": 68351236.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260831,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2515.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260829,
+        "open_price": 2549.0,
+        "high_price": 2559.0,
+        "low_price": 2461.0,
+        "close_price": 2515.0,
+        "volume": 38668575.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260826,
+        "open_price": 2507.0,
+        "high_price": 2507.0,
+        "low_price": 2463.0,
+        "close_price": 2500.0,
+        "volume": 42951606.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260825,
+        "open_price": 2350.0,
+        "high_price": 2455.0,
+        "low_price": 2350.0,
+        "close_price": 2434.0,
+        "volume": 33749877.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260824,
+        "open_price": 2332.0,
+        "high_price": 2452.0,
+        "low_price": 2329.0,
+        "close_price": 2384.0,
+        "volume": 35853460.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260823,
+        "open_price": 2509.0,
+        "high_price": 2509.0,
+        "low_price": 2363.0,
+        "close_price": 2401.0,
+        "volume": 65121295.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260822,
+        "open_price": 2430.0,
+        "high_price": 2438.0,
+        "low_price": 2373.0,
+        "close_price": 2436.0,
+        "volume": 18961040.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260819,
+        "open_price": 2329.0,
+        "high_price": 2440.0,
+        "low_price": 2322.0,
+        "close_price": 2367.0,
+        "volume": 32673434.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260818,
+        "open_price": 2399.0,
+        "high_price": 2409.0,
+        "low_price": 2341.0,
+        "close_price": 2393.0,
+        "volume": 58490774.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260817,
+        "open_price": 2339.0,
+        "high_price": 2339.0,
+        "low_price": 2338.0,
+        "close_price": 2339.0,
+        "volume": 11921486.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260816,
+        "open_price": 2271.0,
+        "high_price": 2271.0,
+        "low_price": 2270.0,
+        "close_price": 2271.0,
+        "volume": 41475306.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260815,
+        "open_price": 2187.0,
+        "high_price": 2224.0,
+        "low_price": 2097.0,
+        "close_price": 2205.0,
+        "volume": 36139238.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260811,
+        "open_price": 2150.0,
+        "high_price": 2195.0,
+        "low_price": 2113.0,
+        "close_price": 2160.0,
+        "volume": 25445607.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260810,
+        "open_price": 2075.0,
+        "high_price": 2137.0,
+        "low_price": 2075.0,
+        "close_price": 2134.0,
+        "volume": 24667577.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260809,
+        "open_price": 2170.0,
+        "high_price": 2170.0,
+        "low_price": 2044.0,
+        "close_price": 2075.0,
+        "volume": 50528705.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260808,
+        "open_price": 2107.0,
+        "high_price": 2107.0,
+        "low_price": 2106.0,
+        "close_price": 2107.0,
+        "volume": 13324103.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260805,
+        "open_price": 2046.0,
+        "high_price": 2046.0,
+        "low_price": 2046.0,
+        "close_price": 2046.0,
+        "volume": 12136608.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260803,
+        "open_price": 1986.0,
+        "high_price": 1988.0,
+        "low_price": 1971.0,
+        "close_price": 1987.0,
+        "volume": 8481251.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260802,
+        "open_price": 1936.0,
+        "high_price": 1936.0,
+        "low_price": 1899.0,
+        "close_price": 1931.0,
+        "volume": 24313716.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260801,
+        "open_price": 1849.0,
+        "high_price": 1930.0,
+        "low_price": 1847.0,
+        "close_price": 1880.0,
+        "volume": 28761559.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260729,
+        "open_price": 1850.0,
+        "high_price": 1952.0,
+        "low_price": 1841.0,
+        "close_price": 1904.0,
+        "volume": 26827264.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260728,
+        "open_price": 1897.0,
+        "high_price": 1897.0,
+        "low_price": 1897.0,
+        "close_price": 1897.0,
+        "volume": 12496933.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260727,
+        "open_price": 1842.0,
+        "high_price": 1842.0,
+        "low_price": 1842.0,
+        "close_price": 1842.0,
+        "volume": 4050940.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260726,
+        "open_price": 1789.0,
+        "high_price": 1789.0,
+        "low_price": 1789.0,
+        "close_price": 1789.0,
+        "volume": 4961841.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260725,
+        "open_price": 1649.0,
+        "high_price": 1744.0,
+        "low_price": 1649.0,
+        "close_price": 1737.0,
+        "volume": 21009785.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260722,
+        "open_price": 1759.0,
+        "high_price": 1759.0,
+        "low_price": 1664.0,
+        "close_price": 1694.0,
+        "volume": 7649205.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260721,
+        "open_price": 1676.0,
+        "high_price": 1720.0,
+        "low_price": 1676.0,
+        "close_price": 1710.0,
+        "volume": 9667200.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260720,
+        "open_price": 1675.0,
+        "high_price": 1679.0,
+        "low_price": 1620.0,
+        "close_price": 1670.0,
+        "volume": 10156896.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260719,
+        "open_price": 1627.0,
+        "high_price": 1670.0,
+        "low_price": 1627.0,
+        "close_price": 1631.0,
+        "volume": 26940029.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260718,
+        "open_price": 1677.0,
+        "high_price": 1677.0,
+        "low_price": 1677.0,
+        "close_price": 1677.0,
+        "volume": 769164.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260715,
+        "open_price": 1720.0,
+        "high_price": 1805.0,
+        "low_price": 1720.0,
+        "close_price": 1728.0,
+        "volume": 22347032.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260714,
+        "open_price": 1773.0,
+        "high_price": 1773.0,
+        "low_price": 1773.0,
+        "close_price": 1773.0,
+        "volume": 3560941.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260713,
+        "open_price": 1827.0,
+        "high_price": 1827.0,
+        "low_price": 1827.0,
+        "close_price": 1827.0,
+        "volume": 2429268.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260712,
+        "open_price": 1883.0,
+        "high_price": 1883.0,
+        "low_price": 1883.0,
+        "close_price": 1883.0,
+        "volume": 2787870.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260711,
+        "open_price": 1940.0,
+        "high_price": 1950.0,
+        "low_price": 1940.0,
+        "close_price": 1941.0,
+        "volume": 7104532.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260708,
+        "open_price": 2020.0,
+        "high_price": 2036.0,
+        "low_price": 1918.0,
+        "close_price": 2000.0,
+        "volume": 50837360.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260707,
+        "open_price": 1977.0,
+        "high_price": 1977.0,
+        "low_price": 1975.0,
+        "close_price": 1977.0,
+        "volume": 6391352.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260701,
+        "open_price": 1929.0,
+        "high_price": 1934.0,
+        "low_price": 1859.0,
+        "close_price": 1920.0,
+        "volume": 18662012.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260630,
+        "open_price": 1850.0,
+        "high_price": 1905.0,
+        "low_price": 1830.0,
+        "close_price": 1878.0,
+        "volume": 12210530.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260629,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1896.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260628,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1896.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260627,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1896.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260623,
+        "open_price": 1897.0,
+        "high_price": 1899.0,
+        "low_price": 1860.0,
+        "close_price": 1896.0,
+        "volume": 23561961.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260622,
+        "open_price": 1840.0,
+        "high_price": 1917.0,
+        "low_price": 1833.0,
+        "close_price": 1844.0,
+        "volume": 14231122.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260621,
+        "open_price": 1909.0,
+        "high_price": 1938.0,
+        "low_price": 1826.0,
+        "close_price": 1889.0,
+        "volume": 21179230.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260620,
+        "open_price": 1896.0,
+        "high_price": 1897.0,
+        "low_price": 1806.0,
+        "close_price": 1882.0,
+        "volume": 24413548.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260617,
+        "open_price": 1880.0,
+        "high_price": 1895.0,
+        "low_price": 1819.0,
+        "close_price": 1842.0,
+        "volume": 53296990.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260616,
+        "open_price": 1950.0,
+        "high_price": 1950.0,
+        "low_price": 1838.0,
+        "close_price": 1875.0,
+        "volume": 44198558.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260615,
+        "open_price": 1894.0,
+        "high_price": 1894.0,
+        "low_price": 1894.0,
+        "close_price": 1894.0,
+        "volume": 3874830.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260614,
+        "open_price": 1839.0,
+        "high_price": 1839.0,
+        "low_price": 1839.0,
+        "close_price": 1839.0,
+        "volume": 8463120.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260613,
+        "open_price": 1786.0,
+        "high_price": 1786.0,
+        "low_price": 1786.0,
+        "close_price": 1786.0,
+        "volume": 4894623.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260610,
+        "open_price": 1696.0,
+        "high_price": 1780.0,
+        "low_price": 1678.0,
+        "close_price": 1734.0,
+        "volume": 31193003.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260609,
+        "open_price": 1729.0,
+        "high_price": 1729.0,
+        "low_price": 1720.0,
+        "close_price": 1729.0,
+        "volume": 26769839.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260608,
+        "open_price": 1679.0,
+        "high_price": 1679.0,
+        "low_price": 1679.0,
+        "close_price": 1679.0,
+        "volume": 3847956.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260607,
+        "open_price": 1719.0,
+        "high_price": 1730.0,
+        "low_price": 1719.0,
+        "close_price": 1730.0,
+        "volume": 17591702.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260606,
+        "open_price": 1674.0,
+        "high_price": 1719.0,
+        "low_price": 1670.0,
+        "close_price": 1680.0,
+        "volume": 28491237.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260603,
+        "open_price": 1723.0,
+        "high_price": 1760.0,
+        "low_price": 1721.0,
+        "close_price": 1721.0,
+        "volume": 9966038.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260602,
+        "open_price": 1841.0,
+        "high_price": 1841.0,
+        "low_price": 1762.0,
+        "close_price": 1774.0,
+        "volume": 30060737.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260601,
+        "open_price": 1841.0,
+        "high_price": 1841.0,
+        "low_price": 1761.0,
+        "close_price": 1816.0,
+        "volume": 44115331.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260531,
+        "open_price": 1788.0,
+        "high_price": 1788.0,
+        "low_price": 1788.0,
+        "close_price": 1788.0,
+        "volume": 14466821.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260530,
+        "open_price": 1736.0,
+        "high_price": 1736.0,
+        "low_price": 1736.0,
+        "close_price": 1736.0,
+        "volume": 7135216.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260526,
+        "open_price": 1600.0,
+        "high_price": 1694.0,
+        "low_price": 1600.0,
+        "close_price": 1686.0,
+        "volume": 26288625.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260525,
+        "open_price": 1646.0,
+        "high_price": 1646.0,
+        "low_price": 1605.0,
+        "close_price": 1645.0,
+        "volume": 33734321.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260524,
+        "open_price": 1599.0,
+        "high_price": 1599.0,
+        "low_price": 1599.0,
+        "close_price": 1599.0,
+        "volume": 19641240.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260523,
+        "open_price": 1553.0,
+        "high_price": 1553.0,
+        "low_price": 1553.0,
+        "close_price": 1553.0,
+        "volume": 7349385.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260520,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1508.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260519,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1508.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1508.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1508.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1508.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1508.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1508.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1508.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1508.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1508.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1508.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1508.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1508.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1508.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1508.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1508.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1508.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1508.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1508.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1508.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1508.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1508.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1508.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1508.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1508.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1508.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1508.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1508.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2014.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2014.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2014.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2014.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2014.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2014.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2014.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2014.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2014.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2014.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2014.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2014.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2014.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2014.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2014.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2014.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2014.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2014.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2014.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2014.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2014.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2014.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2014.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2014.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260225,
+        "open_price": 1923.0,
+        "high_price": 2034.0,
+        "low_price": 1923.0,
+        "close_price": 2014.0,
+        "volume": 7733512.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260224,
+        "open_price": 1989.0,
+        "high_price": 2049.0,
+        "low_price": 1971.0,
+        "close_price": 1975.0,
+        "volume": 4606229.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260223,
+        "open_price": 2096.0,
+        "high_price": 2098.0,
+        "low_price": 1980.0,
+        "close_price": 2031.0,
+        "volume": 3383203.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260222,
+        "open_price": 2037.0,
+        "high_price": 2067.0,
+        "low_price": 2037.0,
+        "close_price": 2037.0,
+        "volume": 8984843.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260221,
+        "open_price": 2100.0,
+        "high_price": 2100.0,
+        "low_price": 2100.0,
+        "close_price": 2100.0,
+        "volume": 523527.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260218,
+        "open_price": 2163.0,
+        "high_price": 2198.0,
+        "low_price": 2135.0,
+        "close_price": 2164.0,
+        "volume": 2218658.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260217,
+        "open_price": 2245.0,
+        "high_price": 2245.0,
+        "low_price": 2150.0,
+        "close_price": 2185.0,
+        "volume": 2088762.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260216,
+        "open_price": 2144.0,
+        "high_price": 2249.0,
+        "low_price": 2142.0,
+        "close_price": 2182.0,
+        "volume": 4670744.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260215,
+        "open_price": 2207.0,
+        "high_price": 2207.0,
+        "low_price": 2204.0,
+        "close_price": 2206.0,
+        "volume": 463050.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260214,
+        "open_price": 2370.0,
+        "high_price": 2389.0,
+        "low_price": 2252.0,
+        "close_price": 2272.0,
+        "volume": 9622986.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260210,
+        "open_price": 2264.0,
+        "high_price": 2336.0,
+        "low_price": 2264.0,
+        "close_price": 2321.0,
+        "volume": 6489422.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260209,
+        "open_price": 2268.0,
+        "high_price": 2404.0,
+        "low_price": 2268.0,
+        "close_price": 2268.0,
+        "volume": 7074931.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260208,
+        "open_price": 2465.0,
+        "high_price": 2465.0,
+        "low_price": 2331.0,
+        "close_price": 2338.0,
+        "volume": 4903485.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260207,
+        "open_price": 2404.0,
+        "high_price": 2404.0,
+        "low_price": 2375.0,
+        "close_price": 2403.0,
+        "volume": 3538605.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260203,
+        "open_price": 2458.0,
+        "high_price": 2458.0,
+        "low_price": 2331.0,
+        "close_price": 2334.0,
+        "volume": 10137169.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260202,
+        "open_price": 2441.0,
+        "high_price": 2441.0,
+        "low_price": 2375.0,
+        "close_price": 2403.0,
+        "volume": 4346223.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260201,
+        "open_price": 2368.0,
+        "high_price": 2440.0,
+        "low_price": 2368.0,
+        "close_price": 2370.0,
+        "volume": 6040140.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260131,
+        "open_price": 2441.0,
+        "high_price": 2500.0,
+        "low_price": 2441.0,
+        "close_price": 2441.0,
+        "volume": 3668789.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260128,
+        "open_price": 2516.0,
+        "high_price": 2519.0,
+        "low_price": 2516.0,
+        "close_price": 2516.0,
+        "volume": 5462503.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260127,
+        "open_price": 2593.0,
+        "high_price": 2593.0,
+        "low_price": 2593.0,
+        "close_price": 2593.0,
+        "volume": 800003.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260126,
+        "open_price": 2676.0,
+        "high_price": 2676.0,
+        "low_price": 2671.0,
+        "close_price": 2673.0,
+        "volume": 487778.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260125,
+        "open_price": 2753.0,
+        "high_price": 2753.0,
+        "low_price": 2753.0,
+        "close_price": 2753.0,
+        "volume": 6758477.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260124,
+        "open_price": 2957.0,
+        "high_price": 2957.0,
+        "low_price": 2785.0,
+        "close_price": 2838.0,
+        "volume": 11851951.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260121,
+        "open_price": 2871.0,
+        "high_price": 2871.0,
+        "low_price": 2871.0,
+        "close_price": 2871.0,
+        "volume": 4385394.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260120,
+        "open_price": 2780.0,
+        "high_price": 2804.0,
+        "low_price": 2695.0,
+        "close_price": 2788.0,
+        "volume": 11867909.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260119,
+        "open_price": 2770.0,
+        "high_price": 2790.0,
+        "low_price": 2653.0,
+        "close_price": 2723.0,
+        "volume": 4224397.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260118,
+        "open_price": 2700.0,
+        "high_price": 2715.0,
+        "low_price": 2700.0,
+        "close_price": 2715.0,
+        "volume": 5328846.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260114,
+        "open_price": 2620.0,
+        "high_price": 2680.0,
+        "low_price": 2620.0,
+        "close_price": 2636.0,
+        "volume": 12320910.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260113,
+        "open_price": 2760.0,
+        "high_price": 2779.0,
+        "low_price": 2641.0,
+        "close_price": 2701.0,
+        "volume": 10026261.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260112,
+        "open_price": 2565.0,
+        "high_price": 2719.0,
+        "low_price": 2565.0,
+        "close_price": 2701.0,
+        "volume": 20854610.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260111,
+        "open_price": 2642.0,
+        "high_price": 2679.0,
+        "low_price": 2640.0,
+        "close_price": 2640.0,
+        "volume": 19321149.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260110,
+        "open_price": 2721.0,
+        "high_price": 2721.0,
+        "low_price": 2721.0,
+        "close_price": 2721.0,
+        "volume": 8442735.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260107,
+        "open_price": 2920.0,
+        "high_price": 2920.0,
+        "low_price": 2797.0,
+        "close_price": 2805.0,
+        "volume": 1921484.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260106,
+        "open_price": 2810.0,
+        "high_price": 2888.0,
+        "low_price": 2810.0,
+        "close_price": 2883.0,
+        "volume": 24338621.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260105,
+        "open_price": 2760.0,
+        "high_price": 2898.0,
+        "low_price": 2760.0,
+        "close_price": 2804.0,
+        "volume": 16041466.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20260104,
+        "open_price": 2821.0,
+        "high_price": 2821.0,
+        "low_price": 2821.0,
+        "close_price": 2821.0,
+        "volume": 2792874.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251231,
+        "open_price": 2900.0,
+        "high_price": 3030.0,
+        "low_price": 2900.0,
+        "close_price": 2908.0,
+        "volume": 17159509.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251230,
+        "open_price": 2989.0,
+        "high_price": 2989.0,
+        "low_price": 2989.0,
+        "close_price": 2989.0,
+        "volume": 339237.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251229,
+        "open_price": 3090.0,
+        "high_price": 3200.0,
+        "low_price": 3073.0,
+        "close_price": 3081.0,
+        "volume": 13937368.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251228,
+        "open_price": 3214.0,
+        "high_price": 3218.0,
+        "low_price": 3101.0,
+        "close_price": 3168.0,
+        "volume": 10182009.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251227,
+        "open_price": 3149.0,
+        "high_price": 3149.0,
+        "low_price": 3083.0,
+        "close_price": 3144.0,
+        "volume": 21924249.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251224,
+        "open_price": 3073.0,
+        "high_price": 3081.0,
+        "low_price": 2993.0,
+        "close_price": 3058.0,
+        "volume": 26154260.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251223,
+        "open_price": 3049.0,
+        "high_price": 3049.0,
+        "low_price": 2950.0,
+        "close_price": 2992.0,
+        "volume": 11915055.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251222,
+        "open_price": 3044.0,
+        "high_price": 3101.0,
+        "low_price": 2935.0,
+        "close_price": 3005.0,
+        "volume": 15308736.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251221,
+        "open_price": 3026.0,
+        "high_price": 3077.0,
+        "low_price": 2946.0,
+        "close_price": 3013.0,
+        "volume": 11785305.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251220,
+        "open_price": 2978.0,
+        "high_price": 3038.0,
+        "low_price": 2978.0,
+        "close_price": 3025.0,
+        "volume": 14655232.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251217,
+        "open_price": 2802.0,
+        "high_price": 2965.0,
+        "low_price": 2802.0,
+        "close_price": 2950.0,
+        "volume": 12648485.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251216,
+        "open_price": 2924.0,
+        "high_price": 2971.0,
+        "low_price": 2834.0,
+        "close_price": 2879.0,
+        "volume": 15519993.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251215,
+        "open_price": 2764.0,
+        "high_price": 2904.0,
+        "low_price": 2764.0,
+        "close_price": 2892.0,
+        "volume": 26421218.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251214,
+        "open_price": 2860.0,
+        "high_price": 2888.0,
+        "low_price": 2779.0,
+        "close_price": 2820.0,
+        "volume": 21086572.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251213,
+        "open_price": 2855.0,
+        "high_price": 2885.0,
+        "low_price": 2800.0,
+        "close_price": 2864.0,
+        "volume": 15289948.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251210,
+        "open_price": 2745.0,
+        "high_price": 2862.0,
+        "low_price": 2745.0,
+        "close_price": 2801.0,
+        "volume": 37697074.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251209,
+        "open_price": 2716.0,
+        "high_price": 2816.0,
+        "low_price": 2692.0,
+        "close_price": 2779.0,
+        "volume": 34337565.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251208,
+        "open_price": 2730.0,
+        "high_price": 2774.0,
+        "low_price": 2615.0,
+        "close_price": 2734.0,
+        "volume": 22685700.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251207,
+        "open_price": 2696.0,
+        "high_price": 2696.0,
+        "low_price": 2645.0,
+        "close_price": 2695.0,
+        "volume": 40259341.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251206,
+        "open_price": 2618.0,
+        "high_price": 2618.0,
+        "low_price": 2618.0,
+        "close_price": 2618.0,
+        "volume": 11518121.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251203,
+        "open_price": 2464.0,
+        "high_price": 2559.0,
+        "low_price": 2460.0,
+        "close_price": 2542.0,
+        "volume": 10515631.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251202,
+        "open_price": 2436.0,
+        "high_price": 2529.0,
+        "low_price": 2436.0,
+        "close_price": 2485.0,
+        "volume": 8281588.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251201,
+        "open_price": 2488.0,
+        "high_price": 2532.0,
+        "low_price": 2451.0,
+        "close_price": 2490.0,
+        "volume": 7369757.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251130,
+        "open_price": 2490.0,
+        "high_price": 2559.0,
+        "low_price": 2445.0,
+        "close_price": 2488.0,
+        "volume": 5989821.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251129,
+        "open_price": 2492.0,
+        "high_price": 2536.0,
+        "low_price": 2485.0,
+        "close_price": 2496.0,
+        "volume": 5645399.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251126,
+        "open_price": 2588.0,
+        "high_price": 2638.0,
+        "low_price": 2558.0,
+        "close_price": 2561.0,
+        "volume": 14126000.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251125,
+        "open_price": 2659.0,
+        "high_price": 2671.0,
+        "low_price": 2570.0,
+        "close_price": 2637.0,
+        "volume": 7475432.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251123,
+        "open_price": 2658.0,
+        "high_price": 2658.0,
+        "low_price": 2542.0,
+        "close_price": 2603.0,
+        "volume": 15777899.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251122,
+        "open_price": 2600.0,
+        "high_price": 2718.0,
+        "low_price": 2562.0,
+        "close_price": 2594.0,
+        "volume": 7082621.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251119,
+        "open_price": 2634.0,
+        "high_price": 2734.0,
+        "low_price": 2634.0,
+        "close_price": 2641.0,
+        "volume": 10028590.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251118,
+        "open_price": 2672.0,
+        "high_price": 2672.0,
+        "low_price": 2667.0,
+        "close_price": 2715.0,
+        "volume": 2315708.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251117,
+        "open_price": 2763.0,
+        "high_price": 2813.0,
+        "low_price": 2711.0,
+        "close_price": 2749.0,
+        "volume": 17041355.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251116,
+        "open_price": 2683.0,
+        "high_price": 2764.0,
+        "low_price": 2646.0,
+        "close_price": 2735.0,
+        "volume": 17089964.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251115,
+        "open_price": 2718.0,
+        "high_price": 2719.0,
+        "low_price": 2620.0,
+        "close_price": 2684.0,
+        "volume": 11346331.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251112,
+        "open_price": 2644.0,
+        "high_price": 2717.0,
+        "low_price": 2596.0,
+        "close_price": 2672.0,
+        "volume": 16993518.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251111,
+        "open_price": 2644.0,
+        "high_price": 2775.0,
+        "low_price": 2644.0,
+        "close_price": 2676.0,
+        "volume": 4485021.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251110,
+        "open_price": 2725.0,
+        "high_price": 2735.0,
+        "low_price": 2725.0,
+        "close_price": 2725.0,
+        "volume": 17614377.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251109,
+        "open_price": 2771.0,
+        "high_price": 2900.0,
+        "low_price": 2762.0,
+        "close_price": 2809.0,
+        "volume": 3187115.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251108,
+        "open_price": 2820.0,
+        "high_price": 2859.0,
+        "low_price": 2802.0,
+        "close_price": 2847.0,
+        "volume": 12498784.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251105,
+        "open_price": 2771.0,
+        "high_price": 2835.0,
+        "low_price": 2771.0,
+        "close_price": 2776.0,
+        "volume": 29448358.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251104,
+        "open_price": 2885.0,
+        "high_price": 2923.0,
+        "low_price": 2780.0,
+        "close_price": 2856.0,
+        "volume": 36405340.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251103,
+        "open_price": 2839.0,
+        "high_price": 2841.0,
+        "low_price": 2770.0,
+        "close_price": 2840.0,
+        "volume": 35902571.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251102,
+        "open_price": 2767.0,
+        "high_price": 2769.0,
+        "low_price": 2687.0,
+        "close_price": 2759.0,
+        "volume": 11785407.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251101,
+        "open_price": 2689.0,
+        "high_price": 2689.0,
+        "low_price": 2689.0,
+        "close_price": 2689.0,
+        "volume": 26597623.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251029,
+        "open_price": 2611.0,
+        "high_price": 2611.0,
+        "low_price": 2611.0,
+        "close_price": 2611.0,
+        "volume": 11409038.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251028,
+        "open_price": 2535.0,
+        "high_price": 2535.0,
+        "low_price": 2535.0,
+        "close_price": 2535.0,
+        "volume": 17473936.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251027,
+        "open_price": 2425.0,
+        "high_price": 2497.0,
+        "low_price": 2395.0,
+        "close_price": 2462.0,
+        "volume": 12979237.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251026,
+        "open_price": 2361.0,
+        "high_price": 2478.0,
+        "low_price": 2361.0,
+        "close_price": 2425.0,
+        "volume": 10278910.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251025,
+        "open_price": 2450.0,
+        "high_price": 2498.0,
+        "low_price": 2373.0,
+        "close_price": 2408.0,
+        "volume": 9280353.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251022,
+        "open_price": 2436.0,
+        "high_price": 2442.0,
+        "low_price": 2410.0,
+        "close_price": 2441.0,
+        "volume": 6891574.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251021,
+        "open_price": 2450.0,
+        "high_price": 2484.0,
+        "low_price": 2355.0,
+        "close_price": 2371.0,
+        "volume": 6683133.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251020,
+        "open_price": 2422.0,
+        "high_price": 2499.0,
+        "low_price": 2418.0,
+        "close_price": 2427.0,
+        "volume": 14763305.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251019,
+        "open_price": 2567.0,
+        "high_price": 2567.0,
+        "low_price": 2440.0,
+        "close_price": 2492.0,
+        "volume": 9473092.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251018,
+        "open_price": 2475.0,
+        "high_price": 2495.0,
+        "low_price": 2447.0,
+        "close_price": 2494.0,
+        "volume": 7869227.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251015,
+        "open_price": 2477.0,
+        "high_price": 2491.0,
+        "low_price": 2403.0,
+        "close_price": 2423.0,
+        "volume": 10050297.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251014,
+        "open_price": 2482.0,
+        "high_price": 2482.0,
+        "low_price": 2405.0,
+        "close_price": 2477.0,
+        "volume": 23655794.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251013,
+        "open_price": 2447.0,
+        "high_price": 2447.0,
+        "low_price": 2447.0,
+        "close_price": 2410.0,
+        "volume": 3148743.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251012,
+        "open_price": 2414.0,
+        "high_price": 2414.0,
+        "low_price": 2414.0,
+        "close_price": 2376.0,
+        "volume": 3027236.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251011,
+        "open_price": 2344.0,
+        "high_price": 2344.0,
+        "low_price": 2344.0,
+        "close_price": 2344.0,
+        "volume": 7196442.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251008,
+        "open_price": 2267.0,
+        "high_price": 2297.0,
+        "low_price": 2165.0,
+        "close_price": 2276.0,
+        "volume": 23219204.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251007,
+        "open_price": 2210.0,
+        "high_price": 2240.0,
+        "low_price": 2190.0,
+        "close_price": 2231.0,
+        "volume": 21880601.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251006,
+        "open_price": 2174.0,
+        "high_price": 2187.0,
+        "low_price": 2131.0,
+        "close_price": 2175.0,
+        "volume": 15117284.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251005,
+        "open_price": 2200.0,
+        "high_price": 2200.0,
+        "low_price": 2083.0,
+        "close_price": 2124.0,
+        "volume": 19274938.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251004,
+        "open_price": 2084.0,
+        "high_price": 2146.0,
+        "low_price": 2084.0,
+        "close_price": 2146.0,
+        "volume": 11690809.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20251001,
+        "open_price": 2085.0,
+        "high_price": 2139.0,
+        "low_price": 2084.0,
+        "close_price": 2084.0,
+        "volume": 11898777.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250930,
+        "open_price": 2265.0,
+        "high_price": 2265.0,
+        "low_price": 2138.0,
+        "close_price": 2148.0,
+        "volume": 10638037.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250929,
+        "open_price": 2236.0,
+        "high_price": 2236.0,
+        "low_price": 2236.0,
+        "close_price": 2204.0,
+        "volume": 3563688.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250928,
+        "open_price": 2171.0,
+        "high_price": 2171.0,
+        "low_price": 2171.0,
+        "close_price": 2171.0,
+        "volume": 7036790.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250927,
+        "open_price": 2067.0,
+        "high_price": 2190.0,
+        "low_price": 2067.0,
+        "close_price": 2108.0,
+        "volume": 37465104.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250924,
+        "open_price": 2077.0,
+        "high_price": 2077.0,
+        "low_price": 2077.0,
+        "close_price": 2130.0,
+        "volume": 1228483.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250923,
+        "open_price": 2150.0,
+        "high_price": 2150.0,
+        "low_price": 2109.0,
+        "close_price": 2141.0,
+        "volume": 3685927.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250922,
+        "open_price": 2121.0,
+        "high_price": 2195.0,
+        "low_price": 2121.0,
+        "close_price": 2174.0,
+        "volume": 1952194.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250921,
+        "open_price": 2122.0,
+        "high_price": 2122.0,
+        "low_price": 2122.0,
+        "close_price": 2186.0,
+        "volume": 107723.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250920,
+        "open_price": 2122.0,
+        "high_price": 2122.0,
+        "low_price": 2122.0,
+        "close_price": 2187.0,
+        "volume": 25500.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250917,
+        "open_price": 2135.0,
+        "high_price": 2190.0,
+        "low_price": 2135.0,
+        "close_price": 2187.0,
+        "volume": 1510631.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250916,
+        "open_price": 2147.0,
+        "high_price": 2197.0,
+        "low_price": 2147.0,
+        "close_price": 2201.0,
+        "volume": 1193792.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250915,
+        "open_price": 2231.0,
+        "high_price": 2240.0,
+        "low_price": 2198.0,
+        "close_price": 2211.0,
+        "volume": 6273991.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250914,
+        "open_price": 2200.0,
+        "high_price": 2295.0,
+        "low_price": 2200.0,
+        "close_price": 2265.0,
+        "volume": 4560136.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250913,
+        "open_price": 2284.0,
+        "high_price": 2284.0,
+        "low_price": 2191.0,
+        "close_price": 2229.0,
+        "volume": 1993393.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250909,
+        "open_price": 2272.0,
+        "high_price": 2272.0,
+        "low_price": 2218.0,
+        "close_price": 2236.0,
+        "volume": 4908860.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250908,
+        "open_price": 2165.0,
+        "high_price": 2240.0,
+        "low_price": 2165.0,
+        "close_price": 2206.0,
+        "volume": 3464822.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250907,
+        "open_price": 2209.0,
+        "high_price": 2209.0,
+        "low_price": 2149.0,
+        "close_price": 2175.0,
+        "volume": 4350761.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250906,
+        "open_price": 2185.0,
+        "high_price": 2211.0,
+        "low_price": 2087.0,
+        "close_price": 2169.0,
+        "volume": 5204092.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250903,
+        "open_price": 2150.0,
+        "high_price": 2187.0,
+        "low_price": 2130.0,
+        "close_price": 2147.0,
+        "volume": 3655569.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250902,
+        "open_price": 2080.0,
+        "high_price": 2137.0,
+        "low_price": 2080.0,
+        "close_price": 2125.0,
+        "volume": 5849474.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250831,
+        "open_price": 2080.0,
+        "high_price": 2122.0,
+        "low_price": 2030.0,
+        "close_price": 2075.0,
+        "volume": 2913022.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250830,
+        "open_price": 2028.0,
+        "high_price": 2080.0,
+        "low_price": 2028.0,
+        "close_price": 2061.0,
+        "volume": 3541434.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250827,
+        "open_price": 2075.0,
+        "high_price": 2137.0,
+        "low_price": 2075.0,
+        "close_price": 2090.0,
+        "volume": 8450184.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250826,
+        "open_price": 2100.0,
+        "high_price": 2100.0,
+        "low_price": 2100.0,
+        "close_price": 2139.0,
+        "volume": 2662687.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250825,
+        "open_price": 2120.0,
+        "high_price": 2180.0,
+        "low_price": 2107.0,
+        "close_price": 2164.0,
+        "volume": 864544.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250823,
+        "open_price": 2120.0,
+        "high_price": 2205.0,
+        "low_price": 2120.0,
+        "close_price": 2172.0,
+        "volume": 1893994.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250820,
+        "open_price": 2243.0,
+        "high_price": 2243.0,
+        "low_price": 2126.0,
+        "close_price": 2185.0,
+        "volume": 2410141.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250819,
+        "open_price": 2132.0,
+        "high_price": 2224.0,
+        "low_price": 2132.0,
+        "close_price": 2178.0,
+        "volume": 3309528.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250818,
+        "open_price": 2206.0,
+        "high_price": 2206.0,
+        "low_price": 2150.0,
+        "close_price": 2160.0,
+        "volume": 4534726.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250817,
+        "open_price": 2155.0,
+        "high_price": 2160.0,
+        "low_price": 2072.0,
+        "close_price": 2143.0,
+        "volume": 5239441.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250816,
+        "open_price": 2053.0,
+        "high_price": 2175.0,
+        "low_price": 2053.0,
+        "close_price": 2098.0,
+        "volume": 9456628.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250813,
+        "open_price": 2055.0,
+        "high_price": 2055.0,
+        "low_price": 2055.0,
+        "close_price": 2116.0,
+        "volume": 259933.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250812,
+        "open_price": 2080.0,
+        "high_price": 2080.0,
+        "low_price": 2067.0,
+        "close_price": 2118.0,
+        "volume": 1359388.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250811,
+        "open_price": 2134.0,
+        "high_price": 2134.0,
+        "low_price": 2088.0,
+        "close_price": 2130.0,
+        "volume": 2361609.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250810,
+        "open_price": 2136.0,
+        "high_price": 2140.0,
+        "low_price": 2119.0,
+        "close_price": 2152.0,
+        "volume": 3452786.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250809,
+        "open_price": 2147.0,
+        "high_price": 2264.0,
+        "low_price": 2136.0,
+        "close_price": 2184.0,
+        "volume": 3125609.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250806,
+        "open_price": 2191.0,
+        "high_price": 2235.0,
+        "low_price": 2191.0,
+        "close_price": 2199.0,
+        "volume": 10971259.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250805,
+        "open_price": 2350.0,
+        "high_price": 2350.0,
+        "low_price": 2235.0,
+        "close_price": 2258.0,
+        "volume": 6180655.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250804,
+        "open_price": 2395.0,
+        "high_price": 2395.0,
+        "low_price": 2268.0,
+        "close_price": 2304.0,
+        "volume": 6510336.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250803,
+        "open_price": 2430.0,
+        "high_price": 2430.0,
+        "low_price": 2297.0,
+        "close_price": 2328.0,
+        "volume": 11272396.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250802,
+        "open_price": 2354.0,
+        "high_price": 2391.0,
+        "low_price": 2354.0,
+        "close_price": 2362.0,
+        "volume": 14324757.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250730,
+        "open_price": 2356.0,
+        "high_price": 2356.0,
+        "low_price": 2356.0,
+        "close_price": 2426.0,
+        "volume": 172901.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250729,
+        "open_price": 2368.0,
+        "high_price": 2368.0,
+        "low_price": 2368.0,
+        "close_price": 2428.0,
+        "volume": 1042334.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250728,
+        "open_price": 2453.0,
+        "high_price": 2453.0,
+        "low_price": 2441.0,
+        "close_price": 2441.0,
+        "volume": 8596810.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250727,
+        "open_price": 2567.0,
+        "high_price": 2615.0,
+        "low_price": 2490.0,
+        "close_price": 2516.0,
+        "volume": 12864315.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250726,
+        "open_price": 2552.0,
+        "high_price": 2630.0,
+        "low_price": 2534.0,
+        "close_price": 2567.0,
+        "volume": 10005856.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250723,
+        "open_price": 2727.0,
+        "high_price": 2727.0,
+        "low_price": 2612.0,
+        "close_price": 2612.0,
+        "volume": 17763230.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250722,
+        "open_price": 2730.0,
+        "high_price": 2758.0,
+        "low_price": 2670.0,
+        "close_price": 2692.0,
+        "volume": 3798890.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250721,
+        "open_price": 2717.0,
+        "high_price": 2717.0,
+        "low_price": 2678.0,
+        "close_price": 2696.0,
+        "volume": 11734095.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250720,
+        "open_price": 2707.0,
+        "high_price": 2775.0,
+        "low_price": 2669.0,
+        "close_price": 2692.0,
+        "volume": 16879419.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250719,
+        "open_price": 2783.0,
+        "high_price": 2784.0,
+        "low_price": 2731.0,
+        "close_price": 2751.0,
+        "volume": 8265453.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250716,
+        "open_price": 2731.0,
+        "high_price": 2824.0,
+        "low_price": 2700.0,
+        "close_price": 2784.0,
+        "volume": 7833855.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250715,
+        "open_price": 2789.0,
+        "high_price": 2849.0,
+        "low_price": 2720.0,
+        "close_price": 2783.0,
+        "volume": 9369955.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250714,
+        "open_price": 2850.0,
+        "high_price": 2871.0,
+        "low_price": 2765.0,
+        "close_price": 2804.0,
+        "volume": 8306808.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250713,
+        "open_price": 2801.0,
+        "high_price": 2870.0,
+        "low_price": 2741.0,
+        "close_price": 2788.0,
+        "volume": 14539911.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250712,
+        "open_price": 2850.0,
+        "high_price": 2889.0,
+        "low_price": 2786.0,
+        "close_price": 2825.0,
+        "volume": 18070541.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250709,
+        "open_price": 2872.0,
+        "high_price": 2872.0,
+        "low_price": 2872.0,
+        "close_price": 2872.0,
+        "volume": 7967681.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250708,
+        "open_price": 2885.0,
+        "high_price": 2886.0,
+        "low_price": 2885.0,
+        "close_price": 2960.0,
+        "volume": 777597.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250707,
+        "open_price": 2976.0,
+        "high_price": 3084.0,
+        "low_price": 2970.0,
+        "close_price": 2974.0,
+        "volume": 21696285.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250702,
+        "open_price": 3058.0,
+        "high_price": 3159.0,
+        "low_price": 3058.0,
+        "close_price": 3061.0,
+        "volume": 117324874.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250701,
+        "open_price": 3072.0,
+        "high_price": 3072.0,
+        "low_price": 3072.0,
+        "close_price": 3152.0,
+        "volume": 698962.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250630,
+        "open_price": 3164.0,
+        "high_price": 3164.0,
+        "low_price": 3164.0,
+        "close_price": 3166.0,
+        "volume": 4524412.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250629,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3261.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250628,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3296.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3296.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3296.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3296.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3296.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3296.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3296.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3296.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3296.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250611,
+        "open_price": 3253.0,
+        "high_price": 3253.0,
+        "low_price": 3253.0,
+        "close_price": 3296.0,
+        "volume": 2462873.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250610,
+        "open_price": 3280.0,
+        "high_price": 3280.0,
+        "low_price": 3280.0,
+        "close_price": 3353.0,
+        "volume": 1207828.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250609,
+        "open_price": 3288.0,
+        "high_price": 3288.0,
+        "low_price": 3288.0,
+        "close_price": 3381.0,
+        "volume": 322186.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250608,
+        "open_price": 3317.0,
+        "high_price": 3317.0,
+        "low_price": 3317.0,
+        "close_price": 3389.0,
+        "volume": 1277261.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250607,
+        "open_price": 3367.0,
+        "high_price": 3367.0,
+        "low_price": 3367.0,
+        "close_price": 3419.0,
+        "volume": 2162127.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250603,
+        "open_price": 3406.0,
+        "high_price": 3406.0,
+        "low_price": 3406.0,
+        "close_price": 3471.0,
+        "volume": 1546489.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250602,
+        "open_price": 3476.0,
+        "high_price": 3476.0,
+        "low_price": 3476.0,
+        "close_price": 3511.0,
+        "volume": 2710060.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250601,
+        "open_price": 3517.0,
+        "high_price": 3517.0,
+        "low_price": 3517.0,
+        "close_price": 3583.0,
+        "volume": 1572125.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250531,
+        "open_price": 3625.0,
+        "high_price": 3625.0,
+        "low_price": 3625.0,
+        "close_price": 3625.0,
+        "volume": 4403135.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250528,
+        "open_price": 3667.0,
+        "high_price": 3667.0,
+        "low_price": 3667.0,
+        "close_price": 3737.0,
+        "volume": 1443336.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250527,
+        "open_price": 3689.0,
+        "high_price": 3689.0,
+        "low_price": 3689.0,
+        "close_price": 3780.0,
+        "volume": 757449.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250526,
+        "open_price": 3696.0,
+        "high_price": 3696.0,
+        "low_price": 3696.0,
+        "close_price": 3803.0,
+        "volume": 241826.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250525,
+        "open_price": 3713.0,
+        "high_price": 3713.0,
+        "low_price": 3713.0,
+        "close_price": 3810.0,
+        "volume": 563480.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250524,
+        "open_price": 3817.0,
+        "high_price": 3817.0,
+        "low_price": 3817.0,
+        "close_price": 3827.0,
+        "volume": 3478335.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250521,
+        "open_price": 3860.0,
+        "high_price": 3860.0,
+        "low_price": 3860.0,
+        "close_price": 3935.0,
+        "volume": 1419924.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250520,
+        "open_price": 3873.0,
+        "high_price": 3873.0,
+        "low_price": 3873.0,
+        "close_price": 3979.0,
+        "volume": 428691.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250519,
+        "open_price": 3927.0,
+        "high_price": 3927.0,
+        "low_price": 3927.0,
+        "close_price": 3992.0,
+        "volume": 1763343.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250518,
+        "open_price": 4053.0,
+        "high_price": 4053.0,
+        "low_price": 4053.0,
+        "close_price": 4048.0,
+        "volume": 3640356.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3935.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250514,
+        "open_price": 3935.0,
+        "high_price": 3935.0,
+        "low_price": 3911.0,
+        "close_price": 3935.0,
+        "volume": 30622151.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250513,
+        "open_price": 3821.0,
+        "high_price": 3821.0,
+        "low_price": 3800.0,
+        "close_price": 3821.0,
+        "volume": 13764083.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250512,
+        "open_price": 3782.0,
+        "high_price": 3782.0,
+        "low_price": 3782.0,
+        "close_price": 3710.0,
+        "volume": 1329170.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250511,
+        "open_price": 3668.0,
+        "high_price": 3745.0,
+        "low_price": 3668.0,
+        "close_price": 3672.0,
+        "volume": 6381216.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250510,
+        "open_price": 3892.0,
+        "high_price": 3892.0,
+        "low_price": 3776.0,
+        "close_price": 3781.0,
+        "volume": 6688063.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250507,
+        "open_price": 3899.0,
+        "high_price": 3901.0,
+        "low_price": 3824.0,
+        "close_price": 3892.0,
+        "volume": 14892086.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250506,
+        "open_price": 3699.0,
+        "high_price": 3788.0,
+        "low_price": 3699.0,
+        "close_price": 3788.0,
+        "volume": 15266257.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250505,
+        "open_price": 3606.0,
+        "high_price": 3735.0,
+        "low_price": 3600.0,
+        "close_price": 3678.0,
+        "volume": 5625803.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250504,
+        "open_price": 3669.0,
+        "high_price": 3750.0,
+        "low_price": 3610.0,
+        "close_price": 3655.0,
+        "volume": 9909196.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250503,
+        "open_price": 3692.0,
+        "high_price": 3839.0,
+        "low_price": 3692.0,
+        "close_price": 3696.0,
+        "volume": 12695476.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250430,
+        "open_price": 3813.0,
+        "high_price": 3813.0,
+        "low_price": 3702.0,
+        "close_price": 3806.0,
+        "volume": 22902711.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250429,
+        "open_price": 3600.0,
+        "high_price": 3709.0,
+        "low_price": 3540.0,
+        "close_price": 3702.0,
+        "volume": 17263456.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250428,
+        "open_price": 3511.0,
+        "high_price": 3712.0,
+        "low_price": 3511.0,
+        "close_price": 3601.0,
+        "volume": 4528474.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250427,
+        "open_price": 3590.0,
+        "high_price": 3650.0,
+        "low_price": 3590.0,
+        "close_price": 3604.0,
+        "volume": 13902055.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250426,
+        "open_price": 3754.0,
+        "high_price": 3754.0,
+        "low_price": 3609.0,
+        "close_price": 3701.0,
+        "volume": 14799787.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250423,
+        "open_price": 3789.0,
+        "high_price": 3789.0,
+        "low_price": 3624.0,
+        "close_price": 3645.0,
+        "volume": 27035653.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250422,
+        "open_price": 3760.0,
+        "high_price": 3760.0,
+        "low_price": 3652.0,
+        "close_price": 3736.0,
+        "volume": 31524299.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250421,
+        "open_price": 3651.0,
+        "high_price": 3651.0,
+        "low_price": 3651.0,
+        "close_price": 3651.0,
+        "volume": 4443556.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250420,
+        "open_price": 3545.0,
+        "high_price": 3545.0,
+        "low_price": 3545.0,
+        "close_price": 3545.0,
+        "volume": 4436849.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250419,
+        "open_price": 3480.0,
+        "high_price": 3480.0,
+        "low_price": 3480.0,
+        "close_price": 3442.0,
+        "volume": 2775442.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250416,
+        "open_price": 3259.0,
+        "high_price": 3399.0,
+        "low_price": 3259.0,
+        "close_price": 3379.0,
+        "volume": 13220162.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250415,
+        "open_price": 3303.0,
+        "high_price": 3303.0,
+        "low_price": 3241.0,
+        "close_price": 3300.0,
+        "volume": 33985113.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250414,
+        "open_price": 3218.0,
+        "high_price": 3218.0,
+        "low_price": 3218.0,
+        "close_price": 3207.0,
+        "volume": 4311057.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250413,
+        "open_price": 3139.0,
+        "high_price": 3139.0,
+        "low_price": 3139.0,
+        "close_price": 3125.0,
+        "volume": 4176144.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250412,
+        "open_price": 3050.0,
+        "high_price": 3098.0,
+        "low_price": 3002.0,
+        "close_price": 3048.0,
+        "volume": 3886172.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250409,
+        "open_price": 3075.0,
+        "high_price": 3075.0,
+        "low_price": 2944.0,
+        "close_price": 3052.0,
+        "volume": 9776952.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250408,
+        "open_price": 2974.0,
+        "high_price": 2988.0,
+        "low_price": 2974.0,
+        "close_price": 2986.0,
+        "volume": 4895805.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250407,
+        "open_price": 2963.0,
+        "high_price": 2963.0,
+        "low_price": 2891.0,
+        "close_price": 2901.0,
+        "volume": 4960263.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250406,
+        "open_price": 2891.0,
+        "high_price": 3027.0,
+        "low_price": 2891.0,
+        "close_price": 2980.0,
+        "volume": 4981058.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250405,
+        "open_price": 2942.0,
+        "high_price": 3050.0,
+        "low_price": 2911.0,
+        "close_price": 2959.0,
+        "volume": 4806273.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250330,
+        "open_price": 2991.0,
+        "high_price": 3050.0,
+        "low_price": 2957.0,
+        "close_price": 3001.0,
+        "volume": 4635534.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250329,
+        "open_price": 3090.0,
+        "high_price": 3090.0,
+        "low_price": 2991.0,
+        "close_price": 2995.0,
+        "volume": 7242207.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250326,
+        "open_price": 3103.0,
+        "high_price": 3199.0,
+        "low_price": 3040.0,
+        "close_price": 3083.0,
+        "volume": 5696616.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250325,
+        "open_price": 3081.0,
+        "high_price": 3227.0,
+        "low_price": 3081.0,
+        "close_price": 3133.0,
+        "volume": 7141087.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250318,
+        "open_price": 3132.0,
+        "high_price": 3132.0,
+        "low_price": 3132.0,
+        "close_price": 3176.0,
+        "volume": 2584107.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250317,
+        "open_price": 3252.0,
+        "high_price": 3252.0,
+        "low_price": 3080.0,
+        "close_price": 3228.0,
+        "volume": 20705548.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3158.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5240.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250312,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5240.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250311,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5240.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250310,
+        "open_price": 5350.0,
+        "high_price": 5490.0,
+        "low_price": 5210.0,
+        "close_price": 5240.0,
+        "volume": 6023172.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250309,
+        "open_price": 5380.0,
+        "high_price": 5400.0,
+        "low_price": 5370.0,
+        "close_price": 5370.0,
+        "volume": 8610345.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250308,
+        "open_price": 5450.0,
+        "high_price": 5770.0,
+        "low_price": 5450.0,
+        "close_price": 5530.0,
+        "volume": 9571827.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250305,
+        "open_price": 5620.0,
+        "high_price": 5770.0,
+        "low_price": 5610.0,
+        "close_price": 5610.0,
+        "volume": 10918459.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250304,
+        "open_price": 5590.0,
+        "high_price": 5930.0,
+        "low_price": 5590.0,
+        "close_price": 5780.0,
+        "volume": 13062906.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250303,
+        "open_price": 5680.0,
+        "high_price": 5680.0,
+        "low_price": 5680.0,
+        "close_price": 5760.0,
+        "volume": 1336602.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250302,
+        "open_price": 5860.0,
+        "high_price": 5980.0,
+        "low_price": 5700.0,
+        "close_price": 5850.0,
+        "volume": 2484145.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250301,
+        "open_price": 6120.0,
+        "high_price": 6120.0,
+        "low_price": 5820.0,
+        "close_price": 5870.0,
+        "volume": 3289791.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250226,
+        "open_price": 6010.0,
+        "high_price": 6140.0,
+        "low_price": 5840.0,
+        "close_price": 5990.0,
+        "volume": 2919963.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250225,
+        "open_price": 5990.0,
+        "high_price": 5990.0,
+        "low_price": 5900.0,
+        "close_price": 5990.0,
+        "volume": 6274173.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250224,
+        "open_price": 5920.0,
+        "high_price": 5920.0,
+        "low_price": 5920.0,
+        "close_price": 5820.0,
+        "volume": 1068226.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250223,
+        "open_price": 5800.0,
+        "high_price": 5820.0,
+        "low_price": 5710.0,
+        "close_price": 5750.0,
+        "volume": 1438823.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250222,
+        "open_price": 5900.0,
+        "high_price": 5900.0,
+        "low_price": 5650.0,
+        "close_price": 5660.0,
+        "volume": 3694349.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250219,
+        "open_price": 6060.0,
+        "high_price": 6060.0,
+        "low_price": 5810.0,
+        "close_price": 5820.0,
+        "volume": 5583317.0
+    },
+    {
+        "symbol": "خشرق",
+        "trade_date": 20250218,
+        "open_price": 5990.0,
+        "high_price": 6210.0,
+        "low_price": 5900.0,
+        "close_price": 5980.0,
+        "volume": 2255582.0
+    }
+]

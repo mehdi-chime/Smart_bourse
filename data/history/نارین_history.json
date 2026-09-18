@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "نارین",
+        "trade_date": 20260901,
+        "open_price": 26860.0,
+        "high_price": 27014.0,
+        "low_price": 26300.0,
+        "close_price": 26762.0,
+        "volume": 29533563.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260831,
+        "open_price": 26073.0,
+        "high_price": 26385.0,
+        "low_price": 26070.0,
+        "close_price": 26228.0,
+        "volume": 347591.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260829,
+        "open_price": 25960.0,
+        "high_price": 26230.0,
+        "low_price": 25690.0,
+        "close_price": 26073.0,
+        "volume": 121337.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260826,
+        "open_price": 25025.0,
+        "high_price": 25650.0,
+        "low_price": 25025.0,
+        "close_price": 25576.0,
+        "volume": 453367.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260825,
+        "open_price": 24795.0,
+        "high_price": 25154.0,
+        "low_price": 24795.0,
+        "close_price": 25022.0,
+        "volume": 78970.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260824,
+        "open_price": 24960.0,
+        "high_price": 25230.0,
+        "low_price": 24510.0,
+        "close_price": 24785.0,
+        "volume": 124765.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260823,
+        "open_price": 25775.0,
+        "high_price": 25775.0,
+        "low_price": 24500.0,
+        "close_price": 24951.0,
+        "volume": 1129508.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260822,
+        "open_price": 25000.0,
+        "high_price": 25086.0,
+        "low_price": 24750.0,
+        "close_price": 25025.0,
+        "volume": 6313769.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260819,
+        "open_price": 24180.0,
+        "high_price": 24720.0,
+        "low_price": 23840.0,
+        "close_price": 24356.0,
+        "volume": 4415574.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260818,
+        "open_price": 25180.0,
+        "high_price": 25180.0,
+        "low_price": 23818.0,
+        "close_price": 24540.0,
+        "volume": 7717180.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260817,
+        "open_price": 24500.0,
+        "high_price": 24500.0,
+        "low_price": 24259.0,
+        "close_price": 24456.0,
+        "volume": 8128270.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260816,
+        "open_price": 23600.0,
+        "high_price": 24000.0,
+        "low_price": 23470.0,
+        "close_price": 23787.0,
+        "volume": 2317220.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260815,
+        "open_price": 23900.0,
+        "high_price": 23900.0,
+        "low_price": 23540.0,
+        "close_price": 23678.0,
+        "volume": 4254911.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260811,
+        "open_price": 23285.0,
+        "high_price": 23653.0,
+        "low_price": 23285.0,
+        "close_price": 23502.0,
+        "volume": 936164.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260810,
+        "open_price": 22830.0,
+        "high_price": 23400.0,
+        "low_price": 22830.0,
+        "close_price": 23279.0,
+        "volume": 298951.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260809,
+        "open_price": 23252.0,
+        "high_price": 23252.0,
+        "low_price": 22576.0,
+        "close_price": 22742.0,
+        "volume": 6518079.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260808,
+        "open_price": 22634.0,
+        "high_price": 22635.0,
+        "low_price": 22241.0,
+        "close_price": 22576.0,
+        "volume": 2089246.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260805,
+        "open_price": 22088.0,
+        "high_price": 22088.0,
+        "low_price": 21810.0,
+        "close_price": 21976.0,
+        "volume": 2250991.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260803,
+        "open_price": 21520.0,
+        "high_price": 21559.0,
+        "low_price": 21420.0,
+        "close_price": 21445.0,
+        "volume": 6047150.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260802,
+        "open_price": 20898.0,
+        "high_price": 21160.0,
+        "low_price": 20850.0,
+        "close_price": 20932.0,
+        "volume": 4479948.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260801,
+        "open_price": 20580.0,
+        "high_price": 20580.0,
+        "low_price": 20560.0,
+        "close_price": 20563.0,
+        "volume": 6500.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260729,
+        "open_price": 20945.0,
+        "high_price": 20945.0,
+        "low_price": 20556.0,
+        "close_price": 20560.0,
+        "volume": 4832259.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260728,
+        "open_price": 20950.0,
+        "high_price": 21450.0,
+        "low_price": 20900.0,
+        "close_price": 20932.0,
+        "volume": 451253.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260727,
+        "open_price": 21017.0,
+        "high_price": 21017.0,
+        "low_price": 20420.0,
+        "close_price": 20828.0,
+        "volume": 56593.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260726,
+        "open_price": 20986.0,
+        "high_price": 20987.0,
+        "low_price": 20400.0,
+        "close_price": 20406.0,
+        "volume": 5318945.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260725,
+        "open_price": 19864.0,
+        "high_price": 20436.0,
+        "low_price": 19864.0,
+        "close_price": 20376.0,
+        "volume": 4825.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260722,
+        "open_price": 20380.0,
+        "high_price": 20380.0,
+        "low_price": 19840.0,
+        "close_price": 19841.0,
+        "volume": 10373440.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260721,
+        "open_price": 20401.0,
+        "high_price": 20401.0,
+        "low_price": 20320.0,
+        "close_price": 20359.0,
+        "volume": 938.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260720,
+        "open_price": 19500.0,
+        "high_price": 19824.0,
+        "low_price": 19400.0,
+        "close_price": 19808.0,
+        "volume": 20708.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260719,
+        "open_price": 18843.0,
+        "high_price": 19370.0,
+        "low_price": 18843.0,
+        "close_price": 19247.0,
+        "volume": 6000.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260718,
+        "open_price": 18950.0,
+        "high_price": 18950.0,
+        "low_price": 18723.0,
+        "close_price": 18843.0,
+        "volume": 507344.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260715,
+        "open_price": 19330.0,
+        "high_price": 19330.0,
+        "low_price": 19275.0,
+        "close_price": 19302.0,
+        "volume": 90000.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260714,
+        "open_price": 19300.0,
+        "high_price": 19886.0,
+        "low_price": 19300.0,
+        "close_price": 19330.0,
+        "volume": 124899.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260713,
+        "open_price": 19870.0,
+        "high_price": 19888.0,
+        "low_price": 19650.0,
+        "close_price": 19888.0,
+        "volume": 12501136.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260712,
+        "open_price": 20000.0,
+        "high_price": 20000.0,
+        "low_price": 19780.0,
+        "close_price": 19871.0,
+        "volume": 110262.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260711,
+        "open_price": 20388.0,
+        "high_price": 20450.0,
+        "low_price": 20385.0,
+        "close_price": 20391.0,
+        "volume": 94771.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260708,
+        "open_price": 20588.0,
+        "high_price": 20640.0,
+        "low_price": 19971.0,
+        "close_price": 20388.0,
+        "volume": 575425.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260707,
+        "open_price": 20570.0,
+        "high_price": 20590.0,
+        "low_price": 20500.0,
+        "close_price": 20588.0,
+        "volume": 7896052.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260701,
+        "open_price": 19796.0,
+        "high_price": 20311.0,
+        "low_price": 19250.0,
+        "close_price": 19991.0,
+        "volume": 612227.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260630,
+        "open_price": 19780.0,
+        "high_price": 19915.0,
+        "low_price": 19256.0,
+        "close_price": 19796.0,
+        "volume": 1017961.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260629,
+        "open_price": 19775.0,
+        "high_price": 19775.0,
+        "low_price": 19775.0,
+        "close_price": 19775.0,
+        "volume": 32247.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260628,
+        "open_price": 19910.0,
+        "high_price": 19910.0,
+        "low_price": 19320.0,
+        "close_price": 19775.0,
+        "volume": 123132.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260627,
+        "open_price": 19950.0,
+        "high_price": 19950.0,
+        "low_price": 19365.0,
+        "close_price": 19917.0,
+        "volume": 11103891.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260623,
+        "open_price": 19576.0,
+        "high_price": 20108.0,
+        "low_price": 19530.0,
+        "close_price": 19927.0,
+        "volume": 1511659.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260622,
+        "open_price": 19997.0,
+        "high_price": 19997.0,
+        "low_price": 19398.0,
+        "close_price": 19576.0,
+        "volume": 6963085.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260621,
+        "open_price": 19801.0,
+        "high_price": 20113.0,
+        "low_price": 19207.0,
+        "close_price": 19997.0,
+        "volume": 9014114.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260620,
+        "open_price": 20340.0,
+        "high_price": 20340.0,
+        "low_price": 19285.0,
+        "close_price": 19801.0,
+        "volume": 18899739.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260617,
+        "open_price": 20290.0,
+        "high_price": 20340.0,
+        "low_price": 19677.0,
+        "close_price": 19881.0,
+        "volume": 6717250.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260616,
+        "open_price": 20502.0,
+        "high_price": 20502.0,
+        "low_price": 19905.0,
+        "close_price": 20285.0,
+        "volume": 12630104.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260615,
+        "open_price": 19905.0,
+        "high_price": 19905.0,
+        "low_price": 19905.0,
+        "close_price": 19905.0,
+        "volume": 3600939.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260614,
+        "open_price": 19326.0,
+        "high_price": 19326.0,
+        "low_price": 19326.0,
+        "close_price": 19326.0,
+        "volume": 1097873.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260613,
+        "open_price": 18322.0,
+        "high_price": 18800.0,
+        "low_price": 18322.0,
+        "close_price": 18764.0,
+        "volume": 16486235.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260610,
+        "open_price": 17800.0,
+        "high_price": 18327.0,
+        "low_price": 17800.0,
+        "close_price": 18253.0,
+        "volume": 1427056.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260609,
+        "open_price": 17730.0,
+        "high_price": 18047.0,
+        "low_price": 17540.0,
+        "close_price": 17794.0,
+        "volume": 10091178.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260608,
+        "open_price": 17730.0,
+        "high_price": 17731.0,
+        "low_price": 17199.0,
+        "close_price": 17522.0,
+        "volume": 11219227.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260607,
+        "open_price": 17663.0,
+        "high_price": 17950.0,
+        "low_price": 17663.0,
+        "close_price": 17730.0,
+        "volume": 4053664.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260606,
+        "open_price": 17415.0,
+        "high_price": 17663.0,
+        "low_price": 17021.0,
+        "close_price": 17613.0,
+        "volume": 10609172.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260603,
+        "open_price": 17500.0,
+        "high_price": 17501.0,
+        "low_price": 16990.0,
+        "close_price": 17410.0,
+        "volume": 1589087.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260602,
+        "open_price": 17550.0,
+        "high_price": 17890.0,
+        "low_price": 16944.0,
+        "close_price": 17452.0,
+        "volume": 1473464.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260601,
+        "open_price": 17584.0,
+        "high_price": 17585.0,
+        "low_price": 17130.0,
+        "close_price": 17468.0,
+        "volume": 1406769.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260531,
+        "open_price": 16800.0,
+        "high_price": 17165.0,
+        "low_price": 16800.0,
+        "close_price": 17073.0,
+        "volume": 1922318.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260530,
+        "open_price": 17239.0,
+        "high_price": 17239.0,
+        "low_price": 16500.0,
+        "close_price": 16666.0,
+        "volume": 24808758.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260526,
+        "open_price": 16960.0,
+        "high_price": 16961.0,
+        "low_price": 16450.0,
+        "close_price": 16737.0,
+        "volume": 1746474.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260525,
+        "open_price": 15991.0,
+        "high_price": 16468.0,
+        "low_price": 15991.0,
+        "close_price": 16467.0,
+        "volume": 1200037.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260524,
+        "open_price": 15945.0,
+        "high_price": 16418.0,
+        "low_price": 15941.0,
+        "close_price": 15989.0,
+        "volume": 7480653.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260523,
+        "open_price": 15955.0,
+        "high_price": 15955.0,
+        "low_price": 15935.0,
+        "close_price": 15940.0,
+        "volume": 8346515.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260520,
+        "open_price": 15935.0,
+        "high_price": 15965.0,
+        "low_price": 15935.0,
+        "close_price": 15935.0,
+        "volume": 15778826.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260519,
+        "open_price": 15520.0,
+        "high_price": 16080.0,
+        "low_price": 15520.0,
+        "close_price": 15935.0,
+        "volume": 633610.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260225,
+        "open_price": 16000.0,
+        "high_price": 16000.0,
+        "low_price": 16000.0,
+        "close_price": 16000.0,
+        "volume": 20.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260224,
+        "open_price": 15720.0,
+        "high_price": 15800.0,
+        "low_price": 15690.0,
+        "close_price": 15698.0,
+        "volume": 13100.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260223,
+        "open_price": 15740.0,
+        "high_price": 15740.0,
+        "low_price": 15490.0,
+        "close_price": 15735.0,
+        "volume": 1020.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260222,
+        "open_price": 15500.0,
+        "high_price": 15500.0,
+        "low_price": 15320.0,
+        "close_price": 15345.0,
+        "volume": 831.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260221,
+        "open_price": 16090.0,
+        "high_price": 16090.0,
+        "low_price": 15790.0,
+        "close_price": 15790.0,
+        "volume": 430277.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260218,
+        "open_price": 16500.0,
+        "high_price": 16500.0,
+        "low_price": 16100.0,
+        "close_price": 16270.0,
+        "volume": 105922.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260217,
+        "open_price": 16300.0,
+        "high_price": 16520.0,
+        "low_price": 16300.0,
+        "close_price": 16380.0,
+        "volume": 171.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260216,
+        "open_price": 16390.0,
+        "high_price": 16390.0,
+        "low_price": 16370.0,
+        "close_price": 16380.0,
+        "volume": 4067.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260215,
+        "open_price": 16490.0,
+        "high_price": 16490.0,
+        "low_price": 16370.0,
+        "close_price": 16370.0,
+        "volume": 4125162.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260214,
+        "open_price": 17200.0,
+        "high_price": 17200.0,
+        "low_price": 16500.0,
+        "close_price": 16660.0,
+        "volume": 20535.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260210,
+        "open_price": 16800.0,
+        "high_price": 17100.0,
+        "low_price": 16800.0,
+        "close_price": 16800.0,
+        "volume": 4161743.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260209,
+        "open_price": 17000.0,
+        "high_price": 17030.0,
+        "low_price": 16700.0,
+        "close_price": 16900.0,
+        "volume": 267362.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260208,
+        "open_price": 17080.0,
+        "high_price": 17300.0,
+        "low_price": 16900.0,
+        "close_price": 17070.0,
+        "volume": 11894106.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260207,
+        "open_price": 16800.0,
+        "high_price": 17140.0,
+        "low_price": 16800.0,
+        "close_price": 17070.0,
+        "volume": 2348599.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260203,
+        "open_price": 17080.0,
+        "high_price": 17080.0,
+        "low_price": 16610.0,
+        "close_price": 16740.0,
+        "volume": 709528.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260202,
+        "open_price": 16420.0,
+        "high_price": 16660.0,
+        "low_price": 16380.0,
+        "close_price": 16600.0,
+        "volume": 15085495.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260201,
+        "open_price": 16500.0,
+        "high_price": 16500.0,
+        "low_price": 16170.0,
+        "close_price": 16180.0,
+        "volume": 5193.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260131,
+        "open_price": 15930.0,
+        "high_price": 16080.0,
+        "low_price": 15930.0,
+        "close_price": 16080.0,
+        "volume": 2020.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260128,
+        "open_price": 15950.0,
+        "high_price": 16400.0,
+        "low_price": 15950.0,
+        "close_price": 16380.0,
+        "volume": 3932.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260127,
+        "open_price": 16410.0,
+        "high_price": 16410.0,
+        "low_price": 16410.0,
+        "close_price": 16410.0,
+        "volume": 146.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260126,
+        "open_price": 16890.0,
+        "high_price": 16890.0,
+        "low_price": 16890.0,
+        "close_price": 16890.0,
+        "volume": 25311.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260125,
+        "open_price": 17420.0,
+        "high_price": 17420.0,
+        "low_price": 17410.0,
+        "close_price": 17410.0,
+        "volume": 240.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260124,
+        "open_price": 17980.0,
+        "high_price": 17980.0,
+        "low_price": 17330.0,
+        "close_price": 17900.0,
+        "volume": 294921.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260121,
+        "open_price": 18240.0,
+        "high_price": 18240.0,
+        "low_price": 17860.0,
+        "close_price": 17860.0,
+        "volume": 3023632.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260120,
+        "open_price": 18000.0,
+        "high_price": 18350.0,
+        "low_price": 17990.0,
+        "close_price": 17990.0,
+        "volume": 5766382.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260119,
+        "open_price": 18330.0,
+        "high_price": 18330.0,
+        "low_price": 17910.0,
+        "close_price": 18020.0,
+        "volume": 5929792.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260118,
+        "open_price": 17720.0,
+        "high_price": 18080.0,
+        "low_price": 17720.0,
+        "close_price": 17930.0,
+        "volume": 5594063.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260114,
+        "open_price": 17470.0,
+        "high_price": 17820.0,
+        "low_price": 17460.0,
+        "close_price": 17560.0,
+        "volume": 9591755.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260113,
+        "open_price": 18300.0,
+        "high_price": 18350.0,
+        "low_price": 18000.0,
+        "close_price": 18000.0,
+        "volume": 818457.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260112,
+        "open_price": 18030.0,
+        "high_price": 18030.0,
+        "low_price": 18000.0,
+        "close_price": 18030.0,
+        "volume": 8152069.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260111,
+        "open_price": 16810.0,
+        "high_price": 17660.0,
+        "low_price": 16810.0,
+        "close_price": 17510.0,
+        "volume": 907395.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260110,
+        "open_price": 17510.0,
+        "high_price": 17900.0,
+        "low_price": 17100.0,
+        "close_price": 17150.0,
+        "volume": 3185473.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260107,
+        "open_price": 17480.0,
+        "high_price": 17800.0,
+        "low_price": 17480.0,
+        "close_price": 17620.0,
+        "volume": 14987357.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260106,
+        "open_price": 17330.0,
+        "high_price": 17440.0,
+        "low_price": 17250.0,
+        "close_price": 17330.0,
+        "volume": 4074333.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260105,
+        "open_price": 16700.0,
+        "high_price": 17060.0,
+        "low_price": 16700.0,
+        "close_price": 16950.0,
+        "volume": 22365041.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20260104,
+        "open_price": 17020.0,
+        "high_price": 17020.0,
+        "low_price": 16600.0,
+        "close_price": 16600.0,
+        "volume": 3019964.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251231,
+        "open_price": 16470.0,
+        "high_price": 16840.0,
+        "low_price": 16470.0,
+        "close_price": 16730.0,
+        "volume": 9791.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251230,
+        "open_price": 16700.0,
+        "high_price": 17010.0,
+        "low_price": 16450.0,
+        "close_price": 16690.0,
+        "volume": 30812.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251229,
+        "open_price": 17060.0,
+        "high_price": 17060.0,
+        "low_price": 16920.0,
+        "close_price": 16920.0,
+        "volume": 2969701.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251228,
+        "open_price": 17190.0,
+        "high_price": 17190.0,
+        "low_price": 16840.0,
+        "close_price": 16850.0,
+        "volume": 3259440.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251227,
+        "open_price": 16560.0,
+        "high_price": 16780.0,
+        "low_price": 16560.0,
+        "close_price": 16700.0,
+        "volume": 2527775.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251224,
+        "open_price": 16290.0,
+        "high_price": 16310.0,
+        "low_price": 16150.0,
+        "close_price": 16300.0,
+        "volume": 3115733.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251223,
+        "open_price": 15960.0,
+        "high_price": 16000.0,
+        "low_price": 15800.0,
+        "close_price": 16000.0,
+        "volume": 4133170.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251222,
+        "open_price": 16230.0,
+        "high_price": 16550.0,
+        "low_price": 15700.0,
+        "close_price": 15770.0,
+        "volume": 29303692.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251221,
+        "open_price": 16030.0,
+        "high_price": 16080.0,
+        "low_price": 16030.0,
+        "close_price": 16080.0,
+        "volume": 14778.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251220,
+        "open_price": 15400.0,
+        "high_price": 15620.0,
+        "low_price": 15300.0,
+        "close_price": 15620.0,
+        "volume": 2500205.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251217,
+        "open_price": 15400.0,
+        "high_price": 15400.0,
+        "low_price": 15140.0,
+        "close_price": 15170.0,
+        "volume": 991.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251216,
+        "open_price": 15620.0,
+        "high_price": 15620.0,
+        "low_price": 15320.0,
+        "close_price": 15470.0,
+        "volume": 3000120.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251215,
+        "open_price": 15000.0,
+        "high_price": 15300.0,
+        "low_price": 15000.0,
+        "close_price": 15180.0,
+        "volume": 686.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251214,
+        "open_price": 15180.0,
+        "high_price": 15180.0,
+        "low_price": 15000.0,
+        "close_price": 15160.0,
+        "volume": 2003144.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251213,
+        "open_price": 14870.0,
+        "high_price": 15030.0,
+        "low_price": 14700.0,
+        "close_price": 14970.0,
+        "volume": 2001281.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251210,
+        "open_price": 14720.0,
+        "high_price": 14720.0,
+        "low_price": 14600.0,
+        "close_price": 14600.0,
+        "volume": 249659.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251209,
+        "open_price": 14550.0,
+        "high_price": 14700.0,
+        "low_price": 14500.0,
+        "close_price": 14540.0,
+        "volume": 2250460.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251208,
+        "open_price": 14280.0,
+        "high_price": 14580.0,
+        "low_price": 14280.0,
+        "close_price": 14450.0,
+        "volume": 2252248.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251207,
+        "open_price": 14590.0,
+        "high_price": 14590.0,
+        "low_price": 14280.0,
+        "close_price": 14460.0,
+        "volume": 415.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251206,
+        "open_price": 14380.0,
+        "high_price": 14480.0,
+        "low_price": 14200.0,
+        "close_price": 14400.0,
+        "volume": 468.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251203,
+        "open_price": 14310.0,
+        "high_price": 14310.0,
+        "low_price": 14100.0,
+        "close_price": 14100.0,
+        "volume": 250090.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251202,
+        "open_price": 13900.0,
+        "high_price": 13900.0,
+        "low_price": 13900.0,
+        "close_price": 13900.0,
+        "volume": 1550.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251201,
+        "open_price": 13650.0,
+        "high_price": 13930.0,
+        "low_price": 13650.0,
+        "close_price": 13840.0,
+        "volume": 112.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251130,
+        "open_price": 13570.0,
+        "high_price": 13700.0,
+        "low_price": 13570.0,
+        "close_price": 13580.0,
+        "volume": 120.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251129,
+        "open_price": 13400.0,
+        "high_price": 13660.0,
+        "low_price": 13400.0,
+        "close_price": 13620.0,
+        "volume": 94.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251126,
+        "open_price": 13750.0,
+        "high_price": 13870.0,
+        "low_price": 13600.0,
+        "close_price": 13740.0,
+        "volume": 398.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251125,
+        "open_price": 13710.0,
+        "high_price": 13710.0,
+        "low_price": 13700.0,
+        "close_price": 13700.0,
+        "volume": 601.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251123,
+        "open_price": 13610.0,
+        "high_price": 13750.0,
+        "low_price": 13520.0,
+        "close_price": 13570.0,
+        "volume": 498.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251122,
+        "open_price": 13400.0,
+        "high_price": 13400.0,
+        "low_price": 13390.0,
+        "close_price": 13390.0,
+        "volume": 1417.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251119,
+        "open_price": 13100.0,
+        "high_price": 13300.0,
+        "low_price": 13100.0,
+        "close_price": 13270.0,
+        "volume": 4658.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251118,
+        "open_price": 13000.0,
+        "high_price": 13260.0,
+        "low_price": 13000.0,
+        "close_price": 13000.0,
+        "volume": 115354.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251117,
+        "open_price": 13100.0,
+        "high_price": 13100.0,
+        "low_price": 13100.0,
+        "close_price": 13100.0,
+        "volume": 285.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251116,
+        "open_price": 13140.0,
+        "high_price": 13150.0,
+        "low_price": 12900.0,
+        "close_price": 12990.0,
+        "volume": 5594.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251115,
+        "open_price": 12900.0,
+        "high_price": 13150.0,
+        "low_price": 12900.0,
+        "close_price": 12900.0,
+        "volume": 32677.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251112,
+        "open_price": 12790.0,
+        "high_price": 12820.0,
+        "low_price": 12790.0,
+        "close_price": 12820.0,
+        "volume": 206.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251111,
+        "open_price": 12870.0,
+        "high_price": 13130.0,
+        "low_price": 12870.0,
+        "close_price": 13100.0,
+        "volume": 87.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251110,
+        "open_price": 12890.0,
+        "high_price": 13150.0,
+        "low_price": 12890.0,
+        "close_price": 12910.0,
+        "volume": 990.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251109,
+        "open_price": 13000.0,
+        "high_price": 13000.0,
+        "low_price": 12980.0,
+        "close_price": 12980.0,
+        "volume": 1428.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251108,
+        "open_price": 13400.0,
+        "high_price": 13400.0,
+        "low_price": 13130.0,
+        "close_price": 13170.0,
+        "volume": 283097.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251105,
+        "open_price": 13000.0,
+        "high_price": 13260.0,
+        "low_price": 13000.0,
+        "close_price": 13010.0,
+        "volume": 1496.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251104,
+        "open_price": 13390.0,
+        "high_price": 13390.0,
+        "low_price": 13320.0,
+        "close_price": 13350.0,
+        "volume": 5606.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251103,
+        "open_price": 13310.0,
+        "high_price": 13560.0,
+        "low_price": 13300.0,
+        "close_price": 13520.0,
+        "volume": 12173.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251102,
+        "open_price": 13200.0,
+        "high_price": 13450.0,
+        "low_price": 13200.0,
+        "close_price": 13280.0,
+        "volume": 1000120.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251101,
+        "open_price": 13550.0,
+        "high_price": 13550.0,
+        "low_price": 13310.0,
+        "close_price": 13530.0,
+        "volume": 3164.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251029,
+        "open_price": 13300.0,
+        "high_price": 13560.0,
+        "low_price": 13300.0,
+        "close_price": 13360.0,
+        "volume": 299.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251028,
+        "open_price": 13100.0,
+        "high_price": 13350.0,
+        "low_price": 13100.0,
+        "close_price": 13300.0,
+        "volume": 95.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251027,
+        "open_price": 12950.0,
+        "high_price": 13190.0,
+        "low_price": 12950.0,
+        "close_price": 13150.0,
+        "volume": 216.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251026,
+        "open_price": 12850.0,
+        "high_price": 13090.0,
+        "low_price": 12850.0,
+        "close_price": 12850.0,
+        "volume": 219416.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251025,
+        "open_price": 12850.0,
+        "high_price": 13000.0,
+        "low_price": 12840.0,
+        "close_price": 12960.0,
+        "volume": 107.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251022,
+        "open_price": 12930.0,
+        "high_price": 13050.0,
+        "low_price": 12930.0,
+        "close_price": 12980.0,
+        "volume": 177.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251021,
+        "open_price": 12850.0,
+        "high_price": 13100.0,
+        "low_price": 12850.0,
+        "close_price": 12950.0,
+        "volume": 187.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251020,
+        "open_price": 12990.0,
+        "high_price": 13240.0,
+        "low_price": 12990.0,
+        "close_price": 13020.0,
+        "volume": 603.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251019,
+        "open_price": 12990.0,
+        "high_price": 13000.0,
+        "low_price": 12940.0,
+        "close_price": 12990.0,
+        "volume": 7649.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251018,
+        "open_price": 12970.0,
+        "high_price": 13220.0,
+        "low_price": 12970.0,
+        "close_price": 13220.0,
+        "volume": 41761.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251015,
+        "open_price": 12800.0,
+        "high_price": 12840.0,
+        "low_price": 12760.0,
+        "close_price": 12840.0,
+        "volume": 8716221.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251014,
+        "open_price": 13150.0,
+        "high_price": 13150.0,
+        "low_price": 12940.0,
+        "close_price": 13150.0,
+        "volume": 1297.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251013,
+        "open_price": 12820.0,
+        "high_price": 13200.0,
+        "low_price": 12820.0,
+        "close_price": 13140.0,
+        "volume": 183.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251012,
+        "open_price": 12950.0,
+        "high_price": 13030.0,
+        "low_price": 12840.0,
+        "close_price": 12950.0,
+        "volume": 8036.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251011,
+        "open_price": 12830.0,
+        "high_price": 12880.0,
+        "low_price": 12630.0,
+        "close_price": 12880.0,
+        "volume": 201955.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251008,
+        "open_price": 12600.0,
+        "high_price": 12690.0,
+        "low_price": 12580.0,
+        "close_price": 12610.0,
+        "volume": 43335.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251007,
+        "open_price": 12370.0,
+        "high_price": 12600.0,
+        "low_price": 12370.0,
+        "close_price": 12420.0,
+        "volume": 14041.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251006,
+        "open_price": 12480.0,
+        "high_price": 12620.0,
+        "low_price": 12390.0,
+        "close_price": 12530.0,
+        "volume": 202.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251005,
+        "open_price": 12750.0,
+        "high_price": 12750.0,
+        "low_price": 12490.0,
+        "close_price": 12680.0,
+        "volume": 11509.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251004,
+        "open_price": 12380.0,
+        "high_price": 12380.0,
+        "low_price": 12380.0,
+        "close_price": 12380.0,
+        "volume": 261021.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20251001,
+        "open_price": 12020.0,
+        "high_price": 12020.0,
+        "low_price": 11860.0,
+        "close_price": 12020.0,
+        "volume": 43797.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250930,
+        "open_price": 12020.0,
+        "high_price": 12050.0,
+        "low_price": 11980.0,
+        "close_price": 12030.0,
+        "volume": 4002848.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250929,
+        "open_price": 12150.0,
+        "high_price": 12150.0,
+        "low_price": 11900.0,
+        "close_price": 11920.0,
+        "volume": 2555794.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250928,
+        "open_price": 11790.0,
+        "high_price": 11800.0,
+        "low_price": 11600.0,
+        "close_price": 11800.0,
+        "volume": 15054430.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250927,
+        "open_price": 11270.0,
+        "high_price": 11470.0,
+        "low_price": 11270.0,
+        "close_price": 11460.0,
+        "volume": 1544.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250924,
+        "open_price": 11100.0,
+        "high_price": 11200.0,
+        "low_price": 11100.0,
+        "close_price": 11170.0,
+        "volume": 30.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250923,
+        "open_price": 11380.0,
+        "high_price": 11380.0,
+        "low_price": 11210.0,
+        "close_price": 11350.0,
+        "volume": 120.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250922,
+        "open_price": 11290.0,
+        "high_price": 11290.0,
+        "low_price": 11120.0,
+        "close_price": 11280.0,
+        "volume": 969.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250921,
+        "open_price": 11040.0,
+        "high_price": 11040.0,
+        "low_price": 11040.0,
+        "close_price": 11040.0,
+        "volume": 870.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250920,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 11200.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250917,
+        "open_price": 11200.0,
+        "high_price": 11200.0,
+        "low_price": 11200.0,
+        "close_price": 11200.0,
+        "volume": 20.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250916,
+        "open_price": 11400.0,
+        "high_price": 11400.0,
+        "low_price": 11390.0,
+        "close_price": 11390.0,
+        "volume": 1000.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250915,
+        "open_price": 11740.0,
+        "high_price": 11740.0,
+        "low_price": 11540.0,
+        "close_price": 11710.0,
+        "volume": 480.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250914,
+        "open_price": 11640.0,
+        "high_price": 11650.0,
+        "low_price": 11640.0,
+        "close_price": 11640.0,
+        "volume": 150.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250913,
+        "open_price": 11570.0,
+        "high_price": 11570.0,
+        "low_price": 11530.0,
+        "close_price": 11570.0,
+        "volume": 15020.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250909,
+        "open_price": 11500.0,
+        "high_price": 11500.0,
+        "low_price": 11500.0,
+        "close_price": 11500.0,
+        "volume": 20.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250908,
+        "open_price": 11450.0,
+        "high_price": 11500.0,
+        "low_price": 11450.0,
+        "close_price": 11460.0,
+        "volume": 160.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250907,
+        "open_price": 11250.0,
+        "high_price": 11260.0,
+        "low_price": 11180.0,
+        "close_price": 11250.0,
+        "volume": 120.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250906,
+        "open_price": 10960.0,
+        "high_price": 11190.0,
+        "low_price": 10960.0,
+        "close_price": 11190.0,
+        "volume": 15867.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250903,
+        "open_price": 10900.0,
+        "high_price": 10900.0,
+        "low_price": 10720.0,
+        "close_price": 10870.0,
+        "volume": 350.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250902,
+        "open_price": 10590.0,
+        "high_price": 10800.0,
+        "low_price": 10590.0,
+        "close_price": 10650.0,
+        "volume": 370.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250831,
+        "open_price": 10590.0,
+        "high_price": 10590.0,
+        "low_price": 10590.0,
+        "close_price": 10590.0,
+        "volume": 40.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250830,
+        "open_price": 10500.0,
+        "high_price": 10710.0,
+        "low_price": 10500.0,
+        "close_price": 10660.0,
+        "volume": 124.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250827,
+        "open_price": 10200.0,
+        "high_price": 10790.0,
+        "low_price": 10200.0,
+        "close_price": 10770.0,
+        "volume": 1000323.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250826,
+        "open_price": 10480.0,
+        "high_price": 10480.0,
+        "low_price": 10480.0,
+        "close_price": 10480.0,
+        "volume": 10.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250825,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250823,
+        "open_price": 10770.0,
+        "high_price": 10770.0,
+        "low_price": 10770.0,
+        "close_price": 10770.0,
+        "volume": 1618.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250820,
+        "open_price": 10780.0,
+        "high_price": 10780.0,
+        "low_price": 10780.0,
+        "close_price": 10780.0,
+        "volume": 968.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250819,
+        "open_price": 10790.0,
+        "high_price": 10950.0,
+        "low_price": 10790.0,
+        "close_price": 10950.0,
+        "volume": 13911668.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250818,
+        "open_price": 10930.0,
+        "high_price": 10930.0,
+        "low_price": 10930.0,
+        "close_price": 10930.0,
+        "volume": 1117.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250817,
+        "open_price": 10800.0,
+        "high_price": 10850.0,
+        "low_price": 10800.0,
+        "close_price": 10830.0,
+        "volume": 1117.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250816,
+        "open_price": 10600.0,
+        "high_price": 10600.0,
+        "low_price": 10560.0,
+        "close_price": 10590.0,
+        "volume": 738122.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250813,
+        "open_price": 10690.0,
+        "high_price": 10690.0,
+        "low_price": 10690.0,
+        "close_price": 10690.0,
+        "volume": 10.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250812,
+        "open_price": 11000.0,
+        "high_price": 11000.0,
+        "low_price": 10880.0,
+        "close_price": 10990.0,
+        "volume": 393815.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250811,
+        "open_price": 11040.0,
+        "high_price": 11040.0,
+        "low_price": 11040.0,
+        "close_price": 11040.0,
+        "volume": 725.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250810,
+        "open_price": 11060.0,
+        "high_price": 11060.0,
+        "low_price": 11050.0,
+        "close_price": 11050.0,
+        "volume": 15479.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250809,
+        "open_price": 11130.0,
+        "high_price": 11140.0,
+        "low_price": 11100.0,
+        "close_price": 11130.0,
+        "volume": 202.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250806,
+        "open_price": 11080.0,
+        "high_price": 11080.0,
+        "low_price": 11080.0,
+        "close_price": 11080.0,
+        "volume": 30.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250805,
+        "open_price": 11320.0,
+        "high_price": 11320.0,
+        "low_price": 11300.0,
+        "close_price": 11300.0,
+        "volume": 40.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250804,
+        "open_price": 11350.0,
+        "high_price": 11360.0,
+        "low_price": 11350.0,
+        "close_price": 11350.0,
+        "volume": 570.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250803,
+        "open_price": 11470.0,
+        "high_price": 11470.0,
+        "low_price": 11470.0,
+        "close_price": 11470.0,
+        "volume": 500.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250802,
+        "open_price": 11730.0,
+        "high_price": 11730.0,
+        "low_price": 11710.0,
+        "close_price": 11710.0,
+        "volume": 296891.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250730,
+        "open_price": 11970.0,
+        "high_price": 12170.0,
+        "low_price": 11960.0,
+        "close_price": 12070.0,
+        "volume": 392.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250729,
+        "open_price": 12300.0,
+        "high_price": 12300.0,
+        "low_price": 12000.0,
+        "close_price": 12300.0,
+        "volume": 52369.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250728,
+        "open_price": 12370.0,
+        "high_price": 12370.0,
+        "low_price": 12140.0,
+        "close_price": 12330.0,
+        "volume": 128.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250727,
+        "open_price": 12250.0,
+        "high_price": 12250.0,
+        "low_price": 12250.0,
+        "close_price": 12250.0,
+        "volume": 500.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250726,
+        "open_price": 12270.0,
+        "high_price": 12270.0,
+        "low_price": 12270.0,
+        "close_price": 12270.0,
+        "volume": 40.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250723,
+        "open_price": 12350.0,
+        "high_price": 12350.0,
+        "low_price": 12350.0,
+        "close_price": 12350.0,
+        "volume": 5000.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250722,
+        "open_price": 12360.0,
+        "high_price": 12360.0,
+        "low_price": 12360.0,
+        "close_price": 12360.0,
+        "volume": 10.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250721,
+        "open_price": 12300.0,
+        "high_price": 12300.0,
+        "low_price": 12300.0,
+        "close_price": 12300.0,
+        "volume": 20.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250720,
+        "open_price": 12340.0,
+        "high_price": 12340.0,
+        "low_price": 12340.0,
+        "close_price": 12340.0,
+        "volume": 3640.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250719,
+        "open_price": 12280.0,
+        "high_price": 12280.0,
+        "low_price": 12060.0,
+        "close_price": 12270.0,
+        "volume": 520.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250716,
+        "open_price": 11960.0,
+        "high_price": 12100.0,
+        "low_price": 11960.0,
+        "close_price": 11970.0,
+        "volume": 4250.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250715,
+        "open_price": 12030.0,
+        "high_price": 12030.0,
+        "low_price": 12030.0,
+        "close_price": 12030.0,
+        "volume": 10.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250714,
+        "open_price": 11800.0,
+        "high_price": 12100.0,
+        "low_price": 11800.0,
+        "close_price": 12030.0,
+        "volume": 50520.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250713,
+        "open_price": 11840.0,
+        "high_price": 11920.0,
+        "low_price": 11840.0,
+        "close_price": 11910.0,
+        "volume": 135.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250712,
+        "open_price": 11890.0,
+        "high_price": 11890.0,
+        "low_price": 11780.0,
+        "close_price": 11890.0,
+        "volume": 3149.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250709,
+        "open_price": 11680.0,
+        "high_price": 11680.0,
+        "low_price": 11680.0,
+        "close_price": 11680.0,
+        "volume": 17006.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250708,
+        "open_price": 11790.0,
+        "high_price": 11790.0,
+        "low_price": 11790.0,
+        "close_price": 11790.0,
+        "volume": 89.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250707,
+        "open_price": 11900.0,
+        "high_price": 11900.0,
+        "low_price": 11900.0,
+        "close_price": 11900.0,
+        "volume": 200.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250702,
+        "open_price": 11800.0,
+        "high_price": 12020.0,
+        "low_price": 11790.0,
+        "close_price": 11790.0,
+        "volume": 39660.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250701,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12150.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250630,
+        "open_price": 12150.0,
+        "high_price": 12150.0,
+        "low_price": 12150.0,
+        "close_price": 12150.0,
+        "volume": 1200.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250629,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12520.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250628,
+        "open_price": 12520.0,
+        "high_price": 12520.0,
+        "low_price": 12520.0,
+        "close_price": 12520.0,
+        "volume": 10.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12900.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12900.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12900.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12900.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12900.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12900.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12900.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12900.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250611,
+        "open_price": 12900.0,
+        "high_price": 12900.0,
+        "low_price": 12900.0,
+        "close_price": 12900.0,
+        "volume": 30.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250610,
+        "open_price": 13080.0,
+        "high_price": 13080.0,
+        "low_price": 13080.0,
+        "close_price": 13080.0,
+        "volume": 780.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250609,
+        "open_price": 13190.0,
+        "high_price": 13450.0,
+        "low_price": 13190.0,
+        "close_price": 13220.0,
+        "volume": 6844.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250608,
+        "open_price": 13100.0,
+        "high_price": 13360.0,
+        "low_price": 13100.0,
+        "close_price": 13190.0,
+        "volume": 1050.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250607,
+        "open_price": 13300.0,
+        "high_price": 13300.0,
+        "low_price": 13300.0,
+        "close_price": 13300.0,
+        "volume": 55954.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250603,
+        "open_price": 13450.0,
+        "high_price": 13710.0,
+        "low_price": 13450.0,
+        "close_price": 13500.0,
+        "volume": 230332.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250602,
+        "open_price": 13550.0,
+        "high_price": 13700.0,
+        "low_price": 13550.0,
+        "close_price": 13550.0,
+        "volume": 900074.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250601,
+        "open_price": 13420.0,
+        "high_price": 13680.0,
+        "low_price": 13420.0,
+        "close_price": 13550.0,
+        "volume": 6442.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250531,
+        "open_price": 13550.0,
+        "high_price": 13550.0,
+        "low_price": 13550.0,
+        "close_price": 13550.0,
+        "volume": 3956.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250528,
+        "open_price": 13290.0,
+        "high_price": 13550.0,
+        "low_price": 13290.0,
+        "close_price": 13550.0,
+        "volume": 875.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250527,
+        "open_price": 13100.0,
+        "high_price": 13360.0,
+        "low_price": 13100.0,
+        "close_price": 13290.0,
+        "volume": 3752.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250526,
+        "open_price": 13000.0,
+        "high_price": 13260.0,
+        "low_price": 13000.0,
+        "close_price": 13100.0,
+        "volume": 12325.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250525,
+        "open_price": 13000.0,
+        "high_price": 13250.0,
+        "low_price": 13000.0,
+        "close_price": 13000.0,
+        "volume": 114657.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250524,
+        "open_price": 13000.0,
+        "high_price": 13000.0,
+        "low_price": 12910.0,
+        "close_price": 13000.0,
+        "volume": 115325.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250521,
+        "open_price": 12900.0,
+        "high_price": 12900.0,
+        "low_price": 12900.0,
+        "close_price": 12900.0,
+        "volume": 10210.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250520,
+        "open_price": 13000.0,
+        "high_price": 13000.0,
+        "low_price": 12960.0,
+        "close_price": 12960.0,
+        "volume": 458318.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250519,
+        "open_price": 12850.0,
+        "high_price": 13200.0,
+        "low_price": 12850.0,
+        "close_price": 12980.0,
+        "volume": 45931.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250518,
+        "open_price": 12810.0,
+        "high_price": 13190.0,
+        "low_price": 12810.0,
+        "close_price": 13050.0,
+        "volume": 313681.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250517,
+        "open_price": 12810.0,
+        "high_price": 13040.0,
+        "low_price": 12810.0,
+        "close_price": 12810.0,
+        "volume": 156232.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250514,
+        "open_price": 12810.0,
+        "high_price": 13050.0,
+        "low_price": 12810.0,
+        "close_price": 12810.0,
+        "volume": 181715.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250513,
+        "open_price": 12810.0,
+        "high_price": 12810.0,
+        "low_price": 12780.0,
+        "close_price": 12810.0,
+        "volume": 27965.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250512,
+        "open_price": 12560.0,
+        "high_price": 12600.0,
+        "low_price": 12420.0,
+        "close_price": 12560.0,
+        "volume": 534947.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250511,
+        "open_price": 12400.0,
+        "high_price": 12460.0,
+        "low_price": 12240.0,
+        "close_price": 12340.0,
+        "volume": 6457.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250510,
+        "open_price": 12600.0,
+        "high_price": 12840.0,
+        "low_price": 12210.0,
+        "close_price": 12590.0,
+        "volume": 324519.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250507,
+        "open_price": 12440.0,
+        "high_price": 12810.0,
+        "low_price": 12440.0,
+        "close_price": 12510.0,
+        "volume": 404519.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250506,
+        "open_price": 12510.0,
+        "high_price": 12760.0,
+        "low_price": 12380.0,
+        "close_price": 12440.0,
+        "volume": 6717.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250505,
+        "open_price": 12570.0,
+        "high_price": 12810.0,
+        "low_price": 12570.0,
+        "close_price": 12760.0,
+        "volume": 2152.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250504,
+        "open_price": 12940.0,
+        "high_price": 13190.0,
+        "low_price": 12940.0,
+        "close_price": 12950.0,
+        "volume": 5196.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250503,
+        "open_price": 13340.0,
+        "high_price": 13340.0,
+        "low_price": 13170.0,
+        "close_price": 13340.0,
+        "volume": 127340.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250430,
+        "open_price": 13110.0,
+        "high_price": 13360.0,
+        "low_price": 13100.0,
+        "close_price": 13340.0,
+        "volume": 1985.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250429,
+        "open_price": 13000.0,
+        "high_price": 13300.0,
+        "low_price": 13000.0,
+        "close_price": 13100.0,
+        "volume": 123661.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250428,
+        "open_price": 13180.0,
+        "high_price": 13250.0,
+        "low_price": 13000.0,
+        "close_price": 13140.0,
+        "volume": 31955.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250427,
+        "open_price": 13240.0,
+        "high_price": 13240.0,
+        "low_price": 13000.0,
+        "close_price": 13240.0,
+        "volume": 46803.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250426,
+        "open_price": 13050.0,
+        "high_price": 13500.0,
+        "low_price": 13050.0,
+        "close_price": 13250.0,
+        "volume": 4887.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250423,
+        "open_price": 13190.0,
+        "high_price": 13200.0,
+        "low_price": 13000.0,
+        "close_price": 13190.0,
+        "volume": 622.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250422,
+        "open_price": 12940.0,
+        "high_price": 13010.0,
+        "low_price": 12940.0,
+        "close_price": 12940.0,
+        "volume": 169547.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250421,
+        "open_price": 13090.0,
+        "high_price": 13260.0,
+        "low_price": 13010.0,
+        "close_price": 13020.0,
+        "volume": 118944.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250420,
+        "open_price": 12760.0,
+        "high_price": 13080.0,
+        "low_price": 12760.0,
+        "close_price": 12890.0,
+        "volume": 578801.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250419,
+        "open_price": 12700.0,
+        "high_price": 12700.0,
+        "low_price": 12500.0,
+        "close_price": 12700.0,
+        "volume": 14721.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250416,
+        "open_price": 12590.0,
+        "high_price": 12620.0,
+        "low_price": 12370.0,
+        "close_price": 12600.0,
+        "volume": 1375.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250415,
+        "open_price": 12620.0,
+        "high_price": 12620.0,
+        "low_price": 12280.0,
+        "close_price": 12620.0,
+        "volume": 300670.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250414,
+        "open_price": 12340.0,
+        "high_price": 12590.0,
+        "low_price": 12340.0,
+        "close_price": 12510.0,
+        "volume": 590.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250413,
+        "open_price": 12230.0,
+        "high_price": 12550.0,
+        "low_price": 12070.0,
+        "close_price": 12230.0,
+        "volume": 307673.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250412,
+        "open_price": 12230.0,
+        "high_price": 12230.0,
+        "low_price": 11870.0,
+        "close_price": 12230.0,
+        "volume": 300300.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250409,
+        "open_price": 12060.0,
+        "high_price": 12270.0,
+        "low_price": 12060.0,
+        "close_price": 12230.0,
+        "volume": 640.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250408,
+        "open_price": 12070.0,
+        "high_price": 12080.0,
+        "low_price": 12070.0,
+        "close_price": 12080.0,
+        "volume": 903.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250407,
+        "open_price": 11960.0,
+        "high_price": 11960.0,
+        "low_price": 11890.0,
+        "close_price": 11910.0,
+        "volume": 30.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250406,
+        "open_price": 12050.0,
+        "high_price": 12200.0,
+        "low_price": 12050.0,
+        "close_price": 12110.0,
+        "volume": 855.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250405,
+        "open_price": 12310.0,
+        "high_price": 12310.0,
+        "low_price": 12260.0,
+        "close_price": 12300.0,
+        "volume": 1355.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250330,
+        "open_price": 11980.0,
+        "high_price": 12200.0,
+        "low_price": 11980.0,
+        "close_price": 12200.0,
+        "volume": 1110.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250329,
+        "open_price": 11960.0,
+        "high_price": 11970.0,
+        "low_price": 11960.0,
+        "close_price": 11970.0,
+        "volume": 1077.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250326,
+        "open_price": 11960.0,
+        "high_price": 11960.0,
+        "low_price": 11960.0,
+        "close_price": 11960.0,
+        "volume": 270.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250325,
+        "open_price": 11610.0,
+        "high_price": 12080.0,
+        "low_price": 11610.0,
+        "close_price": 12040.0,
+        "volume": 440.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250318,
+        "open_price": 11610.0,
+        "high_price": 11850.0,
+        "low_price": 11610.0,
+        "close_price": 11840.0,
+        "volume": 2039.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250317,
+        "open_price": 11720.0,
+        "high_price": 11950.0,
+        "low_price": 11720.0,
+        "close_price": 11940.0,
+        "volume": 250.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250316,
+        "open_price": 11730.0,
+        "high_price": 11970.0,
+        "low_price": 11730.0,
+        "close_price": 11730.0,
+        "volume": 201044.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250315,
+        "open_price": 11800.0,
+        "high_price": 11800.0,
+        "low_price": 11620.0,
+        "close_price": 11630.0,
+        "volume": 319314.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250312,
+        "open_price": 11420.0,
+        "high_price": 11700.0,
+        "low_price": 11380.0,
+        "close_price": 11510.0,
+        "volume": 22599.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250311,
+        "open_price": 11620.0,
+        "high_price": 11630.0,
+        "low_price": 11620.0,
+        "close_price": 11620.0,
+        "volume": 785.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250310,
+        "open_price": 11630.0,
+        "high_price": 11860.0,
+        "low_price": 11630.0,
+        "close_price": 11800.0,
+        "volume": 1707163.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250309,
+        "open_price": 11670.0,
+        "high_price": 11670.0,
+        "low_price": 11670.0,
+        "close_price": 11670.0,
+        "volume": 10.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 11980.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250305,
+        "open_price": 11800.0,
+        "high_price": 12100.0,
+        "low_price": 11800.0,
+        "close_price": 11980.0,
+        "volume": 1072.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250304,
+        "open_price": 12100.0,
+        "high_price": 12100.0,
+        "low_price": 12100.0,
+        "close_price": 12100.0,
+        "volume": 50040.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250303,
+        "open_price": 12350.0,
+        "high_price": 12350.0,
+        "low_price": 12350.0,
+        "close_price": 12350.0,
+        "volume": 17610.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250302,
+        "open_price": 12660.0,
+        "high_price": 12700.0,
+        "low_price": 12450.0,
+        "close_price": 12680.0,
+        "volume": 835.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250301,
+        "open_price": 12720.0,
+        "high_price": 12750.0,
+        "low_price": 12540.0,
+        "close_price": 12740.0,
+        "volume": 703.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250226,
+        "open_price": 12400.0,
+        "high_price": 12640.0,
+        "low_price": 12400.0,
+        "close_price": 12510.0,
+        "volume": 1333.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250225,
+        "open_price": 12480.0,
+        "high_price": 12500.0,
+        "low_price": 12450.0,
+        "close_price": 12490.0,
+        "volume": 2425.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250224,
+        "open_price": 12160.0,
+        "high_price": 12350.0,
+        "low_price": 12160.0,
+        "close_price": 12330.0,
+        "volume": 544.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250223,
+        "open_price": 11910.0,
+        "high_price": 12130.0,
+        "low_price": 11910.0,
+        "close_price": 12120.0,
+        "volume": 386.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250222,
+        "open_price": 11890.0,
+        "high_price": 11890.0,
+        "low_price": 11890.0,
+        "close_price": 11890.0,
+        "volume": 180.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250219,
+        "open_price": 11920.0,
+        "high_price": 11920.0,
+        "low_price": 11920.0,
+        "close_price": 11920.0,
+        "volume": 694.0
+    },
+    {
+        "symbol": "نارین",
+        "trade_date": 20250218,
+        "open_price": 11910.0,
+        "high_price": 12150.0,
+        "low_price": 11910.0,
+        "close_price": 12010.0,
+        "volume": 55154.0
+    }
+]

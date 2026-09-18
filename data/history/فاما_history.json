@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "فاما",
+        "trade_date": 20260901,
+        "open_price": 5590.0,
+        "high_price": 5680.0,
+        "low_price": 5360.0,
+        "close_price": 5670.0,
+        "volume": 26126242.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260831,
+        "open_price": 5670.0,
+        "high_price": 5670.0,
+        "low_price": 5500.0,
+        "close_price": 5520.0,
+        "volume": 16935185.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260829,
+        "open_price": 5490.0,
+        "high_price": 5710.0,
+        "low_price": 5490.0,
+        "close_price": 5670.0,
+        "volume": 12123941.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260826,
+        "open_price": 5410.0,
+        "high_price": 5590.0,
+        "low_price": 5410.0,
+        "close_price": 5550.0,
+        "volume": 7734961.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260825,
+        "open_price": 5500.0,
+        "high_price": 5510.0,
+        "low_price": 5260.0,
+        "close_price": 5430.0,
+        "volume": 6913521.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260824,
+        "open_price": 5460.0,
+        "high_price": 5500.0,
+        "low_price": 5260.0,
+        "close_price": 5400.0,
+        "volume": 9353689.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260823,
+        "open_price": 5380.0,
+        "high_price": 5380.0,
+        "low_price": 5170.0,
+        "close_price": 5360.0,
+        "volume": 16706676.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260822,
+        "open_price": 5370.0,
+        "high_price": 5420.0,
+        "low_price": 5140.0,
+        "close_price": 5230.0,
+        "volume": 14930407.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260819,
+        "open_price": 5100.0,
+        "high_price": 5370.0,
+        "low_price": 5100.0,
+        "close_price": 5290.0,
+        "volume": 9490116.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260818,
+        "open_price": 5430.0,
+        "high_price": 5430.0,
+        "low_price": 5170.0,
+        "close_price": 5220.0,
+        "volume": 7988176.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260817,
+        "open_price": 5350.0,
+        "high_price": 5490.0,
+        "low_price": 5230.0,
+        "close_price": 5320.0,
+        "volume": 12090833.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260816,
+        "open_price": 5550.0,
+        "high_price": 5590.0,
+        "low_price": 5320.0,
+        "close_price": 5390.0,
+        "volume": 8203145.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260815,
+        "open_price": 5580.0,
+        "high_price": 5590.0,
+        "low_price": 5280.0,
+        "close_price": 5480.0,
+        "volume": 8267349.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260811,
+        "open_price": 5440.0,
+        "high_price": 5440.0,
+        "low_price": 5160.0,
+        "close_price": 5440.0,
+        "volume": 37429633.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260810,
+        "open_price": 5330.0,
+        "high_price": 5350.0,
+        "low_price": 5080.0,
+        "close_price": 5290.0,
+        "volume": 4620193.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260809,
+        "open_price": 5340.0,
+        "high_price": 5340.0,
+        "low_price": 5040.0,
+        "close_price": 5200.0,
+        "volume": 22079742.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260808,
+        "open_price": 5190.0,
+        "high_price": 5190.0,
+        "low_price": 5190.0,
+        "close_price": 5190.0,
+        "volume": 3872086.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260805,
+        "open_price": 5040.0,
+        "high_price": 5040.0,
+        "low_price": 5040.0,
+        "close_price": 5040.0,
+        "volume": 1808942.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260803,
+        "open_price": 4900.0,
+        "high_price": 4900.0,
+        "low_price": 4900.0,
+        "close_price": 4900.0,
+        "volume": 1345664.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260802,
+        "open_price": 4710.0,
+        "high_price": 4880.0,
+        "low_price": 4600.0,
+        "close_price": 4760.0,
+        "volume": 24003700.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260801,
+        "open_price": 4960.0,
+        "high_price": 4960.0,
+        "low_price": 4690.0,
+        "close_price": 4740.0,
+        "volume": 7025309.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260729,
+        "open_price": 4830.0,
+        "high_price": 4830.0,
+        "low_price": 4800.0,
+        "close_price": 4830.0,
+        "volume": 7220139.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260728,
+        "open_price": 4600.0,
+        "high_price": 4700.0,
+        "low_price": 4570.0,
+        "close_price": 4690.0,
+        "volume": 11159597.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260727,
+        "open_price": 4750.0,
+        "high_price": 4750.0,
+        "low_price": 4500.0,
+        "close_price": 4570.0,
+        "volume": 5009438.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260726,
+        "open_price": 4630.0,
+        "high_price": 4630.0,
+        "low_price": 4510.0,
+        "close_price": 4630.0,
+        "volume": 4078776.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260725,
+        "open_price": 4390.0,
+        "high_price": 4510.0,
+        "low_price": 4390.0,
+        "close_price": 4500.0,
+        "volume": 8500884.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260722,
+        "open_price": 4410.0,
+        "high_price": 4410.0,
+        "low_price": 4260.0,
+        "close_price": 4380.0,
+        "volume": 8805486.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260721,
+        "open_price": 4290.0,
+        "high_price": 4290.0,
+        "low_price": 4280.0,
+        "close_price": 4290.0,
+        "volume": 8409852.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260720,
+        "open_price": 4180.0,
+        "high_price": 4240.0,
+        "low_price": 4010.0,
+        "close_price": 4170.0,
+        "volume": 10036493.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260719,
+        "open_price": 3920.0,
+        "high_price": 4160.0,
+        "low_price": 3920.0,
+        "close_price": 4120.0,
+        "volume": 21443656.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260718,
+        "open_price": 4040.0,
+        "high_price": 4140.0,
+        "low_price": 4040.0,
+        "close_price": 4040.0,
+        "volume": 17481952.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260715,
+        "open_price": 4160.0,
+        "high_price": 4160.0,
+        "low_price": 4160.0,
+        "close_price": 4160.0,
+        "volume": 10145285.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260714,
+        "open_price": 4040.0,
+        "high_price": 4040.0,
+        "low_price": 4040.0,
+        "close_price": 4040.0,
+        "volume": 9564229.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260713,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260712,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4190.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260711,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4190.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260708,
+        "open_price": 4300.0,
+        "high_price": 4320.0,
+        "low_price": 4080.0,
+        "close_price": 4190.0,
+        "volume": 10197350.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260707,
+        "open_price": 4200.0,
+        "high_price": 4210.0,
+        "low_price": 4170.0,
+        "close_price": 4200.0,
+        "volume": 11168303.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260701,
+        "open_price": 4080.0,
+        "high_price": 4090.0,
+        "low_price": 3950.0,
+        "close_price": 4090.0,
+        "volume": 3881372.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260630,
+        "open_price": 3790.0,
+        "high_price": 3980.0,
+        "low_price": 3790.0,
+        "close_price": 3980.0,
+        "volume": 4490163.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260629,
+        "open_price": 3860.0,
+        "high_price": 3940.0,
+        "low_price": 3860.0,
+        "close_price": 3870.0,
+        "volume": 7371057.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260628,
+        "open_price": 4180.0,
+        "high_price": 4180.0,
+        "low_price": 3960.0,
+        "close_price": 3970.0,
+        "volume": 4099145.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260627,
+        "open_price": 4180.0,
+        "high_price": 4180.0,
+        "low_price": 4070.0,
+        "close_price": 4080.0,
+        "volume": 22994767.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260623,
+        "open_price": 4283.0,
+        "high_price": 4406.0,
+        "low_price": 4155.0,
+        "close_price": 4187.0,
+        "volume": 6382976.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260622,
+        "open_price": 4283.0,
+        "high_price": 4283.0,
+        "low_price": 4283.0,
+        "close_price": 4283.0,
+        "volume": 3979301.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260621,
+        "open_price": 4600.0,
+        "high_price": 4600.0,
+        "low_price": 4387.0,
+        "close_price": 4415.0,
+        "volume": 3172541.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260620,
+        "open_price": 4628.0,
+        "high_price": 4628.0,
+        "low_price": 4360.0,
+        "close_price": 4522.0,
+        "volume": 13987143.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260617,
+        "open_price": 4516.0,
+        "high_price": 4516.0,
+        "low_price": 4254.0,
+        "close_price": 4494.0,
+        "volume": 13766339.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260616,
+        "open_price": 4423.0,
+        "high_price": 4423.0,
+        "low_price": 4167.0,
+        "close_price": 4385.0,
+        "volume": 21812572.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260615,
+        "open_price": 4295.0,
+        "high_price": 4295.0,
+        "low_price": 4295.0,
+        "close_price": 4295.0,
+        "volume": 2800262.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260614,
+        "open_price": 4170.0,
+        "high_price": 4170.0,
+        "low_price": 4170.0,
+        "close_price": 4170.0,
+        "volume": 27205263.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260613,
+        "open_price": 4049.0,
+        "high_price": 4049.0,
+        "low_price": 4049.0,
+        "close_price": 4049.0,
+        "volume": 5488766.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260610,
+        "open_price": 3932.0,
+        "high_price": 3932.0,
+        "low_price": 3932.0,
+        "close_price": 3932.0,
+        "volume": 3051501.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260609,
+        "open_price": 3750.0,
+        "high_price": 3822.0,
+        "low_price": 3750.0,
+        "close_price": 3818.0,
+        "volume": 7759006.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260608,
+        "open_price": 3711.0,
+        "high_price": 3800.0,
+        "low_price": 3711.0,
+        "close_price": 3711.0,
+        "volume": 3888609.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260607,
+        "open_price": 3800.0,
+        "high_price": 3827.0,
+        "low_price": 3720.0,
+        "close_price": 3825.0,
+        "volume": 9376182.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260606,
+        "open_price": 3720.0,
+        "high_price": 3775.0,
+        "low_price": 3559.0,
+        "close_price": 3716.0,
+        "volume": 12089512.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260603,
+        "open_price": 3724.0,
+        "high_price": 3726.0,
+        "low_price": 3600.0,
+        "close_price": 3666.0,
+        "volume": 14964805.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260602,
+        "open_price": 3600.0,
+        "high_price": 3669.0,
+        "low_price": 3457.0,
+        "close_price": 3618.0,
+        "volume": 21941222.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260601,
+        "open_price": 3576.0,
+        "high_price": 3576.0,
+        "low_price": 3376.0,
+        "close_price": 3563.0,
+        "volume": 67113442.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260531,
+        "open_price": 3472.0,
+        "high_price": 3472.0,
+        "low_price": 3472.0,
+        "close_price": 3472.0,
+        "volume": 48452735.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260530,
+        "open_price": 3371.0,
+        "high_price": 3371.0,
+        "low_price": 3370.0,
+        "close_price": 3371.0,
+        "volume": 6890111.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260526,
+        "open_price": 3273.0,
+        "high_price": 3273.0,
+        "low_price": 3273.0,
+        "close_price": 3273.0,
+        "volume": 1595140.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260525,
+        "open_price": 3178.0,
+        "high_price": 3178.0,
+        "low_price": 3178.0,
+        "close_price": 3178.0,
+        "volume": 5642016.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260524,
+        "open_price": 3086.0,
+        "high_price": 3086.0,
+        "low_price": 3086.0,
+        "close_price": 3086.0,
+        "volume": 4021486.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260523,
+        "open_price": 2997.0,
+        "high_price": 2997.0,
+        "low_price": 2997.0,
+        "close_price": 2997.0,
+        "volume": 12530495.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260520,
+        "open_price": 2910.0,
+        "high_price": 2910.0,
+        "low_price": 2867.0,
+        "close_price": 2910.0,
+        "volume": 6871783.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260519,
+        "open_price": 2826.0,
+        "high_price": 2826.0,
+        "low_price": 2826.0,
+        "close_price": 2826.0,
+        "volume": 8926598.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2744.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260225,
+        "open_price": 2740.0,
+        "high_price": 2796.0,
+        "low_price": 2717.0,
+        "close_price": 2744.0,
+        "volume": 725576.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260224,
+        "open_price": 2721.0,
+        "high_price": 2725.0,
+        "low_price": 2705.0,
+        "close_price": 2716.0,
+        "volume": 985874.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260223,
+        "open_price": 2635.0,
+        "high_price": 2710.0,
+        "low_price": 2635.0,
+        "close_price": 2695.0,
+        "volume": 611429.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260222,
+        "open_price": 2630.0,
+        "high_price": 2700.0,
+        "low_price": 2630.0,
+        "close_price": 2642.0,
+        "volume": 804590.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260221,
+        "open_price": 2746.0,
+        "high_price": 2746.0,
+        "low_price": 2698.0,
+        "close_price": 2701.0,
+        "volume": 3768678.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260218,
+        "open_price": 2763.0,
+        "high_price": 2820.0,
+        "low_price": 2763.0,
+        "close_price": 2781.0,
+        "volume": 2139726.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260217,
+        "open_price": 2850.0,
+        "high_price": 2851.0,
+        "low_price": 2771.0,
+        "close_price": 2811.0,
+        "volume": 1936175.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260216,
+        "open_price": 2795.0,
+        "high_price": 2825.0,
+        "low_price": 2751.0,
+        "close_price": 2817.0,
+        "volume": 3167884.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260215,
+        "open_price": 2797.0,
+        "high_price": 2797.0,
+        "low_price": 2677.0,
+        "close_price": 2743.0,
+        "volume": 2163735.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260214,
+        "open_price": 2749.0,
+        "high_price": 2790.0,
+        "low_price": 2665.0,
+        "close_price": 2716.0,
+        "volume": 2520186.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260210,
+        "open_price": 2732.0,
+        "high_price": 2757.0,
+        "low_price": 2697.0,
+        "close_price": 2724.0,
+        "volume": 4103266.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260209,
+        "open_price": 2790.0,
+        "high_price": 2816.0,
+        "low_price": 2652.0,
+        "close_price": 2735.0,
+        "volume": 8438971.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260208,
+        "open_price": 2735.0,
+        "high_price": 2735.0,
+        "low_price": 2673.0,
+        "close_price": 2734.0,
+        "volume": 14497974.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260207,
+        "open_price": 2650.0,
+        "high_price": 2656.0,
+        "low_price": 2641.0,
+        "close_price": 2656.0,
+        "volume": 2422378.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260203,
+        "open_price": 2564.0,
+        "high_price": 2628.0,
+        "low_price": 2562.0,
+        "close_price": 2579.0,
+        "volume": 5057700.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260202,
+        "open_price": 2549.0,
+        "high_price": 2553.0,
+        "low_price": 2510.0,
+        "close_price": 2552.0,
+        "volume": 6114388.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260201,
+        "open_price": 2397.0,
+        "high_price": 2543.0,
+        "low_price": 2397.0,
+        "close_price": 2479.0,
+        "volume": 795833.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260131,
+        "open_price": 2547.0,
+        "high_price": 2594.0,
+        "low_price": 2445.0,
+        "close_price": 2470.0,
+        "volume": 6659935.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260128,
+        "open_price": 2404.0,
+        "high_price": 2547.0,
+        "low_price": 2399.0,
+        "close_price": 2520.0,
+        "volume": 4624883.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260127,
+        "open_price": 2475.0,
+        "high_price": 2536.0,
+        "low_price": 2473.0,
+        "close_price": 2473.0,
+        "volume": 11636014.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260126,
+        "open_price": 2541.0,
+        "high_price": 2620.0,
+        "low_price": 2541.0,
+        "close_price": 2549.0,
+        "volume": 33947750.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260125,
+        "open_price": 2646.0,
+        "high_price": 2646.0,
+        "low_price": 2619.0,
+        "close_price": 2619.0,
+        "volume": 17252143.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260124,
+        "open_price": 2834.0,
+        "high_price": 2834.0,
+        "low_price": 2671.0,
+        "close_price": 2700.0,
+        "volume": 2718642.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260121,
+        "open_price": 2727.0,
+        "high_price": 2753.0,
+        "low_price": 2727.0,
+        "close_price": 2753.0,
+        "volume": 9804252.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260120,
+        "open_price": 2610.0,
+        "high_price": 2683.0,
+        "low_price": 2606.0,
+        "close_price": 2673.0,
+        "volume": 5601543.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260119,
+        "open_price": 2663.0,
+        "high_price": 2663.0,
+        "low_price": 2588.0,
+        "close_price": 2606.0,
+        "volume": 1417367.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260118,
+        "open_price": 2582.0,
+        "high_price": 2633.0,
+        "low_price": 2572.0,
+        "close_price": 2599.0,
+        "volume": 1646165.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260114,
+        "open_price": 2580.0,
+        "high_price": 2658.0,
+        "low_price": 2554.0,
+        "close_price": 2581.0,
+        "volume": 14090649.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260113,
+        "open_price": 2682.0,
+        "high_price": 2732.0,
+        "low_price": 2606.0,
+        "close_price": 2632.0,
+        "volume": 2693170.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260112,
+        "open_price": 2755.0,
+        "high_price": 2825.0,
+        "low_price": 2661.0,
+        "close_price": 2686.0,
+        "volume": 6665877.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260111,
+        "open_price": 2751.0,
+        "high_price": 2810.0,
+        "low_price": 2697.0,
+        "close_price": 2743.0,
+        "volume": 4279028.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260110,
+        "open_price": 2747.0,
+        "high_price": 2886.0,
+        "low_price": 2747.0,
+        "close_price": 2780.0,
+        "volume": 6230292.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260107,
+        "open_price": 2844.0,
+        "high_price": 2844.0,
+        "low_price": 2762.0,
+        "close_price": 2831.0,
+        "volume": 19112853.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260106,
+        "open_price": 2737.0,
+        "high_price": 2763.0,
+        "low_price": 2737.0,
+        "close_price": 2762.0,
+        "volume": 3875300.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260105,
+        "open_price": 2613.0,
+        "high_price": 2685.0,
+        "low_price": 2609.0,
+        "close_price": 2683.0,
+        "volume": 20984692.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20260104,
+        "open_price": 2610.0,
+        "high_price": 2650.0,
+        "low_price": 2605.0,
+        "close_price": 2607.0,
+        "volume": 7065448.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251231,
+        "open_price": 2677.0,
+        "high_price": 2787.0,
+        "low_price": 2677.0,
+        "close_price": 2685.0,
+        "volume": 8050161.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251230,
+        "open_price": 2833.0,
+        "high_price": 2833.0,
+        "low_price": 2749.0,
+        "close_price": 2759.0,
+        "volume": 4837998.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251229,
+        "open_price": 2920.0,
+        "high_price": 2930.0,
+        "low_price": 2824.0,
+        "close_price": 2833.0,
+        "volume": 4333519.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251228,
+        "open_price": 2826.0,
+        "high_price": 2944.0,
+        "low_price": 2826.0,
+        "close_price": 2911.0,
+        "volume": 2533620.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251227,
+        "open_price": 2903.0,
+        "high_price": 2960.0,
+        "low_price": 2877.0,
+        "close_price": 2909.0,
+        "volume": 3420210.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251224,
+        "open_price": 2811.0,
+        "high_price": 2881.0,
+        "low_price": 2811.0,
+        "close_price": 2875.0,
+        "volume": 7145403.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251223,
+        "open_price": 2833.0,
+        "high_price": 2833.0,
+        "low_price": 2769.0,
+        "close_price": 2798.0,
+        "volume": 2755521.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251222,
+        "open_price": 2800.0,
+        "high_price": 2889.0,
+        "low_price": 2727.0,
+        "close_price": 2790.0,
+        "volume": 5100002.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251221,
+        "open_price": 2833.0,
+        "high_price": 2851.0,
+        "low_price": 2788.0,
+        "close_price": 2811.0,
+        "volume": 5080635.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251220,
+        "open_price": 2779.0,
+        "high_price": 2833.0,
+        "low_price": 2778.0,
+        "close_price": 2783.0,
+        "volume": 2180534.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251217,
+        "open_price": 2801.0,
+        "high_price": 2801.0,
+        "low_price": 2723.0,
+        "close_price": 2751.0,
+        "volume": 1788075.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251216,
+        "open_price": 2810.0,
+        "high_price": 2838.0,
+        "low_price": 2701.0,
+        "close_price": 2757.0,
+        "volume": 2020068.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251215,
+        "open_price": 2777.0,
+        "high_price": 2777.0,
+        "low_price": 2725.0,
+        "close_price": 2760.0,
+        "volume": 5025173.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251214,
+        "open_price": 2759.0,
+        "high_price": 2759.0,
+        "low_price": 2691.0,
+        "close_price": 2697.0,
+        "volume": 1864958.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251213,
+        "open_price": 2686.0,
+        "high_price": 2686.0,
+        "low_price": 2622.0,
+        "close_price": 2679.0,
+        "volume": 5261326.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251210,
+        "open_price": 2608.0,
+        "high_price": 2608.0,
+        "low_price": 2600.0,
+        "close_price": 2608.0,
+        "volume": 6177923.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251209,
+        "open_price": 2553.0,
+        "high_price": 2553.0,
+        "low_price": 2530.0,
+        "close_price": 2533.0,
+        "volume": 4447318.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251208,
+        "open_price": 2421.0,
+        "high_price": 2526.0,
+        "low_price": 2421.0,
+        "close_price": 2479.0,
+        "volume": 2321536.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251207,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2453.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251206,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2453.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251203,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3525.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251202,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3525.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251201,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3525.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251130,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3525.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251129,
+        "open_price": 3578.0,
+        "high_price": 3578.0,
+        "low_price": 3496.0,
+        "close_price": 3525.0,
+        "volume": 2787862.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251126,
+        "open_price": 3598.0,
+        "high_price": 3598.0,
+        "low_price": 3450.0,
+        "close_price": 3513.0,
+        "volume": 1853761.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251125,
+        "open_price": 3561.0,
+        "high_price": 3579.0,
+        "low_price": 3527.0,
+        "close_price": 3505.0,
+        "volume": 790197.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251123,
+        "open_price": 3555.0,
+        "high_price": 3555.0,
+        "low_price": 3483.0,
+        "close_price": 3493.0,
+        "volume": 1414788.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251122,
+        "open_price": 3549.0,
+        "high_price": 3549.0,
+        "low_price": 3450.0,
+        "close_price": 3487.0,
+        "volume": 1771110.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251119,
+        "open_price": 3545.0,
+        "high_price": 3545.0,
+        "low_price": 3512.0,
+        "close_price": 3488.0,
+        "volume": 932123.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251118,
+        "open_price": 3579.0,
+        "high_price": 3579.0,
+        "low_price": 3460.0,
+        "close_price": 3478.0,
+        "volume": 1154600.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251117,
+        "open_price": 3622.0,
+        "high_price": 3622.0,
+        "low_price": 3414.0,
+        "close_price": 3477.0,
+        "volume": 5080311.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251116,
+        "open_price": 3598.0,
+        "high_price": 3598.0,
+        "low_price": 3475.0,
+        "close_price": 3518.0,
+        "volume": 3539070.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251115,
+        "open_price": 3520.0,
+        "high_price": 3533.0,
+        "low_price": 3487.0,
+        "close_price": 3505.0,
+        "volume": 2482237.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251112,
+        "open_price": 3514.0,
+        "high_price": 3549.0,
+        "low_price": 3493.0,
+        "close_price": 3500.0,
+        "volume": 862157.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251111,
+        "open_price": 3500.0,
+        "high_price": 3584.0,
+        "low_price": 3474.0,
+        "close_price": 3497.0,
+        "volume": 1548184.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251110,
+        "open_price": 3500.0,
+        "high_price": 3500.0,
+        "low_price": 3440.0,
+        "close_price": 3480.0,
+        "volume": 773955.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251109,
+        "open_price": 3550.0,
+        "high_price": 3550.0,
+        "low_price": 3435.0,
+        "close_price": 3484.0,
+        "volume": 2485317.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251108,
+        "open_price": 3640.0,
+        "high_price": 3640.0,
+        "low_price": 3551.0,
+        "close_price": 3541.0,
+        "volume": 730324.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251105,
+        "open_price": 3545.0,
+        "high_price": 3574.0,
+        "low_price": 3506.0,
+        "close_price": 3535.0,
+        "volume": 3152368.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251104,
+        "open_price": 3509.0,
+        "high_price": 3646.0,
+        "low_price": 3509.0,
+        "close_price": 3517.0,
+        "volume": 12959691.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251103,
+        "open_price": 3699.0,
+        "high_price": 3699.0,
+        "low_price": 3500.0,
+        "close_price": 3617.0,
+        "volume": 6915417.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251102,
+        "open_price": 3510.0,
+        "high_price": 3615.0,
+        "low_price": 3505.0,
+        "close_price": 3605.0,
+        "volume": 7406240.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251101,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3487.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251029,
+        "open_price": 3475.0,
+        "high_price": 3559.0,
+        "low_price": 3426.0,
+        "close_price": 3487.0,
+        "volume": 2126834.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251028,
+        "open_price": 3573.0,
+        "high_price": 3573.0,
+        "low_price": 3440.0,
+        "close_price": 3481.0,
+        "volume": 11024614.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251027,
+        "open_price": 3430.0,
+        "high_price": 3557.0,
+        "low_price": 3430.0,
+        "close_price": 3469.0,
+        "volume": 2047596.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251026,
+        "open_price": 3495.0,
+        "high_price": 3495.0,
+        "low_price": 3371.0,
+        "close_price": 3457.0,
+        "volume": 6617529.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251025,
+        "open_price": 3470.0,
+        "high_price": 3470.0,
+        "low_price": 3274.0,
+        "close_price": 3394.0,
+        "volume": 9228124.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251022,
+        "open_price": 3383.0,
+        "high_price": 3399.0,
+        "low_price": 3313.0,
+        "close_price": 3375.0,
+        "volume": 808559.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251021,
+        "open_price": 3306.0,
+        "high_price": 3499.0,
+        "low_price": 3306.0,
+        "close_price": 3382.0,
+        "volume": 1234100.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251020,
+        "open_price": 3371.0,
+        "high_price": 3495.0,
+        "low_price": 3311.0,
+        "close_price": 3408.0,
+        "volume": 1682943.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251019,
+        "open_price": 3510.0,
+        "high_price": 3510.0,
+        "low_price": 3384.0,
+        "close_price": 3412.0,
+        "volume": 4160968.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251018,
+        "open_price": 3400.0,
+        "high_price": 3448.0,
+        "low_price": 3340.0,
+        "close_price": 3414.0,
+        "volume": 10497597.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251015,
+        "open_price": 3390.0,
+        "high_price": 3399.0,
+        "low_price": 3289.0,
+        "close_price": 3348.0,
+        "volume": 2248032.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251014,
+        "open_price": 3348.0,
+        "high_price": 3348.0,
+        "low_price": 3300.0,
+        "close_price": 3348.0,
+        "volume": 22511848.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251013,
+        "open_price": 3251.0,
+        "high_price": 3251.0,
+        "low_price": 3251.0,
+        "close_price": 3251.0,
+        "volume": 6798154.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251012,
+        "open_price": 3128.0,
+        "high_price": 3161.0,
+        "low_price": 3103.0,
+        "close_price": 3157.0,
+        "volume": 12037326.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251011,
+        "open_price": 3112.0,
+        "high_price": 3112.0,
+        "low_price": 3061.0,
+        "close_price": 3069.0,
+        "volume": 2288442.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251008,
+        "open_price": 3126.0,
+        "high_price": 3150.0,
+        "low_price": 3062.0,
+        "close_price": 3067.0,
+        "volume": 11126171.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251007,
+        "open_price": 3177.0,
+        "high_price": 3249.0,
+        "low_price": 3075.0,
+        "close_price": 3156.0,
+        "volume": 1471294.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251006,
+        "open_price": 3212.0,
+        "high_price": 3212.0,
+        "low_price": 3098.0,
+        "close_price": 3158.0,
+        "volume": 2133863.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251005,
+        "open_price": 3212.0,
+        "high_price": 3212.0,
+        "low_price": 3131.0,
+        "close_price": 3163.0,
+        "volume": 2873204.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251004,
+        "open_price": 3031.0,
+        "high_price": 3183.0,
+        "low_price": 3031.0,
+        "close_price": 3119.0,
+        "volume": 1809762.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20251001,
+        "open_price": 3011.0,
+        "high_price": 3090.0,
+        "low_price": 3006.0,
+        "close_price": 3091.0,
+        "volume": 442571.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250930,
+        "open_price": 3250.0,
+        "high_price": 3250.0,
+        "low_price": 3076.0,
+        "close_price": 3094.0,
+        "volume": 5720330.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250929,
+        "open_price": 3171.0,
+        "high_price": 3171.0,
+        "low_price": 3169.0,
+        "close_price": 3171.0,
+        "volume": 8657457.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250928,
+        "open_price": 3107.0,
+        "high_price": 3107.0,
+        "low_price": 3061.0,
+        "close_price": 3079.0,
+        "volume": 3551939.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250927,
+        "open_price": 2957.0,
+        "high_price": 3017.0,
+        "low_price": 2945.0,
+        "close_price": 3017.0,
+        "volume": 12453143.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250924,
+        "open_price": 2987.0,
+        "high_price": 2999.0,
+        "low_price": 2987.0,
+        "close_price": 2930.0,
+        "volume": 353324.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250923,
+        "open_price": 2905.0,
+        "high_price": 2962.0,
+        "low_price": 2892.0,
+        "close_price": 2925.0,
+        "volume": 107342.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250922,
+        "open_price": 2997.0,
+        "high_price": 3004.0,
+        "low_price": 2920.0,
+        "close_price": 2925.0,
+        "volume": 584213.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250921,
+        "open_price": 2896.0,
+        "high_price": 2960.0,
+        "low_price": 2896.0,
+        "close_price": 2917.0,
+        "volume": 3864159.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250920,
+        "open_price": 2947.0,
+        "high_price": 2950.0,
+        "low_price": 2947.0,
+        "close_price": 2985.0,
+        "volume": 2879474.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250917,
+        "open_price": 3061.0,
+        "high_price": 3061.0,
+        "low_price": 2999.0,
+        "close_price": 3038.0,
+        "volume": 2839287.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250916,
+        "open_price": 3061.0,
+        "high_price": 3100.0,
+        "low_price": 3060.0,
+        "close_price": 3091.0,
+        "volume": 451410.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250915,
+        "open_price": 3007.0,
+        "high_price": 3110.0,
+        "low_price": 3007.0,
+        "close_price": 3092.0,
+        "volume": 1055799.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250914,
+        "open_price": 3060.0,
+        "high_price": 3162.0,
+        "low_price": 3060.0,
+        "close_price": 3099.0,
+        "volume": 585875.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250913,
+        "open_price": 3150.0,
+        "high_price": 3150.0,
+        "low_price": 3082.0,
+        "close_price": 3098.0,
+        "volume": 661149.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250909,
+        "open_price": 3129.0,
+        "high_price": 3132.0,
+        "low_price": 3080.0,
+        "close_price": 3100.0,
+        "volume": 656420.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250908,
+        "open_price": 3089.0,
+        "high_price": 3121.0,
+        "low_price": 3061.0,
+        "close_price": 3098.0,
+        "volume": 4085904.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250907,
+        "open_price": 3180.0,
+        "high_price": 3180.0,
+        "low_price": 3008.0,
+        "close_price": 3031.0,
+        "volume": 4246571.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250906,
+        "open_price": 3239.0,
+        "high_price": 3240.0,
+        "low_price": 3086.0,
+        "close_price": 3101.0,
+        "volume": 4561908.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250903,
+        "open_price": 3181.0,
+        "high_price": 3182.0,
+        "low_price": 3151.0,
+        "close_price": 3181.0,
+        "volume": 8528511.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250902,
+        "open_price": 3016.0,
+        "high_price": 3145.0,
+        "low_price": 3016.0,
+        "close_price": 3090.0,
+        "volume": 2216370.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250831,
+        "open_price": 2985.0,
+        "high_price": 3100.0,
+        "low_price": 2985.0,
+        "close_price": 3054.0,
+        "volume": 560831.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250830,
+        "open_price": 3040.0,
+        "high_price": 3066.0,
+        "low_price": 2977.0,
+        "close_price": 3055.0,
+        "volume": 798084.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250827,
+        "open_price": 3169.0,
+        "high_price": 3169.0,
+        "low_price": 3040.0,
+        "close_price": 3069.0,
+        "volume": 1737307.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250826,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3082.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250825,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3082.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250823,
+        "open_price": 3109.0,
+        "high_price": 3172.0,
+        "low_price": 3061.0,
+        "close_price": 3082.0,
+        "volume": 2053512.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250820,
+        "open_price": 3099.0,
+        "high_price": 3129.0,
+        "low_price": 3074.0,
+        "close_price": 3080.0,
+        "volume": 1429268.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250819,
+        "open_price": 3024.0,
+        "high_price": 3089.0,
+        "low_price": 3022.0,
+        "close_price": 3071.0,
+        "volume": 2339196.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250818,
+        "open_price": 3149.0,
+        "high_price": 3149.0,
+        "low_price": 3105.0,
+        "close_price": 3115.0,
+        "volume": 247024.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250817,
+        "open_price": 3020.0,
+        "high_price": 3199.0,
+        "low_price": 3020.0,
+        "close_price": 3115.0,
+        "volume": 542865.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250816,
+        "open_price": 3104.0,
+        "high_price": 3190.0,
+        "low_price": 3104.0,
+        "close_price": 3113.0,
+        "volume": 4386487.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250813,
+        "open_price": 3104.0,
+        "high_price": 3104.0,
+        "low_price": 3104.0,
+        "close_price": 3199.0,
+        "volume": 66107.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250812,
+        "open_price": 3200.0,
+        "high_price": 3200.0,
+        "low_price": 3107.0,
+        "close_price": 3200.0,
+        "volume": 129468.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250811,
+        "open_price": 3119.0,
+        "high_price": 3210.0,
+        "low_price": 3119.0,
+        "close_price": 3203.0,
+        "volume": 626085.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250810,
+        "open_price": 3154.0,
+        "high_price": 3230.0,
+        "low_price": 3152.0,
+        "close_price": 3215.0,
+        "volume": 1635733.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250809,
+        "open_price": 3198.0,
+        "high_price": 3307.0,
+        "low_price": 3198.0,
+        "close_price": 3249.0,
+        "volume": 2434887.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250806,
+        "open_price": 3230.0,
+        "high_price": 3230.0,
+        "low_price": 3210.0,
+        "close_price": 3296.0,
+        "volume": 604755.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250805,
+        "open_price": 3326.0,
+        "high_price": 3326.0,
+        "low_price": 3271.0,
+        "close_price": 3309.0,
+        "volume": 2184259.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250804,
+        "open_price": 3379.0,
+        "high_price": 3379.0,
+        "low_price": 3299.0,
+        "close_price": 3326.0,
+        "volume": 4406927.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250803,
+        "open_price": 3384.0,
+        "high_price": 3384.0,
+        "low_price": 3354.0,
+        "close_price": 3379.0,
+        "volume": 2490471.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250802,
+        "open_price": 3395.0,
+        "high_price": 3434.0,
+        "low_price": 3373.0,
+        "close_price": 3388.0,
+        "volume": 2064685.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250730,
+        "open_price": 3342.0,
+        "high_price": 3398.0,
+        "low_price": 3342.0,
+        "close_price": 3395.0,
+        "volume": 2085267.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250729,
+        "open_price": 3378.0,
+        "high_price": 3378.0,
+        "low_price": 3378.0,
+        "close_price": 3445.0,
+        "volume": 1510824.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250728,
+        "open_price": 3416.0,
+        "high_price": 3416.0,
+        "low_price": 3416.0,
+        "close_price": 3482.0,
+        "volume": 1545784.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250727,
+        "open_price": 3459.0,
+        "high_price": 3468.0,
+        "low_price": 3459.0,
+        "close_price": 3521.0,
+        "volume": 1736564.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250726,
+        "open_price": 3481.0,
+        "high_price": 3578.0,
+        "low_price": 3472.0,
+        "close_price": 3565.0,
+        "volume": 1194598.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250723,
+        "open_price": 3586.0,
+        "high_price": 3648.0,
+        "low_price": 3479.0,
+        "close_price": 3579.0,
+        "volume": 710103.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250722,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3896.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250721,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3896.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250720,
+        "open_price": 3910.0,
+        "high_price": 3977.0,
+        "low_price": 3862.0,
+        "close_price": 3896.0,
+        "volume": 1529983.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250719,
+        "open_price": 3927.0,
+        "high_price": 3927.0,
+        "low_price": 3877.0,
+        "close_price": 3862.0,
+        "volume": 335497.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250716,
+        "open_price": 3914.0,
+        "high_price": 3914.0,
+        "low_price": 3848.0,
+        "close_price": 3858.0,
+        "volume": 1557589.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250715,
+        "open_price": 3866.0,
+        "high_price": 3915.0,
+        "low_price": 3813.0,
+        "close_price": 3837.0,
+        "volume": 1730309.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250714,
+        "open_price": 3924.0,
+        "high_price": 3924.0,
+        "low_price": 3822.0,
+        "close_price": 3830.0,
+        "volume": 1670337.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250713,
+        "open_price": 3851.0,
+        "high_price": 3880.0,
+        "low_price": 3824.0,
+        "close_price": 3813.0,
+        "volume": 841102.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250712,
+        "open_price": 3903.0,
+        "high_price": 3903.0,
+        "low_price": 3805.0,
+        "close_price": 3805.0,
+        "volume": 1069372.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250709,
+        "open_price": 3771.0,
+        "high_price": 3787.0,
+        "low_price": 3734.0,
+        "close_price": 3790.0,
+        "volume": 2088377.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250708,
+        "open_price": 3794.0,
+        "high_price": 3970.0,
+        "low_price": 3787.0,
+        "close_price": 3849.0,
+        "volume": 2093956.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250707,
+        "open_price": 3901.0,
+        "high_price": 4022.0,
+        "low_price": 3843.0,
+        "close_price": 3904.0,
+        "volume": 962183.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250702,
+        "open_price": 3898.0,
+        "high_price": 4046.0,
+        "low_price": 3898.0,
+        "close_price": 3908.0,
+        "volume": 36850371.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250701,
+        "open_price": 3952.0,
+        "high_price": 3952.0,
+        "low_price": 3952.0,
+        "close_price": 4018.0,
+        "volume": 1584512.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250630,
+        "open_price": 4074.0,
+        "high_price": 4074.0,
+        "low_price": 4074.0,
+        "close_price": 4074.0,
+        "volume": 24663104.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250629,
+        "open_price": 4199.0,
+        "high_price": 4199.0,
+        "low_price": 4199.0,
+        "close_price": 4199.0,
+        "volume": 4003354.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250628,
+        "open_price": 4314.0,
+        "high_price": 4314.0,
+        "low_price": 4314.0,
+        "close_price": 4328.0,
+        "volume": 3118509.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4447.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4447.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4447.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4447.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4447.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4447.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4447.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4447.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250611,
+        "open_price": 4548.0,
+        "high_price": 4548.0,
+        "low_price": 4438.0,
+        "close_price": 4447.0,
+        "volume": 381409.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250610,
+        "open_price": 4478.0,
+        "high_price": 4557.0,
+        "low_price": 4401.0,
+        "close_price": 4447.0,
+        "volume": 2969215.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250609,
+        "open_price": 4564.0,
+        "high_price": 4620.0,
+        "low_price": 4469.0,
+        "close_price": 4519.0,
+        "volume": 4748484.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250608,
+        "open_price": 4540.0,
+        "high_price": 4720.0,
+        "low_price": 4530.0,
+        "close_price": 4586.0,
+        "volume": 3981889.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250607,
+        "open_price": 4850.0,
+        "high_price": 4850.0,
+        "low_price": 4648.0,
+        "close_price": 4661.0,
+        "volume": 4209736.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250603,
+        "open_price": 4870.0,
+        "high_price": 4872.0,
+        "low_price": 4737.0,
+        "close_price": 4791.0,
+        "volume": 2037480.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250602,
+        "open_price": 4923.0,
+        "high_price": 4923.0,
+        "low_price": 4755.0,
+        "close_price": 4829.0,
+        "volume": 1310207.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250601,
+        "open_price": 4748.0,
+        "high_price": 4900.0,
+        "low_price": 4720.0,
+        "close_price": 4845.0,
+        "volume": 2781201.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250531,
+        "open_price": 4960.0,
+        "high_price": 4970.0,
+        "low_price": 4759.0,
+        "close_price": 4865.0,
+        "volume": 2214323.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250528,
+        "open_price": 4810.0,
+        "high_price": 5003.0,
+        "low_price": 4810.0,
+        "close_price": 4894.0,
+        "volume": 2567236.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250527,
+        "open_price": 4877.0,
+        "high_price": 4942.0,
+        "low_price": 4877.0,
+        "close_price": 4940.0,
+        "volume": 5942246.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250526,
+        "open_price": 4750.0,
+        "high_price": 4855.0,
+        "low_price": 4666.0,
+        "close_price": 4799.0,
+        "volume": 1849623.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250525,
+        "open_price": 4800.0,
+        "high_price": 4847.0,
+        "low_price": 4677.0,
+        "close_price": 4750.0,
+        "volume": 2017605.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250524,
+        "open_price": 4950.0,
+        "high_price": 4950.0,
+        "low_price": 4732.0,
+        "close_price": 4814.0,
+        "volume": 624933.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250521,
+        "open_price": 4825.0,
+        "high_price": 4915.0,
+        "low_price": 4820.0,
+        "close_price": 4821.0,
+        "volume": 4443518.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250520,
+        "open_price": 5082.0,
+        "high_price": 5091.0,
+        "low_price": 4952.0,
+        "close_price": 4969.0,
+        "volume": 5086865.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250519,
+        "open_price": 5113.0,
+        "high_price": 5113.0,
+        "low_price": 5015.0,
+        "close_price": 5105.0,
+        "volume": 13093350.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250518,
+        "open_price": 4950.0,
+        "high_price": 4998.0,
+        "low_price": 4880.0,
+        "close_price": 4965.0,
+        "volume": 7019915.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250517,
+        "open_price": 4860.0,
+        "high_price": 5016.0,
+        "low_price": 4814.0,
+        "close_price": 4853.0,
+        "volume": 13122474.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250514,
+        "open_price": 4900.0,
+        "high_price": 4980.0,
+        "low_price": 4860.0,
+        "close_price": 4930.0,
+        "volume": 8387292.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250513,
+        "open_price": 5070.0,
+        "high_price": 5090.0,
+        "low_price": 4930.0,
+        "close_price": 5010.0,
+        "volume": 1226711.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250512,
+        "open_price": 5020.0,
+        "high_price": 5020.0,
+        "low_price": 4970.0,
+        "close_price": 5020.0,
+        "volume": 10076829.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250511,
+        "open_price": 4900.0,
+        "high_price": 5030.0,
+        "low_price": 4760.0,
+        "close_price": 4880.0,
+        "volume": 1245623.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250510,
+        "open_price": 4980.0,
+        "high_price": 5000.0,
+        "low_price": 4880.0,
+        "close_price": 4890.0,
+        "volume": 4821831.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250507,
+        "open_price": 4973.0,
+        "high_price": 5027.0,
+        "low_price": 4901.0,
+        "close_price": 5022.0,
+        "volume": 5186491.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250506,
+        "open_price": 4946.0,
+        "high_price": 4965.0,
+        "low_price": 4800.0,
+        "close_price": 4881.0,
+        "volume": 4454931.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250505,
+        "open_price": 4814.0,
+        "high_price": 4973.0,
+        "low_price": 4814.0,
+        "close_price": 4906.0,
+        "volume": 2836123.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250504,
+        "open_price": 4823.0,
+        "high_price": 4914.0,
+        "low_price": 4710.0,
+        "close_price": 4841.0,
+        "volume": 9508043.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250503,
+        "open_price": 4787.0,
+        "high_price": 4990.0,
+        "low_price": 4787.0,
+        "close_price": 4852.0,
+        "volume": 7180811.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250430,
+        "open_price": 4938.0,
+        "high_price": 4938.0,
+        "low_price": 4890.0,
+        "close_price": 4935.0,
+        "volume": 8444284.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250429,
+        "open_price": 4644.0,
+        "high_price": 4838.0,
+        "low_price": 4582.0,
+        "close_price": 4795.0,
+        "volume": 11106803.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250428,
+        "open_price": 4780.0,
+        "high_price": 4844.0,
+        "low_price": 4620.0,
+        "close_price": 4698.0,
+        "volume": 3296133.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250427,
+        "open_price": 4759.0,
+        "high_price": 4799.0,
+        "low_price": 4758.0,
+        "close_price": 4758.0,
+        "volume": 6639825.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250426,
+        "open_price": 5032.0,
+        "high_price": 5032.0,
+        "low_price": 4740.0,
+        "close_price": 4905.0,
+        "volume": 4202391.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250423,
+        "open_price": 5090.0,
+        "high_price": 5090.0,
+        "low_price": 4832.0,
+        "close_price": 4886.0,
+        "volume": 6257225.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250422,
+        "open_price": 4981.0,
+        "high_price": 4981.0,
+        "low_price": 4981.0,
+        "close_price": 4981.0,
+        "volume": 4537940.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250421,
+        "open_price": 4841.0,
+        "high_price": 4841.0,
+        "low_price": 4841.0,
+        "close_price": 4836.0,
+        "volume": 3346130.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250420,
+        "open_price": 4700.0,
+        "high_price": 4700.0,
+        "low_price": 4698.0,
+        "close_price": 4700.0,
+        "volume": 4096837.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250419,
+        "open_price": 4645.0,
+        "high_price": 4645.0,
+        "low_price": 4522.0,
+        "close_price": 4564.0,
+        "volume": 6814531.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250416,
+        "open_price": 4499.0,
+        "high_price": 4610.0,
+        "low_price": 4487.0,
+        "close_price": 4510.0,
+        "volume": 3552344.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250415,
+        "open_price": 4640.0,
+        "high_price": 4672.0,
+        "low_price": 4500.0,
+        "close_price": 4625.0,
+        "volume": 891985.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250414,
+        "open_price": 4633.0,
+        "high_price": 4633.0,
+        "low_price": 4633.0,
+        "close_price": 4633.0,
+        "volume": 10382244.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250413,
+        "open_price": 4500.0,
+        "high_price": 4526.0,
+        "low_price": 4500.0,
+        "close_price": 4499.0,
+        "volume": 2820235.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250412,
+        "open_price": 4271.0,
+        "high_price": 4470.0,
+        "low_price": 4271.0,
+        "close_price": 4395.0,
+        "volume": 2545374.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250409,
+        "open_price": 4550.0,
+        "high_price": 4550.0,
+        "low_price": 4301.0,
+        "close_price": 4399.0,
+        "volume": 2615352.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250408,
+        "open_price": 4432.0,
+        "high_price": 4432.0,
+        "low_price": 4430.0,
+        "close_price": 4432.0,
+        "volume": 5791738.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250407,
+        "open_price": 4224.0,
+        "high_price": 4340.0,
+        "low_price": 4224.0,
+        "close_price": 4303.0,
+        "volume": 1542732.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250406,
+        "open_price": 4370.0,
+        "high_price": 4370.0,
+        "low_price": 4240.0,
+        "close_price": 4354.0,
+        "volume": 596366.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250405,
+        "open_price": 4340.0,
+        "high_price": 4340.0,
+        "low_price": 4278.0,
+        "close_price": 4371.0,
+        "volume": 1127108.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250330,
+        "open_price": 4409.0,
+        "high_price": 4495.0,
+        "low_price": 4333.0,
+        "close_price": 4410.0,
+        "volume": 402668.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250329,
+        "open_price": 4328.0,
+        "high_price": 4420.0,
+        "low_price": 4302.0,
+        "close_price": 4409.0,
+        "volume": 988797.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250326,
+        "open_price": 4545.0,
+        "high_price": 4545.0,
+        "low_price": 4327.0,
+        "close_price": 4435.0,
+        "volume": 789581.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250325,
+        "open_price": 4360.0,
+        "high_price": 4589.0,
+        "low_price": 4331.0,
+        "close_price": 4460.0,
+        "volume": 703662.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250318,
+        "open_price": 4360.0,
+        "high_price": 4360.0,
+        "low_price": 4360.0,
+        "close_price": 4464.0,
+        "volume": 771343.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250317,
+        "open_price": 4500.0,
+        "high_price": 4600.0,
+        "low_price": 4487.0,
+        "close_price": 4494.0,
+        "volume": 3867239.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250316,
+        "open_price": 4655.0,
+        "high_price": 4724.0,
+        "low_price": 4506.0,
+        "close_price": 4625.0,
+        "volume": 1033496.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250315,
+        "open_price": 4655.0,
+        "high_price": 4655.0,
+        "low_price": 4532.0,
+        "close_price": 4644.0,
+        "volume": 3576221.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250312,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4520.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250311,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4520.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7150.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7150.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7150.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250305,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7150.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250304,
+        "open_price": 7170.0,
+        "high_price": 7300.0,
+        "low_price": 7050.0,
+        "close_price": 7150.0,
+        "volume": 354995.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250303,
+        "open_price": 7150.0,
+        "high_price": 7230.0,
+        "low_price": 7150.0,
+        "close_price": 7150.0,
+        "volume": 2945397.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250302,
+        "open_price": 7400.0,
+        "high_price": 7400.0,
+        "low_price": 7210.0,
+        "close_price": 7370.0,
+        "volume": 1217503.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250301,
+        "open_price": 7290.0,
+        "high_price": 7390.0,
+        "low_price": 7290.0,
+        "close_price": 7420.0,
+        "volume": 75190.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250226,
+        "open_price": 7400.0,
+        "high_price": 7590.0,
+        "low_price": 7390.0,
+        "close_price": 7420.0,
+        "volume": 7523500.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250225,
+        "open_price": 7790.0,
+        "high_price": 7790.0,
+        "low_price": 7370.0,
+        "close_price": 7610.0,
+        "volume": 1184018.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250224,
+        "open_price": 7580.0,
+        "high_price": 7580.0,
+        "low_price": 7500.0,
+        "close_price": 7580.0,
+        "volume": 8375233.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250223,
+        "open_price": 7460.0,
+        "high_price": 7510.0,
+        "low_price": 7290.0,
+        "close_price": 7360.0,
+        "volume": 1036344.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250222,
+        "open_price": 7450.0,
+        "high_price": 7450.0,
+        "low_price": 7300.0,
+        "close_price": 7330.0,
+        "volume": 2090114.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250219,
+        "open_price": 7500.0,
+        "high_price": 7620.0,
+        "low_price": 7480.0,
+        "close_price": 7520.0,
+        "volume": 813977.0
+    },
+    {
+        "symbol": "فاما",
+        "trade_date": 20250218,
+        "open_price": 7600.0,
+        "high_price": 7690.0,
+        "low_price": 7480.0,
+        "close_price": 7510.0,
+        "volume": 2075137.0
+    }
+]

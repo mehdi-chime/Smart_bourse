@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260901,
+        "open_price": 68900.0,
+        "high_price": 69160.0,
+        "low_price": 65140.0,
+        "close_price": 67080.0,
+        "volume": 9886108.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260831,
+        "open_price": 67060.0,
+        "high_price": 67900.0,
+        "low_price": 67050.0,
+        "close_price": 67150.0,
+        "volume": 12336979.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260829,
+        "open_price": 69800.0,
+        "high_price": 70810.0,
+        "low_price": 68450.0,
+        "close_price": 69120.0,
+        "volume": 15416667.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260826,
+        "open_price": 71880.0,
+        "high_price": 71880.0,
+        "low_price": 69450.0,
+        "close_price": 70460.0,
+        "volume": 13436466.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260825,
+        "open_price": 70000.0,
+        "high_price": 71840.0,
+        "low_price": 70000.0,
+        "close_price": 70480.0,
+        "volume": 6615799.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260824,
+        "open_price": 69990.0,
+        "high_price": 71900.0,
+        "low_price": 69750.0,
+        "close_price": 70120.0,
+        "volume": 7562807.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260823,
+        "open_price": 74940.0,
+        "high_price": 74940.0,
+        "low_price": 71500.0,
+        "close_price": 71900.0,
+        "volume": 11888911.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260822,
+        "open_price": 73410.0,
+        "high_price": 73950.0,
+        "low_price": 72530.0,
+        "close_price": 73710.0,
+        "volume": 7334464.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260819,
+        "open_price": 71200.0,
+        "high_price": 72120.0,
+        "low_price": 68730.0,
+        "close_price": 71800.0,
+        "volume": 9925790.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260818,
+        "open_price": 70150.0,
+        "high_price": 71370.0,
+        "low_price": 69520.0,
+        "close_price": 70020.0,
+        "volume": 10663268.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260817,
+        "open_price": 72310.0,
+        "high_price": 72310.0,
+        "low_price": 70730.0,
+        "close_price": 71670.0,
+        "volume": 4722659.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260816,
+        "open_price": 67280.0,
+        "high_price": 71370.0,
+        "low_price": 67280.0,
+        "close_price": 70220.0,
+        "volume": 7449211.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260815,
+        "open_price": 72900.0,
+        "high_price": 72900.0,
+        "low_price": 69150.0,
+        "close_price": 69300.0,
+        "volume": 6443889.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260811,
+        "open_price": 71250.0,
+        "high_price": 71380.0,
+        "low_price": 70000.0,
+        "close_price": 71280.0,
+        "volume": 9208731.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260810,
+        "open_price": 66210.0,
+        "high_price": 70140.0,
+        "low_price": 66210.0,
+        "close_price": 69310.0,
+        "volume": 7732323.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260809,
+        "open_price": 71000.0,
+        "high_price": 71000.0,
+        "low_price": 67550.0,
+        "close_price": 68100.0,
+        "volume": 20165817.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260808,
+        "open_price": 69640.0,
+        "high_price": 69640.0,
+        "low_price": 69010.0,
+        "close_price": 69630.0,
+        "volume": 5774329.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260805,
+        "open_price": 67730.0,
+        "high_price": 67730.0,
+        "low_price": 66500.0,
+        "close_price": 67620.0,
+        "volume": 11769527.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260803,
+        "open_price": 64230.0,
+        "high_price": 66090.0,
+        "low_price": 64230.0,
+        "close_price": 65760.0,
+        "volume": 12387626.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260802,
+        "open_price": 67000.0,
+        "high_price": 67000.0,
+        "low_price": 63500.0,
+        "close_price": 64170.0,
+        "volume": 15926260.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260801,
+        "open_price": 66000.0,
+        "high_price": 67330.0,
+        "low_price": 65060.0,
+        "close_price": 65460.0,
+        "volume": 12015752.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260729,
+        "open_price": 65510.0,
+        "high_price": 68930.0,
+        "low_price": 65500.0,
+        "close_price": 67070.0,
+        "volume": 14961883.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260728,
+        "open_price": 67400.0,
+        "high_price": 67450.0,
+        "low_price": 66010.0,
+        "close_price": 67380.0,
+        "volume": 11018609.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260727,
+        "open_price": 64000.0,
+        "high_price": 66800.0,
+        "low_price": 63890.0,
+        "close_price": 65490.0,
+        "volume": 19185795.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260726,
+        "open_price": 64950.0,
+        "high_price": 64950.0,
+        "low_price": 63400.0,
+        "close_price": 64860.0,
+        "volume": 16533434.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260725,
+        "open_price": 63190.0,
+        "high_price": 63190.0,
+        "low_price": 62010.0,
+        "close_price": 63060.0,
+        "volume": 29453355.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260722,
+        "open_price": 61350.0,
+        "high_price": 61350.0,
+        "low_price": 61350.0,
+        "close_price": 61350.0,
+        "volume": 5411614.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260721,
+        "open_price": 59570.0,
+        "high_price": 59570.0,
+        "low_price": 59570.0,
+        "close_price": 59570.0,
+        "volume": 3639175.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260720,
+        "open_price": 57840.0,
+        "high_price": 57840.0,
+        "low_price": 57840.0,
+        "close_price": 57840.0,
+        "volume": 3792138.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260719,
+        "open_price": 56160.0,
+        "high_price": 56160.0,
+        "low_price": 56160.0,
+        "close_price": 56160.0,
+        "volume": 1738568.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260718,
+        "open_price": 54470.0,
+        "high_price": 55990.0,
+        "low_price": 54450.0,
+        "close_price": 54530.0,
+        "volume": 9624939.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260715,
+        "open_price": 56000.0,
+        "high_price": 56140.0,
+        "low_price": 55180.0,
+        "close_price": 56130.0,
+        "volume": 9032947.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260714,
+        "open_price": 53540.0,
+        "high_price": 56840.0,
+        "low_price": 53540.0,
+        "close_price": 54510.0,
+        "volume": 9875777.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260713,
+        "open_price": 54850.0,
+        "high_price": 56540.0,
+        "low_price": 54850.0,
+        "close_price": 55190.0,
+        "volume": 13516639.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260712,
+        "open_price": 56540.0,
+        "high_price": 56540.0,
+        "low_price": 56540.0,
+        "close_price": 56540.0,
+        "volume": 1883798.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260711,
+        "open_price": 58230.0,
+        "high_price": 59580.0,
+        "low_price": 58230.0,
+        "close_price": 58280.0,
+        "volume": 15495066.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260708,
+        "open_price": 61300.0,
+        "high_price": 61420.0,
+        "low_price": 59580.0,
+        "close_price": 60030.0,
+        "volume": 15928924.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260707,
+        "open_price": 61700.0,
+        "high_price": 61860.0,
+        "low_price": 60300.0,
+        "close_price": 61420.0,
+        "volume": 15147579.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260701,
+        "open_price": 60090.0,
+        "high_price": 60090.0,
+        "low_price": 59030.0,
+        "close_price": 60060.0,
+        "volume": 34599626.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260630,
+        "open_price": 58340.0,
+        "high_price": 58340.0,
+        "low_price": 58340.0,
+        "close_price": 58340.0,
+        "volume": 3364874.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260629,
+        "open_price": 56650.0,
+        "high_price": 56650.0,
+        "low_price": 55640.0,
+        "close_price": 56650.0,
+        "volume": 12360693.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260628,
+        "open_price": 55180.0,
+        "high_price": 55180.0,
+        "low_price": 53520.0,
+        "close_price": 55000.0,
+        "volume": 34652652.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260627,
+        "open_price": 53580.0,
+        "high_price": 53580.0,
+        "low_price": 53580.0,
+        "close_price": 53580.0,
+        "volume": 5681804.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260623,
+        "open_price": 52020.0,
+        "high_price": 52020.0,
+        "low_price": 52020.0,
+        "close_price": 52020.0,
+        "volume": 4593176.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260622,
+        "open_price": 50700.0,
+        "high_price": 52250.0,
+        "low_price": 49980.0,
+        "close_price": 50510.0,
+        "volume": 15649804.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260621,
+        "open_price": 52650.0,
+        "high_price": 53260.0,
+        "low_price": 51080.0,
+        "close_price": 51520.0,
+        "volume": 13969718.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260620,
+        "open_price": 53190.0,
+        "high_price": 53400.0,
+        "low_price": 50750.0,
+        "close_price": 52650.0,
+        "volume": 20504478.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260617,
+        "open_price": 50990.0,
+        "high_price": 53700.0,
+        "low_price": 50990.0,
+        "close_price": 51850.0,
+        "volume": 25650896.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260616,
+        "open_price": 52810.0,
+        "high_price": 52810.0,
+        "low_price": 51290.0,
+        "close_price": 52560.0,
+        "volume": 33122685.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260615,
+        "open_price": 51280.0,
+        "high_price": 51280.0,
+        "low_price": 51280.0,
+        "close_price": 51280.0,
+        "volume": 4988523.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260614,
+        "open_price": 49790.0,
+        "high_price": 49790.0,
+        "low_price": 49790.0,
+        "close_price": 49790.0,
+        "volume": 5996383.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260613,
+        "open_price": 48340.0,
+        "high_price": 48340.0,
+        "low_price": 48340.0,
+        "close_price": 48340.0,
+        "volume": 5413653.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260610,
+        "open_price": 46940.0,
+        "high_price": 46940.0,
+        "low_price": 46800.0,
+        "close_price": 46940.0,
+        "volume": 10284352.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260609,
+        "open_price": 45580.0,
+        "high_price": 45580.0,
+        "low_price": 45580.0,
+        "close_price": 45580.0,
+        "volume": 3099128.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260608,
+        "open_price": 44250.0,
+        "high_price": 45490.0,
+        "low_price": 44250.0,
+        "close_price": 44260.0,
+        "volume": 7808054.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260607,
+        "open_price": 45600.0,
+        "high_price": 45610.0,
+        "low_price": 45600.0,
+        "close_price": 45610.0,
+        "volume": 2915909.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260606,
+        "open_price": 45000.0,
+        "high_price": 45500.0,
+        "low_price": 43200.0,
+        "close_price": 44290.0,
+        "volume": 15366805.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260603,
+        "open_price": 46000.0,
+        "high_price": 46000.0,
+        "low_price": 44020.0,
+        "close_price": 44530.0,
+        "volume": 23095876.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260602,
+        "open_price": 45500.0,
+        "high_price": 45630.0,
+        "low_price": 44310.0,
+        "close_price": 45380.0,
+        "volume": 15499504.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260601,
+        "open_price": 44350.0,
+        "high_price": 44350.0,
+        "low_price": 43290.0,
+        "close_price": 44310.0,
+        "volume": 24572607.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260531,
+        "open_price": 43060.0,
+        "high_price": 43060.0,
+        "low_price": 43060.0,
+        "close_price": 43060.0,
+        "volume": 5509058.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260530,
+        "open_price": 41810.0,
+        "high_price": 41810.0,
+        "low_price": 41810.0,
+        "close_price": 41810.0,
+        "volume": 3206877.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260526,
+        "open_price": 40000.0,
+        "high_price": 41010.0,
+        "low_price": 39880.0,
+        "close_price": 40600.0,
+        "volume": 12197084.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260525,
+        "open_price": 39880.0,
+        "high_price": 39880.0,
+        "low_price": 39100.0,
+        "close_price": 39820.0,
+        "volume": 35670016.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260524,
+        "open_price": 38720.0,
+        "high_price": 38720.0,
+        "low_price": 38720.0,
+        "close_price": 38720.0,
+        "volume": 2604258.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260523,
+        "open_price": 37000.0,
+        "high_price": 38110.0,
+        "low_price": 37000.0,
+        "close_price": 37600.0,
+        "volume": 80498125.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260520,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32510.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260519,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32510.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32510.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32510.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32510.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32510.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32510.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32510.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32510.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32510.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32510.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32510.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32510.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32510.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32510.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32510.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32510.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32510.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32510.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32510.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32510.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32510.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32510.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 39310.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 39310.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 39310.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 39310.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 39310.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 39310.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 39310.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 39310.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 39310.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 39310.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 39310.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 39310.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 39310.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 39310.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 39310.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 39310.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 39310.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 39310.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 39310.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 39310.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 39310.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 39310.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 39310.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 39310.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 39310.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 39310.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 39310.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 39310.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 39310.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260225,
+        "open_price": 38200.0,
+        "high_price": 39810.0,
+        "low_price": 38200.0,
+        "close_price": 39310.0,
+        "volume": 1847799.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260224,
+        "open_price": 39800.0,
+        "high_price": 41100.0,
+        "low_price": 38900.0,
+        "close_price": 39000.0,
+        "volume": 2882831.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260223,
+        "open_price": 39210.0,
+        "high_price": 40340.0,
+        "low_price": 39210.0,
+        "close_price": 40100.0,
+        "volume": 2448644.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260222,
+        "open_price": 39110.0,
+        "high_price": 40220.0,
+        "low_price": 39110.0,
+        "close_price": 39170.0,
+        "volume": 3880978.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260221,
+        "open_price": 40310.0,
+        "high_price": 40310.0,
+        "low_price": 40310.0,
+        "close_price": 40310.0,
+        "volume": 987008.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260218,
+        "open_price": 43000.0,
+        "high_price": 43000.0,
+        "low_price": 40720.0,
+        "close_price": 41550.0,
+        "volume": 1005716.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260217,
+        "open_price": 40010.0,
+        "high_price": 42100.0,
+        "low_price": 40010.0,
+        "close_price": 41920.0,
+        "volume": 1776509.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260216,
+        "open_price": 39640.0,
+        "high_price": 41090.0,
+        "low_price": 39640.0,
+        "close_price": 40880.0,
+        "volume": 976495.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260215,
+        "open_price": 39730.0,
+        "high_price": 41370.0,
+        "low_price": 39570.0,
+        "close_price": 40030.0,
+        "volume": 2723045.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260214,
+        "open_price": 40880.0,
+        "high_price": 40880.0,
+        "low_price": 40030.0,
+        "close_price": 40790.0,
+        "volume": 3655846.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260210,
+        "open_price": 38850.0,
+        "high_price": 41210.0,
+        "low_price": 38850.0,
+        "close_price": 39690.0,
+        "volume": 2581660.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260209,
+        "open_price": 40100.0,
+        "high_price": 40790.0,
+        "low_price": 40040.0,
+        "close_price": 40050.0,
+        "volume": 3589766.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260208,
+        "open_price": 42120.0,
+        "high_price": 42140.0,
+        "low_price": 40980.0,
+        "close_price": 41270.0,
+        "volume": 1252899.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260207,
+        "open_price": 42230.0,
+        "high_price": 42240.0,
+        "low_price": 41820.0,
+        "close_price": 42240.0,
+        "volume": 2625815.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260203,
+        "open_price": 42340.0,
+        "high_price": 42340.0,
+        "low_price": 40460.0,
+        "close_price": 41010.0,
+        "volume": 1904848.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260202,
+        "open_price": 41310.0,
+        "high_price": 41310.0,
+        "low_price": 40160.0,
+        "close_price": 41280.0,
+        "volume": 1412451.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260201,
+        "open_price": 39010.0,
+        "high_price": 41100.0,
+        "low_price": 38830.0,
+        "close_price": 40110.0,
+        "volume": 1424252.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260131,
+        "open_price": 40260.0,
+        "high_price": 41580.0,
+        "low_price": 39880.0,
+        "close_price": 39960.0,
+        "volume": 2824081.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260128,
+        "open_price": 41090.0,
+        "high_price": 42000.0,
+        "low_price": 41090.0,
+        "close_price": 41110.0,
+        "volume": 9505454.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260127,
+        "open_price": 42360.0,
+        "high_price": 42360.0,
+        "low_price": 42360.0,
+        "close_price": 42360.0,
+        "volume": 1127482.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260126,
+        "open_price": 43660.0,
+        "high_price": 43660.0,
+        "low_price": 43660.0,
+        "close_price": 43660.0,
+        "volume": 761047.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260125,
+        "open_price": 45010.0,
+        "high_price": 45490.0,
+        "low_price": 45010.0,
+        "close_price": 45010.0,
+        "volume": 5689543.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260124,
+        "open_price": 46400.0,
+        "high_price": 46400.0,
+        "low_price": 46400.0,
+        "close_price": 46400.0,
+        "volume": 1107406.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260121,
+        "open_price": 47220.0,
+        "high_price": 48440.0,
+        "low_price": 47220.0,
+        "close_price": 47830.0,
+        "volume": 3631969.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260120,
+        "open_price": 47700.0,
+        "high_price": 48270.0,
+        "low_price": 46840.0,
+        "close_price": 47030.0,
+        "volume": 4951590.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260119,
+        "open_price": 48950.0,
+        "high_price": 49000.0,
+        "low_price": 47680.0,
+        "close_price": 48280.0,
+        "volume": 1785813.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260118,
+        "open_price": 46650.0,
+        "high_price": 48850.0,
+        "low_price": 46500.0,
+        "close_price": 47670.0,
+        "volume": 3899965.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260114,
+        "open_price": 47930.0,
+        "high_price": 47930.0,
+        "low_price": 47930.0,
+        "close_price": 47930.0,
+        "volume": 844380.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260113,
+        "open_price": 50780.0,
+        "high_price": 51350.0,
+        "low_price": 49030.0,
+        "close_price": 49410.0,
+        "volume": 2062797.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260112,
+        "open_price": 50620.0,
+        "high_price": 50640.0,
+        "low_price": 49580.0,
+        "close_price": 50540.0,
+        "volume": 5267696.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260111,
+        "open_price": 47880.0,
+        "high_price": 49600.0,
+        "low_price": 47880.0,
+        "close_price": 49170.0,
+        "volume": 2827137.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260110,
+        "open_price": 49270.0,
+        "high_price": 50250.0,
+        "low_price": 49270.0,
+        "close_price": 49300.0,
+        "volume": 6051333.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260107,
+        "open_price": 51470.0,
+        "high_price": 51470.0,
+        "low_price": 50010.0,
+        "close_price": 50790.0,
+        "volume": 8124204.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260106,
+        "open_price": 49980.0,
+        "high_price": 49980.0,
+        "low_price": 49970.0,
+        "close_price": 49980.0,
+        "volume": 4182443.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260105,
+        "open_price": 47840.0,
+        "high_price": 48590.0,
+        "low_price": 47750.0,
+        "close_price": 48530.0,
+        "volume": 12059957.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20260104,
+        "open_price": 47010.0,
+        "high_price": 47820.0,
+        "low_price": 47010.0,
+        "close_price": 47180.0,
+        "volume": 2919178.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251231,
+        "open_price": 48030.0,
+        "high_price": 49510.0,
+        "low_price": 48030.0,
+        "close_price": 48340.0,
+        "volume": 9414206.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251230,
+        "open_price": 49510.0,
+        "high_price": 49520.0,
+        "low_price": 49510.0,
+        "close_price": 49510.0,
+        "volume": 1171138.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251229,
+        "open_price": 52200.0,
+        "high_price": 52300.0,
+        "low_price": 50870.0,
+        "close_price": 51040.0,
+        "volume": 3105858.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251228,
+        "open_price": 51850.0,
+        "high_price": 52850.0,
+        "low_price": 51530.0,
+        "close_price": 52440.0,
+        "volume": 5066922.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251227,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51320.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251224,
+        "open_price": 51000.0,
+        "high_price": 51720.0,
+        "low_price": 51000.0,
+        "close_price": 51320.0,
+        "volume": 3619383.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251223,
+        "open_price": 50150.0,
+        "high_price": 51050.0,
+        "low_price": 50000.0,
+        "close_price": 50290.0,
+        "volume": 2124160.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251222,
+        "open_price": 52490.0,
+        "high_price": 52650.0,
+        "low_price": 50540.0,
+        "close_price": 51110.0,
+        "volume": 4254855.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251221,
+        "open_price": 52760.0,
+        "high_price": 52760.0,
+        "low_price": 51400.0,
+        "close_price": 52100.0,
+        "volume": 2888579.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251220,
+        "open_price": 51200.0,
+        "high_price": 51370.0,
+        "low_price": 50350.0,
+        "close_price": 51270.0,
+        "volume": 5404604.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251217,
+        "open_price": 50450.0,
+        "high_price": 50450.0,
+        "low_price": 49340.0,
+        "close_price": 49880.0,
+        "volume": 2719457.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251216,
+        "open_price": 50950.0,
+        "high_price": 51360.0,
+        "low_price": 49030.0,
+        "close_price": 50460.0,
+        "volume": 4370950.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251215,
+        "open_price": 51300.0,
+        "high_price": 51300.0,
+        "low_price": 50000.0,
+        "close_price": 50310.0,
+        "volume": 4484397.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251214,
+        "open_price": 52000.0,
+        "high_price": 52000.0,
+        "low_price": 49580.0,
+        "close_price": 50450.0,
+        "volume": 2438944.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251213,
+        "open_price": 50720.0,
+        "high_price": 50720.0,
+        "low_price": 50170.0,
+        "close_price": 50650.0,
+        "volume": 4959327.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251210,
+        "open_price": 49250.0,
+        "high_price": 49250.0,
+        "low_price": 49250.0,
+        "close_price": 49250.0,
+        "volume": 1961420.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251209,
+        "open_price": 47820.0,
+        "high_price": 47820.0,
+        "low_price": 47600.0,
+        "close_price": 47820.0,
+        "volume": 1947015.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251208,
+        "open_price": 45550.0,
+        "high_price": 46500.0,
+        "low_price": 45550.0,
+        "close_price": 46430.0,
+        "volume": 5429016.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251207,
+        "open_price": 45300.0,
+        "high_price": 45780.0,
+        "low_price": 44810.0,
+        "close_price": 45150.0,
+        "volume": 2530416.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251206,
+        "open_price": 45520.0,
+        "high_price": 45520.0,
+        "low_price": 45030.0,
+        "close_price": 45260.0,
+        "volume": 1998194.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251203,
+        "open_price": 45400.0,
+        "high_price": 45530.0,
+        "low_price": 44630.0,
+        "close_price": 44910.0,
+        "volume": 2364005.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251202,
+        "open_price": 45480.0,
+        "high_price": 45480.0,
+        "low_price": 44650.0,
+        "close_price": 44960.0,
+        "volume": 1913616.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251201,
+        "open_price": 45180.0,
+        "high_price": 45500.0,
+        "low_price": 44900.0,
+        "close_price": 45080.0,
+        "volume": 1258477.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251130,
+        "open_price": 44600.0,
+        "high_price": 44960.0,
+        "low_price": 44350.0,
+        "close_price": 44760.0,
+        "volume": 1286705.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251129,
+        "open_price": 44940.0,
+        "high_price": 44940.0,
+        "low_price": 44280.0,
+        "close_price": 44630.0,
+        "volume": 1655556.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251126,
+        "open_price": 45280.0,
+        "high_price": 45280.0,
+        "low_price": 44060.0,
+        "close_price": 44530.0,
+        "volume": 2697329.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251125,
+        "open_price": 44650.0,
+        "high_price": 44920.0,
+        "low_price": 44220.0,
+        "close_price": 44690.0,
+        "volume": 3660886.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251123,
+        "open_price": 44570.0,
+        "high_price": 44570.0,
+        "low_price": 43970.0,
+        "close_price": 44210.0,
+        "volume": 1878571.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251122,
+        "open_price": 44190.0,
+        "high_price": 44290.0,
+        "low_price": 43560.0,
+        "close_price": 43970.0,
+        "volume": 1600547.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251119,
+        "open_price": 44000.0,
+        "high_price": 44100.0,
+        "low_price": 43490.0,
+        "close_price": 43630.0,
+        "volume": 2004956.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251118,
+        "open_price": 43400.0,
+        "high_price": 43800.0,
+        "low_price": 42850.0,
+        "close_price": 43280.0,
+        "volume": 1091346.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251117,
+        "open_price": 43120.0,
+        "high_price": 43970.0,
+        "low_price": 43110.0,
+        "close_price": 43360.0,
+        "volume": 1054007.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251116,
+        "open_price": 43060.0,
+        "high_price": 43850.0,
+        "low_price": 42820.0,
+        "close_price": 43040.0,
+        "volume": 1182883.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251115,
+        "open_price": 43000.0,
+        "high_price": 43500.0,
+        "low_price": 42860.0,
+        "close_price": 42890.0,
+        "volume": 695033.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251112,
+        "open_price": 43000.0,
+        "high_price": 43450.0,
+        "low_price": 42580.0,
+        "close_price": 42740.0,
+        "volume": 1287114.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251111,
+        "open_price": 42780.0,
+        "high_price": 43440.0,
+        "low_price": 42490.0,
+        "close_price": 42770.0,
+        "volume": 1437734.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251110,
+        "open_price": 42200.0,
+        "high_price": 42950.0,
+        "low_price": 42080.0,
+        "close_price": 42530.0,
+        "volume": 1825583.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251109,
+        "open_price": 42700.0,
+        "high_price": 43460.0,
+        "low_price": 42060.0,
+        "close_price": 42180.0,
+        "volume": 3192020.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251108,
+        "open_price": 44020.0,
+        "high_price": 44150.0,
+        "low_price": 42560.0,
+        "close_price": 43360.0,
+        "volume": 1988905.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251105,
+        "open_price": 43050.0,
+        "high_price": 44220.0,
+        "low_price": 42940.0,
+        "close_price": 43330.0,
+        "volume": 5670604.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251104,
+        "open_price": 44860.0,
+        "high_price": 44860.0,
+        "low_price": 43290.0,
+        "close_price": 44260.0,
+        "volume": 2871101.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251103,
+        "open_price": 45680.0,
+        "high_price": 45680.0,
+        "low_price": 43920.0,
+        "close_price": 44620.0,
+        "volume": 4191600.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251102,
+        "open_price": 45120.0,
+        "high_price": 46500.0,
+        "low_price": 45120.0,
+        "close_price": 45270.0,
+        "volume": 5021619.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251101,
+        "open_price": 47720.0,
+        "high_price": 47720.0,
+        "low_price": 45050.0,
+        "close_price": 46510.0,
+        "volume": 4037988.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251029,
+        "open_price": 46440.0,
+        "high_price": 46440.0,
+        "low_price": 46300.0,
+        "close_price": 46440.0,
+        "volume": 10562873.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251028,
+        "open_price": 45200.0,
+        "high_price": 45270.0,
+        "low_price": 44400.0,
+        "close_price": 45090.0,
+        "volume": 5087068.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251027,
+        "open_price": 44200.0,
+        "high_price": 44250.0,
+        "low_price": 43100.0,
+        "close_price": 43960.0,
+        "volume": 2506958.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251026,
+        "open_price": 42530.0,
+        "high_price": 43100.0,
+        "low_price": 42530.0,
+        "close_price": 42970.0,
+        "volume": 1985185.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251025,
+        "open_price": 42400.0,
+        "high_price": 42450.0,
+        "low_price": 41640.0,
+        "close_price": 41850.0,
+        "volume": 1643002.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251022,
+        "open_price": 42070.0,
+        "high_price": 42100.0,
+        "low_price": 41380.0,
+        "close_price": 41840.0,
+        "volume": 1430416.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251021,
+        "open_price": 41620.0,
+        "high_price": 42000.0,
+        "low_price": 41280.0,
+        "close_price": 41380.0,
+        "volume": 964482.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251020,
+        "open_price": 41620.0,
+        "high_price": 41710.0,
+        "low_price": 40870.0,
+        "close_price": 41230.0,
+        "volume": 1362814.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251019,
+        "open_price": 42190.0,
+        "high_price": 42190.0,
+        "low_price": 41210.0,
+        "close_price": 41460.0,
+        "volume": 2038871.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251018,
+        "open_price": 41320.0,
+        "high_price": 41320.0,
+        "low_price": 40660.0,
+        "close_price": 41300.0,
+        "volume": 1846403.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251015,
+        "open_price": 40330.0,
+        "high_price": 40670.0,
+        "low_price": 39890.0,
+        "close_price": 40120.0,
+        "volume": 1546433.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251014,
+        "open_price": 40460.0,
+        "high_price": 40870.0,
+        "low_price": 39680.0,
+        "close_price": 40030.0,
+        "volume": 3130585.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251013,
+        "open_price": 41790.0,
+        "high_price": 41790.0,
+        "low_price": 40120.0,
+        "close_price": 40510.0,
+        "volume": 3649324.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251012,
+        "open_price": 40260.0,
+        "high_price": 41410.0,
+        "low_price": 40260.0,
+        "close_price": 40920.0,
+        "volume": 3785731.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251011,
+        "open_price": 40180.0,
+        "high_price": 40810.0,
+        "low_price": 39910.0,
+        "close_price": 40260.0,
+        "volume": 1361696.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251008,
+        "open_price": 40620.0,
+        "high_price": 40800.0,
+        "low_price": 39430.0,
+        "close_price": 40010.0,
+        "volume": 2589603.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251007,
+        "open_price": 39540.0,
+        "high_price": 40680.0,
+        "low_price": 39520.0,
+        "close_price": 40440.0,
+        "volume": 3455996.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251006,
+        "open_price": 40000.0,
+        "high_price": 40000.0,
+        "low_price": 38590.0,
+        "close_price": 39500.0,
+        "volume": 2873570.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251005,
+        "open_price": 38880.0,
+        "high_price": 38880.0,
+        "low_price": 38320.0,
+        "close_price": 38840.0,
+        "volume": 4221577.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251004,
+        "open_price": 37820.0,
+        "high_price": 38300.0,
+        "low_price": 37800.0,
+        "close_price": 37750.0,
+        "volume": 817890.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20251001,
+        "open_price": 37650.0,
+        "high_price": 37900.0,
+        "low_price": 36700.0,
+        "close_price": 37190.0,
+        "volume": 3392524.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250930,
+        "open_price": 38790.0,
+        "high_price": 38790.0,
+        "low_price": 37280.0,
+        "close_price": 37830.0,
+        "volume": 2943988.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250929,
+        "open_price": 37820.0,
+        "high_price": 37820.0,
+        "low_price": 37810.0,
+        "close_price": 37820.0,
+        "volume": 5918088.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250928,
+        "open_price": 36970.0,
+        "high_price": 36970.0,
+        "low_price": 36970.0,
+        "close_price": 36720.0,
+        "volume": 1220387.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250927,
+        "open_price": 34870.0,
+        "high_price": 35960.0,
+        "low_price": 34870.0,
+        "close_price": 35900.0,
+        "volume": 1764511.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250924,
+        "open_price": 34900.0,
+        "high_price": 35380.0,
+        "low_price": 34110.0,
+        "close_price": 34920.0,
+        "volume": 1241341.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250923,
+        "open_price": 34900.0,
+        "high_price": 34900.0,
+        "low_price": 34610.0,
+        "close_price": 34900.0,
+        "volume": 2693420.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250922,
+        "open_price": 33700.0,
+        "high_price": 34450.0,
+        "low_price": 33700.0,
+        "close_price": 33890.0,
+        "volume": 702879.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250921,
+        "open_price": 33070.0,
+        "high_price": 34230.0,
+        "low_price": 33070.0,
+        "close_price": 33450.0,
+        "volume": 3323870.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250920,
+        "open_price": 33320.0,
+        "high_price": 33320.0,
+        "low_price": 33320.0,
+        "close_price": 33930.0,
+        "volume": 655213.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250917,
+        "open_price": 34600.0,
+        "high_price": 34760.0,
+        "low_price": 34000.0,
+        "close_price": 34350.0,
+        "volume": 1212807.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250916,
+        "open_price": 35590.0,
+        "high_price": 35590.0,
+        "low_price": 34220.0,
+        "close_price": 34610.0,
+        "volume": 1313880.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250915,
+        "open_price": 35700.0,
+        "high_price": 35900.0,
+        "low_price": 34360.0,
+        "close_price": 35010.0,
+        "volume": 1874116.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250914,
+        "open_price": 34870.0,
+        "high_price": 35760.0,
+        "low_price": 34870.0,
+        "close_price": 35380.0,
+        "volume": 1587186.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250913,
+        "open_price": 34960.0,
+        "high_price": 35200.0,
+        "low_price": 34590.0,
+        "close_price": 34870.0,
+        "volume": 865972.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250909,
+        "open_price": 35490.0,
+        "high_price": 35490.0,
+        "low_price": 34450.0,
+        "close_price": 34950.0,
+        "volume": 2575244.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250908,
+        "open_price": 35010.0,
+        "high_price": 35720.0,
+        "low_price": 35010.0,
+        "close_price": 35200.0,
+        "volume": 1054062.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250907,
+        "open_price": 34300.0,
+        "high_price": 35280.0,
+        "low_price": 34120.0,
+        "close_price": 34800.0,
+        "volume": 2697875.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250906,
+        "open_price": 34280.0,
+        "high_price": 34280.0,
+        "low_price": 34280.0,
+        "close_price": 34280.0,
+        "volume": 2194967.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250903,
+        "open_price": 33670.0,
+        "high_price": 33670.0,
+        "low_price": 33670.0,
+        "close_price": 33290.0,
+        "volume": 985901.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250902,
+        "open_price": 33140.0,
+        "high_price": 33140.0,
+        "low_price": 33140.0,
+        "close_price": 32690.0,
+        "volume": 852254.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250831,
+        "open_price": 31190.0,
+        "high_price": 32630.0,
+        "low_price": 31190.0,
+        "close_price": 32180.0,
+        "volume": 916196.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250830,
+        "open_price": 30890.0,
+        "high_price": 32420.0,
+        "low_price": 30860.0,
+        "close_price": 31680.0,
+        "volume": 1207083.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250827,
+        "open_price": 31750.0,
+        "high_price": 31910.0,
+        "low_price": 31000.0,
+        "close_price": 31810.0,
+        "volume": 1443316.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250826,
+        "open_price": 31020.0,
+        "high_price": 31510.0,
+        "low_price": 30780.0,
+        "close_price": 30990.0,
+        "volume": 1009927.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250825,
+        "open_price": 31570.0,
+        "high_price": 31570.0,
+        "low_price": 30260.0,
+        "close_price": 30880.0,
+        "volume": 882359.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250823,
+        "open_price": 31330.0,
+        "high_price": 31600.0,
+        "low_price": 31090.0,
+        "close_price": 31150.0,
+        "volume": 953914.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250820,
+        "open_price": 31140.0,
+        "high_price": 31280.0,
+        "low_price": 30690.0,
+        "close_price": 31010.0,
+        "volume": 1425895.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250819,
+        "open_price": 30510.0,
+        "high_price": 31190.0,
+        "low_price": 30500.0,
+        "close_price": 30860.0,
+        "volume": 895277.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250818,
+        "open_price": 30720.0,
+        "high_price": 31530.0,
+        "low_price": 30510.0,
+        "close_price": 30800.0,
+        "volume": 851090.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250817,
+        "open_price": 30630.0,
+        "high_price": 30650.0,
+        "low_price": 29920.0,
+        "close_price": 30640.0,
+        "volume": 1617502.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250816,
+        "open_price": 29470.0,
+        "high_price": 30380.0,
+        "low_price": 29470.0,
+        "close_price": 29760.0,
+        "volume": 1740127.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250813,
+        "open_price": 30740.0,
+        "high_price": 31400.0,
+        "low_price": 30370.0,
+        "close_price": 30380.0,
+        "volume": 1740455.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250812,
+        "open_price": 31900.0,
+        "high_price": 31900.0,
+        "low_price": 30730.0,
+        "close_price": 31300.0,
+        "volume": 702098.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250811,
+        "open_price": 30880.0,
+        "high_price": 31830.0,
+        "low_price": 30880.0,
+        "close_price": 31530.0,
+        "volume": 487061.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250810,
+        "open_price": 32480.0,
+        "high_price": 32480.0,
+        "low_price": 30720.0,
+        "close_price": 31560.0,
+        "volume": 808778.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250809,
+        "open_price": 31040.0,
+        "high_price": 32130.0,
+        "low_price": 31040.0,
+        "close_price": 31670.0,
+        "volume": 1117732.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250806,
+        "open_price": 30870.0,
+        "high_price": 31960.0,
+        "low_price": 30870.0,
+        "close_price": 31200.0,
+        "volume": 964822.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250805,
+        "open_price": 31790.0,
+        "high_price": 31790.0,
+        "low_price": 30950.0,
+        "close_price": 31210.0,
+        "volume": 840492.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250804,
+        "open_price": 30740.0,
+        "high_price": 32010.0,
+        "low_price": 30740.0,
+        "close_price": 31210.0,
+        "volume": 916072.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250803,
+        "open_price": 30650.0,
+        "high_price": 31790.0,
+        "low_price": 30650.0,
+        "close_price": 31090.0,
+        "volume": 1211000.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250802,
+        "open_price": 30590.0,
+        "high_price": 31550.0,
+        "low_price": 30590.0,
+        "close_price": 31190.0,
+        "volume": 1209561.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250730,
+        "open_price": 31440.0,
+        "high_price": 31940.0,
+        "low_price": 31440.0,
+        "close_price": 31490.0,
+        "volume": 1610066.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250729,
+        "open_price": 32130.0,
+        "high_price": 32150.0,
+        "low_price": 32130.0,
+        "close_price": 32410.0,
+        "volume": 1148873.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250728,
+        "open_price": 33270.0,
+        "high_price": 33280.0,
+        "low_price": 32990.0,
+        "close_price": 33120.0,
+        "volume": 1401191.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250727,
+        "open_price": 34200.0,
+        "high_price": 34650.0,
+        "low_price": 33700.0,
+        "close_price": 34010.0,
+        "volume": 1887312.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250726,
+        "open_price": 33310.0,
+        "high_price": 34690.0,
+        "low_price": 33310.0,
+        "close_price": 34290.0,
+        "volume": 2246295.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250723,
+        "open_price": 34750.0,
+        "high_price": 34780.0,
+        "low_price": 33650.0,
+        "close_price": 34070.0,
+        "volume": 4234919.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250722,
+        "open_price": 34370.0,
+        "high_price": 34900.0,
+        "low_price": 34040.0,
+        "close_price": 34490.0,
+        "volume": 2694126.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250721,
+        "open_price": 34140.0,
+        "high_price": 34160.0,
+        "low_price": 33690.0,
+        "close_price": 34070.0,
+        "volume": 2351034.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250720,
+        "open_price": 32980.0,
+        "high_price": 33750.0,
+        "low_price": 32440.0,
+        "close_price": 33170.0,
+        "volume": 1588193.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250719,
+        "open_price": 32350.0,
+        "high_price": 33080.0,
+        "low_price": 32310.0,
+        "close_price": 32980.0,
+        "volume": 2434757.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250716,
+        "open_price": 32000.0,
+        "high_price": 32460.0,
+        "low_price": 31820.0,
+        "close_price": 32120.0,
+        "volume": 1199079.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250715,
+        "open_price": 31750.0,
+        "high_price": 32100.0,
+        "low_price": 30980.0,
+        "close_price": 31520.0,
+        "volume": 3163464.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250714,
+        "open_price": 31650.0,
+        "high_price": 31960.0,
+        "low_price": 31550.0,
+        "close_price": 31520.0,
+        "volume": 773096.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250713,
+        "open_price": 30600.0,
+        "high_price": 31850.0,
+        "low_price": 30600.0,
+        "close_price": 31330.0,
+        "volume": 1417632.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250712,
+        "open_price": 31890.0,
+        "high_price": 31900.0,
+        "low_price": 31400.0,
+        "close_price": 31310.0,
+        "volume": 714857.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250709,
+        "open_price": 30550.0,
+        "high_price": 31850.0,
+        "low_price": 30450.0,
+        "close_price": 30980.0,
+        "volume": 996509.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250708,
+        "open_price": 32350.0,
+        "high_price": 32350.0,
+        "low_price": 30650.0,
+        "close_price": 31160.0,
+        "volume": 1454822.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250707,
+        "open_price": 31520.0,
+        "high_price": 31520.0,
+        "low_price": 30800.0,
+        "close_price": 31490.0,
+        "volume": 2313350.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250702,
+        "open_price": 29930.0,
+        "high_price": 31630.0,
+        "low_price": 29930.0,
+        "close_price": 30610.0,
+        "volume": 3557324.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250701,
+        "open_price": 30820.0,
+        "high_price": 31450.0,
+        "low_price": 30820.0,
+        "close_price": 30820.0,
+        "volume": 15328780.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250630,
+        "open_price": 31040.0,
+        "high_price": 31040.0,
+        "low_price": 31040.0,
+        "close_price": 31770.0,
+        "volume": 367726.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250629,
+        "open_price": 31950.0,
+        "high_price": 31950.0,
+        "low_price": 31950.0,
+        "close_price": 31990.0,
+        "volume": 1535890.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250628,
+        "open_price": 32600.0,
+        "high_price": 32600.0,
+        "low_price": 32600.0,
+        "close_price": 32930.0,
+        "volume": 1065547.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 33600.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 33600.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 33600.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 33600.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 33600.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 33600.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 33600.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 33600.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250611,
+        "open_price": 33580.0,
+        "high_price": 33990.0,
+        "low_price": 33340.0,
+        "close_price": 33600.0,
+        "volume": 685026.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250610,
+        "open_price": 33200.0,
+        "high_price": 34200.0,
+        "low_price": 33160.0,
+        "close_price": 33630.0,
+        "volume": 966744.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250609,
+        "open_price": 34340.0,
+        "high_price": 34820.0,
+        "low_price": 33340.0,
+        "close_price": 33650.0,
+        "volume": 2004769.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250608,
+        "open_price": 33930.0,
+        "high_price": 34810.0,
+        "low_price": 33840.0,
+        "close_price": 34120.0,
+        "volume": 853250.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250607,
+        "open_price": 34780.0,
+        "high_price": 34780.0,
+        "low_price": 33800.0,
+        "close_price": 33950.0,
+        "volume": 3695636.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250603,
+        "open_price": 35370.0,
+        "high_price": 35370.0,
+        "low_price": 34530.0,
+        "close_price": 34840.0,
+        "volume": 1528933.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250602,
+        "open_price": 35620.0,
+        "high_price": 36000.0,
+        "low_price": 35260.0,
+        "close_price": 35440.0,
+        "volume": 1187019.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250601,
+        "open_price": 36480.0,
+        "high_price": 36480.0,
+        "low_price": 35520.0,
+        "close_price": 35610.0,
+        "volume": 3777240.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250531,
+        "open_price": 36440.0,
+        "high_price": 36890.0,
+        "low_price": 36380.0,
+        "close_price": 36610.0,
+        "volume": 2630393.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250528,
+        "open_price": 37450.0,
+        "high_price": 37450.0,
+        "low_price": 36080.0,
+        "close_price": 36410.0,
+        "volume": 3881922.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250527,
+        "open_price": 36420.0,
+        "high_price": 36420.0,
+        "low_price": 36000.0,
+        "close_price": 36420.0,
+        "volume": 7476234.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250526,
+        "open_price": 35300.0,
+        "high_price": 35390.0,
+        "low_price": 34200.0,
+        "close_price": 35360.0,
+        "volume": 5539600.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250525,
+        "open_price": 35660.0,
+        "high_price": 35660.0,
+        "low_price": 34060.0,
+        "close_price": 34360.0,
+        "volume": 1890322.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250524,
+        "open_price": 34000.0,
+        "high_price": 34800.0,
+        "low_price": 34000.0,
+        "close_price": 34720.0,
+        "volume": 1898796.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250521,
+        "open_price": 33650.0,
+        "high_price": 34200.0,
+        "low_price": 33610.0,
+        "close_price": 33790.0,
+        "volume": 2150684.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250520,
+        "open_price": 35170.0,
+        "high_price": 35890.0,
+        "low_price": 34510.0,
+        "close_price": 34630.0,
+        "volume": 3318005.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250519,
+        "open_price": 36030.0,
+        "high_price": 36030.0,
+        "low_price": 35190.0,
+        "close_price": 35570.0,
+        "volume": 3045844.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250518,
+        "open_price": 34210.0,
+        "high_price": 35170.0,
+        "low_price": 34210.0,
+        "close_price": 34990.0,
+        "volume": 2536674.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250517,
+        "open_price": 34720.0,
+        "high_price": 35590.0,
+        "low_price": 33810.0,
+        "close_price": 34150.0,
+        "volume": 3246495.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250514,
+        "open_price": 34900.0,
+        "high_price": 35030.0,
+        "low_price": 34500.0,
+        "close_price": 34680.0,
+        "volume": 2414055.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250513,
+        "open_price": 36100.0,
+        "high_price": 36100.0,
+        "low_price": 34810.0,
+        "close_price": 34960.0,
+        "volume": 6878996.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250512,
+        "open_price": 35880.0,
+        "high_price": 35880.0,
+        "low_price": 35800.0,
+        "close_price": 35880.0,
+        "volume": 4532205.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250511,
+        "open_price": 34900.0,
+        "high_price": 35780.0,
+        "low_price": 34490.0,
+        "close_price": 34840.0,
+        "volume": 2668429.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250510,
+        "open_price": 35950.0,
+        "high_price": 35950.0,
+        "low_price": 35050.0,
+        "close_price": 35260.0,
+        "volume": 2682574.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250507,
+        "open_price": 36100.0,
+        "high_price": 36340.0,
+        "low_price": 35920.0,
+        "close_price": 36080.0,
+        "volume": 1960046.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250506,
+        "open_price": 36500.0,
+        "high_price": 36500.0,
+        "low_price": 35550.0,
+        "close_price": 35890.0,
+        "volume": 1502528.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250505,
+        "open_price": 36100.0,
+        "high_price": 36770.0,
+        "low_price": 35750.0,
+        "close_price": 36000.0,
+        "volume": 2057804.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250504,
+        "open_price": 35820.0,
+        "high_price": 36500.0,
+        "low_price": 35650.0,
+        "close_price": 36070.0,
+        "volume": 2883057.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250503,
+        "open_price": 36450.0,
+        "high_price": 36450.0,
+        "low_price": 35880.0,
+        "close_price": 35990.0,
+        "volume": 4246472.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250430,
+        "open_price": 36900.0,
+        "high_price": 37490.0,
+        "low_price": 36530.0,
+        "close_price": 36980.0,
+        "volume": 6842984.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250429,
+        "open_price": 36230.0,
+        "high_price": 36890.0,
+        "low_price": 35960.0,
+        "close_price": 36400.0,
+        "volume": 2708650.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250428,
+        "open_price": 36520.0,
+        "high_price": 37000.0,
+        "low_price": 35640.0,
+        "close_price": 35970.0,
+        "volume": 3242265.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250427,
+        "open_price": 36200.0,
+        "high_price": 36790.0,
+        "low_price": 36020.0,
+        "close_price": 36410.0,
+        "volume": 3254978.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250426,
+        "open_price": 36900.0,
+        "high_price": 37210.0,
+        "low_price": 35850.0,
+        "close_price": 36510.0,
+        "volume": 6434148.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250423,
+        "open_price": 36030.0,
+        "high_price": 36760.0,
+        "low_price": 36030.0,
+        "close_price": 36130.0,
+        "volume": 15998628.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250422,
+        "open_price": 37140.0,
+        "high_price": 37140.0,
+        "low_price": 37140.0,
+        "close_price": 37140.0,
+        "volume": 1689606.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250421,
+        "open_price": 38280.0,
+        "high_price": 38280.0,
+        "low_price": 38280.0,
+        "close_price": 38280.0,
+        "volume": 4427216.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250420,
+        "open_price": 39460.0,
+        "high_price": 39460.0,
+        "low_price": 39460.0,
+        "close_price": 39460.0,
+        "volume": 4486900.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250419,
+        "open_price": 39810.0,
+        "high_price": 41010.0,
+        "low_price": 39810.0,
+        "close_price": 40680.0,
+        "volume": 2127424.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250416,
+        "open_price": 40400.0,
+        "high_price": 40740.0,
+        "low_price": 39620.0,
+        "close_price": 39860.0,
+        "volume": 1996254.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250415,
+        "open_price": 40940.0,
+        "high_price": 40940.0,
+        "low_price": 39520.0,
+        "close_price": 39720.0,
+        "volume": 2425891.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250414,
+        "open_price": 41010.0,
+        "high_price": 41010.0,
+        "low_price": 39880.0,
+        "close_price": 40740.0,
+        "volume": 4255755.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250413,
+        "open_price": 39980.0,
+        "high_price": 40270.0,
+        "low_price": 39980.0,
+        "close_price": 39820.0,
+        "volume": 1004845.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250412,
+        "open_price": 39940.0,
+        "high_price": 39940.0,
+        "low_price": 38820.0,
+        "close_price": 39100.0,
+        "volume": 1496108.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250409,
+        "open_price": 40150.0,
+        "high_price": 40150.0,
+        "low_price": 38500.0,
+        "close_price": 38820.0,
+        "volume": 1741908.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250408,
+        "open_price": 38210.0,
+        "high_price": 39010.0,
+        "low_price": 38210.0,
+        "close_price": 39000.0,
+        "volume": 2560819.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250407,
+        "open_price": 37820.0,
+        "high_price": 38090.0,
+        "low_price": 37820.0,
+        "close_price": 37880.0,
+        "volume": 1006710.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250406,
+        "open_price": 38020.0,
+        "high_price": 38040.0,
+        "low_price": 37780.0,
+        "close_price": 37850.0,
+        "volume": 1251799.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250405,
+        "open_price": 38140.0,
+        "high_price": 38570.0,
+        "low_price": 37280.0,
+        "close_price": 37740.0,
+        "volume": 2467018.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250330,
+        "open_price": 37300.0,
+        "high_price": 38120.0,
+        "low_price": 36750.0,
+        "close_price": 37580.0,
+        "volume": 1701811.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250329,
+        "open_price": 37010.0,
+        "high_price": 37780.0,
+        "low_price": 36640.0,
+        "close_price": 37010.0,
+        "volume": 1045497.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250326,
+        "open_price": 37170.0,
+        "high_price": 37630.0,
+        "low_price": 36620.0,
+        "close_price": 36930.0,
+        "volume": 1235921.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250325,
+        "open_price": 36120.0,
+        "high_price": 37170.0,
+        "low_price": 36120.0,
+        "close_price": 36760.0,
+        "volume": 2143559.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250318,
+        "open_price": 36800.0,
+        "high_price": 36800.0,
+        "low_price": 36060.0,
+        "close_price": 36090.0,
+        "volume": 2515906.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250317,
+        "open_price": 37600.0,
+        "high_price": 37600.0,
+        "low_price": 36880.0,
+        "close_price": 37170.0,
+        "volume": 3113633.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250316,
+        "open_price": 38000.0,
+        "high_price": 38200.0,
+        "low_price": 36960.0,
+        "close_price": 37600.0,
+        "volume": 1652931.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250315,
+        "open_price": 37650.0,
+        "high_price": 37660.0,
+        "low_price": 37000.0,
+        "close_price": 37640.0,
+        "volume": 3112842.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250312,
+        "open_price": 36570.0,
+        "high_price": 36880.0,
+        "low_price": 36010.0,
+        "close_price": 36570.0,
+        "volume": 1923638.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250311,
+        "open_price": 37510.0,
+        "high_price": 38490.0,
+        "low_price": 36790.0,
+        "close_price": 37060.0,
+        "volume": 3525095.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250310,
+        "open_price": 37340.0,
+        "high_price": 38580.0,
+        "low_price": 37340.0,
+        "close_price": 37920.0,
+        "volume": 2344210.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250309,
+        "open_price": 37880.0,
+        "high_price": 38290.0,
+        "low_price": 37340.0,
+        "close_price": 37460.0,
+        "volume": 3127370.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250308,
+        "open_price": 39280.0,
+        "high_price": 39280.0,
+        "low_price": 37810.0,
+        "close_price": 38490.0,
+        "volume": 2540187.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250305,
+        "open_price": 37870.0,
+        "high_price": 39440.0,
+        "low_price": 37870.0,
+        "close_price": 38150.0,
+        "volume": 7512454.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250304,
+        "open_price": 39550.0,
+        "high_price": 40500.0,
+        "low_price": 38640.0,
+        "close_price": 39040.0,
+        "volume": 4220473.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250303,
+        "open_price": 39820.0,
+        "high_price": 41000.0,
+        "low_price": 39820.0,
+        "close_price": 39830.0,
+        "volume": 2594453.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 41050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250301,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 41050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250226,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 41050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250225,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250224,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250223,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250222,
+        "open_price": 50480.0,
+        "high_price": 51000.0,
+        "low_price": 49460.0,
+        "close_price": 49850.0,
+        "volume": 3832772.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250219,
+        "open_price": 50300.0,
+        "high_price": 51790.0,
+        "low_price": 50130.0,
+        "close_price": 50540.0,
+        "volume": 2878683.0
+    },
+    {
+        "symbol": "فسبزوار",
+        "trade_date": 20250218,
+        "open_price": 50020.0,
+        "high_price": 50970.0,
+        "low_price": 49640.0,
+        "close_price": 50290.0,
+        "volume": 2041655.0
+    }
+]

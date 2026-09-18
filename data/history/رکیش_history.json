@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260901,
+        "open_price": 2770.0,
+        "high_price": 2781.0,
+        "low_price": 2619.0,
+        "close_price": 2713.0,
+        "volume": 25814577.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260831,
+        "open_price": 2704.0,
+        "high_price": 2704.0,
+        "low_price": 2630.0,
+        "close_price": 2700.0,
+        "volume": 23152611.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260829,
+        "open_price": 2626.0,
+        "high_price": 2626.0,
+        "low_price": 2620.0,
+        "close_price": 2626.0,
+        "volume": 11112589.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260826,
+        "open_price": 2479.0,
+        "high_price": 2553.0,
+        "low_price": 2451.0,
+        "close_price": 2550.0,
+        "volume": 16486493.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260825,
+        "open_price": 2450.0,
+        "high_price": 2481.0,
+        "low_price": 2424.0,
+        "close_price": 2479.0,
+        "volume": 33240269.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260824,
+        "open_price": 2400.0,
+        "high_price": 2454.0,
+        "low_price": 2325.0,
+        "close_price": 2409.0,
+        "volume": 15819674.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260823,
+        "open_price": 2476.0,
+        "high_price": 2476.0,
+        "low_price": 2364.0,
+        "close_price": 2383.0,
+        "volume": 51077776.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260822,
+        "open_price": 2500.0,
+        "high_price": 2500.0,
+        "low_price": 2377.0,
+        "close_price": 2437.0,
+        "volume": 24875465.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260819,
+        "open_price": 2469.0,
+        "high_price": 2510.0,
+        "low_price": 2420.0,
+        "close_price": 2449.0,
+        "volume": 17939082.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260818,
+        "open_price": 2493.0,
+        "high_price": 2493.0,
+        "low_price": 2423.0,
+        "close_price": 2481.0,
+        "volume": 35739181.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260817,
+        "open_price": 2421.0,
+        "high_price": 2421.0,
+        "low_price": 2421.0,
+        "close_price": 2421.0,
+        "volume": 14645207.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260816,
+        "open_price": 2351.0,
+        "high_price": 2351.0,
+        "low_price": 2351.0,
+        "close_price": 2351.0,
+        "volume": 10450870.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260815,
+        "open_price": 2283.0,
+        "high_price": 2283.0,
+        "low_price": 2283.0,
+        "close_price": 2283.0,
+        "volume": 13636607.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260811,
+        "open_price": 2250.0,
+        "high_price": 2257.0,
+        "low_price": 2136.0,
+        "close_price": 2217.0,
+        "volume": 33206982.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260810,
+        "open_price": 2188.0,
+        "high_price": 2230.0,
+        "low_price": 2188.0,
+        "close_price": 2192.0,
+        "volume": 27966697.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260809,
+        "open_price": 2311.0,
+        "high_price": 2311.0,
+        "low_price": 2227.0,
+        "close_price": 2255.0,
+        "volume": 13895652.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260808,
+        "open_price": 2311.0,
+        "high_price": 2311.0,
+        "low_price": 2245.0,
+        "close_price": 2295.0,
+        "volume": 28861026.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260805,
+        "open_price": 2246.0,
+        "high_price": 2246.0,
+        "low_price": 2192.0,
+        "close_price": 2244.0,
+        "volume": 24702904.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260803,
+        "open_price": 2159.0,
+        "high_price": 2191.0,
+        "low_price": 2137.0,
+        "close_price": 2181.0,
+        "volume": 28854616.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260802,
+        "open_price": 2130.0,
+        "high_price": 2200.0,
+        "low_price": 2073.0,
+        "close_price": 2128.0,
+        "volume": 52199252.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260801,
+        "open_price": 2192.0,
+        "high_price": 2192.0,
+        "low_price": 2066.0,
+        "close_price": 2137.0,
+        "volume": 63045865.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260729,
+        "open_price": 2131.0,
+        "high_price": 2131.0,
+        "low_price": 2069.0,
+        "close_price": 2129.0,
+        "volume": 27420011.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260728,
+        "open_price": 2069.0,
+        "high_price": 2069.0,
+        "low_price": 2069.0,
+        "close_price": 2069.0,
+        "volume": 7846561.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260727,
+        "open_price": 2013.0,
+        "high_price": 2013.0,
+        "low_price": 1953.0,
+        "close_price": 2009.0,
+        "volume": 31019930.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260726,
+        "open_price": 1955.0,
+        "high_price": 1955.0,
+        "low_price": 1955.0,
+        "close_price": 1955.0,
+        "volume": 7954457.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260725,
+        "open_price": 1903.0,
+        "high_price": 1903.0,
+        "low_price": 1840.0,
+        "close_price": 1899.0,
+        "volume": 46483843.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260722,
+        "open_price": 1850.0,
+        "high_price": 1850.0,
+        "low_price": 1812.0,
+        "close_price": 1848.0,
+        "volume": 27846719.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260721,
+        "open_price": 1789.0,
+        "high_price": 1797.0,
+        "low_price": 1789.0,
+        "close_price": 1797.0,
+        "volume": 4434667.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260720,
+        "open_price": 1745.0,
+        "high_price": 1745.0,
+        "low_price": 1744.0,
+        "close_price": 1745.0,
+        "volume": 6542004.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260719,
+        "open_price": 1641.0,
+        "high_price": 1729.0,
+        "low_price": 1633.0,
+        "close_price": 1695.0,
+        "volume": 7697238.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260718,
+        "open_price": 1679.0,
+        "high_price": 1700.0,
+        "low_price": 1679.0,
+        "close_price": 1679.0,
+        "volume": 14344391.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260715,
+        "open_price": 1769.0,
+        "high_price": 1781.0,
+        "low_price": 1691.0,
+        "close_price": 1730.0,
+        "volume": 4565220.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260714,
+        "open_price": 1729.0,
+        "high_price": 1751.0,
+        "low_price": 1729.0,
+        "close_price": 1730.0,
+        "volume": 20666547.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260713,
+        "open_price": 1779.0,
+        "high_price": 1830.0,
+        "low_price": 1779.0,
+        "close_price": 1782.0,
+        "volume": 11211968.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260712,
+        "open_price": 1834.0,
+        "high_price": 1834.0,
+        "low_price": 1834.0,
+        "close_price": 1834.0,
+        "volume": 3387368.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260711,
+        "open_price": 1885.0,
+        "high_price": 1933.0,
+        "low_price": 1882.0,
+        "close_price": 1890.0,
+        "volume": 11223498.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260708,
+        "open_price": 1843.0,
+        "high_price": 1955.0,
+        "low_price": 1843.0,
+        "close_price": 1940.0,
+        "volume": 42988748.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260707,
+        "open_price": 1899.0,
+        "high_price": 1899.0,
+        "low_price": 1899.0,
+        "close_price": 1899.0,
+        "volume": 8497314.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260701,
+        "open_price": 1807.0,
+        "high_price": 1845.0,
+        "low_price": 1807.0,
+        "close_price": 1844.0,
+        "volume": 13819115.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260630,
+        "open_price": 1791.0,
+        "high_price": 1792.0,
+        "low_price": 1790.0,
+        "close_price": 1792.0,
+        "volume": 12611671.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260629,
+        "open_price": 1734.0,
+        "high_price": 1748.0,
+        "low_price": 1692.0,
+        "close_price": 1740.0,
+        "volume": 7509780.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260628,
+        "open_price": 1723.0,
+        "high_price": 1723.0,
+        "low_price": 1697.0,
+        "close_price": 1698.0,
+        "volume": 10068176.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260627,
+        "open_price": 1830.0,
+        "high_price": 1830.0,
+        "low_price": 1726.0,
+        "close_price": 1749.0,
+        "volume": 7292850.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260623,
+        "open_price": 1795.0,
+        "high_price": 1797.0,
+        "low_price": 1728.0,
+        "close_price": 1779.0,
+        "volume": 9520852.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260622,
+        "open_price": 1694.0,
+        "high_price": 1777.0,
+        "low_price": 1694.0,
+        "close_price": 1745.0,
+        "volume": 5123372.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260621,
+        "open_price": 1716.0,
+        "high_price": 1819.0,
+        "low_price": 1715.0,
+        "close_price": 1743.0,
+        "volume": 15044126.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260620,
+        "open_price": 1840.0,
+        "high_price": 1840.0,
+        "low_price": 1760.0,
+        "close_price": 1768.0,
+        "volume": 16659194.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260617,
+        "open_price": 1820.0,
+        "high_price": 1839.0,
+        "low_price": 1811.0,
+        "close_price": 1814.0,
+        "volume": 13685407.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260616,
+        "open_price": 1932.0,
+        "high_price": 1932.0,
+        "low_price": 1820.0,
+        "close_price": 1866.0,
+        "volume": 31673280.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260615,
+        "open_price": 1876.0,
+        "high_price": 1876.0,
+        "low_price": 1876.0,
+        "close_price": 1876.0,
+        "volume": 4266874.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260614,
+        "open_price": 1822.0,
+        "high_price": 1822.0,
+        "low_price": 1810.0,
+        "close_price": 1822.0,
+        "volume": 21198481.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260613,
+        "open_price": 1769.0,
+        "high_price": 1769.0,
+        "low_price": 1769.0,
+        "close_price": 1769.0,
+        "volume": 15726892.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260610,
+        "open_price": 1757.0,
+        "high_price": 1777.0,
+        "low_price": 1690.0,
+        "close_price": 1718.0,
+        "volume": 13892138.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260609,
+        "open_price": 1742.0,
+        "high_price": 1742.0,
+        "low_price": 1725.0,
+        "close_price": 1742.0,
+        "volume": 25849362.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260608,
+        "open_price": 1692.0,
+        "high_price": 1692.0,
+        "low_price": 1692.0,
+        "close_price": 1692.0,
+        "volume": 4152856.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260607,
+        "open_price": 1744.0,
+        "high_price": 1746.0,
+        "low_price": 1730.0,
+        "close_price": 1744.0,
+        "volume": 12457455.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260606,
+        "open_price": 1646.0,
+        "high_price": 1726.0,
+        "low_price": 1626.0,
+        "close_price": 1696.0,
+        "volume": 14400010.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260603,
+        "open_price": 1711.0,
+        "high_price": 1711.0,
+        "low_price": 1675.0,
+        "close_price": 1676.0,
+        "volume": 8146767.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260602,
+        "open_price": 1730.0,
+        "high_price": 1734.0,
+        "low_price": 1685.0,
+        "close_price": 1726.0,
+        "volume": 11680919.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260601,
+        "open_price": 1689.0,
+        "high_price": 1690.0,
+        "low_price": 1651.0,
+        "close_price": 1684.0,
+        "volume": 31854149.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260531,
+        "open_price": 1641.0,
+        "high_price": 1641.0,
+        "low_price": 1641.0,
+        "close_price": 1641.0,
+        "volume": 7113568.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260530,
+        "open_price": 1594.0,
+        "high_price": 1594.0,
+        "low_price": 1594.0,
+        "close_price": 1594.0,
+        "volume": 3906085.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260526,
+        "open_price": 1548.0,
+        "high_price": 1548.0,
+        "low_price": 1535.0,
+        "close_price": 1548.0,
+        "volume": 11471321.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260525,
+        "open_price": 1503.0,
+        "high_price": 1503.0,
+        "low_price": 1503.0,
+        "close_price": 1503.0,
+        "volume": 2636030.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260524,
+        "open_price": 1460.0,
+        "high_price": 1460.0,
+        "low_price": 1460.0,
+        "close_price": 1460.0,
+        "volume": 1854124.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260523,
+        "open_price": 1418.0,
+        "high_price": 1418.0,
+        "low_price": 1418.0,
+        "close_price": 1418.0,
+        "volume": 2248106.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260520,
+        "open_price": 1378.0,
+        "high_price": 1378.0,
+        "low_price": 1338.0,
+        "close_price": 1377.0,
+        "volume": 4871467.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260519,
+        "open_price": 1334.0,
+        "high_price": 1382.0,
+        "low_price": 1334.0,
+        "close_price": 1338.0,
+        "volume": 13516125.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1375.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260225,
+        "open_price": 1390.0,
+        "high_price": 1391.0,
+        "low_price": 1358.0,
+        "close_price": 1375.0,
+        "volume": 2838828.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260224,
+        "open_price": 1374.0,
+        "high_price": 1377.0,
+        "low_price": 1345.0,
+        "close_price": 1351.0,
+        "volume": 3274147.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260223,
+        "open_price": 1374.0,
+        "high_price": 1451.0,
+        "low_price": 1374.0,
+        "close_price": 1386.0,
+        "volume": 14300621.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260222,
+        "open_price": 1416.0,
+        "high_price": 1416.0,
+        "low_price": 1416.0,
+        "close_price": 1416.0,
+        "volume": 2452473.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260221,
+        "open_price": 1520.0,
+        "high_price": 1520.0,
+        "low_price": 1455.0,
+        "close_price": 1459.0,
+        "volume": 2546106.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260218,
+        "open_price": 1500.0,
+        "high_price": 1500.0,
+        "low_price": 1500.0,
+        "close_price": 1500.0,
+        "volume": 15636722.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260217,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1457.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260216,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1477.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260215,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1477.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260214,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1477.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260210,
+        "open_price": 1412.0,
+        "high_price": 1493.0,
+        "low_price": 1410.0,
+        "close_price": 1477.0,
+        "volume": 15269262.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260209,
+        "open_price": 1512.0,
+        "high_price": 1512.0,
+        "low_price": 1448.0,
+        "close_price": 1450.0,
+        "volume": 4746081.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260208,
+        "open_price": 1566.0,
+        "high_price": 1566.0,
+        "low_price": 1477.0,
+        "close_price": 1492.0,
+        "volume": 7229378.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260207,
+        "open_price": 1500.0,
+        "high_price": 1524.0,
+        "low_price": 1500.0,
+        "close_price": 1522.0,
+        "volume": 11950164.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260203,
+        "open_price": 1495.0,
+        "high_price": 1520.0,
+        "low_price": 1455.0,
+        "close_price": 1480.0,
+        "volume": 3568016.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260202,
+        "open_price": 1500.0,
+        "high_price": 1500.0,
+        "low_price": 1462.0,
+        "close_price": 1487.0,
+        "volume": 3364828.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260201,
+        "open_price": 1458.0,
+        "high_price": 1494.0,
+        "low_price": 1458.0,
+        "close_price": 1459.0,
+        "volume": 9096461.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260131,
+        "open_price": 1570.0,
+        "high_price": 1570.0,
+        "low_price": 1502.0,
+        "close_price": 1503.0,
+        "volume": 5392629.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260128,
+        "open_price": 1544.0,
+        "high_price": 1567.0,
+        "low_price": 1544.0,
+        "close_price": 1548.0,
+        "volume": 12873218.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260127,
+        "open_price": 1591.0,
+        "high_price": 1591.0,
+        "low_price": 1591.0,
+        "close_price": 1591.0,
+        "volume": 3090205.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260126,
+        "open_price": 1640.0,
+        "high_price": 1640.0,
+        "low_price": 1640.0,
+        "close_price": 1640.0,
+        "volume": 2347856.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260125,
+        "open_price": 1689.0,
+        "high_price": 1715.0,
+        "low_price": 1689.0,
+        "close_price": 1690.0,
+        "volume": 9346669.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260124,
+        "open_price": 1825.0,
+        "high_price": 1825.0,
+        "low_price": 1734.0,
+        "close_price": 1741.0,
+        "volume": 5139903.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260121,
+        "open_price": 1720.0,
+        "high_price": 1792.0,
+        "low_price": 1720.0,
+        "close_price": 1787.0,
+        "volume": 8991696.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260120,
+        "open_price": 1757.0,
+        "high_price": 1760.0,
+        "low_price": 1686.0,
+        "close_price": 1740.0,
+        "volume": 10796259.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260119,
+        "open_price": 1758.0,
+        "high_price": 1759.0,
+        "low_price": 1669.0,
+        "close_price": 1709.0,
+        "volume": 10776159.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260118,
+        "open_price": 1634.0,
+        "high_price": 1708.0,
+        "low_price": 1634.0,
+        "close_price": 1708.0,
+        "volume": 13026928.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260114,
+        "open_price": 1667.0,
+        "high_price": 1686.0,
+        "low_price": 1654.0,
+        "close_price": 1659.0,
+        "volume": 37968475.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260113,
+        "open_price": 1689.0,
+        "high_price": 1739.0,
+        "low_price": 1650.0,
+        "close_price": 1705.0,
+        "volume": 11532968.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260112,
+        "open_price": 1691.0,
+        "high_price": 1785.0,
+        "low_price": 1686.0,
+        "close_price": 1699.0,
+        "volume": 32669730.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260111,
+        "open_price": 1740.0,
+        "high_price": 1765.0,
+        "low_price": 1737.0,
+        "close_price": 1738.0,
+        "volume": 12182311.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260110,
+        "open_price": 1787.0,
+        "high_price": 1830.0,
+        "low_price": 1787.0,
+        "close_price": 1790.0,
+        "volume": 15034349.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260107,
+        "open_price": 1924.0,
+        "high_price": 1924.0,
+        "low_price": 1836.0,
+        "close_price": 1842.0,
+        "volume": 14218720.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260106,
+        "open_price": 1880.0,
+        "high_price": 1894.0,
+        "low_price": 1869.0,
+        "close_price": 1892.0,
+        "volume": 12526274.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260105,
+        "open_price": 1757.0,
+        "high_price": 1855.0,
+        "low_price": 1757.0,
+        "close_price": 1839.0,
+        "volume": 21640193.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20260104,
+        "open_price": 1800.0,
+        "high_price": 1822.0,
+        "low_price": 1800.0,
+        "close_price": 1801.0,
+        "volume": 14390321.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251231,
+        "open_price": 1854.0,
+        "high_price": 1891.0,
+        "low_price": 1854.0,
+        "close_price": 1855.0,
+        "volume": 43215210.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251230,
+        "open_price": 1911.0,
+        "high_price": 1911.0,
+        "low_price": 1911.0,
+        "close_price": 1911.0,
+        "volume": 2005232.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251229,
+        "open_price": 1970.0,
+        "high_price": 1970.0,
+        "low_price": 1970.0,
+        "close_price": 1970.0,
+        "volume": 6976887.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251228,
+        "open_price": 2089.0,
+        "high_price": 2089.0,
+        "low_price": 1969.0,
+        "close_price": 2030.0,
+        "volume": 32199241.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251227,
+        "open_price": 2045.0,
+        "high_price": 2045.0,
+        "low_price": 1975.0,
+        "close_price": 2029.0,
+        "volume": 40339034.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251224,
+        "open_price": 1984.0,
+        "high_price": 1986.0,
+        "low_price": 1984.0,
+        "close_price": 1986.0,
+        "volume": 21855724.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251223,
+        "open_price": 1833.0,
+        "high_price": 1934.0,
+        "low_price": 1833.0,
+        "close_price": 1929.0,
+        "volume": 14705400.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251222,
+        "open_price": 1879.0,
+        "high_price": 1908.0,
+        "low_price": 1824.0,
+        "close_price": 1878.0,
+        "volume": 23750253.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251221,
+        "open_price": 1844.0,
+        "high_price": 1870.0,
+        "low_price": 1814.0,
+        "close_price": 1854.0,
+        "volume": 9723854.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251220,
+        "open_price": 1821.0,
+        "high_price": 1821.0,
+        "low_price": 1820.0,
+        "close_price": 1821.0,
+        "volume": 15174811.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251217,
+        "open_price": 1754.0,
+        "high_price": 1825.0,
+        "low_price": 1719.0,
+        "close_price": 1768.0,
+        "volume": 65536648.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251216,
+        "open_price": 1743.0,
+        "high_price": 1795.0,
+        "low_price": 1700.0,
+        "close_price": 1772.0,
+        "volume": 17575564.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251215,
+        "open_price": 1720.0,
+        "high_price": 1774.0,
+        "low_price": 1719.0,
+        "close_price": 1743.0,
+        "volume": 10031962.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251214,
+        "open_price": 1808.0,
+        "high_price": 1808.0,
+        "low_price": 1738.0,
+        "close_price": 1741.0,
+        "volume": 24429511.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251213,
+        "open_price": 1788.0,
+        "high_price": 1793.0,
+        "low_price": 1763.0,
+        "close_price": 1791.0,
+        "volume": 25990565.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251210,
+        "open_price": 1738.0,
+        "high_price": 1742.0,
+        "low_price": 1706.0,
+        "close_price": 1741.0,
+        "volume": 16420578.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251209,
+        "open_price": 1660.0,
+        "high_price": 1693.0,
+        "low_price": 1660.0,
+        "close_price": 1692.0,
+        "volume": 12632181.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251208,
+        "open_price": 1612.0,
+        "high_price": 1646.0,
+        "low_price": 1612.0,
+        "close_price": 1644.0,
+        "volume": 22637970.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251207,
+        "open_price": 1602.0,
+        "high_price": 1602.0,
+        "low_price": 1550.0,
+        "close_price": 1599.0,
+        "volume": 18711850.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251206,
+        "open_price": 1574.0,
+        "high_price": 1574.0,
+        "low_price": 1574.0,
+        "close_price": 1556.0,
+        "volume": 5855450.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251203,
+        "open_price": 1478.0,
+        "high_price": 1548.0,
+        "low_price": 1478.0,
+        "close_price": 1529.0,
+        "volume": 5861216.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251202,
+        "open_price": 1509.0,
+        "high_price": 1545.0,
+        "low_price": 1470.0,
+        "close_price": 1503.0,
+        "volume": 8171567.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251201,
+        "open_price": 1494.0,
+        "high_price": 1530.0,
+        "low_price": 1481.0,
+        "close_price": 1508.0,
+        "volume": 3918577.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251130,
+        "open_price": 1513.0,
+        "high_price": 1544.0,
+        "low_price": 1498.0,
+        "close_price": 1507.0,
+        "volume": 9812563.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251129,
+        "open_price": 1522.0,
+        "high_price": 1599.0,
+        "low_price": 1515.0,
+        "close_price": 1540.0,
+        "volume": 5968323.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251126,
+        "open_price": 1575.0,
+        "high_price": 1600.0,
+        "low_price": 1524.0,
+        "close_price": 1561.0,
+        "volume": 4568020.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251125,
+        "open_price": 1571.0,
+        "high_price": 1611.0,
+        "low_price": 1543.0,
+        "close_price": 1570.0,
+        "volume": 7558279.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251123,
+        "open_price": 1531.0,
+        "high_price": 1581.0,
+        "low_price": 1531.0,
+        "close_price": 1565.0,
+        "volume": 8444255.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251122,
+        "open_price": 1525.0,
+        "high_price": 1570.0,
+        "low_price": 1525.0,
+        "close_price": 1535.0,
+        "volume": 5332345.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251119,
+        "open_price": 1566.0,
+        "high_price": 1589.0,
+        "low_price": 1520.0,
+        "close_price": 1528.0,
+        "volume": 17970975.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251118,
+        "open_price": 1590.0,
+        "high_price": 1590.0,
+        "low_price": 1545.0,
+        "close_price": 1566.0,
+        "volume": 6307004.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251117,
+        "open_price": 1673.0,
+        "high_price": 1674.0,
+        "low_price": 1579.0,
+        "close_price": 1592.0,
+        "volume": 9321655.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251116,
+        "open_price": 1607.0,
+        "high_price": 1653.0,
+        "low_price": 1606.0,
+        "close_price": 1627.0,
+        "volume": 6312194.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251115,
+        "open_price": 1599.0,
+        "high_price": 1607.0,
+        "low_price": 1590.0,
+        "close_price": 1606.0,
+        "volume": 15437802.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251112,
+        "open_price": 1555.0,
+        "high_price": 1640.0,
+        "low_price": 1553.0,
+        "close_price": 1561.0,
+        "volume": 18879765.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251111,
+        "open_price": 1619.0,
+        "high_price": 1645.0,
+        "low_price": 1599.0,
+        "close_price": 1601.0,
+        "volume": 9753293.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251110,
+        "open_price": 1648.0,
+        "high_price": 1668.0,
+        "low_price": 1648.0,
+        "close_price": 1648.0,
+        "volume": 24867456.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251109,
+        "open_price": 1694.0,
+        "high_price": 1710.0,
+        "low_price": 1673.0,
+        "close_price": 1698.0,
+        "volume": 4686093.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251108,
+        "open_price": 1720.0,
+        "high_price": 1729.0,
+        "low_price": 1690.0,
+        "close_price": 1724.0,
+        "volume": 21750867.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251105,
+        "open_price": 1639.0,
+        "high_price": 1694.0,
+        "low_price": 1596.0,
+        "close_price": 1679.0,
+        "volume": 28780043.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251104,
+        "open_price": 1640.0,
+        "high_price": 1652.0,
+        "low_price": 1598.0,
+        "close_price": 1645.0,
+        "volume": 44318738.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251103,
+        "open_price": 1559.0,
+        "high_price": 1605.0,
+        "low_price": 1541.0,
+        "close_price": 1604.0,
+        "volume": 44261455.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251102,
+        "open_price": 1542.0,
+        "high_price": 1590.0,
+        "low_price": 1501.0,
+        "close_price": 1559.0,
+        "volume": 19208651.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251101,
+        "open_price": 1540.0,
+        "high_price": 1589.0,
+        "low_price": 1520.0,
+        "close_price": 1544.0,
+        "volume": 9520191.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251029,
+        "open_price": 1599.0,
+        "high_price": 1610.0,
+        "low_price": 1557.0,
+        "close_price": 1566.0,
+        "volume": 16658072.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251028,
+        "open_price": 1585.0,
+        "high_price": 1640.0,
+        "low_price": 1565.0,
+        "close_price": 1605.0,
+        "volume": 7251483.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251027,
+        "open_price": 1604.0,
+        "high_price": 1608.0,
+        "low_price": 1572.0,
+        "close_price": 1603.0,
+        "volume": 18172680.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251026,
+        "open_price": 1568.0,
+        "high_price": 1573.0,
+        "low_price": 1515.0,
+        "close_price": 1562.0,
+        "volume": 15208751.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251025,
+        "open_price": 1528.0,
+        "high_price": 1528.0,
+        "low_price": 1506.0,
+        "close_price": 1528.0,
+        "volume": 18344240.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251022,
+        "open_price": 1473.0,
+        "high_price": 1487.0,
+        "low_price": 1450.0,
+        "close_price": 1484.0,
+        "volume": 12938799.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251021,
+        "open_price": 1397.0,
+        "high_price": 1470.0,
+        "low_price": 1397.0,
+        "close_price": 1444.0,
+        "volume": 8582550.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251020,
+        "open_price": 1458.0,
+        "high_price": 1458.0,
+        "low_price": 1423.0,
+        "close_price": 1428.0,
+        "volume": 14157013.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251019,
+        "open_price": 1513.0,
+        "high_price": 1535.0,
+        "low_price": 1463.0,
+        "close_price": 1467.0,
+        "volume": 31476068.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251018,
+        "open_price": 1505.0,
+        "high_price": 1512.0,
+        "low_price": 1464.0,
+        "close_price": 1508.0,
+        "volume": 17956762.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251015,
+        "open_price": 1439.0,
+        "high_price": 1480.0,
+        "low_price": 1434.0,
+        "close_price": 1468.0,
+        "volume": 2528819.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251014,
+        "open_price": 1431.0,
+        "high_price": 1493.0,
+        "low_price": 1431.0,
+        "close_price": 1469.0,
+        "volume": 11323115.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251013,
+        "open_price": 1440.0,
+        "high_price": 1491.0,
+        "low_price": 1424.0,
+        "close_price": 1464.0,
+        "volume": 10770605.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251012,
+        "open_price": 1452.0,
+        "high_price": 1457.0,
+        "low_price": 1420.0,
+        "close_price": 1450.0,
+        "volume": 11626920.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251011,
+        "open_price": 1393.0,
+        "high_price": 1426.0,
+        "low_price": 1393.0,
+        "close_price": 1415.0,
+        "volume": 8309318.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251008,
+        "open_price": 1379.0,
+        "high_price": 1386.0,
+        "low_price": 1345.0,
+        "close_price": 1385.0,
+        "volume": 11456751.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251007,
+        "open_price": 1326.0,
+        "high_price": 1370.0,
+        "low_price": 1326.0,
+        "close_price": 1346.0,
+        "volume": 4952659.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251006,
+        "open_price": 1325.0,
+        "high_price": 1378.0,
+        "low_price": 1325.0,
+        "close_price": 1347.0,
+        "volume": 6779982.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251005,
+        "open_price": 1333.0,
+        "high_price": 1385.0,
+        "low_price": 1333.0,
+        "close_price": 1353.0,
+        "volume": 4947365.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251004,
+        "open_price": 1347.0,
+        "high_price": 1352.0,
+        "low_price": 1310.0,
+        "close_price": 1345.0,
+        "volume": 9478334.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20251001,
+        "open_price": 1303.0,
+        "high_price": 1320.0,
+        "low_price": 1292.0,
+        "close_price": 1313.0,
+        "volume": 5919113.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250930,
+        "open_price": 1311.0,
+        "high_price": 1368.0,
+        "low_price": 1311.0,
+        "close_price": 1331.0,
+        "volume": 2943069.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250929,
+        "open_price": 1315.0,
+        "high_price": 1349.0,
+        "low_price": 1315.0,
+        "close_price": 1330.0,
+        "volume": 6945091.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250928,
+        "open_price": 1330.0,
+        "high_price": 1330.0,
+        "low_price": 1328.0,
+        "close_price": 1310.0,
+        "volume": 5472424.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250927,
+        "open_price": 1246.0,
+        "high_price": 1322.0,
+        "low_price": 1246.0,
+        "close_price": 1292.0,
+        "volume": 9905730.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250924,
+        "open_price": 1280.0,
+        "high_price": 1282.0,
+        "low_price": 1277.0,
+        "close_price": 1284.0,
+        "volume": 9150467.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250923,
+        "open_price": 1328.0,
+        "high_price": 1355.0,
+        "low_price": 1298.0,
+        "close_price": 1316.0,
+        "volume": 8610415.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250922,
+        "open_price": 1302.0,
+        "high_price": 1346.0,
+        "low_price": 1302.0,
+        "close_price": 1324.0,
+        "volume": 6878634.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250921,
+        "open_price": 1295.0,
+        "high_price": 1330.0,
+        "low_price": 1295.0,
+        "close_price": 1307.0,
+        "volume": 10421676.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250920,
+        "open_price": 1303.0,
+        "high_price": 1303.0,
+        "low_price": 1303.0,
+        "close_price": 1335.0,
+        "volume": 2321080.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250917,
+        "open_price": 1331.0,
+        "high_price": 1373.0,
+        "low_price": 1320.0,
+        "close_price": 1343.0,
+        "volume": 4729258.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250916,
+        "open_price": 1350.0,
+        "high_price": 1380.0,
+        "low_price": 1345.0,
+        "close_price": 1347.0,
+        "volume": 13926119.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250915,
+        "open_price": 1401.0,
+        "high_price": 1426.0,
+        "low_price": 1383.0,
+        "close_price": 1386.0,
+        "volume": 24555404.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250914,
+        "open_price": 1496.0,
+        "high_price": 1496.0,
+        "low_price": 1421.0,
+        "close_price": 1425.0,
+        "volume": 38183258.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250913,
+        "open_price": 1468.0,
+        "high_price": 1499.0,
+        "low_price": 1463.0,
+        "close_price": 1464.0,
+        "volume": 18493378.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250909,
+        "open_price": 1578.0,
+        "high_price": 1578.0,
+        "low_price": 1505.0,
+        "close_price": 1508.0,
+        "volume": 10338460.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250908,
+        "open_price": 1538.0,
+        "high_price": 1567.0,
+        "low_price": 1478.0,
+        "close_price": 1551.0,
+        "volume": 21777536.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250907,
+        "open_price": 1503.0,
+        "high_price": 1587.0,
+        "low_price": 1499.0,
+        "close_price": 1522.0,
+        "volume": 12098394.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250906,
+        "open_price": 1493.0,
+        "high_price": 1574.0,
+        "low_price": 1484.0,
+        "close_price": 1545.0,
+        "volume": 18301828.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250903,
+        "open_price": 1472.0,
+        "high_price": 1535.0,
+        "low_price": 1471.0,
+        "close_price": 1529.0,
+        "volume": 19424816.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250902,
+        "open_price": 1425.0,
+        "high_price": 1513.0,
+        "low_price": 1425.0,
+        "close_price": 1491.0,
+        "volume": 20721598.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250831,
+        "open_price": 1433.0,
+        "high_price": 1520.0,
+        "low_price": 1433.0,
+        "close_price": 1469.0,
+        "volume": 19964911.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250830,
+        "open_price": 1435.0,
+        "high_price": 1435.0,
+        "low_price": 1435.0,
+        "close_price": 1477.0,
+        "volume": 460908.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250827,
+        "open_price": 1485.0,
+        "high_price": 1487.0,
+        "low_price": 1404.0,
+        "close_price": 1479.0,
+        "volume": 15419134.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250826,
+        "open_price": 1447.0,
+        "high_price": 1447.0,
+        "low_price": 1422.0,
+        "close_price": 1444.0,
+        "volume": 16664182.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250825,
+        "open_price": 1331.0,
+        "high_price": 1408.0,
+        "low_price": 1326.0,
+        "close_price": 1405.0,
+        "volume": 23621638.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250823,
+        "open_price": 1367.0,
+        "high_price": 1368.0,
+        "low_price": 1341.0,
+        "close_price": 1367.0,
+        "volume": 17968317.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250820,
+        "open_price": 1331.0,
+        "high_price": 1332.0,
+        "low_price": 1310.0,
+        "close_price": 1329.0,
+        "volume": 16971060.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250819,
+        "open_price": 1291.0,
+        "high_price": 1295.0,
+        "low_price": 1291.0,
+        "close_price": 1294.0,
+        "volume": 11810377.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250818,
+        "open_price": 1291.0,
+        "high_price": 1291.0,
+        "low_price": 1232.0,
+        "close_price": 1258.0,
+        "volume": 1830722.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250817,
+        "open_price": 1269.0,
+        "high_price": 1281.0,
+        "low_price": 1240.0,
+        "close_price": 1255.0,
+        "volume": 4247574.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250816,
+        "open_price": 1210.0,
+        "high_price": 1276.0,
+        "low_price": 1208.0,
+        "close_price": 1244.0,
+        "volume": 3111909.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250813,
+        "open_price": 1234.0,
+        "high_price": 1235.0,
+        "low_price": 1231.0,
+        "close_price": 1245.0,
+        "volume": 7499084.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250812,
+        "open_price": 1248.0,
+        "high_price": 1320.0,
+        "low_price": 1245.0,
+        "close_price": 1269.0,
+        "volume": 7355653.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250811,
+        "open_price": 1318.0,
+        "high_price": 1333.0,
+        "low_price": 1260.0,
+        "close_price": 1283.0,
+        "volume": 7151751.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250810,
+        "open_price": 1272.0,
+        "high_price": 1310.0,
+        "low_price": 1271.0,
+        "close_price": 1298.0,
+        "volume": 1826714.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250809,
+        "open_price": 1317.0,
+        "high_price": 1327.0,
+        "low_price": 1275.0,
+        "close_price": 1299.0,
+        "volume": 5413557.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250806,
+        "open_price": 1303.0,
+        "high_price": 1303.0,
+        "low_price": 1262.0,
+        "close_price": 1289.0,
+        "volume": 360673.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250805,
+        "open_price": 1320.0,
+        "high_price": 1324.0,
+        "low_price": 1264.0,
+        "close_price": 1289.0,
+        "volume": 12230384.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250804,
+        "open_price": 1301.0,
+        "high_price": 1301.0,
+        "low_price": 1262.0,
+        "close_price": 1286.0,
+        "volume": 11569585.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250803,
+        "open_price": 1285.0,
+        "high_price": 1295.0,
+        "low_price": 1260.0,
+        "close_price": 1264.0,
+        "volume": 3882829.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250802,
+        "open_price": 1280.0,
+        "high_price": 1280.0,
+        "low_price": 1242.0,
+        "close_price": 1258.0,
+        "volume": 20434193.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250730,
+        "open_price": 1250.0,
+        "high_price": 1269.0,
+        "low_price": 1250.0,
+        "close_price": 1280.0,
+        "volume": 2558042.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250729,
+        "open_price": 1264.0,
+        "high_price": 1299.0,
+        "low_price": 1264.0,
+        "close_price": 1288.0,
+        "volume": 4333299.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250728,
+        "open_price": 1300.0,
+        "high_price": 1300.0,
+        "low_price": 1294.0,
+        "close_price": 1303.0,
+        "volume": 8618537.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250727,
+        "open_price": 1364.0,
+        "high_price": 1365.0,
+        "low_price": 1324.0,
+        "close_price": 1333.0,
+        "volume": 2482765.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250726,
+        "open_price": 1330.0,
+        "high_price": 1360.0,
+        "low_price": 1291.0,
+        "close_price": 1327.0,
+        "volume": 7214999.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250723,
+        "open_price": 1361.0,
+        "high_price": 1362.0,
+        "low_price": 1285.0,
+        "close_price": 1330.0,
+        "volume": 7468970.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250722,
+        "open_price": 1331.0,
+        "high_price": 1346.0,
+        "low_price": 1322.0,
+        "close_price": 1324.0,
+        "volume": 5662039.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250721,
+        "open_price": 1339.0,
+        "high_price": 1342.0,
+        "low_price": 1293.0,
+        "close_price": 1307.0,
+        "volume": 10549010.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250720,
+        "open_price": 1320.0,
+        "high_price": 1320.0,
+        "low_price": 1302.0,
+        "close_price": 1305.0,
+        "volume": 7264005.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250719,
+        "open_price": 1290.0,
+        "high_price": 1305.0,
+        "low_price": 1250.0,
+        "close_price": 1282.0,
+        "volume": 5683828.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250716,
+        "open_price": 1255.0,
+        "high_price": 1281.0,
+        "low_price": 1238.0,
+        "close_price": 1267.0,
+        "volume": 7178395.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250715,
+        "open_price": 1291.0,
+        "high_price": 1311.0,
+        "low_price": 1235.0,
+        "close_price": 1268.0,
+        "volume": 28453546.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250714,
+        "open_price": 1250.0,
+        "high_price": 1290.0,
+        "low_price": 1236.0,
+        "close_price": 1273.0,
+        "volume": 12733474.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250713,
+        "open_price": 1298.0,
+        "high_price": 1298.0,
+        "low_price": 1234.0,
+        "close_price": 1253.0,
+        "volume": 7289209.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250712,
+        "open_price": 1251.0,
+        "high_price": 1307.0,
+        "low_price": 1236.0,
+        "close_price": 1272.0,
+        "volume": 5096333.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250709,
+        "open_price": 1252.0,
+        "high_price": 1252.0,
+        "low_price": 1252.0,
+        "close_price": 1274.0,
+        "volume": 4740676.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250708,
+        "open_price": 1273.0,
+        "high_price": 1273.0,
+        "low_price": 1263.0,
+        "close_price": 1290.0,
+        "volume": 3509718.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250707,
+        "open_price": 1293.0,
+        "high_price": 1345.0,
+        "low_price": 1276.0,
+        "close_price": 1302.0,
+        "volume": 4795484.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250702,
+        "open_price": 1300.0,
+        "high_price": 1373.0,
+        "low_price": 1300.0,
+        "close_price": 1310.0,
+        "volume": 25376029.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250701,
+        "open_price": 1308.0,
+        "high_price": 1308.0,
+        "low_price": 1308.0,
+        "close_price": 1340.0,
+        "volume": 2122198.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250630,
+        "open_price": 1346.0,
+        "high_price": 1386.0,
+        "low_price": 1346.0,
+        "close_price": 1348.0,
+        "volume": 38116711.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250629,
+        "open_price": 1385.0,
+        "high_price": 1385.0,
+        "low_price": 1385.0,
+        "close_price": 1387.0,
+        "volume": 9788489.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250628,
+        "open_price": 1413.0,
+        "high_price": 1413.0,
+        "low_price": 1413.0,
+        "close_price": 1427.0,
+        "volume": 6928579.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1456.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1456.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1456.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1456.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1456.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1456.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1456.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1456.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250611,
+        "open_price": 1423.0,
+        "high_price": 1499.0,
+        "low_price": 1423.0,
+        "close_price": 1456.0,
+        "volume": 4086189.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250610,
+        "open_price": 1451.0,
+        "high_price": 1462.0,
+        "low_price": 1451.0,
+        "close_price": 1456.0,
+        "volume": 8524502.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250609,
+        "open_price": 1471.0,
+        "high_price": 1500.0,
+        "low_price": 1465.0,
+        "close_price": 1495.0,
+        "volume": 3343999.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250608,
+        "open_price": 1511.0,
+        "high_price": 1540.0,
+        "low_price": 1506.0,
+        "close_price": 1510.0,
+        "volume": 8703325.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250607,
+        "open_price": 1558.0,
+        "high_price": 1558.0,
+        "low_price": 1521.0,
+        "close_price": 1552.0,
+        "volume": 3358421.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250603,
+        "open_price": 1583.0,
+        "high_price": 1600.0,
+        "low_price": 1557.0,
+        "close_price": 1568.0,
+        "volume": 9682693.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250602,
+        "open_price": 1600.0,
+        "high_price": 1638.0,
+        "low_price": 1582.0,
+        "close_price": 1605.0,
+        "volume": 5917851.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250601,
+        "open_price": 1525.0,
+        "high_price": 1602.0,
+        "low_price": 1525.0,
+        "close_price": 1598.0,
+        "volume": 16360310.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250531,
+        "open_price": 1540.0,
+        "high_price": 1582.0,
+        "low_price": 1528.0,
+        "close_price": 1556.0,
+        "volume": 6075408.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250528,
+        "open_price": 1550.0,
+        "high_price": 1550.0,
+        "low_price": 1502.0,
+        "close_price": 1536.0,
+        "volume": 4811047.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250527,
+        "open_price": 1581.0,
+        "high_price": 1581.0,
+        "low_price": 1553.0,
+        "close_price": 1548.0,
+        "volume": 2341126.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250526,
+        "open_price": 1602.0,
+        "high_price": 1602.0,
+        "low_price": 1524.0,
+        "close_price": 1542.0,
+        "volume": 8637374.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250525,
+        "open_price": 1600.0,
+        "high_price": 1633.0,
+        "low_price": 1569.0,
+        "close_price": 1571.0,
+        "volume": 18206511.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250524,
+        "open_price": 1605.0,
+        "high_price": 1673.0,
+        "low_price": 1588.0,
+        "close_price": 1617.0,
+        "volume": 21506169.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250521,
+        "open_price": 1627.0,
+        "high_price": 1640.0,
+        "low_price": 1627.0,
+        "close_price": 1637.0,
+        "volume": 6822132.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250520,
+        "open_price": 1650.0,
+        "high_price": 1714.0,
+        "low_price": 1646.0,
+        "close_price": 1677.0,
+        "volume": 5200433.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250519,
+        "open_price": 1760.0,
+        "high_price": 1760.0,
+        "low_price": 1670.0,
+        "close_price": 1696.0,
+        "volume": 6740862.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250518,
+        "open_price": 1691.0,
+        "high_price": 1774.0,
+        "low_price": 1691.0,
+        "close_price": 1721.0,
+        "volume": 9297694.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250517,
+        "open_price": 1730.0,
+        "high_price": 1790.0,
+        "low_price": 1701.0,
+        "close_price": 1731.0,
+        "volume": 6431143.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250514,
+        "open_price": 1755.0,
+        "high_price": 1783.0,
+        "low_price": 1715.0,
+        "close_price": 1753.0,
+        "volume": 6712160.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250513,
+        "open_price": 1797.0,
+        "high_price": 1804.0,
+        "low_price": 1709.0,
+        "close_price": 1755.0,
+        "volume": 11257524.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250512,
+        "open_price": 1754.0,
+        "high_price": 1754.0,
+        "low_price": 1728.0,
+        "close_price": 1754.0,
+        "volume": 15143857.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250511,
+        "open_price": 1710.0,
+        "high_price": 1715.0,
+        "low_price": 1662.0,
+        "close_price": 1703.0,
+        "volume": 25248082.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250510,
+        "open_price": 1609.0,
+        "high_price": 1707.0,
+        "low_price": 1609.0,
+        "close_price": 1666.0,
+        "volume": 10204611.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250507,
+        "open_price": 1640.0,
+        "high_price": 1660.0,
+        "low_price": 1620.0,
+        "close_price": 1658.0,
+        "volume": 10971996.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250506,
+        "open_price": 1622.0,
+        "high_price": 1661.0,
+        "low_price": 1584.0,
+        "close_price": 1612.0,
+        "volume": 10761094.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250505,
+        "open_price": 1620.0,
+        "high_price": 1661.0,
+        "low_price": 1612.0,
+        "close_price": 1621.0,
+        "volume": 3595007.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250504,
+        "open_price": 1590.0,
+        "high_price": 1637.0,
+        "low_price": 1572.0,
+        "close_price": 1613.0,
+        "volume": 7665005.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250503,
+        "open_price": 1565.0,
+        "high_price": 1649.0,
+        "low_price": 1565.0,
+        "close_price": 1590.0,
+        "volume": 12004370.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250430,
+        "open_price": 1614.0,
+        "high_price": 1618.0,
+        "low_price": 1561.0,
+        "close_price": 1613.0,
+        "volume": 12425823.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250429,
+        "open_price": 1540.0,
+        "high_price": 1581.0,
+        "low_price": 1516.0,
+        "close_price": 1571.0,
+        "volume": 11556619.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250428,
+        "open_price": 1540.0,
+        "high_price": 1570.0,
+        "low_price": 1502.0,
+        "close_price": 1535.0,
+        "volume": 6524878.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250427,
+        "open_price": 1531.0,
+        "high_price": 1545.0,
+        "low_price": 1494.0,
+        "close_price": 1525.0,
+        "volume": 8810399.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250426,
+        "open_price": 1507.0,
+        "high_price": 1530.0,
+        "low_price": 1507.0,
+        "close_price": 1530.0,
+        "volume": 11534473.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250423,
+        "open_price": 1475.0,
+        "high_price": 1489.0,
+        "low_price": 1417.0,
+        "close_price": 1486.0,
+        "volume": 15009063.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250422,
+        "open_price": 1460.0,
+        "high_price": 1488.0,
+        "low_price": 1422.0,
+        "close_price": 1446.0,
+        "volume": 11701860.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250421,
+        "open_price": 1466.0,
+        "high_price": 1466.0,
+        "low_price": 1437.0,
+        "close_price": 1465.0,
+        "volume": 19624147.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250420,
+        "open_price": 1427.0,
+        "high_price": 1427.0,
+        "low_price": 1427.0,
+        "close_price": 1424.0,
+        "volume": 10321798.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250419,
+        "open_price": 1360.0,
+        "high_price": 1400.0,
+        "low_price": 1360.0,
+        "close_price": 1386.0,
+        "volume": 8098193.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250416,
+        "open_price": 1333.0,
+        "high_price": 1387.0,
+        "low_price": 1328.0,
+        "close_price": 1360.0,
+        "volume": 12011417.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250415,
+        "open_price": 1370.0,
+        "high_price": 1390.0,
+        "low_price": 1316.0,
+        "close_price": 1353.0,
+        "volume": 10902218.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250414,
+        "open_price": 1379.0,
+        "high_price": 1379.0,
+        "low_price": 1379.0,
+        "close_price": 1355.0,
+        "volume": 4768146.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250413,
+        "open_price": 1354.0,
+        "high_price": 1354.0,
+        "low_price": 1354.0,
+        "close_price": 1339.0,
+        "volume": 7186734.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250412,
+        "open_price": 1310.0,
+        "high_price": 1316.0,
+        "low_price": 1308.0,
+        "close_price": 1315.0,
+        "volume": 14209866.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250409,
+        "open_price": 1329.0,
+        "high_price": 1329.0,
+        "low_price": 1268.0,
+        "close_price": 1278.0,
+        "volume": 23189219.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250408,
+        "open_price": 1286.0,
+        "high_price": 1318.0,
+        "low_price": 1286.0,
+        "close_price": 1307.0,
+        "volume": 8675388.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250407,
+        "open_price": 1290.0,
+        "high_price": 1299.0,
+        "low_price": 1276.0,
+        "close_price": 1280.0,
+        "volume": 10839991.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250406,
+        "open_price": 1313.0,
+        "high_price": 1339.0,
+        "low_price": 1288.0,
+        "close_price": 1315.0,
+        "volume": 6011962.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250405,
+        "open_price": 1339.0,
+        "high_price": 1351.0,
+        "low_price": 1314.0,
+        "close_price": 1320.0,
+        "volume": 5170437.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250330,
+        "open_price": 1280.0,
+        "high_price": 1336.0,
+        "low_price": 1279.0,
+        "close_price": 1312.0,
+        "volume": 8918966.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250329,
+        "open_price": 1294.0,
+        "high_price": 1305.0,
+        "low_price": 1278.0,
+        "close_price": 1298.0,
+        "volume": 6669771.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250326,
+        "open_price": 1346.0,
+        "high_price": 1346.0,
+        "low_price": 1292.0,
+        "close_price": 1317.0,
+        "volume": 3103824.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250325,
+        "open_price": 1329.0,
+        "high_price": 1343.0,
+        "low_price": 1314.0,
+        "close_price": 1313.0,
+        "volume": 3071851.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250318,
+        "open_price": 1283.0,
+        "high_price": 1283.0,
+        "low_price": 1283.0,
+        "close_price": 1304.0,
+        "volume": 5205115.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250317,
+        "open_price": 1305.0,
+        "high_price": 1343.0,
+        "low_price": 1293.0,
+        "close_price": 1322.0,
+        "volume": 4593051.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250316,
+        "open_price": 1364.0,
+        "high_price": 1364.0,
+        "low_price": 1294.0,
+        "close_price": 1330.0,
+        "volume": 4949954.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250315,
+        "open_price": 1343.0,
+        "high_price": 1346.0,
+        "low_price": 1311.0,
+        "close_price": 1325.0,
+        "volume": 6031257.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250312,
+        "open_price": 1315.0,
+        "high_price": 1335.0,
+        "low_price": 1263.0,
+        "close_price": 1307.0,
+        "volume": 7605544.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250311,
+        "open_price": 1357.0,
+        "high_price": 1357.0,
+        "low_price": 1285.0,
+        "close_price": 1301.0,
+        "volume": 7969803.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250310,
+        "open_price": 1322.0,
+        "high_price": 1395.0,
+        "low_price": 1322.0,
+        "close_price": 1324.0,
+        "volume": 14461190.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250309,
+        "open_price": 1362.0,
+        "high_price": 1362.0,
+        "low_price": 1362.0,
+        "close_price": 1362.0,
+        "volume": 10448362.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250308,
+        "open_price": 1420.0,
+        "high_price": 1420.0,
+        "low_price": 1385.0,
+        "close_price": 1404.0,
+        "volume": 5918722.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250305,
+        "open_price": 1466.0,
+        "high_price": 1466.0,
+        "low_price": 1400.0,
+        "close_price": 1427.0,
+        "volume": 4958963.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250304,
+        "open_price": 1445.0,
+        "high_price": 1493.0,
+        "low_price": 1420.0,
+        "close_price": 1434.0,
+        "volume": 9132050.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250303,
+        "open_price": 1440.0,
+        "high_price": 1456.0,
+        "low_price": 1440.0,
+        "close_price": 1463.0,
+        "volume": 4790486.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250302,
+        "open_price": 1471.0,
+        "high_price": 1539.0,
+        "low_price": 1464.0,
+        "close_price": 1484.0,
+        "volume": 8960544.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250301,
+        "open_price": 1491.0,
+        "high_price": 1566.0,
+        "low_price": 1486.0,
+        "close_price": 1506.0,
+        "volume": 7525762.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250226,
+        "open_price": 1532.0,
+        "high_price": 1587.0,
+        "low_price": 1527.0,
+        "close_price": 1531.0,
+        "volume": 9759744.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250225,
+        "open_price": 1580.0,
+        "high_price": 1587.0,
+        "low_price": 1536.0,
+        "close_price": 1574.0,
+        "volume": 15787318.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250224,
+        "open_price": 1480.0,
+        "high_price": 1541.0,
+        "low_price": 1480.0,
+        "close_price": 1541.0,
+        "volume": 12351519.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250223,
+        "open_price": 1494.0,
+        "high_price": 1547.0,
+        "low_price": 1463.0,
+        "close_price": 1497.0,
+        "volume": 8505866.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250222,
+        "open_price": 1553.0,
+        "high_price": 1553.0,
+        "low_price": 1477.0,
+        "close_price": 1503.0,
+        "volume": 4988914.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250219,
+        "open_price": 1537.0,
+        "high_price": 1538.0,
+        "low_price": 1461.0,
+        "close_price": 1522.0,
+        "volume": 9449616.0
+    },
+    {
+        "symbol": "رکیش",
+        "trade_date": 20250218,
+        "open_price": 1504.0,
+        "high_price": 1533.0,
+        "low_price": 1491.0,
+        "close_price": 1494.0,
+        "volume": 15484140.0
+    }
+]

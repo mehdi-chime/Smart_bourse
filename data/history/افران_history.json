@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "افران",
+        "trade_date": 20260901,
+        "open_price": 52979.0,
+        "high_price": 53025.0,
+        "low_price": 52979.0,
+        "close_price": 52982.0,
+        "volume": 307464282.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260831,
+        "open_price": 52917.0,
+        "high_price": 52919.0,
+        "low_price": 52917.0,
+        "close_price": 52917.0,
+        "volume": 298025868.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260829,
+        "open_price": 52840.0,
+        "high_price": 52844.0,
+        "low_price": 52840.0,
+        "close_price": 52840.0,
+        "volume": 338795548.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260826,
+        "open_price": 52731.0,
+        "high_price": 52761.0,
+        "low_price": 52731.0,
+        "close_price": 52752.0,
+        "volume": 475703307.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260825,
+        "open_price": 52651.0,
+        "high_price": 52698.0,
+        "low_price": 52651.0,
+        "close_price": 52663.0,
+        "volume": 231834638.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260824,
+        "open_price": 52583.0,
+        "high_price": 52613.0,
+        "low_price": 52583.0,
+        "close_price": 52585.0,
+        "volume": 292727421.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260823,
+        "open_price": 52516.0,
+        "high_price": 52517.0,
+        "low_price": 52516.0,
+        "close_price": 52516.0,
+        "volume": 341235632.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260822,
+        "open_price": 52450.0,
+        "high_price": 52451.0,
+        "low_price": 52450.0,
+        "close_price": 52450.0,
+        "volume": 425152980.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260819,
+        "open_price": 52381.0,
+        "high_price": 52383.0,
+        "low_price": 52381.0,
+        "close_price": 52381.0,
+        "volume": 282671774.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260818,
+        "open_price": 52308.0,
+        "high_price": 52309.0,
+        "low_price": 52308.0,
+        "close_price": 52308.0,
+        "volume": 233357045.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260817,
+        "open_price": 52244.0,
+        "high_price": 52251.0,
+        "low_price": 52244.0,
+        "close_price": 52245.0,
+        "volume": 173050185.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260816,
+        "open_price": 52182.0,
+        "high_price": 52188.0,
+        "low_price": 52182.0,
+        "close_price": 52183.0,
+        "volume": 196482350.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260815,
+        "open_price": 52116.0,
+        "high_price": 52123.0,
+        "low_price": 52116.0,
+        "close_price": 52117.0,
+        "volume": 277801941.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260811,
+        "open_price": 52030.0,
+        "high_price": 52131.0,
+        "low_price": 52030.0,
+        "close_price": 52060.0,
+        "volume": 189712776.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260810,
+        "open_price": 51901.0,
+        "high_price": 51955.0,
+        "low_price": 51901.0,
+        "close_price": 51913.0,
+        "volume": 155443725.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260809,
+        "open_price": 51836.0,
+        "high_price": 51846.0,
+        "low_price": 51836.0,
+        "close_price": 51837.0,
+        "volume": 196262154.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260808,
+        "open_price": 51776.0,
+        "high_price": 51792.0,
+        "low_price": 51776.0,
+        "close_price": 51777.0,
+        "volume": 299105990.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260805,
+        "open_price": 51711.0,
+        "high_price": 51762.0,
+        "low_price": 51711.0,
+        "close_price": 51720.0,
+        "volume": 191388792.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260803,
+        "open_price": 51640.0,
+        "high_price": 51670.0,
+        "low_price": 51640.0,
+        "close_price": 51646.0,
+        "volume": 173191472.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260802,
+        "open_price": 51512.0,
+        "high_price": 51536.0,
+        "low_price": 51512.0,
+        "close_price": 51516.0,
+        "volume": 191726672.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260801,
+        "open_price": 51453.0,
+        "high_price": 51492.0,
+        "low_price": 51453.0,
+        "close_price": 51461.0,
+        "volume": 212333517.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260729,
+        "open_price": 51389.0,
+        "high_price": 51449.0,
+        "low_price": 51389.0,
+        "close_price": 51396.0,
+        "volume": 232759620.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260728,
+        "open_price": 51315.0,
+        "high_price": 51339.0,
+        "low_price": 51315.0,
+        "close_price": 51320.0,
+        "volume": 194479815.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260727,
+        "open_price": 51258.0,
+        "high_price": 51296.0,
+        "low_price": 51258.0,
+        "close_price": 51265.0,
+        "volume": 162137857.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260726,
+        "open_price": 51218.0,
+        "high_price": 51232.0,
+        "low_price": 51218.0,
+        "close_price": 51219.0,
+        "volume": 234148409.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260725,
+        "open_price": 51156.0,
+        "high_price": 51194.0,
+        "low_price": 51156.0,
+        "close_price": 51162.0,
+        "volume": 238889374.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260722,
+        "open_price": 51088.0,
+        "high_price": 51150.0,
+        "low_price": 51088.0,
+        "close_price": 51089.0,
+        "volume": 275288523.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260721,
+        "open_price": 51016.0,
+        "high_price": 51017.0,
+        "low_price": 51016.0,
+        "close_price": 51016.0,
+        "volume": 235218766.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260720,
+        "open_price": 50948.0,
+        "high_price": 50960.0,
+        "low_price": 50948.0,
+        "close_price": 50953.0,
+        "volume": 299191916.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260719,
+        "open_price": 50883.0,
+        "high_price": 50911.0,
+        "low_price": 50882.0,
+        "close_price": 50887.0,
+        "volume": 298769789.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260718,
+        "open_price": 50820.0,
+        "high_price": 50821.0,
+        "low_price": 50820.0,
+        "close_price": 50820.0,
+        "volume": 402988461.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260715,
+        "open_price": 50745.0,
+        "high_price": 50768.0,
+        "low_price": 50745.0,
+        "close_price": 50749.0,
+        "volume": 242344079.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260714,
+        "open_price": 50671.0,
+        "high_price": 50683.0,
+        "low_price": 50671.0,
+        "close_price": 50672.0,
+        "volume": 206492405.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260713,
+        "open_price": 50606.0,
+        "high_price": 50630.0,
+        "low_price": 50604.0,
+        "close_price": 50608.0,
+        "volume": 198586994.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260712,
+        "open_price": 50537.0,
+        "high_price": 50559.0,
+        "low_price": 50537.0,
+        "close_price": 50541.0,
+        "volume": 246479698.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260711,
+        "open_price": 50473.0,
+        "high_price": 50500.0,
+        "low_price": 50473.0,
+        "close_price": 50474.0,
+        "volume": 268524945.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260708,
+        "open_price": 50405.0,
+        "high_price": 50407.0,
+        "low_price": 50405.0,
+        "close_price": 50405.0,
+        "volume": 292150579.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260707,
+        "open_price": 50338.0,
+        "high_price": 50347.0,
+        "low_price": 50338.0,
+        "close_price": 50338.0,
+        "volume": 351177022.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260701,
+        "open_price": 50174.0,
+        "high_price": 50225.0,
+        "low_price": 50174.0,
+        "close_price": 50177.0,
+        "volume": 379251657.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260630,
+        "open_price": 50024.0,
+        "high_price": 50025.0,
+        "low_price": 50024.0,
+        "close_price": 50024.0,
+        "volume": 350872251.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260629,
+        "open_price": 49962.0,
+        "high_price": 49963.0,
+        "low_price": 49962.0,
+        "close_price": 49962.0,
+        "volume": 338183440.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260628,
+        "open_price": 49902.0,
+        "high_price": 49905.0,
+        "low_price": 49902.0,
+        "close_price": 49902.0,
+        "volume": 382484525.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260627,
+        "open_price": 49840.0,
+        "high_price": 49841.0,
+        "low_price": 49840.0,
+        "close_price": 49840.0,
+        "volume": 347325864.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260623,
+        "open_price": 49721.0,
+        "high_price": 49730.0,
+        "low_price": 49715.0,
+        "close_price": 49721.0,
+        "volume": 627281337.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260622,
+        "open_price": 49647.0,
+        "high_price": 49649.0,
+        "low_price": 49640.0,
+        "close_price": 49647.0,
+        "volume": 434394135.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260621,
+        "open_price": 49587.0,
+        "high_price": 49590.0,
+        "low_price": 49587.0,
+        "close_price": 49587.0,
+        "volume": 322595347.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260620,
+        "open_price": 49528.0,
+        "high_price": 49529.0,
+        "low_price": 49528.0,
+        "close_price": 49528.0,
+        "volume": 527005237.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260617,
+        "open_price": 49464.0,
+        "high_price": 49465.0,
+        "low_price": 49464.0,
+        "close_price": 49464.0,
+        "volume": 388431146.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260616,
+        "open_price": 49401.0,
+        "high_price": 49402.0,
+        "low_price": 49401.0,
+        "close_price": 49401.0,
+        "volume": 440999197.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260615,
+        "open_price": 49343.0,
+        "high_price": 49344.0,
+        "low_price": 49343.0,
+        "close_price": 49343.0,
+        "volume": 324160238.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260614,
+        "open_price": 49287.0,
+        "high_price": 49287.0,
+        "low_price": 49286.0,
+        "close_price": 49286.0,
+        "volume": 350772923.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260613,
+        "open_price": 49231.0,
+        "high_price": 49232.0,
+        "low_price": 49229.0,
+        "close_price": 49229.0,
+        "volume": 312560580.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260610,
+        "open_price": 49169.0,
+        "high_price": 49176.0,
+        "low_price": 49169.0,
+        "close_price": 49169.0,
+        "volume": 335513478.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260609,
+        "open_price": 49107.0,
+        "high_price": 49108.0,
+        "low_price": 49107.0,
+        "close_price": 49107.0,
+        "volume": 349832023.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260608,
+        "open_price": 49050.0,
+        "high_price": 49051.0,
+        "low_price": 49050.0,
+        "close_price": 49050.0,
+        "volume": 278245484.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260607,
+        "open_price": 48992.0,
+        "high_price": 49001.0,
+        "low_price": 48992.0,
+        "close_price": 48993.0,
+        "volume": 219471175.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260606,
+        "open_price": 48928.0,
+        "high_price": 48937.0,
+        "low_price": 48928.0,
+        "close_price": 48929.0,
+        "volume": 227584804.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260603,
+        "open_price": 48861.0,
+        "high_price": 48880.0,
+        "low_price": 48861.0,
+        "close_price": 48861.0,
+        "volume": 300738500.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260602,
+        "open_price": 48794.0,
+        "high_price": 48795.0,
+        "low_price": 48794.0,
+        "close_price": 48794.0,
+        "volume": 339718396.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260601,
+        "open_price": 48732.0,
+        "high_price": 48733.0,
+        "low_price": 48732.0,
+        "close_price": 48732.0,
+        "volume": 469129770.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260531,
+        "open_price": 48670.0,
+        "high_price": 48671.0,
+        "low_price": 48670.0,
+        "close_price": 48670.0,
+        "volume": 251145999.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260530,
+        "open_price": 48606.0,
+        "high_price": 48606.0,
+        "low_price": 48605.0,
+        "close_price": 48605.0,
+        "volume": 305471698.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260526,
+        "open_price": 48507.0,
+        "high_price": 48520.0,
+        "low_price": 48507.0,
+        "close_price": 48508.0,
+        "volume": 265439444.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260525,
+        "open_price": 48401.0,
+        "high_price": 48403.0,
+        "low_price": 48401.0,
+        "close_price": 48401.0,
+        "volume": 286248847.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260524,
+        "open_price": 48336.0,
+        "high_price": 48337.0,
+        "low_price": 48336.0,
+        "close_price": 48336.0,
+        "volume": 357548583.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260523,
+        "open_price": 48270.0,
+        "high_price": 48272.0,
+        "low_price": 48270.0,
+        "close_price": 48271.0,
+        "volume": 386723977.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260520,
+        "open_price": 48205.0,
+        "high_price": 48206.0,
+        "low_price": 48205.0,
+        "close_price": 48205.0,
+        "volume": 224142589.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260519,
+        "open_price": 48136.0,
+        "high_price": 48137.0,
+        "low_price": 48136.0,
+        "close_price": 48136.0,
+        "volume": 289747716.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260518,
+        "open_price": 48073.0,
+        "high_price": 48073.0,
+        "low_price": 48072.0,
+        "close_price": 48072.0,
+        "volume": 271851745.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260517,
+        "open_price": 48013.0,
+        "high_price": 48025.0,
+        "low_price": 48013.0,
+        "close_price": 48014.0,
+        "volume": 197923792.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260516,
+        "open_price": 47958.0,
+        "high_price": 47958.0,
+        "low_price": 47953.0,
+        "close_price": 47957.0,
+        "volume": 318563159.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260513,
+        "open_price": 47901.0,
+        "high_price": 47902.0,
+        "low_price": 47892.0,
+        "close_price": 47896.0,
+        "volume": 433409954.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260512,
+        "open_price": 47834.0,
+        "high_price": 47835.0,
+        "low_price": 47829.0,
+        "close_price": 47834.0,
+        "volume": 224710840.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260511,
+        "open_price": 47778.0,
+        "high_price": 47779.0,
+        "low_price": 47773.0,
+        "close_price": 47778.0,
+        "volume": 305697041.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260510,
+        "open_price": 47727.0,
+        "high_price": 47728.0,
+        "low_price": 47727.0,
+        "close_price": 47727.0,
+        "volume": 228000572.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260509,
+        "open_price": 47676.0,
+        "high_price": 47677.0,
+        "low_price": 47672.0,
+        "close_price": 47676.0,
+        "volume": 592259809.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260506,
+        "open_price": 47620.0,
+        "high_price": 47640.0,
+        "low_price": 47620.0,
+        "close_price": 47620.0,
+        "volume": 464961473.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260505,
+        "open_price": 47554.0,
+        "high_price": 47555.0,
+        "low_price": 47554.0,
+        "close_price": 47554.0,
+        "volume": 422062558.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260504,
+        "open_price": 47504.0,
+        "high_price": 47504.0,
+        "low_price": 47503.0,
+        "close_price": 47503.0,
+        "volume": 344639499.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260503,
+        "open_price": 47463.0,
+        "high_price": 47464.0,
+        "low_price": 47449.0,
+        "close_price": 47452.0,
+        "volume": 486547917.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260502,
+        "open_price": 47412.0,
+        "high_price": 47413.0,
+        "low_price": 47409.0,
+        "close_price": 47412.0,
+        "volume": 491252507.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260429,
+        "open_price": 47357.0,
+        "high_price": 47357.0,
+        "low_price": 47356.0,
+        "close_price": 47356.0,
+        "volume": 525797474.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260428,
+        "open_price": 47331.0,
+        "high_price": 47334.0,
+        "low_price": 47328.0,
+        "close_price": 47328.0,
+        "volume": 389948087.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260427,
+        "open_price": 47246.0,
+        "high_price": 47345.0,
+        "low_price": 47246.0,
+        "close_price": 47306.0,
+        "volume": 319821104.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260426,
+        "open_price": 47133.0,
+        "high_price": 47329.0,
+        "low_price": 47133.0,
+        "close_price": 47204.0,
+        "volume": 132137443.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260425,
+        "open_price": 47086.0,
+        "high_price": 47138.0,
+        "low_price": 47067.0,
+        "close_price": 47114.0,
+        "volume": 155994909.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260422,
+        "open_price": 46991.0,
+        "high_price": 47070.0,
+        "low_price": 46991.0,
+        "close_price": 47035.0,
+        "volume": 119807782.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260421,
+        "open_price": 46927.0,
+        "high_price": 46950.0,
+        "low_price": 46921.0,
+        "close_price": 46926.0,
+        "volume": 316113425.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260420,
+        "open_price": 46869.0,
+        "high_price": 46870.0,
+        "low_price": 46869.0,
+        "close_price": 46869.0,
+        "volume": 137097034.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260419,
+        "open_price": 46813.0,
+        "high_price": 46815.0,
+        "low_price": 46805.0,
+        "close_price": 46811.0,
+        "volume": 217789197.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260418,
+        "open_price": 46757.0,
+        "high_price": 46774.0,
+        "low_price": 46754.0,
+        "close_price": 46757.0,
+        "volume": 318102332.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260415,
+        "open_price": 46694.0,
+        "high_price": 46723.0,
+        "low_price": 46694.0,
+        "close_price": 46709.0,
+        "volume": 148581573.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260413,
+        "open_price": 46640.0,
+        "high_price": 46665.0,
+        "low_price": 46628.0,
+        "close_price": 46645.0,
+        "volume": 122966551.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260412,
+        "open_price": 46525.0,
+        "high_price": 46546.0,
+        "low_price": 46524.0,
+        "close_price": 46527.0,
+        "volume": 144850439.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260411,
+        "open_price": 46468.0,
+        "high_price": 46475.0,
+        "low_price": 46468.0,
+        "close_price": 46470.0,
+        "volume": 113068467.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260408,
+        "open_price": 46409.0,
+        "high_price": 46410.0,
+        "low_price": 46408.0,
+        "close_price": 46409.0,
+        "volume": 259729385.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260407,
+        "open_price": 46350.0,
+        "high_price": 46351.0,
+        "low_price": 46350.0,
+        "close_price": 46350.0,
+        "volume": 358352622.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260406,
+        "open_price": 46297.0,
+        "high_price": 46297.0,
+        "low_price": 46296.0,
+        "close_price": 46296.0,
+        "volume": 146401876.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260405,
+        "open_price": 46243.0,
+        "high_price": 46244.0,
+        "low_price": 46242.0,
+        "close_price": 46242.0,
+        "volume": 195393446.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260404,
+        "open_price": 46186.0,
+        "high_price": 46197.0,
+        "low_price": 46184.0,
+        "close_price": 46188.0,
+        "volume": 124752242.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260331,
+        "open_price": 46125.0,
+        "high_price": 46135.0,
+        "low_price": 46124.0,
+        "close_price": 46127.0,
+        "volume": 96398382.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260330,
+        "open_price": 46009.0,
+        "high_price": 46018.0,
+        "low_price": 46008.0,
+        "close_price": 46009.0,
+        "volume": 132987310.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260329,
+        "open_price": 45951.0,
+        "high_price": 45951.0,
+        "low_price": 45950.0,
+        "close_price": 45950.0,
+        "volume": 193583163.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260328,
+        "open_price": 45896.0,
+        "high_price": 45898.0,
+        "low_price": 45885.0,
+        "close_price": 45892.0,
+        "volume": 371900288.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260325,
+        "open_price": 45804.0,
+        "high_price": 45807.0,
+        "low_price": 45803.0,
+        "close_price": 45803.0,
+        "volume": 240616931.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260318,
+        "open_price": 45677.0,
+        "high_price": 45729.0,
+        "low_price": 45676.0,
+        "close_price": 45713.0,
+        "volume": 224628380.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260317,
+        "open_price": 45493.0,
+        "high_price": 45495.0,
+        "low_price": 45493.0,
+        "close_price": 45494.0,
+        "volume": 339819703.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260316,
+        "open_price": 45355.0,
+        "high_price": 45356.0,
+        "low_price": 45355.0,
+        "close_price": 45355.0,
+        "volume": 214321508.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260315,
+        "open_price": 45219.0,
+        "high_price": 45219.0,
+        "low_price": 45218.0,
+        "close_price": 45218.0,
+        "volume": 223849677.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260314,
+        "open_price": 45126.0,
+        "high_price": 45127.0,
+        "low_price": 45126.0,
+        "close_price": 45126.0,
+        "volume": 330087643.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260310,
+        "open_price": 44945.0,
+        "high_price": 44945.0,
+        "low_price": 44944.0,
+        "close_price": 44944.0,
+        "volume": 130235390.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260309,
+        "open_price": 44853.0,
+        "high_price": 44854.0,
+        "low_price": 44853.0,
+        "close_price": 44853.0,
+        "volume": 213358201.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260308,
+        "open_price": 44762.0,
+        "high_price": 44763.0,
+        "low_price": 44762.0,
+        "close_price": 44762.0,
+        "volume": 683958357.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 44671.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 44671.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 44671.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 44671.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 44671.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260225,
+        "open_price": 44672.0,
+        "high_price": 44672.0,
+        "low_price": 44671.0,
+        "close_price": 44671.0,
+        "volume": 257957644.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260224,
+        "open_price": 44604.0,
+        "high_price": 44604.0,
+        "low_price": 44603.0,
+        "close_price": 44603.0,
+        "volume": 357806412.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260223,
+        "open_price": 44553.0,
+        "high_price": 44553.0,
+        "low_price": 44552.0,
+        "close_price": 44552.0,
+        "volume": 260774238.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260222,
+        "open_price": 44502.0,
+        "high_price": 44502.0,
+        "low_price": 44501.0,
+        "close_price": 44501.0,
+        "volume": 231651726.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260221,
+        "open_price": 44450.0,
+        "high_price": 44451.0,
+        "low_price": 44450.0,
+        "close_price": 44450.0,
+        "volume": 372048883.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260218,
+        "open_price": 44391.0,
+        "high_price": 44392.0,
+        "low_price": 44391.0,
+        "close_price": 44391.0,
+        "volume": 277853594.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260217,
+        "open_price": 44330.0,
+        "high_price": 44331.0,
+        "low_price": 44330.0,
+        "close_price": 44330.0,
+        "volume": 409469537.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260216,
+        "open_price": 44278.0,
+        "high_price": 44279.0,
+        "low_price": 44278.0,
+        "close_price": 44278.0,
+        "volume": 266671383.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260215,
+        "open_price": 44224.0,
+        "high_price": 44225.0,
+        "low_price": 44223.0,
+        "close_price": 44223.0,
+        "volume": 356574935.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260214,
+        "open_price": 44165.0,
+        "high_price": 44165.0,
+        "low_price": 44164.0,
+        "close_price": 44164.0,
+        "volume": 385973694.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260210,
+        "open_price": 44065.0,
+        "high_price": 44066.0,
+        "low_price": 44065.0,
+        "close_price": 44065.0,
+        "volume": 359676128.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260209,
+        "open_price": 43997.0,
+        "high_price": 43998.0,
+        "low_price": 43991.0,
+        "close_price": 43995.0,
+        "volume": 382875795.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260208,
+        "open_price": 43949.0,
+        "high_price": 43950.0,
+        "low_price": 43949.0,
+        "close_price": 43949.0,
+        "volume": 292757139.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260207,
+        "open_price": 43901.0,
+        "high_price": 43902.0,
+        "low_price": 43901.0,
+        "close_price": 43901.0,
+        "volume": 435032164.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260203,
+        "open_price": 43806.0,
+        "high_price": 43807.0,
+        "low_price": 43806.0,
+        "close_price": 43806.0,
+        "volume": 393580135.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260202,
+        "open_price": 43737.0,
+        "high_price": 43738.0,
+        "low_price": 43737.0,
+        "close_price": 43737.0,
+        "volume": 433322646.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260201,
+        "open_price": 43684.0,
+        "high_price": 43685.0,
+        "low_price": 43683.0,
+        "close_price": 43683.0,
+        "volume": 297497419.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260131,
+        "open_price": 43629.0,
+        "high_price": 43630.0,
+        "low_price": 43629.0,
+        "close_price": 43629.0,
+        "volume": 470315648.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260128,
+        "open_price": 43579.0,
+        "high_price": 43579.0,
+        "low_price": 43578.0,
+        "close_price": 43578.0,
+        "volume": 425077569.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260127,
+        "open_price": 43520.0,
+        "high_price": 43521.0,
+        "low_price": 43520.0,
+        "close_price": 43520.0,
+        "volume": 312972928.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260126,
+        "open_price": 43473.0,
+        "high_price": 43474.0,
+        "low_price": 43473.0,
+        "close_price": 43473.0,
+        "volume": 256645986.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260125,
+        "open_price": 43426.0,
+        "high_price": 43426.0,
+        "low_price": 43425.0,
+        "close_price": 43425.0,
+        "volume": 208561620.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260124,
+        "open_price": 43378.0,
+        "high_price": 43379.0,
+        "low_price": 43378.0,
+        "close_price": 43378.0,
+        "volume": 247416929.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260121,
+        "open_price": 43319.0,
+        "high_price": 43321.0,
+        "low_price": 43319.0,
+        "close_price": 43320.0,
+        "volume": 394790081.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260120,
+        "open_price": 43249.0,
+        "high_price": 43250.0,
+        "low_price": 43249.0,
+        "close_price": 43249.0,
+        "volume": 384170065.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260119,
+        "open_price": 43200.0,
+        "high_price": 43201.0,
+        "low_price": 43200.0,
+        "close_price": 43200.0,
+        "volume": 262077643.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260118,
+        "open_price": 43151.0,
+        "high_price": 43152.0,
+        "low_price": 43151.0,
+        "close_price": 43151.0,
+        "volume": 300337560.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260114,
+        "open_price": 43059.0,
+        "high_price": 43060.0,
+        "low_price": 43059.0,
+        "close_price": 43059.0,
+        "volume": 315369578.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260113,
+        "open_price": 42989.0,
+        "high_price": 42990.0,
+        "low_price": 42989.0,
+        "close_price": 42989.0,
+        "volume": 255983164.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260112,
+        "open_price": 42940.0,
+        "high_price": 42941.0,
+        "low_price": 42940.0,
+        "close_price": 42940.0,
+        "volume": 295374706.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260111,
+        "open_price": 42893.0,
+        "high_price": 42893.0,
+        "low_price": 42892.0,
+        "close_price": 42893.0,
+        "volume": 269843698.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260110,
+        "open_price": 42844.0,
+        "high_price": 42848.0,
+        "low_price": 42844.0,
+        "close_price": 42844.0,
+        "volume": 353329639.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260107,
+        "open_price": 42793.0,
+        "high_price": 42794.0,
+        "low_price": 42793.0,
+        "close_price": 42793.0,
+        "volume": 307270052.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260106,
+        "open_price": 42738.0,
+        "high_price": 42739.0,
+        "low_price": 42738.0,
+        "close_price": 42738.0,
+        "volume": 326724057.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260105,
+        "open_price": 42699.0,
+        "high_price": 42709.0,
+        "low_price": 42699.0,
+        "close_price": 42700.0,
+        "volume": 364721110.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20260104,
+        "open_price": 42659.0,
+        "high_price": 42673.0,
+        "low_price": 42659.0,
+        "close_price": 42662.0,
+        "volume": 253414943.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251231,
+        "open_price": 42622.0,
+        "high_price": 42653.0,
+        "low_price": 42619.0,
+        "close_price": 42629.0,
+        "volume": 271402893.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251230,
+        "open_price": 42470.0,
+        "high_price": 42512.0,
+        "low_price": 42470.0,
+        "close_price": 42492.0,
+        "volume": 339946452.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251229,
+        "open_price": 42424.0,
+        "high_price": 42470.0,
+        "low_price": 42424.0,
+        "close_price": 42433.0,
+        "volume": 266875270.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251228,
+        "open_price": 42380.0,
+        "high_price": 42400.0,
+        "low_price": 42380.0,
+        "close_price": 42381.0,
+        "volume": 276606283.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251227,
+        "open_price": 42330.0,
+        "high_price": 42364.0,
+        "low_price": 42330.0,
+        "close_price": 42341.0,
+        "volume": 306086946.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251224,
+        "open_price": 42276.0,
+        "high_price": 42333.0,
+        "low_price": 42276.0,
+        "close_price": 42282.0,
+        "volume": 319889889.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251223,
+        "open_price": 42215.0,
+        "high_price": 42221.0,
+        "low_price": 42215.0,
+        "close_price": 42216.0,
+        "volume": 270492273.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251222,
+        "open_price": 42167.0,
+        "high_price": 42168.0,
+        "low_price": 42167.0,
+        "close_price": 42167.0,
+        "volume": 330962725.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251221,
+        "open_price": 42119.0,
+        "high_price": 42122.0,
+        "low_price": 42119.0,
+        "close_price": 42119.0,
+        "volume": 351798520.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251220,
+        "open_price": 42072.0,
+        "high_price": 42072.0,
+        "low_price": 42071.0,
+        "close_price": 42071.0,
+        "volume": 365232024.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251217,
+        "open_price": 42020.0,
+        "high_price": 42031.0,
+        "low_price": 42020.0,
+        "close_price": 42021.0,
+        "volume": 286219588.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251216,
+        "open_price": 41962.0,
+        "high_price": 41963.0,
+        "low_price": 41962.0,
+        "close_price": 41962.0,
+        "volume": 314259807.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251215,
+        "open_price": 41914.0,
+        "high_price": 41915.0,
+        "low_price": 41914.0,
+        "close_price": 41914.0,
+        "volume": 361805463.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251214,
+        "open_price": 41866.0,
+        "high_price": 41867.0,
+        "low_price": 41866.0,
+        "close_price": 41866.0,
+        "volume": 310805103.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251213,
+        "open_price": 41818.0,
+        "high_price": 41822.0,
+        "low_price": 41818.0,
+        "close_price": 41818.0,
+        "volume": 320822217.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251210,
+        "open_price": 41765.0,
+        "high_price": 41766.0,
+        "low_price": 41765.0,
+        "close_price": 41766.0,
+        "volume": 231591019.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251209,
+        "open_price": 41705.0,
+        "high_price": 41708.0,
+        "low_price": 41705.0,
+        "close_price": 41705.0,
+        "volume": 279513574.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251208,
+        "open_price": 41658.0,
+        "high_price": 41659.0,
+        "low_price": 41658.0,
+        "close_price": 41658.0,
+        "volume": 272895902.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251207,
+        "open_price": 41611.0,
+        "high_price": 41612.0,
+        "low_price": 41611.0,
+        "close_price": 41611.0,
+        "volume": 321293186.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251206,
+        "open_price": 41565.0,
+        "high_price": 41565.0,
+        "low_price": 41564.0,
+        "close_price": 41564.0,
+        "volume": 265123058.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251203,
+        "open_price": 41515.0,
+        "high_price": 41516.0,
+        "low_price": 41515.0,
+        "close_price": 41515.0,
+        "volume": 319491320.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251202,
+        "open_price": 41456.0,
+        "high_price": 41457.0,
+        "low_price": 41456.0,
+        "close_price": 41456.0,
+        "volume": 217540462.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251201,
+        "open_price": 41409.0,
+        "high_price": 41410.0,
+        "low_price": 41409.0,
+        "close_price": 41409.0,
+        "volume": 267093906.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251130,
+        "open_price": 41362.0,
+        "high_price": 41363.0,
+        "low_price": 41362.0,
+        "close_price": 41362.0,
+        "volume": 252864952.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251129,
+        "open_price": 41316.0,
+        "high_price": 41317.0,
+        "low_price": 41316.0,
+        "close_price": 41316.0,
+        "volume": 327535539.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251126,
+        "open_price": 41265.0,
+        "high_price": 41266.0,
+        "low_price": 41265.0,
+        "close_price": 41265.0,
+        "volume": 214299398.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251125,
+        "open_price": 41208.0,
+        "high_price": 41208.0,
+        "low_price": 41207.0,
+        "close_price": 41207.0,
+        "volume": 222709704.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251123,
+        "open_price": 41134.0,
+        "high_price": 41135.0,
+        "low_price": 41134.0,
+        "close_price": 41134.0,
+        "volume": 207380987.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251122,
+        "open_price": 41067.0,
+        "high_price": 41068.0,
+        "low_price": 41067.0,
+        "close_price": 41067.0,
+        "volume": 237170692.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251119,
+        "open_price": 41017.0,
+        "high_price": 41020.0,
+        "low_price": 41017.0,
+        "close_price": 41017.0,
+        "volume": 231289390.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251118,
+        "open_price": 40958.0,
+        "high_price": 40960.0,
+        "low_price": 40958.0,
+        "close_price": 40958.0,
+        "volume": 195593498.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251117,
+        "open_price": 40914.0,
+        "high_price": 40915.0,
+        "low_price": 40914.0,
+        "close_price": 40914.0,
+        "volume": 213086792.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251116,
+        "open_price": 40870.0,
+        "high_price": 40871.0,
+        "low_price": 40870.0,
+        "close_price": 40870.0,
+        "volume": 205221389.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251115,
+        "open_price": 40827.0,
+        "high_price": 40828.0,
+        "low_price": 40827.0,
+        "close_price": 40827.0,
+        "volume": 247519739.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251112,
+        "open_price": 40777.0,
+        "high_price": 40778.0,
+        "low_price": 40777.0,
+        "close_price": 40777.0,
+        "volume": 232411416.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251111,
+        "open_price": 40721.0,
+        "high_price": 40722.0,
+        "low_price": 40721.0,
+        "close_price": 40721.0,
+        "volume": 254942466.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251110,
+        "open_price": 40677.0,
+        "high_price": 40678.0,
+        "low_price": 40677.0,
+        "close_price": 40677.0,
+        "volume": 234312983.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251109,
+        "open_price": 40631.0,
+        "high_price": 40632.0,
+        "low_price": 40631.0,
+        "close_price": 40631.0,
+        "volume": 187231630.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251108,
+        "open_price": 40586.0,
+        "high_price": 40587.0,
+        "low_price": 40586.0,
+        "close_price": 40586.0,
+        "volume": 248806744.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251105,
+        "open_price": 40537.0,
+        "high_price": 40538.0,
+        "low_price": 40537.0,
+        "close_price": 40537.0,
+        "volume": 273203364.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251104,
+        "open_price": 40482.0,
+        "high_price": 40483.0,
+        "low_price": 40482.0,
+        "close_price": 40482.0,
+        "volume": 280981265.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251103,
+        "open_price": 40438.0,
+        "high_price": 40439.0,
+        "low_price": 40438.0,
+        "close_price": 40438.0,
+        "volume": 240564999.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251102,
+        "open_price": 40391.0,
+        "high_price": 40392.0,
+        "low_price": 40391.0,
+        "close_price": 40391.0,
+        "volume": 196387996.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251101,
+        "open_price": 40345.0,
+        "high_price": 40346.0,
+        "low_price": 40345.0,
+        "close_price": 40345.0,
+        "volume": 281447191.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251029,
+        "open_price": 40296.0,
+        "high_price": 40297.0,
+        "low_price": 40296.0,
+        "close_price": 40296.0,
+        "volume": 230558663.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251028,
+        "open_price": 40240.0,
+        "high_price": 40241.0,
+        "low_price": 40240.0,
+        "close_price": 40240.0,
+        "volume": 316638370.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251027,
+        "open_price": 40194.0,
+        "high_price": 40195.0,
+        "low_price": 40194.0,
+        "close_price": 40194.0,
+        "volume": 248363556.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251026,
+        "open_price": 40148.0,
+        "high_price": 40149.0,
+        "low_price": 40148.0,
+        "close_price": 40148.0,
+        "volume": 237174058.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251025,
+        "open_price": 40102.0,
+        "high_price": 40103.0,
+        "low_price": 40102.0,
+        "close_price": 40102.0,
+        "volume": 263344571.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251022,
+        "open_price": 40055.0,
+        "high_price": 40056.0,
+        "low_price": 40055.0,
+        "close_price": 40055.0,
+        "volume": 249921123.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251021,
+        "open_price": 40000.0,
+        "high_price": 40001.0,
+        "low_price": 40000.0,
+        "close_price": 40000.0,
+        "volume": 224399832.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251020,
+        "open_price": 39957.0,
+        "high_price": 39958.0,
+        "low_price": 39957.0,
+        "close_price": 39957.0,
+        "volume": 273845186.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251019,
+        "open_price": 39914.0,
+        "high_price": 39915.0,
+        "low_price": 39914.0,
+        "close_price": 39914.0,
+        "volume": 320635117.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251018,
+        "open_price": 39871.0,
+        "high_price": 39872.0,
+        "low_price": 39871.0,
+        "close_price": 39871.0,
+        "volume": 377038629.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251015,
+        "open_price": 39822.0,
+        "high_price": 39823.0,
+        "low_price": 39822.0,
+        "close_price": 39822.0,
+        "volume": 264208541.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251014,
+        "open_price": 39768.0,
+        "high_price": 39768.0,
+        "low_price": 39767.0,
+        "close_price": 39767.0,
+        "volume": 262690430.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251013,
+        "open_price": 39723.0,
+        "high_price": 39727.0,
+        "low_price": 39723.0,
+        "close_price": 39724.0,
+        "volume": 199586042.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251012,
+        "open_price": 39679.0,
+        "high_price": 39680.0,
+        "low_price": 39679.0,
+        "close_price": 39679.0,
+        "volume": 252343484.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251011,
+        "open_price": 39635.0,
+        "high_price": 39638.0,
+        "low_price": 39634.0,
+        "close_price": 39635.0,
+        "volume": 289183109.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251008,
+        "open_price": 39586.0,
+        "high_price": 39592.0,
+        "low_price": 39586.0,
+        "close_price": 39586.0,
+        "volume": 294459762.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251007,
+        "open_price": 39532.0,
+        "high_price": 39533.0,
+        "low_price": 39532.0,
+        "close_price": 39532.0,
+        "volume": 250804050.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251006,
+        "open_price": 39488.0,
+        "high_price": 39489.0,
+        "low_price": 39488.0,
+        "close_price": 39488.0,
+        "volume": 293258568.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251005,
+        "open_price": 39444.0,
+        "high_price": 39445.0,
+        "low_price": 39444.0,
+        "close_price": 39444.0,
+        "volume": 198659406.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251004,
+        "open_price": 39400.0,
+        "high_price": 39401.0,
+        "low_price": 39400.0,
+        "close_price": 39400.0,
+        "volume": 295216926.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20251001,
+        "open_price": 39353.0,
+        "high_price": 39355.0,
+        "low_price": 39353.0,
+        "close_price": 39353.0,
+        "volume": 347454718.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250930,
+        "open_price": 39299.0,
+        "high_price": 39300.0,
+        "low_price": 39299.0,
+        "close_price": 39299.0,
+        "volume": 273038975.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250929,
+        "open_price": 39255.0,
+        "high_price": 39256.0,
+        "low_price": 39255.0,
+        "close_price": 39255.0,
+        "volume": 333873981.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250928,
+        "open_price": 39210.0,
+        "high_price": 39211.0,
+        "low_price": 39210.0,
+        "close_price": 39210.0,
+        "volume": 383419909.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250927,
+        "open_price": 39165.0,
+        "high_price": 39166.0,
+        "low_price": 39165.0,
+        "close_price": 39165.0,
+        "volume": 367866569.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250924,
+        "open_price": 39119.0,
+        "high_price": 39119.0,
+        "low_price": 39118.0,
+        "close_price": 39118.0,
+        "volume": 370836877.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250923,
+        "open_price": 39064.0,
+        "high_price": 39064.0,
+        "low_price": 39063.0,
+        "close_price": 39063.0,
+        "volume": 271667375.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250922,
+        "open_price": 39020.0,
+        "high_price": 39021.0,
+        "low_price": 39020.0,
+        "close_price": 39020.0,
+        "volume": 461497402.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250921,
+        "open_price": 38976.0,
+        "high_price": 38977.0,
+        "low_price": 38976.0,
+        "close_price": 38976.0,
+        "volume": 355582831.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250920,
+        "open_price": 38933.0,
+        "high_price": 38933.0,
+        "low_price": 38932.0,
+        "close_price": 38932.0,
+        "volume": 406012396.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250917,
+        "open_price": 38886.0,
+        "high_price": 38887.0,
+        "low_price": 38886.0,
+        "close_price": 38886.0,
+        "volume": 202243917.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250916,
+        "open_price": 38833.0,
+        "high_price": 38834.0,
+        "low_price": 38833.0,
+        "close_price": 38833.0,
+        "volume": 250450460.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250915,
+        "open_price": 38789.0,
+        "high_price": 38790.0,
+        "low_price": 38789.0,
+        "close_price": 38789.0,
+        "volume": 219932676.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250914,
+        "open_price": 38745.0,
+        "high_price": 38746.0,
+        "low_price": 38745.0,
+        "close_price": 38745.0,
+        "volume": 197012252.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250913,
+        "open_price": 38702.0,
+        "high_price": 38702.0,
+        "low_price": 38701.0,
+        "close_price": 38701.0,
+        "volume": 289960709.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250909,
+        "open_price": 38616.0,
+        "high_price": 38628.0,
+        "low_price": 38616.0,
+        "close_price": 38617.0,
+        "volume": 342539784.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250908,
+        "open_price": 38559.0,
+        "high_price": 38560.0,
+        "low_price": 38559.0,
+        "close_price": 38559.0,
+        "volume": 254699364.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250907,
+        "open_price": 38517.0,
+        "high_price": 38517.0,
+        "low_price": 38516.0,
+        "close_price": 38516.0,
+        "volume": 226481432.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250906,
+        "open_price": 38472.0,
+        "high_price": 38473.0,
+        "low_price": 38472.0,
+        "close_price": 38472.0,
+        "volume": 320648853.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250903,
+        "open_price": 38427.0,
+        "high_price": 38428.0,
+        "low_price": 38427.0,
+        "close_price": 38427.0,
+        "volume": 341160001.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250902,
+        "open_price": 38375.0,
+        "high_price": 38375.0,
+        "low_price": 38374.0,
+        "close_price": 38374.0,
+        "volume": 292435740.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250831,
+        "open_price": 38298.0,
+        "high_price": 38299.0,
+        "low_price": 38298.0,
+        "close_price": 38298.0,
+        "volume": 275908741.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250830,
+        "open_price": 38244.0,
+        "high_price": 38245.0,
+        "low_price": 38244.0,
+        "close_price": 38244.0,
+        "volume": 306965065.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250827,
+        "open_price": 38199.0,
+        "high_price": 38200.0,
+        "low_price": 38199.0,
+        "close_price": 38199.0,
+        "volume": 232303473.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250826,
+        "open_price": 38137.0,
+        "high_price": 38138.0,
+        "low_price": 38137.0,
+        "close_price": 38137.0,
+        "volume": 249344139.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250825,
+        "open_price": 38094.0,
+        "high_price": 38095.0,
+        "low_price": 38094.0,
+        "close_price": 38094.0,
+        "volume": 289723303.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250823,
+        "open_price": 38014.0,
+        "high_price": 38014.0,
+        "low_price": 38013.0,
+        "close_price": 38013.0,
+        "volume": 220472741.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250820,
+        "open_price": 37966.0,
+        "high_price": 37967.0,
+        "low_price": 37966.0,
+        "close_price": 37966.0,
+        "volume": 216537581.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250819,
+        "open_price": 37904.0,
+        "high_price": 37905.0,
+        "low_price": 37904.0,
+        "close_price": 37904.0,
+        "volume": 168808286.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250818,
+        "open_price": 37864.0,
+        "high_price": 37865.0,
+        "low_price": 37864.0,
+        "close_price": 37864.0,
+        "volume": 195494664.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250817,
+        "open_price": 37824.0,
+        "high_price": 37825.0,
+        "low_price": 37824.0,
+        "close_price": 37824.0,
+        "volume": 171740906.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250816,
+        "open_price": 37785.0,
+        "high_price": 37785.0,
+        "low_price": 37784.0,
+        "close_price": 37784.0,
+        "volume": 216401893.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250813,
+        "open_price": 37738.0,
+        "high_price": 37738.0,
+        "low_price": 37737.0,
+        "close_price": 37737.0,
+        "volume": 239347991.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250812,
+        "open_price": 37674.0,
+        "high_price": 37675.0,
+        "low_price": 37674.0,
+        "close_price": 37675.0,
+        "volume": 162726705.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250811,
+        "open_price": 37634.0,
+        "high_price": 37635.0,
+        "low_price": 37634.0,
+        "close_price": 37634.0,
+        "volume": 218858507.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250810,
+        "open_price": 37594.0,
+        "high_price": 37596.0,
+        "low_price": 37594.0,
+        "close_price": 37594.0,
+        "volume": 189673541.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250809,
+        "open_price": 37554.0,
+        "high_price": 37554.0,
+        "low_price": 37553.0,
+        "close_price": 37553.0,
+        "volume": 230467887.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250806,
+        "open_price": 37508.0,
+        "high_price": 37509.0,
+        "low_price": 37508.0,
+        "close_price": 37508.0,
+        "volume": 163291887.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250805,
+        "open_price": 37466.0,
+        "high_price": 37466.0,
+        "low_price": 37445.0,
+        "close_price": 37447.0,
+        "volume": 254703697.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250804,
+        "open_price": 37406.0,
+        "high_price": 37406.0,
+        "low_price": 37405.0,
+        "close_price": 37405.0,
+        "volume": 248615870.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250803,
+        "open_price": 37366.0,
+        "high_price": 37366.0,
+        "low_price": 37365.0,
+        "close_price": 37365.0,
+        "volume": 299050968.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250802,
+        "open_price": 37325.0,
+        "high_price": 37326.0,
+        "low_price": 37325.0,
+        "close_price": 37325.0,
+        "volume": 274655333.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250730,
+        "open_price": 37281.0,
+        "high_price": 37281.0,
+        "low_price": 37280.0,
+        "close_price": 37280.0,
+        "volume": 184380288.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250729,
+        "open_price": 37221.0,
+        "high_price": 37221.0,
+        "low_price": 37220.0,
+        "close_price": 37220.0,
+        "volume": 196364835.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250728,
+        "open_price": 37179.0,
+        "high_price": 37184.0,
+        "low_price": 37178.0,
+        "close_price": 37180.0,
+        "volume": 239544760.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250727,
+        "open_price": 37137.0,
+        "high_price": 37151.0,
+        "low_price": 37137.0,
+        "close_price": 37139.0,
+        "volume": 169115501.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250726,
+        "open_price": 37097.0,
+        "high_price": 37098.0,
+        "low_price": 37097.0,
+        "close_price": 37097.0,
+        "volume": 265283674.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250723,
+        "open_price": 37053.0,
+        "high_price": 37065.0,
+        "low_price": 37053.0,
+        "close_price": 37054.0,
+        "volume": 183787005.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250722,
+        "open_price": 37002.0,
+        "high_price": 37003.0,
+        "low_price": 37002.0,
+        "close_price": 37002.0,
+        "volume": 406906254.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250721,
+        "open_price": 36957.0,
+        "high_price": 36958.0,
+        "low_price": 36957.0,
+        "close_price": 36957.0,
+        "volume": 279189616.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250720,
+        "open_price": 36912.0,
+        "high_price": 36913.0,
+        "low_price": 36912.0,
+        "close_price": 36912.0,
+        "volume": 211900150.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250719,
+        "open_price": 36866.0,
+        "high_price": 36867.0,
+        "low_price": 36866.0,
+        "close_price": 36866.0,
+        "volume": 312322982.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250716,
+        "open_price": 36824.0,
+        "high_price": 36824.0,
+        "low_price": 36823.0,
+        "close_price": 36823.0,
+        "volume": 258381088.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250715,
+        "open_price": 36774.0,
+        "high_price": 36774.0,
+        "low_price": 36773.0,
+        "close_price": 36773.0,
+        "volume": 277096782.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250714,
+        "open_price": 36724.0,
+        "high_price": 36724.0,
+        "low_price": 36723.0,
+        "close_price": 36723.0,
+        "volume": 233565906.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250713,
+        "open_price": 36674.0,
+        "high_price": 36674.0,
+        "low_price": 36673.0,
+        "close_price": 36673.0,
+        "volume": 295312655.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250712,
+        "open_price": 36622.0,
+        "high_price": 36623.0,
+        "low_price": 36622.0,
+        "close_price": 36622.0,
+        "volume": 389263039.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250709,
+        "open_price": 36564.0,
+        "high_price": 36565.0,
+        "low_price": 36564.0,
+        "close_price": 36564.0,
+        "volume": 224934489.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250708,
+        "open_price": 36504.0,
+        "high_price": 36505.0,
+        "low_price": 36504.0,
+        "close_price": 36504.0,
+        "volume": 325699666.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250707,
+        "open_price": 36466.0,
+        "high_price": 36466.0,
+        "low_price": 36465.0,
+        "close_price": 36465.0,
+        "volume": 510986704.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250702,
+        "open_price": 36371.0,
+        "high_price": 36372.0,
+        "low_price": 36370.0,
+        "close_price": 36370.0,
+        "volume": 445337060.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250701,
+        "open_price": 36297.0,
+        "high_price": 36298.0,
+        "low_price": 36297.0,
+        "close_price": 36297.0,
+        "volume": 296208369.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250630,
+        "open_price": 36249.0,
+        "high_price": 36250.0,
+        "low_price": 36249.0,
+        "close_price": 36249.0,
+        "volume": 299489426.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250629,
+        "open_price": 36197.0,
+        "high_price": 36198.0,
+        "low_price": 36197.0,
+        "close_price": 36197.0,
+        "volume": 296330517.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250628,
+        "open_price": 36142.0,
+        "high_price": 36142.0,
+        "low_price": 36141.0,
+        "close_price": 36141.0,
+        "volume": 238260560.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250625,
+        "open_price": 36082.0,
+        "high_price": 36083.0,
+        "low_price": 36082.0,
+        "close_price": 36082.0,
+        "volume": 136456805.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250624,
+        "open_price": 36034.0,
+        "high_price": 36034.0,
+        "low_price": 36033.0,
+        "close_price": 36033.0,
+        "volume": 129557623.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250623,
+        "open_price": 36003.0,
+        "high_price": 36004.0,
+        "low_price": 36003.0,
+        "close_price": 36003.0,
+        "volume": 169967745.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250622,
+        "open_price": 35974.0,
+        "high_price": 35975.0,
+        "low_price": 35974.0,
+        "close_price": 35974.0,
+        "volume": 368652065.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250621,
+        "open_price": 35947.0,
+        "high_price": 35948.0,
+        "low_price": 35947.0,
+        "close_price": 35947.0,
+        "volume": 930188479.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 35894.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 35894.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 35894.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250611,
+        "open_price": 35893.0,
+        "high_price": 35901.0,
+        "low_price": 35892.0,
+        "close_price": 35894.0,
+        "volume": 134704796.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250610,
+        "open_price": 35783.0,
+        "high_price": 35799.0,
+        "low_price": 35783.0,
+        "close_price": 35786.0,
+        "volume": 143573123.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250609,
+        "open_price": 35743.0,
+        "high_price": 35755.0,
+        "low_price": 35743.0,
+        "close_price": 35747.0,
+        "volume": 146891498.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250608,
+        "open_price": 35703.0,
+        "high_price": 35709.0,
+        "low_price": 35703.0,
+        "close_price": 35705.0,
+        "volume": 183048098.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250607,
+        "open_price": 35664.0,
+        "high_price": 35670.0,
+        "low_price": 35664.0,
+        "close_price": 35665.0,
+        "volume": 150207598.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250603,
+        "open_price": 35607.0,
+        "high_price": 35625.0,
+        "low_price": 35607.0,
+        "close_price": 35612.0,
+        "volume": 140909141.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250602,
+        "open_price": 35539.0,
+        "high_price": 35544.0,
+        "low_price": 35539.0,
+        "close_price": 35541.0,
+        "volume": 154717768.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250601,
+        "open_price": 35501.0,
+        "high_price": 35505.0,
+        "low_price": 35501.0,
+        "close_price": 35503.0,
+        "volume": 199853265.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250531,
+        "open_price": 35463.0,
+        "high_price": 35469.0,
+        "low_price": 35463.0,
+        "close_price": 35465.0,
+        "volume": 149698886.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250528,
+        "open_price": 35425.0,
+        "high_price": 35433.0,
+        "low_price": 35425.0,
+        "close_price": 35428.0,
+        "volume": 156645097.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250527,
+        "open_price": 35380.0,
+        "high_price": 35388.0,
+        "low_price": 35380.0,
+        "close_price": 35383.0,
+        "volume": 155767314.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250526,
+        "open_price": 35342.0,
+        "high_price": 35349.0,
+        "low_price": 35342.0,
+        "close_price": 35345.0,
+        "volume": 142518589.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250525,
+        "open_price": 35307.0,
+        "high_price": 35314.0,
+        "low_price": 35306.0,
+        "close_price": 35308.0,
+        "volume": 178430686.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250524,
+        "open_price": 35267.0,
+        "high_price": 35270.0,
+        "low_price": 35267.0,
+        "close_price": 35268.0,
+        "volume": 311483358.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250521,
+        "open_price": 35225.0,
+        "high_price": 35226.0,
+        "low_price": 35225.0,
+        "close_price": 35226.0,
+        "volume": 299715827.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250520,
+        "open_price": 35177.0,
+        "high_price": 35178.0,
+        "low_price": 35177.0,
+        "close_price": 35177.0,
+        "volume": 303948357.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250519,
+        "open_price": 35139.0,
+        "high_price": 35140.0,
+        "low_price": 35139.0,
+        "close_price": 35139.0,
+        "volume": 204952417.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250518,
+        "open_price": 35100.0,
+        "high_price": 35101.0,
+        "low_price": 35100.0,
+        "close_price": 35100.0,
+        "volume": 250874297.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250517,
+        "open_price": 35063.0,
+        "high_price": 35063.0,
+        "low_price": 35062.0,
+        "close_price": 35062.0,
+        "volume": 261678927.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250514,
+        "open_price": 35019.0,
+        "high_price": 35020.0,
+        "low_price": 35019.0,
+        "close_price": 35019.0,
+        "volume": 263349311.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250513,
+        "open_price": 34969.0,
+        "high_price": 34970.0,
+        "low_price": 34969.0,
+        "close_price": 34969.0,
+        "volume": 236557568.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250512,
+        "open_price": 34929.0,
+        "high_price": 34930.0,
+        "low_price": 34929.0,
+        "close_price": 34929.0,
+        "volume": 421057737.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250511,
+        "open_price": 34890.0,
+        "high_price": 34890.0,
+        "low_price": 34889.0,
+        "close_price": 34889.0,
+        "volume": 279513173.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250510,
+        "open_price": 34851.0,
+        "high_price": 34851.0,
+        "low_price": 34850.0,
+        "close_price": 34850.0,
+        "volume": 332906019.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250507,
+        "open_price": 34807.0,
+        "high_price": 34808.0,
+        "low_price": 34807.0,
+        "close_price": 34807.0,
+        "volume": 221379369.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250506,
+        "open_price": 34757.0,
+        "high_price": 34758.0,
+        "low_price": 34757.0,
+        "close_price": 34757.0,
+        "volume": 312508936.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250505,
+        "open_price": 34720.0,
+        "high_price": 34721.0,
+        "low_price": 34720.0,
+        "close_price": 34720.0,
+        "volume": 235496295.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250504,
+        "open_price": 34684.0,
+        "high_price": 34684.0,
+        "low_price": 34683.0,
+        "close_price": 34683.0,
+        "volume": 311085486.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250503,
+        "open_price": 34646.0,
+        "high_price": 34647.0,
+        "low_price": 34646.0,
+        "close_price": 34646.0,
+        "volume": 297581426.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250430,
+        "open_price": 34605.0,
+        "high_price": 34606.0,
+        "low_price": 34605.0,
+        "close_price": 34605.0,
+        "volume": 297192217.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250429,
+        "open_price": 34558.0,
+        "high_price": 34559.0,
+        "low_price": 34558.0,
+        "close_price": 34558.0,
+        "volume": 287307516.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250428,
+        "open_price": 34521.0,
+        "high_price": 34522.0,
+        "low_price": 34521.0,
+        "close_price": 34521.0,
+        "volume": 382415710.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250427,
+        "open_price": 34485.0,
+        "high_price": 34485.0,
+        "low_price": 34484.0,
+        "close_price": 34484.0,
+        "volume": 359726209.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250426,
+        "open_price": 34447.0,
+        "high_price": 34448.0,
+        "low_price": 34447.0,
+        "close_price": 34447.0,
+        "volume": 350733775.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250423,
+        "open_price": 34410.0,
+        "high_price": 34411.0,
+        "low_price": 34410.0,
+        "close_price": 34410.0,
+        "volume": 453115457.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250422,
+        "open_price": 34363.0,
+        "high_price": 34364.0,
+        "low_price": 34363.0,
+        "close_price": 34363.0,
+        "volume": 407571797.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250421,
+        "open_price": 34326.0,
+        "high_price": 34331.0,
+        "low_price": 34326.0,
+        "close_price": 34326.0,
+        "volume": 296324165.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250420,
+        "open_price": 34289.0,
+        "high_price": 34290.0,
+        "low_price": 34289.0,
+        "close_price": 34289.0,
+        "volume": 434596037.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250419,
+        "open_price": 34253.0,
+        "high_price": 34254.0,
+        "low_price": 34253.0,
+        "close_price": 34253.0,
+        "volume": 435129514.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250416,
+        "open_price": 34213.0,
+        "high_price": 34214.0,
+        "low_price": 34213.0,
+        "close_price": 34213.0,
+        "volume": 368589584.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250415,
+        "open_price": 34166.0,
+        "high_price": 34167.0,
+        "low_price": 34166.0,
+        "close_price": 34166.0,
+        "volume": 341288192.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250414,
+        "open_price": 34130.0,
+        "high_price": 34131.0,
+        "low_price": 34130.0,
+        "close_price": 34130.0,
+        "volume": 531747017.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250413,
+        "open_price": 34094.0,
+        "high_price": 34095.0,
+        "low_price": 34094.0,
+        "close_price": 34094.0,
+        "volume": 494214479.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250412,
+        "open_price": 34058.0,
+        "high_price": 34059.0,
+        "low_price": 34058.0,
+        "close_price": 34058.0,
+        "volume": 262808977.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250409,
+        "open_price": 34018.0,
+        "high_price": 34019.0,
+        "low_price": 34018.0,
+        "close_price": 34018.0,
+        "volume": 353056986.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250408,
+        "open_price": 33972.0,
+        "high_price": 33973.0,
+        "low_price": 33972.0,
+        "close_price": 33972.0,
+        "volume": 432443010.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250407,
+        "open_price": 33936.0,
+        "high_price": 33937.0,
+        "low_price": 33936.0,
+        "close_price": 33936.0,
+        "volume": 281155628.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250406,
+        "open_price": 33900.0,
+        "high_price": 33901.0,
+        "low_price": 33900.0,
+        "close_price": 33900.0,
+        "volume": 265791746.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250405,
+        "open_price": 33864.0,
+        "high_price": 33865.0,
+        "low_price": 33864.0,
+        "close_price": 33864.0,
+        "volume": 406048237.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250330,
+        "open_price": 33764.0,
+        "high_price": 33767.0,
+        "low_price": 33764.0,
+        "close_price": 33765.0,
+        "volume": 343916324.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250329,
+        "open_price": 33666.0,
+        "high_price": 33667.0,
+        "low_price": 33666.0,
+        "close_price": 33666.0,
+        "volume": 309288183.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250326,
+        "open_price": 33598.0,
+        "high_price": 33599.0,
+        "low_price": 33598.0,
+        "close_price": 33598.0,
+        "volume": 285597025.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250325,
+        "open_price": 33559.0,
+        "high_price": 33560.0,
+        "low_price": 33559.0,
+        "close_price": 33559.0,
+        "volume": 383940319.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250318,
+        "open_price": 33439.0,
+        "high_price": 33520.0,
+        "low_price": 33431.0,
+        "close_price": 33442.0,
+        "volume": 933392096.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250317,
+        "open_price": 33334.0,
+        "high_price": 33334.0,
+        "low_price": 33333.0,
+        "close_price": 33333.0,
+        "volume": 311502336.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250316,
+        "open_price": 33302.0,
+        "high_price": 33302.0,
+        "low_price": 33301.0,
+        "close_price": 33301.0,
+        "volume": 369192836.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250315,
+        "open_price": 33263.0,
+        "high_price": 33264.0,
+        "low_price": 33263.0,
+        "close_price": 33263.0,
+        "volume": 367976403.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250312,
+        "open_price": 33222.0,
+        "high_price": 33223.0,
+        "low_price": 33222.0,
+        "close_price": 33222.0,
+        "volume": 271970299.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250311,
+        "open_price": 33182.0,
+        "high_price": 33183.0,
+        "low_price": 33182.0,
+        "close_price": 33182.0,
+        "volume": 244351142.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250310,
+        "open_price": 33147.0,
+        "high_price": 33148.0,
+        "low_price": 33147.0,
+        "close_price": 33147.0,
+        "volume": 310807855.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250309,
+        "open_price": 33113.0,
+        "high_price": 33113.0,
+        "low_price": 33112.0,
+        "close_price": 33112.0,
+        "volume": 284766511.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250308,
+        "open_price": 33077.0,
+        "high_price": 33078.0,
+        "low_price": 33077.0,
+        "close_price": 33077.0,
+        "volume": 298047813.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250305,
+        "open_price": 33037.0,
+        "high_price": 33038.0,
+        "low_price": 33037.0,
+        "close_price": 33037.0,
+        "volume": 318825723.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250304,
+        "open_price": 32997.0,
+        "high_price": 32998.0,
+        "low_price": 32997.0,
+        "close_price": 32997.0,
+        "volume": 331086302.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250303,
+        "open_price": 32962.0,
+        "high_price": 32963.0,
+        "low_price": 32962.0,
+        "close_price": 32962.0,
+        "volume": 271349463.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250302,
+        "open_price": 32927.0,
+        "high_price": 32928.0,
+        "low_price": 32927.0,
+        "close_price": 32927.0,
+        "volume": 303292807.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250301,
+        "open_price": 32892.0,
+        "high_price": 32893.0,
+        "low_price": 32892.0,
+        "close_price": 32892.0,
+        "volume": 311712415.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250226,
+        "open_price": 32852.0,
+        "high_price": 32853.0,
+        "low_price": 32852.0,
+        "close_price": 32852.0,
+        "volume": 257918188.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250225,
+        "open_price": 32807.0,
+        "high_price": 32808.0,
+        "low_price": 32807.0,
+        "close_price": 32807.0,
+        "volume": 282451521.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250224,
+        "open_price": 32769.0,
+        "high_price": 32770.0,
+        "low_price": 32769.0,
+        "close_price": 32769.0,
+        "volume": 221582458.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250223,
+        "open_price": 32731.0,
+        "high_price": 32732.0,
+        "low_price": 32731.0,
+        "close_price": 32731.0,
+        "volume": 280354731.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250222,
+        "open_price": 32692.0,
+        "high_price": 32693.0,
+        "low_price": 32692.0,
+        "close_price": 32692.0,
+        "volume": 315198202.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250219,
+        "open_price": 32653.0,
+        "high_price": 32654.0,
+        "low_price": 32653.0,
+        "close_price": 32653.0,
+        "volume": 267869280.0
+    },
+    {
+        "symbol": "افران",
+        "trade_date": 20250218,
+        "open_price": 32608.0,
+        "high_price": 32609.0,
+        "low_price": 32608.0,
+        "close_price": 32608.0,
+        "volume": 284595968.0
+    }
+]

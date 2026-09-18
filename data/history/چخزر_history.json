@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260901,
+        "open_price": 192200.0,
+        "high_price": 201300.0,
+        "low_price": 192200.0,
+        "close_price": 193400.0,
+        "volume": 814673.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260831,
+        "open_price": 197400.0,
+        "high_price": 203300.0,
+        "low_price": 197300.0,
+        "close_price": 198100.0,
+        "volume": 1094151.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260829,
+        "open_price": 203400.0,
+        "high_price": 203400.0,
+        "low_price": 203100.0,
+        "close_price": 203400.0,
+        "volume": 661735.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260826,
+        "open_price": 197500.0,
+        "high_price": 197500.0,
+        "low_price": 197500.0,
+        "close_price": 197500.0,
+        "volume": 368362.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260825,
+        "open_price": 191800.0,
+        "high_price": 191800.0,
+        "low_price": 191800.0,
+        "close_price": 191800.0,
+        "volume": 127339.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260824,
+        "open_price": 186300.0,
+        "high_price": 186300.0,
+        "low_price": 186300.0,
+        "close_price": 186300.0,
+        "volume": 148412.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260823,
+        "open_price": 180400.0,
+        "high_price": 182000.0,
+        "low_price": 171500.0,
+        "close_price": 180900.0,
+        "volume": 1368536.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260822,
+        "open_price": 173500.0,
+        "high_price": 176800.0,
+        "low_price": 173500.0,
+        "close_price": 176700.0,
+        "volume": 853016.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260819,
+        "open_price": 170000.0,
+        "high_price": 176200.0,
+        "low_price": 167900.0,
+        "close_price": 171700.0,
+        "volume": 584184.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260818,
+        "open_price": 177800.0,
+        "high_price": 177800.0,
+        "low_price": 167600.0,
+        "close_price": 173000.0,
+        "volume": 1453493.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260817,
+        "open_price": 172700.0,
+        "high_price": 172700.0,
+        "low_price": 172700.0,
+        "close_price": 172700.0,
+        "volume": 75899.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260816,
+        "open_price": 164200.0,
+        "high_price": 174200.0,
+        "low_price": 164200.0,
+        "close_price": 167700.0,
+        "volume": 2277698.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260815,
+        "open_price": 169200.0,
+        "high_price": 169200.0,
+        "low_price": 169200.0,
+        "close_price": 169200.0,
+        "volume": 211420.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260811,
+        "open_price": 173900.0,
+        "high_price": 183400.0,
+        "low_price": 173700.0,
+        "close_price": 174400.0,
+        "volume": 1576269.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260810,
+        "open_price": 178200.0,
+        "high_price": 184900.0,
+        "low_price": 178100.0,
+        "close_price": 179000.0,
+        "volume": 1652390.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260809,
+        "open_price": 188600.0,
+        "high_price": 188600.0,
+        "low_price": 177800.0,
+        "close_price": 183600.0,
+        "volume": 4430473.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260808,
+        "open_price": 183200.0,
+        "high_price": 183200.0,
+        "low_price": 183200.0,
+        "close_price": 183200.0,
+        "volume": 143376.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260805,
+        "open_price": 177900.0,
+        "high_price": 177900.0,
+        "low_price": 177900.0,
+        "close_price": 177900.0,
+        "volume": 96730.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260803,
+        "open_price": 172800.0,
+        "high_price": 172800.0,
+        "low_price": 172800.0,
+        "close_price": 172800.0,
+        "volume": 89403.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260802,
+        "open_price": 167800.0,
+        "high_price": 167800.0,
+        "low_price": 167800.0,
+        "close_price": 167800.0,
+        "volume": 176954.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260801,
+        "open_price": 163000.0,
+        "high_price": 163000.0,
+        "low_price": 163000.0,
+        "close_price": 163000.0,
+        "volume": 107252.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260729,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 158300.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260728,
+        "open_price": 158300.0,
+        "high_price": 158300.0,
+        "low_price": 158300.0,
+        "close_price": 158300.0,
+        "volume": 100799.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260727,
+        "open_price": 153700.0,
+        "high_price": 153700.0,
+        "low_price": 153700.0,
+        "close_price": 153700.0,
+        "volume": 130314.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260726,
+        "open_price": 149300.0,
+        "high_price": 149300.0,
+        "low_price": 149300.0,
+        "close_price": 149300.0,
+        "volume": 142186.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260725,
+        "open_price": 145300.0,
+        "high_price": 145300.0,
+        "low_price": 141300.0,
+        "close_price": 145000.0,
+        "volume": 2934591.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260722,
+        "open_price": 141100.0,
+        "high_price": 141100.0,
+        "low_price": 141100.0,
+        "close_price": 141100.0,
+        "volume": 174602.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260721,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 137000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260720,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 137000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260719,
+        "open_price": 137100.0,
+        "high_price": 137100.0,
+        "low_price": 133200.0,
+        "close_price": 137000.0,
+        "volume": 893694.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260718,
+        "open_price": 133600.0,
+        "high_price": 133600.0,
+        "low_price": 126000.0,
+        "close_price": 133200.0,
+        "volume": 4817386.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260715,
+        "open_price": 129800.0,
+        "high_price": 129800.0,
+        "low_price": 129800.0,
+        "close_price": 129800.0,
+        "volume": 576887.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260714,
+        "open_price": 126100.0,
+        "high_price": 126100.0,
+        "low_price": 126100.0,
+        "close_price": 126100.0,
+        "volume": 90541.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260713,
+        "open_price": 122500.0,
+        "high_price": 122500.0,
+        "low_price": 122500.0,
+        "close_price": 122500.0,
+        "volume": 113371.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260712,
+        "open_price": 119000.0,
+        "high_price": 119000.0,
+        "low_price": 119000.0,
+        "close_price": 119000.0,
+        "volume": 588958.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260711,
+        "open_price": 111100.0,
+        "high_price": 117800.0,
+        "low_price": 111100.0,
+        "close_price": 115600.0,
+        "volume": 2066513.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260708,
+        "open_price": 116100.0,
+        "high_price": 118900.0,
+        "low_price": 112700.0,
+        "close_price": 114400.0,
+        "volume": 6039098.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260707,
+        "open_price": 116100.0,
+        "high_price": 116100.0,
+        "low_price": 116100.0,
+        "close_price": 116100.0,
+        "volume": 542674.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260701,
+        "open_price": 112760.0,
+        "high_price": 112760.0,
+        "low_price": 112760.0,
+        "close_price": 112760.0,
+        "volume": 537780.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260630,
+        "open_price": 109480.0,
+        "high_price": 109480.0,
+        "low_price": 109480.0,
+        "close_price": 109480.0,
+        "volume": 556561.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260629,
+        "open_price": 106300.0,
+        "high_price": 106300.0,
+        "low_price": 106300.0,
+        "close_price": 106300.0,
+        "volume": 189409.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260628,
+        "open_price": 103210.0,
+        "high_price": 103210.0,
+        "low_price": 103210.0,
+        "close_price": 103210.0,
+        "volume": 271716.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260627,
+        "open_price": 100210.0,
+        "high_price": 100210.0,
+        "low_price": 100210.0,
+        "close_price": 100210.0,
+        "volume": 261370.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260623,
+        "open_price": 97300.0,
+        "high_price": 97300.0,
+        "low_price": 95250.0,
+        "close_price": 97300.0,
+        "volume": 3622515.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 94500.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260621,
+        "open_price": 94500.0,
+        "high_price": 94500.0,
+        "low_price": 94500.0,
+        "close_price": 94500.0,
+        "volume": 66747.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260620,
+        "open_price": 91750.0,
+        "high_price": 91750.0,
+        "low_price": 91750.0,
+        "close_price": 91750.0,
+        "volume": 457371.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260617,
+        "open_price": 89100.0,
+        "high_price": 89100.0,
+        "low_price": 89100.0,
+        "close_price": 89100.0,
+        "volume": 413232.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260616,
+        "open_price": 86550.0,
+        "high_price": 86550.0,
+        "low_price": 86550.0,
+        "close_price": 86550.0,
+        "volume": 348049.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260615,
+        "open_price": 84050.0,
+        "high_price": 84050.0,
+        "low_price": 84050.0,
+        "close_price": 84050.0,
+        "volume": 426060.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260614,
+        "open_price": 81650.0,
+        "high_price": 81650.0,
+        "low_price": 81650.0,
+        "close_price": 81650.0,
+        "volume": 581204.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260613,
+        "open_price": 79300.0,
+        "high_price": 79300.0,
+        "low_price": 79300.0,
+        "close_price": 79300.0,
+        "volume": 481115.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260610,
+        "open_price": 77000.0,
+        "high_price": 77000.0,
+        "low_price": 77000.0,
+        "close_price": 77000.0,
+        "volume": 448391.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260609,
+        "open_price": 74800.0,
+        "high_price": 74800.0,
+        "low_price": 74800.0,
+        "close_price": 74800.0,
+        "volume": 75052.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260608,
+        "open_price": 72650.0,
+        "high_price": 72650.0,
+        "low_price": 72650.0,
+        "close_price": 72650.0,
+        "volume": 1439599.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260607,
+        "open_price": 70550.0,
+        "high_price": 70550.0,
+        "low_price": 70550.0,
+        "close_price": 70550.0,
+        "volume": 115969.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260606,
+        "open_price": 68500.0,
+        "high_price": 68500.0,
+        "low_price": 68500.0,
+        "close_price": 68500.0,
+        "volume": 537064.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260603,
+        "open_price": 66550.0,
+        "high_price": 66550.0,
+        "low_price": 66550.0,
+        "close_price": 66550.0,
+        "volume": 160384.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260602,
+        "open_price": 64650.0,
+        "high_price": 64650.0,
+        "low_price": 64650.0,
+        "close_price": 64650.0,
+        "volume": 880972.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260601,
+        "open_price": 62800.0,
+        "high_price": 62800.0,
+        "low_price": 62800.0,
+        "close_price": 62800.0,
+        "volume": 466610.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260531,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 72500.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260530,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 72500.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260526,
+        "open_price": 72500.0,
+        "high_price": 72500.0,
+        "low_price": 72500.0,
+        "close_price": 72500.0,
+        "volume": 666567.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260525,
+        "open_price": 70400.0,
+        "high_price": 70400.0,
+        "low_price": 70400.0,
+        "close_price": 70400.0,
+        "volume": 454594.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260524,
+        "open_price": 68350.0,
+        "high_price": 68350.0,
+        "low_price": 68350.0,
+        "close_price": 68350.0,
+        "volume": 374186.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260523,
+        "open_price": 66400.0,
+        "high_price": 66400.0,
+        "low_price": 66400.0,
+        "close_price": 66400.0,
+        "volume": 23494.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260520,
+        "open_price": 64500.0,
+        "high_price": 64500.0,
+        "low_price": 64500.0,
+        "close_price": 64500.0,
+        "volume": 121457.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260519,
+        "open_price": 62650.0,
+        "high_price": 62650.0,
+        "low_price": 62650.0,
+        "close_price": 62650.0,
+        "volume": 149438.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260225,
+        "open_price": 61050.0,
+        "high_price": 62600.0,
+        "low_price": 60050.0,
+        "close_price": 60850.0,
+        "volume": 55557.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260224,
+        "open_price": 61700.0,
+        "high_price": 62500.0,
+        "low_price": 60150.0,
+        "close_price": 61050.0,
+        "volume": 48960.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260223,
+        "open_price": 61200.0,
+        "high_price": 62500.0,
+        "low_price": 61000.0,
+        "close_price": 61700.0,
+        "volume": 70153.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260222,
+        "open_price": 61100.0,
+        "high_price": 62800.0,
+        "low_price": 61100.0,
+        "close_price": 61150.0,
+        "volume": 184912.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260221,
+        "open_price": 62950.0,
+        "high_price": 63000.0,
+        "low_price": 62950.0,
+        "close_price": 62950.0,
+        "volume": 78385.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260218,
+        "open_price": 65500.0,
+        "high_price": 66500.0,
+        "low_price": 64200.0,
+        "close_price": 64850.0,
+        "volume": 154835.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260217,
+        "open_price": 63400.0,
+        "high_price": 66650.0,
+        "low_price": 63400.0,
+        "close_price": 65100.0,
+        "volume": 31075.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260216,
+        "open_price": 65500.0,
+        "high_price": 65500.0,
+        "low_price": 64650.0,
+        "close_price": 65150.0,
+        "volume": 97828.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260215,
+        "open_price": 66100.0,
+        "high_price": 66700.0,
+        "low_price": 64700.0,
+        "close_price": 65200.0,
+        "volume": 54314.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260214,
+        "open_price": 65550.0,
+        "high_price": 66750.0,
+        "low_price": 64750.0,
+        "close_price": 65750.0,
+        "volume": 96277.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260210,
+        "open_price": 64600.0,
+        "high_price": 66000.0,
+        "low_price": 64600.0,
+        "close_price": 64950.0,
+        "volume": 30560.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260209,
+        "open_price": 65200.0,
+        "high_price": 65200.0,
+        "low_price": 63700.0,
+        "close_price": 64300.0,
+        "volume": 119783.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260208,
+        "open_price": 65550.0,
+        "high_price": 66900.0,
+        "low_price": 63500.0,
+        "close_price": 64900.0,
+        "volume": 262755.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260207,
+        "open_price": 61800.0,
+        "high_price": 65400.0,
+        "low_price": 61800.0,
+        "close_price": 65250.0,
+        "volume": 273802.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260203,
+        "open_price": 66950.0,
+        "high_price": 67000.0,
+        "low_price": 63500.0,
+        "close_price": 63500.0,
+        "volume": 489762.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260202,
+        "open_price": 64200.0,
+        "high_price": 65450.0,
+        "low_price": 64200.0,
+        "close_price": 65450.0,
+        "volume": 639110.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260201,
+        "open_price": 63050.0,
+        "high_price": 66600.0,
+        "low_price": 63050.0,
+        "close_price": 63550.0,
+        "volume": 352141.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260131,
+        "open_price": 64950.0,
+        "high_price": 65700.0,
+        "low_price": 64950.0,
+        "close_price": 64950.0,
+        "volume": 135640.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260128,
+        "open_price": 66900.0,
+        "high_price": 67500.0,
+        "low_price": 66900.0,
+        "close_price": 66950.0,
+        "volume": 223948.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260127,
+        "open_price": 68950.0,
+        "high_price": 68950.0,
+        "low_price": 68950.0,
+        "close_price": 68950.0,
+        "volume": 105251.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260126,
+        "open_price": 71050.0,
+        "high_price": 71050.0,
+        "low_price": 71050.0,
+        "close_price": 71050.0,
+        "volume": 76708.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260125,
+        "open_price": 73200.0,
+        "high_price": 73200.0,
+        "low_price": 73200.0,
+        "close_price": 73200.0,
+        "volume": 172020.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260124,
+        "open_price": 78650.0,
+        "high_price": 78650.0,
+        "low_price": 75050.0,
+        "close_price": 75450.0,
+        "volume": 234246.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260121,
+        "open_price": 78500.0,
+        "high_price": 78500.0,
+        "low_price": 76250.0,
+        "close_price": 77350.0,
+        "volume": 196002.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260120,
+        "open_price": 78750.0,
+        "high_price": 78750.0,
+        "low_price": 76300.0,
+        "close_price": 77300.0,
+        "volume": 318717.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260119,
+        "open_price": 78250.0,
+        "high_price": 78950.0,
+        "low_price": 76550.0,
+        "close_price": 77700.0,
+        "volume": 225708.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260118,
+        "open_price": 74900.0,
+        "high_price": 77100.0,
+        "low_price": 74900.0,
+        "close_price": 77100.0,
+        "volume": 483591.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260114,
+        "open_price": 75250.0,
+        "high_price": 75250.0,
+        "low_price": 73650.0,
+        "close_price": 74900.0,
+        "volume": 615122.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260113,
+        "open_price": 69700.0,
+        "high_price": 73500.0,
+        "low_price": 69700.0,
+        "close_price": 73100.0,
+        "volume": 583752.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260112,
+        "open_price": 72000.0,
+        "high_price": 73200.0,
+        "low_price": 70100.0,
+        "close_price": 71400.0,
+        "volume": 203562.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260111,
+        "open_price": 68800.0,
+        "high_price": 72750.0,
+        "low_price": 68800.0,
+        "close_price": 71100.0,
+        "volume": 140664.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260110,
+        "open_price": 69650.0,
+        "high_price": 71800.0,
+        "low_price": 69650.0,
+        "close_price": 70750.0,
+        "volume": 1327307.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260107,
+        "open_price": 74450.0,
+        "high_price": 74450.0,
+        "low_price": 70200.0,
+        "close_price": 71800.0,
+        "volume": 260335.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260106,
+        "open_price": 70550.0,
+        "high_price": 72550.0,
+        "low_price": 70550.0,
+        "close_price": 72300.0,
+        "volume": 383242.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260105,
+        "open_price": 69000.0,
+        "high_price": 70550.0,
+        "low_price": 68500.0,
+        "close_price": 70450.0,
+        "volume": 472643.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20260104,
+        "open_price": 71850.0,
+        "high_price": 71850.0,
+        "low_price": 67750.0,
+        "close_price": 68500.0,
+        "volume": 287249.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251231,
+        "open_price": 66100.0,
+        "high_price": 70000.0,
+        "low_price": 66100.0,
+        "close_price": 69800.0,
+        "volume": 303512.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251230,
+        "open_price": 69900.0,
+        "high_price": 69900.0,
+        "low_price": 67900.0,
+        "close_price": 68000.0,
+        "volume": 483885.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251229,
+        "open_price": 73800.0,
+        "high_price": 73800.0,
+        "low_price": 69750.0,
+        "close_price": 69950.0,
+        "volume": 521298.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251228,
+        "open_price": 74250.0,
+        "high_price": 74250.0,
+        "low_price": 69950.0,
+        "close_price": 71900.0,
+        "volume": 568568.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251227,
+        "open_price": 72200.0,
+        "high_price": 72200.0,
+        "low_price": 70650.0,
+        "close_price": 72100.0,
+        "volume": 692209.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251224,
+        "open_price": 70100.0,
+        "high_price": 70100.0,
+        "low_price": 70100.0,
+        "close_price": 70100.0,
+        "volume": 175867.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251223,
+        "open_price": 68100.0,
+        "high_price": 68100.0,
+        "low_price": 68100.0,
+        "close_price": 68100.0,
+        "volume": 204794.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251222,
+        "open_price": 65500.0,
+        "high_price": 66200.0,
+        "low_price": 65100.0,
+        "close_price": 66150.0,
+        "volume": 386170.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251221,
+        "open_price": 65150.0,
+        "high_price": 65300.0,
+        "low_price": 63550.0,
+        "close_price": 64300.0,
+        "volume": 329345.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251220,
+        "open_price": 62300.0,
+        "high_price": 63450.0,
+        "low_price": 62300.0,
+        "close_price": 63450.0,
+        "volume": 260824.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251217,
+        "open_price": 62600.0,
+        "high_price": 63150.0,
+        "low_price": 61350.0,
+        "close_price": 61650.0,
+        "volume": 131379.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251216,
+        "open_price": 63200.0,
+        "high_price": 63300.0,
+        "low_price": 60750.0,
+        "close_price": 61400.0,
+        "volume": 296658.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251215,
+        "open_price": 63050.0,
+        "high_price": 64000.0,
+        "low_price": 62350.0,
+        "close_price": 62600.0,
+        "volume": 108787.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251214,
+        "open_price": 62800.0,
+        "high_price": 63800.0,
+        "low_price": 62250.0,
+        "close_price": 62450.0,
+        "volume": 51993.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251213,
+        "open_price": 61400.0,
+        "high_price": 62800.0,
+        "low_price": 61400.0,
+        "close_price": 62300.0,
+        "volume": 295896.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251210,
+        "open_price": 59150.0,
+        "high_price": 62000.0,
+        "low_price": 59150.0,
+        "close_price": 61000.0,
+        "volume": 188991.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251209,
+        "open_price": 60200.0,
+        "high_price": 62000.0,
+        "low_price": 59400.0,
+        "close_price": 60300.0,
+        "volume": 275718.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251208,
+        "open_price": 59050.0,
+        "high_price": 61350.0,
+        "low_price": 59050.0,
+        "close_price": 60850.0,
+        "volume": 88313.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251207,
+        "open_price": 61950.0,
+        "high_price": 61950.0,
+        "low_price": 60200.0,
+        "close_price": 60750.0,
+        "volume": 71251.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251206,
+        "open_price": 61000.0,
+        "high_price": 61900.0,
+        "low_price": 60050.0,
+        "close_price": 60850.0,
+        "volume": 99411.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251203,
+        "open_price": 62200.0,
+        "high_price": 62200.0,
+        "low_price": 60500.0,
+        "close_price": 61050.0,
+        "volume": 72170.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251202,
+        "open_price": 60050.0,
+        "high_price": 61800.0,
+        "low_price": 60050.0,
+        "close_price": 61100.0,
+        "volume": 28345.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251201,
+        "open_price": 61600.0,
+        "high_price": 61950.0,
+        "low_price": 60600.0,
+        "close_price": 61100.0,
+        "volume": 79949.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251130,
+        "open_price": 60850.0,
+        "high_price": 62000.0,
+        "low_price": 60500.0,
+        "close_price": 61000.0,
+        "volume": 127718.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251129,
+        "open_price": 61200.0,
+        "high_price": 62250.0,
+        "low_price": 60200.0,
+        "close_price": 60850.0,
+        "volume": 102295.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251126,
+        "open_price": 61900.0,
+        "high_price": 62100.0,
+        "low_price": 60050.0,
+        "close_price": 60550.0,
+        "volume": 411405.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251125,
+        "open_price": 64150.0,
+        "high_price": 64150.0,
+        "low_price": 61250.0,
+        "close_price": 61900.0,
+        "volume": 676612.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251123,
+        "open_price": 64850.0,
+        "high_price": 65400.0,
+        "low_price": 62050.0,
+        "close_price": 63100.0,
+        "volume": 223679.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251122,
+        "open_price": 65250.0,
+        "high_price": 65500.0,
+        "low_price": 62100.0,
+        "close_price": 63750.0,
+        "volume": 536160.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251119,
+        "open_price": 63350.0,
+        "high_price": 64050.0,
+        "low_price": 63200.0,
+        "close_price": 64000.0,
+        "volume": 482516.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251118,
+        "open_price": 61250.0,
+        "high_price": 62500.0,
+        "low_price": 61200.0,
+        "close_price": 62200.0,
+        "volume": 226483.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251117,
+        "open_price": 60700.0,
+        "high_price": 60700.0,
+        "low_price": 59800.0,
+        "close_price": 60700.0,
+        "volume": 538627.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251116,
+        "open_price": 57850.0,
+        "high_price": 60900.0,
+        "low_price": 57750.0,
+        "close_price": 58950.0,
+        "volume": 467941.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251115,
+        "open_price": 59550.0,
+        "high_price": 62750.0,
+        "low_price": 59350.0,
+        "close_price": 59500.0,
+        "volume": 367370.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251112,
+        "open_price": 62500.0,
+        "high_price": 62800.0,
+        "low_price": 60200.0,
+        "close_price": 61150.0,
+        "volume": 552425.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251111,
+        "open_price": 61550.0,
+        "high_price": 62500.0,
+        "low_price": 61300.0,
+        "close_price": 62050.0,
+        "volume": 248165.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251110,
+        "open_price": 61450.0,
+        "high_price": 61450.0,
+        "low_price": 59900.0,
+        "close_price": 61000.0,
+        "volume": 681527.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251109,
+        "open_price": 59850.0,
+        "high_price": 59850.0,
+        "low_price": 58700.0,
+        "close_price": 59700.0,
+        "volume": 256243.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251108,
+        "open_price": 57500.0,
+        "high_price": 58750.0,
+        "low_price": 57350.0,
+        "close_price": 58150.0,
+        "volume": 173703.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251105,
+        "open_price": 56350.0,
+        "high_price": 57250.0,
+        "low_price": 56050.0,
+        "close_price": 57050.0,
+        "volume": 420782.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251104,
+        "open_price": 55550.0,
+        "high_price": 56250.0,
+        "low_price": 55050.0,
+        "close_price": 55600.0,
+        "volume": 219805.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251103,
+        "open_price": 56300.0,
+        "high_price": 56700.0,
+        "low_price": 55050.0,
+        "close_price": 55550.0,
+        "volume": 143037.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251102,
+        "open_price": 55300.0,
+        "high_price": 56350.0,
+        "low_price": 53850.0,
+        "close_price": 55250.0,
+        "volume": 226332.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251101,
+        "open_price": 55250.0,
+        "high_price": 55800.0,
+        "low_price": 54350.0,
+        "close_price": 54800.0,
+        "volume": 145464.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251029,
+        "open_price": 55950.0,
+        "high_price": 56000.0,
+        "low_price": 54350.0,
+        "close_price": 54700.0,
+        "volume": 110590.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251028,
+        "open_price": 53300.0,
+        "high_price": 54850.0,
+        "low_price": 53200.0,
+        "close_price": 54400.0,
+        "volume": 418834.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251027,
+        "open_price": 54250.0,
+        "high_price": 54250.0,
+        "low_price": 52450.0,
+        "close_price": 53300.0,
+        "volume": 339311.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251026,
+        "open_price": 54250.0,
+        "high_price": 54250.0,
+        "low_price": 52750.0,
+        "close_price": 53300.0,
+        "volume": 288986.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251025,
+        "open_price": 52950.0,
+        "high_price": 53000.0,
+        "low_price": 51050.0,
+        "close_price": 52700.0,
+        "volume": 715718.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251022,
+        "open_price": 51500.0,
+        "high_price": 51500.0,
+        "low_price": 51500.0,
+        "close_price": 51500.0,
+        "volume": 705662.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251021,
+        "open_price": 50250.0,
+        "high_price": 50250.0,
+        "low_price": 50250.0,
+        "close_price": 50000.0,
+        "volume": 262960.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251020,
+        "open_price": 49550.0,
+        "high_price": 49550.0,
+        "low_price": 49550.0,
+        "close_price": 48800.0,
+        "volume": 152872.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251019,
+        "open_price": 48950.0,
+        "high_price": 48950.0,
+        "low_price": 48950.0,
+        "close_price": 48150.0,
+        "volume": 135135.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251018,
+        "open_price": 47650.0,
+        "high_price": 47650.0,
+        "low_price": 47650.0,
+        "close_price": 47550.0,
+        "volume": 295698.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251015,
+        "open_price": 47100.0,
+        "high_price": 47100.0,
+        "low_price": 47100.0,
+        "close_price": 46300.0,
+        "volume": 138091.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251014,
+        "open_price": 46700.0,
+        "high_price": 46700.0,
+        "low_price": 46700.0,
+        "close_price": 45750.0,
+        "volume": 104985.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251013,
+        "open_price": 46000.0,
+        "high_price": 46000.0,
+        "low_price": 46000.0,
+        "close_price": 45350.0,
+        "volume": 166212.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251012,
+        "open_price": 45850.0,
+        "high_price": 45850.0,
+        "low_price": 45850.0,
+        "close_price": 44700.0,
+        "volume": 36052.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251011,
+        "open_price": 45400.0,
+        "high_price": 45400.0,
+        "low_price": 44750.0,
+        "close_price": 44550.0,
+        "volume": 118578.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251008,
+        "open_price": 44450.0,
+        "high_price": 45150.0,
+        "low_price": 44450.0,
+        "close_price": 44100.0,
+        "volume": 72111.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251007,
+        "open_price": 43500.0,
+        "high_price": 44550.0,
+        "low_price": 43500.0,
+        "close_price": 43850.0,
+        "volume": 165699.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251006,
+        "open_price": 44500.0,
+        "high_price": 44500.0,
+        "low_price": 42950.0,
+        "close_price": 43300.0,
+        "volume": 108667.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251005,
+        "open_price": 43850.0,
+        "high_price": 43850.0,
+        "low_price": 43100.0,
+        "close_price": 43250.0,
+        "volume": 198830.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251004,
+        "open_price": 42550.0,
+        "high_price": 43450.0,
+        "low_price": 42550.0,
+        "close_price": 42600.0,
+        "volume": 120529.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20251001,
+        "open_price": 43250.0,
+        "high_price": 43650.0,
+        "low_price": 42000.0,
+        "close_price": 42200.0,
+        "volume": 406412.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250930,
+        "open_price": 45200.0,
+        "high_price": 45200.0,
+        "low_price": 42600.0,
+        "close_price": 43250.0,
+        "volume": 393030.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250929,
+        "open_price": 45000.0,
+        "high_price": 45000.0,
+        "low_price": 45000.0,
+        "close_price": 43900.0,
+        "volume": 58921.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250928,
+        "open_price": 44500.0,
+        "high_price": 44500.0,
+        "low_price": 44500.0,
+        "close_price": 43700.0,
+        "volume": 121609.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250927,
+        "open_price": 42900.0,
+        "high_price": 44150.0,
+        "low_price": 42850.0,
+        "close_price": 43250.0,
+        "volume": 110341.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250924,
+        "open_price": 42400.0,
+        "high_price": 43350.0,
+        "low_price": 42100.0,
+        "close_price": 42900.0,
+        "volume": 150958.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250923,
+        "open_price": 43600.0,
+        "high_price": 43850.0,
+        "low_price": 43000.0,
+        "close_price": 43400.0,
+        "volume": 27458.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250922,
+        "open_price": 42250.0,
+        "high_price": 44600.0,
+        "low_price": 42250.0,
+        "close_price": 43400.0,
+        "volume": 24056.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250921,
+        "open_price": 42550.0,
+        "high_price": 42650.0,
+        "low_price": 42300.0,
+        "close_price": 43400.0,
+        "volume": 53035.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250920,
+        "open_price": 42650.0,
+        "high_price": 42700.0,
+        "low_price": 42650.0,
+        "close_price": 43600.0,
+        "volume": 90841.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250917,
+        "open_price": 44000.0,
+        "high_price": 44300.0,
+        "low_price": 43300.0,
+        "close_price": 43950.0,
+        "volume": 116121.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250916,
+        "open_price": 44350.0,
+        "high_price": 44350.0,
+        "low_price": 43550.0,
+        "close_price": 43950.0,
+        "volume": 259518.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250915,
+        "open_price": 44350.0,
+        "high_price": 45550.0,
+        "low_price": 44150.0,
+        "close_price": 44350.0,
+        "volume": 74181.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250914,
+        "open_price": 43900.0,
+        "high_price": 45200.0,
+        "low_price": 43900.0,
+        "close_price": 44250.0,
+        "volume": 121803.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250913,
+        "open_price": 43900.0,
+        "high_price": 44700.0,
+        "low_price": 43650.0,
+        "close_price": 43900.0,
+        "volume": 20845.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250909,
+        "open_price": 44100.0,
+        "high_price": 44400.0,
+        "low_price": 43900.0,
+        "close_price": 43900.0,
+        "volume": 46076.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250908,
+        "open_price": 44050.0,
+        "high_price": 44900.0,
+        "low_price": 44050.0,
+        "close_price": 43850.0,
+        "volume": 10348.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250907,
+        "open_price": 43850.0,
+        "high_price": 44550.0,
+        "low_price": 43700.0,
+        "close_price": 43850.0,
+        "volume": 17282.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250906,
+        "open_price": 44900.0,
+        "high_price": 44900.0,
+        "low_price": 43400.0,
+        "close_price": 43850.0,
+        "volume": 74880.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250903,
+        "open_price": 44000.0,
+        "high_price": 44850.0,
+        "low_price": 43700.0,
+        "close_price": 43850.0,
+        "volume": 59308.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250902,
+        "open_price": 42350.0,
+        "high_price": 44850.0,
+        "low_price": 42350.0,
+        "close_price": 43700.0,
+        "volume": 69745.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250831,
+        "open_price": 42950.0,
+        "high_price": 43950.0,
+        "low_price": 42400.0,
+        "close_price": 43550.0,
+        "volume": 70176.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250830,
+        "open_price": 44900.0,
+        "high_price": 44900.0,
+        "low_price": 42950.0,
+        "close_price": 43700.0,
+        "volume": 144443.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250827,
+        "open_price": 43950.0,
+        "high_price": 45350.0,
+        "low_price": 43250.0,
+        "close_price": 44250.0,
+        "volume": 111771.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250826,
+        "open_price": 44900.0,
+        "high_price": 45300.0,
+        "low_price": 44000.0,
+        "close_price": 44550.0,
+        "volume": 138068.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250825,
+        "open_price": 44600.0,
+        "high_price": 45400.0,
+        "low_price": 43950.0,
+        "close_price": 44700.0,
+        "volume": 116097.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250823,
+        "open_price": 45200.0,
+        "high_price": 45200.0,
+        "low_price": 44500.0,
+        "close_price": 44800.0,
+        "volume": 78026.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250820,
+        "open_price": 45700.0,
+        "high_price": 45700.0,
+        "low_price": 43900.0,
+        "close_price": 44800.0,
+        "volume": 179217.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250819,
+        "open_price": 44100.0,
+        "high_price": 45250.0,
+        "low_price": 44100.0,
+        "close_price": 45250.0,
+        "volume": 74129.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250818,
+        "open_price": 45600.0,
+        "high_price": 46500.0,
+        "low_price": 44850.0,
+        "close_price": 45350.0,
+        "volume": 52561.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250817,
+        "open_price": 45550.0,
+        "high_price": 46650.0,
+        "low_price": 45550.0,
+        "close_price": 45400.0,
+        "volume": 24759.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250816,
+        "open_price": 46600.0,
+        "high_price": 46600.0,
+        "low_price": 44150.0,
+        "close_price": 45350.0,
+        "volume": 76914.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250813,
+        "open_price": 44450.0,
+        "high_price": 44500.0,
+        "low_price": 44450.0,
+        "close_price": 45500.0,
+        "volume": 71222.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250812,
+        "open_price": 45900.0,
+        "high_price": 45900.0,
+        "low_price": 44600.0,
+        "close_price": 45800.0,
+        "volume": 38772.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250811,
+        "open_price": 46000.0,
+        "high_price": 46450.0,
+        "low_price": 44950.0,
+        "close_price": 45950.0,
+        "volume": 91169.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250810,
+        "open_price": 46350.0,
+        "high_price": 47400.0,
+        "low_price": 45650.0,
+        "close_price": 46300.0,
+        "volume": 14758.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250809,
+        "open_price": 47600.0,
+        "high_price": 47600.0,
+        "low_price": 45700.0,
+        "close_price": 46300.0,
+        "volume": 49750.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250806,
+        "open_price": 45150.0,
+        "high_price": 47300.0,
+        "low_price": 44950.0,
+        "close_price": 46250.0,
+        "volume": 106843.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250805,
+        "open_price": 45600.0,
+        "high_price": 47400.0,
+        "low_price": 45150.0,
+        "close_price": 46300.0,
+        "volume": 83972.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250804,
+        "open_price": 46550.0,
+        "high_price": 47500.0,
+        "low_price": 44900.0,
+        "close_price": 46450.0,
+        "volume": 100367.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250803,
+        "open_price": 45550.0,
+        "high_price": 47050.0,
+        "low_price": 45450.0,
+        "close_price": 46150.0,
+        "volume": 194508.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250802,
+        "open_price": 46850.0,
+        "high_price": 49000.0,
+        "low_price": 46800.0,
+        "close_price": 46850.0,
+        "volume": 317914.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250730,
+        "open_price": 47300.0,
+        "high_price": 47300.0,
+        "low_price": 47300.0,
+        "close_price": 48200.0,
+        "volume": 107732.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250729,
+        "open_price": 47950.0,
+        "high_price": 50350.0,
+        "low_price": 47950.0,
+        "close_price": 48750.0,
+        "volume": 133176.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250728,
+        "open_price": 48800.0,
+        "high_price": 50100.0,
+        "low_price": 48750.0,
+        "close_price": 49400.0,
+        "volume": 164713.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250727,
+        "open_price": 50200.0,
+        "high_price": 51450.0,
+        "low_price": 50000.0,
+        "close_price": 50250.0,
+        "volume": 252366.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250726,
+        "open_price": 50400.0,
+        "high_price": 52000.0,
+        "low_price": 50400.0,
+        "close_price": 51500.0,
+        "volume": 74458.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250723,
+        "open_price": 50900.0,
+        "high_price": 52200.0,
+        "low_price": 50900.0,
+        "close_price": 51650.0,
+        "volume": 65187.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250722,
+        "open_price": 51950.0,
+        "high_price": 52900.0,
+        "low_price": 51950.0,
+        "close_price": 51700.0,
+        "volume": 64236.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250721,
+        "open_price": 50800.0,
+        "high_price": 52100.0,
+        "low_price": 50800.0,
+        "close_price": 51450.0,
+        "volume": 172325.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250720,
+        "open_price": 50000.0,
+        "high_price": 52000.0,
+        "low_price": 50000.0,
+        "close_price": 50900.0,
+        "volume": 58726.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250719,
+        "open_price": 51100.0,
+        "high_price": 52150.0,
+        "low_price": 50150.0,
+        "close_price": 50850.0,
+        "volume": 202649.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250716,
+        "open_price": 49850.0,
+        "high_price": 51950.0,
+        "low_price": 49850.0,
+        "close_price": 51050.0,
+        "volume": 228110.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250715,
+        "open_price": 50450.0,
+        "high_price": 51850.0,
+        "low_price": 50000.0,
+        "close_price": 50500.0,
+        "volume": 59445.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250714,
+        "open_price": 50850.0,
+        "high_price": 50850.0,
+        "low_price": 50300.0,
+        "close_price": 50450.0,
+        "volume": 55744.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250713,
+        "open_price": 50750.0,
+        "high_price": 51000.0,
+        "low_price": 50350.0,
+        "close_price": 50400.0,
+        "volume": 115975.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250712,
+        "open_price": 50350.0,
+        "high_price": 51700.0,
+        "low_price": 50350.0,
+        "close_price": 50250.0,
+        "volume": 29624.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250709,
+        "open_price": 48800.0,
+        "high_price": 50000.0,
+        "low_price": 48800.0,
+        "close_price": 50200.0,
+        "volume": 32320.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250708,
+        "open_price": 49300.0,
+        "high_price": 50000.0,
+        "low_price": 49000.0,
+        "close_price": 50300.0,
+        "volume": 42023.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250707,
+        "open_price": 50550.0,
+        "high_price": 51850.0,
+        "low_price": 49900.0,
+        "close_price": 50500.0,
+        "volume": 123451.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250702,
+        "open_price": 49300.0,
+        "high_price": 51650.0,
+        "low_price": 49300.0,
+        "close_price": 50500.0,
+        "volume": 232560.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250701,
+        "open_price": 51350.0,
+        "high_price": 51350.0,
+        "low_price": 50200.0,
+        "close_price": 50650.0,
+        "volume": 197867.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250630,
+        "open_price": 51450.0,
+        "high_price": 54050.0,
+        "low_price": 51350.0,
+        "close_price": 51750.0,
+        "volume": 210662.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250629,
+        "open_price": 52800.0,
+        "high_price": 54400.0,
+        "low_price": 52800.0,
+        "close_price": 52900.0,
+        "volume": 481739.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250628,
+        "open_price": 54050.0,
+        "high_price": 54050.0,
+        "low_price": 54050.0,
+        "close_price": 54400.0,
+        "volume": 209913.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 55700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 55700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 55700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 55700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 55700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 55700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 55700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 55700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250611,
+        "open_price": 55050.0,
+        "high_price": 56000.0,
+        "low_price": 54400.0,
+        "close_price": 55700.0,
+        "volume": 80411.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250610,
+        "open_price": 55600.0,
+        "high_price": 57700.0,
+        "low_price": 55000.0,
+        "close_price": 56050.0,
+        "volume": 145438.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250609,
+        "open_price": 58050.0,
+        "high_price": 58050.0,
+        "low_price": 55750.0,
+        "close_price": 56650.0,
+        "volume": 110860.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250608,
+        "open_price": 55450.0,
+        "high_price": 58750.0,
+        "low_price": 55350.0,
+        "close_price": 56400.0,
+        "volume": 437967.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250607,
+        "open_price": 57700.0,
+        "high_price": 57700.0,
+        "low_price": 56100.0,
+        "close_price": 57050.0,
+        "volume": 127415.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250603,
+        "open_price": 56850.0,
+        "high_price": 58500.0,
+        "low_price": 56850.0,
+        "close_price": 57800.0,
+        "volume": 40177.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250602,
+        "open_price": 56100.0,
+        "high_price": 59200.0,
+        "low_price": 56100.0,
+        "close_price": 57850.0,
+        "volume": 93373.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250601,
+        "open_price": 56300.0,
+        "high_price": 57900.0,
+        "low_price": 56300.0,
+        "close_price": 57550.0,
+        "volume": 74902.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250531,
+        "open_price": 56750.0,
+        "high_price": 59550.0,
+        "low_price": 56550.0,
+        "close_price": 58000.0,
+        "volume": 117649.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250528,
+        "open_price": 58200.0,
+        "high_price": 59850.0,
+        "low_price": 58200.0,
+        "close_price": 58250.0,
+        "volume": 26923.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250527,
+        "open_price": 59200.0,
+        "high_price": 59200.0,
+        "low_price": 58000.0,
+        "close_price": 58200.0,
+        "volume": 108817.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250526,
+        "open_price": 56800.0,
+        "high_price": 58900.0,
+        "low_price": 56800.0,
+        "close_price": 57950.0,
+        "volume": 105546.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250525,
+        "open_price": 56750.0,
+        "high_price": 58500.0,
+        "low_price": 56750.0,
+        "close_price": 57900.0,
+        "volume": 85850.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250524,
+        "open_price": 58100.0,
+        "high_price": 60850.0,
+        "low_price": 57350.0,
+        "close_price": 58250.0,
+        "volume": 340003.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250521,
+        "open_price": 58500.0,
+        "high_price": 61950.0,
+        "low_price": 58500.0,
+        "close_price": 59100.0,
+        "volume": 170937.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250520,
+        "open_price": 61800.0,
+        "high_price": 61800.0,
+        "low_price": 59750.0,
+        "close_price": 60300.0,
+        "volume": 226930.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250519,
+        "open_price": 59500.0,
+        "high_price": 62500.0,
+        "low_price": 59500.0,
+        "close_price": 61550.0,
+        "volume": 315432.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250518,
+        "open_price": 57850.0,
+        "high_price": 61350.0,
+        "low_price": 57850.0,
+        "close_price": 60750.0,
+        "volume": 171848.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 61850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250514,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 61850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 61850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250512,
+        "open_price": 61850.0,
+        "high_price": 61850.0,
+        "low_price": 61000.0,
+        "close_price": 61850.0,
+        "volume": 274462.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250511,
+        "open_price": 61700.0,
+        "high_price": 62800.0,
+        "low_price": 59850.0,
+        "close_price": 60050.0,
+        "volume": 236291.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250510,
+        "open_price": 63350.0,
+        "high_price": 63350.0,
+        "low_price": 61550.0,
+        "close_price": 61700.0,
+        "volume": 251405.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250507,
+        "open_price": 63500.0,
+        "high_price": 64200.0,
+        "low_price": 62400.0,
+        "close_price": 63450.0,
+        "volume": 170399.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250506,
+        "open_price": 63500.0,
+        "high_price": 63500.0,
+        "low_price": 61500.0,
+        "close_price": 62350.0,
+        "volume": 144539.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250505,
+        "open_price": 61650.0,
+        "high_price": 63150.0,
+        "low_price": 61050.0,
+        "close_price": 61800.0,
+        "volume": 164577.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250504,
+        "open_price": 60000.0,
+        "high_price": 62550.0,
+        "low_price": 60000.0,
+        "close_price": 61500.0,
+        "volume": 143409.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250503,
+        "open_price": 61650.0,
+        "high_price": 61650.0,
+        "low_price": 58450.0,
+        "close_price": 60800.0,
+        "volume": 297970.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250430,
+        "open_price": 59900.0,
+        "high_price": 59900.0,
+        "low_price": 58750.0,
+        "close_price": 59900.0,
+        "volume": 321608.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250429,
+        "open_price": 58300.0,
+        "high_price": 60000.0,
+        "low_price": 58050.0,
+        "close_price": 58200.0,
+        "volume": 735566.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250428,
+        "open_price": 60900.0,
+        "high_price": 62850.0,
+        "low_price": 59500.0,
+        "close_price": 59800.0,
+        "volume": 287438.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250427,
+        "open_price": 61250.0,
+        "high_price": 63100.0,
+        "low_price": 61150.0,
+        "close_price": 61300.0,
+        "volume": 280927.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250426,
+        "open_price": 62200.0,
+        "high_price": 64500.0,
+        "low_price": 62200.0,
+        "close_price": 63000.0,
+        "volume": 93297.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250423,
+        "open_price": 64250.0,
+        "high_price": 64600.0,
+        "low_price": 61300.0,
+        "close_price": 63150.0,
+        "volume": 101857.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250422,
+        "open_price": 65250.0,
+        "high_price": 65250.0,
+        "low_price": 62550.0,
+        "close_price": 62850.0,
+        "volume": 316170.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250421,
+        "open_price": 65150.0,
+        "high_price": 65900.0,
+        "low_price": 63050.0,
+        "close_price": 64450.0,
+        "volume": 851618.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250420,
+        "open_price": 63700.0,
+        "high_price": 65150.0,
+        "low_price": 63700.0,
+        "close_price": 65000.0,
+        "volume": 768195.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250419,
+        "open_price": 61400.0,
+        "high_price": 64500.0,
+        "low_price": 61400.0,
+        "close_price": 63300.0,
+        "volume": 176972.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250416,
+        "open_price": 62700.0,
+        "high_price": 63950.0,
+        "low_price": 62700.0,
+        "close_price": 62750.0,
+        "volume": 1018967.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250415,
+        "open_price": 64850.0,
+        "high_price": 64850.0,
+        "low_price": 63000.0,
+        "close_price": 64600.0,
+        "volume": 1600521.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250414,
+        "open_price": 63000.0,
+        "high_price": 63000.0,
+        "low_price": 63000.0,
+        "close_price": 63000.0,
+        "volume": 603812.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250413,
+        "open_price": 61200.0,
+        "high_price": 61200.0,
+        "low_price": 61200.0,
+        "close_price": 61200.0,
+        "volume": 260568.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250412,
+        "open_price": 59450.0,
+        "high_price": 59450.0,
+        "low_price": 59450.0,
+        "close_price": 59450.0,
+        "volume": 259833.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250409,
+        "open_price": 57950.0,
+        "high_price": 57950.0,
+        "low_price": 57950.0,
+        "close_price": 57750.0,
+        "volume": 241071.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250408,
+        "open_price": 53750.0,
+        "high_price": 56300.0,
+        "low_price": 53750.0,
+        "close_price": 56300.0,
+        "volume": 807775.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250407,
+        "open_price": 53250.0,
+        "high_price": 55950.0,
+        "low_price": 53250.0,
+        "close_price": 54700.0,
+        "volume": 62965.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250406,
+        "open_price": 54850.0,
+        "high_price": 56250.0,
+        "low_price": 53350.0,
+        "close_price": 54800.0,
+        "volume": 48131.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250405,
+        "open_price": 54800.0,
+        "high_price": 55950.0,
+        "low_price": 53750.0,
+        "close_price": 54850.0,
+        "volume": 46625.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250330,
+        "open_price": 54950.0,
+        "high_price": 55850.0,
+        "low_price": 54650.0,
+        "close_price": 54800.0,
+        "volume": 58863.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250329,
+        "open_price": 54650.0,
+        "high_price": 56000.0,
+        "low_price": 54600.0,
+        "close_price": 54650.0,
+        "volume": 67836.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250326,
+        "open_price": 55850.0,
+        "high_price": 55850.0,
+        "low_price": 54000.0,
+        "close_price": 54550.0,
+        "volume": 55449.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250325,
+        "open_price": 55400.0,
+        "high_price": 55800.0,
+        "low_price": 53100.0,
+        "close_price": 54350.0,
+        "volume": 37316.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250318,
+        "open_price": 54700.0,
+        "high_price": 54700.0,
+        "low_price": 52850.0,
+        "close_price": 54200.0,
+        "volume": 50910.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250317,
+        "open_price": 54000.0,
+        "high_price": 56000.0,
+        "low_price": 53350.0,
+        "close_price": 54450.0,
+        "volume": 35605.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250316,
+        "open_price": 55450.0,
+        "high_price": 55450.0,
+        "low_price": 53200.0,
+        "close_price": 54450.0,
+        "volume": 72206.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250315,
+        "open_price": 54200.0,
+        "high_price": 55600.0,
+        "low_price": 54200.0,
+        "close_price": 54450.0,
+        "volume": 91006.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250312,
+        "open_price": 52550.0,
+        "high_price": 54950.0,
+        "low_price": 52550.0,
+        "close_price": 54100.0,
+        "volume": 35167.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250311,
+        "open_price": 53150.0,
+        "high_price": 55450.0,
+        "low_price": 52950.0,
+        "close_price": 54100.0,
+        "volume": 103487.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250310,
+        "open_price": 55150.0,
+        "high_price": 55850.0,
+        "low_price": 53500.0,
+        "close_price": 54550.0,
+        "volume": 67929.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250309,
+        "open_price": 55000.0,
+        "high_price": 56200.0,
+        "low_price": 53550.0,
+        "close_price": 54650.0,
+        "volume": 100162.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250308,
+        "open_price": 55100.0,
+        "high_price": 56500.0,
+        "low_price": 54800.0,
+        "close_price": 55200.0,
+        "volume": 209937.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250305,
+        "open_price": 58200.0,
+        "high_price": 58200.0,
+        "low_price": 55100.0,
+        "close_price": 56450.0,
+        "volume": 71981.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250304,
+        "open_price": 58300.0,
+        "high_price": 58300.0,
+        "low_price": 55950.0,
+        "close_price": 56800.0,
+        "volume": 40876.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250303,
+        "open_price": 56150.0,
+        "high_price": 59400.0,
+        "low_price": 56150.0,
+        "close_price": 56700.0,
+        "volume": 189969.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250302,
+        "open_price": 57100.0,
+        "high_price": 58050.0,
+        "low_price": 57100.0,
+        "close_price": 57850.0,
+        "volume": 85971.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250301,
+        "open_price": 59000.0,
+        "high_price": 59000.0,
+        "low_price": 56600.0,
+        "close_price": 57950.0,
+        "volume": 72929.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250226,
+        "open_price": 61000.0,
+        "high_price": 61000.0,
+        "low_price": 57550.0,
+        "close_price": 58350.0,
+        "volume": 146224.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250225,
+        "open_price": 58950.0,
+        "high_price": 60750.0,
+        "low_price": 58000.0,
+        "close_price": 59300.0,
+        "volume": 180828.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250224,
+        "open_price": 60250.0,
+        "high_price": 60350.0,
+        "low_price": 58300.0,
+        "close_price": 59150.0,
+        "volume": 129220.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250223,
+        "open_price": 57300.0,
+        "high_price": 59900.0,
+        "low_price": 57050.0,
+        "close_price": 58650.0,
+        "volume": 109360.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250222,
+        "open_price": 60500.0,
+        "high_price": 61800.0,
+        "low_price": 58250.0,
+        "close_price": 58800.0,
+        "volume": 187002.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250219,
+        "open_price": 57350.0,
+        "high_price": 60750.0,
+        "low_price": 57350.0,
+        "close_price": 60050.0,
+        "volume": 203153.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250218,
+        "open_price": 57400.0,
+        "high_price": 60300.0,
+        "low_price": 57400.0,
+        "close_price": 59000.0,
+        "volume": 132960.0
+    },
+    {
+        "symbol": "چخزر",
+        "trade_date": 20250217,
+        "open_price": 57250.0,
+        "high_price": 60000.0,
+        "low_price": 57150.0,
+        "close_price": 58650.0,
+        "volume": 70822.0
+    }
+]

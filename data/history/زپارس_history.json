@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260901,
+        "open_price": 39160.0,
+        "high_price": 40500.0,
+        "low_price": 39140.0,
+        "close_price": 39330.0,
+        "volume": 5035335.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260831,
+        "open_price": 40350.0,
+        "high_price": 40350.0,
+        "low_price": 40350.0,
+        "close_price": 40350.0,
+        "volume": 1319490.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260829,
+        "open_price": 43140.0,
+        "high_price": 43140.0,
+        "low_price": 40640.0,
+        "close_price": 41590.0,
+        "volume": 7455753.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260826,
+        "open_price": 41890.0,
+        "high_price": 41890.0,
+        "low_price": 41890.0,
+        "close_price": 41890.0,
+        "volume": 1616119.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260825,
+        "open_price": 40670.0,
+        "high_price": 40670.0,
+        "low_price": 40670.0,
+        "close_price": 40670.0,
+        "volume": 1134779.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260824,
+        "open_price": 39540.0,
+        "high_price": 39540.0,
+        "low_price": 38040.0,
+        "close_price": 39490.0,
+        "volume": 4356874.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260823,
+        "open_price": 38430.0,
+        "high_price": 38430.0,
+        "low_price": 37330.0,
+        "close_price": 38390.0,
+        "volume": 4407126.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260822,
+        "open_price": 37320.0,
+        "high_price": 37320.0,
+        "low_price": 37320.0,
+        "close_price": 37320.0,
+        "volume": 1297442.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260819,
+        "open_price": 36240.0,
+        "high_price": 36240.0,
+        "low_price": 36240.0,
+        "close_price": 36240.0,
+        "volume": 6234452.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260818,
+        "open_price": 35190.0,
+        "high_price": 35190.0,
+        "low_price": 35190.0,
+        "close_price": 35190.0,
+        "volume": 387041.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260817,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34170.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260816,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34170.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260815,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34170.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260811,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34170.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260810,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34170.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260809,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34170.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260808,
+        "open_price": 34170.0,
+        "high_price": 34170.0,
+        "low_price": 34170.0,
+        "close_price": 34170.0,
+        "volume": 169150.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260805,
+        "open_price": 33180.0,
+        "high_price": 33180.0,
+        "low_price": 33180.0,
+        "close_price": 33180.0,
+        "volume": 611165.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260803,
+        "open_price": 32220.0,
+        "high_price": 32220.0,
+        "low_price": 32220.0,
+        "close_price": 32220.0,
+        "volume": 245383.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260802,
+        "open_price": 31290.0,
+        "high_price": 31290.0,
+        "low_price": 31290.0,
+        "close_price": 31290.0,
+        "volume": 374227.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260801,
+        "open_price": 30380.0,
+        "high_price": 30380.0,
+        "low_price": 30380.0,
+        "close_price": 30380.0,
+        "volume": 358973.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260729,
+        "open_price": 29500.0,
+        "high_price": 29500.0,
+        "low_price": 29500.0,
+        "close_price": 29500.0,
+        "volume": 1248405.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260728,
+        "open_price": 28650.0,
+        "high_price": 28650.0,
+        "low_price": 28650.0,
+        "close_price": 28650.0,
+        "volume": 828317.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260727,
+        "open_price": 27820.0,
+        "high_price": 27820.0,
+        "low_price": 27820.0,
+        "close_price": 27820.0,
+        "volume": 143096.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260726,
+        "open_price": 27010.0,
+        "high_price": 27010.0,
+        "low_price": 27010.0,
+        "close_price": 27010.0,
+        "volume": 110825.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260725,
+        "open_price": 26230.0,
+        "high_price": 26230.0,
+        "low_price": 26230.0,
+        "close_price": 26230.0,
+        "volume": 185780.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260722,
+        "open_price": 25470.0,
+        "high_price": 25470.0,
+        "low_price": 25470.0,
+        "close_price": 25470.0,
+        "volume": 708590.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260721,
+        "open_price": 24700.0,
+        "high_price": 24730.0,
+        "low_price": 24680.0,
+        "close_price": 24730.0,
+        "volume": 380684.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260720,
+        "open_price": 23650.0,
+        "high_price": 25100.0,
+        "low_price": 23650.0,
+        "close_price": 24010.0,
+        "volume": 2387284.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260719,
+        "open_price": 24380.0,
+        "high_price": 24380.0,
+        "low_price": 24380.0,
+        "close_price": 24380.0,
+        "volume": 315065.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260718,
+        "open_price": 25130.0,
+        "high_price": 25130.0,
+        "low_price": 25130.0,
+        "close_price": 25130.0,
+        "volume": 341726.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260715,
+        "open_price": 25900.0,
+        "high_price": 25900.0,
+        "low_price": 25900.0,
+        "close_price": 25900.0,
+        "volume": 527667.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260714,
+        "open_price": 26700.0,
+        "high_price": 26700.0,
+        "low_price": 26700.0,
+        "close_price": 26700.0,
+        "volume": 172056.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260713,
+        "open_price": 27520.0,
+        "high_price": 27520.0,
+        "low_price": 27520.0,
+        "close_price": 27520.0,
+        "volume": 358229.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260712,
+        "open_price": 28370.0,
+        "high_price": 28370.0,
+        "low_price": 28370.0,
+        "close_price": 28370.0,
+        "volume": 190412.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260711,
+        "open_price": 29130.0,
+        "high_price": 30880.0,
+        "low_price": 29130.0,
+        "close_price": 29240.0,
+        "volume": 1170590.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260708,
+        "open_price": 30250.0,
+        "high_price": 30250.0,
+        "low_price": 28490.0,
+        "close_price": 30030.0,
+        "volume": 4318460.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260707,
+        "open_price": 29370.0,
+        "high_price": 29370.0,
+        "low_price": 29370.0,
+        "close_price": 29370.0,
+        "volume": 182634.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260701,
+        "open_price": 28470.0,
+        "high_price": 28520.0,
+        "low_price": 28000.0,
+        "close_price": 28520.0,
+        "volume": 1798422.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260630,
+        "open_price": 26430.0,
+        "high_price": 27760.0,
+        "low_price": 26430.0,
+        "close_price": 27690.0,
+        "volume": 5496253.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260629,
+        "open_price": 26960.0,
+        "high_price": 26960.0,
+        "low_price": 26960.0,
+        "close_price": 26960.0,
+        "volume": 640501.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260628,
+        "open_price": 27790.0,
+        "high_price": 27790.0,
+        "low_price": 27790.0,
+        "close_price": 27790.0,
+        "volume": 291380.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260627,
+        "open_price": 29250.0,
+        "high_price": 29250.0,
+        "low_price": 28380.0,
+        "close_price": 28640.0,
+        "volume": 372472.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 29480.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 29480.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 29480.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260620,
+        "open_price": 30210.0,
+        "high_price": 30500.0,
+        "low_price": 29300.0,
+        "close_price": 29480.0,
+        "volume": 1064339.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260617,
+        "open_price": 30850.0,
+        "high_price": 30850.0,
+        "low_price": 30180.0,
+        "close_price": 30200.0,
+        "volume": 2197062.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260616,
+        "open_price": 32110.0,
+        "high_price": 32110.0,
+        "low_price": 30250.0,
+        "close_price": 31110.0,
+        "volume": 4692763.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260615,
+        "open_price": 31180.0,
+        "high_price": 31180.0,
+        "low_price": 31180.0,
+        "close_price": 31180.0,
+        "volume": 318828.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260614,
+        "open_price": 30280.0,
+        "high_price": 30280.0,
+        "low_price": 30280.0,
+        "close_price": 30280.0,
+        "volume": 210109.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260613,
+        "open_price": 29400.0,
+        "high_price": 29400.0,
+        "low_price": 29400.0,
+        "close_price": 29400.0,
+        "volume": 279951.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260610,
+        "open_price": 28600.0,
+        "high_price": 28620.0,
+        "low_price": 28000.0,
+        "close_price": 28550.0,
+        "volume": 2290875.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260609,
+        "open_price": 27790.0,
+        "high_price": 27790.0,
+        "low_price": 27470.0,
+        "close_price": 27790.0,
+        "volume": 2119827.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260608,
+        "open_price": 26990.0,
+        "high_price": 26990.0,
+        "low_price": 26990.0,
+        "close_price": 26990.0,
+        "volume": 372396.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260607,
+        "open_price": 27820.0,
+        "high_price": 27820.0,
+        "low_price": 27650.0,
+        "close_price": 27820.0,
+        "volume": 1653070.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260606,
+        "open_price": 27180.0,
+        "high_price": 27190.0,
+        "low_price": 25800.0,
+        "close_price": 27010.0,
+        "volume": 2589679.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260603,
+        "open_price": 27090.0,
+        "high_price": 27090.0,
+        "low_price": 25850.0,
+        "close_price": 26400.0,
+        "volume": 1815973.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260602,
+        "open_price": 26320.0,
+        "high_price": 26970.0,
+        "low_price": 26060.0,
+        "close_price": 26310.0,
+        "volume": 2517817.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260601,
+        "open_price": 27930.0,
+        "high_price": 27940.0,
+        "low_price": 26320.0,
+        "close_price": 26860.0,
+        "volume": 3148974.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260531,
+        "open_price": 27130.0,
+        "high_price": 27130.0,
+        "low_price": 27120.0,
+        "close_price": 27130.0,
+        "volume": 1660795.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260530,
+        "open_price": 26200.0,
+        "high_price": 26390.0,
+        "low_price": 25900.0,
+        "close_price": 26340.0,
+        "volume": 1681410.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260526,
+        "open_price": 25570.0,
+        "high_price": 26000.0,
+        "low_price": 25570.0,
+        "close_price": 25630.0,
+        "volume": 4823809.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260525,
+        "open_price": 26830.0,
+        "high_price": 26830.0,
+        "low_price": 25270.0,
+        "close_price": 26360.0,
+        "volume": 8139878.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260524,
+        "open_price": 26050.0,
+        "high_price": 26050.0,
+        "low_price": 26050.0,
+        "close_price": 26050.0,
+        "volume": 112785.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260523,
+        "open_price": 24990.0,
+        "high_price": 25730.0,
+        "low_price": 24990.0,
+        "close_price": 25300.0,
+        "volume": 13034823.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260520,
+        "open_price": 20620.0,
+        "high_price": 20620.0,
+        "low_price": 20620.0,
+        "close_price": 20620.0,
+        "volume": 12170.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260519,
+        "open_price": 19110.0,
+        "high_price": 20290.0,
+        "low_price": 19110.0,
+        "close_price": 20020.0,
+        "volume": 3503253.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260225,
+        "open_price": 19450.0,
+        "high_price": 20440.0,
+        "low_price": 19450.0,
+        "close_price": 19700.0,
+        "volume": 75139.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260224,
+        "open_price": 19610.0,
+        "high_price": 20640.0,
+        "low_price": 19510.0,
+        "close_price": 19900.0,
+        "volume": 230039.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260223,
+        "open_price": 20400.0,
+        "high_price": 20690.0,
+        "low_price": 19520.0,
+        "close_price": 20110.0,
+        "volume": 221096.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260222,
+        "open_price": 19420.0,
+        "high_price": 20440.0,
+        "low_price": 19420.0,
+        "close_price": 20090.0,
+        "volume": 21167.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260221,
+        "open_price": 20560.0,
+        "high_price": 20560.0,
+        "low_price": 20000.0,
+        "close_price": 20020.0,
+        "volume": 193918.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260218,
+        "open_price": 20810.0,
+        "high_price": 21580.0,
+        "low_price": 20550.0,
+        "close_price": 20610.0,
+        "volume": 182294.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260217,
+        "open_price": 21030.0,
+        "high_price": 21220.0,
+        "low_price": 20300.0,
+        "close_price": 21180.0,
+        "volume": 326610.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260216,
+        "open_price": 21000.0,
+        "high_price": 21000.0,
+        "low_price": 19830.0,
+        "close_price": 20610.0,
+        "volume": 72249.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260215,
+        "open_price": 20390.0,
+        "high_price": 20390.0,
+        "low_price": 20390.0,
+        "close_price": 20390.0,
+        "volume": 155802.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260214,
+        "open_price": 21790.0,
+        "high_price": 21800.0,
+        "low_price": 20930.0,
+        "close_price": 21020.0,
+        "volume": 309554.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260210,
+        "open_price": 22550.0,
+        "high_price": 22550.0,
+        "low_price": 21300.0,
+        "close_price": 21570.0,
+        "volume": 143692.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260209,
+        "open_price": 23200.0,
+        "high_price": 23200.0,
+        "low_price": 21890.0,
+        "close_price": 21920.0,
+        "volume": 197278.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260208,
+        "open_price": 23300.0,
+        "high_price": 23300.0,
+        "low_price": 22430.0,
+        "close_price": 22560.0,
+        "volume": 209410.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260207,
+        "open_price": 22990.0,
+        "high_price": 23200.0,
+        "low_price": 22810.0,
+        "close_price": 23120.0,
+        "volume": 392915.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260203,
+        "open_price": 23860.0,
+        "high_price": 23860.0,
+        "low_price": 22500.0,
+        "close_price": 22530.0,
+        "volume": 782008.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260202,
+        "open_price": 23240.0,
+        "high_price": 23240.0,
+        "low_price": 22740.0,
+        "close_price": 23190.0,
+        "volume": 443076.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260201,
+        "open_price": 22470.0,
+        "high_price": 23850.0,
+        "low_price": 22470.0,
+        "close_price": 22570.0,
+        "volume": 738881.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260131,
+        "open_price": 23100.0,
+        "high_price": 23550.0,
+        "low_price": 23000.0,
+        "close_price": 23160.0,
+        "volume": 582435.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260128,
+        "open_price": 23710.0,
+        "high_price": 23770.0,
+        "low_price": 23710.0,
+        "close_price": 23710.0,
+        "volume": 1434054.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260127,
+        "open_price": 25000.0,
+        "high_price": 25000.0,
+        "low_price": 24250.0,
+        "close_price": 24440.0,
+        "volume": 366885.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260126,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24830.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260125,
+        "open_price": 24830.0,
+        "high_price": 24830.0,
+        "low_price": 24830.0,
+        "close_price": 24830.0,
+        "volume": 862495.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260124,
+        "open_price": 27050.0,
+        "high_price": 27050.0,
+        "low_price": 25500.0,
+        "close_price": 25590.0,
+        "volume": 1028292.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260121,
+        "open_price": 26290.0,
+        "high_price": 26320.0,
+        "low_price": 25800.0,
+        "close_price": 26280.0,
+        "volume": 1597797.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260120,
+        "open_price": 25620.0,
+        "high_price": 25620.0,
+        "low_price": 25400.0,
+        "close_price": 25560.0,
+        "volume": 621337.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260119,
+        "open_price": 24940.0,
+        "high_price": 24950.0,
+        "low_price": 24350.0,
+        "close_price": 24880.0,
+        "volume": 945668.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260118,
+        "open_price": 24310.0,
+        "high_price": 24310.0,
+        "low_price": 23110.0,
+        "close_price": 24230.0,
+        "volume": 1036087.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260114,
+        "open_price": 23430.0,
+        "high_price": 24090.0,
+        "low_price": 23390.0,
+        "close_price": 23610.0,
+        "volume": 2691622.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260113,
+        "open_price": 23940.0,
+        "high_price": 24990.0,
+        "low_price": 23930.0,
+        "close_price": 24110.0,
+        "volume": 1229194.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260112,
+        "open_price": 24720.0,
+        "high_price": 25110.0,
+        "low_price": 24410.0,
+        "close_price": 24670.0,
+        "volume": 604306.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260111,
+        "open_price": 23800.0,
+        "high_price": 24700.0,
+        "low_price": 23800.0,
+        "close_price": 24380.0,
+        "volume": 381307.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260110,
+        "open_price": 24520.0,
+        "high_price": 24750.0,
+        "low_price": 24520.0,
+        "close_price": 24530.0,
+        "volume": 375959.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260107,
+        "open_price": 25650.0,
+        "high_price": 25650.0,
+        "low_price": 24920.0,
+        "close_price": 25270.0,
+        "volume": 563593.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260106,
+        "open_price": 24610.0,
+        "high_price": 24910.0,
+        "low_price": 24610.0,
+        "close_price": 24910.0,
+        "volume": 959969.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260105,
+        "open_price": 23820.0,
+        "high_price": 24320.0,
+        "low_price": 23820.0,
+        "close_price": 24190.0,
+        "volume": 512433.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20260104,
+        "open_price": 24610.0,
+        "high_price": 24610.0,
+        "low_price": 23190.0,
+        "close_price": 23620.0,
+        "volume": 887954.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251231,
+        "open_price": 23840.0,
+        "high_price": 24570.0,
+        "low_price": 23840.0,
+        "close_price": 23900.0,
+        "volume": 636655.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251230,
+        "open_price": 24570.0,
+        "high_price": 24570.0,
+        "low_price": 24570.0,
+        "close_price": 24570.0,
+        "volume": 226027.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251229,
+        "open_price": 25610.0,
+        "high_price": 25800.0,
+        "low_price": 24580.0,
+        "close_price": 25320.0,
+        "volume": 1988483.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251228,
+        "open_price": 25840.0,
+        "high_price": 25840.0,
+        "low_price": 24720.0,
+        "close_price": 25330.0,
+        "volume": 672216.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251227,
+        "open_price": 24780.0,
+        "high_price": 25100.0,
+        "low_price": 24640.0,
+        "close_price": 25090.0,
+        "volume": 1494631.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251224,
+        "open_price": 23860.0,
+        "high_price": 24480.0,
+        "low_price": 23860.0,
+        "close_price": 24370.0,
+        "volume": 1032161.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251223,
+        "open_price": 23740.0,
+        "high_price": 24100.0,
+        "low_price": 23460.0,
+        "close_price": 23770.0,
+        "volume": 240065.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251222,
+        "open_price": 23420.0,
+        "high_price": 24300.0,
+        "low_price": 23310.0,
+        "close_price": 23500.0,
+        "volume": 1422056.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251221,
+        "open_price": 24180.0,
+        "high_price": 24550.0,
+        "low_price": 23660.0,
+        "close_price": 24030.0,
+        "volume": 213435.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251220,
+        "open_price": 23620.0,
+        "high_price": 24130.0,
+        "low_price": 23220.0,
+        "close_price": 24060.0,
+        "volume": 1326805.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251217,
+        "open_price": 23010.0,
+        "high_price": 24050.0,
+        "low_price": 22790.0,
+        "close_price": 23430.0,
+        "volume": 979865.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251216,
+        "open_price": 23570.0,
+        "high_price": 23580.0,
+        "low_price": 22900.0,
+        "close_price": 23490.0,
+        "volume": 855488.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251215,
+        "open_price": 22030.0,
+        "high_price": 23150.0,
+        "low_price": 22030.0,
+        "close_price": 22900.0,
+        "volume": 508080.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251214,
+        "open_price": 22300.0,
+        "high_price": 22730.0,
+        "low_price": 22090.0,
+        "close_price": 22480.0,
+        "volume": 447213.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251213,
+        "open_price": 22050.0,
+        "high_price": 22070.0,
+        "low_price": 22050.0,
+        "close_price": 22070.0,
+        "volume": 1076785.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251210,
+        "open_price": 21440.0,
+        "high_price": 21520.0,
+        "low_price": 21150.0,
+        "close_price": 21430.0,
+        "volume": 669215.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251209,
+        "open_price": 20340.0,
+        "high_price": 21350.0,
+        "low_price": 20310.0,
+        "close_price": 20900.0,
+        "volume": 338445.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251208,
+        "open_price": 20290.0,
+        "high_price": 20980.0,
+        "low_price": 20270.0,
+        "close_price": 20840.0,
+        "volume": 186664.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251207,
+        "open_price": 21330.0,
+        "high_price": 21370.0,
+        "low_price": 20150.0,
+        "close_price": 20890.0,
+        "volume": 392630.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251206,
+        "open_price": 20560.0,
+        "high_price": 20760.0,
+        "low_price": 20400.0,
+        "close_price": 20750.0,
+        "volume": 1204139.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251203,
+        "open_price": 20600.0,
+        "high_price": 20650.0,
+        "low_price": 19700.0,
+        "close_price": 20160.0,
+        "volume": 704235.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251202,
+        "open_price": 19860.0,
+        "high_price": 20230.0,
+        "low_price": 19860.0,
+        "close_price": 20110.0,
+        "volume": 2346666.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251201,
+        "open_price": 19500.0,
+        "high_price": 19700.0,
+        "low_price": 19500.0,
+        "close_price": 19650.0,
+        "volume": 707914.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251130,
+        "open_price": 19550.0,
+        "high_price": 19550.0,
+        "low_price": 19080.0,
+        "close_price": 19130.0,
+        "volume": 964857.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251129,
+        "open_price": 20190.0,
+        "high_price": 20190.0,
+        "low_price": 19380.0,
+        "close_price": 19670.0,
+        "volume": 286021.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251126,
+        "open_price": 20200.0,
+        "high_price": 20200.0,
+        "low_price": 19460.0,
+        "close_price": 19780.0,
+        "volume": 241090.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251125,
+        "open_price": 20200.0,
+        "high_price": 20200.0,
+        "low_price": 19200.0,
+        "close_price": 19760.0,
+        "volume": 202972.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251123,
+        "open_price": 19720.0,
+        "high_price": 20000.0,
+        "low_price": 19720.0,
+        "close_price": 19720.0,
+        "volume": 59352.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251122,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19720.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251119,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19720.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251118,
+        "open_price": 19870.0,
+        "high_price": 20000.0,
+        "low_price": 19280.0,
+        "close_price": 19720.0,
+        "volume": 277458.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251117,
+        "open_price": 19630.0,
+        "high_price": 20210.0,
+        "low_price": 19630.0,
+        "close_price": 19870.0,
+        "volume": 422918.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251116,
+        "open_price": 19670.0,
+        "high_price": 19670.0,
+        "low_price": 19100.0,
+        "close_price": 19630.0,
+        "volume": 763166.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251115,
+        "open_price": 19720.0,
+        "high_price": 19720.0,
+        "low_price": 18830.0,
+        "close_price": 19100.0,
+        "volume": 471415.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251112,
+        "open_price": 20290.0,
+        "high_price": 20290.0,
+        "low_price": 19370.0,
+        "close_price": 19410.0,
+        "volume": 1188337.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251111,
+        "open_price": 20150.0,
+        "high_price": 20150.0,
+        "low_price": 19780.0,
+        "close_price": 19960.0,
+        "volume": 540882.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251110,
+        "open_price": 20340.0,
+        "high_price": 20900.0,
+        "low_price": 20340.0,
+        "close_price": 20390.0,
+        "volume": 722832.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251109,
+        "open_price": 21130.0,
+        "high_price": 21130.0,
+        "low_price": 20540.0,
+        "close_price": 20960.0,
+        "volume": 243665.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251108,
+        "open_price": 21190.0,
+        "high_price": 21190.0,
+        "low_price": 20590.0,
+        "close_price": 21170.0,
+        "volume": 1339118.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251105,
+        "open_price": 20060.0,
+        "high_price": 21100.0,
+        "low_price": 20060.0,
+        "close_price": 20580.0,
+        "volume": 562118.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251104,
+        "open_price": 20750.0,
+        "high_price": 20750.0,
+        "low_price": 20510.0,
+        "close_price": 20660.0,
+        "volume": 672665.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251103,
+        "open_price": 19770.0,
+        "high_price": 20190.0,
+        "low_price": 19770.0,
+        "close_price": 20150.0,
+        "volume": 942164.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251102,
+        "open_price": 19710.0,
+        "high_price": 19720.0,
+        "low_price": 19130.0,
+        "close_price": 19610.0,
+        "volume": 186717.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251101,
+        "open_price": 19650.0,
+        "high_price": 20100.0,
+        "low_price": 19110.0,
+        "close_price": 19630.0,
+        "volume": 295034.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251029,
+        "open_price": 19720.0,
+        "high_price": 20000.0,
+        "low_price": 19280.0,
+        "close_price": 19700.0,
+        "volume": 506858.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251028,
+        "open_price": 19710.0,
+        "high_price": 20300.0,
+        "low_price": 19700.0,
+        "close_price": 19860.0,
+        "volume": 501476.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251027,
+        "open_price": 20200.0,
+        "high_price": 20210.0,
+        "low_price": 19810.0,
+        "close_price": 19840.0,
+        "volume": 400764.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251026,
+        "open_price": 19800.0,
+        "high_price": 19800.0,
+        "low_price": 19660.0,
+        "close_price": 19630.0,
+        "volume": 555239.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251025,
+        "open_price": 19000.0,
+        "high_price": 19390.0,
+        "low_price": 18490.0,
+        "close_price": 19230.0,
+        "volume": 1114314.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251022,
+        "open_price": 18730.0,
+        "high_price": 19140.0,
+        "low_price": 18480.0,
+        "close_price": 18830.0,
+        "volume": 291238.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251021,
+        "open_price": 19180.0,
+        "high_price": 19180.0,
+        "low_price": 18510.0,
+        "close_price": 18880.0,
+        "volume": 321091.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251020,
+        "open_price": 19080.0,
+        "high_price": 19560.0,
+        "low_price": 18700.0,
+        "close_price": 19050.0,
+        "volume": 531007.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251019,
+        "open_price": 19010.0,
+        "high_price": 19530.0,
+        "low_price": 19000.0,
+        "close_price": 19190.0,
+        "volume": 251847.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251018,
+        "open_price": 19260.0,
+        "high_price": 19540.0,
+        "low_price": 19020.0,
+        "close_price": 19230.0,
+        "volume": 443204.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251015,
+        "open_price": 18560.0,
+        "high_price": 19100.0,
+        "low_price": 18480.0,
+        "close_price": 18980.0,
+        "volume": 261872.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251014,
+        "open_price": 19600.0,
+        "high_price": 19600.0,
+        "low_price": 18600.0,
+        "close_price": 19050.0,
+        "volume": 536895.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251013,
+        "open_price": 19270.0,
+        "high_price": 19280.0,
+        "low_price": 19030.0,
+        "close_price": 19170.0,
+        "volume": 760023.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251012,
+        "open_price": 18860.0,
+        "high_price": 18860.0,
+        "low_price": 18600.0,
+        "close_price": 18720.0,
+        "volume": 608774.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251011,
+        "open_price": 18700.0,
+        "high_price": 18710.0,
+        "low_price": 18320.0,
+        "close_price": 18320.0,
+        "volume": 248354.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251008,
+        "open_price": 18400.0,
+        "high_price": 18570.0,
+        "low_price": 18000.0,
+        "close_price": 18170.0,
+        "volume": 351465.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251007,
+        "open_price": 18130.0,
+        "high_price": 18800.0,
+        "low_price": 17770.0,
+        "close_price": 18030.0,
+        "volume": 750472.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251006,
+        "open_price": 18340.0,
+        "high_price": 18720.0,
+        "low_price": 18140.0,
+        "close_price": 18310.0,
+        "volume": 256964.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251005,
+        "open_price": 18290.0,
+        "high_price": 18290.0,
+        "low_price": 17860.0,
+        "close_price": 18180.0,
+        "volume": 689131.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251004,
+        "open_price": 17590.0,
+        "high_price": 17990.0,
+        "low_price": 17590.0,
+        "close_price": 17760.0,
+        "volume": 511251.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20251001,
+        "open_price": 17950.0,
+        "high_price": 17950.0,
+        "low_price": 17130.0,
+        "close_price": 17470.0,
+        "volume": 326000.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250930,
+        "open_price": 17780.0,
+        "high_price": 18150.0,
+        "low_price": 17430.0,
+        "close_price": 17650.0,
+        "volume": 567773.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250929,
+        "open_price": 17850.0,
+        "high_price": 18000.0,
+        "low_price": 17750.0,
+        "close_price": 17960.0,
+        "volume": 882658.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250928,
+        "open_price": 17750.0,
+        "high_price": 17750.0,
+        "low_price": 17750.0,
+        "close_price": 17480.0,
+        "volume": 407507.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250927,
+        "open_price": 17500.0,
+        "high_price": 17550.0,
+        "low_price": 17500.0,
+        "close_price": 17240.0,
+        "volume": 353153.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250924,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 17040.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250923,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 17040.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250922,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 17040.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250921,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 17040.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250920,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 17040.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250917,
+        "open_price": 16610.0,
+        "high_price": 17090.0,
+        "low_price": 16610.0,
+        "close_price": 17040.0,
+        "volume": 94510.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250916,
+        "open_price": 16670.0,
+        "high_price": 17150.0,
+        "low_price": 16610.0,
+        "close_price": 17060.0,
+        "volume": 132902.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250915,
+        "open_price": 17200.0,
+        "high_price": 17520.0,
+        "low_price": 16720.0,
+        "close_price": 17110.0,
+        "volume": 335104.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250914,
+        "open_price": 17190.0,
+        "high_price": 17630.0,
+        "low_price": 17040.0,
+        "close_price": 17230.0,
+        "volume": 344933.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250913,
+        "open_price": 17680.0,
+        "high_price": 17740.0,
+        "low_price": 16810.0,
+        "close_price": 17190.0,
+        "volume": 241850.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250909,
+        "open_price": 17360.0,
+        "high_price": 17650.0,
+        "low_price": 17000.0,
+        "close_price": 17320.0,
+        "volume": 378591.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250908,
+        "open_price": 17750.0,
+        "high_price": 17750.0,
+        "low_price": 17400.0,
+        "close_price": 17520.0,
+        "volume": 325411.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250907,
+        "open_price": 17400.0,
+        "high_price": 18080.0,
+        "low_price": 17330.0,
+        "close_price": 17500.0,
+        "volume": 656997.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250906,
+        "open_price": 18360.0,
+        "high_price": 18360.0,
+        "low_price": 17400.0,
+        "close_price": 17860.0,
+        "volume": 203811.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250903,
+        "open_price": 18080.0,
+        "high_price": 18080.0,
+        "low_price": 17830.0,
+        "close_price": 17850.0,
+        "volume": 610297.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250902,
+        "open_price": 17650.0,
+        "high_price": 17650.0,
+        "low_price": 17450.0,
+        "close_price": 17580.0,
+        "volume": 812607.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250831,
+        "open_price": 16250.0,
+        "high_price": 17240.0,
+        "low_price": 16250.0,
+        "close_price": 17140.0,
+        "volume": 1018178.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250830,
+        "open_price": 16460.0,
+        "high_price": 16500.0,
+        "low_price": 16460.0,
+        "close_price": 16740.0,
+        "volume": 383803.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250827,
+        "open_price": 16490.0,
+        "high_price": 16890.0,
+        "low_price": 16490.0,
+        "close_price": 16960.0,
+        "volume": 88549.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250826,
+        "open_price": 16890.0,
+        "high_price": 16890.0,
+        "low_price": 16770.0,
+        "close_price": 17000.0,
+        "volume": 484520.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250825,
+        "open_price": 16960.0,
+        "high_price": 17000.0,
+        "low_price": 16890.0,
+        "close_price": 17280.0,
+        "volume": 210789.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250823,
+        "open_price": 16950.0,
+        "high_price": 17350.0,
+        "low_price": 16940.0,
+        "close_price": 17410.0,
+        "volume": 61463.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250820,
+        "open_price": 16990.0,
+        "high_price": 17390.0,
+        "low_price": 16990.0,
+        "close_price": 17440.0,
+        "volume": 116947.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250819,
+        "open_price": 17530.0,
+        "high_price": 17660.0,
+        "low_price": 17400.0,
+        "close_price": 17500.0,
+        "volume": 661611.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250818,
+        "open_price": 18180.0,
+        "high_price": 18300.0,
+        "low_price": 17540.0,
+        "close_price": 17930.0,
+        "volume": 481394.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250817,
+        "open_price": 17810.0,
+        "high_price": 18400.0,
+        "low_price": 17810.0,
+        "close_price": 17920.0,
+        "volume": 2423883.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250816,
+        "open_price": 18010.0,
+        "high_price": 18010.0,
+        "low_price": 18010.0,
+        "close_price": 18360.0,
+        "volume": 293417.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250813,
+        "open_price": 18100.0,
+        "high_price": 18100.0,
+        "low_price": 18100.0,
+        "close_price": 18560.0,
+        "volume": 124952.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250812,
+        "open_price": 18700.0,
+        "high_price": 18700.0,
+        "low_price": 18190.0,
+        "close_price": 18650.0,
+        "volume": 140548.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250811,
+        "open_price": 18380.0,
+        "high_price": 18380.0,
+        "low_price": 18370.0,
+        "close_price": 18750.0,
+        "volume": 240361.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250810,
+        "open_price": 18790.0,
+        "high_price": 19340.0,
+        "low_price": 18790.0,
+        "close_price": 18930.0,
+        "volume": 575858.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250809,
+        "open_price": 19350.0,
+        "high_price": 19740.0,
+        "low_price": 19350.0,
+        "close_price": 19370.0,
+        "volume": 1095390.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250806,
+        "open_price": 19450.0,
+        "high_price": 19450.0,
+        "low_price": 19450.0,
+        "close_price": 19940.0,
+        "volume": 135532.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250805,
+        "open_price": 20700.0,
+        "high_price": 20700.0,
+        "low_price": 19740.0,
+        "close_price": 20050.0,
+        "volume": 371350.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250804,
+        "open_price": 20620.0,
+        "high_price": 20620.0,
+        "low_price": 19870.0,
+        "close_price": 20350.0,
+        "volume": 103963.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250803,
+        "open_price": 20030.0,
+        "high_price": 20880.0,
+        "low_price": 20010.0,
+        "close_price": 20420.0,
+        "volume": 251233.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250802,
+        "open_price": 20550.0,
+        "high_price": 20550.0,
+        "low_price": 20190.0,
+        "close_price": 20620.0,
+        "volume": 229606.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250730,
+        "open_price": 20430.0,
+        "high_price": 20550.0,
+        "low_price": 20420.0,
+        "close_price": 20810.0,
+        "volume": 267577.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250729,
+        "open_price": 20570.0,
+        "high_price": 20570.0,
+        "low_price": 20560.0,
+        "close_price": 21050.0,
+        "volume": 149220.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250728,
+        "open_price": 20810.0,
+        "high_price": 20990.0,
+        "low_price": 20780.0,
+        "close_price": 21190.0,
+        "volume": 242936.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250727,
+        "open_price": 21660.0,
+        "high_price": 22030.0,
+        "low_price": 21380.0,
+        "close_price": 21420.0,
+        "volume": 657351.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250726,
+        "open_price": 21680.0,
+        "high_price": 22270.0,
+        "low_price": 21680.0,
+        "close_price": 22040.0,
+        "volume": 556940.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250723,
+        "open_price": 22160.0,
+        "high_price": 22410.0,
+        "low_price": 21730.0,
+        "close_price": 22170.0,
+        "volume": 392393.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250722,
+        "open_price": 22250.0,
+        "high_price": 22950.0,
+        "low_price": 22170.0,
+        "close_price": 22400.0,
+        "volume": 368915.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250721,
+        "open_price": 22360.0,
+        "high_price": 22860.0,
+        "low_price": 22200.0,
+        "close_price": 22320.0,
+        "volume": 1010402.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250720,
+        "open_price": 23340.0,
+        "high_price": 23340.0,
+        "low_price": 22510.0,
+        "close_price": 22880.0,
+        "volume": 176824.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250719,
+        "open_price": 23150.0,
+        "high_price": 23200.0,
+        "low_price": 22610.0,
+        "close_price": 22920.0,
+        "volume": 362324.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250716,
+        "open_price": 23120.0,
+        "high_price": 23310.0,
+        "low_price": 22780.0,
+        "close_price": 23000.0,
+        "volume": 748819.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250715,
+        "open_price": 23000.0,
+        "high_price": 23080.0,
+        "low_price": 22400.0,
+        "close_price": 22950.0,
+        "volume": 423474.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250714,
+        "open_price": 23200.0,
+        "high_price": 23590.0,
+        "low_price": 22660.0,
+        "close_price": 23020.0,
+        "volume": 369824.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250713,
+        "open_price": 23960.0,
+        "high_price": 23960.0,
+        "low_price": 22590.0,
+        "close_price": 22960.0,
+        "volume": 445115.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250712,
+        "open_price": 23980.0,
+        "high_price": 23980.0,
+        "low_price": 22780.0,
+        "close_price": 23280.0,
+        "volume": 214585.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250709,
+        "open_price": 23080.0,
+        "high_price": 23190.0,
+        "low_price": 23060.0,
+        "close_price": 23290.0,
+        "volume": 433201.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250708,
+        "open_price": 24500.0,
+        "high_price": 24860.0,
+        "low_price": 23440.0,
+        "close_price": 23770.0,
+        "volume": 420394.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250707,
+        "open_price": 24310.0,
+        "high_price": 24310.0,
+        "low_price": 23460.0,
+        "close_price": 24160.0,
+        "volume": 1005763.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250702,
+        "open_price": 23050.0,
+        "high_price": 24470.0,
+        "low_price": 23050.0,
+        "close_price": 23610.0,
+        "volume": 2739440.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250701,
+        "open_price": 23240.0,
+        "high_price": 23240.0,
+        "low_price": 23240.0,
+        "close_price": 23760.0,
+        "volume": 151570.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250630,
+        "open_price": 23950.0,
+        "high_price": 24000.0,
+        "low_price": 23950.0,
+        "close_price": 23950.0,
+        "volume": 3043039.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250629,
+        "open_price": 24630.0,
+        "high_price": 24630.0,
+        "low_price": 24630.0,
+        "close_price": 24690.0,
+        "volume": 533171.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250628,
+        "open_price": 25120.0,
+        "high_price": 25120.0,
+        "low_price": 25120.0,
+        "close_price": 25390.0,
+        "volume": 375418.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 25890.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 25890.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 25890.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 25890.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 25890.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 25890.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 25890.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 25890.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250611,
+        "open_price": 26480.0,
+        "high_price": 26480.0,
+        "low_price": 25240.0,
+        "close_price": 25890.0,
+        "volume": 586446.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250610,
+        "open_price": 26400.0,
+        "high_price": 26400.0,
+        "low_price": 26000.0,
+        "close_price": 26020.0,
+        "volume": 385353.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250609,
+        "open_price": 26320.0,
+        "high_price": 26320.0,
+        "low_price": 25580.0,
+        "close_price": 25710.0,
+        "volume": 371363.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250608,
+        "open_price": 25650.0,
+        "high_price": 26380.0,
+        "low_price": 25600.0,
+        "close_price": 25660.0,
+        "volume": 1075091.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250607,
+        "open_price": 26510.0,
+        "high_price": 26510.0,
+        "low_price": 26200.0,
+        "close_price": 26390.0,
+        "volume": 432550.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250603,
+        "open_price": 27220.0,
+        "high_price": 27970.0,
+        "low_price": 26910.0,
+        "close_price": 27010.0,
+        "volume": 789296.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250602,
+        "open_price": 27050.0,
+        "high_price": 28190.0,
+        "low_price": 27050.0,
+        "close_price": 27740.0,
+        "volume": 272101.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250601,
+        "open_price": 29110.0,
+        "high_price": 29110.0,
+        "low_price": 27710.0,
+        "close_price": 27870.0,
+        "volume": 609811.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250531,
+        "open_price": 27740.0,
+        "high_price": 28570.0,
+        "low_price": 27740.0,
+        "close_price": 28560.0,
+        "volume": 644451.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250528,
+        "open_price": 27820.0,
+        "high_price": 27820.0,
+        "low_price": 27820.0,
+        "close_price": 27740.0,
+        "volume": 501023.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250527,
+        "open_price": 27050.0,
+        "high_price": 27080.0,
+        "low_price": 26720.0,
+        "close_price": 27010.0,
+        "volume": 633418.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250526,
+        "open_price": 26110.0,
+        "high_price": 26990.0,
+        "low_price": 25710.0,
+        "close_price": 26300.0,
+        "volume": 480520.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250525,
+        "open_price": 27100.0,
+        "high_price": 27200.0,
+        "low_price": 26410.0,
+        "close_price": 26490.0,
+        "volume": 533556.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250524,
+        "open_price": 27800.0,
+        "high_price": 27980.0,
+        "low_price": 26990.0,
+        "close_price": 27220.0,
+        "volume": 329701.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250521,
+        "open_price": 27050.0,
+        "high_price": 27400.0,
+        "low_price": 27050.0,
+        "close_price": 27230.0,
+        "volume": 443196.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250520,
+        "open_price": 28160.0,
+        "high_price": 28790.0,
+        "low_price": 27810.0,
+        "close_price": 27880.0,
+        "volume": 762480.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250519,
+        "open_price": 29890.0,
+        "high_price": 29890.0,
+        "low_price": 28520.0,
+        "close_price": 28660.0,
+        "volume": 1364429.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250518,
+        "open_price": 29400.0,
+        "high_price": 30000.0,
+        "low_price": 29140.0,
+        "close_price": 29400.0,
+        "volume": 232713.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250517,
+        "open_price": 29840.0,
+        "high_price": 30100.0,
+        "low_price": 28840.0,
+        "close_price": 29300.0,
+        "volume": 1161774.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250514,
+        "open_price": 29100.0,
+        "high_price": 29960.0,
+        "low_price": 28880.0,
+        "close_price": 29380.0,
+        "volume": 429485.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250513,
+        "open_price": 29990.0,
+        "high_price": 30400.0,
+        "low_price": 28900.0,
+        "close_price": 29770.0,
+        "volume": 368173.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250512,
+        "open_price": 29740.0,
+        "high_price": 29740.0,
+        "low_price": 29390.0,
+        "close_price": 29730.0,
+        "volume": 1022122.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250511,
+        "open_price": 28860.0,
+        "high_price": 29650.0,
+        "low_price": 28860.0,
+        "close_price": 28880.0,
+        "volume": 551590.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250510,
+        "open_price": 29700.0,
+        "high_price": 30450.0,
+        "low_price": 29680.0,
+        "close_price": 29750.0,
+        "volume": 610512.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250507,
+        "open_price": 31590.0,
+        "high_price": 31980.0,
+        "low_price": 30150.0,
+        "close_price": 30590.0,
+        "volume": 633718.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250506,
+        "open_price": 30670.0,
+        "high_price": 31090.0,
+        "low_price": 30650.0,
+        "close_price": 31080.0,
+        "volume": 1056285.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250505,
+        "open_price": 29440.0,
+        "high_price": 30430.0,
+        "low_price": 29160.0,
+        "close_price": 30190.0,
+        "volume": 1069123.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250504,
+        "open_price": 29010.0,
+        "high_price": 30200.0,
+        "low_price": 28910.0,
+        "close_price": 29550.0,
+        "volume": 579978.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250503,
+        "open_price": 29750.0,
+        "high_price": 30280.0,
+        "low_price": 29750.0,
+        "close_price": 29780.0,
+        "volume": 835278.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250430,
+        "open_price": 30580.0,
+        "high_price": 30680.0,
+        "low_price": 30500.0,
+        "close_price": 30670.0,
+        "volume": 728537.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250429,
+        "open_price": 30030.0,
+        "high_price": 30030.0,
+        "low_price": 29230.0,
+        "close_price": 29790.0,
+        "volume": 1063915.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250428,
+        "open_price": 29290.0,
+        "high_price": 29310.0,
+        "low_price": 28900.0,
+        "close_price": 29160.0,
+        "volume": 883152.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250427,
+        "open_price": 28470.0,
+        "high_price": 28470.0,
+        "low_price": 27560.0,
+        "close_price": 28460.0,
+        "volume": 1076200.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250426,
+        "open_price": 27810.0,
+        "high_price": 27810.0,
+        "low_price": 27810.0,
+        "close_price": 27650.0,
+        "volume": 446195.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250423,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27170.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27170.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27170.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27170.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250416,
+        "open_price": 27770.0,
+        "high_price": 27790.0,
+        "low_price": 26710.0,
+        "close_price": 27170.0,
+        "volume": 830197.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250415,
+        "open_price": 28000.0,
+        "high_price": 28000.0,
+        "low_price": 26660.0,
+        "close_price": 27310.0,
+        "volume": 677583.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250414,
+        "open_price": 27760.0,
+        "high_price": 27760.0,
+        "low_price": 27190.0,
+        "close_price": 27480.0,
+        "volume": 555945.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250413,
+        "open_price": 26950.0,
+        "high_price": 26960.0,
+        "low_price": 26850.0,
+        "close_price": 26960.0,
+        "volume": 1717257.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250412,
+        "open_price": 25860.0,
+        "high_price": 26890.0,
+        "low_price": 25630.0,
+        "close_price": 26180.0,
+        "volume": 244103.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250409,
+        "open_price": 27090.0,
+        "high_price": 27090.0,
+        "low_price": 25980.0,
+        "close_price": 26420.0,
+        "volume": 247319.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250408,
+        "open_price": 27200.0,
+        "high_price": 27270.0,
+        "low_price": 25820.0,
+        "close_price": 26430.0,
+        "volume": 1525679.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250407,
+        "open_price": 27000.0,
+        "high_price": 27590.0,
+        "low_price": 26360.0,
+        "close_price": 26600.0,
+        "volume": 395290.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250406,
+        "open_price": 27870.0,
+        "high_price": 28500.0,
+        "low_price": 27030.0,
+        "close_price": 27170.0,
+        "volume": 760826.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250405,
+        "open_price": 27940.0,
+        "high_price": 28070.0,
+        "low_price": 27200.0,
+        "close_price": 27860.0,
+        "volume": 434217.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250330,
+        "open_price": 27850.0,
+        "high_price": 27860.0,
+        "low_price": 27400.0,
+        "close_price": 27260.0,
+        "volume": 150663.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250329,
+        "open_price": 27270.0,
+        "high_price": 27380.0,
+        "low_price": 27250.0,
+        "close_price": 27050.0,
+        "volume": 326209.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250326,
+        "open_price": 26760.0,
+        "high_price": 26850.0,
+        "low_price": 26760.0,
+        "close_price": 26590.0,
+        "volume": 389340.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250325,
+        "open_price": 26580.0,
+        "high_price": 26590.0,
+        "low_price": 26000.0,
+        "close_price": 26070.0,
+        "volume": 203368.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250318,
+        "open_price": 26020.0,
+        "high_price": 26150.0,
+        "low_price": 25680.0,
+        "close_price": 25820.0,
+        "volume": 834514.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250317,
+        "open_price": 26760.0,
+        "high_price": 27090.0,
+        "low_price": 26020.0,
+        "close_price": 26470.0,
+        "volume": 625856.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250316,
+        "open_price": 26780.0,
+        "high_price": 26790.0,
+        "low_price": 26400.0,
+        "close_price": 26780.0,
+        "volume": 763401.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250315,
+        "open_price": 26290.0,
+        "high_price": 26410.0,
+        "low_price": 26000.0,
+        "close_price": 26010.0,
+        "volume": 280547.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250312,
+        "open_price": 25670.0,
+        "high_price": 26160.0,
+        "low_price": 25350.0,
+        "close_price": 25650.0,
+        "volume": 287717.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250311,
+        "open_price": 25680.0,
+        "high_price": 25700.0,
+        "low_price": 25110.0,
+        "close_price": 25530.0,
+        "volume": 278358.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250310,
+        "open_price": 25530.0,
+        "high_price": 26840.0,
+        "low_price": 25530.0,
+        "close_price": 25880.0,
+        "volume": 494473.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250309,
+        "open_price": 25780.0,
+        "high_price": 25780.0,
+        "low_price": 25780.0,
+        "close_price": 26310.0,
+        "volume": 184653.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250308,
+        "open_price": 26800.0,
+        "high_price": 27880.0,
+        "low_price": 26540.0,
+        "close_price": 26570.0,
+        "volume": 592814.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250305,
+        "open_price": 27550.0,
+        "high_price": 27550.0,
+        "low_price": 27360.0,
+        "close_price": 27360.0,
+        "volume": 726514.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250304,
+        "open_price": 28390.0,
+        "high_price": 29170.0,
+        "low_price": 27680.0,
+        "close_price": 28200.0,
+        "volume": 207770.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250303,
+        "open_price": 27800.0,
+        "high_price": 28580.0,
+        "low_price": 27800.0,
+        "close_price": 28340.0,
+        "volume": 210799.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250302,
+        "open_price": 27520.0,
+        "high_price": 29120.0,
+        "low_price": 27480.0,
+        "close_price": 28650.0,
+        "volume": 735263.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250301,
+        "open_price": 28850.0,
+        "high_price": 28850.0,
+        "low_price": 27720.0,
+        "close_price": 28280.0,
+        "volume": 216115.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250226,
+        "open_price": 29040.0,
+        "high_price": 29040.0,
+        "low_price": 27760.0,
+        "close_price": 28570.0,
+        "volume": 647432.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250225,
+        "open_price": 28500.0,
+        "high_price": 28770.0,
+        "low_price": 28300.0,
+        "close_price": 28610.0,
+        "volume": 642188.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250224,
+        "open_price": 26920.0,
+        "high_price": 28100.0,
+        "low_price": 26920.0,
+        "close_price": 27940.0,
+        "volume": 497375.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250223,
+        "open_price": 26810.0,
+        "high_price": 27700.0,
+        "low_price": 26780.0,
+        "close_price": 27290.0,
+        "volume": 271588.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250222,
+        "open_price": 28130.0,
+        "high_price": 28130.0,
+        "low_price": 26960.0,
+        "close_price": 27250.0,
+        "volume": 469716.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250219,
+        "open_price": 27200.0,
+        "high_price": 28480.0,
+        "low_price": 27170.0,
+        "close_price": 27790.0,
+        "volume": 193103.0
+    },
+    {
+        "symbol": "زپارس",
+        "trade_date": 20250218,
+        "open_price": 28880.0,
+        "high_price": 28880.0,
+        "low_price": 27360.0,
+        "close_price": 27860.0,
+        "volume": 404468.0
+    }
+]

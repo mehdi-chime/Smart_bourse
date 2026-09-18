@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "شفن",
+        "trade_date": 20260901,
+        "open_price": 5760.0,
+        "high_price": 5940.0,
+        "low_price": 5600.0,
+        "close_price": 5730.0,
+        "volume": 44504741.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260831,
+        "open_price": 5760.0,
+        "high_price": 5870.0,
+        "low_price": 5760.0,
+        "close_price": 5770.0,
+        "volume": 41264455.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260829,
+        "open_price": 6080.0,
+        "high_price": 6080.0,
+        "low_price": 5770.0,
+        "close_price": 5930.0,
+        "volume": 48446520.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260826,
+        "open_price": 5890.0,
+        "high_price": 5970.0,
+        "low_price": 5780.0,
+        "close_price": 5920.0,
+        "volume": 77733972.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260825,
+        "open_price": 6020.0,
+        "high_price": 6030.0,
+        "low_price": 5690.0,
+        "close_price": 5800.0,
+        "volume": 79158580.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260824,
+        "open_price": 5830.0,
+        "high_price": 5860.0,
+        "low_price": 5710.0,
+        "close_price": 5860.0,
+        "volume": 63119905.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260823,
+        "open_price": 5700.0,
+        "high_price": 5720.0,
+        "low_price": 5630.0,
+        "close_price": 5690.0,
+        "volume": 63292072.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260822,
+        "open_price": 5590.0,
+        "high_price": 5660.0,
+        "low_price": 5410.0,
+        "close_price": 5560.0,
+        "volume": 140971911.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260819,
+        "open_price": 5320.0,
+        "high_price": 5610.0,
+        "low_price": 5290.0,
+        "close_price": 5500.0,
+        "volume": 71870809.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260818,
+        "open_price": 5450.0,
+        "high_price": 5450.0,
+        "low_price": 5300.0,
+        "close_price": 5450.0,
+        "volume": 42179664.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260817,
+        "open_price": 5300.0,
+        "high_price": 5300.0,
+        "low_price": 5300.0,
+        "close_price": 5300.0,
+        "volume": 12143912.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260816,
+        "open_price": 5150.0,
+        "high_price": 5150.0,
+        "low_price": 5140.0,
+        "close_price": 5150.0,
+        "volume": 91293201.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260815,
+        "open_price": 4900.0,
+        "high_price": 5040.0,
+        "low_price": 4890.0,
+        "close_price": 5000.0,
+        "volume": 35830186.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260811,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4830.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260810,
+        "open_price": 4830.0,
+        "high_price": 4830.0,
+        "low_price": 4830.0,
+        "close_price": 4830.0,
+        "volume": 22944034.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260809,
+        "open_price": 4690.0,
+        "high_price": 4690.0,
+        "low_price": 4590.0,
+        "close_price": 4690.0,
+        "volume": 75186969.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260808,
+        "open_price": 4560.0,
+        "high_price": 4560.0,
+        "low_price": 4560.0,
+        "close_price": 4560.0,
+        "volume": 9566193.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260805,
+        "open_price": 4430.0,
+        "high_price": 4430.0,
+        "low_price": 4430.0,
+        "close_price": 4430.0,
+        "volume": 28116413.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260803,
+        "open_price": 4310.0,
+        "high_price": 4310.0,
+        "low_price": 4260.0,
+        "close_price": 4310.0,
+        "volume": 30672833.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260802,
+        "open_price": 4210.0,
+        "high_price": 4210.0,
+        "low_price": 4110.0,
+        "close_price": 4190.0,
+        "volume": 40314920.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260801,
+        "open_price": 4050.0,
+        "high_price": 4170.0,
+        "low_price": 4010.0,
+        "close_price": 4090.0,
+        "volume": 63319270.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260729,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4010.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260728,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4010.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260727,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4010.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260726,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4010.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260725,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4490.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260722,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4490.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260721,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4490.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260720,
+        "open_price": 4470.0,
+        "high_price": 4640.0,
+        "low_price": 4470.0,
+        "close_price": 4490.0,
+        "volume": 95555675.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260719,
+        "open_price": 4600.0,
+        "high_price": 4600.0,
+        "low_price": 4600.0,
+        "close_price": 4600.0,
+        "volume": 117641830.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260718,
+        "open_price": 4740.0,
+        "high_price": 4740.0,
+        "low_price": 4740.0,
+        "close_price": 4740.0,
+        "volume": 4834019.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260715,
+        "open_price": 4880.0,
+        "high_price": 4880.0,
+        "low_price": 4880.0,
+        "close_price": 4880.0,
+        "volume": 15414368.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260714,
+        "open_price": 5030.0,
+        "high_price": 5030.0,
+        "low_price": 5030.0,
+        "close_price": 5030.0,
+        "volume": 5106235.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260713,
+        "open_price": 5180.0,
+        "high_price": 5180.0,
+        "low_price": 5180.0,
+        "close_price": 5180.0,
+        "volume": 4917741.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260712,
+        "open_price": 5340.0,
+        "high_price": 5340.0,
+        "low_price": 5340.0,
+        "close_price": 5340.0,
+        "volume": 4687110.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260711,
+        "open_price": 5500.0,
+        "high_price": 5500.0,
+        "low_price": 5500.0,
+        "close_price": 5500.0,
+        "volume": 5889171.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260708,
+        "open_price": 5670.0,
+        "high_price": 5670.0,
+        "low_price": 5670.0,
+        "close_price": 5670.0,
+        "volume": 13040555.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260707,
+        "open_price": 5840.0,
+        "high_price": 5840.0,
+        "low_price": 5720.0,
+        "close_price": 5840.0,
+        "volume": 24664294.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260701,
+        "open_price": 5670.0,
+        "high_price": 5670.0,
+        "low_price": 5670.0,
+        "close_price": 5670.0,
+        "volume": 11573527.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260630,
+        "open_price": 5510.0,
+        "high_price": 5510.0,
+        "low_price": 5510.0,
+        "close_price": 5510.0,
+        "volume": 42168209.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260629,
+        "open_price": 5350.0,
+        "high_price": 5350.0,
+        "low_price": 5240.0,
+        "close_price": 5350.0,
+        "volume": 56736821.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260628,
+        "open_price": 5200.0,
+        "high_price": 5200.0,
+        "low_price": 5110.0,
+        "close_price": 5200.0,
+        "volume": 214210543.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260627,
+        "open_price": 5050.0,
+        "high_price": 5050.0,
+        "low_price": 5050.0,
+        "close_price": 5050.0,
+        "volume": 19038817.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260623,
+        "open_price": 4903.0,
+        "high_price": 4903.0,
+        "low_price": 4903.0,
+        "close_price": 4903.0,
+        "volume": 26017154.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260622,
+        "open_price": 4761.0,
+        "high_price": 4761.0,
+        "low_price": 4761.0,
+        "close_price": 4761.0,
+        "volume": 28557675.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260621,
+        "open_price": 4623.0,
+        "high_price": 4623.0,
+        "low_price": 4623.0,
+        "close_price": 4623.0,
+        "volume": 57293946.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260620,
+        "open_price": 4489.0,
+        "high_price": 4489.0,
+        "low_price": 4489.0,
+        "close_price": 4489.0,
+        "volume": 22533449.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260617,
+        "open_price": 4359.0,
+        "high_price": 4359.0,
+        "low_price": 4359.0,
+        "close_price": 4359.0,
+        "volume": 22978829.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260616,
+        "open_price": 4233.0,
+        "high_price": 4233.0,
+        "low_price": 4233.0,
+        "close_price": 4233.0,
+        "volume": 6929465.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260615,
+        "open_price": 6300.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260614,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260613,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260610,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260609,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260608,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260607,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260606,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260603,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260602,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260601,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260531,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260530,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260526,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260525,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260524,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260523,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260520,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260519,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260225,
+        "open_price": 4090.0,
+        "high_price": 4110.0,
+        "low_price": 4090.0,
+        "close_price": 4110.0,
+        "volume": 12651653.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260224,
+        "open_price": 4031.0,
+        "high_price": 4180.0,
+        "low_price": 3959.0,
+        "close_price": 3991.0,
+        "volume": 21428864.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260223,
+        "open_price": 4140.0,
+        "high_price": 4167.0,
+        "low_price": 4001.0,
+        "close_price": 4081.0,
+        "volume": 18341125.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260222,
+        "open_price": 4035.0,
+        "high_price": 4120.0,
+        "low_price": 4033.0,
+        "close_price": 4046.0,
+        "volume": 6971360.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260221,
+        "open_price": 4160.0,
+        "high_price": 4220.0,
+        "low_price": 4155.0,
+        "close_price": 4156.0,
+        "volume": 11935008.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260218,
+        "open_price": 4380.0,
+        "high_price": 4460.0,
+        "low_price": 4252.0,
+        "close_price": 4283.0,
+        "volume": 11122874.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260217,
+        "open_price": 4437.0,
+        "high_price": 4463.0,
+        "low_price": 4298.0,
+        "close_price": 4383.0,
+        "volume": 7845970.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260216,
+        "open_price": 4400.0,
+        "high_price": 4530.0,
+        "low_price": 4330.0,
+        "close_price": 4398.0,
+        "volume": 7859268.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260215,
+        "open_price": 4549.0,
+        "high_price": 4549.0,
+        "low_price": 4463.0,
+        "close_price": 4463.0,
+        "volume": 6968119.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260214,
+        "open_price": 4821.0,
+        "high_price": 4821.0,
+        "low_price": 4569.0,
+        "close_price": 4601.0,
+        "volume": 12953716.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260210,
+        "open_price": 4720.0,
+        "high_price": 4810.0,
+        "low_price": 4700.0,
+        "close_price": 4710.0,
+        "volume": 23747969.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260209,
+        "open_price": 4990.0,
+        "high_price": 4990.0,
+        "low_price": 4840.0,
+        "close_price": 4840.0,
+        "volume": 15404113.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260208,
+        "open_price": 5120.0,
+        "high_price": 5120.0,
+        "low_price": 4980.0,
+        "close_price": 4980.0,
+        "volume": 17384754.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260207,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260203,
+        "open_price": 5320.0,
+        "high_price": 5320.0,
+        "low_price": 5100.0,
+        "close_price": 5130.0,
+        "volume": 1480477.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260202,
+        "open_price": 5330.0,
+        "high_price": 5330.0,
+        "low_price": 5140.0,
+        "close_price": 5250.0,
+        "volume": 26079427.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260201,
+        "open_price": 5180.0,
+        "high_price": 5310.0,
+        "low_price": 5180.0,
+        "close_price": 5190.0,
+        "volume": 21111684.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260131,
+        "open_price": 5340.0,
+        "high_price": 5480.0,
+        "low_price": 5340.0,
+        "close_price": 5340.0,
+        "volume": 6000807.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260128,
+        "open_price": 5500.0,
+        "high_price": 5500.0,
+        "low_price": 5500.0,
+        "close_price": 5500.0,
+        "volume": 1621211.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260127,
+        "open_price": 5660.0,
+        "high_price": 5660.0,
+        "low_price": 5660.0,
+        "close_price": 5660.0,
+        "volume": 1687609.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260126,
+        "open_price": 5830.0,
+        "high_price": 5830.0,
+        "low_price": 5830.0,
+        "close_price": 5830.0,
+        "volume": 444098.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260125,
+        "open_price": 6010.0,
+        "high_price": 6010.0,
+        "low_price": 6010.0,
+        "close_price": 6010.0,
+        "volume": 278889.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260124,
+        "open_price": 6190.0,
+        "high_price": 6270.0,
+        "low_price": 6190.0,
+        "close_price": 6190.0,
+        "volume": 2777570.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260121,
+        "open_price": 6380.0,
+        "high_price": 6410.0,
+        "low_price": 6380.0,
+        "close_price": 6380.0,
+        "volume": 55191356.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260120,
+        "open_price": 6830.0,
+        "high_price": 6830.0,
+        "low_price": 6510.0,
+        "close_price": 6570.0,
+        "volume": 14646294.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260119,
+        "open_price": 6950.0,
+        "high_price": 7000.0,
+        "low_price": 6660.0,
+        "close_price": 6710.0,
+        "volume": 36441773.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260118,
+        "open_price": 6960.0,
+        "high_price": 7120.0,
+        "low_price": 6820.0,
+        "close_price": 6860.0,
+        "volume": 81911934.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260114,
+        "open_price": 7030.0,
+        "high_price": 7030.0,
+        "low_price": 7030.0,
+        "close_price": 7030.0,
+        "volume": 3745219.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260113,
+        "open_price": 7510.0,
+        "high_price": 7510.0,
+        "low_price": 7160.0,
+        "close_price": 7240.0,
+        "volume": 13726049.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260112,
+        "open_price": 7380.0,
+        "high_price": 7380.0,
+        "low_price": 7270.0,
+        "close_price": 7380.0,
+        "volume": 51847520.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260111,
+        "open_price": 7060.0,
+        "high_price": 7180.0,
+        "low_price": 7030.0,
+        "close_price": 7170.0,
+        "volume": 42643077.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260110,
+        "open_price": 6670.0,
+        "high_price": 7070.0,
+        "low_price": 6670.0,
+        "close_price": 6980.0,
+        "volume": 105021578.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260107,
+        "open_price": 6870.0,
+        "high_price": 6870.0,
+        "low_price": 6870.0,
+        "close_price": 6870.0,
+        "volume": 34859610.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260106,
+        "open_price": 6670.0,
+        "high_price": 6670.0,
+        "low_price": 6670.0,
+        "close_price": 6670.0,
+        "volume": 36027949.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260105,
+        "open_price": 6480.0,
+        "high_price": 6480.0,
+        "low_price": 6480.0,
+        "close_price": 6480.0,
+        "volume": 23927333.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20260104,
+        "open_price": 6580.0,
+        "high_price": 6580.0,
+        "low_price": 6200.0,
+        "close_price": 6300.0,
+        "volume": 34385200.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251231,
+        "open_price": 6280.0,
+        "high_price": 6610.0,
+        "low_price": 6280.0,
+        "close_price": 6390.0,
+        "volume": 45825344.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251230,
+        "open_price": 6470.0,
+        "high_price": 6480.0,
+        "low_price": 6470.0,
+        "close_price": 6470.0,
+        "volume": 40625778.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251229,
+        "open_price": 6950.0,
+        "high_price": 6950.0,
+        "low_price": 6640.0,
+        "close_price": 6670.0,
+        "volume": 5343522.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251228,
+        "open_price": 6830.0,
+        "high_price": 6850.0,
+        "low_price": 6680.0,
+        "close_price": 6840.0,
+        "volume": 56656133.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251227,
+        "open_price": 6660.0,
+        "high_price": 6660.0,
+        "low_price": 6660.0,
+        "close_price": 6660.0,
+        "volume": 25501798.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251224,
+        "open_price": 6470.0,
+        "high_price": 6470.0,
+        "low_price": 6470.0,
+        "close_price": 6470.0,
+        "volume": 8208041.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251223,
+        "open_price": 6250.0,
+        "high_price": 6310.0,
+        "low_price": 6210.0,
+        "close_price": 6290.0,
+        "volume": 23396333.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251222,
+        "open_price": 6130.0,
+        "high_price": 6130.0,
+        "low_price": 6020.0,
+        "close_price": 6130.0,
+        "volume": 48978015.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251221,
+        "open_price": 5980.0,
+        "high_price": 5980.0,
+        "low_price": 5810.0,
+        "close_price": 5960.0,
+        "volume": 37000964.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251220,
+        "open_price": 5710.0,
+        "high_price": 5810.0,
+        "low_price": 5710.0,
+        "close_price": 5810.0,
+        "volume": 17977747.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251217,
+        "open_price": 5580.0,
+        "high_price": 5730.0,
+        "low_price": 5560.0,
+        "close_price": 5650.0,
+        "volume": 9481681.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251216,
+        "open_price": 5780.0,
+        "high_price": 5780.0,
+        "low_price": 5460.0,
+        "close_price": 5570.0,
+        "volume": 28664545.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251215,
+        "open_price": 5540.0,
+        "high_price": 5640.0,
+        "low_price": 5450.0,
+        "close_price": 5620.0,
+        "volume": 29498307.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251214,
+        "open_price": 5480.0,
+        "high_price": 5610.0,
+        "low_price": 5340.0,
+        "close_price": 5480.0,
+        "volume": 25651390.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251213,
+        "open_price": 5490.0,
+        "high_price": 5620.0,
+        "low_price": 5400.0,
+        "close_price": 5500.0,
+        "volume": 29313039.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251210,
+        "open_price": 5360.0,
+        "high_price": 5480.0,
+        "low_price": 5330.0,
+        "close_price": 5460.0,
+        "volume": 12483727.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251209,
+        "open_price": 5370.0,
+        "high_price": 5440.0,
+        "low_price": 5270.0,
+        "close_price": 5330.0,
+        "volume": 11841436.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251208,
+        "open_price": 5490.0,
+        "high_price": 5490.0,
+        "low_price": 5330.0,
+        "close_price": 5350.0,
+        "volume": 25568916.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251207,
+        "open_price": 5530.0,
+        "high_price": 5530.0,
+        "low_price": 5330.0,
+        "close_price": 5490.0,
+        "volume": 45242912.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251206,
+        "open_price": 5480.0,
+        "high_price": 5480.0,
+        "low_price": 5480.0,
+        "close_price": 5370.0,
+        "volume": 3267996.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251203,
+        "open_price": 5420.0,
+        "high_price": 5420.0,
+        "low_price": 5380.0,
+        "close_price": 5330.0,
+        "volume": 4957143.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251202,
+        "open_price": 5220.0,
+        "high_price": 5320.0,
+        "low_price": 5220.0,
+        "close_price": 5270.0,
+        "volume": 8834822.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251201,
+        "open_price": 5200.0,
+        "high_price": 5250.0,
+        "low_price": 5110.0,
+        "close_price": 5170.0,
+        "volume": 8805611.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251130,
+        "open_price": 5110.0,
+        "high_price": 5200.0,
+        "low_price": 5030.0,
+        "close_price": 5100.0,
+        "volume": 4873225.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251129,
+        "open_price": 5210.0,
+        "high_price": 5210.0,
+        "low_price": 5080.0,
+        "close_price": 5080.0,
+        "volume": 38996724.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251126,
+        "open_price": 5370.0,
+        "high_price": 5370.0,
+        "low_price": 5190.0,
+        "close_price": 5230.0,
+        "volume": 10185856.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251125,
+        "open_price": 5400.0,
+        "high_price": 5470.0,
+        "low_price": 5280.0,
+        "close_price": 5350.0,
+        "volume": 27288306.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251123,
+        "open_price": 5450.0,
+        "high_price": 5450.0,
+        "low_price": 5330.0,
+        "close_price": 5440.0,
+        "volume": 13081881.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251122,
+        "open_price": 5380.0,
+        "high_price": 5380.0,
+        "low_price": 5380.0,
+        "close_price": 5300.0,
+        "volume": 5939806.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251119,
+        "open_price": 5240.0,
+        "high_price": 5290.0,
+        "low_price": 5170.0,
+        "close_price": 5230.0,
+        "volume": 7578933.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251118,
+        "open_price": 4920.0,
+        "high_price": 5210.0,
+        "low_price": 4910.0,
+        "close_price": 5140.0,
+        "volume": 14383561.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251117,
+        "open_price": 5250.0,
+        "high_price": 5250.0,
+        "low_price": 4970.0,
+        "close_price": 5060.0,
+        "volume": 12353076.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251116,
+        "open_price": 5000.0,
+        "high_price": 5190.0,
+        "low_price": 4950.0,
+        "close_price": 5120.0,
+        "volume": 11082988.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251115,
+        "open_price": 5210.0,
+        "high_price": 5210.0,
+        "low_price": 4990.0,
+        "close_price": 5040.0,
+        "volume": 11070225.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251112,
+        "open_price": 5190.0,
+        "high_price": 5240.0,
+        "low_price": 5080.0,
+        "close_price": 5130.0,
+        "volume": 31111524.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251111,
+        "open_price": 5350.0,
+        "high_price": 5470.0,
+        "low_price": 5190.0,
+        "close_price": 5230.0,
+        "volume": 10037674.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251110,
+        "open_price": 5370.0,
+        "high_price": 5500.0,
+        "low_price": 5340.0,
+        "close_price": 5350.0,
+        "volume": 20806698.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251109,
+        "open_price": 5500.0,
+        "high_price": 5640.0,
+        "low_price": 5500.0,
+        "close_price": 5500.0,
+        "volume": 21074859.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251108,
+        "open_price": 5670.0,
+        "high_price": 5670.0,
+        "low_price": 5580.0,
+        "close_price": 5670.0,
+        "volume": 33541720.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251105,
+        "open_price": 5400.0,
+        "high_price": 5610.0,
+        "low_price": 5290.0,
+        "close_price": 5510.0,
+        "volume": 21547530.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251104,
+        "open_price": 5550.0,
+        "high_price": 5550.0,
+        "low_price": 5440.0,
+        "close_price": 5450.0,
+        "volume": 37070171.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251103,
+        "open_price": 5610.0,
+        "high_price": 5610.0,
+        "low_price": 5460.0,
+        "close_price": 5600.0,
+        "volume": 35390193.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251102,
+        "open_price": 5450.0,
+        "high_price": 5470.0,
+        "low_price": 5340.0,
+        "close_price": 5450.0,
+        "volume": 46286299.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251101,
+        "open_price": 5320.0,
+        "high_price": 5320.0,
+        "low_price": 5320.0,
+        "close_price": 5320.0,
+        "volume": 16793201.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251029,
+        "open_price": 5247.0,
+        "high_price": 5247.0,
+        "low_price": 5247.0,
+        "close_price": 5169.0,
+        "volume": 6047386.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251028,
+        "open_price": 5179.0,
+        "high_price": 5179.0,
+        "low_price": 5179.0,
+        "close_price": 5095.0,
+        "volume": 5462488.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251027,
+        "open_price": 5030.0,
+        "high_price": 5030.0,
+        "low_price": 5000.0,
+        "close_price": 5029.0,
+        "volume": 46563363.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251026,
+        "open_price": 4884.0,
+        "high_price": 4884.0,
+        "low_price": 4884.0,
+        "close_price": 4884.0,
+        "volume": 20884905.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251025,
+        "open_price": 4731.0,
+        "high_price": 4731.0,
+        "low_price": 4731.0,
+        "close_price": 4742.0,
+        "volume": 11433057.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251022,
+        "open_price": 4846.0,
+        "high_price": 4846.0,
+        "low_price": 4846.0,
+        "close_price": 4877.0,
+        "volume": 9832126.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251021,
+        "open_price": 5033.0,
+        "high_price": 5086.0,
+        "low_price": 4954.0,
+        "close_price": 4995.0,
+        "volume": 6226376.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251020,
+        "open_price": 5082.0,
+        "high_price": 5093.0,
+        "low_price": 4899.0,
+        "close_price": 4988.0,
+        "volume": 8792134.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251019,
+        "open_price": 5160.0,
+        "high_price": 5160.0,
+        "low_price": 4993.0,
+        "close_price": 5038.0,
+        "volume": 11079812.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251018,
+        "open_price": 4978.0,
+        "high_price": 5033.0,
+        "low_price": 4978.0,
+        "close_price": 5033.0,
+        "volume": 13807526.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251015,
+        "open_price": 4907.0,
+        "high_price": 4929.0,
+        "low_price": 4832.0,
+        "close_price": 4887.0,
+        "volume": 10472756.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251014,
+        "open_price": 4907.0,
+        "high_price": 4950.0,
+        "low_price": 4822.0,
+        "close_price": 4861.0,
+        "volume": 14411658.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251013,
+        "open_price": 4850.0,
+        "high_price": 4986.0,
+        "low_price": 4816.0,
+        "close_price": 4919.0,
+        "volume": 31991856.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251012,
+        "open_price": 4797.0,
+        "high_price": 4873.0,
+        "low_price": 4675.0,
+        "close_price": 4841.0,
+        "volume": 35364693.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251011,
+        "open_price": 4700.0,
+        "high_price": 4837.0,
+        "low_price": 4655.0,
+        "close_price": 4732.0,
+        "volume": 48060815.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251008,
+        "open_price": 4761.0,
+        "high_price": 4761.0,
+        "low_price": 4761.0,
+        "close_price": 4761.0,
+        "volume": 56304618.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251007,
+        "open_price": 4623.0,
+        "high_price": 4623.0,
+        "low_price": 4623.0,
+        "close_price": 4623.0,
+        "volume": 28371072.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251006,
+        "open_price": 4489.0,
+        "high_price": 4489.0,
+        "low_price": 4489.0,
+        "close_price": 4489.0,
+        "volume": 16299383.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251005,
+        "open_price": 4455.0,
+        "high_price": 4455.0,
+        "low_price": 4455.0,
+        "close_price": 4359.0,
+        "volume": 3139345.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251004,
+        "open_price": 4350.0,
+        "high_price": 4400.0,
+        "low_price": 4350.0,
+        "close_price": 4326.0,
+        "volume": 5249152.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20251001,
+        "open_price": 4246.0,
+        "high_price": 4361.0,
+        "low_price": 4245.0,
+        "close_price": 4272.0,
+        "volume": 15461108.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250930,
+        "open_price": 4402.0,
+        "high_price": 4402.0,
+        "low_price": 4223.0,
+        "close_price": 4376.0,
+        "volume": 26426015.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250929,
+        "open_price": 4314.0,
+        "high_price": 4314.0,
+        "low_price": 4314.0,
+        "close_price": 4274.0,
+        "volume": 8405604.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250928,
+        "open_price": 4188.0,
+        "high_price": 4189.0,
+        "low_price": 4187.0,
+        "close_price": 4189.0,
+        "volume": 30349405.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250927,
+        "open_price": 3943.0,
+        "high_price": 4093.0,
+        "low_price": 3941.0,
+        "close_price": 4067.0,
+        "volume": 14039430.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250924,
+        "open_price": 3941.0,
+        "high_price": 3983.0,
+        "low_price": 3890.0,
+        "close_price": 3974.0,
+        "volume": 5045237.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250923,
+        "open_price": 4084.0,
+        "high_price": 4084.0,
+        "low_price": 3975.0,
+        "close_price": 4004.0,
+        "volume": 2655207.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250922,
+        "open_price": 3986.0,
+        "high_price": 4066.0,
+        "low_price": 3980.0,
+        "close_price": 4007.0,
+        "volume": 7393573.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250921,
+        "open_price": 3939.0,
+        "high_price": 3985.0,
+        "low_price": 3939.0,
+        "close_price": 4014.0,
+        "volume": 4917244.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250920,
+        "open_price": 3986.0,
+        "high_price": 3988.0,
+        "low_price": 3986.0,
+        "close_price": 4060.0,
+        "volume": 4955938.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250917,
+        "open_price": 4144.0,
+        "high_price": 4145.0,
+        "low_price": 4039.0,
+        "close_price": 4109.0,
+        "volume": 6485454.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250916,
+        "open_price": 4172.0,
+        "high_price": 4249.0,
+        "low_price": 4092.0,
+        "close_price": 4145.0,
+        "volume": 6680413.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250915,
+        "open_price": 4260.0,
+        "high_price": 4270.0,
+        "low_price": 4150.0,
+        "close_price": 4173.0,
+        "volume": 8324353.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250914,
+        "open_price": 4160.0,
+        "high_price": 4250.0,
+        "low_price": 4150.0,
+        "close_price": 4173.0,
+        "volume": 7389755.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250913,
+        "open_price": 4128.0,
+        "high_price": 4218.0,
+        "low_price": 4110.0,
+        "close_price": 4141.0,
+        "volume": 9907101.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250909,
+        "open_price": 4272.0,
+        "high_price": 4272.0,
+        "low_price": 4113.0,
+        "close_price": 4148.0,
+        "volume": 6633889.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250908,
+        "open_price": 4145.0,
+        "high_price": 4149.0,
+        "low_price": 4145.0,
+        "close_price": 4149.0,
+        "volume": 15954834.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250907,
+        "open_price": 4078.0,
+        "high_price": 4098.0,
+        "low_price": 4016.0,
+        "close_price": 4029.0,
+        "volume": 2607877.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250906,
+        "open_price": 4109.0,
+        "high_price": 4110.0,
+        "low_price": 3984.0,
+        "close_price": 4020.0,
+        "volume": 9226908.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250903,
+        "open_price": 4099.0,
+        "high_price": 4129.0,
+        "low_price": 4050.0,
+        "close_price": 4032.0,
+        "volume": 2823037.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250902,
+        "open_price": 3910.0,
+        "high_price": 4044.0,
+        "low_price": 3910.0,
+        "close_price": 4009.0,
+        "volume": 22831513.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250831,
+        "open_price": 3866.0,
+        "high_price": 4019.0,
+        "low_price": 3866.0,
+        "close_price": 3927.0,
+        "volume": 6334932.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250830,
+        "open_price": 3883.0,
+        "high_price": 3884.0,
+        "low_price": 3866.0,
+        "close_price": 3937.0,
+        "volume": 5062909.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250827,
+        "open_price": 3988.0,
+        "high_price": 4060.0,
+        "low_price": 3887.0,
+        "close_price": 3985.0,
+        "volume": 3012117.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250826,
+        "open_price": 4002.0,
+        "high_price": 4033.0,
+        "low_price": 3976.0,
+        "close_price": 3996.0,
+        "volume": 4088819.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250825,
+        "open_price": 4156.0,
+        "high_price": 4156.0,
+        "low_price": 3931.0,
+        "close_price": 3996.0,
+        "volume": 15766524.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250823,
+        "open_price": 4077.0,
+        "high_price": 4092.0,
+        "low_price": 4056.0,
+        "close_price": 4050.0,
+        "volume": 5314449.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250820,
+        "open_price": 4063.0,
+        "high_price": 4083.0,
+        "low_price": 4031.0,
+        "close_price": 4037.0,
+        "volume": 3457804.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250819,
+        "open_price": 4109.0,
+        "high_price": 4109.0,
+        "low_price": 3933.0,
+        "close_price": 4031.0,
+        "volume": 7282566.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250818,
+        "open_price": 4175.0,
+        "high_price": 4175.0,
+        "low_price": 4020.0,
+        "close_price": 4054.0,
+        "volume": 3734985.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250817,
+        "open_price": 4108.0,
+        "high_price": 4113.0,
+        "low_price": 4015.0,
+        "close_price": 4055.0,
+        "volume": 6695111.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250816,
+        "open_price": 3915.0,
+        "high_price": 3995.0,
+        "low_price": 3915.0,
+        "close_price": 3994.0,
+        "volume": 5104299.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250813,
+        "open_price": 3962.0,
+        "high_price": 3964.0,
+        "low_price": 3962.0,
+        "close_price": 4036.0,
+        "volume": 4846796.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250812,
+        "open_price": 4020.0,
+        "high_price": 4030.0,
+        "low_price": 4003.0,
+        "close_price": 4084.0,
+        "volume": 4215393.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250811,
+        "open_price": 4090.0,
+        "high_price": 4090.0,
+        "low_price": 4051.0,
+        "close_price": 4126.0,
+        "volume": 5161190.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250810,
+        "open_price": 4203.0,
+        "high_price": 4222.0,
+        "low_price": 4110.0,
+        "close_price": 4176.0,
+        "volume": 4761453.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250809,
+        "open_price": 4113.0,
+        "high_price": 4235.0,
+        "low_price": 4113.0,
+        "close_price": 4203.0,
+        "volume": 7030372.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250806,
+        "open_price": 4154.0,
+        "high_price": 4245.0,
+        "low_price": 4154.0,
+        "close_price": 4240.0,
+        "volume": 4358967.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250805,
+        "open_price": 4323.0,
+        "high_price": 4386.0,
+        "low_price": 4192.0,
+        "close_price": 4282.0,
+        "volume": 4297439.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250804,
+        "open_price": 4320.0,
+        "high_price": 4380.0,
+        "low_price": 4320.0,
+        "close_price": 4321.0,
+        "volume": 19030283.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250803,
+        "open_price": 4453.0,
+        "high_price": 4453.0,
+        "low_price": 4453.0,
+        "close_price": 4453.0,
+        "volume": 24681502.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250802,
+        "open_price": 4500.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4590.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250730,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5090.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250729,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5090.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250728,
+        "open_price": 5130.0,
+        "high_price": 5130.0,
+        "low_price": 5020.0,
+        "close_price": 5090.0,
+        "volume": 6680698.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250727,
+        "open_price": 5280.0,
+        "high_price": 5320.0,
+        "low_price": 5130.0,
+        "close_price": 5170.0,
+        "volume": 19660664.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250726,
+        "open_price": 5370.0,
+        "high_price": 5450.0,
+        "low_price": 5190.0,
+        "close_price": 5280.0,
+        "volume": 18756200.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250723,
+        "open_price": 5400.0,
+        "high_price": 5440.0,
+        "low_price": 5290.0,
+        "close_price": 5350.0,
+        "volume": 15819225.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250722,
+        "open_price": 5510.0,
+        "high_price": 5550.0,
+        "low_price": 5310.0,
+        "close_price": 5390.0,
+        "volume": 36747551.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250721,
+        "open_price": 5450.0,
+        "high_price": 5470.0,
+        "low_price": 5380.0,
+        "close_price": 5460.0,
+        "volume": 34322488.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250720,
+        "open_price": 5320.0,
+        "high_price": 5320.0,
+        "low_price": 5320.0,
+        "close_price": 5320.0,
+        "volume": 25941968.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250719,
+        "open_price": 5300.0,
+        "high_price": 5300.0,
+        "low_price": 5300.0,
+        "close_price": 5170.0,
+        "volume": 1487822.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250716,
+        "open_price": 5180.0,
+        "high_price": 5280.0,
+        "low_price": 5060.0,
+        "close_price": 5150.0,
+        "volume": 48362776.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250715,
+        "open_price": 5190.0,
+        "high_price": 5200.0,
+        "low_price": 5090.0,
+        "close_price": 5130.0,
+        "volume": 15904615.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250714,
+        "open_price": 5210.0,
+        "high_price": 5300.0,
+        "low_price": 5100.0,
+        "close_price": 5190.0,
+        "volume": 28197845.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250713,
+        "open_price": 5190.0,
+        "high_price": 5400.0,
+        "low_price": 5160.0,
+        "close_price": 5250.0,
+        "volume": 32954845.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250712,
+        "open_price": 5310.0,
+        "high_price": 5430.0,
+        "low_price": 5260.0,
+        "close_price": 5310.0,
+        "volume": 20459156.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250709,
+        "open_price": 5220.0,
+        "high_price": 5250.0,
+        "low_price": 5220.0,
+        "close_price": 5320.0,
+        "volume": 4734202.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250708,
+        "open_price": 5390.0,
+        "high_price": 5390.0,
+        "low_price": 5290.0,
+        "close_price": 5380.0,
+        "volume": 5489485.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250707,
+        "open_price": 5540.0,
+        "high_price": 5670.0,
+        "low_price": 5400.0,
+        "close_price": 5450.0,
+        "volume": 13192367.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250702,
+        "open_price": 5500.0,
+        "high_price": 5750.0,
+        "low_price": 5500.0,
+        "close_price": 5520.0,
+        "volume": 157844900.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250701,
+        "open_price": 5520.0,
+        "high_price": 5520.0,
+        "low_price": 5520.0,
+        "close_price": 5660.0,
+        "volume": 2008658.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250630,
+        "open_price": 5550.0,
+        "high_price": 5550.0,
+        "low_price": 5550.0,
+        "close_price": 5690.0,
+        "volume": 1929687.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250629,
+        "open_price": 5580.0,
+        "high_price": 5580.0,
+        "low_price": 5580.0,
+        "close_price": 5720.0,
+        "volume": 2248939.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250628,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250611,
+        "open_price": 5890.0,
+        "high_price": 5890.0,
+        "low_price": 5730.0,
+        "close_price": 5750.0,
+        "volume": 9600491.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250610,
+        "open_price": 5830.0,
+        "high_price": 5890.0,
+        "low_price": 5710.0,
+        "close_price": 5750.0,
+        "volume": 12224738.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250609,
+        "open_price": 6010.0,
+        "high_price": 6010.0,
+        "low_price": 5770.0,
+        "close_price": 5810.0,
+        "volume": 13748628.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250608,
+        "open_price": 6010.0,
+        "high_price": 6140.0,
+        "low_price": 5910.0,
+        "close_price": 5940.0,
+        "volume": 19281273.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250607,
+        "open_price": 6030.0,
+        "high_price": 6180.0,
+        "low_price": 6010.0,
+        "close_price": 6090.0,
+        "volume": 7602499.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250603,
+        "open_price": 6330.0,
+        "high_price": 6340.0,
+        "low_price": 6150.0,
+        "close_price": 6190.0,
+        "volume": 13721031.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250602,
+        "open_price": 6380.0,
+        "high_price": 6560.0,
+        "low_price": 6290.0,
+        "close_price": 6340.0,
+        "volume": 15324187.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250601,
+        "open_price": 6470.0,
+        "high_price": 6470.0,
+        "low_price": 6270.0,
+        "close_price": 6370.0,
+        "volume": 6781472.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250531,
+        "open_price": 6390.0,
+        "high_price": 6550.0,
+        "low_price": 6310.0,
+        "close_price": 6430.0,
+        "volume": 12456114.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250528,
+        "open_price": 6450.0,
+        "high_price": 6450.0,
+        "low_price": 6320.0,
+        "close_price": 6390.0,
+        "volume": 5487815.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250527,
+        "open_price": 6550.0,
+        "high_price": 6550.0,
+        "low_price": 6360.0,
+        "close_price": 6410.0,
+        "volume": 14726646.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250526,
+        "open_price": 6610.0,
+        "high_price": 6650.0,
+        "low_price": 6470.0,
+        "close_price": 6490.0,
+        "volume": 25010430.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250525,
+        "open_price": 6840.0,
+        "high_price": 6840.0,
+        "low_price": 6470.0,
+        "close_price": 6660.0,
+        "volume": 24464041.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250524,
+        "open_price": 6650.0,
+        "high_price": 6660.0,
+        "low_price": 6600.0,
+        "close_price": 6660.0,
+        "volume": 18055231.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250521,
+        "open_price": 6350.0,
+        "high_price": 6500.0,
+        "low_price": 6200.0,
+        "close_price": 6470.0,
+        "volume": 36725582.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250520,
+        "open_price": 6210.0,
+        "high_price": 6430.0,
+        "low_price": 6150.0,
+        "close_price": 6320.0,
+        "volume": 22827155.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250519,
+        "open_price": 6380.0,
+        "high_price": 6380.0,
+        "low_price": 6180.0,
+        "close_price": 6250.0,
+        "volume": 14478751.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250518,
+        "open_price": 6300.0,
+        "high_price": 6440.0,
+        "low_price": 6210.0,
+        "close_price": 6270.0,
+        "volume": 14644185.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250517,
+        "open_price": 6460.0,
+        "high_price": 6460.0,
+        "low_price": 6230.0,
+        "close_price": 6300.0,
+        "volume": 20006926.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250514,
+        "open_price": 6500.0,
+        "high_price": 6500.0,
+        "low_price": 6260.0,
+        "close_price": 6350.0,
+        "volume": 26401141.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250513,
+        "open_price": 6520.0,
+        "high_price": 6600.0,
+        "low_price": 6300.0,
+        "close_price": 6450.0,
+        "volume": 15090437.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250512,
+        "open_price": 6470.0,
+        "high_price": 6480.0,
+        "low_price": 6440.0,
+        "close_price": 6480.0,
+        "volume": 49286630.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250511,
+        "open_price": 6380.0,
+        "high_price": 6430.0,
+        "low_price": 6240.0,
+        "close_price": 6300.0,
+        "volume": 9892065.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250510,
+        "open_price": 6420.0,
+        "high_price": 6540.0,
+        "low_price": 6420.0,
+        "close_price": 6430.0,
+        "volume": 12540075.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250507,
+        "open_price": 6700.0,
+        "high_price": 6700.0,
+        "low_price": 6500.0,
+        "close_price": 6610.0,
+        "volume": 12696569.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250506,
+        "open_price": 6520.0,
+        "high_price": 6530.0,
+        "low_price": 6340.0,
+        "close_price": 6510.0,
+        "volume": 31871424.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250505,
+        "open_price": 6320.0,
+        "high_price": 6360.0,
+        "low_price": 6240.0,
+        "close_price": 6340.0,
+        "volume": 26525192.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250504,
+        "open_price": 5940.0,
+        "high_price": 6250.0,
+        "low_price": 5930.0,
+        "close_price": 6180.0,
+        "volume": 20748130.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250503,
+        "open_price": 6070.0,
+        "high_price": 6180.0,
+        "low_price": 6070.0,
+        "close_price": 6070.0,
+        "volume": 30011837.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250430,
+        "open_price": 6240.0,
+        "high_price": 6250.0,
+        "low_price": 6160.0,
+        "close_price": 6250.0,
+        "volume": 21752595.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250429,
+        "open_price": 5880.0,
+        "high_price": 6120.0,
+        "low_price": 5880.0,
+        "close_price": 6070.0,
+        "volume": 37318907.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250428,
+        "open_price": 5990.0,
+        "high_price": 6160.0,
+        "low_price": 5850.0,
+        "close_price": 5950.0,
+        "volume": 19486233.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250427,
+        "open_price": 5880.0,
+        "high_price": 6040.0,
+        "low_price": 5700.0,
+        "close_price": 5990.0,
+        "volume": 29246219.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250426,
+        "open_price": 5990.0,
+        "high_price": 6000.0,
+        "low_price": 5760.0,
+        "close_price": 5870.0,
+        "volume": 8636726.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250423,
+        "open_price": 5920.0,
+        "high_price": 5980.0,
+        "low_price": 5780.0,
+        "close_price": 5870.0,
+        "volume": 16709375.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250422,
+        "open_price": 6050.0,
+        "high_price": 6050.0,
+        "low_price": 5940.0,
+        "close_price": 5950.0,
+        "volume": 31425943.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250421,
+        "open_price": 6280.0,
+        "high_price": 6280.0,
+        "low_price": 5920.0,
+        "close_price": 6120.0,
+        "volume": 35276892.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250420,
+        "open_price": 6080.0,
+        "high_price": 6100.0,
+        "low_price": 5990.0,
+        "close_price": 6100.0,
+        "volume": 17992262.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250419,
+        "open_price": 6000.0,
+        "high_price": 6110.0,
+        "low_price": 5890.0,
+        "close_price": 5930.0,
+        "volume": 30323181.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250416,
+        "open_price": 6020.0,
+        "high_price": 6180.0,
+        "low_price": 6020.0,
+        "close_price": 6070.0,
+        "volume": 26482664.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250415,
+        "open_price": 6220.0,
+        "high_price": 6220.0,
+        "low_price": 6090.0,
+        "close_price": 6200.0,
+        "volume": 5105878.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250414,
+        "open_price": 6470.0,
+        "high_price": 6470.0,
+        "low_price": 6140.0,
+        "close_price": 6270.0,
+        "volume": 21147979.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250413,
+        "open_price": 6310.0,
+        "high_price": 6330.0,
+        "low_price": 6260.0,
+        "close_price": 6290.0,
+        "volume": 10057140.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250412,
+        "open_price": 6400.0,
+        "high_price": 6400.0,
+        "low_price": 6050.0,
+        "close_price": 6150.0,
+        "volume": 15261775.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250409,
+        "open_price": 6240.0,
+        "high_price": 6240.0,
+        "low_price": 6060.0,
+        "close_price": 6230.0,
+        "volume": 30814738.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250408,
+        "open_price": 6120.0,
+        "high_price": 6120.0,
+        "low_price": 6120.0,
+        "close_price": 6060.0,
+        "volume": 7691001.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250407,
+        "open_price": 5920.0,
+        "high_price": 6000.0,
+        "low_price": 5750.0,
+        "close_price": 5950.0,
+        "volume": 17514068.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250406,
+        "open_price": 5840.0,
+        "high_price": 5840.0,
+        "low_price": 5820.0,
+        "close_price": 5840.0,
+        "volume": 16886204.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250405,
+        "open_price": 5750.0,
+        "high_price": 5750.0,
+        "low_price": 5750.0,
+        "close_price": 5670.0,
+        "volume": 6030601.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250330,
+        "open_price": 5680.0,
+        "high_price": 5680.0,
+        "low_price": 5560.0,
+        "close_price": 5590.0,
+        "volume": 5699975.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250329,
+        "open_price": 5600.0,
+        "high_price": 5600.0,
+        "low_price": 5400.0,
+        "close_price": 5520.0,
+        "volume": 5962043.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250326,
+        "open_price": 5530.0,
+        "high_price": 5530.0,
+        "low_price": 5510.0,
+        "close_price": 5440.0,
+        "volume": 5455020.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250325,
+        "open_price": 5290.0,
+        "high_price": 5480.0,
+        "low_price": 5290.0,
+        "close_price": 5370.0,
+        "volume": 3530619.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250318,
+        "open_price": 5350.0,
+        "high_price": 5400.0,
+        "low_price": 5320.0,
+        "close_price": 5330.0,
+        "volume": 11844916.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250317,
+        "open_price": 5540.0,
+        "high_price": 5580.0,
+        "low_price": 5380.0,
+        "close_price": 5480.0,
+        "volume": 6808731.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250316,
+        "open_price": 5650.0,
+        "high_price": 5660.0,
+        "low_price": 5440.0,
+        "close_price": 5530.0,
+        "volume": 3799884.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250315,
+        "open_price": 5380.0,
+        "high_price": 5580.0,
+        "low_price": 5380.0,
+        "close_price": 5500.0,
+        "volume": 6133257.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250312,
+        "open_price": 5320.0,
+        "high_price": 5520.0,
+        "low_price": 5280.0,
+        "close_price": 5420.0,
+        "volume": 7680948.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250311,
+        "open_price": 5440.0,
+        "high_price": 5570.0,
+        "low_price": 5390.0,
+        "close_price": 5440.0,
+        "volume": 9821425.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250310,
+        "open_price": 5500.0,
+        "high_price": 5770.0,
+        "low_price": 5450.0,
+        "close_price": 5550.0,
+        "volume": 10225578.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250309,
+        "open_price": 5610.0,
+        "high_price": 5690.0,
+        "low_price": 5610.0,
+        "close_price": 5610.0,
+        "volume": 21621446.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250308,
+        "open_price": 5900.0,
+        "high_price": 5990.0,
+        "low_price": 5760.0,
+        "close_price": 5780.0,
+        "volume": 12552922.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250305,
+        "open_price": 5970.0,
+        "high_price": 6020.0,
+        "low_price": 5830.0,
+        "close_price": 5930.0,
+        "volume": 9140263.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250304,
+        "open_price": 5970.0,
+        "high_price": 6120.0,
+        "low_price": 5970.0,
+        "close_price": 5990.0,
+        "volume": 17318793.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250303,
+        "open_price": 6030.0,
+        "high_price": 6030.0,
+        "low_price": 6030.0,
+        "close_price": 6150.0,
+        "volume": 3819659.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250302,
+        "open_price": 6200.0,
+        "high_price": 6290.0,
+        "low_price": 6060.0,
+        "close_price": 6210.0,
+        "volume": 10980866.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250301,
+        "open_price": 6010.0,
+        "high_price": 6240.0,
+        "low_price": 6010.0,
+        "close_price": 6180.0,
+        "volume": 13676485.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250226,
+        "open_price": 6300.0,
+        "high_price": 6300.0,
+        "low_price": 5970.0,
+        "close_price": 6060.0,
+        "volume": 18798922.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250225,
+        "open_price": 6150.0,
+        "high_price": 6150.0,
+        "low_price": 6140.0,
+        "close_price": 6150.0,
+        "volume": 26803413.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250224,
+        "open_price": 5940.0,
+        "high_price": 6050.0,
+        "low_price": 5900.0,
+        "close_price": 5980.0,
+        "volume": 7718339.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250223,
+        "open_price": 5820.0,
+        "high_price": 6070.0,
+        "low_price": 5800.0,
+        "close_price": 5880.0,
+        "volume": 17824502.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250222,
+        "open_price": 6120.0,
+        "high_price": 6230.0,
+        "low_price": 5930.0,
+        "close_price": 5970.0,
+        "volume": 29252229.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250219,
+        "open_price": 6200.0,
+        "high_price": 6370.0,
+        "low_price": 6020.0,
+        "close_price": 6110.0,
+        "volume": 26613349.0
+    },
+    {
+        "symbol": "شفن",
+        "trade_date": 20250218,
+        "open_price": 6190.0,
+        "high_price": 6290.0,
+        "low_price": 6190.0,
+        "close_price": 6200.0,
+        "volume": 51279822.0
+    }
+]

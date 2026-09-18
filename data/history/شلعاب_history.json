@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260901,
+        "open_price": 1282.0,
+        "high_price": 1292.0,
+        "low_price": 1220.0,
+        "close_price": 1240.0,
+        "volume": 69647768.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260831,
+        "open_price": 1255.0,
+        "high_price": 1290.0,
+        "low_price": 1255.0,
+        "close_price": 1257.0,
+        "volume": 66243177.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260829,
+        "open_price": 1319.0,
+        "high_price": 1319.0,
+        "low_price": 1269.0,
+        "close_price": 1293.0,
+        "volume": 71975803.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260826,
+        "open_price": 1308.0,
+        "high_price": 1308.0,
+        "low_price": 1282.0,
+        "close_price": 1297.0,
+        "volume": 41300817.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260825,
+        "open_price": 1272.0,
+        "high_price": 1272.0,
+        "low_price": 1255.0,
+        "close_price": 1270.0,
+        "volume": 51321049.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260824,
+        "open_price": 1284.0,
+        "high_price": 1284.0,
+        "low_price": 1231.0,
+        "close_price": 1235.0,
+        "volume": 94477419.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260823,
+        "open_price": 1295.0,
+        "high_price": 1295.0,
+        "low_price": 1225.0,
+        "close_price": 1269.0,
+        "volume": 64732754.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260822,
+        "open_price": 1258.0,
+        "high_price": 1258.0,
+        "low_price": 1231.0,
+        "close_price": 1258.0,
+        "volume": 62799337.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260819,
+        "open_price": 1222.0,
+        "high_price": 1222.0,
+        "low_price": 1195.0,
+        "close_price": 1222.0,
+        "volume": 96648864.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260818,
+        "open_price": 1180.0,
+        "high_price": 1194.0,
+        "low_price": 1135.0,
+        "close_price": 1187.0,
+        "volume": 92686485.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260817,
+        "open_price": 1163.0,
+        "high_price": 1163.0,
+        "low_price": 1135.0,
+        "close_price": 1160.0,
+        "volume": 60944968.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260816,
+        "open_price": 1092.0,
+        "high_price": 1150.0,
+        "low_price": 1092.0,
+        "close_price": 1130.0,
+        "volume": 56986891.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260815,
+        "open_price": 1180.0,
+        "high_price": 1180.0,
+        "low_price": 1120.0,
+        "close_price": 1123.0,
+        "volume": 44080202.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260811,
+        "open_price": 1190.0,
+        "high_price": 1191.0,
+        "low_price": 1123.0,
+        "close_price": 1154.0,
+        "volume": 62752724.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260810,
+        "open_price": 1123.0,
+        "high_price": 1164.0,
+        "low_price": 1105.0,
+        "close_price": 1157.0,
+        "volume": 58819516.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260809,
+        "open_price": 1160.0,
+        "high_price": 1170.0,
+        "low_price": 1113.0,
+        "close_price": 1131.0,
+        "volume": 99949666.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260808,
+        "open_price": 1147.0,
+        "high_price": 1147.0,
+        "low_price": 1135.0,
+        "close_price": 1147.0,
+        "volume": 58031330.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260805,
+        "open_price": 1114.0,
+        "high_price": 1114.0,
+        "low_price": 1114.0,
+        "close_price": 1114.0,
+        "volume": 22668128.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260803,
+        "open_price": 1082.0,
+        "high_price": 1082.0,
+        "low_price": 1082.0,
+        "close_price": 1082.0,
+        "volume": 19942391.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260802,
+        "open_price": 1051.0,
+        "high_price": 1051.0,
+        "low_price": 1051.0,
+        "close_price": 1051.0,
+        "volume": 19211921.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260801,
+        "open_price": 1022.0,
+        "high_price": 1022.0,
+        "low_price": 971.0,
+        "close_price": 1021.0,
+        "volume": 137691382.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260729,
+        "open_price": 993.0,
+        "high_price": 993.0,
+        "low_price": 993.0,
+        "close_price": 993.0,
+        "volume": 22790597.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260728,
+        "open_price": 965.0,
+        "high_price": 965.0,
+        "low_price": 965.0,
+        "close_price": 965.0,
+        "volume": 16062161.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260727,
+        "open_price": 937.0,
+        "high_price": 937.0,
+        "low_price": 937.0,
+        "close_price": 937.0,
+        "volume": 17522705.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260726,
+        "open_price": 910.0,
+        "high_price": 910.0,
+        "low_price": 910.0,
+        "close_price": 910.0,
+        "volume": 17075146.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260725,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 884.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260722,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 884.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260721,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 899.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260720,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 899.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260719,
+        "open_price": 895.0,
+        "high_price": 937.0,
+        "low_price": 895.0,
+        "close_price": 899.0,
+        "volume": 37815574.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260718,
+        "open_price": 922.0,
+        "high_price": 922.0,
+        "low_price": 922.0,
+        "close_price": 922.0,
+        "volume": 12257900.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260715,
+        "open_price": 918.0,
+        "high_price": 971.0,
+        "low_price": 918.0,
+        "close_price": 950.0,
+        "volume": 21100421.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260714,
+        "open_price": 942.0,
+        "high_price": 960.0,
+        "low_price": 942.0,
+        "close_price": 943.0,
+        "volume": 47327477.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260713,
+        "open_price": 999.0,
+        "high_price": 1001.0,
+        "low_price": 945.0,
+        "close_price": 971.0,
+        "volume": 46896616.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260712,
+        "open_price": 972.0,
+        "high_price": 990.0,
+        "low_price": 972.0,
+        "close_price": 972.0,
+        "volume": 25498135.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260711,
+        "open_price": 1003.0,
+        "high_price": 1047.0,
+        "low_price": 999.0,
+        "close_price": 1002.0,
+        "volume": 23947258.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260708,
+        "open_price": 1047.0,
+        "high_price": 1064.0,
+        "low_price": 1009.0,
+        "close_price": 1029.0,
+        "volume": 45599575.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260707,
+        "open_price": 1041.0,
+        "high_price": 1041.0,
+        "low_price": 1020.0,
+        "close_price": 1040.0,
+        "volume": 22184756.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260701,
+        "open_price": 1032.0,
+        "high_price": 1032.0,
+        "low_price": 985.0,
+        "close_price": 1011.0,
+        "volume": 18966447.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260630,
+        "open_price": 1012.0,
+        "high_price": 1019.0,
+        "low_price": 990.0,
+        "close_price": 1010.0,
+        "volume": 18504079.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260629,
+        "open_price": 966.0,
+        "high_price": 1017.0,
+        "low_price": 966.0,
+        "close_price": 990.0,
+        "volume": 12781998.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260628,
+        "open_price": 994.0,
+        "high_price": 1018.0,
+        "low_price": 994.0,
+        "close_price": 995.0,
+        "volume": 31891456.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260627,
+        "open_price": 1050.0,
+        "high_price": 1050.0,
+        "low_price": 1012.0,
+        "close_price": 1024.0,
+        "volume": 20916341.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260623,
+        "open_price": 1020.0,
+        "high_price": 1048.0,
+        "low_price": 1020.0,
+        "close_price": 1043.0,
+        "volume": 15845985.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260622,
+        "open_price": 1012.0,
+        "high_price": 1039.0,
+        "low_price": 1011.0,
+        "close_price": 1018.0,
+        "volume": 31480584.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260621,
+        "open_price": 1086.0,
+        "high_price": 1086.0,
+        "low_price": 1037.0,
+        "close_price": 1042.0,
+        "volume": 24162966.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260620,
+        "open_price": 1104.0,
+        "high_price": 1111.0,
+        "low_price": 1047.0,
+        "close_price": 1069.0,
+        "volume": 44826274.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260617,
+        "open_price": 1095.0,
+        "high_price": 1100.0,
+        "low_price": 1054.0,
+        "close_price": 1079.0,
+        "volume": 45542006.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260616,
+        "open_price": 1104.0,
+        "high_price": 1104.0,
+        "low_price": 1040.0,
+        "close_price": 1086.0,
+        "volume": 76515569.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260615,
+        "open_price": 1072.0,
+        "high_price": 1072.0,
+        "low_price": 1072.0,
+        "close_price": 1072.0,
+        "volume": 9391539.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260614,
+        "open_price": 1041.0,
+        "high_price": 1041.0,
+        "low_price": 1041.0,
+        "close_price": 1041.0,
+        "volume": 7977288.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260613,
+        "open_price": 1011.0,
+        "high_price": 1011.0,
+        "low_price": 1011.0,
+        "close_price": 1011.0,
+        "volume": 7047864.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260610,
+        "open_price": 984.0,
+        "high_price": 985.0,
+        "low_price": 964.0,
+        "close_price": 982.0,
+        "volume": 33254390.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260609,
+        "open_price": 957.0,
+        "high_price": 957.0,
+        "low_price": 955.0,
+        "close_price": 957.0,
+        "volume": 14567828.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260608,
+        "open_price": 930.0,
+        "high_price": 949.0,
+        "low_price": 930.0,
+        "close_price": 930.0,
+        "volume": 43669560.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260607,
+        "open_price": 958.0,
+        "high_price": 958.0,
+        "low_price": 958.0,
+        "close_price": 958.0,
+        "volume": 17608831.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260606,
+        "open_price": 937.0,
+        "high_price": 941.0,
+        "low_price": 892.0,
+        "close_price": 931.0,
+        "volume": 33266237.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260603,
+        "open_price": 917.0,
+        "high_price": 950.0,
+        "low_price": 906.0,
+        "close_price": 914.0,
+        "volume": 28303966.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260602,
+        "open_price": 902.0,
+        "high_price": 950.0,
+        "low_price": 899.0,
+        "close_price": 934.0,
+        "volume": 49309986.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260601,
+        "open_price": 930.0,
+        "high_price": 930.0,
+        "low_price": 889.0,
+        "close_price": 926.0,
+        "volume": 95970939.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260531,
+        "open_price": 903.0,
+        "high_price": 903.0,
+        "low_price": 903.0,
+        "close_price": 903.0,
+        "volume": 8988580.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260530,
+        "open_price": 877.0,
+        "high_price": 877.0,
+        "low_price": 877.0,
+        "close_price": 877.0,
+        "volume": 9107054.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260526,
+        "open_price": 855.0,
+        "high_price": 855.0,
+        "low_price": 809.0,
+        "close_price": 852.0,
+        "volume": 33833251.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260525,
+        "open_price": 831.0,
+        "high_price": 831.0,
+        "low_price": 831.0,
+        "close_price": 831.0,
+        "volume": 12925539.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260524,
+        "open_price": 807.0,
+        "high_price": 807.0,
+        "low_price": 807.0,
+        "close_price": 807.0,
+        "volume": 8591548.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260523,
+        "open_price": 784.0,
+        "high_price": 784.0,
+        "low_price": 784.0,
+        "close_price": 784.0,
+        "volume": 630577.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260520,
+        "open_price": 762.0,
+        "high_price": 762.0,
+        "low_price": 762.0,
+        "close_price": 762.0,
+        "volume": 5051870.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260519,
+        "open_price": 722.0,
+        "high_price": 743.0,
+        "low_price": 722.0,
+        "close_price": 740.0,
+        "volume": 14953037.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 722.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260225,
+        "open_price": 699.0,
+        "high_price": 727.0,
+        "low_price": 699.0,
+        "close_price": 722.0,
+        "volume": 7708840.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260224,
+        "open_price": 700.0,
+        "high_price": 722.0,
+        "low_price": 700.0,
+        "close_price": 706.0,
+        "volume": 9305102.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260223,
+        "open_price": 724.0,
+        "high_price": 726.0,
+        "low_price": 700.0,
+        "close_price": 715.0,
+        "volume": 11896396.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260222,
+        "open_price": 712.0,
+        "high_price": 720.0,
+        "low_price": 698.0,
+        "close_price": 705.0,
+        "volume": 11697426.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260221,
+        "open_price": 719.0,
+        "high_price": 720.0,
+        "low_price": 719.0,
+        "close_price": 719.0,
+        "volume": 16003999.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260218,
+        "open_price": 762.0,
+        "high_price": 762.0,
+        "low_price": 730.0,
+        "close_price": 741.0,
+        "volume": 9941074.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260217,
+        "open_price": 753.0,
+        "high_price": 754.0,
+        "low_price": 732.0,
+        "close_price": 743.0,
+        "volume": 6166255.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260216,
+        "open_price": 710.0,
+        "high_price": 741.0,
+        "low_price": 710.0,
+        "close_price": 733.0,
+        "volume": 5493393.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260215,
+        "open_price": 740.0,
+        "high_price": 755.0,
+        "low_price": 721.0,
+        "close_price": 726.0,
+        "volume": 19112855.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260214,
+        "open_price": 756.0,
+        "high_price": 758.0,
+        "low_price": 726.0,
+        "close_price": 743.0,
+        "volume": 8833284.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260210,
+        "open_price": 728.0,
+        "high_price": 755.0,
+        "low_price": 727.0,
+        "close_price": 736.0,
+        "volume": 9296297.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260209,
+        "open_price": 761.0,
+        "high_price": 766.0,
+        "low_price": 747.0,
+        "close_price": 748.0,
+        "volume": 11966210.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260208,
+        "open_price": 806.0,
+        "high_price": 806.0,
+        "low_price": 762.0,
+        "close_price": 770.0,
+        "volume": 30047153.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260207,
+        "open_price": 784.0,
+        "high_price": 785.0,
+        "low_price": 775.0,
+        "close_price": 785.0,
+        "volume": 15309336.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260203,
+        "open_price": 789.0,
+        "high_price": 790.0,
+        "low_price": 757.0,
+        "close_price": 763.0,
+        "volume": 28513569.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260202,
+        "open_price": 787.0,
+        "high_price": 790.0,
+        "low_price": 769.0,
+        "close_price": 780.0,
+        "volume": 12746550.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260201,
+        "open_price": 765.0,
+        "high_price": 787.0,
+        "low_price": 765.0,
+        "close_price": 767.0,
+        "volume": 23841077.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260131,
+        "open_price": 789.0,
+        "high_price": 800.0,
+        "low_price": 788.0,
+        "close_price": 788.0,
+        "volume": 11294426.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260128,
+        "open_price": 830.0,
+        "high_price": 845.0,
+        "low_price": 811.0,
+        "close_price": 812.0,
+        "volume": 33804203.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260127,
+        "open_price": 836.0,
+        "high_price": 860.0,
+        "low_price": 836.0,
+        "close_price": 836.0,
+        "volume": 24225558.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260126,
+        "open_price": 861.0,
+        "high_price": 862.0,
+        "low_price": 861.0,
+        "close_price": 861.0,
+        "volume": 14278270.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260125,
+        "open_price": 887.0,
+        "high_price": 900.0,
+        "low_price": 887.0,
+        "close_price": 887.0,
+        "volume": 70868018.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260124,
+        "open_price": 913.0,
+        "high_price": 939.0,
+        "low_price": 913.0,
+        "close_price": 914.0,
+        "volume": 21338612.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260121,
+        "open_price": 940.0,
+        "high_price": 945.0,
+        "low_price": 921.0,
+        "close_price": 941.0,
+        "volume": 32325728.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260120,
+        "open_price": 889.0,
+        "high_price": 938.0,
+        "low_price": 889.0,
+        "close_price": 918.0,
+        "volume": 30914901.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260119,
+        "open_price": 900.0,
+        "high_price": 914.0,
+        "low_price": 900.0,
+        "close_price": 912.0,
+        "volume": 35435953.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260118,
+        "open_price": 851.0,
+        "high_price": 890.0,
+        "low_price": 851.0,
+        "close_price": 888.0,
+        "volume": 28944517.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260114,
+        "open_price": 862.0,
+        "high_price": 879.0,
+        "low_price": 862.0,
+        "close_price": 865.0,
+        "volume": 58674038.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260113,
+        "open_price": 905.0,
+        "high_price": 928.0,
+        "low_price": 880.0,
+        "close_price": 888.0,
+        "volume": 34729342.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260112,
+        "open_price": 884.0,
+        "high_price": 927.0,
+        "low_price": 884.0,
+        "close_price": 907.0,
+        "volume": 30164513.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260111,
+        "open_price": 898.0,
+        "high_price": 934.0,
+        "low_price": 898.0,
+        "close_price": 901.0,
+        "volume": 48729076.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260110,
+        "open_price": 925.0,
+        "high_price": 926.0,
+        "low_price": 925.0,
+        "close_price": 925.0,
+        "volume": 24548483.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260107,
+        "open_price": 992.0,
+        "high_price": 992.0,
+        "low_price": 938.0,
+        "close_price": 953.0,
+        "volume": 45877555.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260106,
+        "open_price": 966.0,
+        "high_price": 966.0,
+        "low_price": 965.0,
+        "close_price": 966.0,
+        "volume": 19647774.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260105,
+        "open_price": 890.0,
+        "high_price": 939.0,
+        "low_price": 890.0,
+        "close_price": 938.0,
+        "volume": 46795128.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20260104,
+        "open_price": 925.0,
+        "high_price": 962.0,
+        "low_price": 910.0,
+        "close_price": 912.0,
+        "volume": 67565285.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251231,
+        "open_price": 912.0,
+        "high_price": 968.0,
+        "low_price": 912.0,
+        "close_price": 938.0,
+        "volume": 74805228.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251230,
+        "open_price": 940.0,
+        "high_price": 940.0,
+        "low_price": 940.0,
+        "close_price": 940.0,
+        "volume": 17951454.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251229,
+        "open_price": 998.0,
+        "high_price": 1019.0,
+        "low_price": 965.0,
+        "close_price": 969.0,
+        "volume": 72672464.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251228,
+        "open_price": 974.0,
+        "high_price": 1001.0,
+        "low_price": 955.0,
+        "close_price": 994.0,
+        "volume": 88367176.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251227,
+        "open_price": 983.0,
+        "high_price": 988.0,
+        "low_price": 944.0,
+        "close_price": 972.0,
+        "volume": 86974109.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251224,
+        "open_price": 941.0,
+        "high_price": 965.0,
+        "low_price": 941.0,
+        "close_price": 960.0,
+        "volume": 78707081.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251223,
+        "open_price": 956.0,
+        "high_price": 956.0,
+        "low_price": 925.0,
+        "close_price": 937.0,
+        "volume": 62323184.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251222,
+        "open_price": 982.0,
+        "high_price": 982.0,
+        "low_price": 932.0,
+        "close_price": 942.0,
+        "volume": 91299862.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251221,
+        "open_price": 967.0,
+        "high_price": 969.0,
+        "low_price": 940.0,
+        "close_price": 960.0,
+        "volume": 91418586.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251220,
+        "open_price": 940.0,
+        "high_price": 941.0,
+        "low_price": 939.0,
+        "close_price": 941.0,
+        "volume": 57987682.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251217,
+        "open_price": 874.0,
+        "high_price": 924.0,
+        "low_price": 874.0,
+        "close_price": 914.0,
+        "volume": 59991886.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251216,
+        "open_price": 914.0,
+        "high_price": 919.0,
+        "low_price": 867.0,
+        "close_price": 898.0,
+        "volume": 87103426.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251215,
+        "open_price": 870.0,
+        "high_price": 894.0,
+        "low_price": 855.0,
+        "close_price": 893.0,
+        "volume": 81024221.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251214,
+        "open_price": 878.0,
+        "high_price": 878.0,
+        "low_price": 852.0,
+        "close_price": 868.0,
+        "volume": 27457532.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251213,
+        "open_price": 853.0,
+        "high_price": 874.0,
+        "low_price": 853.0,
+        "close_price": 867.0,
+        "volume": 29937547.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251210,
+        "open_price": 848.0,
+        "high_price": 860.0,
+        "low_price": 820.0,
+        "close_price": 853.0,
+        "volume": 33143248.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251209,
+        "open_price": 844.0,
+        "high_price": 848.0,
+        "low_price": 816.0,
+        "close_price": 835.0,
+        "volume": 31154822.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251208,
+        "open_price": 800.0,
+        "high_price": 832.0,
+        "low_price": 791.0,
+        "close_price": 824.0,
+        "volume": 38355891.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251207,
+        "open_price": 826.0,
+        "high_price": 839.0,
+        "low_price": 798.0,
+        "close_price": 808.0,
+        "volume": 34842067.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251206,
+        "open_price": 800.0,
+        "high_price": 824.0,
+        "low_price": 800.0,
+        "close_price": 822.0,
+        "volume": 51616731.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251203,
+        "open_price": 817.0,
+        "high_price": 817.0,
+        "low_price": 789.0,
+        "close_price": 800.0,
+        "volume": 39697552.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251202,
+        "open_price": 796.0,
+        "high_price": 806.0,
+        "low_price": 791.0,
+        "close_price": 802.0,
+        "volume": 25605481.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251201,
+        "open_price": 757.0,
+        "high_price": 786.0,
+        "low_price": 757.0,
+        "close_price": 783.0,
+        "volume": 34656085.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251130,
+        "open_price": 761.0,
+        "high_price": 779.0,
+        "low_price": 751.0,
+        "close_price": 764.0,
+        "volume": 16786204.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251129,
+        "open_price": 782.0,
+        "high_price": 782.0,
+        "low_price": 765.0,
+        "close_price": 767.0,
+        "volume": 35232371.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251126,
+        "open_price": 808.0,
+        "high_price": 818.0,
+        "low_price": 783.0,
+        "close_price": 788.0,
+        "volume": 30647904.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251125,
+        "open_price": 804.0,
+        "high_price": 809.0,
+        "low_price": 790.0,
+        "close_price": 807.0,
+        "volume": 34458081.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251123,
+        "open_price": 802.0,
+        "high_price": 802.0,
+        "low_price": 775.0,
+        "close_price": 786.0,
+        "volume": 18155377.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251122,
+        "open_price": 764.0,
+        "high_price": 786.0,
+        "low_price": 757.0,
+        "close_price": 782.0,
+        "volume": 47130663.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251119,
+        "open_price": 755.0,
+        "high_price": 775.0,
+        "low_price": 752.0,
+        "close_price": 764.0,
+        "volume": 19753399.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251118,
+        "open_price": 751.0,
+        "high_price": 771.0,
+        "low_price": 746.0,
+        "close_price": 760.0,
+        "volume": 13076850.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251117,
+        "open_price": 780.0,
+        "high_price": 780.0,
+        "low_price": 752.0,
+        "close_price": 766.0,
+        "volume": 14069355.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251116,
+        "open_price": 751.0,
+        "high_price": 765.0,
+        "low_price": 736.0,
+        "close_price": 762.0,
+        "volume": 39972378.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251115,
+        "open_price": 747.0,
+        "high_price": 761.0,
+        "low_price": 735.0,
+        "close_price": 743.0,
+        "volume": 9068487.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251112,
+        "open_price": 724.0,
+        "high_price": 755.0,
+        "low_price": 724.0,
+        "close_price": 742.0,
+        "volume": 20439367.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251111,
+        "open_price": 770.0,
+        "high_price": 777.0,
+        "low_price": 738.0,
+        "close_price": 745.0,
+        "volume": 27278798.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251110,
+        "open_price": 767.0,
+        "high_price": 777.0,
+        "low_price": 756.0,
+        "close_price": 760.0,
+        "volume": 28581857.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251109,
+        "open_price": 791.0,
+        "high_price": 798.0,
+        "low_price": 777.0,
+        "close_price": 779.0,
+        "volume": 19453239.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251108,
+        "open_price": 800.0,
+        "high_price": 818.0,
+        "low_price": 786.0,
+        "close_price": 801.0,
+        "volume": 12149609.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251105,
+        "open_price": 783.0,
+        "high_price": 812.0,
+        "low_price": 782.0,
+        "close_price": 795.0,
+        "volume": 18190020.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251104,
+        "open_price": 818.0,
+        "high_price": 818.0,
+        "low_price": 785.0,
+        "close_price": 798.0,
+        "volume": 29000129.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251103,
+        "open_price": 824.0,
+        "high_price": 824.0,
+        "low_price": 796.0,
+        "close_price": 809.0,
+        "volume": 37244510.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251102,
+        "open_price": 816.0,
+        "high_price": 824.0,
+        "low_price": 792.0,
+        "close_price": 806.0,
+        "volume": 34926569.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251101,
+        "open_price": 840.0,
+        "high_price": 848.0,
+        "low_price": 808.0,
+        "close_price": 816.0,
+        "volume": 41949338.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251029,
+        "open_price": 836.0,
+        "high_price": 845.0,
+        "low_price": 830.0,
+        "close_price": 832.0,
+        "volume": 58332902.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251028,
+        "open_price": 850.0,
+        "high_price": 868.0,
+        "low_price": 835.0,
+        "close_price": 855.0,
+        "volume": 49658690.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251027,
+        "open_price": 843.0,
+        "high_price": 843.0,
+        "low_price": 836.0,
+        "close_price": 843.0,
+        "volume": 201993906.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251026,
+        "open_price": 817.0,
+        "high_price": 829.0,
+        "low_price": 801.0,
+        "close_price": 819.0,
+        "volume": 88466586.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251025,
+        "open_price": 800.0,
+        "high_price": 817.0,
+        "low_price": 785.0,
+        "close_price": 805.0,
+        "volume": 41818404.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251022,
+        "open_price": 799.0,
+        "high_price": 809.0,
+        "low_price": 777.0,
+        "close_price": 794.0,
+        "volume": 21868341.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251021,
+        "open_price": 790.0,
+        "high_price": 813.0,
+        "low_price": 790.0,
+        "close_price": 791.0,
+        "volume": 62581650.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251020,
+        "open_price": 821.0,
+        "high_price": 824.0,
+        "low_price": 810.0,
+        "close_price": 814.0,
+        "volume": 21496078.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251019,
+        "open_price": 840.0,
+        "high_price": 849.0,
+        "low_price": 822.0,
+        "close_price": 835.0,
+        "volume": 32504302.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251018,
+        "open_price": 821.0,
+        "high_price": 826.0,
+        "low_price": 812.0,
+        "close_price": 825.0,
+        "volume": 41155486.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251015,
+        "open_price": 819.0,
+        "high_price": 819.0,
+        "low_price": 802.0,
+        "close_price": 802.0,
+        "volume": 57909667.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251014,
+        "open_price": 836.0,
+        "high_price": 836.0,
+        "low_price": 791.0,
+        "close_price": 826.0,
+        "volume": 70395095.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251013,
+        "open_price": 813.0,
+        "high_price": 813.0,
+        "low_price": 813.0,
+        "close_price": 812.0,
+        "volume": 18791447.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251012,
+        "open_price": 798.0,
+        "high_price": 798.0,
+        "low_price": 798.0,
+        "close_price": 790.0,
+        "volume": 13134948.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251011,
+        "open_price": 753.0,
+        "high_price": 784.0,
+        "low_price": 753.0,
+        "close_price": 775.0,
+        "volume": 11872758.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251008,
+        "open_price": 756.0,
+        "high_price": 762.0,
+        "low_price": 751.0,
+        "close_price": 762.0,
+        "volume": 38433713.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251007,
+        "open_price": 736.0,
+        "high_price": 748.0,
+        "low_price": 725.0,
+        "close_price": 740.0,
+        "volume": 22452092.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251006,
+        "open_price": 732.0,
+        "high_price": 744.0,
+        "low_price": 709.0,
+        "close_price": 727.0,
+        "volume": 22611489.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251005,
+        "open_price": 731.0,
+        "high_price": 731.0,
+        "low_price": 722.0,
+        "close_price": 724.0,
+        "volume": 15242701.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251004,
+        "open_price": 691.0,
+        "high_price": 711.0,
+        "low_price": 691.0,
+        "close_price": 710.0,
+        "volume": 21730393.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20251001,
+        "open_price": 692.0,
+        "high_price": 698.0,
+        "low_price": 690.0,
+        "close_price": 691.0,
+        "volume": 27393183.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250930,
+        "open_price": 729.0,
+        "high_price": 739.0,
+        "low_price": 703.0,
+        "close_price": 711.0,
+        "volume": 28452054.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250929,
+        "open_price": 720.0,
+        "high_price": 725.0,
+        "low_price": 712.0,
+        "close_price": 724.0,
+        "volume": 25947672.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250928,
+        "open_price": 708.0,
+        "high_price": 708.0,
+        "low_price": 701.0,
+        "close_price": 704.0,
+        "volume": 18463022.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250927,
+        "open_price": 689.0,
+        "high_price": 698.0,
+        "low_price": 668.0,
+        "close_price": 688.0,
+        "volume": 14357065.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250924,
+        "open_price": 678.0,
+        "high_price": 680.0,
+        "low_price": 664.0,
+        "close_price": 678.0,
+        "volume": 7041609.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250923,
+        "open_price": 676.0,
+        "high_price": 688.0,
+        "low_price": 669.0,
+        "close_price": 684.0,
+        "volume": 6803338.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250922,
+        "open_price": 704.0,
+        "high_price": 705.0,
+        "low_price": 680.0,
+        "close_price": 689.0,
+        "volume": 8334347.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250921,
+        "open_price": 676.0,
+        "high_price": 678.0,
+        "low_price": 676.0,
+        "close_price": 685.0,
+        "volume": 12071029.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250920,
+        "open_price": 678.0,
+        "high_price": 678.0,
+        "low_price": 678.0,
+        "close_price": 696.0,
+        "volume": 2031066.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250917,
+        "open_price": 709.0,
+        "high_price": 709.0,
+        "low_price": 682.0,
+        "close_price": 698.0,
+        "volume": 6178345.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250916,
+        "open_price": 720.0,
+        "high_price": 720.0,
+        "low_price": 689.0,
+        "close_price": 700.0,
+        "volume": 11201043.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250915,
+        "open_price": 716.0,
+        "high_price": 727.0,
+        "low_price": 695.0,
+        "close_price": 710.0,
+        "volume": 7184516.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250914,
+        "open_price": 685.0,
+        "high_price": 715.0,
+        "low_price": 685.0,
+        "close_price": 710.0,
+        "volume": 20978960.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250913,
+        "open_price": 695.0,
+        "high_price": 700.0,
+        "low_price": 682.0,
+        "close_price": 695.0,
+        "volume": 10621631.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250909,
+        "open_price": 721.0,
+        "high_price": 721.0,
+        "low_price": 684.0,
+        "close_price": 702.0,
+        "volume": 4431665.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250908,
+        "open_price": 680.0,
+        "high_price": 715.0,
+        "low_price": 680.0,
+        "close_price": 703.0,
+        "volume": 15889474.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250907,
+        "open_price": 716.0,
+        "high_price": 725.0,
+        "low_price": 685.0,
+        "close_price": 695.0,
+        "volume": 24439117.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250906,
+        "open_price": 735.0,
+        "high_price": 735.0,
+        "low_price": 693.0,
+        "close_price": 706.0,
+        "volume": 25035732.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250903,
+        "open_price": 719.0,
+        "high_price": 722.0,
+        "low_price": 708.0,
+        "close_price": 714.0,
+        "volume": 16361538.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250902,
+        "open_price": 676.0,
+        "high_price": 708.0,
+        "low_price": 676.0,
+        "close_price": 701.0,
+        "volume": 15820283.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250831,
+        "open_price": 677.0,
+        "high_price": 708.0,
+        "low_price": 670.0,
+        "close_price": 688.0,
+        "volume": 8162578.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250830,
+        "open_price": 679.0,
+        "high_price": 708.0,
+        "low_price": 679.0,
+        "close_price": 690.0,
+        "volume": 10491097.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250827,
+        "open_price": 692.0,
+        "high_price": 724.0,
+        "low_price": 692.0,
+        "close_price": 700.0,
+        "volume": 13380441.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250826,
+        "open_price": 701.0,
+        "high_price": 710.0,
+        "low_price": 701.0,
+        "close_price": 713.0,
+        "volume": 8615113.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250825,
+        "open_price": 710.0,
+        "high_price": 725.0,
+        "low_price": 707.0,
+        "close_price": 722.0,
+        "volume": 5938174.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250823,
+        "open_price": 720.0,
+        "high_price": 739.0,
+        "low_price": 711.0,
+        "close_price": 728.0,
+        "volume": 6817455.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250820,
+        "open_price": 723.0,
+        "high_price": 733.0,
+        "low_price": 721.0,
+        "close_price": 732.0,
+        "volume": 10455348.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250819,
+        "open_price": 738.0,
+        "high_price": 750.0,
+        "low_price": 735.0,
+        "close_price": 743.0,
+        "volume": 12401704.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250818,
+        "open_price": 790.0,
+        "high_price": 795.0,
+        "low_price": 751.0,
+        "close_price": 757.0,
+        "volume": 25709178.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250817,
+        "open_price": 760.0,
+        "high_price": 800.0,
+        "low_price": 760.0,
+        "close_price": 774.0,
+        "volume": 36285824.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250816,
+        "open_price": 763.0,
+        "high_price": 763.0,
+        "low_price": 763.0,
+        "close_price": 783.0,
+        "volume": 2235446.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250813,
+        "open_price": 764.0,
+        "high_price": 764.0,
+        "low_price": 764.0,
+        "close_price": 786.0,
+        "volume": 1069746.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250812,
+        "open_price": 765.0,
+        "high_price": 765.0,
+        "low_price": 765.0,
+        "close_price": 787.0,
+        "volume": 627361.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250811,
+        "open_price": 780.0,
+        "high_price": 782.0,
+        "low_price": 773.0,
+        "close_price": 788.0,
+        "volume": 6523290.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250810,
+        "open_price": 824.0,
+        "high_price": 824.0,
+        "low_price": 781.0,
+        "close_price": 796.0,
+        "volume": 17567077.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250809,
+        "open_price": 801.0,
+        "high_price": 827.0,
+        "low_price": 801.0,
+        "close_price": 804.0,
+        "volume": 37332283.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250806,
+        "open_price": 803.0,
+        "high_price": 803.0,
+        "low_price": 803.0,
+        "close_price": 825.0,
+        "volume": 1360358.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250805,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 827.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250804,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 827.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250803,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 786.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250802,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 786.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250730,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 786.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250729,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 786.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250728,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 786.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250727,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 786.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250726,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 786.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250723,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 786.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250722,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 786.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250721,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 786.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250720,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250719,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250716,
+        "open_price": 821.0,
+        "high_price": 837.0,
+        "low_price": 821.0,
+        "close_price": 834.0,
+        "volume": 34084023.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250715,
+        "open_price": 845.0,
+        "high_price": 845.0,
+        "low_price": 804.0,
+        "close_price": 813.0,
+        "volume": 40606253.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250714,
+        "open_price": 834.0,
+        "high_price": 852.0,
+        "low_price": 821.0,
+        "close_price": 828.0,
+        "volume": 64600278.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250713,
+        "open_price": 847.0,
+        "high_price": 869.0,
+        "low_price": 839.0,
+        "close_price": 846.0,
+        "volume": 21475270.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250712,
+        "open_price": 860.0,
+        "high_price": 908.0,
+        "low_price": 858.0,
+        "close_price": 864.0,
+        "volume": 30411339.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250709,
+        "open_price": 860.0,
+        "high_price": 860.0,
+        "low_price": 860.0,
+        "close_price": 884.0,
+        "volume": 1273436.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250708,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 886.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250707,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 886.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250702,
+        "open_price": 880.0,
+        "high_price": 927.0,
+        "low_price": 880.0,
+        "close_price": 886.0,
+        "volume": 64304739.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250701,
+        "open_price": 881.0,
+        "high_price": 881.0,
+        "low_price": 881.0,
+        "close_price": 907.0,
+        "volume": 832150.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250630,
+        "open_price": 908.0,
+        "high_price": 909.0,
+        "low_price": 908.0,
+        "close_price": 908.0,
+        "volume": 64390712.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250629,
+        "open_price": 930.0,
+        "high_price": 930.0,
+        "low_price": 930.0,
+        "close_price": 936.0,
+        "volume": 11852950.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250628,
+        "open_price": 944.0,
+        "high_price": 944.0,
+        "low_price": 944.0,
+        "close_price": 958.0,
+        "volume": 8134393.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 973.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 973.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 973.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 973.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 973.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 973.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 973.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 973.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250611,
+        "open_price": 980.0,
+        "high_price": 995.0,
+        "low_price": 952.0,
+        "close_price": 973.0,
+        "volume": 9283399.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250610,
+        "open_price": 989.0,
+        "high_price": 992.0,
+        "low_price": 961.0,
+        "close_price": 975.0,
+        "volume": 15844285.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250609,
+        "open_price": 981.0,
+        "high_price": 998.0,
+        "low_price": 960.0,
+        "close_price": 965.0,
+        "volume": 18429987.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250608,
+        "open_price": 980.0,
+        "high_price": 1007.0,
+        "low_price": 974.0,
+        "close_price": 989.0,
+        "volume": 15078314.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250607,
+        "open_price": 1010.0,
+        "high_price": 1010.0,
+        "low_price": 988.0,
+        "close_price": 1003.0,
+        "volume": 7212871.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250603,
+        "open_price": 1065.0,
+        "high_price": 1065.0,
+        "low_price": 1015.0,
+        "close_price": 1018.0,
+        "volume": 29998333.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250602,
+        "open_price": 1028.0,
+        "high_price": 1060.0,
+        "low_price": 1028.0,
+        "close_price": 1046.0,
+        "volume": 12753165.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250601,
+        "open_price": 1083.0,
+        "high_price": 1083.0,
+        "low_price": 1036.0,
+        "close_price": 1037.0,
+        "volume": 34332983.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250531,
+        "open_price": 1089.0,
+        "high_price": 1089.0,
+        "low_price": 1041.0,
+        "close_price": 1068.0,
+        "volume": 17138729.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250528,
+        "open_price": 1065.0,
+        "high_price": 1088.0,
+        "low_price": 1053.0,
+        "close_price": 1066.0,
+        "volume": 16608356.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250527,
+        "open_price": 1095.0,
+        "high_price": 1096.0,
+        "low_price": 1058.0,
+        "close_price": 1072.0,
+        "volume": 11544283.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250526,
+        "open_price": 1120.0,
+        "high_price": 1120.0,
+        "low_price": 1066.0,
+        "close_price": 1073.0,
+        "volume": 26830603.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250525,
+        "open_price": 1126.0,
+        "high_price": 1129.0,
+        "low_price": 1083.0,
+        "close_price": 1098.0,
+        "volume": 12293313.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250524,
+        "open_price": 1100.0,
+        "high_price": 1126.0,
+        "low_price": 1071.0,
+        "close_price": 1116.0,
+        "volume": 20603724.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250521,
+        "open_price": 1092.0,
+        "high_price": 1112.0,
+        "low_price": 1091.0,
+        "close_price": 1094.0,
+        "volume": 23278099.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250520,
+        "open_price": 1133.0,
+        "high_price": 1160.0,
+        "low_price": 1113.0,
+        "close_price": 1124.0,
+        "volume": 36950148.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250519,
+        "open_price": 1148.0,
+        "high_price": 1149.0,
+        "low_price": 1122.0,
+        "close_price": 1147.0,
+        "volume": 66762792.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250518,
+        "open_price": 1105.0,
+        "high_price": 1143.0,
+        "low_price": 1092.0,
+        "close_price": 1116.0,
+        "volume": 35946354.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250517,
+        "open_price": 1160.0,
+        "high_price": 1170.0,
+        "low_price": 1112.0,
+        "close_price": 1118.0,
+        "volume": 46659098.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250514,
+        "open_price": 1173.0,
+        "high_price": 1173.0,
+        "low_price": 1130.0,
+        "close_price": 1146.0,
+        "volume": 37035733.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250513,
+        "open_price": 1151.0,
+        "high_price": 1180.0,
+        "low_price": 1129.0,
+        "close_price": 1153.0,
+        "volume": 26729232.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250512,
+        "open_price": 1161.0,
+        "high_price": 1161.0,
+        "low_price": 1129.0,
+        "close_price": 1160.0,
+        "volume": 29349012.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250511,
+        "open_price": 1129.0,
+        "high_price": 1135.0,
+        "low_price": 1128.0,
+        "close_price": 1128.0,
+        "volume": 18674763.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250510,
+        "open_price": 1183.0,
+        "high_price": 1183.0,
+        "low_price": 1162.0,
+        "close_price": 1162.0,
+        "volume": 23209063.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250507,
+        "open_price": 1204.0,
+        "high_price": 1215.0,
+        "low_price": 1180.0,
+        "close_price": 1197.0,
+        "volume": 27876665.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250506,
+        "open_price": 1152.0,
+        "high_price": 1204.0,
+        "low_price": 1152.0,
+        "close_price": 1185.0,
+        "volume": 44826166.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250505,
+        "open_price": 1190.0,
+        "high_price": 1196.0,
+        "low_price": 1128.0,
+        "close_price": 1169.0,
+        "volume": 91354619.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250504,
+        "open_price": 1162.0,
+        "high_price": 1162.0,
+        "low_price": 1149.0,
+        "close_price": 1162.0,
+        "volume": 107069002.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250503,
+        "open_price": 1109.0,
+        "high_price": 1177.0,
+        "low_price": 1109.0,
+        "close_price": 1129.0,
+        "volume": 49543597.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250430,
+        "open_price": 1144.0,
+        "high_price": 1144.0,
+        "low_price": 1121.0,
+        "close_price": 1143.0,
+        "volume": 34212622.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250429,
+        "open_price": 1110.0,
+        "high_price": 1113.0,
+        "low_price": 1083.0,
+        "close_price": 1111.0,
+        "volume": 43177291.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250428,
+        "open_price": 1079.0,
+        "high_price": 1086.0,
+        "low_price": 1056.0,
+        "close_price": 1081.0,
+        "volume": 28446043.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250427,
+        "open_price": 1060.0,
+        "high_price": 1077.0,
+        "low_price": 1044.0,
+        "close_price": 1055.0,
+        "volume": 28938028.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250426,
+        "open_price": 1086.0,
+        "high_price": 1091.0,
+        "low_price": 1050.0,
+        "close_price": 1075.0,
+        "volume": 24845511.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250423,
+        "open_price": 1077.0,
+        "high_price": 1077.0,
+        "low_price": 1059.0,
+        "close_price": 1060.0,
+        "volume": 62175228.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250422,
+        "open_price": 1108.0,
+        "high_price": 1109.0,
+        "low_price": 1090.0,
+        "close_price": 1091.0,
+        "volume": 30892840.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250421,
+        "open_price": 1135.0,
+        "high_price": 1135.0,
+        "low_price": 1081.0,
+        "close_price": 1123.0,
+        "volume": 45657369.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250420,
+        "open_price": 1099.0,
+        "high_price": 1102.0,
+        "low_price": 1098.0,
+        "close_price": 1102.0,
+        "volume": 30786054.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250419,
+        "open_price": 1050.0,
+        "high_price": 1075.0,
+        "low_price": 1050.0,
+        "close_price": 1070.0,
+        "volume": 34524047.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250416,
+        "open_price": 1035.0,
+        "high_price": 1065.0,
+        "low_price": 1023.0,
+        "close_price": 1044.0,
+        "volume": 42367469.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250415,
+        "open_price": 1089.0,
+        "high_price": 1089.0,
+        "low_price": 1054.0,
+        "close_price": 1054.0,
+        "volume": 29417263.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250414,
+        "open_price": 1115.0,
+        "high_price": 1115.0,
+        "low_price": 1065.0,
+        "close_price": 1086.0,
+        "volume": 42268149.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250413,
+        "open_price": 1089.0,
+        "high_price": 1090.0,
+        "low_price": 1072.0,
+        "close_price": 1089.0,
+        "volume": 60203312.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250412,
+        "open_price": 1026.0,
+        "high_price": 1088.0,
+        "low_price": 1026.0,
+        "close_price": 1059.0,
+        "volume": 28097262.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250409,
+        "open_price": 1090.0,
+        "high_price": 1092.0,
+        "low_price": 1052.0,
+        "close_price": 1057.0,
+        "volume": 21410780.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250408,
+        "open_price": 1045.0,
+        "high_price": 1085.0,
+        "low_price": 1045.0,
+        "close_price": 1084.0,
+        "volume": 37722448.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250407,
+        "open_price": 1071.0,
+        "high_price": 1096.0,
+        "low_price": 1044.0,
+        "close_price": 1054.0,
+        "volume": 11943379.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250406,
+        "open_price": 1112.0,
+        "high_price": 1112.0,
+        "low_price": 1050.0,
+        "close_price": 1076.0,
+        "volume": 52461028.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250405,
+        "open_price": 1080.0,
+        "high_price": 1086.0,
+        "low_price": 1056.0,
+        "close_price": 1082.0,
+        "volume": 56174295.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250330,
+        "open_price": 1055.0,
+        "high_price": 1055.0,
+        "low_price": 1050.0,
+        "close_price": 1055.0,
+        "volume": 42317588.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250329,
+        "open_price": 1028.0,
+        "high_price": 1028.0,
+        "low_price": 1004.0,
+        "close_price": 1025.0,
+        "volume": 50544985.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250326,
+        "open_price": 986.0,
+        "high_price": 1008.0,
+        "low_price": 968.0,
+        "close_price": 999.0,
+        "volume": 36173602.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250325,
+        "open_price": 948.0,
+        "high_price": 986.0,
+        "low_price": 948.0,
+        "close_price": 979.0,
+        "volume": 15597278.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250318,
+        "open_price": 976.0,
+        "high_price": 976.0,
+        "low_price": 946.0,
+        "close_price": 958.0,
+        "volume": 9445822.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250317,
+        "open_price": 966.0,
+        "high_price": 1004.0,
+        "low_price": 954.0,
+        "close_price": 975.0,
+        "volume": 19031327.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250316,
+        "open_price": 980.0,
+        "high_price": 1003.0,
+        "low_price": 957.0,
+        "close_price": 983.0,
+        "volume": 45494776.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250315,
+        "open_price": 955.0,
+        "high_price": 977.0,
+        "low_price": 955.0,
+        "close_price": 976.0,
+        "volume": 24606376.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250312,
+        "open_price": 909.0,
+        "high_price": 953.0,
+        "low_price": 901.0,
+        "close_price": 949.0,
+        "volume": 28417138.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250311,
+        "open_price": 969.0,
+        "high_price": 974.0,
+        "low_price": 925.0,
+        "close_price": 926.0,
+        "volume": 28202266.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250310,
+        "open_price": 951.0,
+        "high_price": 980.0,
+        "low_price": 930.0,
+        "close_price": 953.0,
+        "volume": 16266498.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250309,
+        "open_price": 956.0,
+        "high_price": 979.0,
+        "low_price": 956.0,
+        "close_price": 957.0,
+        "volume": 30725630.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250308,
+        "open_price": 1036.0,
+        "high_price": 1036.0,
+        "low_price": 982.0,
+        "close_price": 985.0,
+        "volume": 21959066.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250305,
+        "open_price": 978.0,
+        "high_price": 1013.0,
+        "low_price": 978.0,
+        "close_price": 1012.0,
+        "volume": 44404620.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250304,
+        "open_price": 950.0,
+        "high_price": 997.0,
+        "low_price": 950.0,
+        "close_price": 984.0,
+        "volume": 32417185.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250303,
+        "open_price": 970.0,
+        "high_price": 1013.0,
+        "low_price": 965.0,
+        "close_price": 968.0,
+        "volume": 52898318.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250302,
+        "open_price": 1010.0,
+        "high_price": 1021.0,
+        "low_price": 992.0,
+        "close_price": 994.0,
+        "volume": 111986115.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250301,
+        "open_price": 1022.0,
+        "high_price": 1048.0,
+        "low_price": 1022.0,
+        "close_price": 1022.0,
+        "volume": 60960502.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250226,
+        "open_price": 1070.0,
+        "high_price": 1080.0,
+        "low_price": 1052.0,
+        "close_price": 1053.0,
+        "volume": 39165831.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250225,
+        "open_price": 1094.0,
+        "high_price": 1121.0,
+        "low_price": 1063.0,
+        "close_price": 1084.0,
+        "volume": 26428540.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250224,
+        "open_price": 1052.0,
+        "high_price": 1092.0,
+        "low_price": 1050.0,
+        "close_price": 1089.0,
+        "volume": 34186370.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250223,
+        "open_price": 1043.0,
+        "high_price": 1074.0,
+        "low_price": 1043.0,
+        "close_price": 1061.0,
+        "volume": 17706487.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250222,
+        "open_price": 1092.0,
+        "high_price": 1092.0,
+        "low_price": 1039.0,
+        "close_price": 1043.0,
+        "volume": 29775865.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250219,
+        "open_price": 1067.0,
+        "high_price": 1074.0,
+        "low_price": 1043.0,
+        "close_price": 1071.0,
+        "volume": 26373243.0
+    },
+    {
+        "symbol": "شلعاب",
+        "trade_date": 20250218,
+        "open_price": 1025.0,
+        "high_price": 1067.0,
+        "low_price": 1025.0,
+        "close_price": 1043.0,
+        "volume": 21537391.0
+    }
+]

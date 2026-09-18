@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "وملی",
+        "trade_date": 20260901,
+        "open_price": 250000.0,
+        "high_price": 262400.0,
+        "low_price": 247200.0,
+        "close_price": 252300.0,
+        "volume": 471456.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260831,
+        "open_price": 254500.0,
+        "high_price": 259000.0,
+        "low_price": 254500.0,
+        "close_price": 254800.0,
+        "volume": 557411.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260829,
+        "open_price": 267300.0,
+        "high_price": 267300.0,
+        "low_price": 256300.0,
+        "close_price": 262300.0,
+        "volume": 577374.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260826,
+        "open_price": 259600.0,
+        "high_price": 259600.0,
+        "low_price": 259600.0,
+        "close_price": 259600.0,
+        "volume": 268767.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260825,
+        "open_price": 252100.0,
+        "high_price": 252100.0,
+        "low_price": 248400.0,
+        "close_price": 252100.0,
+        "volume": 261858.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260824,
+        "open_price": 241800.0,
+        "high_price": 247000.0,
+        "low_price": 236600.0,
+        "close_price": 244800.0,
+        "volume": 605658.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260823,
+        "open_price": 241100.0,
+        "high_price": 241800.0,
+        "low_price": 227900.0,
+        "close_price": 239900.0,
+        "volume": 969327.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260822,
+        "open_price": 234900.0,
+        "high_price": 235600.0,
+        "low_price": 230600.0,
+        "close_price": 234800.0,
+        "volume": 414815.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260819,
+        "open_price": 227000.0,
+        "high_price": 233000.0,
+        "low_price": 221900.0,
+        "close_price": 228800.0,
+        "volume": 274751.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260818,
+        "open_price": 235000.0,
+        "high_price": 235000.0,
+        "low_price": 221600.0,
+        "close_price": 227400.0,
+        "volume": 503495.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260817,
+        "open_price": 228800.0,
+        "high_price": 228800.0,
+        "low_price": 225500.0,
+        "close_price": 228400.0,
+        "volume": 417307.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260816,
+        "open_price": 220000.0,
+        "high_price": 222800.0,
+        "low_price": 217000.0,
+        "close_price": 222200.0,
+        "volume": 424022.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260815,
+        "open_price": 221200.0,
+        "high_price": 221200.0,
+        "low_price": 214400.0,
+        "close_price": 216400.0,
+        "volume": 337157.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260811,
+        "open_price": 229900.0,
+        "high_price": 229900.0,
+        "low_price": 217300.0,
+        "close_price": 221000.0,
+        "volume": 224989.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260810,
+        "open_price": 217900.0,
+        "high_price": 229600.0,
+        "low_price": 216900.0,
+        "close_price": 224000.0,
+        "volume": 398143.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260809,
+        "open_price": 236200.0,
+        "high_price": 236200.0,
+        "low_price": 222700.0,
+        "close_price": 223600.0,
+        "volume": 631618.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260808,
+        "open_price": 229500.0,
+        "high_price": 229500.0,
+        "low_price": 229500.0,
+        "close_price": 229500.0,
+        "volume": 269243.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260805,
+        "open_price": 222800.0,
+        "high_price": 222900.0,
+        "low_price": 220900.0,
+        "close_price": 222900.0,
+        "volume": 429194.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260803,
+        "open_price": 216600.0,
+        "high_price": 216600.0,
+        "low_price": 215300.0,
+        "close_price": 216500.0,
+        "volume": 192524.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260802,
+        "open_price": 206000.0,
+        "high_price": 212100.0,
+        "low_price": 205900.0,
+        "close_price": 210300.0,
+        "volume": 399530.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260801,
+        "open_price": 204900.0,
+        "high_price": 208300.0,
+        "low_price": 203400.0,
+        "close_price": 206000.0,
+        "volume": 424922.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260729,
+        "open_price": 199300.0,
+        "high_price": 204200.0,
+        "low_price": 193400.0,
+        "close_price": 202400.0,
+        "volume": 427667.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260728,
+        "open_price": 196000.0,
+        "high_price": 202200.0,
+        "low_price": 195000.0,
+        "close_price": 198300.0,
+        "volume": 221591.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260727,
+        "open_price": 201700.0,
+        "high_price": 201800.0,
+        "low_price": 192000.0,
+        "close_price": 198400.0,
+        "volume": 229933.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260726,
+        "open_price": 196000.0,
+        "high_price": 196000.0,
+        "low_price": 196000.0,
+        "close_price": 196000.0,
+        "volume": 106333.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260725,
+        "open_price": 190300.0,
+        "high_price": 197500.0,
+        "low_price": 188200.0,
+        "close_price": 190300.0,
+        "volume": 273502.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260722,
+        "open_price": 201300.0,
+        "high_price": 201300.0,
+        "low_price": 193400.0,
+        "close_price": 194000.0,
+        "volume": 235366.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260721,
+        "open_price": 199100.0,
+        "high_price": 201300.0,
+        "low_price": 197300.0,
+        "close_price": 199300.0,
+        "volume": 133763.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260720,
+        "open_price": 196600.0,
+        "high_price": 196600.0,
+        "low_price": 190100.0,
+        "close_price": 195500.0,
+        "volume": 242396.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260719,
+        "open_price": 182600.0,
+        "high_price": 193500.0,
+        "low_price": 182500.0,
+        "close_price": 190900.0,
+        "volume": 199469.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260718,
+        "open_price": 188800.0,
+        "high_price": 188900.0,
+        "low_price": 187900.0,
+        "close_price": 187900.0,
+        "volume": 522206.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260715,
+        "open_price": 196400.0,
+        "high_price": 203000.0,
+        "low_price": 191200.0,
+        "close_price": 193700.0,
+        "volume": 254581.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260714,
+        "open_price": 195500.0,
+        "high_price": 203900.0,
+        "low_price": 193100.0,
+        "close_price": 197100.0,
+        "volume": 76539.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260713,
+        "open_price": 198300.0,
+        "high_price": 206200.0,
+        "low_price": 198300.0,
+        "close_price": 199000.0,
+        "volume": 314664.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260712,
+        "open_price": 204400.0,
+        "high_price": 204400.0,
+        "low_price": 204400.0,
+        "close_price": 204400.0,
+        "volume": 57283.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260711,
+        "open_price": 216000.0,
+        "high_price": 219900.0,
+        "low_price": 209400.0,
+        "close_price": 210700.0,
+        "volume": 234656.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260708,
+        "open_price": 216600.0,
+        "high_price": 216600.0,
+        "low_price": 210000.0,
+        "close_price": 215800.0,
+        "volume": 907674.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260707,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 210300.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260701,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 213200.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260630,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 213200.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260629,
+        "open_price": 202900.0,
+        "high_price": 215300.0,
+        "low_price": 202900.0,
+        "close_price": 213200.0,
+        "volume": 369617.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260628,
+        "open_price": 209100.0,
+        "high_price": 209800.0,
+        "low_price": 209100.0,
+        "close_price": 209100.0,
+        "volume": 260468.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260627,
+        "open_price": 220200.0,
+        "high_price": 220300.0,
+        "low_price": 215100.0,
+        "close_price": 215500.0,
+        "volume": 240516.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260623,
+        "open_price": 221000.0,
+        "high_price": 224220.0,
+        "low_price": 212010.0,
+        "close_price": 221720.0,
+        "volume": 237045.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260622,
+        "open_price": 215580.0,
+        "high_price": 221780.0,
+        "low_price": 215550.0,
+        "close_price": 217690.0,
+        "volume": 239194.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260621,
+        "open_price": 232950.0,
+        "high_price": 232950.0,
+        "low_price": 221780.0,
+        "close_price": 222210.0,
+        "volume": 426025.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260620,
+        "open_price": 239680.0,
+        "high_price": 239680.0,
+        "low_price": 225800.0,
+        "close_price": 228630.0,
+        "volume": 417560.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260617,
+        "open_price": 235000.0,
+        "high_price": 237980.0,
+        "low_price": 230610.0,
+        "close_price": 232780.0,
+        "volume": 612196.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260616,
+        "open_price": 243940.0,
+        "high_price": 243940.0,
+        "low_price": 229740.0,
+        "close_price": 237740.0,
+        "volume": 849031.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260615,
+        "open_price": 236840.0,
+        "high_price": 236840.0,
+        "low_price": 236840.0,
+        "close_price": 236840.0,
+        "volume": 140156.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260614,
+        "open_price": 229950.0,
+        "high_price": 229950.0,
+        "low_price": 229950.0,
+        "close_price": 229950.0,
+        "volume": 144268.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260613,
+        "open_price": 223260.0,
+        "high_price": 223260.0,
+        "low_price": 223260.0,
+        "close_price": 223260.0,
+        "volume": 110791.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260610,
+        "open_price": 217190.0,
+        "high_price": 217190.0,
+        "low_price": 211560.0,
+        "close_price": 216760.0,
+        "volume": 313227.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260609,
+        "open_price": 207890.0,
+        "high_price": 211560.0,
+        "low_price": 207890.0,
+        "close_price": 210870.0,
+        "volume": 72528.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260608,
+        "open_price": 205400.0,
+        "high_price": 205400.0,
+        "low_price": 205400.0,
+        "close_price": 205400.0,
+        "volume": 66754.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260607,
+        "open_price": 205580.0,
+        "high_price": 212040.0,
+        "low_price": 205580.0,
+        "close_price": 211750.0,
+        "volume": 138793.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260606,
+        "open_price": 210000.0,
+        "high_price": 212990.0,
+        "low_price": 204110.0,
+        "close_price": 205870.0,
+        "volume": 214268.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260603,
+        "open_price": 208260.0,
+        "high_price": 215600.0,
+        "low_price": 208260.0,
+        "close_price": 210420.0,
+        "volume": 562315.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260602,
+        "open_price": 215190.0,
+        "high_price": 215280.0,
+        "low_price": 209010.0,
+        "close_price": 214700.0,
+        "volume": 562417.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260601,
+        "open_price": 209030.0,
+        "high_price": 209030.0,
+        "low_price": 206000.0,
+        "close_price": 209010.0,
+        "volume": 591064.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260531,
+        "open_price": 202950.0,
+        "high_price": 202950.0,
+        "low_price": 202950.0,
+        "close_price": 202950.0,
+        "volume": 125848.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260530,
+        "open_price": 197040.0,
+        "high_price": 197040.0,
+        "low_price": 197040.0,
+        "close_price": 197040.0,
+        "volume": 23031.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260526,
+        "open_price": 191790.0,
+        "high_price": 191790.0,
+        "low_price": 186520.0,
+        "close_price": 191310.0,
+        "volume": 211005.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260525,
+        "open_price": 186210.0,
+        "high_price": 186210.0,
+        "low_price": 186210.0,
+        "close_price": 186210.0,
+        "volume": 223079.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260524,
+        "open_price": 180790.0,
+        "high_price": 180790.0,
+        "low_price": 180790.0,
+        "close_price": 180790.0,
+        "volume": 54472.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260523,
+        "open_price": 175530.0,
+        "high_price": 175530.0,
+        "low_price": 175530.0,
+        "close_price": 175530.0,
+        "volume": 28183.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260520,
+        "open_price": 170400.0,
+        "high_price": 170420.0,
+        "low_price": 170400.0,
+        "close_price": 170420.0,
+        "volume": 81744.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260519,
+        "open_price": 159740.0,
+        "high_price": 169620.0,
+        "low_price": 159740.0,
+        "close_price": 165460.0,
+        "volume": 559424.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 164680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260225,
+        "open_price": 162890.0,
+        "high_price": 167000.0,
+        "low_price": 161200.0,
+        "close_price": 164680.0,
+        "volume": 131201.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260224,
+        "open_price": 174000.0,
+        "high_price": 174000.0,
+        "low_price": 164490.0,
+        "close_price": 165380.0,
+        "volume": 104498.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260223,
+        "open_price": 169000.0,
+        "high_price": 172880.0,
+        "low_price": 167920.0,
+        "close_price": 169570.0,
+        "volume": 33432.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260222,
+        "open_price": 167920.0,
+        "high_price": 170000.0,
+        "low_price": 167920.0,
+        "close_price": 167920.0,
+        "volume": 98544.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260221,
+        "open_price": 173070.0,
+        "high_price": 174040.0,
+        "low_price": 173070.0,
+        "close_price": 173110.0,
+        "volume": 123123.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260218,
+        "open_price": 183500.0,
+        "high_price": 183500.0,
+        "low_price": 175000.0,
+        "close_price": 178420.0,
+        "volume": 40177.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260217,
+        "open_price": 175010.0,
+        "high_price": 180550.0,
+        "low_price": 171850.0,
+        "close_price": 178280.0,
+        "volume": 113033.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260216,
+        "open_price": 180930.0,
+        "high_price": 180930.0,
+        "low_price": 171130.0,
+        "close_price": 175300.0,
+        "volume": 55688.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260215,
+        "open_price": 176110.0,
+        "high_price": 184690.0,
+        "low_price": 175090.0,
+        "close_price": 175680.0,
+        "volume": 77870.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260214,
+        "open_price": 181120.0,
+        "high_price": 185400.0,
+        "low_price": 176080.0,
+        "close_price": 180500.0,
+        "volume": 80693.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260210,
+        "open_price": 185480.0,
+        "high_price": 185480.0,
+        "low_price": 179290.0,
+        "close_price": 181200.0,
+        "volume": 64994.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260209,
+        "open_price": 182370.0,
+        "high_price": 186820.0,
+        "low_price": 181220.0,
+        "close_price": 181280.0,
+        "volume": 80373.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260208,
+        "open_price": 192930.0,
+        "high_price": 192930.0,
+        "low_price": 182500.0,
+        "close_price": 186820.0,
+        "volume": 191655.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260207,
+        "open_price": 187630.0,
+        "high_price": 187670.0,
+        "low_price": 183920.0,
+        "close_price": 187640.0,
+        "volume": 86660.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260203,
+        "open_price": 188980.0,
+        "high_price": 188980.0,
+        "low_price": 178540.0,
+        "close_price": 182210.0,
+        "volume": 182204.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260202,
+        "open_price": 183850.0,
+        "high_price": 183870.0,
+        "low_price": 178520.0,
+        "close_price": 183840.0,
+        "volume": 156139.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260201,
+        "open_price": 184160.0,
+        "high_price": 184160.0,
+        "low_price": 177130.0,
+        "close_price": 178520.0,
+        "volume": 171977.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260131,
+        "open_price": 187920.0,
+        "high_price": 187920.0,
+        "low_price": 182290.0,
+        "close_price": 182600.0,
+        "volume": 150683.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260128,
+        "open_price": 187560.0,
+        "high_price": 192890.0,
+        "low_price": 187560.0,
+        "close_price": 187920.0,
+        "volume": 471514.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260127,
+        "open_price": 193360.0,
+        "high_price": 193360.0,
+        "low_price": 193360.0,
+        "close_price": 193360.0,
+        "volume": 71532.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260126,
+        "open_price": 199340.0,
+        "high_price": 199340.0,
+        "low_price": 199340.0,
+        "close_price": 199340.0,
+        "volume": 68182.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260125,
+        "open_price": 205500.0,
+        "high_price": 205500.0,
+        "low_price": 205500.0,
+        "close_price": 205500.0,
+        "volume": 168197.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260124,
+        "open_price": 211820.0,
+        "high_price": 219760.0,
+        "low_price": 211790.0,
+        "close_price": 211850.0,
+        "volume": 198280.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260121,
+        "open_price": 208010.0,
+        "high_price": 219750.0,
+        "low_price": 208010.0,
+        "close_price": 218340.0,
+        "volume": 506410.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260120,
+        "open_price": 209190.0,
+        "high_price": 213830.0,
+        "low_price": 209190.0,
+        "close_price": 213350.0,
+        "volume": 527094.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260119,
+        "open_price": 207680.0,
+        "high_price": 207680.0,
+        "low_price": 205000.0,
+        "close_price": 207610.0,
+        "volume": 346330.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260118,
+        "open_price": 204150.0,
+        "high_price": 204180.0,
+        "low_price": 196000.0,
+        "close_price": 201640.0,
+        "volume": 278359.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260114,
+        "open_price": 197350.0,
+        "high_price": 201350.0,
+        "low_price": 197350.0,
+        "close_price": 198240.0,
+        "volume": 717843.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260113,
+        "open_price": 204000.0,
+        "high_price": 212020.0,
+        "low_price": 201390.0,
+        "close_price": 203450.0,
+        "volume": 249225.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260112,
+        "open_price": 207000.0,
+        "high_price": 212700.0,
+        "low_price": 204000.0,
+        "close_price": 207610.0,
+        "volume": 238247.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260111,
+        "open_price": 206960.0,
+        "high_price": 213480.0,
+        "low_price": 206960.0,
+        "close_price": 207010.0,
+        "volume": 755525.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260110,
+        "open_price": 213360.0,
+        "high_price": 213360.0,
+        "low_price": 213360.0,
+        "close_price": 213360.0,
+        "volume": 62595.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260107,
+        "open_price": 233300.0,
+        "high_price": 233300.0,
+        "low_price": 219840.0,
+        "close_price": 219950.0,
+        "volume": 519766.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260106,
+        "open_price": 226420.0,
+        "high_price": 227740.0,
+        "low_price": 221400.0,
+        "close_price": 226630.0,
+        "volume": 503182.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260105,
+        "open_price": 213600.0,
+        "high_price": 224950.0,
+        "low_price": 213600.0,
+        "close_price": 221110.0,
+        "volume": 351152.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20260104,
+        "open_price": 219500.0,
+        "high_price": 228880.0,
+        "low_price": 218270.0,
+        "close_price": 219290.0,
+        "volume": 107003.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251231,
+        "open_price": 224960.0,
+        "high_price": 231870.0,
+        "low_price": 224960.0,
+        "close_price": 225020.0,
+        "volume": 687867.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251230,
+        "open_price": 231910.0,
+        "high_price": 231910.0,
+        "low_price": 231910.0,
+        "close_price": 231910.0,
+        "volume": 87236.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251229,
+        "open_price": 245050.0,
+        "high_price": 245050.0,
+        "low_price": 238340.0,
+        "close_price": 239080.0,
+        "volume": 425852.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251228,
+        "open_price": 240320.0,
+        "high_price": 251140.0,
+        "low_price": 240320.0,
+        "close_price": 245710.0,
+        "volume": 392387.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251227,
+        "open_price": 247090.0,
+        "high_price": 254420.0,
+        "low_price": 241500.0,
+        "close_price": 247610.0,
+        "volume": 363078.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251224,
+        "open_price": 249450.0,
+        "high_price": 249450.0,
+        "low_price": 244210.0,
+        "close_price": 247070.0,
+        "volume": 240907.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251223,
+        "open_price": 239490.0,
+        "high_price": 243300.0,
+        "low_price": 238440.0,
+        "close_price": 242520.0,
+        "volume": 305018.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251222,
+        "open_price": 237430.0,
+        "high_price": 239630.0,
+        "low_price": 227120.0,
+        "close_price": 236220.0,
+        "volume": 326153.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251221,
+        "open_price": 234280.0,
+        "high_price": 234380.0,
+        "low_price": 226760.0,
+        "close_price": 232660.0,
+        "volume": 217239.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251220,
+        "open_price": 227700.0,
+        "high_price": 227700.0,
+        "low_price": 224990.0,
+        "close_price": 227570.0,
+        "volume": 337008.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251217,
+        "open_price": 215270.0,
+        "high_price": 221500.0,
+        "low_price": 213000.0,
+        "close_price": 221070.0,
+        "volume": 582505.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251216,
+        "open_price": 218290.0,
+        "high_price": 223310.0,
+        "low_price": 210310.0,
+        "close_price": 215050.0,
+        "volume": 358661.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251215,
+        "open_price": 213000.0,
+        "high_price": 216850.0,
+        "low_price": 213000.0,
+        "close_price": 216810.0,
+        "volume": 241743.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251214,
+        "open_price": 211260.0,
+        "high_price": 214020.0,
+        "low_price": 206200.0,
+        "close_price": 210540.0,
+        "volume": 183252.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251213,
+        "open_price": 202940.0,
+        "high_price": 209980.0,
+        "low_price": 202940.0,
+        "close_price": 209530.0,
+        "volume": 301646.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251210,
+        "open_price": 206990.0,
+        "high_price": 206990.0,
+        "low_price": 201250.0,
+        "close_price": 203870.0,
+        "volume": 136692.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251209,
+        "open_price": 207000.0,
+        "high_price": 207000.0,
+        "low_price": 200010.0,
+        "close_price": 203030.0,
+        "volume": 146912.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251208,
+        "open_price": 205910.0,
+        "high_price": 206800.0,
+        "low_price": 199110.0,
+        "close_price": 201380.0,
+        "volume": 218504.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251207,
+        "open_price": 207840.0,
+        "high_price": 210500.0,
+        "low_price": 198970.0,
+        "close_price": 201350.0,
+        "volume": 360312.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251206,
+        "open_price": 206150.0,
+        "high_price": 206190.0,
+        "low_price": 201880.0,
+        "close_price": 205120.0,
+        "volume": 381999.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251203,
+        "open_price": 195940.0,
+        "high_price": 200390.0,
+        "low_price": 195000.0,
+        "close_price": 200190.0,
+        "volume": 260497.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251202,
+        "open_price": 190020.0,
+        "high_price": 195710.0,
+        "low_price": 190010.0,
+        "close_price": 194560.0,
+        "volume": 250873.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251201,
+        "open_price": 190170.0,
+        "high_price": 190640.0,
+        "low_price": 187020.0,
+        "close_price": 190010.0,
+        "volume": 199066.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251130,
+        "open_price": 188000.0,
+        "high_price": 188110.0,
+        "low_price": 184550.0,
+        "close_price": 185090.0,
+        "volume": 458728.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251129,
+        "open_price": 189850.0,
+        "high_price": 191200.0,
+        "low_price": 189850.0,
+        "close_price": 190240.0,
+        "volume": 294227.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251126,
+        "open_price": 197890.0,
+        "high_price": 197890.0,
+        "low_price": 193550.0,
+        "close_price": 195720.0,
+        "volume": 146643.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251125,
+        "open_price": 195330.0,
+        "high_price": 196950.0,
+        "low_price": 195000.0,
+        "close_price": 194790.0,
+        "volume": 68148.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251123,
+        "open_price": 188600.0,
+        "high_price": 194250.0,
+        "low_price": 188600.0,
+        "close_price": 192220.0,
+        "volume": 105680.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251122,
+        "open_price": 186080.0,
+        "high_price": 193720.0,
+        "low_price": 186070.0,
+        "close_price": 189650.0,
+        "volume": 84948.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251119,
+        "open_price": 189700.0,
+        "high_price": 192000.0,
+        "low_price": 186090.0,
+        "close_price": 189880.0,
+        "volume": 144540.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251118,
+        "open_price": 187090.0,
+        "high_price": 191700.0,
+        "low_price": 185990.0,
+        "close_price": 186500.0,
+        "volume": 340494.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251117,
+        "open_price": 192500.0,
+        "high_price": 195490.0,
+        "low_price": 189000.0,
+        "close_price": 191730.0,
+        "volume": 194706.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251116,
+        "open_price": 181480.0,
+        "high_price": 191820.0,
+        "low_price": 181480.0,
+        "close_price": 191180.0,
+        "volume": 230414.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251115,
+        "open_price": 191720.0,
+        "high_price": 191720.0,
+        "low_price": 183000.0,
+        "close_price": 186240.0,
+        "volume": 63824.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251112,
+        "open_price": 183550.0,
+        "high_price": 191860.0,
+        "low_price": 181820.0,
+        "close_price": 186470.0,
+        "volume": 125777.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251111,
+        "open_price": 186500.0,
+        "high_price": 191850.0,
+        "low_price": 186320.0,
+        "close_price": 186940.0,
+        "volume": 65370.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251110,
+        "open_price": 191890.0,
+        "high_price": 191890.0,
+        "low_price": 185490.0,
+        "close_price": 186320.0,
+        "volume": 233032.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251109,
+        "open_price": 192080.0,
+        "high_price": 192090.0,
+        "low_price": 191130.0,
+        "close_price": 191220.0,
+        "volume": 296365.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251108,
+        "open_price": 198000.0,
+        "high_price": 200990.0,
+        "low_price": 190090.0,
+        "close_price": 197040.0,
+        "volume": 110298.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251105,
+        "open_price": 195810.0,
+        "high_price": 200390.0,
+        "low_price": 195810.0,
+        "close_price": 195870.0,
+        "volume": 304426.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251104,
+        "open_price": 203000.0,
+        "high_price": 206630.0,
+        "low_price": 201560.0,
+        "close_price": 201860.0,
+        "volume": 295130.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251103,
+        "open_price": 212000.0,
+        "high_price": 212000.0,
+        "low_price": 204590.0,
+        "close_price": 207790.0,
+        "volume": 258682.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251102,
+        "open_price": 213000.0,
+        "high_price": 213000.0,
+        "low_price": 205590.0,
+        "close_price": 207400.0,
+        "volume": 317870.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251101,
+        "open_price": 212440.0,
+        "high_price": 212440.0,
+        "low_price": 206060.0,
+        "close_price": 211940.0,
+        "volume": 994409.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251029,
+        "open_price": 206260.0,
+        "high_price": 206260.0,
+        "low_price": 206260.0,
+        "close_price": 206260.0,
+        "volume": 168392.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251028,
+        "open_price": 194150.0,
+        "high_price": 200320.0,
+        "low_price": 194150.0,
+        "close_price": 200260.0,
+        "volume": 353668.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251027,
+        "open_price": 192090.0,
+        "high_price": 196880.0,
+        "low_price": 192000.0,
+        "close_price": 194490.0,
+        "volume": 195232.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251026,
+        "open_price": 195280.0,
+        "high_price": 195700.0,
+        "low_price": 191500.0,
+        "close_price": 194970.0,
+        "volume": 329361.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251025,
+        "open_price": 187930.0,
+        "high_price": 191470.0,
+        "low_price": 186000.0,
+        "close_price": 190000.0,
+        "volume": 359443.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251022,
+        "open_price": 181650.0,
+        "high_price": 188890.0,
+        "low_price": 181560.0,
+        "close_price": 185900.0,
+        "volume": 146112.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251021,
+        "open_price": 188100.0,
+        "high_price": 193130.0,
+        "low_price": 183550.0,
+        "close_price": 185010.0,
+        "volume": 252400.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251020,
+        "open_price": 197280.0,
+        "high_price": 197280.0,
+        "low_price": 187900.0,
+        "close_price": 189220.0,
+        "volume": 206393.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251019,
+        "open_price": 197300.0,
+        "high_price": 197300.0,
+        "low_price": 191200.0,
+        "close_price": 193710.0,
+        "volume": 211013.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251018,
+        "open_price": 190960.0,
+        "high_price": 191780.0,
+        "low_price": 188710.0,
+        "close_price": 191570.0,
+        "volume": 112138.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251015,
+        "open_price": 184570.0,
+        "high_price": 189900.0,
+        "low_price": 184570.0,
+        "close_price": 186200.0,
+        "volume": 175353.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251014,
+        "open_price": 197990.0,
+        "high_price": 197990.0,
+        "low_price": 188720.0,
+        "close_price": 190270.0,
+        "volume": 245642.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251013,
+        "open_price": 192220.0,
+        "high_price": 195890.0,
+        "low_price": 190190.0,
+        "close_price": 194550.0,
+        "volume": 267926.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251012,
+        "open_price": 186570.0,
+        "high_price": 190580.0,
+        "low_price": 186570.0,
+        "close_price": 190190.0,
+        "volume": 426298.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251011,
+        "open_price": 183000.0,
+        "high_price": 186000.0,
+        "low_price": 182830.0,
+        "close_price": 185030.0,
+        "volume": 178239.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251008,
+        "open_price": 187280.0,
+        "high_price": 187280.0,
+        "low_price": 177120.0,
+        "close_price": 181140.0,
+        "volume": 313645.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251007,
+        "open_price": 179700.0,
+        "high_price": 182790.0,
+        "low_price": 177470.0,
+        "close_price": 181920.0,
+        "volume": 450617.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251006,
+        "open_price": 181270.0,
+        "high_price": 181290.0,
+        "low_price": 172000.0,
+        "close_price": 177470.0,
+        "volume": 225659.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251005,
+        "open_price": 176110.0,
+        "high_price": 176110.0,
+        "low_price": 171000.0,
+        "close_price": 176040.0,
+        "volume": 424598.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251004,
+        "open_price": 169800.0,
+        "high_price": 171000.0,
+        "low_price": 169600.0,
+        "close_price": 170990.0,
+        "volume": 153992.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20251001,
+        "open_price": 165600.0,
+        "high_price": 170270.0,
+        "low_price": 165600.0,
+        "close_price": 166020.0,
+        "volume": 214847.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250930,
+        "open_price": 178280.0,
+        "high_price": 178280.0,
+        "low_price": 168300.0,
+        "close_price": 170720.0,
+        "volume": 361002.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250929,
+        "open_price": 173500.0,
+        "high_price": 173500.0,
+        "low_price": 173500.0,
+        "close_price": 173500.0,
+        "volume": 102651.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250928,
+        "open_price": 168640.0,
+        "high_price": 168640.0,
+        "low_price": 165550.0,
+        "close_price": 168450.0,
+        "volume": 97429.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250927,
+        "open_price": 155440.0,
+        "high_price": 165030.0,
+        "low_price": 155440.0,
+        "close_price": 163730.0,
+        "volume": 194382.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250924,
+        "open_price": 160110.0,
+        "high_price": 164400.0,
+        "low_price": 160090.0,
+        "close_price": 160230.0,
+        "volume": 170486.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250923,
+        "open_price": 165500.0,
+        "high_price": 166030.0,
+        "low_price": 158810.0,
+        "close_price": 165040.0,
+        "volume": 205663.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250922,
+        "open_price": 160980.0,
+        "high_price": 161210.0,
+        "low_price": 160000.0,
+        "close_price": 161200.0,
+        "volume": 170930.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250921,
+        "open_price": 156170.0,
+        "high_price": 159100.0,
+        "low_price": 156170.0,
+        "close_price": 156520.0,
+        "volume": 207269.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250920,
+        "open_price": 159110.0,
+        "high_price": 159110.0,
+        "low_price": 159110.0,
+        "close_price": 160990.0,
+        "volume": 61183.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250917,
+        "open_price": 166890.0,
+        "high_price": 167000.0,
+        "low_price": 163810.0,
+        "close_price": 164030.0,
+        "volume": 155753.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250916,
+        "open_price": 169390.0,
+        "high_price": 171500.0,
+        "low_price": 168740.0,
+        "close_price": 168870.0,
+        "volume": 199275.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250915,
+        "open_price": 178810.0,
+        "high_price": 179000.0,
+        "low_price": 173150.0,
+        "close_price": 173950.0,
+        "volume": 292407.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250914,
+        "open_price": 173700.0,
+        "high_price": 179840.0,
+        "low_price": 170110.0,
+        "close_price": 178500.0,
+        "volume": 119757.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250913,
+        "open_price": 180000.0,
+        "high_price": 180000.0,
+        "low_price": 174200.0,
+        "close_price": 174610.0,
+        "volume": 246729.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250909,
+        "open_price": 184000.0,
+        "high_price": 184100.0,
+        "low_price": 175210.0,
+        "close_price": 179580.0,
+        "volume": 116505.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250908,
+        "open_price": 174210.0,
+        "high_price": 179520.0,
+        "low_price": 170210.0,
+        "close_price": 178920.0,
+        "volume": 137993.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250907,
+        "open_price": 171990.0,
+        "high_price": 175670.0,
+        "low_price": 170000.0,
+        "close_price": 174300.0,
+        "volume": 165306.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250906,
+        "open_price": 175500.0,
+        "high_price": 175500.0,
+        "low_price": 167000.0,
+        "close_price": 170560.0,
+        "volume": 140954.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250903,
+        "open_price": 170670.0,
+        "high_price": 170670.0,
+        "low_price": 167430.0,
+        "close_price": 170660.0,
+        "volume": 213314.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250902,
+        "open_price": 164610.0,
+        "high_price": 165700.0,
+        "low_price": 164610.0,
+        "close_price": 165700.0,
+        "volume": 123037.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250831,
+        "open_price": 153000.0,
+        "high_price": 161800.0,
+        "low_price": 153000.0,
+        "close_price": 160880.0,
+        "volume": 261560.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250830,
+        "open_price": 155030.0,
+        "high_price": 155030.0,
+        "low_price": 155030.0,
+        "close_price": 157090.0,
+        "volume": 56347.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250827,
+        "open_price": 156040.0,
+        "high_price": 162890.0,
+        "low_price": 156040.0,
+        "close_price": 159820.0,
+        "volume": 47307.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250826,
+        "open_price": 160000.0,
+        "high_price": 161360.0,
+        "low_price": 156590.0,
+        "close_price": 159940.0,
+        "volume": 84823.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250825,
+        "open_price": 166000.0,
+        "high_price": 166000.0,
+        "low_price": 160580.0,
+        "close_price": 160800.0,
+        "volume": 208208.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250823,
+        "open_price": 161590.0,
+        "high_price": 169950.0,
+        "low_price": 161590.0,
+        "close_price": 165540.0,
+        "volume": 52986.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250820,
+        "open_price": 175800.0,
+        "high_price": 175800.0,
+        "low_price": 165840.0,
+        "close_price": 166110.0,
+        "volume": 153510.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250819,
+        "open_price": 176300.0,
+        "high_price": 176300.0,
+        "low_price": 170650.0,
+        "close_price": 170960.0,
+        "volume": 183485.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250818,
+        "open_price": 176380.0,
+        "high_price": 176380.0,
+        "low_price": 174400.0,
+        "close_price": 175920.0,
+        "volume": 138974.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250817,
+        "open_price": 169450.0,
+        "high_price": 171270.0,
+        "low_price": 169450.0,
+        "close_price": 171250.0,
+        "volume": 105258.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250816,
+        "open_price": 167450.0,
+        "high_price": 169510.0,
+        "low_price": 162430.0,
+        "close_price": 166290.0,
+        "volume": 134084.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250813,
+        "open_price": 172240.0,
+        "high_price": 172240.0,
+        "low_price": 167420.0,
+        "close_price": 167450.0,
+        "volume": 123075.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250812,
+        "open_price": 173300.0,
+        "high_price": 179000.0,
+        "low_price": 172240.0,
+        "close_price": 172590.0,
+        "volume": 103278.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250811,
+        "open_price": 184490.0,
+        "high_price": 184490.0,
+        "low_price": 174340.0,
+        "close_price": 177560.0,
+        "volume": 67761.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250810,
+        "open_price": 181480.0,
+        "high_price": 181480.0,
+        "low_price": 177650.0,
+        "close_price": 179730.0,
+        "volume": 117589.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250809,
+        "open_price": 168600.0,
+        "high_price": 176420.0,
+        "low_price": 168600.0,
+        "close_price": 176200.0,
+        "volume": 114436.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250806,
+        "open_price": 169970.0,
+        "high_price": 176990.0,
+        "low_price": 169890.0,
+        "close_price": 171290.0,
+        "volume": 83221.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250805,
+        "open_price": 173620.0,
+        "high_price": 182990.0,
+        "low_price": 173590.0,
+        "close_price": 175140.0,
+        "volume": 244142.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250804,
+        "open_price": 178430.0,
+        "high_price": 182990.0,
+        "low_price": 178430.0,
+        "close_price": 178950.0,
+        "volume": 295835.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250803,
+        "open_price": 180880.0,
+        "high_price": 180880.0,
+        "low_price": 180880.0,
+        "close_price": 183940.0,
+        "volume": 44866.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250802,
+        "open_price": 182170.0,
+        "high_price": 182170.0,
+        "low_price": 182170.0,
+        "close_price": 186470.0,
+        "volume": 23432.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250730,
+        "open_price": 184170.0,
+        "high_price": 184170.0,
+        "low_price": 184170.0,
+        "close_price": 187800.0,
+        "volume": 35783.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250729,
+        "open_price": 186470.0,
+        "high_price": 186700.0,
+        "low_price": 186470.0,
+        "close_price": 189860.0,
+        "volume": 40743.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250728,
+        "open_price": 198180.0,
+        "high_price": 198180.0,
+        "low_price": 189420.0,
+        "close_price": 192230.0,
+        "volume": 52689.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250727,
+        "open_price": 195400.0,
+        "high_price": 199680.0,
+        "low_price": 194960.0,
+        "close_price": 195270.0,
+        "volume": 132651.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250726,
+        "open_price": 200870.0,
+        "high_price": 208000.0,
+        "low_price": 200770.0,
+        "close_price": 200980.0,
+        "volume": 100426.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250723,
+        "open_price": 219380.0,
+        "high_price": 219380.0,
+        "low_price": 206680.0,
+        "close_price": 206970.0,
+        "volume": 182047.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250722,
+        "open_price": 212990.0,
+        "high_price": 213140.0,
+        "low_price": 210000.0,
+        "close_price": 213070.0,
+        "volume": 263605.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250721,
+        "open_price": 209820.0,
+        "high_price": 209820.0,
+        "low_price": 209820.0,
+        "close_price": 206940.0,
+        "volume": 52310.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250720,
+        "open_price": 205110.0,
+        "high_price": 205120.0,
+        "low_price": 205090.0,
+        "close_price": 203710.0,
+        "volume": 75665.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250719,
+        "open_price": 195060.0,
+        "high_price": 200910.0,
+        "low_price": 195020.0,
+        "close_price": 199150.0,
+        "volume": 92390.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250716,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 194290.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250715,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 198490.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250714,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 198490.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250713,
+        "open_price": 203990.0,
+        "high_price": 205000.0,
+        "low_price": 197880.0,
+        "close_price": 198490.0,
+        "volume": 497031.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250712,
+        "open_price": 200070.0,
+        "high_price": 206420.0,
+        "low_price": 200070.0,
+        "close_price": 203990.0,
+        "volume": 132540.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250709,
+        "open_price": 200410.0,
+        "high_price": 203670.0,
+        "low_price": 200410.0,
+        "close_price": 200410.0,
+        "volume": 132362.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250708,
+        "open_price": 212410.0,
+        "high_price": 212410.0,
+        "low_price": 204620.0,
+        "close_price": 206600.0,
+        "volume": 70147.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250707,
+        "open_price": 212410.0,
+        "high_price": 212410.0,
+        "low_price": 206670.0,
+        "close_price": 210940.0,
+        "volume": 190491.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250702,
+        "open_price": 200000.0,
+        "high_price": 211940.0,
+        "low_price": 199960.0,
+        "close_price": 206230.0,
+        "volume": 687783.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250701,
+        "open_price": 206140.0,
+        "high_price": 206140.0,
+        "low_price": 206140.0,
+        "close_price": 206140.0,
+        "volume": 512288.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250630,
+        "open_price": 212510.0,
+        "high_price": 212510.0,
+        "low_price": 212510.0,
+        "close_price": 212510.0,
+        "volume": 304067.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250629,
+        "open_price": 219080.0,
+        "high_price": 219080.0,
+        "low_price": 219080.0,
+        "close_price": 219080.0,
+        "volume": 428001.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250628,
+        "open_price": 222560.0,
+        "high_price": 222560.0,
+        "low_price": 222560.0,
+        "close_price": 225850.0,
+        "volume": 51675.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 229440.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 229440.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 229440.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 229440.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 229440.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 229440.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 229440.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 229440.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250611,
+        "open_price": 233500.0,
+        "high_price": 234780.0,
+        "low_price": 227000.0,
+        "close_price": 229440.0,
+        "volume": 58110.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250610,
+        "open_price": 235840.0,
+        "high_price": 235840.0,
+        "low_price": 223570.0,
+        "close_price": 229010.0,
+        "volume": 44699.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250609,
+        "open_price": 236570.0,
+        "high_price": 236570.0,
+        "low_price": 223020.0,
+        "close_price": 230110.0,
+        "volume": 94926.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250608,
+        "open_price": 224980.0,
+        "high_price": 232530.0,
+        "low_price": 219100.0,
+        "close_price": 229680.0,
+        "volume": 321286.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250607,
+        "open_price": 231000.0,
+        "high_price": 232000.0,
+        "low_price": 225430.0,
+        "close_price": 225760.0,
+        "volume": 175655.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250603,
+        "open_price": 235380.0,
+        "high_price": 236000.0,
+        "low_price": 232100.0,
+        "close_price": 232400.0,
+        "volume": 122612.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250602,
+        "open_price": 239900.0,
+        "high_price": 246000.0,
+        "low_price": 235300.0,
+        "close_price": 239270.0,
+        "volume": 112181.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250601,
+        "open_price": 239670.0,
+        "high_price": 250000.0,
+        "low_price": 239670.0,
+        "close_price": 239760.0,
+        "volume": 335660.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250531,
+        "open_price": 253000.0,
+        "high_price": 256510.0,
+        "low_price": 242770.0,
+        "close_price": 247080.0,
+        "volume": 172754.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250528,
+        "open_price": 256530.0,
+        "high_price": 256530.0,
+        "low_price": 247720.0,
+        "close_price": 250270.0,
+        "volume": 145487.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250527,
+        "open_price": 255500.0,
+        "high_price": 255500.0,
+        "low_price": 251530.0,
+        "close_price": 255380.0,
+        "volume": 157189.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250526,
+        "open_price": 241600.0,
+        "high_price": 249650.0,
+        "low_price": 241600.0,
+        "close_price": 248060.0,
+        "volume": 168604.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250525,
+        "open_price": 254990.0,
+        "high_price": 254990.0,
+        "low_price": 241600.0,
+        "close_price": 242380.0,
+        "volume": 158347.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250524,
+        "open_price": 254870.0,
+        "high_price": 254870.0,
+        "low_price": 242520.0,
+        "close_price": 249070.0,
+        "volume": 138101.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250521,
+        "open_price": 246520.0,
+        "high_price": 257940.0,
+        "low_price": 246510.0,
+        "close_price": 247520.0,
+        "volume": 216337.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250520,
+        "open_price": 262000.0,
+        "high_price": 262000.0,
+        "low_price": 253970.0,
+        "close_price": 254130.0,
+        "volume": 206666.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250519,
+        "open_price": 260000.0,
+        "high_price": 269140.0,
+        "low_price": 257010.0,
+        "close_price": 261820.0,
+        "volume": 211047.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250518,
+        "open_price": 265340.0,
+        "high_price": 266060.0,
+        "low_price": 257460.0,
+        "close_price": 264700.0,
+        "volume": 249471.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250517,
+        "open_price": 261120.0,
+        "high_price": 269500.0,
+        "low_price": 256170.0,
+        "close_price": 258320.0,
+        "volume": 370701.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250514,
+        "open_price": 269900.0,
+        "high_price": 269900.0,
+        "low_price": 260840.0,
+        "close_price": 264090.0,
+        "volume": 214061.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250513,
+        "open_price": 268900.0,
+        "high_price": 268900.0,
+        "low_price": 268050.0,
+        "close_price": 268890.0,
+        "volume": 378666.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250512,
+        "open_price": 266040.0,
+        "high_price": 266040.0,
+        "low_price": 266040.0,
+        "close_price": 261070.0,
+        "volume": 35362.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250511,
+        "open_price": 265000.0,
+        "high_price": 265000.0,
+        "low_price": 256780.0,
+        "close_price": 258300.0,
+        "volume": 300937.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250510,
+        "open_price": 266000.0,
+        "high_price": 275800.0,
+        "low_price": 263950.0,
+        "close_price": 264720.0,
+        "volume": 293717.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250507,
+        "open_price": 274070.0,
+        "high_price": 274070.0,
+        "low_price": 274070.0,
+        "close_price": 272110.0,
+        "volume": 74588.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250506,
+        "open_price": 259590.0,
+        "high_price": 266260.0,
+        "low_price": 259590.0,
+        "close_price": 266090.0,
+        "volume": 399299.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250505,
+        "open_price": 257950.0,
+        "high_price": 258810.0,
+        "low_price": 252020.0,
+        "close_price": 258510.0,
+        "volume": 492331.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250504,
+        "open_price": 238990.0,
+        "high_price": 253690.0,
+        "low_price": 238990.0,
+        "close_price": 251280.0,
+        "volume": 314589.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250503,
+        "open_price": 246310.0,
+        "high_price": 253890.0,
+        "low_price": 246310.0,
+        "close_price": 246310.0,
+        "volume": 266902.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250430,
+        "open_price": 254740.0,
+        "high_price": 254870.0,
+        "low_price": 249000.0,
+        "close_price": 253920.0,
+        "volume": 92067.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250429,
+        "open_price": 247910.0,
+        "high_price": 248760.0,
+        "low_price": 242130.0,
+        "close_price": 247450.0,
+        "volume": 172044.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250428,
+        "open_price": 240500.0,
+        "high_price": 255000.0,
+        "low_price": 240350.0,
+        "close_price": 241520.0,
+        "volume": 527829.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250427,
+        "open_price": 247580.0,
+        "high_price": 254200.0,
+        "low_price": 247580.0,
+        "close_price": 247780.0,
+        "volume": 259709.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250426,
+        "open_price": 259580.0,
+        "high_price": 259580.0,
+        "low_price": 249000.0,
+        "close_price": 255230.0,
+        "volume": 155443.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250423,
+        "open_price": 262970.0,
+        "high_price": 262970.0,
+        "low_price": 250580.0,
+        "close_price": 252020.0,
+        "volume": 390435.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250422,
+        "open_price": 259290.0,
+        "high_price": 259290.0,
+        "low_price": 248010.0,
+        "close_price": 258320.0,
+        "volume": 860460.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250421,
+        "open_price": 252470.0,
+        "high_price": 252470.0,
+        "low_price": 247000.0,
+        "close_price": 251740.0,
+        "volume": 647549.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250420,
+        "open_price": 248120.0,
+        "high_price": 248120.0,
+        "low_price": 248120.0,
+        "close_price": 245120.0,
+        "volume": 57807.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250419,
+        "open_price": 242900.0,
+        "high_price": 242900.0,
+        "low_price": 242900.0,
+        "close_price": 240900.0,
+        "volume": 70963.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250416,
+        "open_price": 237400.0,
+        "high_price": 237400.0,
+        "low_price": 237400.0,
+        "close_price": 235830.0,
+        "volume": 76521.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250415,
+        "open_price": 230490.0,
+        "high_price": 230490.0,
+        "low_price": 230490.0,
+        "close_price": 230490.0,
+        "volume": 198432.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250414,
+        "open_price": 223780.0,
+        "high_price": 223780.0,
+        "low_price": 223780.0,
+        "close_price": 223780.0,
+        "volume": 111821.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250413,
+        "open_price": 222940.0,
+        "high_price": 222940.0,
+        "low_price": 222940.0,
+        "close_price": 217270.0,
+        "volume": 12480.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250412,
+        "open_price": 219870.0,
+        "high_price": 219870.0,
+        "low_price": 219870.0,
+        "close_price": 216450.0,
+        "volume": 46140.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250409,
+        "open_price": 216360.0,
+        "high_price": 216360.0,
+        "low_price": 216360.0,
+        "close_price": 213470.0,
+        "volume": 53519.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250408,
+        "open_price": 213350.0,
+        "high_price": 213350.0,
+        "low_price": 213350.0,
+        "close_price": 210060.0,
+        "volume": 46566.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250407,
+        "open_price": 203070.0,
+        "high_price": 210620.0,
+        "low_price": 198400.0,
+        "close_price": 207140.0,
+        "volume": 431841.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250406,
+        "open_price": 214130.0,
+        "high_price": 214130.0,
+        "low_price": 203070.0,
+        "close_price": 204490.0,
+        "volume": 254025.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250405,
+        "open_price": 214150.0,
+        "high_price": 220000.0,
+        "low_price": 208020.0,
+        "close_price": 209350.0,
+        "volume": 418245.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250330,
+        "open_price": 214180.0,
+        "high_price": 220750.0,
+        "low_price": 214130.0,
+        "close_price": 214450.0,
+        "volume": 728963.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250329,
+        "open_price": 223010.0,
+        "high_price": 223010.0,
+        "low_price": 220740.0,
+        "close_price": 220750.0,
+        "volume": 315994.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250326,
+        "open_price": 229450.0,
+        "high_price": 237390.0,
+        "low_price": 224600.0,
+        "close_price": 227560.0,
+        "volume": 128445.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250325,
+        "open_price": 222290.0,
+        "high_price": 234490.0,
+        "low_price": 222290.0,
+        "close_price": 231330.0,
+        "volume": 91694.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250318,
+        "open_price": 224340.0,
+        "high_price": 224340.0,
+        "low_price": 224340.0,
+        "close_price": 229100.0,
+        "volume": 31047.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250317,
+        "open_price": 230600.0,
+        "high_price": 239680.0,
+        "low_price": 230600.0,
+        "close_price": 231270.0,
+        "volume": 92722.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250316,
+        "open_price": 241230.0,
+        "high_price": 241230.0,
+        "low_price": 234480.0,
+        "close_price": 237730.0,
+        "volume": 121021.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250315,
+        "open_price": 234320.0,
+        "high_price": 234320.0,
+        "low_price": 231500.0,
+        "close_price": 234220.0,
+        "volume": 173143.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250312,
+        "open_price": 218040.0,
+        "high_price": 231520.0,
+        "low_price": 218040.0,
+        "close_price": 227500.0,
+        "volume": 340878.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250311,
+        "open_price": 222040.0,
+        "high_price": 222200.0,
+        "low_price": 222030.0,
+        "close_price": 224780.0,
+        "volume": 59372.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250310,
+        "open_price": 228300.0,
+        "high_price": 242000.0,
+        "low_price": 228290.0,
+        "close_price": 228890.0,
+        "volume": 322591.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250309,
+        "open_price": 235330.0,
+        "high_price": 239960.0,
+        "low_price": 235330.0,
+        "close_price": 235350.0,
+        "volume": 186762.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250308,
+        "open_price": 245010.0,
+        "high_price": 249500.0,
+        "low_price": 238950.0,
+        "close_price": 242600.0,
+        "volume": 66225.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250305,
+        "open_price": 246320.0,
+        "high_price": 252840.0,
+        "low_price": 246310.0,
+        "close_price": 246340.0,
+        "volume": 286155.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250304,
+        "open_price": 252200.0,
+        "high_price": 263300.0,
+        "low_price": 252200.0,
+        "close_price": 253920.0,
+        "volume": 266250.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250303,
+        "open_price": 257120.0,
+        "high_price": 257140.0,
+        "low_price": 257110.0,
+        "close_price": 260000.0,
+        "volume": 62979.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250302,
+        "open_price": 255330.0,
+        "high_price": 269980.0,
+        "low_price": 255320.0,
+        "close_price": 265060.0,
+        "volume": 92664.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250301,
+        "open_price": 260600.0,
+        "high_price": 270430.0,
+        "low_price": 260420.0,
+        "close_price": 263110.0,
+        "volume": 98587.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250226,
+        "open_price": 275030.0,
+        "high_price": 275030.0,
+        "low_price": 265240.0,
+        "close_price": 268470.0,
+        "volume": 130754.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250225,
+        "open_price": 273740.0,
+        "high_price": 273740.0,
+        "low_price": 269550.0,
+        "close_price": 273440.0,
+        "volume": 280098.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250224,
+        "open_price": 265940.0,
+        "high_price": 265940.0,
+        "low_price": 258520.0,
+        "close_price": 265770.0,
+        "volume": 105319.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250223,
+        "open_price": 257250.0,
+        "high_price": 269650.0,
+        "low_price": 256430.0,
+        "close_price": 258200.0,
+        "volume": 586652.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250222,
+        "open_price": 267850.0,
+        "high_price": 267850.0,
+        "low_price": 260120.0,
+        "close_price": 264360.0,
+        "volume": 47719.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250219,
+        "open_price": 268500.0,
+        "high_price": 278200.0,
+        "low_price": 267850.0,
+        "close_price": 268160.0,
+        "volume": 287192.0
+    },
+    {
+        "symbol": "وملی",
+        "trade_date": 20250218,
+        "open_price": 281000.0,
+        "high_price": 283750.0,
+        "low_price": 273670.0,
+        "close_price": 276130.0,
+        "volume": 118905.0
+    }
+]

@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260901,
+        "open_price": 11500.0,
+        "high_price": 11790.0,
+        "low_price": 11110.0,
+        "close_price": 11460.0,
+        "volume": 45373973.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260831,
+        "open_price": 11390.0,
+        "high_price": 11740.0,
+        "low_price": 11390.0,
+        "close_price": 11450.0,
+        "volume": 73543626.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260829,
+        "open_price": 11700.0,
+        "high_price": 11780.0,
+        "low_price": 11460.0,
+        "close_price": 11740.0,
+        "volume": 37713821.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260826,
+        "open_price": 11440.0,
+        "high_price": 11440.0,
+        "low_price": 11440.0,
+        "close_price": 11440.0,
+        "volume": 20187282.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260825,
+        "open_price": 11040.0,
+        "high_price": 11130.0,
+        "low_price": 10890.0,
+        "close_price": 11110.0,
+        "volume": 24065608.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260824,
+        "open_price": 10950.0,
+        "high_price": 11120.0,
+        "low_price": 10680.0,
+        "close_price": 10810.0,
+        "volume": 74218830.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260823,
+        "open_price": 11040.0,
+        "high_price": 11240.0,
+        "low_price": 10600.0,
+        "close_price": 11010.0,
+        "volume": 88848328.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260822,
+        "open_price": 10970.0,
+        "high_price": 10970.0,
+        "low_price": 10680.0,
+        "close_price": 10920.0,
+        "volume": 117031910.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260819,
+        "open_price": 10660.0,
+        "high_price": 10660.0,
+        "low_price": 10660.0,
+        "close_price": 10660.0,
+        "volume": 26458508.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260818,
+        "open_price": 10370.0,
+        "high_price": 10370.0,
+        "low_price": 10070.0,
+        "close_price": 10350.0,
+        "volume": 81712812.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260817,
+        "open_price": 10070.0,
+        "high_price": 10070.0,
+        "low_price": 10070.0,
+        "close_price": 10070.0,
+        "volume": 8817130.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260816,
+        "open_price": 9780.0,
+        "high_price": 9780.0,
+        "low_price": 9780.0,
+        "close_price": 9780.0,
+        "volume": 13789969.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260815,
+        "open_price": 9480.0,
+        "high_price": 9580.0,
+        "low_price": 9080.0,
+        "close_price": 9500.0,
+        "volume": 32930226.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260811,
+        "open_price": 9260.0,
+        "high_price": 9330.0,
+        "low_price": 9100.0,
+        "close_price": 9310.0,
+        "volume": 46021251.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260810,
+        "open_price": 8870.0,
+        "high_price": 9350.0,
+        "low_price": 8840.0,
+        "close_price": 9060.0,
+        "volume": 48887365.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260809,
+        "open_price": 9510.0,
+        "high_price": 9510.0,
+        "low_price": 8970.0,
+        "close_price": 9110.0,
+        "volume": 72028724.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260808,
+        "open_price": 9240.0,
+        "high_price": 9240.0,
+        "low_price": 9240.0,
+        "close_price": 9240.0,
+        "volume": 7231351.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260805,
+        "open_price": 8980.0,
+        "high_price": 8980.0,
+        "low_price": 8980.0,
+        "close_price": 8980.0,
+        "volume": 3911721.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260803,
+        "open_price": 8720.0,
+        "high_price": 8720.0,
+        "low_price": 8600.0,
+        "close_price": 8720.0,
+        "volume": 12086363.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260802,
+        "open_price": 8380.0,
+        "high_price": 8530.0,
+        "low_price": 8310.0,
+        "close_price": 8470.0,
+        "volume": 46342624.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260801,
+        "open_price": 8430.0,
+        "high_price": 8430.0,
+        "low_price": 7970.0,
+        "close_price": 8290.0,
+        "volume": 71704847.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260729,
+        "open_price": 8190.0,
+        "high_price": 8190.0,
+        "low_price": 8100.0,
+        "close_price": 8190.0,
+        "volume": 56294145.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260728,
+        "open_price": 7960.0,
+        "high_price": 7960.0,
+        "low_price": 7810.0,
+        "close_price": 7960.0,
+        "volume": 49062702.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260727,
+        "open_price": 7730.0,
+        "high_price": 7730.0,
+        "low_price": 7580.0,
+        "close_price": 7730.0,
+        "volume": 28775990.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260726,
+        "open_price": 7510.0,
+        "high_price": 7510.0,
+        "low_price": 7510.0,
+        "close_price": 7510.0,
+        "volume": 4178977.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260725,
+        "open_price": 7510.0,
+        "high_price": 7510.0,
+        "low_price": 7130.0,
+        "close_price": 7300.0,
+        "volume": 25254890.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260722,
+        "open_price": 7650.0,
+        "high_price": 7670.0,
+        "low_price": 7340.0,
+        "close_price": 7350.0,
+        "volume": 30436057.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260721,
+        "open_price": 7480.0,
+        "high_price": 7580.0,
+        "low_price": 7280.0,
+        "close_price": 7560.0,
+        "volume": 22184830.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260720,
+        "open_price": 7200.0,
+        "high_price": 7480.0,
+        "low_price": 7150.0,
+        "close_price": 7360.0,
+        "volume": 25461506.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260719,
+        "open_price": 7250.0,
+        "high_price": 7440.0,
+        "low_price": 7250.0,
+        "close_price": 7270.0,
+        "volume": 36217577.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260718,
+        "open_price": 7470.0,
+        "high_price": 7470.0,
+        "low_price": 7470.0,
+        "close_price": 7470.0,
+        "volume": 870528.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260715,
+        "open_price": 7660.0,
+        "high_price": 7980.0,
+        "low_price": 7660.0,
+        "close_price": 7700.0,
+        "volume": 35430057.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260714,
+        "open_price": 7890.0,
+        "high_price": 7890.0,
+        "low_price": 7890.0,
+        "close_price": 7890.0,
+        "volume": 6162156.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260713,
+        "open_price": 8130.0,
+        "high_price": 8130.0,
+        "low_price": 8130.0,
+        "close_price": 8130.0,
+        "volume": 6089042.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260712,
+        "open_price": 8380.0,
+        "high_price": 8380.0,
+        "low_price": 8380.0,
+        "close_price": 8380.0,
+        "volume": 514810.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260711,
+        "open_price": 8630.0,
+        "high_price": 8630.0,
+        "low_price": 8630.0,
+        "close_price": 8630.0,
+        "volume": 676328.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260708,
+        "open_price": 8870.0,
+        "high_price": 9120.0,
+        "low_price": 8870.0,
+        "close_price": 8890.0,
+        "volume": 39056658.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260707,
+        "open_price": 9140.0,
+        "high_price": 9140.0,
+        "low_price": 9140.0,
+        "close_price": 9140.0,
+        "volume": 8378324.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260701,
+        "open_price": 8830.0,
+        "high_price": 8910.0,
+        "low_price": 8540.0,
+        "close_price": 8880.0,
+        "volume": 21231423.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260630,
+        "open_price": 8700.0,
+        "high_price": 8720.0,
+        "low_price": 8340.0,
+        "close_price": 8660.0,
+        "volume": 38378210.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260629,
+        "open_price": 8400.0,
+        "high_price": 8650.0,
+        "low_price": 8400.0,
+        "close_price": 8470.0,
+        "volume": 45847559.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260628,
+        "open_price": 8650.0,
+        "high_price": 8650.0,
+        "low_price": 8650.0,
+        "close_price": 8650.0,
+        "volume": 2148540.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260627,
+        "open_price": 9150.0,
+        "high_price": 9220.0,
+        "low_price": 8880.0,
+        "close_price": 8910.0,
+        "volume": 29058042.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260623,
+        "open_price": 8920.0,
+        "high_price": 9400.0,
+        "low_price": 8860.0,
+        "close_price": 9150.0,
+        "volume": 38381575.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260622,
+        "open_price": 9130.0,
+        "high_price": 9130.0,
+        "low_price": 9130.0,
+        "close_price": 9130.0,
+        "volume": 4538159.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260621,
+        "open_price": 9360.0,
+        "high_price": 9650.0,
+        "low_price": 9340.0,
+        "close_price": 9410.0,
+        "volume": 12339469.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260620,
+        "open_price": 9830.0,
+        "high_price": 10000.0,
+        "low_price": 9420.0,
+        "close_price": 9620.0,
+        "volume": 51580787.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260617,
+        "open_price": 9570.0,
+        "high_price": 9720.0,
+        "low_price": 9510.0,
+        "close_price": 9710.0,
+        "volume": 27180844.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260616,
+        "open_price": 9600.0,
+        "high_price": 9600.0,
+        "low_price": 9110.0,
+        "close_price": 9440.0,
+        "volume": 72793761.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260615,
+        "open_price": 9330.0,
+        "high_price": 9330.0,
+        "low_price": 9330.0,
+        "close_price": 9330.0,
+        "volume": 7917517.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260614,
+        "open_price": 9060.0,
+        "high_price": 9060.0,
+        "low_price": 9060.0,
+        "close_price": 9060.0,
+        "volume": 7730649.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260613,
+        "open_price": 8800.0,
+        "high_price": 8800.0,
+        "low_price": 8800.0,
+        "close_price": 8800.0,
+        "volume": 6005651.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260610,
+        "open_price": 8570.0,
+        "high_price": 8570.0,
+        "low_price": 8420.0,
+        "close_price": 8550.0,
+        "volume": 59115778.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260609,
+        "open_price": 8330.0,
+        "high_price": 8330.0,
+        "low_price": 8330.0,
+        "close_price": 8330.0,
+        "volume": 6531119.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260608,
+        "open_price": 8090.0,
+        "high_price": 8090.0,
+        "low_price": 8090.0,
+        "close_price": 8090.0,
+        "volume": 17033345.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260607,
+        "open_price": 8290.0,
+        "high_price": 8340.0,
+        "low_price": 8280.0,
+        "close_price": 8330.0,
+        "volume": 6674435.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260606,
+        "open_price": 7880.0,
+        "high_price": 8190.0,
+        "low_price": 7730.0,
+        "close_price": 8100.0,
+        "volume": 33729519.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260603,
+        "open_price": 8020.0,
+        "high_price": 8130.0,
+        "low_price": 7730.0,
+        "close_price": 7960.0,
+        "volume": 54099075.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260602,
+        "open_price": 7920.0,
+        "high_price": 7920.0,
+        "low_price": 7760.0,
+        "close_price": 7900.0,
+        "volume": 58004517.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260601,
+        "open_price": 7690.0,
+        "high_price": 7690.0,
+        "low_price": 7690.0,
+        "close_price": 7690.0,
+        "volume": 40543874.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260531,
+        "open_price": 7470.0,
+        "high_price": 7470.0,
+        "low_price": 7470.0,
+        "close_price": 7470.0,
+        "volume": 3969090.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260530,
+        "open_price": 7260.0,
+        "high_price": 7260.0,
+        "low_price": 7260.0,
+        "close_price": 7260.0,
+        "volume": 3727365.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260526,
+        "open_price": 7050.0,
+        "high_price": 7050.0,
+        "low_price": 7050.0,
+        "close_price": 7050.0,
+        "volume": 3883652.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260525,
+        "open_price": 6850.0,
+        "high_price": 6850.0,
+        "low_price": 6850.0,
+        "close_price": 6850.0,
+        "volume": 2479165.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260524,
+        "open_price": 6660.0,
+        "high_price": 6660.0,
+        "low_price": 6660.0,
+        "close_price": 6660.0,
+        "volume": 1463830.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260523,
+        "open_price": 6470.0,
+        "high_price": 6470.0,
+        "low_price": 6470.0,
+        "close_price": 6470.0,
+        "volume": 4380429.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260520,
+        "open_price": 6290.0,
+        "high_price": 6290.0,
+        "low_price": 6290.0,
+        "close_price": 6290.0,
+        "volume": 3825686.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260519,
+        "open_price": 6110.0,
+        "high_price": 6110.0,
+        "low_price": 6110.0,
+        "close_price": 6110.0,
+        "volume": 3543151.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5940.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260225,
+        "open_price": 5940.0,
+        "high_price": 5960.0,
+        "low_price": 5800.0,
+        "close_price": 5940.0,
+        "volume": 20691125.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260224,
+        "open_price": 5770.0,
+        "high_price": 5900.0,
+        "low_price": 5680.0,
+        "close_price": 5790.0,
+        "volume": 14540314.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260223,
+        "open_price": 5880.0,
+        "high_price": 5940.0,
+        "low_price": 5780.0,
+        "close_price": 5850.0,
+        "volume": 15680873.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260222,
+        "open_price": 5760.0,
+        "high_price": 5870.0,
+        "low_price": 5760.0,
+        "close_price": 5770.0,
+        "volume": 13390860.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260221,
+        "open_price": 5930.0,
+        "high_price": 5930.0,
+        "low_price": 5930.0,
+        "close_price": 5930.0,
+        "volume": 1317389.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260218,
+        "open_price": 6410.0,
+        "high_price": 6410.0,
+        "low_price": 6090.0,
+        "close_price": 6110.0,
+        "volume": 19838127.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260217,
+        "open_price": 6290.0,
+        "high_price": 6360.0,
+        "low_price": 6150.0,
+        "close_price": 6270.0,
+        "volume": 9718235.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260216,
+        "open_price": 6180.0,
+        "high_price": 6300.0,
+        "low_price": 6180.0,
+        "close_price": 6200.0,
+        "volume": 22304284.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260215,
+        "open_price": 6390.0,
+        "high_price": 6480.0,
+        "low_price": 6360.0,
+        "close_price": 6370.0,
+        "volume": 5676748.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260214,
+        "open_price": 6550.0,
+        "high_price": 6790.0,
+        "low_price": 6420.0,
+        "close_price": 6550.0,
+        "volume": 8130023.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260210,
+        "open_price": 6480.0,
+        "high_price": 6710.0,
+        "low_price": 6450.0,
+        "close_price": 6610.0,
+        "volume": 10216534.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260209,
+        "open_price": 6720.0,
+        "high_price": 6720.0,
+        "low_price": 6630.0,
+        "close_price": 6630.0,
+        "volume": 21182209.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260208,
+        "open_price": 7110.0,
+        "high_price": 7110.0,
+        "low_price": 6710.0,
+        "close_price": 6830.0,
+        "volume": 27593635.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260207,
+        "open_price": 6890.0,
+        "high_price": 6920.0,
+        "low_price": 6770.0,
+        "close_price": 6910.0,
+        "volume": 9461589.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260203,
+        "open_price": 7000.0,
+        "high_price": 7030.0,
+        "low_price": 6690.0,
+        "close_price": 6720.0,
+        "volume": 35575247.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260202,
+        "open_price": 7010.0,
+        "high_price": 7020.0,
+        "low_price": 6710.0,
+        "close_price": 6890.0,
+        "volume": 30151876.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260201,
+        "open_price": 6790.0,
+        "high_price": 6970.0,
+        "low_price": 6790.0,
+        "close_price": 6820.0,
+        "volume": 33335785.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260131,
+        "open_price": 6990.0,
+        "high_price": 6990.0,
+        "low_price": 6990.0,
+        "close_price": 6990.0,
+        "volume": 15677320.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260128,
+        "open_price": 7200.0,
+        "high_price": 7200.0,
+        "low_price": 7200.0,
+        "close_price": 7200.0,
+        "volume": 2815231.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260127,
+        "open_price": 7420.0,
+        "high_price": 7420.0,
+        "low_price": 7420.0,
+        "close_price": 7420.0,
+        "volume": 1186758.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260126,
+        "open_price": 7640.0,
+        "high_price": 7640.0,
+        "low_price": 7640.0,
+        "close_price": 7640.0,
+        "volume": 439716.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260125,
+        "open_price": 7870.0,
+        "high_price": 7870.0,
+        "low_price": 7870.0,
+        "close_price": 7870.0,
+        "volume": 1019742.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260124,
+        "open_price": 8110.0,
+        "high_price": 8120.0,
+        "low_price": 8110.0,
+        "close_price": 8110.0,
+        "volume": 4778467.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260121,
+        "open_price": 8270.0,
+        "high_price": 8550.0,
+        "low_price": 8160.0,
+        "close_price": 8360.0,
+        "volume": 22485593.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260120,
+        "open_price": 8350.0,
+        "high_price": 8450.0,
+        "low_price": 8100.0,
+        "close_price": 8320.0,
+        "volume": 17956404.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260119,
+        "open_price": 8300.0,
+        "high_price": 8320.0,
+        "low_price": 8100.0,
+        "close_price": 8280.0,
+        "volume": 31574930.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260118,
+        "open_price": 8100.0,
+        "high_price": 8140.0,
+        "low_price": 7910.0,
+        "close_price": 8080.0,
+        "volume": 24370961.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260114,
+        "open_price": 7920.0,
+        "high_price": 8090.0,
+        "low_price": 7910.0,
+        "close_price": 7910.0,
+        "volume": 50867375.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260113,
+        "open_price": 8430.0,
+        "high_price": 8530.0,
+        "low_price": 8080.0,
+        "close_price": 8150.0,
+        "volume": 60483923.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260112,
+        "open_price": 8420.0,
+        "high_price": 8660.0,
+        "low_price": 8190.0,
+        "close_price": 8320.0,
+        "volume": 74577133.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260111,
+        "open_price": 8440.0,
+        "high_price": 8580.0,
+        "low_price": 8440.0,
+        "close_price": 8440.0,
+        "volume": 34848267.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260110,
+        "open_price": 8700.0,
+        "high_price": 8700.0,
+        "low_price": 8700.0,
+        "close_price": 8700.0,
+        "volume": 1635557.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260107,
+        "open_price": 9240.0,
+        "high_price": 9240.0,
+        "low_price": 8900.0,
+        "close_price": 8960.0,
+        "volume": 11212032.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260106,
+        "open_price": 9170.0,
+        "high_price": 9170.0,
+        "low_price": 9120.0,
+        "close_price": 9170.0,
+        "volume": 37866254.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260105,
+        "open_price": 8670.0,
+        "high_price": 9180.0,
+        "low_price": 8670.0,
+        "close_price": 8910.0,
+        "volume": 68557702.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20260104,
+        "open_price": 8920.0,
+        "high_price": 8920.0,
+        "low_price": 8920.0,
+        "close_price": 8920.0,
+        "volume": 5423345.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251231,
+        "open_price": 9180.0,
+        "high_price": 9430.0,
+        "low_price": 8950.0,
+        "close_price": 9190.0,
+        "volume": 24842144.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251230,
+        "open_price": 9200.0,
+        "high_price": 9200.0,
+        "low_price": 9200.0,
+        "close_price": 9200.0,
+        "volume": 572461.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251229,
+        "open_price": 9700.0,
+        "high_price": 9880.0,
+        "low_price": 9410.0,
+        "close_price": 9480.0,
+        "volume": 31410984.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251228,
+        "open_price": 9350.0,
+        "high_price": 9770.0,
+        "low_price": 9350.0,
+        "close_price": 9700.0,
+        "volume": 42574533.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251227,
+        "open_price": 9720.0,
+        "high_price": 9730.0,
+        "low_price": 9300.0,
+        "close_price": 9490.0,
+        "volume": 49035161.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251224,
+        "open_price": 9370.0,
+        "high_price": 9530.0,
+        "low_price": 9370.0,
+        "close_price": 9520.0,
+        "volume": 26905397.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251223,
+        "open_price": 9390.0,
+        "high_price": 9500.0,
+        "low_price": 9070.0,
+        "close_price": 9260.0,
+        "volume": 26525942.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251222,
+        "open_price": 9700.0,
+        "high_price": 9700.0,
+        "low_price": 9220.0,
+        "close_price": 9340.0,
+        "volume": 40119088.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251221,
+        "open_price": 9560.0,
+        "high_price": 9560.0,
+        "low_price": 9330.0,
+        "close_price": 9500.0,
+        "volume": 24575426.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251220,
+        "open_price": 9270.0,
+        "high_price": 9290.0,
+        "low_price": 9140.0,
+        "close_price": 9290.0,
+        "volume": 7692155.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251217,
+        "open_price": 8900.0,
+        "high_price": 9090.0,
+        "low_price": 8700.0,
+        "close_price": 9020.0,
+        "volume": 52353052.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251216,
+        "open_price": 8830.0,
+        "high_price": 9180.0,
+        "low_price": 8730.0,
+        "close_price": 8830.0,
+        "volume": 68110066.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251215,
+        "open_price": 9010.0,
+        "high_price": 9090.0,
+        "low_price": 8820.0,
+        "close_price": 9000.0,
+        "volume": 55330215.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251214,
+        "open_price": 8840.0,
+        "high_price": 8840.0,
+        "low_price": 8590.0,
+        "close_price": 8830.0,
+        "volume": 48990174.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251213,
+        "open_price": 8570.0,
+        "high_price": 8600.0,
+        "low_price": 8520.0,
+        "close_price": 8590.0,
+        "volume": 8173392.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251210,
+        "open_price": 8290.0,
+        "high_price": 8380.0,
+        "low_price": 8150.0,
+        "close_price": 8350.0,
+        "volume": 14012924.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251209,
+        "open_price": 7940.0,
+        "high_price": 8160.0,
+        "low_price": 7940.0,
+        "close_price": 8140.0,
+        "volume": 32050638.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251208,
+        "open_price": 7790.0,
+        "high_price": 8080.0,
+        "low_price": 7790.0,
+        "close_price": 7930.0,
+        "volume": 27701797.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251207,
+        "open_price": 8170.0,
+        "high_price": 8170.0,
+        "low_price": 7730.0,
+        "close_price": 7960.0,
+        "volume": 25547057.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251206,
+        "open_price": 7860.0,
+        "high_price": 7960.0,
+        "low_price": 7820.0,
+        "close_price": 7960.0,
+        "volume": 15833854.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251203,
+        "open_price": 7830.0,
+        "high_price": 7930.0,
+        "low_price": 7560.0,
+        "close_price": 7730.0,
+        "volume": 23579631.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251202,
+        "open_price": 7600.0,
+        "high_price": 7890.0,
+        "low_price": 7540.0,
+        "close_price": 7740.0,
+        "volume": 17130136.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251201,
+        "open_price": 7690.0,
+        "high_price": 7990.0,
+        "low_price": 7540.0,
+        "close_price": 7700.0,
+        "volume": 33110192.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251130,
+        "open_price": 7770.0,
+        "high_price": 7770.0,
+        "low_price": 7770.0,
+        "close_price": 7770.0,
+        "volume": 5389485.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251129,
+        "open_price": 8100.0,
+        "high_price": 8150.0,
+        "low_price": 8000.0,
+        "close_price": 8010.0,
+        "volume": 15229454.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251126,
+        "open_price": 8300.0,
+        "high_price": 8350.0,
+        "low_price": 8000.0,
+        "close_price": 8240.0,
+        "volume": 31209042.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251125,
+        "open_price": 7990.0,
+        "high_price": 8150.0,
+        "low_price": 7940.0,
+        "close_price": 8110.0,
+        "volume": 24699688.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251123,
+        "open_price": 7750.0,
+        "high_price": 8040.0,
+        "low_price": 7690.0,
+        "close_price": 7920.0,
+        "volume": 13431863.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251122,
+        "open_price": 7930.0,
+        "high_price": 8010.0,
+        "low_price": 7760.0,
+        "close_price": 7880.0,
+        "volume": 12145911.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251119,
+        "open_price": 7670.0,
+        "high_price": 8040.0,
+        "low_price": 7600.0,
+        "close_price": 7820.0,
+        "volume": 24892305.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251118,
+        "open_price": 7940.0,
+        "high_price": 7940.0,
+        "low_price": 7630.0,
+        "close_price": 7830.0,
+        "volume": 32030278.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251117,
+        "open_price": 7710.0,
+        "high_price": 7710.0,
+        "low_price": 7710.0,
+        "close_price": 7710.0,
+        "volume": 4621749.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251116,
+        "open_price": 7480.0,
+        "high_price": 7490.0,
+        "low_price": 7430.0,
+        "close_price": 7490.0,
+        "volume": 6211868.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251115,
+        "open_price": 6970.0,
+        "high_price": 7290.0,
+        "low_price": 6970.0,
+        "close_price": 7280.0,
+        "volume": 15595150.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251112,
+        "open_price": 7120.0,
+        "high_price": 7230.0,
+        "low_price": 7060.0,
+        "close_price": 7080.0,
+        "volume": 29458868.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251111,
+        "open_price": 7420.0,
+        "high_price": 7550.0,
+        "low_price": 7180.0,
+        "close_price": 7270.0,
+        "volume": 18683241.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251110,
+        "open_price": 7400.0,
+        "high_price": 7560.0,
+        "low_price": 7400.0,
+        "close_price": 7400.0,
+        "volume": 33753337.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251109,
+        "open_price": 7660.0,
+        "high_price": 7670.0,
+        "low_price": 7610.0,
+        "close_price": 7620.0,
+        "volume": 3233539.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251108,
+        "open_price": 7820.0,
+        "high_price": 7870.0,
+        "low_price": 7650.0,
+        "close_price": 7840.0,
+        "volume": 24362209.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251105,
+        "open_price": 7650.0,
+        "high_price": 7700.0,
+        "low_price": 7650.0,
+        "close_price": 7650.0,
+        "volume": 22720231.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251104,
+        "open_price": 8090.0,
+        "high_price": 8090.0,
+        "low_price": 7870.0,
+        "close_price": 7880.0,
+        "volume": 32605343.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251103,
+        "open_price": 8010.0,
+        "high_price": 8150.0,
+        "low_price": 7980.0,
+        "close_price": 8110.0,
+        "volume": 36818202.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251102,
+        "open_price": 7890.0,
+        "high_price": 8130.0,
+        "low_price": 7890.0,
+        "close_price": 7920.0,
+        "volume": 64467657.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251101,
+        "open_price": 8260.0,
+        "high_price": 8370.0,
+        "low_price": 7890.0,
+        "close_price": 8130.0,
+        "volume": 53092205.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251029,
+        "open_price": 8440.0,
+        "high_price": 8440.0,
+        "low_price": 8090.0,
+        "close_price": 8130.0,
+        "volume": 52303770.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251028,
+        "open_price": 8450.0,
+        "high_price": 8450.0,
+        "low_price": 8010.0,
+        "close_price": 8340.0,
+        "volume": 65416291.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251027,
+        "open_price": 8210.0,
+        "high_price": 8210.0,
+        "low_price": 8210.0,
+        "close_price": 8210.0,
+        "volume": 8786717.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251026,
+        "open_price": 7980.0,
+        "high_price": 7980.0,
+        "low_price": 7970.0,
+        "close_price": 7980.0,
+        "volume": 13164499.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251025,
+        "open_price": 7680.0,
+        "high_price": 7910.0,
+        "low_price": 7460.0,
+        "close_price": 7750.0,
+        "volume": 52431742.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251022,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7440.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251021,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7440.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251020,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7440.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251019,
+        "open_price": 7440.0,
+        "high_price": 7440.0,
+        "low_price": 7300.0,
+        "close_price": 7440.0,
+        "volume": 57743504.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251018,
+        "open_price": 7230.0,
+        "high_price": 7230.0,
+        "low_price": 7230.0,
+        "close_price": 7230.0,
+        "volume": 4650276.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251015,
+        "open_price": 6800.0,
+        "high_price": 7130.0,
+        "low_price": 6730.0,
+        "close_price": 7020.0,
+        "volume": 62488719.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251014,
+        "open_price": 6940.0,
+        "high_price": 6940.0,
+        "low_price": 6820.0,
+        "close_price": 6930.0,
+        "volume": 77655475.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251013,
+        "open_price": 6740.0,
+        "high_price": 6740.0,
+        "low_price": 6740.0,
+        "close_price": 6740.0,
+        "volume": 71330391.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251012,
+        "open_price": 6550.0,
+        "high_price": 6550.0,
+        "low_price": 6550.0,
+        "close_price": 6550.0,
+        "volume": 4068604.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251011,
+        "open_price": 6360.0,
+        "high_price": 6360.0,
+        "low_price": 6360.0,
+        "close_price": 6360.0,
+        "volume": 4258653.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251008,
+        "open_price": 6180.0,
+        "high_price": 6180.0,
+        "low_price": 6120.0,
+        "close_price": 6180.0,
+        "volume": 24241517.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251007,
+        "open_price": 5810.0,
+        "high_price": 6040.0,
+        "low_price": 5810.0,
+        "close_price": 6000.0,
+        "volume": 8536668.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251006,
+        "open_price": 5800.0,
+        "high_price": 5880.0,
+        "low_price": 5740.0,
+        "close_price": 5870.0,
+        "volume": 42882977.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251005,
+        "open_price": 5720.0,
+        "high_price": 5720.0,
+        "low_price": 5590.0,
+        "close_price": 5710.0,
+        "volume": 23245189.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251004,
+        "open_price": 5540.0,
+        "high_price": 5560.0,
+        "low_price": 5470.0,
+        "close_price": 5560.0,
+        "volume": 4341144.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20251001,
+        "open_price": 5350.0,
+        "high_price": 5570.0,
+        "low_price": 5350.0,
+        "close_price": 5400.0,
+        "volume": 23356223.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250930,
+        "open_price": 5690.0,
+        "high_price": 5690.0,
+        "low_price": 5380.0,
+        "close_price": 5510.0,
+        "volume": 43643609.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250929,
+        "open_price": 5540.0,
+        "high_price": 5540.0,
+        "low_price": 5540.0,
+        "close_price": 5540.0,
+        "volume": 4079066.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250928,
+        "open_price": 5390.0,
+        "high_price": 5390.0,
+        "low_price": 5390.0,
+        "close_price": 5380.0,
+        "volume": 2648919.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250927,
+        "open_price": 5010.0,
+        "high_price": 5310.0,
+        "low_price": 5010.0,
+        "close_price": 5240.0,
+        "volume": 12125919.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250924,
+        "open_price": 5180.0,
+        "high_price": 5240.0,
+        "low_price": 5160.0,
+        "close_price": 5160.0,
+        "volume": 25342822.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250923,
+        "open_price": 5390.0,
+        "high_price": 5460.0,
+        "low_price": 5230.0,
+        "close_price": 5310.0,
+        "volume": 15616453.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250922,
+        "open_price": 5250.0,
+        "high_price": 5420.0,
+        "low_price": 5200.0,
+        "close_price": 5390.0,
+        "volume": 23698637.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250921,
+        "open_price": 5270.0,
+        "high_price": 5270.0,
+        "low_price": 5270.0,
+        "close_price": 5270.0,
+        "volume": 3197582.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250920,
+        "open_price": 5310.0,
+        "high_price": 5310.0,
+        "low_price": 5310.0,
+        "close_price": 5430.0,
+        "volume": 673972.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250917,
+        "open_price": 5480.0,
+        "high_price": 5550.0,
+        "low_price": 5470.0,
+        "close_price": 5470.0,
+        "volume": 5824634.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250916,
+        "open_price": 5670.0,
+        "high_price": 5740.0,
+        "low_price": 5620.0,
+        "close_price": 5630.0,
+        "volume": 5504615.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250915,
+        "open_price": 6000.0,
+        "high_price": 6030.0,
+        "low_price": 5720.0,
+        "close_price": 5790.0,
+        "volume": 23341931.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250914,
+        "open_price": 5670.0,
+        "high_price": 5920.0,
+        "low_price": 5660.0,
+        "close_price": 5890.0,
+        "volume": 5011920.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250913,
+        "open_price": 5850.0,
+        "high_price": 5880.0,
+        "low_price": 5700.0,
+        "close_price": 5750.0,
+        "volume": 14919846.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250909,
+        "open_price": 5980.0,
+        "high_price": 5990.0,
+        "low_price": 5760.0,
+        "close_price": 5870.0,
+        "volume": 15660215.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250908,
+        "open_price": 5720.0,
+        "high_price": 5840.0,
+        "low_price": 5700.0,
+        "close_price": 5820.0,
+        "volume": 11502485.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250907,
+        "open_price": 5450.0,
+        "high_price": 5730.0,
+        "low_price": 5430.0,
+        "close_price": 5670.0,
+        "volume": 17019158.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250906,
+        "open_price": 5750.0,
+        "high_price": 5770.0,
+        "low_price": 5450.0,
+        "close_price": 5570.0,
+        "volume": 26056107.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250903,
+        "open_price": 5610.0,
+        "high_price": 5610.0,
+        "low_price": 5610.0,
+        "close_price": 5610.0,
+        "volume": 4900919.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250902,
+        "open_price": 5450.0,
+        "high_price": 5460.0,
+        "low_price": 5370.0,
+        "close_price": 5450.0,
+        "volume": 4559991.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250831,
+        "open_price": 5190.0,
+        "high_price": 5340.0,
+        "low_price": 5190.0,
+        "close_price": 5310.0,
+        "volume": 13548555.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250830,
+        "open_price": 5190.0,
+        "high_price": 5190.0,
+        "low_price": 5190.0,
+        "close_price": 5190.0,
+        "volume": 5614928.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250827,
+        "open_price": 5200.0,
+        "high_price": 5400.0,
+        "low_price": 5200.0,
+        "close_price": 5350.0,
+        "volume": 12509757.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250826,
+        "open_price": 5220.0,
+        "high_price": 5390.0,
+        "low_price": 5140.0,
+        "close_price": 5250.0,
+        "volume": 10257840.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250825,
+        "open_price": 5420.0,
+        "high_price": 5510.0,
+        "low_price": 5220.0,
+        "close_price": 5290.0,
+        "volume": 16104544.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250823,
+        "open_price": 5200.0,
+        "high_price": 5390.0,
+        "low_price": 5110.0,
+        "close_price": 5380.0,
+        "volume": 14026027.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250820,
+        "open_price": 5370.0,
+        "high_price": 5370.0,
+        "low_price": 5230.0,
+        "close_price": 5240.0,
+        "volume": 13071475.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250819,
+        "open_price": 5540.0,
+        "high_price": 5540.0,
+        "low_price": 5380.0,
+        "close_price": 5390.0,
+        "volume": 13329501.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250818,
+        "open_price": 5550.0,
+        "high_price": 5560.0,
+        "low_price": 5430.0,
+        "close_price": 5540.0,
+        "volume": 21353201.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250817,
+        "open_price": 5370.0,
+        "high_price": 5400.0,
+        "low_price": 5320.0,
+        "close_price": 5400.0,
+        "volume": 4456163.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250816,
+        "open_price": 5200.0,
+        "high_price": 5470.0,
+        "low_price": 5200.0,
+        "close_price": 5250.0,
+        "volume": 18006079.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250813,
+        "open_price": 5360.0,
+        "high_price": 5380.0,
+        "low_price": 5360.0,
+        "close_price": 5360.0,
+        "volume": 7582849.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250812,
+        "open_price": 5580.0,
+        "high_price": 5610.0,
+        "low_price": 5510.0,
+        "close_price": 5520.0,
+        "volume": 3505953.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250811,
+        "open_price": 5760.0,
+        "high_price": 5840.0,
+        "low_price": 5650.0,
+        "close_price": 5680.0,
+        "volume": 6076278.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250810,
+        "open_price": 5900.0,
+        "high_price": 6060.0,
+        "low_price": 5780.0,
+        "close_price": 5820.0,
+        "volume": 15564760.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250809,
+        "open_price": 5900.0,
+        "high_price": 5990.0,
+        "low_price": 5800.0,
+        "close_price": 5950.0,
+        "volume": 17090887.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250806,
+        "open_price": 5880.0,
+        "high_price": 5900.0,
+        "low_price": 5800.0,
+        "close_price": 5820.0,
+        "volume": 19039629.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250805,
+        "open_price": 6100.0,
+        "high_price": 6190.0,
+        "low_price": 5920.0,
+        "close_price": 5970.0,
+        "volume": 17040542.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250804,
+        "open_price": 6290.0,
+        "high_price": 6290.0,
+        "low_price": 6020.0,
+        "close_price": 6100.0,
+        "volume": 18232558.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250803,
+        "open_price": 6250.0,
+        "high_price": 6460.0,
+        "low_price": 6130.0,
+        "close_price": 6200.0,
+        "volume": 22201348.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250802,
+        "open_price": 6300.0,
+        "high_price": 6440.0,
+        "low_price": 6300.0,
+        "close_price": 6310.0,
+        "volume": 30661138.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250730,
+        "open_price": 6490.0,
+        "high_price": 6490.0,
+        "low_price": 6490.0,
+        "close_price": 6490.0,
+        "volume": 2988784.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250729,
+        "open_price": 6610.0,
+        "high_price": 6610.0,
+        "low_price": 6610.0,
+        "close_price": 6690.0,
+        "volume": 1493878.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250728,
+        "open_price": 6740.0,
+        "high_price": 6740.0,
+        "low_price": 6740.0,
+        "close_price": 6810.0,
+        "volume": 1628629.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250727,
+        "open_price": 6940.0,
+        "high_price": 7000.0,
+        "low_price": 6940.0,
+        "close_price": 6940.0,
+        "volume": 5651174.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250726,
+        "open_price": 7140.0,
+        "high_price": 7310.0,
+        "low_price": 7140.0,
+        "close_price": 7150.0,
+        "volume": 13847447.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250723,
+        "open_price": 7410.0,
+        "high_price": 7410.0,
+        "low_price": 7360.0,
+        "close_price": 7360.0,
+        "volume": 3158536.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250722,
+        "open_price": 7800.0,
+        "high_price": 7830.0,
+        "low_price": 7390.0,
+        "close_price": 7580.0,
+        "volume": 23551781.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250721,
+        "open_price": 7560.0,
+        "high_price": 7670.0,
+        "low_price": 7370.0,
+        "close_price": 7610.0,
+        "volume": 19709108.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250720,
+        "open_price": 7550.0,
+        "high_price": 7570.0,
+        "low_price": 7370.0,
+        "close_price": 7450.0,
+        "volume": 13591176.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250719,
+        "open_price": 7550.0,
+        "high_price": 7640.0,
+        "low_price": 7370.0,
+        "close_price": 7530.0,
+        "volume": 16843505.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250716,
+        "open_price": 7390.0,
+        "high_price": 7530.0,
+        "low_price": 7220.0,
+        "close_price": 7470.0,
+        "volume": 26235532.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250715,
+        "open_price": 7470.0,
+        "high_price": 7590.0,
+        "low_price": 7270.0,
+        "close_price": 7320.0,
+        "volume": 27909542.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250714,
+        "open_price": 7580.0,
+        "high_price": 7680.0,
+        "low_price": 7450.0,
+        "close_price": 7490.0,
+        "volume": 57160219.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250713,
+        "open_price": 7730.0,
+        "high_price": 7800.0,
+        "low_price": 7660.0,
+        "close_price": 7680.0,
+        "volume": 5713348.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250712,
+        "open_price": 7840.0,
+        "high_price": 8130.0,
+        "low_price": 7820.0,
+        "close_price": 7890.0,
+        "volume": 30072985.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250709,
+        "open_price": 7920.0,
+        "high_price": 7920.0,
+        "low_price": 7920.0,
+        "close_price": 8060.0,
+        "volume": 1066237.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250708,
+        "open_price": 8100.0,
+        "high_price": 8140.0,
+        "low_price": 8070.0,
+        "close_price": 8160.0,
+        "volume": 1664832.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250707,
+        "open_price": 8540.0,
+        "high_price": 8630.0,
+        "low_price": 8130.0,
+        "close_price": 8310.0,
+        "volume": 28831799.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250702,
+        "open_price": 8350.0,
+        "high_price": 8680.0,
+        "low_price": 8350.0,
+        "close_price": 8380.0,
+        "volume": 122988319.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250701,
+        "open_price": 8400.0,
+        "high_price": 8400.0,
+        "low_price": 8400.0,
+        "close_price": 8600.0,
+        "volume": 514741.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250630,
+        "open_price": 8440.0,
+        "high_price": 8440.0,
+        "low_price": 8440.0,
+        "close_price": 8650.0,
+        "volume": 463260.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250629,
+        "open_price": 8660.0,
+        "high_price": 8660.0,
+        "low_price": 8660.0,
+        "close_price": 8700.0,
+        "volume": 2106573.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250628,
+        "open_price": 8810.0,
+        "high_price": 8810.0,
+        "low_price": 8810.0,
+        "close_price": 8920.0,
+        "volume": 1510232.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9080.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9080.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9080.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9080.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9080.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9080.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9080.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9080.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250611,
+        "open_price": 9160.0,
+        "high_price": 9270.0,
+        "low_price": 8910.0,
+        "close_price": 9080.0,
+        "volume": 11752694.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250610,
+        "open_price": 9080.0,
+        "high_price": 9260.0,
+        "low_price": 8910.0,
+        "close_price": 9080.0,
+        "volume": 13843056.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250609,
+        "open_price": 9340.0,
+        "high_price": 9530.0,
+        "low_price": 9060.0,
+        "close_price": 9120.0,
+        "volume": 19431144.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250608,
+        "open_price": 9330.0,
+        "high_price": 9510.0,
+        "low_price": 9330.0,
+        "close_price": 9340.0,
+        "volume": 37485916.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250607,
+        "open_price": 9560.0,
+        "high_price": 9560.0,
+        "low_price": 9560.0,
+        "close_price": 9610.0,
+        "volume": 2069825.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250603,
+        "open_price": 10140.0,
+        "high_price": 10170.0,
+        "low_price": 9840.0,
+        "close_price": 9850.0,
+        "volume": 20809714.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250602,
+        "open_price": 10050.0,
+        "high_price": 10350.0,
+        "low_price": 9900.0,
+        "close_price": 10140.0,
+        "volume": 20281884.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250601,
+        "open_price": 10050.0,
+        "high_price": 10070.0,
+        "low_price": 10050.0,
+        "close_price": 10050.0,
+        "volume": 7748077.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250531,
+        "open_price": 10270.0,
+        "high_price": 10490.0,
+        "low_price": 10120.0,
+        "close_price": 10360.0,
+        "volume": 26638911.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250528,
+        "open_price": 10280.0,
+        "high_price": 10290.0,
+        "low_price": 10080.0,
+        "close_price": 10190.0,
+        "volume": 16134737.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250527,
+        "open_price": 10340.0,
+        "high_price": 10360.0,
+        "low_price": 10080.0,
+        "close_price": 10190.0,
+        "volume": 20735995.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250526,
+        "open_price": 10140.0,
+        "high_price": 10430.0,
+        "low_price": 10140.0,
+        "close_price": 10170.0,
+        "volume": 48708273.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250525,
+        "open_price": 10650.0,
+        "high_price": 10740.0,
+        "low_price": 10430.0,
+        "close_price": 10450.0,
+        "volume": 4603450.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250524,
+        "open_price": 10800.0,
+        "high_price": 11150.0,
+        "low_price": 10650.0,
+        "close_price": 10750.0,
+        "volume": 36356576.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250521,
+        "open_price": 10970.0,
+        "high_price": 10970.0,
+        "low_price": 10970.0,
+        "close_price": 10970.0,
+        "volume": 3021636.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250520,
+        "open_price": 11380.0,
+        "high_price": 11590.0,
+        "low_price": 11270.0,
+        "close_price": 11300.0,
+        "volume": 7845539.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250519,
+        "open_price": 11530.0,
+        "high_price": 11740.0,
+        "low_price": 11300.0,
+        "close_price": 11610.0,
+        "volume": 40059071.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250518,
+        "open_price": 11220.0,
+        "high_price": 11420.0,
+        "low_price": 11150.0,
+        "close_price": 11400.0,
+        "volume": 29951353.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250517,
+        "open_price": 11260.0,
+        "high_price": 11380.0,
+        "low_price": 10860.0,
+        "close_price": 11090.0,
+        "volume": 30271070.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250514,
+        "open_price": 11150.0,
+        "high_price": 11440.0,
+        "low_price": 11140.0,
+        "close_price": 11190.0,
+        "volume": 41357847.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250513,
+        "open_price": 11670.0,
+        "high_price": 11690.0,
+        "low_price": 11200.0,
+        "close_price": 11480.0,
+        "volume": 24048763.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250512,
+        "open_price": 11410.0,
+        "high_price": 11410.0,
+        "low_price": 11410.0,
+        "close_price": 11410.0,
+        "volume": 7898670.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250511,
+        "open_price": 11200.0,
+        "high_price": 11240.0,
+        "low_price": 11050.0,
+        "close_price": 11080.0,
+        "volume": 19164543.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250510,
+        "open_price": 11730.0,
+        "high_price": 11730.0,
+        "low_price": 11380.0,
+        "close_price": 11390.0,
+        "volume": 22420728.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250507,
+        "open_price": 11760.0,
+        "high_price": 11770.0,
+        "low_price": 11570.0,
+        "close_price": 11730.0,
+        "volume": 29367507.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250506,
+        "open_price": 11310.0,
+        "high_price": 11710.0,
+        "low_price": 11080.0,
+        "close_price": 11430.0,
+        "volume": 38806369.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250505,
+        "open_price": 11460.0,
+        "high_price": 11460.0,
+        "low_price": 11200.0,
+        "close_price": 11410.0,
+        "volume": 36486370.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250504,
+        "open_price": 10760.0,
+        "high_price": 11200.0,
+        "low_price": 10760.0,
+        "close_price": 11130.0,
+        "volume": 38212174.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250503,
+        "open_price": 10770.0,
+        "high_price": 11280.0,
+        "low_price": 10770.0,
+        "close_price": 10880.0,
+        "volume": 54528222.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250430,
+        "open_price": 11100.0,
+        "high_price": 11100.0,
+        "low_price": 11100.0,
+        "close_price": 11100.0,
+        "volume": 5915030.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250429,
+        "open_price": 10650.0,
+        "high_price": 10800.0,
+        "low_price": 10560.0,
+        "close_price": 10780.0,
+        "volume": 11228547.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250428,
+        "open_price": 10620.0,
+        "high_price": 10890.0,
+        "low_price": 10270.0,
+        "close_price": 10490.0,
+        "volume": 35287761.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250427,
+        "open_price": 10480.0,
+        "high_price": 10880.0,
+        "low_price": 10480.0,
+        "close_price": 10580.0,
+        "volume": 30368954.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250426,
+        "open_price": 10830.0,
+        "high_price": 10830.0,
+        "low_price": 10550.0,
+        "close_price": 10800.0,
+        "volume": 39856910.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250423,
+        "open_price": 10350.0,
+        "high_price": 10600.0,
+        "low_price": 10080.0,
+        "close_price": 10520.0,
+        "volume": 42811582.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250422,
+        "open_price": 10400.0,
+        "high_price": 10540.0,
+        "low_price": 10250.0,
+        "close_price": 10300.0,
+        "volume": 47132676.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250421,
+        "open_price": 10650.0,
+        "high_price": 10650.0,
+        "low_price": 10300.0,
+        "close_price": 10560.0,
+        "volume": 33013374.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250420,
+        "open_price": 10390.0,
+        "high_price": 10390.0,
+        "low_price": 10390.0,
+        "close_price": 10340.0,
+        "volume": 2074716.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250419,
+        "open_price": 10090.0,
+        "high_price": 10090.0,
+        "low_price": 9900.0,
+        "close_price": 10090.0,
+        "volume": 28621382.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250416,
+        "open_price": 9550.0,
+        "high_price": 9880.0,
+        "low_price": 9440.0,
+        "close_price": 9800.0,
+        "volume": 20928701.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250415,
+        "open_price": 9800.0,
+        "high_price": 9880.0,
+        "low_price": 9450.0,
+        "close_price": 9600.0,
+        "volume": 39429175.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250414,
+        "open_price": 9740.0,
+        "high_price": 9740.0,
+        "low_price": 9740.0,
+        "close_price": 9740.0,
+        "volume": 3774730.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250413,
+        "open_price": 9500.0,
+        "high_price": 9500.0,
+        "low_price": 9500.0,
+        "close_price": 9460.0,
+        "volume": 2101712.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250412,
+        "open_price": 9050.0,
+        "high_price": 9420.0,
+        "low_price": 8920.0,
+        "close_price": 9230.0,
+        "volume": 21714283.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250409,
+        "open_price": 9460.0,
+        "high_price": 9460.0,
+        "low_price": 8970.0,
+        "close_price": 9150.0,
+        "volume": 22786310.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250408,
+        "open_price": 9220.0,
+        "high_price": 9220.0,
+        "low_price": 9220.0,
+        "close_price": 9220.0,
+        "volume": 4788868.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250407,
+        "open_price": 9030.0,
+        "high_price": 9190.0,
+        "low_price": 8940.0,
+        "close_price": 8960.0,
+        "volume": 23219507.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250406,
+        "open_price": 9500.0,
+        "high_price": 9540.0,
+        "low_price": 9170.0,
+        "close_price": 9210.0,
+        "volume": 9469077.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250405,
+        "open_price": 9550.0,
+        "high_price": 9560.0,
+        "low_price": 9230.0,
+        "close_price": 9450.0,
+        "volume": 18465621.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250330,
+        "open_price": 9190.0,
+        "high_price": 9460.0,
+        "low_price": 9000.0,
+        "close_price": 9290.0,
+        "volume": 16222574.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250329,
+        "open_price": 9250.0,
+        "high_price": 9270.0,
+        "low_price": 9190.0,
+        "close_price": 9190.0,
+        "volume": 4745240.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250326,
+        "open_price": 9660.0,
+        "high_price": 9670.0,
+        "low_price": 9240.0,
+        "close_price": 9470.0,
+        "volume": 28126504.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250325,
+        "open_price": 9410.0,
+        "high_price": 9410.0,
+        "low_price": 9410.0,
+        "close_price": 9410.0,
+        "volume": 3206809.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250318,
+        "open_price": 9120.0,
+        "high_price": 9120.0,
+        "low_price": 9120.0,
+        "close_price": 9140.0,
+        "volume": 2380498.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250317,
+        "open_price": 9430.0,
+        "high_price": 9430.0,
+        "low_price": 9160.0,
+        "close_price": 9400.0,
+        "volume": 54243183.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250316,
+        "open_price": 9160.0,
+        "high_price": 9160.0,
+        "low_price": 9160.0,
+        "close_price": 9160.0,
+        "volume": 8260522.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250315,
+        "open_price": 8900.0,
+        "high_price": 8900.0,
+        "low_price": 8900.0,
+        "close_price": 8900.0,
+        "volume": 2498488.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250312,
+        "open_price": 8390.0,
+        "high_price": 8810.0,
+        "low_price": 8310.0,
+        "close_price": 8650.0,
+        "volume": 21339170.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250311,
+        "open_price": 8620.0,
+        "high_price": 8790.0,
+        "low_price": 8530.0,
+        "close_price": 8560.0,
+        "volume": 11347847.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250310,
+        "open_price": 8730.0,
+        "high_price": 9190.0,
+        "low_price": 8730.0,
+        "close_price": 8790.0,
+        "volume": 29368342.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250309,
+        "open_price": 9000.0,
+        "high_price": 9000.0,
+        "low_price": 9000.0,
+        "close_price": 9000.0,
+        "volume": 2799139.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250308,
+        "open_price": 9280.0,
+        "high_price": 9650.0,
+        "low_price": 9210.0,
+        "close_price": 9270.0,
+        "volume": 6827227.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250305,
+        "open_price": 9480.0,
+        "high_price": 9670.0,
+        "low_price": 9480.0,
+        "close_price": 9490.0,
+        "volume": 38071989.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250304,
+        "open_price": 9700.0,
+        "high_price": 10230.0,
+        "low_price": 9670.0,
+        "close_price": 9770.0,
+        "volume": 24542522.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250303,
+        "open_price": 9900.0,
+        "high_price": 9900.0,
+        "low_price": 9900.0,
+        "close_price": 9960.0,
+        "volume": 1975356.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250302,
+        "open_price": 9760.0,
+        "high_price": 10230.0,
+        "low_price": 9760.0,
+        "close_price": 10200.0,
+        "volume": 21465720.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250301,
+        "open_price": 9920.0,
+        "high_price": 10200.0,
+        "low_price": 9900.0,
+        "close_price": 9940.0,
+        "volume": 30800431.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250226,
+        "open_price": 10500.0,
+        "high_price": 10500.0,
+        "low_price": 10160.0,
+        "close_price": 10200.0,
+        "volume": 27751395.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250225,
+        "open_price": 10510.0,
+        "high_price": 10510.0,
+        "low_price": 10220.0,
+        "close_price": 10470.0,
+        "volume": 27100103.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250224,
+        "open_price": 10210.0,
+        "high_price": 10210.0,
+        "low_price": 10110.0,
+        "close_price": 10210.0,
+        "volume": 7125106.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250223,
+        "open_price": 9650.0,
+        "high_price": 10020.0,
+        "low_price": 9650.0,
+        "close_price": 9920.0,
+        "volume": 20463242.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250222,
+        "open_price": 10100.0,
+        "high_price": 10120.0,
+        "low_price": 9670.0,
+        "close_price": 9730.0,
+        "volume": 8942708.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250219,
+        "open_price": 9990.0,
+        "high_price": 10040.0,
+        "low_price": 9790.0,
+        "close_price": 9960.0,
+        "volume": 30051904.0
+    },
+    {
+        "symbol": "ثشاهد",
+        "trade_date": 20250218,
+        "open_price": 9450.0,
+        "high_price": 9780.0,
+        "low_price": 9450.0,
+        "close_price": 9750.0,
+        "volume": 29324019.0
+    }
+]

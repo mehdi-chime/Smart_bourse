@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260901,
+        "open_price": 9470.0,
+        "high_price": 9500.0,
+        "low_price": 9010.0,
+        "close_price": 9430.0,
+        "volume": 15204115.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260831,
+        "open_price": 9090.0,
+        "high_price": 9550.0,
+        "low_price": 9090.0,
+        "close_price": 9230.0,
+        "volume": 23433012.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260829,
+        "open_price": 9490.0,
+        "high_price": 9590.0,
+        "low_price": 9260.0,
+        "close_price": 9370.0,
+        "volume": 11805647.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260826,
+        "open_price": 9610.0,
+        "high_price": 9660.0,
+        "low_price": 9340.0,
+        "close_price": 9490.0,
+        "volume": 11946259.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260825,
+        "open_price": 9170.0,
+        "high_price": 9550.0,
+        "low_price": 9170.0,
+        "close_price": 9410.0,
+        "volume": 7924184.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260824,
+        "open_price": 9200.0,
+        "high_price": 9590.0,
+        "low_price": 9200.0,
+        "close_price": 9280.0,
+        "volume": 15074123.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260823,
+        "open_price": 9530.0,
+        "high_price": 9790.0,
+        "low_price": 9330.0,
+        "close_price": 9480.0,
+        "volume": 15016814.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260822,
+        "open_price": 9870.0,
+        "high_price": 9900.0,
+        "low_price": 9350.0,
+        "close_price": 9610.0,
+        "volume": 15561339.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260819,
+        "open_price": 9450.0,
+        "high_price": 9720.0,
+        "low_price": 9300.0,
+        "close_price": 9630.0,
+        "volume": 8999443.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260818,
+        "open_price": 9470.0,
+        "high_price": 9490.0,
+        "low_price": 9200.0,
+        "close_price": 9440.0,
+        "volume": 22625224.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260817,
+        "open_price": 9100.0,
+        "high_price": 9230.0,
+        "low_price": 9100.0,
+        "close_price": 9220.0,
+        "volume": 7676525.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260816,
+        "open_price": 9000.0,
+        "high_price": 9090.0,
+        "low_price": 8850.0,
+        "close_price": 8970.0,
+        "volume": 10737143.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260815,
+        "open_price": 9370.0,
+        "high_price": 9370.0,
+        "low_price": 8870.0,
+        "close_price": 8950.0,
+        "volume": 11535214.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260811,
+        "open_price": 8840.0,
+        "high_price": 9180.0,
+        "low_price": 8840.0,
+        "close_price": 9140.0,
+        "volume": 15279458.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260810,
+        "open_price": 8910.0,
+        "high_price": 9130.0,
+        "low_price": 8890.0,
+        "close_price": 8920.0,
+        "volume": 13811022.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260809,
+        "open_price": 9550.0,
+        "high_price": 9550.0,
+        "low_price": 9050.0,
+        "close_price": 9160.0,
+        "volume": 8035514.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260808,
+        "open_price": 9200.0,
+        "high_price": 9390.0,
+        "low_price": 9150.0,
+        "close_price": 9320.0,
+        "volume": 13562438.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260805,
+        "open_price": 9250.0,
+        "high_price": 9280.0,
+        "low_price": 8800.0,
+        "close_price": 9120.0,
+        "volume": 15324940.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260803,
+        "open_price": 9110.0,
+        "high_price": 9140.0,
+        "low_price": 8980.0,
+        "close_price": 9040.0,
+        "volume": 8446113.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260802,
+        "open_price": 8910.0,
+        "high_price": 9250.0,
+        "low_price": 8830.0,
+        "close_price": 8890.0,
+        "volume": 26177084.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260801,
+        "open_price": 9060.0,
+        "high_price": 9430.0,
+        "low_price": 9060.0,
+        "close_price": 9100.0,
+        "volume": 6405018.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260729,
+        "open_price": 9580.0,
+        "high_price": 9580.0,
+        "low_price": 9100.0,
+        "close_price": 9330.0,
+        "volume": 28324217.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260728,
+        "open_price": 9380.0,
+        "high_price": 9380.0,
+        "low_price": 9380.0,
+        "close_price": 9380.0,
+        "volume": 5003429.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260727,
+        "open_price": 9110.0,
+        "high_price": 9110.0,
+        "low_price": 9110.0,
+        "close_price": 9110.0,
+        "volume": 975790.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260726,
+        "open_price": 8850.0,
+        "high_price": 8850.0,
+        "low_price": 8850.0,
+        "close_price": 8850.0,
+        "volume": 807920.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260725,
+        "open_price": 8550.0,
+        "high_price": 8630.0,
+        "low_price": 8260.0,
+        "close_price": 8600.0,
+        "volume": 18291116.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260722,
+        "open_price": 8610.0,
+        "high_price": 8810.0,
+        "low_price": 8360.0,
+        "close_price": 8380.0,
+        "volume": 13190450.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260721,
+        "open_price": 8630.0,
+        "high_price": 8860.0,
+        "low_price": 8380.0,
+        "close_price": 8610.0,
+        "volume": 18571745.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260720,
+        "open_price": 8550.0,
+        "high_price": 9060.0,
+        "low_price": 8550.0,
+        "close_price": 8620.0,
+        "volume": 23590594.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260719,
+        "open_price": 8810.0,
+        "high_price": 8810.0,
+        "low_price": 8810.0,
+        "close_price": 8810.0,
+        "volume": 1314292.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260718,
+        "open_price": 9080.0,
+        "high_price": 9080.0,
+        "low_price": 9080.0,
+        "close_price": 9080.0,
+        "volume": 94382.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260715,
+        "open_price": 9360.0,
+        "high_price": 9360.0,
+        "low_price": 9360.0,
+        "close_price": 9360.0,
+        "volume": 290542.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260714,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9640.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260713,
+        "open_price": 9640.0,
+        "high_price": 9640.0,
+        "low_price": 9640.0,
+        "close_price": 9640.0,
+        "volume": 4833.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260712,
+        "open_price": 9930.0,
+        "high_price": 9930.0,
+        "low_price": 9930.0,
+        "close_price": 9930.0,
+        "volume": 133418.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260711,
+        "open_price": 10230.0,
+        "high_price": 10230.0,
+        "low_price": 10230.0,
+        "close_price": 10230.0,
+        "volume": 860695.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260708,
+        "open_price": 11000.0,
+        "high_price": 11000.0,
+        "low_price": 10450.0,
+        "close_price": 10540.0,
+        "volume": 7815615.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260707,
+        "open_price": 10860.0,
+        "high_price": 10880.0,
+        "low_price": 10600.0,
+        "close_price": 10770.0,
+        "volume": 11565327.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260701,
+        "open_price": 10320.0,
+        "high_price": 10880.0,
+        "low_price": 10320.0,
+        "close_price": 10570.0,
+        "volume": 16273196.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260630,
+        "open_price": 10540.0,
+        "high_price": 11100.0,
+        "low_price": 10540.0,
+        "close_price": 10630.0,
+        "volume": 58753945.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260629,
+        "open_price": 10860.0,
+        "high_price": 10860.0,
+        "low_price": 10860.0,
+        "close_price": 10860.0,
+        "volume": 750338.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260628,
+        "open_price": 11190.0,
+        "high_price": 11190.0,
+        "low_price": 11190.0,
+        "close_price": 11190.0,
+        "volume": 324431.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260627,
+        "open_price": 11530.0,
+        "high_price": 11600.0,
+        "low_price": 11530.0,
+        "close_price": 11530.0,
+        "volume": 6227915.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260623,
+        "open_price": 11880.0,
+        "high_price": 12000.0,
+        "low_price": 11880.0,
+        "close_price": 11880.0,
+        "volume": 24257577.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260622,
+        "open_price": 12240.0,
+        "high_price": 12240.0,
+        "low_price": 12240.0,
+        "close_price": 12240.0,
+        "volume": 134268.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260621,
+        "open_price": 12610.0,
+        "high_price": 12610.0,
+        "low_price": 12610.0,
+        "close_price": 12610.0,
+        "volume": 337617.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260620,
+        "open_price": 12990.0,
+        "high_price": 12990.0,
+        "low_price": 12990.0,
+        "close_price": 12990.0,
+        "volume": 698990.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260617,
+        "open_price": 13390.0,
+        "high_price": 13390.0,
+        "low_price": 13390.0,
+        "close_price": 13390.0,
+        "volume": 362375.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260616,
+        "open_price": 14050.0,
+        "high_price": 14080.0,
+        "low_price": 13670.0,
+        "close_price": 13800.0,
+        "volume": 12743203.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260615,
+        "open_price": 14300.0,
+        "high_price": 14340.0,
+        "low_price": 13810.0,
+        "close_price": 14090.0,
+        "volume": 53088337.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260614,
+        "open_price": 14540.0,
+        "high_price": 14540.0,
+        "low_price": 13760.0,
+        "close_price": 14080.0,
+        "volume": 66060809.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260613,
+        "open_price": 14230.0,
+        "high_price": 14260.0,
+        "low_price": 13810.0,
+        "close_price": 14180.0,
+        "volume": 41408922.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260610,
+        "open_price": 14000.0,
+        "high_price": 14170.0,
+        "low_price": 13790.0,
+        "close_price": 13850.0,
+        "volume": 24365852.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260609,
+        "open_price": 13990.0,
+        "high_price": 14850.0,
+        "low_price": 13990.0,
+        "close_price": 14210.0,
+        "volume": 145367260.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260608,
+        "open_price": 14630.0,
+        "high_price": 14630.0,
+        "low_price": 13790.0,
+        "close_price": 14420.0,
+        "volume": 55027746.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260607,
+        "open_price": 14210.0,
+        "high_price": 14210.0,
+        "low_price": 14210.0,
+        "close_price": 14210.0,
+        "volume": 1276140.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260606,
+        "open_price": 13800.0,
+        "high_price": 13800.0,
+        "low_price": 13800.0,
+        "close_price": 13800.0,
+        "volume": 1537724.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260603,
+        "open_price": 13400.0,
+        "high_price": 13400.0,
+        "low_price": 13400.0,
+        "close_price": 13400.0,
+        "volume": 490487.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260602,
+        "open_price": 13010.0,
+        "high_price": 13010.0,
+        "low_price": 13010.0,
+        "close_price": 13010.0,
+        "volume": 1665833.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260601,
+        "open_price": 12640.0,
+        "high_price": 12640.0,
+        "low_price": 12640.0,
+        "close_price": 12640.0,
+        "volume": 1957848.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260531,
+        "open_price": 12280.0,
+        "high_price": 12280.0,
+        "low_price": 12280.0,
+        "close_price": 12280.0,
+        "volume": 6289476.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260530,
+        "open_price": 11930.0,
+        "high_price": 11930.0,
+        "low_price": 11930.0,
+        "close_price": 11930.0,
+        "volume": 4916788.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260526,
+        "open_price": 11550.0,
+        "high_price": 11690.0,
+        "low_price": 11010.0,
+        "close_price": 11590.0,
+        "volume": 18227598.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260525,
+        "open_price": 11350.0,
+        "high_price": 11350.0,
+        "low_price": 11350.0,
+        "close_price": 11350.0,
+        "volume": 22007730.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260524,
+        "open_price": 11020.0,
+        "high_price": 11020.0,
+        "low_price": 11020.0,
+        "close_price": 11020.0,
+        "volume": 6160043.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260523,
+        "open_price": 10700.0,
+        "high_price": 10700.0,
+        "low_price": 10700.0,
+        "close_price": 10700.0,
+        "volume": 979552.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260520,
+        "open_price": 10390.0,
+        "high_price": 10390.0,
+        "low_price": 10390.0,
+        "close_price": 10390.0,
+        "volume": 4259801.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260519,
+        "open_price": 10090.0,
+        "high_price": 10090.0,
+        "low_price": 10000.0,
+        "close_price": 10090.0,
+        "volume": 11315036.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260225,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260224,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260223,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260222,
+        "open_price": 10090.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260221,
+        "open_price": 9870.0,
+        "high_price": 9870.0,
+        "low_price": 9350.0,
+        "close_price": 9800.0,
+        "volume": 22099794.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260218,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9590.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260217,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9590.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260216,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9590.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260215,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9590.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260214,
+        "open_price": 9870.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9590.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260210,
+        "open_price": 9590.0,
+        "high_price": 9590.0,
+        "low_price": 9590.0,
+        "close_price": 9590.0,
+        "volume": 2071429.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260209,
+        "open_price": 9590.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9320.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260208,
+        "open_price": 9320.0,
+        "high_price": 9320.0,
+        "low_price": 9320.0,
+        "close_price": 9320.0,
+        "volume": 2371260.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260207,
+        "open_price": 9050.0,
+        "high_price": 9050.0,
+        "low_price": 9050.0,
+        "close_price": 9050.0,
+        "volume": 344416.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260203,
+        "open_price": 8790.0,
+        "high_price": 8790.0,
+        "low_price": 8790.0,
+        "close_price": 8790.0,
+        "volume": 5490361.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260202,
+        "open_price": 8230.0,
+        "high_price": 8540.0,
+        "low_price": 8230.0,
+        "close_price": 8540.0,
+        "volume": 14526758.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260201,
+        "open_price": 8290.0,
+        "high_price": 8410.0,
+        "low_price": 8290.0,
+        "close_price": 8300.0,
+        "volume": 2770314.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260131,
+        "open_price": 8900.0,
+        "high_price": 8930.0,
+        "low_price": 8410.0,
+        "close_price": 8540.0,
+        "volume": 7400830.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260128,
+        "open_price": 8660.0,
+        "high_price": 8930.0,
+        "low_price": 8660.0,
+        "close_price": 8670.0,
+        "volume": 27160635.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260127,
+        "open_price": 8920.0,
+        "high_price": 8920.0,
+        "low_price": 8920.0,
+        "close_price": 8920.0,
+        "volume": 195543.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260126,
+        "open_price": 9390.0,
+        "high_price": 9390.0,
+        "low_price": 8850.0,
+        "close_price": 9190.0,
+        "volume": 22148412.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260125,
+        "open_price": 9120.0,
+        "high_price": 9120.0,
+        "low_price": 9120.0,
+        "close_price": 9120.0,
+        "volume": 4337695.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260124,
+        "open_price": 8490.0,
+        "high_price": 9010.0,
+        "low_price": 8490.0,
+        "close_price": 8860.0,
+        "volume": 26221951.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260121,
+        "open_price": 8750.0,
+        "high_price": 8750.0,
+        "low_price": 8750.0,
+        "close_price": 8750.0,
+        "volume": 1443300.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260120,
+        "open_price": 9020.0,
+        "high_price": 9020.0,
+        "low_price": 9020.0,
+        "close_price": 9020.0,
+        "volume": 1743288.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260119,
+        "open_price": 9290.0,
+        "high_price": 9290.0,
+        "low_price": 9290.0,
+        "close_price": 9290.0,
+        "volume": 2551438.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260118,
+        "open_price": 9570.0,
+        "high_price": 9820.0,
+        "low_price": 9570.0,
+        "close_price": 9570.0,
+        "volume": 8800707.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260114,
+        "open_price": 9860.0,
+        "high_price": 9860.0,
+        "low_price": 9860.0,
+        "close_price": 9860.0,
+        "volume": 280465.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260113,
+        "open_price": 10150.0,
+        "high_price": 10480.0,
+        "low_price": 10150.0,
+        "close_price": 10160.0,
+        "volume": 14072725.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260112,
+        "open_price": 10260.0,
+        "high_price": 10880.0,
+        "low_price": 10260.0,
+        "close_price": 10460.0,
+        "volume": 19431302.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260111,
+        "open_price": 10570.0,
+        "high_price": 10570.0,
+        "low_price": 10570.0,
+        "close_price": 10570.0,
+        "volume": 446424.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260110,
+        "open_price": 10890.0,
+        "high_price": 10890.0,
+        "low_price": 10890.0,
+        "close_price": 10890.0,
+        "volume": 217148.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260107,
+        "open_price": 11580.0,
+        "high_price": 11580.0,
+        "low_price": 10920.0,
+        "close_price": 11220.0,
+        "volume": 33611093.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260106,
+        "open_price": 10750.0,
+        "high_price": 11400.0,
+        "low_price": 10740.0,
+        "close_price": 11250.0,
+        "volume": 26306224.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260105,
+        "open_price": 10950.0,
+        "high_price": 11530.0,
+        "low_price": 10950.0,
+        "close_price": 11070.0,
+        "volume": 18720856.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20260104,
+        "open_price": 11680.0,
+        "high_price": 11680.0,
+        "low_price": 11000.0,
+        "close_price": 11280.0,
+        "volume": 44952977.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251231,
+        "open_price": 11340.0,
+        "high_price": 11340.0,
+        "low_price": 11340.0,
+        "close_price": 11340.0,
+        "volume": 1691131.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251230,
+        "open_price": 11340.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 11010.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251229,
+        "open_price": 11010.0,
+        "high_price": 11010.0,
+        "low_price": 11010.0,
+        "close_price": 11010.0,
+        "volume": 12641529.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251228,
+        "open_price": 10690.0,
+        "high_price": 10690.0,
+        "low_price": 10690.0,
+        "close_price": 10690.0,
+        "volume": 3857494.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251227,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10380.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251224,
+        "open_price": 10380.0,
+        "high_price": 10380.0,
+        "low_price": 10380.0,
+        "close_price": 10380.0,
+        "volume": 8650973.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251223,
+        "open_price": 10080.0,
+        "high_price": 10080.0,
+        "low_price": 10080.0,
+        "close_price": 10080.0,
+        "volume": 1961530.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251222,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9790.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251221,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9790.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251220,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9790.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251217,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9790.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251216,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9790.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251215,
+        "open_price": 9450.0,
+        "high_price": 9790.0,
+        "low_price": 9450.0,
+        "close_price": 9790.0,
+        "volume": 5140297.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251214,
+        "open_price": 9250.0,
+        "high_price": 9510.0,
+        "low_price": 9250.0,
+        "close_price": 9510.0,
+        "volume": 5628062.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251213,
+        "open_price": 9380.0,
+        "high_price": 9390.0,
+        "low_price": 8920.0,
+        "close_price": 9240.0,
+        "volume": 7424127.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251210,
+        "open_price": 9130.0,
+        "high_price": 9130.0,
+        "low_price": 8760.0,
+        "close_price": 9120.0,
+        "volume": 7527682.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251209,
+        "open_price": 8870.0,
+        "high_price": 8870.0,
+        "low_price": 8710.0,
+        "close_price": 8870.0,
+        "volume": 3970840.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251208,
+        "open_price": 8350.0,
+        "high_price": 8700.0,
+        "low_price": 8200.0,
+        "close_price": 8620.0,
+        "volume": 5903583.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251207,
+        "open_price": 8450.0,
+        "high_price": 8450.0,
+        "low_price": 8220.0,
+        "close_price": 8450.0,
+        "volume": 11791625.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251206,
+        "open_price": 8210.0,
+        "high_price": 8210.0,
+        "low_price": 8210.0,
+        "close_price": 8210.0,
+        "volume": 4415685.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251203,
+        "open_price": 7980.0,
+        "high_price": 7980.0,
+        "low_price": 7980.0,
+        "close_price": 7980.0,
+        "volume": 2860453.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251202,
+        "open_price": 7860.0,
+        "high_price": 7860.0,
+        "low_price": 7860.0,
+        "close_price": 7750.0,
+        "volume": 1008090.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251201,
+        "open_price": 7370.0,
+        "high_price": 7810.0,
+        "low_price": 7370.0,
+        "close_price": 7640.0,
+        "volume": 10125033.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251130,
+        "open_price": 7440.0,
+        "high_price": 7440.0,
+        "low_price": 7440.0,
+        "close_price": 7590.0,
+        "volume": 702900.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251129,
+        "open_price": 7460.0,
+        "high_price": 7460.0,
+        "low_price": 7460.0,
+        "close_price": 7670.0,
+        "volume": 152676.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251126,
+        "open_price": 7570.0,
+        "high_price": 7570.0,
+        "low_price": 7570.0,
+        "close_price": 7690.0,
+        "volume": 916055.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251125,
+        "open_price": 7740.0,
+        "high_price": 7740.0,
+        "low_price": 7740.0,
+        "close_price": 7800.0,
+        "volume": 1395073.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251123,
+        "open_price": 8180.0,
+        "high_price": 8240.0,
+        "low_price": 7870.0,
+        "close_price": 7970.0,
+        "volume": 2446545.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251122,
+        "open_price": 8150.0,
+        "high_price": 8280.0,
+        "low_price": 7820.0,
+        "close_price": 8110.0,
+        "volume": 3296122.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251119,
+        "open_price": 8050.0,
+        "high_price": 8050.0,
+        "low_price": 7860.0,
+        "close_price": 8050.0,
+        "volume": 8959175.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251118,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7820.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251117,
+        "open_price": 7590.0,
+        "high_price": 7590.0,
+        "low_price": 7590.0,
+        "close_price": 7820.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251116,
+        "open_price": 8060.0,
+        "high_price": 8060.0,
+        "low_price": 7600.0,
+        "close_price": 7820.0,
+        "volume": 18053658.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251115,
+        "open_price": 7830.0,
+        "high_price": 7830.0,
+        "low_price": 7830.0,
+        "close_price": 7830.0,
+        "volume": 3154735.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251112,
+        "open_price": 7720.0,
+        "high_price": 7720.0,
+        "low_price": 7720.0,
+        "close_price": 7610.0,
+        "volume": 1082316.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251111,
+        "open_price": 7510.0,
+        "high_price": 7510.0,
+        "low_price": 7340.0,
+        "close_price": 7500.0,
+        "volume": 4966696.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251110,
+        "open_price": 7320.0,
+        "high_price": 7320.0,
+        "low_price": 7320.0,
+        "close_price": 7300.0,
+        "volume": 2008837.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251109,
+        "open_price": 7110.0,
+        "high_price": 7110.0,
+        "low_price": 6970.0,
+        "close_price": 7110.0,
+        "volume": 5451119.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251108,
+        "open_price": 6950.0,
+        "high_price": 6950.0,
+        "low_price": 6950.0,
+        "close_price": 6910.0,
+        "volume": 1776854.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251105,
+        "open_price": 6740.0,
+        "high_price": 6760.0,
+        "low_price": 6590.0,
+        "close_price": 6750.0,
+        "volume": 5924813.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251104,
+        "open_price": 6570.0,
+        "high_price": 6570.0,
+        "low_price": 6570.0,
+        "close_price": 6570.0,
+        "volume": 6669823.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251103,
+        "open_price": 6380.0,
+        "high_price": 6380.0,
+        "low_price": 6290.0,
+        "close_price": 6380.0,
+        "volume": 5088554.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251102,
+        "open_price": 6000.0,
+        "high_price": 6320.0,
+        "low_price": 5980.0,
+        "close_price": 6200.0,
+        "volume": 3170594.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251101,
+        "open_price": 6440.0,
+        "high_price": 6440.0,
+        "low_price": 6120.0,
+        "close_price": 6140.0,
+        "volume": 2552814.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251029,
+        "open_price": 6380.0,
+        "high_price": 6410.0,
+        "low_price": 6080.0,
+        "close_price": 6300.0,
+        "volume": 2433289.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251028,
+        "open_price": 6260.0,
+        "high_price": 6260.0,
+        "low_price": 6230.0,
+        "close_price": 6260.0,
+        "volume": 3458734.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251027,
+        "open_price": 6190.0,
+        "high_price": 6190.0,
+        "low_price": 6180.0,
+        "close_price": 6080.0,
+        "volume": 1029177.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251026,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6010.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251025,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6010.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251022,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6010.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251021,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6010.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251020,
+        "open_price": 6110.0,
+        "high_price": 6130.0,
+        "low_price": 5810.0,
+        "close_price": 6010.0,
+        "volume": 5423821.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251019,
+        "open_price": 5980.0,
+        "high_price": 5980.0,
+        "low_price": 5970.0,
+        "close_price": 5980.0,
+        "volume": 4099378.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251018,
+        "open_price": 5830.0,
+        "high_price": 5870.0,
+        "low_price": 5560.0,
+        "close_price": 5810.0,
+        "volume": 1781695.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251015,
+        "open_price": 5700.0,
+        "high_price": 5840.0,
+        "low_price": 5700.0,
+        "close_price": 5700.0,
+        "volume": 4094878.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251014,
+        "open_price": 5920.0,
+        "high_price": 5920.0,
+        "low_price": 5590.0,
+        "close_price": 5870.0,
+        "volume": 4654526.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251013,
+        "open_price": 5810.0,
+        "high_price": 5810.0,
+        "low_price": 5810.0,
+        "close_price": 5750.0,
+        "volume": 1702239.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251012,
+        "open_price": 5680.0,
+        "high_price": 5680.0,
+        "low_price": 5680.0,
+        "close_price": 5650.0,
+        "volume": 2155614.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251011,
+        "open_price": 5600.0,
+        "high_price": 5600.0,
+        "low_price": 5600.0,
+        "close_price": 5520.0,
+        "volume": 1402680.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251008,
+        "open_price": 5440.0,
+        "high_price": 5440.0,
+        "low_price": 5440.0,
+        "close_price": 5440.0,
+        "volume": 4249362.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251007,
+        "open_price": 5333.0,
+        "high_price": 5333.0,
+        "low_price": 5333.0,
+        "close_price": 5282.0,
+        "volume": 2047233.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251006,
+        "open_price": 4945.0,
+        "high_price": 5200.0,
+        "low_price": 4945.0,
+        "close_price": 5178.0,
+        "volume": 2958813.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251005,
+        "open_price": 5179.0,
+        "high_price": 5179.0,
+        "low_price": 5040.0,
+        "close_price": 5049.0,
+        "volume": 800085.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251004,
+        "open_price": 5040.0,
+        "high_price": 5067.0,
+        "low_price": 5010.0,
+        "close_price": 5034.0,
+        "volume": 2415769.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20251001,
+        "open_price": 4890.0,
+        "high_price": 5180.0,
+        "low_price": 4890.0,
+        "close_price": 4920.0,
+        "volume": 5126658.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250930,
+        "open_price": 5280.0,
+        "high_price": 5280.0,
+        "low_price": 5030.0,
+        "close_price": 5040.0,
+        "volume": 3943634.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250929,
+        "open_price": 5160.0,
+        "high_price": 5190.0,
+        "low_price": 5100.0,
+        "close_price": 5180.0,
+        "volume": 5218557.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250928,
+        "open_price": 5100.0,
+        "high_price": 5130.0,
+        "low_price": 4970.0,
+        "close_price": 5040.0,
+        "volume": 3412817.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250927,
+        "open_price": 5000.0,
+        "high_price": 5160.0,
+        "low_price": 5000.0,
+        "close_price": 5010.0,
+        "volume": 7175429.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250924,
+        "open_price": 5000.0,
+        "high_price": 5000.0,
+        "low_price": 5000.0,
+        "close_price": 5150.0,
+        "volume": 78391.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250923,
+        "open_price": 5020.0,
+        "high_price": 5020.0,
+        "low_price": 5020.0,
+        "close_price": 5150.0,
+        "volume": 321694.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250922,
+        "open_price": 5100.0,
+        "high_price": 5300.0,
+        "low_price": 5070.0,
+        "close_price": 5170.0,
+        "volume": 2026056.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250921,
+        "open_price": 5290.0,
+        "high_price": 5300.0,
+        "low_price": 5000.0,
+        "close_price": 5220.0,
+        "volume": 12624579.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250920,
+        "open_price": 5170.0,
+        "high_price": 5250.0,
+        "low_price": 4960.0,
+        "close_price": 5150.0,
+        "volume": 17408809.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250917,
+        "open_price": 5105.0,
+        "high_price": 5105.0,
+        "low_price": 5105.0,
+        "close_price": 5105.0,
+        "volume": 3621915.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250916,
+        "open_price": 4957.0,
+        "high_price": 4957.0,
+        "low_price": 4957.0,
+        "close_price": 4957.0,
+        "volume": 4135442.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250915,
+        "open_price": 4764.0,
+        "high_price": 4864.0,
+        "low_price": 4600.0,
+        "close_price": 4813.0,
+        "volume": 5096217.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250914,
+        "open_price": 4724.0,
+        "high_price": 4724.0,
+        "low_price": 4643.0,
+        "close_price": 4723.0,
+        "volume": 3661462.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250913,
+        "open_price": 4663.0,
+        "high_price": 4663.0,
+        "low_price": 4663.0,
+        "close_price": 4587.0,
+        "volume": 1450936.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250909,
+        "open_price": 4554.0,
+        "high_price": 4554.0,
+        "low_price": 4553.0,
+        "close_price": 4528.0,
+        "volume": 2719880.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250908,
+        "open_price": 4400.0,
+        "high_price": 4535.0,
+        "low_price": 4306.0,
+        "close_price": 4422.0,
+        "volume": 1829262.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250907,
+        "open_price": 4309.0,
+        "high_price": 4396.0,
+        "low_price": 4285.0,
+        "close_price": 4403.0,
+        "volume": 359945.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250906,
+        "open_price": 4335.0,
+        "high_price": 4444.0,
+        "low_price": 4309.0,
+        "close_price": 4417.0,
+        "volume": 771237.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250903,
+        "open_price": 4577.0,
+        "high_price": 4577.0,
+        "low_price": 4361.0,
+        "close_price": 4442.0,
+        "volume": 1223988.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250902,
+        "open_price": 4560.0,
+        "high_price": 4560.0,
+        "low_price": 4353.0,
+        "close_price": 4466.0,
+        "volume": 1212786.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250831,
+        "open_price": 4377.0,
+        "high_price": 4440.0,
+        "low_price": 4377.0,
+        "close_price": 4481.0,
+        "volume": 763886.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250830,
+        "open_price": 4384.0,
+        "high_price": 4384.0,
+        "low_price": 4384.0,
+        "close_price": 4512.0,
+        "volume": 162040.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250827,
+        "open_price": 4391.0,
+        "high_price": 4643.0,
+        "low_price": 4391.0,
+        "close_price": 4519.0,
+        "volume": 224723.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250826,
+        "open_price": 4510.0,
+        "high_price": 4510.0,
+        "low_price": 4393.0,
+        "close_price": 4526.0,
+        "volume": 54596.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250825,
+        "open_price": 4405.0,
+        "high_price": 4405.0,
+        "low_price": 4405.0,
+        "close_price": 4528.0,
+        "volume": 311115.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250823,
+        "open_price": 4430.0,
+        "high_price": 4669.0,
+        "low_price": 4429.0,
+        "close_price": 4541.0,
+        "volume": 574128.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250820,
+        "open_price": 4477.0,
+        "high_price": 4498.0,
+        "low_price": 4477.0,
+        "close_price": 4565.0,
+        "volume": 1175873.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250819,
+        "open_price": 4495.0,
+        "high_price": 4649.0,
+        "low_price": 4495.0,
+        "close_price": 4615.0,
+        "volume": 450855.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250818,
+        "open_price": 4590.0,
+        "high_price": 4601.0,
+        "low_price": 4508.0,
+        "close_price": 4634.0,
+        "volume": 406120.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250817,
+        "open_price": 4650.0,
+        "high_price": 4740.0,
+        "low_price": 4521.0,
+        "close_price": 4647.0,
+        "volume": 380099.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250816,
+        "open_price": 4518.0,
+        "high_price": 4518.0,
+        "low_price": 4518.0,
+        "close_price": 4646.0,
+        "volume": 263867.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250813,
+        "open_price": 4520.0,
+        "high_price": 4520.0,
+        "low_price": 4520.0,
+        "close_price": 4657.0,
+        "volume": 42558.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250812,
+        "open_price": 4552.0,
+        "high_price": 4690.0,
+        "low_price": 4552.0,
+        "close_price": 4659.0,
+        "volume": 739999.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250811,
+        "open_price": 4556.0,
+        "high_price": 4556.0,
+        "low_price": 4556.0,
+        "close_price": 4692.0,
+        "volume": 79999.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250810,
+        "open_price": 4560.0,
+        "high_price": 4560.0,
+        "low_price": 4560.0,
+        "close_price": 4696.0,
+        "volume": 102652.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250809,
+        "open_price": 4579.0,
+        "high_price": 4604.0,
+        "low_price": 4579.0,
+        "close_price": 4701.0,
+        "volume": 454612.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250806,
+        "open_price": 4590.0,
+        "high_price": 4610.0,
+        "low_price": 4590.0,
+        "close_price": 4720.0,
+        "volume": 195567.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250805,
+        "open_price": 4870.0,
+        "high_price": 4890.0,
+        "low_price": 4610.0,
+        "close_price": 4730.0,
+        "volume": 842871.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250804,
+        "open_price": 4750.0,
+        "high_price": 4830.0,
+        "low_price": 4750.0,
+        "close_price": 4750.0,
+        "volume": 3488614.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250803,
+        "open_price": 4800.0,
+        "high_price": 4810.0,
+        "low_price": 4800.0,
+        "close_price": 4890.0,
+        "volume": 961546.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250802,
+        "open_price": 4940.0,
+        "high_price": 4940.0,
+        "low_price": 4940.0,
+        "close_price": 4940.0,
+        "volume": 3260686.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250730,
+        "open_price": 4950.0,
+        "high_price": 4950.0,
+        "low_price": 4950.0,
+        "close_price": 5090.0,
+        "volume": 120068.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250729,
+        "open_price": 4950.0,
+        "high_price": 4950.0,
+        "low_price": 4950.0,
+        "close_price": 5100.0,
+        "volume": 35416.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250728,
+        "open_price": 4950.0,
+        "high_price": 4950.0,
+        "low_price": 4950.0,
+        "close_price": 5100.0,
+        "volume": 36147.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250727,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5100.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250726,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5100.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250723,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5150.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250722,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5150.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250721,
+        "open_price": 5340.0,
+        "high_price": 5360.0,
+        "low_price": 5070.0,
+        "close_price": 5150.0,
+        "volume": 6161161.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250720,
+        "open_price": 5130.0,
+        "high_price": 5320.0,
+        "low_price": 5120.0,
+        "close_price": 5220.0,
+        "volume": 1567819.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250719,
+        "open_price": 5370.0,
+        "high_price": 5370.0,
+        "low_price": 5150.0,
+        "close_price": 5270.0,
+        "volume": 567408.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250716,
+        "open_price": 5380.0,
+        "high_price": 5400.0,
+        "low_price": 5220.0,
+        "close_price": 5280.0,
+        "volume": 1589770.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250715,
+        "open_price": 5260.0,
+        "high_price": 5290.0,
+        "low_price": 5020.0,
+        "close_price": 5270.0,
+        "volume": 4966996.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250714,
+        "open_price": 5100.0,
+        "high_price": 5240.0,
+        "low_price": 4940.0,
+        "close_price": 5140.0,
+        "volume": 7921295.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250713,
+        "open_price": 4980.0,
+        "high_price": 5100.0,
+        "low_price": 4970.0,
+        "close_price": 5090.0,
+        "volume": 935206.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250712,
+        "open_price": 5110.0,
+        "high_price": 5290.0,
+        "low_price": 5020.0,
+        "close_price": 5120.0,
+        "volume": 1228229.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250709,
+        "open_price": 5050.0,
+        "high_price": 5050.0,
+        "low_price": 5040.0,
+        "close_price": 5170.0,
+        "volume": 434847.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250708,
+        "open_price": 5190.0,
+        "high_price": 5270.0,
+        "low_price": 5110.0,
+        "close_price": 5190.0,
+        "volume": 1290971.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250707,
+        "open_price": 5270.0,
+        "high_price": 5390.0,
+        "low_price": 5140.0,
+        "close_price": 5260.0,
+        "volume": 629477.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250702,
+        "open_price": 5200.0,
+        "high_price": 5430.0,
+        "low_price": 5200.0,
+        "close_price": 5250.0,
+        "volume": 4176924.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250701,
+        "open_price": 5260.0,
+        "high_price": 5280.0,
+        "low_price": 5260.0,
+        "close_price": 5360.0,
+        "volume": 1059515.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250630,
+        "open_price": 5390.0,
+        "high_price": 5700.0,
+        "low_price": 5390.0,
+        "close_price": 5420.0,
+        "volume": 5223439.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250629,
+        "open_price": 5510.0,
+        "high_price": 5510.0,
+        "low_price": 5510.0,
+        "close_price": 5550.0,
+        "volume": 1994049.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250628,
+        "open_price": 5600.0,
+        "high_price": 5600.0,
+        "low_price": 5600.0,
+        "close_price": 5680.0,
+        "volume": 1307269.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250611,
+        "open_price": 5710.0,
+        "high_price": 5850.0,
+        "low_price": 5620.0,
+        "close_price": 5770.0,
+        "volume": 1779688.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250610,
+        "open_price": 5720.0,
+        "high_price": 5980.0,
+        "low_price": 5720.0,
+        "close_price": 5740.0,
+        "volume": 2207202.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250609,
+        "open_price": 5960.0,
+        "high_price": 6030.0,
+        "low_price": 5790.0,
+        "close_price": 5890.0,
+        "volume": 1164367.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250608,
+        "open_price": 5810.0,
+        "high_price": 6150.0,
+        "low_price": 5810.0,
+        "close_price": 5960.0,
+        "volume": 4545961.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250607,
+        "open_price": 5850.0,
+        "high_price": 5850.0,
+        "low_price": 5830.0,
+        "close_price": 5980.0,
+        "volume": 370016.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250603,
+        "open_price": 6190.0,
+        "high_price": 6190.0,
+        "low_price": 5920.0,
+        "close_price": 6010.0,
+        "volume": 1350111.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250602,
+        "open_price": 6110.0,
+        "high_price": 6250.0,
+        "low_price": 6010.0,
+        "close_price": 6100.0,
+        "volume": 1473028.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250601,
+        "open_price": 6120.0,
+        "high_price": 6400.0,
+        "low_price": 6060.0,
+        "close_price": 6130.0,
+        "volume": 3176423.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250531,
+        "open_price": 6180.0,
+        "high_price": 6260.0,
+        "low_price": 6090.0,
+        "close_price": 6240.0,
+        "volume": 2454990.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250528,
+        "open_price": 6020.0,
+        "high_price": 6200.0,
+        "low_price": 6000.0,
+        "close_price": 6080.0,
+        "volume": 1720837.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250527,
+        "open_price": 6130.0,
+        "high_price": 6280.0,
+        "low_price": 6000.0,
+        "close_price": 6080.0,
+        "volume": 1422061.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250526,
+        "open_price": 6050.0,
+        "high_price": 6250.0,
+        "low_price": 6010.0,
+        "close_price": 6140.0,
+        "volume": 1050631.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250525,
+        "open_price": 6120.0,
+        "high_price": 6250.0,
+        "low_price": 6050.0,
+        "close_price": 6190.0,
+        "volume": 565015.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250524,
+        "open_price": 6450.0,
+        "high_price": 6460.0,
+        "low_price": 6110.0,
+        "close_price": 6230.0,
+        "volume": 1301213.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250521,
+        "open_price": 6290.0,
+        "high_price": 6290.0,
+        "low_price": 6290.0,
+        "close_price": 6290.0,
+        "volume": 2381274.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250520,
+        "open_price": 6600.0,
+        "high_price": 6730.0,
+        "low_price": 6430.0,
+        "close_price": 6480.0,
+        "volume": 2149604.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250519,
+        "open_price": 6780.0,
+        "high_price": 6780.0,
+        "low_price": 6530.0,
+        "close_price": 6620.0,
+        "volume": 1635800.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250518,
+        "open_price": 6690.0,
+        "high_price": 6740.0,
+        "low_price": 6480.0,
+        "close_price": 6630.0,
+        "volume": 2274543.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250517,
+        "open_price": 6610.0,
+        "high_price": 6900.0,
+        "low_price": 6570.0,
+        "close_price": 6600.0,
+        "volume": 4456534.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250514,
+        "open_price": 6890.0,
+        "high_price": 6890.0,
+        "low_price": 6630.0,
+        "close_price": 6770.0,
+        "volume": 1288485.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250513,
+        "open_price": 6820.0,
+        "high_price": 6870.0,
+        "low_price": 6720.0,
+        "close_price": 6800.0,
+        "volume": 2061330.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250512,
+        "open_price": 6570.0,
+        "high_price": 6680.0,
+        "low_price": 6570.0,
+        "close_price": 6680.0,
+        "volume": 2293644.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250511,
+        "open_price": 6560.0,
+        "high_price": 6600.0,
+        "low_price": 6470.0,
+        "close_price": 6490.0,
+        "volume": 2243639.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250510,
+        "open_price": 6980.0,
+        "high_price": 6980.0,
+        "low_price": 6640.0,
+        "close_price": 6660.0,
+        "volume": 2197955.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250507,
+        "open_price": 6940.0,
+        "high_price": 6960.0,
+        "low_price": 6660.0,
+        "close_price": 6840.0,
+        "volume": 3745995.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250506,
+        "open_price": 7130.0,
+        "high_price": 7130.0,
+        "low_price": 6830.0,
+        "close_price": 6840.0,
+        "volume": 8607869.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250505,
+        "open_price": 7070.0,
+        "high_price": 7180.0,
+        "low_price": 6780.0,
+        "close_price": 7040.0,
+        "volume": 8304769.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250504,
+        "open_price": 6800.0,
+        "high_price": 7080.0,
+        "low_price": 6800.0,
+        "close_price": 6980.0,
+        "volume": 6699663.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250503,
+        "open_price": 6950.0,
+        "high_price": 6990.0,
+        "low_price": 6590.0,
+        "close_price": 6880.0,
+        "volume": 18428608.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250430,
+        "open_price": 6800.0,
+        "high_price": 6800.0,
+        "low_price": 6800.0,
+        "close_price": 6790.0,
+        "volume": 2276791.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250429,
+        "open_price": 6630.0,
+        "high_price": 6630.0,
+        "low_price": 6630.0,
+        "close_price": 6610.0,
+        "volume": 2198324.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250428,
+        "open_price": 6460.0,
+        "high_price": 6460.0,
+        "low_price": 6460.0,
+        "close_price": 6440.0,
+        "volume": 2136562.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250427,
+        "open_price": 6290.0,
+        "high_price": 6290.0,
+        "low_price": 6290.0,
+        "close_price": 6280.0,
+        "volume": 2282437.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250426,
+        "open_price": 6260.0,
+        "high_price": 6260.0,
+        "low_price": 6260.0,
+        "close_price": 6110.0,
+        "volume": 359480.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250423,
+        "open_price": 6080.0,
+        "high_price": 6080.0,
+        "low_price": 6080.0,
+        "close_price": 6080.0,
+        "volume": 6140749.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250422,
+        "open_price": 5910.0,
+        "high_price": 5910.0,
+        "low_price": 5900.0,
+        "close_price": 5910.0,
+        "volume": 5711355.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5740.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5740.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5740.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250416,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5740.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5740.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250414,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5740.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5740.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5740.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250409,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5740.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5740.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5740.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5740.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5740.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5740.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5740.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250326,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5740.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5740.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 22960.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 22960.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 22960.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 22960.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250312,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 22960.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250311,
+        "open_price": 22490.0,
+        "high_price": 22490.0,
+        "low_price": 22490.0,
+        "close_price": 22960.0,
+        "volume": 202777.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250310,
+        "open_price": 22780.0,
+        "high_price": 22780.0,
+        "low_price": 22780.0,
+        "close_price": 23180.0,
+        "volume": 265271.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250309,
+        "open_price": 23010.0,
+        "high_price": 23010.0,
+        "low_price": 23010.0,
+        "close_price": 23480.0,
+        "volume": 216607.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250308,
+        "open_price": 23180.0,
+        "high_price": 23190.0,
+        "low_price": 23180.0,
+        "close_price": 23720.0,
+        "volume": 150708.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250305,
+        "open_price": 24000.0,
+        "high_price": 24000.0,
+        "low_price": 23710.0,
+        "close_price": 23890.0,
+        "volume": 438985.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250304,
+        "open_price": 25000.0,
+        "high_price": 25280.0,
+        "low_price": 24000.0,
+        "close_price": 24440.0,
+        "volume": 283940.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250303,
+        "open_price": 25690.0,
+        "high_price": 25690.0,
+        "low_price": 24400.0,
+        "close_price": 24740.0,
+        "volume": 322596.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250302,
+        "open_price": 24510.0,
+        "high_price": 25870.0,
+        "low_price": 24440.0,
+        "close_price": 25150.0,
+        "volume": 611399.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250301,
+        "open_price": 25200.0,
+        "high_price": 25500.0,
+        "low_price": 25030.0,
+        "close_price": 25180.0,
+        "volume": 563165.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250226,
+        "open_price": 25360.0,
+        "high_price": 25990.0,
+        "low_price": 25270.0,
+        "close_price": 25800.0,
+        "volume": 151150.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250225,
+        "open_price": 25220.0,
+        "high_price": 26390.0,
+        "low_price": 25220.0,
+        "close_price": 25930.0,
+        "volume": 551391.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250224,
+        "open_price": 26340.0,
+        "high_price": 26400.0,
+        "low_price": 25400.0,
+        "close_price": 25830.0,
+        "volume": 279171.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250223,
+        "open_price": 25240.0,
+        "high_price": 26390.0,
+        "low_price": 24900.0,
+        "close_price": 25640.0,
+        "volume": 473878.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250222,
+        "open_price": 25370.0,
+        "high_price": 25840.0,
+        "low_price": 25240.0,
+        "close_price": 25660.0,
+        "volume": 267704.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250219,
+        "open_price": 25950.0,
+        "high_price": 26950.0,
+        "low_price": 25950.0,
+        "close_price": 26020.0,
+        "volume": 510067.0
+    },
+    {
+        "symbol": "تکشا",
+        "trade_date": 20250218,
+        "open_price": 26250.0,
+        "high_price": 26560.0,
+        "low_price": 26250.0,
+        "close_price": 26750.0,
+        "volume": 214028.0
+    }
+]

@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260901,
+        "open_price": 37600.0,
+        "high_price": 38700.0,
+        "low_price": 36620.0,
+        "close_price": 37190.0,
+        "volume": 18735543.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260831,
+        "open_price": 37750.0,
+        "high_price": 38330.0,
+        "low_price": 37750.0,
+        "close_price": 37750.0,
+        "volume": 35392329.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260829,
+        "open_price": 39700.0,
+        "high_price": 39700.0,
+        "low_price": 38480.0,
+        "close_price": 38910.0,
+        "volume": 20975317.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260826,
+        "open_price": 38200.0,
+        "high_price": 40300.0,
+        "low_price": 38200.0,
+        "close_price": 38650.0,
+        "volume": 59549947.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260825,
+        "open_price": 39380.0,
+        "high_price": 39380.0,
+        "low_price": 39380.0,
+        "close_price": 39380.0,
+        "volume": 13169779.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260824,
+        "open_price": 40500.0,
+        "high_price": 41390.0,
+        "low_price": 40500.0,
+        "close_price": 40590.0,
+        "volume": 31068001.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260823,
+        "open_price": 42950.0,
+        "high_price": 42950.0,
+        "low_price": 40500.0,
+        "close_price": 41750.0,
+        "volume": 15936036.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260822,
+        "open_price": 41760.0,
+        "high_price": 41760.0,
+        "low_price": 41550.0,
+        "close_price": 41750.0,
+        "volume": 35286594.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260819,
+        "open_price": 40000.0,
+        "high_price": 41110.0,
+        "low_price": 39200.0,
+        "close_price": 40550.0,
+        "volume": 14115722.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260818,
+        "open_price": 40000.0,
+        "high_price": 40310.0,
+        "low_price": 37970.0,
+        "close_price": 39980.0,
+        "volume": 23902127.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260817,
+        "open_price": 39000.0,
+        "high_price": 39150.0,
+        "low_price": 38470.0,
+        "close_price": 39140.0,
+        "volume": 34608695.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260816,
+        "open_price": 38000.0,
+        "high_price": 38290.0,
+        "low_price": 36500.0,
+        "close_price": 38010.0,
+        "volume": 47020767.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260815,
+        "open_price": 37400.0,
+        "high_price": 37400.0,
+        "low_price": 36320.0,
+        "close_price": 37180.0,
+        "volume": 72960059.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260811,
+        "open_price": 36320.0,
+        "high_price": 36320.0,
+        "low_price": 36320.0,
+        "close_price": 36320.0,
+        "volume": 41229572.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260810,
+        "open_price": 35270.0,
+        "high_price": 35270.0,
+        "low_price": 35270.0,
+        "close_price": 35270.0,
+        "volume": 5875657.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260809,
+        "open_price": 34250.0,
+        "high_price": 34250.0,
+        "low_price": 34250.0,
+        "close_price": 34250.0,
+        "volume": 5591742.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260808,
+        "open_price": 33260.0,
+        "high_price": 33260.0,
+        "low_price": 33260.0,
+        "close_price": 33260.0,
+        "volume": 2224987.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260805,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32300.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260803,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32300.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260802,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32300.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260801,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32300.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260729,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32300.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260728,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 35300.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260727,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 35300.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260726,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 35300.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260725,
+        "open_price": 36780.0,
+        "high_price": 36780.0,
+        "low_price": 34720.0,
+        "close_price": 35300.0,
+        "volume": 20345351.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260722,
+        "open_price": 35800.0,
+        "high_price": 35830.0,
+        "low_price": 35400.0,
+        "close_price": 35790.0,
+        "volume": 6827318.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260721,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34790.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260720,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34790.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260719,
+        "open_price": 36500.0,
+        "high_price": 36500.0,
+        "low_price": 34430.0,
+        "close_price": 34790.0,
+        "volume": 32536295.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260718,
+        "open_price": 35490.0,
+        "high_price": 35920.0,
+        "low_price": 35490.0,
+        "close_price": 35490.0,
+        "volume": 9789470.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260715,
+        "open_price": 36200.0,
+        "high_price": 36790.0,
+        "low_price": 35000.0,
+        "close_price": 36580.0,
+        "volume": 40812588.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260714,
+        "open_price": 35770.0,
+        "high_price": 35770.0,
+        "low_price": 34920.0,
+        "close_price": 35720.0,
+        "volume": 42569431.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260713,
+        "open_price": 33020.0,
+        "high_price": 34800.0,
+        "low_price": 33020.0,
+        "close_price": 34730.0,
+        "volume": 37610919.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260712,
+        "open_price": 33500.0,
+        "high_price": 34920.0,
+        "low_price": 32900.0,
+        "close_price": 33790.0,
+        "volume": 45277127.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260711,
+        "open_price": 33920.0,
+        "high_price": 33920.0,
+        "low_price": 33100.0,
+        "close_price": 33910.0,
+        "volume": 11270332.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260708,
+        "open_price": 33020.0,
+        "high_price": 33020.0,
+        "low_price": 31200.0,
+        "close_price": 32940.0,
+        "volume": 37770347.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260707,
+        "open_price": 32060.0,
+        "high_price": 32060.0,
+        "low_price": 32060.0,
+        "close_price": 32060.0,
+        "volume": 5215916.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260701,
+        "open_price": 31130.0,
+        "high_price": 31130.0,
+        "low_price": 31130.0,
+        "close_price": 31130.0,
+        "volume": 11429593.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260630,
+        "open_price": 30230.0,
+        "high_price": 30230.0,
+        "low_price": 30230.0,
+        "close_price": 30230.0,
+        "volume": 15905166.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260629,
+        "open_price": 28750.0,
+        "high_price": 30350.0,
+        "low_price": 28710.0,
+        "close_price": 29350.0,
+        "volume": 14580357.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260628,
+        "open_price": 29560.0,
+        "high_price": 30430.0,
+        "low_price": 29560.0,
+        "close_price": 29590.0,
+        "volume": 24953336.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260627,
+        "open_price": 30830.0,
+        "high_price": 30840.0,
+        "low_price": 29120.0,
+        "close_price": 30470.0,
+        "volume": 21263346.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260623,
+        "open_price": 29100.0,
+        "high_price": 30030.0,
+        "low_price": 29100.0,
+        "close_price": 29950.0,
+        "volume": 19845769.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260622,
+        "open_price": 29160.0,
+        "high_price": 29160.0,
+        "low_price": 29160.0,
+        "close_price": 29160.0,
+        "volume": 4620293.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260621,
+        "open_price": 30070.0,
+        "high_price": 30630.0,
+        "low_price": 30050.0,
+        "close_price": 30060.0,
+        "volume": 15326450.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260620,
+        "open_price": 31980.0,
+        "high_price": 31980.0,
+        "low_price": 30120.0,
+        "close_price": 30970.0,
+        "volume": 47349689.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260617,
+        "open_price": 31300.0,
+        "high_price": 31300.0,
+        "low_price": 29550.0,
+        "close_price": 31050.0,
+        "volume": 33524985.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260616,
+        "open_price": 30390.0,
+        "high_price": 30390.0,
+        "low_price": 30290.0,
+        "close_price": 30390.0,
+        "volume": 25319295.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260615,
+        "open_price": 29510.0,
+        "high_price": 29510.0,
+        "low_price": 29510.0,
+        "close_price": 29510.0,
+        "volume": 5775342.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260614,
+        "open_price": 28660.0,
+        "high_price": 28660.0,
+        "low_price": 28660.0,
+        "close_price": 28660.0,
+        "volume": 2966435.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260613,
+        "open_price": 27830.0,
+        "high_price": 27830.0,
+        "low_price": 27830.0,
+        "close_price": 27830.0,
+        "volume": 3305409.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260610,
+        "open_price": 27020.0,
+        "high_price": 27020.0,
+        "low_price": 27020.0,
+        "close_price": 27020.0,
+        "volume": 21545737.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260609,
+        "open_price": 26240.0,
+        "high_price": 26240.0,
+        "low_price": 26240.0,
+        "close_price": 26240.0,
+        "volume": 4654087.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260608,
+        "open_price": 25470.0,
+        "high_price": 26000.0,
+        "low_price": 25470.0,
+        "close_price": 25480.0,
+        "volume": 37301775.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260607,
+        "open_price": 26250.0,
+        "high_price": 26250.0,
+        "low_price": 26250.0,
+        "close_price": 26250.0,
+        "volume": 3672646.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260606,
+        "open_price": 25500.0,
+        "high_price": 25510.0,
+        "low_price": 25000.0,
+        "close_price": 25490.0,
+        "volume": 13445678.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260603,
+        "open_price": 25300.0,
+        "high_price": 25500.0,
+        "low_price": 24400.0,
+        "close_price": 24770.0,
+        "volume": 30776192.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260602,
+        "open_price": 25500.0,
+        "high_price": 25850.0,
+        "low_price": 24350.0,
+        "close_price": 25150.0,
+        "volume": 50997506.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260601,
+        "open_price": 25170.0,
+        "high_price": 25170.0,
+        "low_price": 24450.0,
+        "close_price": 25100.0,
+        "volume": 34492828.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260531,
+        "open_price": 24440.0,
+        "high_price": 24440.0,
+        "low_price": 24440.0,
+        "close_price": 24440.0,
+        "volume": 8272137.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260530,
+        "open_price": 23730.0,
+        "high_price": 23730.0,
+        "low_price": 23730.0,
+        "close_price": 23730.0,
+        "volume": 8458929.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260526,
+        "open_price": 23000.0,
+        "high_price": 23610.0,
+        "low_price": 22250.0,
+        "close_price": 23040.0,
+        "volume": 52457627.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260525,
+        "open_price": 22950.0,
+        "high_price": 22950.0,
+        "low_price": 22310.0,
+        "close_price": 22930.0,
+        "volume": 34118644.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260524,
+        "open_price": 22290.0,
+        "high_price": 22290.0,
+        "low_price": 22290.0,
+        "close_price": 22290.0,
+        "volume": 5783082.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260523,
+        "open_price": 21650.0,
+        "high_price": 21650.0,
+        "low_price": 21650.0,
+        "close_price": 21650.0,
+        "volume": 1513256.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260520,
+        "open_price": 21020.0,
+        "high_price": 21050.0,
+        "low_price": 20800.0,
+        "close_price": 21020.0,
+        "volume": 28204531.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260519,
+        "open_price": 20630.0,
+        "high_price": 21000.0,
+        "low_price": 20020.0,
+        "close_price": 20440.0,
+        "volume": 22574222.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260225,
+        "open_price": 19600.0,
+        "high_price": 20230.0,
+        "low_price": 19500.0,
+        "close_price": 20020.0,
+        "volume": 4644992.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260224,
+        "open_price": 19800.0,
+        "high_price": 19880.0,
+        "low_price": 19510.0,
+        "close_price": 19650.0,
+        "volume": 7750384.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260223,
+        "open_price": 19220.0,
+        "high_price": 19880.0,
+        "low_price": 19220.0,
+        "close_price": 19730.0,
+        "volume": 5305990.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260222,
+        "open_price": 19290.0,
+        "high_price": 19700.0,
+        "low_price": 19290.0,
+        "close_price": 19310.0,
+        "volume": 9307198.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260221,
+        "open_price": 19880.0,
+        "high_price": 20000.0,
+        "low_price": 19880.0,
+        "close_price": 19880.0,
+        "volume": 6631293.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260218,
+        "open_price": 20820.0,
+        "high_price": 21200.0,
+        "low_price": 20350.0,
+        "close_price": 20490.0,
+        "volume": 5574960.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260217,
+        "open_price": 20750.0,
+        "high_price": 20950.0,
+        "low_price": 20580.0,
+        "close_price": 20750.0,
+        "volume": 5505211.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260216,
+        "open_price": 20620.0,
+        "high_price": 20970.0,
+        "low_price": 20620.0,
+        "close_price": 20760.0,
+        "volume": 4663366.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260215,
+        "open_price": 21430.0,
+        "high_price": 21430.0,
+        "low_price": 21250.0,
+        "close_price": 21250.0,
+        "volume": 6541825.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260214,
+        "open_price": 22500.0,
+        "high_price": 22990.0,
+        "low_price": 21690.0,
+        "close_price": 21900.0,
+        "volume": 14182665.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260210,
+        "open_price": 21890.0,
+        "high_price": 23080.0,
+        "low_price": 21890.0,
+        "close_price": 22360.0,
+        "volume": 6377121.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260209,
+        "open_price": 23150.0,
+        "high_price": 23150.0,
+        "low_price": 22420.0,
+        "close_price": 22420.0,
+        "volume": 23908828.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260208,
+        "open_price": 24190.0,
+        "high_price": 24190.0,
+        "low_price": 22890.0,
+        "close_price": 23110.0,
+        "volume": 16548076.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260207,
+        "open_price": 23590.0,
+        "high_price": 23590.0,
+        "low_price": 23110.0,
+        "close_price": 23590.0,
+        "volume": 14036957.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260203,
+        "open_price": 23570.0,
+        "high_price": 23620.0,
+        "low_price": 22870.0,
+        "close_price": 22910.0,
+        "volume": 27534200.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260202,
+        "open_price": 24500.0,
+        "high_price": 24500.0,
+        "low_price": 23360.0,
+        "close_price": 23570.0,
+        "volume": 57385950.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260201,
+        "open_price": 23940.0,
+        "high_price": 24110.0,
+        "low_price": 23700.0,
+        "close_price": 24080.0,
+        "volume": 42619266.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260131,
+        "open_price": 23430.0,
+        "high_price": 23430.0,
+        "low_price": 22860.0,
+        "close_price": 23410.0,
+        "volume": 99144602.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260128,
+        "open_price": 22750.0,
+        "high_price": 22750.0,
+        "low_price": 22750.0,
+        "close_price": 22750.0,
+        "volume": 4847618.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260127,
+        "open_price": 21550.0,
+        "high_price": 22170.0,
+        "low_price": 21550.0,
+        "close_price": 22090.0,
+        "volume": 10411204.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260126,
+        "open_price": 21540.0,
+        "high_price": 21760.0,
+        "low_price": 21530.0,
+        "close_price": 21530.0,
+        "volume": 39347014.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260125,
+        "open_price": 22700.0,
+        "high_price": 23020.0,
+        "low_price": 22060.0,
+        "close_price": 22190.0,
+        "volume": 40404164.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260124,
+        "open_price": 22740.0,
+        "high_price": 22740.0,
+        "low_price": 22410.0,
+        "close_price": 22740.0,
+        "volume": 132982356.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260121,
+        "open_price": 22080.0,
+        "high_price": 22080.0,
+        "low_price": 22080.0,
+        "close_price": 22080.0,
+        "volume": 14298442.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260120,
+        "open_price": 21440.0,
+        "high_price": 21440.0,
+        "low_price": 21440.0,
+        "close_price": 21440.0,
+        "volume": 19942216.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260119,
+        "open_price": 20820.0,
+        "high_price": 20820.0,
+        "low_price": 20820.0,
+        "close_price": 20820.0,
+        "volume": 3387775.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260118,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 20220.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260114,
+        "open_price": 20220.0,
+        "high_price": 20220.0,
+        "low_price": 20220.0,
+        "close_price": 20220.0,
+        "volume": 5567709.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260113,
+        "open_price": 21870.0,
+        "high_price": 21870.0,
+        "low_price": 20610.0,
+        "close_price": 20840.0,
+        "volume": 8566771.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260112,
+        "open_price": 21030.0,
+        "high_price": 21250.0,
+        "low_price": 21030.0,
+        "close_price": 21240.0,
+        "volume": 17106164.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260111,
+        "open_price": 20190.0,
+        "high_price": 21300.0,
+        "low_price": 20180.0,
+        "close_price": 20640.0,
+        "volume": 13902990.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260110,
+        "open_price": 20650.0,
+        "high_price": 21280.0,
+        "low_price": 20650.0,
+        "close_price": 20780.0,
+        "volume": 15445239.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260107,
+        "open_price": 21590.0,
+        "high_price": 21590.0,
+        "low_price": 20600.0,
+        "close_price": 21280.0,
+        "volume": 19167816.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260106,
+        "open_price": 20970.0,
+        "high_price": 20970.0,
+        "low_price": 20970.0,
+        "close_price": 20970.0,
+        "volume": 2730839.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260105,
+        "open_price": 20350.0,
+        "high_price": 20360.0,
+        "low_price": 20000.0,
+        "close_price": 20360.0,
+        "volume": 12017859.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20260104,
+        "open_price": 20600.0,
+        "high_price": 20600.0,
+        "low_price": 19740.0,
+        "close_price": 19770.0,
+        "volume": 21511992.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251231,
+        "open_price": 19650.0,
+        "high_price": 20750.0,
+        "low_price": 19650.0,
+        "close_price": 20350.0,
+        "volume": 5427571.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251230,
+        "open_price": 20250.0,
+        "high_price": 20260.0,
+        "low_price": 20250.0,
+        "close_price": 20250.0,
+        "volume": 8803810.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251229,
+        "open_price": 21140.0,
+        "high_price": 21460.0,
+        "low_price": 20820.0,
+        "close_price": 20870.0,
+        "volume": 11852360.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251228,
+        "open_price": 21880.0,
+        "high_price": 21880.0,
+        "low_price": 21350.0,
+        "close_price": 21460.0,
+        "volume": 23435046.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251227,
+        "open_price": 22080.0,
+        "high_price": 22080.0,
+        "low_price": 21100.0,
+        "close_price": 21670.0,
+        "volume": 11052399.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251224,
+        "open_price": 21300.0,
+        "high_price": 21600.0,
+        "low_price": 21100.0,
+        "close_price": 21580.0,
+        "volume": 5202352.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251223,
+        "open_price": 20970.0,
+        "high_price": 21200.0,
+        "low_price": 20710.0,
+        "close_price": 20980.0,
+        "volume": 11410965.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251222,
+        "open_price": 21590.0,
+        "high_price": 21590.0,
+        "low_price": 20500.0,
+        "close_price": 20970.0,
+        "volume": 8355355.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251221,
+        "open_price": 22040.0,
+        "high_price": 22040.0,
+        "low_price": 20890.0,
+        "close_price": 21130.0,
+        "volume": 11259868.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251220,
+        "open_price": 21380.0,
+        "high_price": 21560.0,
+        "low_price": 21060.0,
+        "close_price": 21460.0,
+        "volume": 14467006.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251217,
+        "open_price": 21000.0,
+        "high_price": 21500.0,
+        "low_price": 20900.0,
+        "close_price": 20940.0,
+        "volume": 20452326.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251216,
+        "open_price": 21590.0,
+        "high_price": 21710.0,
+        "low_price": 20670.0,
+        "close_price": 21540.0,
+        "volume": 22171329.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251215,
+        "open_price": 21090.0,
+        "high_price": 21090.0,
+        "low_price": 20810.0,
+        "close_price": 21080.0,
+        "volume": 6186191.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251214,
+        "open_price": 20650.0,
+        "high_price": 20650.0,
+        "low_price": 19710.0,
+        "close_price": 20480.0,
+        "volume": 11513942.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251213,
+        "open_price": 20050.0,
+        "high_price": 20050.0,
+        "low_price": 19820.0,
+        "close_price": 20050.0,
+        "volume": 22802176.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251210,
+        "open_price": 19200.0,
+        "high_price": 19500.0,
+        "low_price": 18600.0,
+        "close_price": 19470.0,
+        "volume": 10271681.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251209,
+        "open_price": 18470.0,
+        "high_price": 19170.0,
+        "low_price": 18470.0,
+        "close_price": 18940.0,
+        "volume": 20327515.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251208,
+        "open_price": 18960.0,
+        "high_price": 19300.0,
+        "low_price": 18600.0,
+        "close_price": 18860.0,
+        "volume": 14307671.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251207,
+        "open_price": 18960.0,
+        "high_price": 18960.0,
+        "low_price": 18600.0,
+        "close_price": 18940.0,
+        "volume": 25658832.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251206,
+        "open_price": 18100.0,
+        "high_price": 18430.0,
+        "low_price": 17920.0,
+        "close_price": 18410.0,
+        "volume": 14145161.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251203,
+        "open_price": 17500.0,
+        "high_price": 18100.0,
+        "low_price": 17500.0,
+        "close_price": 17900.0,
+        "volume": 6021072.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251202,
+        "open_price": 17900.0,
+        "high_price": 17970.0,
+        "low_price": 17480.0,
+        "close_price": 17700.0,
+        "volume": 6613322.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251201,
+        "open_price": 17790.0,
+        "high_price": 17920.0,
+        "low_price": 17500.0,
+        "close_price": 17620.0,
+        "volume": 8482986.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251130,
+        "open_price": 17790.0,
+        "high_price": 17790.0,
+        "low_price": 17310.0,
+        "close_price": 17590.0,
+        "volume": 4127833.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251129,
+        "open_price": 17450.0,
+        "high_price": 17940.0,
+        "low_price": 17000.0,
+        "close_price": 17670.0,
+        "volume": 4778551.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251126,
+        "open_price": 17550.0,
+        "high_price": 17600.0,
+        "low_price": 17170.0,
+        "close_price": 17420.0,
+        "volume": 4105693.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251125,
+        "open_price": 17710.0,
+        "high_price": 17920.0,
+        "low_price": 17240.0,
+        "close_price": 17690.0,
+        "volume": 9286028.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251123,
+        "open_price": 17950.0,
+        "high_price": 17960.0,
+        "low_price": 17570.0,
+        "close_price": 17670.0,
+        "volume": 50005065.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251122,
+        "open_price": 18110.0,
+        "high_price": 18110.0,
+        "low_price": 18110.0,
+        "close_price": 18110.0,
+        "volume": 5720696.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251119,
+        "open_price": 17590.0,
+        "high_price": 17590.0,
+        "low_price": 17590.0,
+        "close_price": 17590.0,
+        "volume": 7308997.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251118,
+        "open_price": 17140.0,
+        "high_price": 17140.0,
+        "low_price": 17140.0,
+        "close_price": 17080.0,
+        "volume": 5587097.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251117,
+        "open_price": 16650.0,
+        "high_price": 16650.0,
+        "low_price": 16650.0,
+        "close_price": 16650.0,
+        "volume": 7650472.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251116,
+        "open_price": 16440.0,
+        "high_price": 16440.0,
+        "low_price": 16440.0,
+        "close_price": 16170.0,
+        "volume": 2759220.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251115,
+        "open_price": 16080.0,
+        "high_price": 16080.0,
+        "low_price": 16080.0,
+        "close_price": 15970.0,
+        "volume": 4928268.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251112,
+        "open_price": 15600.0,
+        "high_price": 15780.0,
+        "low_price": 15550.0,
+        "close_price": 15620.0,
+        "volume": 3992770.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251111,
+        "open_price": 15750.0,
+        "high_price": 15800.0,
+        "low_price": 15590.0,
+        "close_price": 15630.0,
+        "volume": 1942802.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251110,
+        "open_price": 15360.0,
+        "high_price": 15690.0,
+        "low_price": 15330.0,
+        "close_price": 15620.0,
+        "volume": 4408576.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251109,
+        "open_price": 16100.0,
+        "high_price": 16120.0,
+        "low_price": 15780.0,
+        "close_price": 15800.0,
+        "volume": 14803403.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251108,
+        "open_price": 16380.0,
+        "high_price": 16650.0,
+        "low_price": 15910.0,
+        "close_price": 16260.0,
+        "volume": 6185937.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251105,
+        "open_price": 16470.0,
+        "high_price": 16470.0,
+        "low_price": 16030.0,
+        "close_price": 16400.0,
+        "volume": 2440360.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251104,
+        "open_price": 17060.0,
+        "high_price": 17060.0,
+        "low_price": 16450.0,
+        "close_price": 16490.0,
+        "volume": 7187534.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251103,
+        "open_price": 17000.0,
+        "high_price": 17050.0,
+        "low_price": 16760.0,
+        "close_price": 16950.0,
+        "volume": 8408076.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251102,
+        "open_price": 17200.0,
+        "high_price": 17200.0,
+        "low_price": 16480.0,
+        "close_price": 16790.0,
+        "volume": 5594102.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251101,
+        "open_price": 16680.0,
+        "high_price": 17290.0,
+        "low_price": 16670.0,
+        "close_price": 16890.0,
+        "volume": 3489125.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251029,
+        "open_price": 17120.0,
+        "high_price": 17220.0,
+        "low_price": 16570.0,
+        "close_price": 16960.0,
+        "volume": 2924508.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251028,
+        "open_price": 16840.0,
+        "high_price": 17120.0,
+        "low_price": 16650.0,
+        "close_price": 17070.0,
+        "volume": 19570143.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251027,
+        "open_price": 16240.0,
+        "high_price": 16720.0,
+        "low_price": 16050.0,
+        "close_price": 16630.0,
+        "volume": 7749469.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251026,
+        "open_price": 16730.0,
+        "high_price": 16730.0,
+        "low_price": 16050.0,
+        "close_price": 16240.0,
+        "volume": 7772659.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251025,
+        "open_price": 16350.0,
+        "high_price": 16350.0,
+        "low_price": 15900.0,
+        "close_price": 16310.0,
+        "volume": 14688932.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251022,
+        "open_price": 15740.0,
+        "high_price": 16180.0,
+        "low_price": 15410.0,
+        "close_price": 15880.0,
+        "volume": 10158603.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251021,
+        "open_price": 16000.0,
+        "high_price": 16190.0,
+        "low_price": 15460.0,
+        "close_price": 15710.0,
+        "volume": 6339781.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251020,
+        "open_price": 15890.0,
+        "high_price": 16350.0,
+        "low_price": 15700.0,
+        "close_price": 15910.0,
+        "volume": 9471688.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251019,
+        "open_price": 16360.0,
+        "high_price": 16700.0,
+        "low_price": 15910.0,
+        "close_price": 16180.0,
+        "volume": 8770085.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251018,
+        "open_price": 16200.0,
+        "high_price": 16350.0,
+        "low_price": 16010.0,
+        "close_price": 16350.0,
+        "volume": 9976867.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251015,
+        "open_price": 15450.0,
+        "high_price": 16100.0,
+        "low_price": 15450.0,
+        "close_price": 15880.0,
+        "volume": 3134611.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251014,
+        "open_price": 16100.0,
+        "high_price": 16100.0,
+        "low_price": 15530.0,
+        "close_price": 15860.0,
+        "volume": 3480050.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251013,
+        "open_price": 16200.0,
+        "high_price": 16220.0,
+        "low_price": 15600.0,
+        "close_price": 15890.0,
+        "volume": 11582709.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251012,
+        "open_price": 15570.0,
+        "high_price": 15820.0,
+        "low_price": 15460.0,
+        "close_price": 15810.0,
+        "volume": 21435777.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251011,
+        "open_price": 15500.0,
+        "high_price": 15590.0,
+        "low_price": 15140.0,
+        "close_price": 15360.0,
+        "volume": 5816136.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251008,
+        "open_price": 15140.0,
+        "high_price": 15500.0,
+        "low_price": 15040.0,
+        "close_price": 15150.0,
+        "volume": 6095238.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251007,
+        "open_price": 15650.0,
+        "high_price": 15750.0,
+        "low_price": 15100.0,
+        "close_price": 15460.0,
+        "volume": 8623134.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251006,
+        "open_price": 15400.0,
+        "high_price": 16050.0,
+        "low_price": 15290.0,
+        "close_price": 15530.0,
+        "volume": 7470738.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251005,
+        "open_price": 15910.0,
+        "high_price": 15910.0,
+        "low_price": 15350.0,
+        "close_price": 15760.0,
+        "volume": 16831357.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251004,
+        "open_price": 15150.0,
+        "high_price": 15450.0,
+        "low_price": 15150.0,
+        "close_price": 15450.0,
+        "volume": 17440036.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20251001,
+        "open_price": 14840.0,
+        "high_price": 15240.0,
+        "low_price": 14790.0,
+        "close_price": 15000.0,
+        "volume": 6919011.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250930,
+        "open_price": 15820.0,
+        "high_price": 15820.0,
+        "low_price": 14930.0,
+        "close_price": 15240.0,
+        "volume": 19546149.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250929,
+        "open_price": 15390.0,
+        "high_price": 15390.0,
+        "low_price": 15370.0,
+        "close_price": 15390.0,
+        "volume": 21549577.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250928,
+        "open_price": 14950.0,
+        "high_price": 14950.0,
+        "low_price": 14950.0,
+        "close_price": 14950.0,
+        "volume": 8969813.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250927,
+        "open_price": 13850.0,
+        "high_price": 14540.0,
+        "low_price": 13850.0,
+        "close_price": 14520.0,
+        "volume": 9733535.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250924,
+        "open_price": 13890.0,
+        "high_price": 14280.0,
+        "low_price": 13890.0,
+        "close_price": 14120.0,
+        "volume": 4672732.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250923,
+        "open_price": 14300.0,
+        "high_price": 14500.0,
+        "low_price": 13910.0,
+        "close_price": 14310.0,
+        "volume": 3935075.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250922,
+        "open_price": 13710.0,
+        "high_price": 14470.0,
+        "low_price": 13710.0,
+        "close_price": 14340.0,
+        "volume": 11790153.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250921,
+        "open_price": 14050.0,
+        "high_price": 14050.0,
+        "low_price": 14050.0,
+        "close_price": 14050.0,
+        "volume": 20662358.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250920,
+        "open_price": 14480.0,
+        "high_price": 14490.0,
+        "low_price": 14480.0,
+        "close_price": 14480.0,
+        "volume": 8011546.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250917,
+        "open_price": 14920.0,
+        "high_price": 15000.0,
+        "low_price": 14920.0,
+        "close_price": 14920.0,
+        "volume": 8049895.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250916,
+        "open_price": 16130.0,
+        "high_price": 16130.0,
+        "low_price": 15330.0,
+        "close_price": 15380.0,
+        "volume": 10580031.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250915,
+        "open_price": 15850.0,
+        "high_price": 15850.0,
+        "low_price": 15420.0,
+        "close_price": 15800.0,
+        "volume": 13877020.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250914,
+        "open_price": 15400.0,
+        "high_price": 15400.0,
+        "low_price": 15400.0,
+        "close_price": 15390.0,
+        "volume": 6770223.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250913,
+        "open_price": 14970.0,
+        "high_price": 14970.0,
+        "low_price": 14740.0,
+        "close_price": 14960.0,
+        "volume": 12093160.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250909,
+        "open_price": 14600.0,
+        "high_price": 14600.0,
+        "low_price": 14300.0,
+        "close_price": 14540.0,
+        "volume": 6372786.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250908,
+        "open_price": 14170.0,
+        "high_price": 14180.0,
+        "low_price": 14170.0,
+        "close_price": 14180.0,
+        "volume": 8974329.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250907,
+        "open_price": 13500.0,
+        "high_price": 13890.0,
+        "low_price": 13500.0,
+        "close_price": 13770.0,
+        "volume": 5566164.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250906,
+        "open_price": 13620.0,
+        "high_price": 13620.0,
+        "low_price": 13250.0,
+        "close_price": 13490.0,
+        "volume": 5061141.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250903,
+        "open_price": 13560.0,
+        "high_price": 13560.0,
+        "low_price": 13560.0,
+        "close_price": 13230.0,
+        "volume": 1091904.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250902,
+        "open_price": 13480.0,
+        "high_price": 13480.0,
+        "low_price": 13480.0,
+        "close_price": 13170.0,
+        "volume": 1503886.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250831,
+        "open_price": 12990.0,
+        "high_price": 13350.0,
+        "low_price": 12970.0,
+        "close_price": 13090.0,
+        "volume": 3426551.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250830,
+        "open_price": 13340.0,
+        "high_price": 13340.0,
+        "low_price": 12700.0,
+        "close_price": 12970.0,
+        "volume": 5473366.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250827,
+        "open_price": 12460.0,
+        "high_price": 13100.0,
+        "low_price": 12360.0,
+        "close_price": 12960.0,
+        "volume": 6563593.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250826,
+        "open_price": 12490.0,
+        "high_price": 12890.0,
+        "low_price": 12490.0,
+        "close_price": 12720.0,
+        "volume": 4834872.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250825,
+        "open_price": 12860.0,
+        "high_price": 13070.0,
+        "low_price": 12590.0,
+        "close_price": 12870.0,
+        "volume": 3643120.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250823,
+        "open_price": 12990.0,
+        "high_price": 13200.0,
+        "low_price": 12770.0,
+        "close_price": 12970.0,
+        "volume": 2866901.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250820,
+        "open_price": 13000.0,
+        "high_price": 13240.0,
+        "low_price": 12970.0,
+        "close_price": 13010.0,
+        "volume": 8677395.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250819,
+        "open_price": 13060.0,
+        "high_price": 13060.0,
+        "low_price": 12750.0,
+        "close_price": 12870.0,
+        "volume": 4630612.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250818,
+        "open_price": 12720.0,
+        "high_price": 12720.0,
+        "low_price": 12660.0,
+        "close_price": 12680.0,
+        "volume": 6496975.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250817,
+        "open_price": 12660.0,
+        "high_price": 12660.0,
+        "low_price": 12660.0,
+        "close_price": 12350.0,
+        "volume": 959162.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250816,
+        "open_price": 12200.0,
+        "high_price": 12560.0,
+        "low_price": 12130.0,
+        "close_price": 12300.0,
+        "volume": 3789911.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250813,
+        "open_price": 12100.0,
+        "high_price": 12390.0,
+        "low_price": 12000.0,
+        "close_price": 12200.0,
+        "volume": 4821953.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250812,
+        "open_price": 12050.0,
+        "high_price": 12590.0,
+        "low_price": 12050.0,
+        "close_price": 12360.0,
+        "volume": 4603718.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250811,
+        "open_price": 12470.0,
+        "high_price": 12470.0,
+        "low_price": 12300.0,
+        "close_price": 12370.0,
+        "volume": 4186305.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250810,
+        "open_price": 12410.0,
+        "high_price": 12410.0,
+        "low_price": 12160.0,
+        "close_price": 12390.0,
+        "volume": 1487817.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250809,
+        "open_price": 12270.0,
+        "high_price": 12700.0,
+        "low_price": 12270.0,
+        "close_price": 12410.0,
+        "volume": 5217995.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250806,
+        "open_price": 12700.0,
+        "high_price": 12700.0,
+        "low_price": 12390.0,
+        "close_price": 12640.0,
+        "volume": 2728641.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250805,
+        "open_price": 12800.0,
+        "high_price": 12800.0,
+        "low_price": 12500.0,
+        "close_price": 12770.0,
+        "volume": 3025788.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250804,
+        "open_price": 13130.0,
+        "high_price": 13130.0,
+        "low_price": 12780.0,
+        "close_price": 12830.0,
+        "volume": 13292353.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250803,
+        "open_price": 13170.0,
+        "high_price": 13190.0,
+        "low_price": 13170.0,
+        "close_price": 13170.0,
+        "volume": 18137639.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250802,
+        "open_price": 13570.0,
+        "high_price": 13570.0,
+        "low_price": 13570.0,
+        "close_price": 13570.0,
+        "volume": 8184425.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250730,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13980.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250729,
+        "open_price": 13610.0,
+        "high_price": 13610.0,
+        "low_price": 13610.0,
+        "close_price": 13980.0,
+        "volume": 774649.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250728,
+        "open_price": 13650.0,
+        "high_price": 13650.0,
+        "low_price": 13650.0,
+        "close_price": 14030.0,
+        "volume": 631973.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250727,
+        "open_price": 13940.0,
+        "high_price": 14320.0,
+        "low_price": 13940.0,
+        "close_price": 14070.0,
+        "volume": 6483300.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250726,
+        "open_price": 14620.0,
+        "high_price": 14730.0,
+        "low_price": 14190.0,
+        "close_price": 14370.0,
+        "volume": 8756228.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250723,
+        "open_price": 14600.0,
+        "high_price": 14600.0,
+        "low_price": 14600.0,
+        "close_price": 14620.0,
+        "volume": 6282109.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250722,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 15050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250721,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16100.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250720,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16100.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250719,
+        "open_price": 16200.0,
+        "high_price": 16320.0,
+        "low_price": 15880.0,
+        "close_price": 16100.0,
+        "volume": 4572362.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250716,
+        "open_price": 15890.0,
+        "high_price": 16000.0,
+        "low_price": 15830.0,
+        "close_price": 15850.0,
+        "volume": 3790328.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250715,
+        "open_price": 15960.0,
+        "high_price": 15970.0,
+        "low_price": 15430.0,
+        "close_price": 15740.0,
+        "volume": 3906653.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250714,
+        "open_price": 15750.0,
+        "high_price": 15850.0,
+        "low_price": 15530.0,
+        "close_price": 15700.0,
+        "volume": 4259514.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250713,
+        "open_price": 15820.0,
+        "high_price": 15820.0,
+        "low_price": 15410.0,
+        "close_price": 15650.0,
+        "volume": 10920710.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250712,
+        "open_price": 15530.0,
+        "high_price": 15840.0,
+        "low_price": 15410.0,
+        "close_price": 15530.0,
+        "volume": 7740768.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250709,
+        "open_price": 15290.0,
+        "high_price": 15400.0,
+        "low_price": 15290.0,
+        "close_price": 15490.0,
+        "volume": 3598321.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250708,
+        "open_price": 15760.0,
+        "high_price": 16240.0,
+        "low_price": 15760.0,
+        "close_price": 15760.0,
+        "volume": 6265857.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250707,
+        "open_price": 16680.0,
+        "high_price": 16680.0,
+        "low_price": 15770.0,
+        "close_price": 16240.0,
+        "volume": 4113155.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250702,
+        "open_price": 16190.0,
+        "high_price": 16970.0,
+        "low_price": 16190.0,
+        "close_price": 16250.0,
+        "volume": 45233911.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250701,
+        "open_price": 16520.0,
+        "high_price": 16520.0,
+        "low_price": 16520.0,
+        "close_price": 16690.0,
+        "volume": 3610829.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250630,
+        "open_price": 16990.0,
+        "high_price": 16990.0,
+        "low_price": 16990.0,
+        "close_price": 17030.0,
+        "volume": 4955550.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250629,
+        "open_price": 17510.0,
+        "high_price": 17510.0,
+        "low_price": 17510.0,
+        "close_price": 17510.0,
+        "volume": 8283955.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250628,
+        "open_price": 17980.0,
+        "high_price": 17980.0,
+        "low_price": 17980.0,
+        "close_price": 18050.0,
+        "volume": 4672815.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18530.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18530.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18530.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18530.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18530.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18530.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18530.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18530.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250611,
+        "open_price": 18690.0,
+        "high_price": 18900.0,
+        "low_price": 18470.0,
+        "close_price": 18530.0,
+        "volume": 1239795.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250610,
+        "open_price": 18620.0,
+        "high_price": 18640.0,
+        "low_price": 18330.0,
+        "close_price": 18530.0,
+        "volume": 2494624.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250609,
+        "open_price": 18840.0,
+        "high_price": 18970.0,
+        "low_price": 18330.0,
+        "close_price": 18620.0,
+        "volume": 3230563.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250608,
+        "open_price": 18890.0,
+        "high_price": 19000.0,
+        "low_price": 18720.0,
+        "close_price": 18840.0,
+        "volume": 5596204.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250607,
+        "open_price": 18930.0,
+        "high_price": 18980.0,
+        "low_price": 18930.0,
+        "close_price": 19110.0,
+        "volume": 3576541.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250603,
+        "open_price": 20000.0,
+        "high_price": 20000.0,
+        "low_price": 19220.0,
+        "close_price": 19510.0,
+        "volume": 3570378.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250602,
+        "open_price": 19270.0,
+        "high_price": 19540.0,
+        "low_price": 19160.0,
+        "close_price": 19460.0,
+        "volume": 9843446.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250601,
+        "open_price": 19290.0,
+        "high_price": 19290.0,
+        "low_price": 18300.0,
+        "close_price": 18980.0,
+        "volume": 5404189.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250531,
+        "open_price": 18770.0,
+        "high_price": 18990.0,
+        "low_price": 18770.0,
+        "close_price": 18850.0,
+        "volume": 4003973.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250528,
+        "open_price": 18730.0,
+        "high_price": 18770.0,
+        "low_price": 18330.0,
+        "close_price": 18440.0,
+        "volume": 2852332.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250527,
+        "open_price": 18760.0,
+        "high_price": 18760.0,
+        "low_price": 18400.0,
+        "close_price": 18340.0,
+        "volume": 1438330.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250526,
+        "open_price": 17970.0,
+        "high_price": 18680.0,
+        "low_price": 17880.0,
+        "close_price": 18270.0,
+        "volume": 3662129.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250525,
+        "open_price": 18020.0,
+        "high_price": 18450.0,
+        "low_price": 17810.0,
+        "close_price": 18240.0,
+        "volume": 2406845.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250524,
+        "open_price": 18000.0,
+        "high_price": 18530.0,
+        "low_price": 18000.0,
+        "close_price": 18350.0,
+        "volume": 4756176.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250521,
+        "open_price": 18140.0,
+        "high_price": 18200.0,
+        "low_price": 18140.0,
+        "close_price": 18140.0,
+        "volume": 11366155.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250520,
+        "open_price": 19010.0,
+        "high_price": 19170.0,
+        "low_price": 18430.0,
+        "close_price": 18700.0,
+        "volume": 5394229.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250519,
+        "open_price": 19230.0,
+        "high_price": 19240.0,
+        "low_price": 18810.0,
+        "close_price": 19000.0,
+        "volume": 5144518.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250518,
+        "open_price": 18620.0,
+        "high_price": 19250.0,
+        "low_price": 18620.0,
+        "close_price": 19070.0,
+        "volume": 6049494.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250517,
+        "open_price": 18540.0,
+        "high_price": 19160.0,
+        "low_price": 18530.0,
+        "close_price": 18960.0,
+        "volume": 12831016.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250514,
+        "open_price": 19150.0,
+        "high_price": 19150.0,
+        "low_price": 18600.0,
+        "close_price": 18880.0,
+        "volume": 9903159.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250513,
+        "open_price": 19200.0,
+        "high_price": 19200.0,
+        "low_price": 18500.0,
+        "close_price": 18900.0,
+        "volume": 8157411.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250512,
+        "open_price": 18830.0,
+        "high_price": 18830.0,
+        "low_price": 18800.0,
+        "close_price": 18830.0,
+        "volume": 16393115.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250511,
+        "open_price": 18310.0,
+        "high_price": 18880.0,
+        "low_price": 18190.0,
+        "close_price": 18290.0,
+        "volume": 20653709.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250510,
+        "open_price": 19090.0,
+        "high_price": 19090.0,
+        "low_price": 18300.0,
+        "close_price": 18750.0,
+        "volume": 12742170.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250507,
+        "open_price": 18750.0,
+        "high_price": 18750.0,
+        "low_price": 18660.0,
+        "close_price": 18750.0,
+        "volume": 20975473.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250506,
+        "open_price": 17990.0,
+        "high_price": 18540.0,
+        "low_price": 17580.0,
+        "close_price": 18210.0,
+        "volume": 22654129.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250505,
+        "open_price": 18130.0,
+        "high_price": 18130.0,
+        "low_price": 17520.0,
+        "close_price": 18000.0,
+        "volume": 14729734.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250504,
+        "open_price": 17480.0,
+        "high_price": 17640.0,
+        "low_price": 17130.0,
+        "close_price": 17610.0,
+        "volume": 17711573.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250503,
+        "open_price": 16310.0,
+        "high_price": 17230.0,
+        "low_price": 16300.0,
+        "close_price": 17130.0,
+        "volume": 67033540.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250430,
+        "open_price": 16750.0,
+        "high_price": 16750.0,
+        "low_price": 16300.0,
+        "close_price": 16730.0,
+        "volume": 45110210.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250429,
+        "open_price": 16270.0,
+        "high_price": 16270.0,
+        "low_price": 16270.0,
+        "close_price": 16270.0,
+        "volume": 11572085.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250428,
+        "open_price": 15800.0,
+        "high_price": 15800.0,
+        "low_price": 15800.0,
+        "close_price": 15800.0,
+        "volume": 10291854.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250427,
+        "open_price": 15340.0,
+        "high_price": 15340.0,
+        "low_price": 15340.0,
+        "close_price": 15340.0,
+        "volume": 20918651.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250426,
+        "open_price": 14900.0,
+        "high_price": 14900.0,
+        "low_price": 14900.0,
+        "close_price": 14900.0,
+        "volume": 7666748.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250423,
+        "open_price": 14830.0,
+        "high_price": 14830.0,
+        "low_price": 14830.0,
+        "close_price": 14470.0,
+        "volume": 1148449.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 14400.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250421,
+        "open_price": 14700.0,
+        "high_price": 14700.0,
+        "low_price": 14700.0,
+        "close_price": 14400.0,
+        "volume": 2018962.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250420,
+        "open_price": 14650.0,
+        "high_price": 14650.0,
+        "low_price": 14650.0,
+        "close_price": 14280.0,
+        "volume": 843778.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250419,
+        "open_price": 14200.0,
+        "high_price": 14230.0,
+        "low_price": 14040.0,
+        "close_price": 14230.0,
+        "volume": 12845072.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250416,
+        "open_price": 13670.0,
+        "high_price": 14040.0,
+        "low_price": 13670.0,
+        "close_price": 13820.0,
+        "volume": 4618837.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250415,
+        "open_price": 14000.0,
+        "high_price": 14000.0,
+        "low_price": 13520.0,
+        "close_price": 13640.0,
+        "volume": 4611798.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250414,
+        "open_price": 13670.0,
+        "high_price": 13670.0,
+        "low_price": 13670.0,
+        "close_price": 13610.0,
+        "volume": 6017033.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250413,
+        "open_price": 13400.0,
+        "high_price": 13400.0,
+        "low_price": 13400.0,
+        "close_price": 13280.0,
+        "volume": 4932712.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250412,
+        "open_price": 12920.0,
+        "high_price": 13270.0,
+        "low_price": 12870.0,
+        "close_price": 13010.0,
+        "volume": 2604338.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250409,
+        "open_price": 13530.0,
+        "high_price": 13530.0,
+        "low_price": 12750.0,
+        "close_price": 12960.0,
+        "volume": 6664536.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250408,
+        "open_price": 13050.0,
+        "high_price": 13420.0,
+        "low_price": 13050.0,
+        "close_price": 13140.0,
+        "volume": 2149136.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250407,
+        "open_price": 13000.0,
+        "high_price": 13180.0,
+        "low_price": 12820.0,
+        "close_price": 13030.0,
+        "volume": 4078464.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250406,
+        "open_price": 13250.0,
+        "high_price": 13300.0,
+        "low_price": 13010.0,
+        "close_price": 13210.0,
+        "volume": 6125768.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250405,
+        "open_price": 13380.0,
+        "high_price": 13570.0,
+        "low_price": 13100.0,
+        "close_price": 13260.0,
+        "volume": 7108748.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250330,
+        "open_price": 13380.0,
+        "high_price": 13600.0,
+        "low_price": 13310.0,
+        "close_price": 13390.0,
+        "volume": 3840993.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250329,
+        "open_price": 13590.0,
+        "high_price": 13750.0,
+        "low_price": 13280.0,
+        "close_price": 13380.0,
+        "volume": 2508250.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250326,
+        "open_price": 13310.0,
+        "high_price": 13640.0,
+        "low_price": 13310.0,
+        "close_price": 13360.0,
+        "volume": 2218911.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250325,
+        "open_price": 13390.0,
+        "high_price": 13600.0,
+        "low_price": 13390.0,
+        "close_price": 13310.0,
+        "volume": 1485257.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250318,
+        "open_price": 13310.0,
+        "high_price": 13380.0,
+        "low_price": 13090.0,
+        "close_price": 13270.0,
+        "volume": 2279220.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250317,
+        "open_price": 13400.0,
+        "high_price": 13620.0,
+        "low_price": 13320.0,
+        "close_price": 13320.0,
+        "volume": 2502267.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250316,
+        "open_price": 13420.0,
+        "high_price": 13610.0,
+        "low_price": 13240.0,
+        "close_price": 13300.0,
+        "volume": 2276010.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250315,
+        "open_price": 13090.0,
+        "high_price": 13460.0,
+        "low_price": 13090.0,
+        "close_price": 13220.0,
+        "volume": 3417779.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250312,
+        "open_price": 12990.0,
+        "high_price": 13300.0,
+        "low_price": 12940.0,
+        "close_price": 13070.0,
+        "volume": 3873614.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250311,
+        "open_price": 13000.0,
+        "high_price": 13500.0,
+        "low_price": 12860.0,
+        "close_price": 13010.0,
+        "volume": 6476735.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250310,
+        "open_price": 13120.0,
+        "high_price": 13640.0,
+        "low_price": 13110.0,
+        "close_price": 13250.0,
+        "volume": 7421632.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250309,
+        "open_price": 13780.0,
+        "high_price": 13780.0,
+        "low_price": 13480.0,
+        "close_price": 13500.0,
+        "volume": 8254667.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250308,
+        "open_price": 13810.0,
+        "high_price": 14100.0,
+        "low_price": 13780.0,
+        "close_price": 13890.0,
+        "volume": 5954873.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250305,
+        "open_price": 14280.0,
+        "high_price": 14340.0,
+        "low_price": 14070.0,
+        "close_price": 14200.0,
+        "volume": 4885546.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 14500.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 14500.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250302,
+        "open_price": 14650.0,
+        "high_price": 14650.0,
+        "low_price": 14280.0,
+        "close_price": 14500.0,
+        "volume": 4283028.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250301,
+        "open_price": 14430.0,
+        "high_price": 14790.0,
+        "low_price": 14430.0,
+        "close_price": 14660.0,
+        "volume": 4535338.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250226,
+        "open_price": 14510.0,
+        "high_price": 14990.0,
+        "low_price": 14400.0,
+        "close_price": 14760.0,
+        "volume": 1606698.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250225,
+        "open_price": 15170.0,
+        "high_price": 15170.0,
+        "low_price": 14700.0,
+        "close_price": 14810.0,
+        "volume": 3686612.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250224,
+        "open_price": 14730.0,
+        "high_price": 14940.0,
+        "low_price": 14680.0,
+        "close_price": 14750.0,
+        "volume": 4315182.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250223,
+        "open_price": 14360.0,
+        "high_price": 14700.0,
+        "low_price": 14270.0,
+        "close_price": 14540.0,
+        "volume": 3041361.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250222,
+        "open_price": 15150.0,
+        "high_price": 15150.0,
+        "low_price": 14330.0,
+        "close_price": 14610.0,
+        "volume": 3777380.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250219,
+        "open_price": 14410.0,
+        "high_price": 14990.0,
+        "low_price": 14410.0,
+        "close_price": 14760.0,
+        "volume": 4298066.0
+    },
+    {
+        "symbol": "شبهرن",
+        "trade_date": 20250218,
+        "open_price": 14680.0,
+        "high_price": 15000.0,
+        "low_price": 14410.0,
+        "close_price": 14790.0,
+        "volume": 2077667.0
+    }
+]

@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260901,
+        "open_price": 3690.0,
+        "high_price": 3910.0,
+        "low_price": 3690.0,
+        "close_price": 3710.0,
+        "volume": 54506118.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260831,
+        "open_price": 3800.0,
+        "high_price": 3800.0,
+        "low_price": 3800.0,
+        "close_price": 3800.0,
+        "volume": 7635568.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260829,
+        "open_price": 3920.0,
+        "high_price": 3920.0,
+        "low_price": 3800.0,
+        "close_price": 3910.0,
+        "volume": 23752283.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260826,
+        "open_price": 3810.0,
+        "high_price": 3810.0,
+        "low_price": 3810.0,
+        "close_price": 3810.0,
+        "volume": 14674227.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260825,
+        "open_price": 3690.0,
+        "high_price": 3700.0,
+        "low_price": 3640.0,
+        "close_price": 3700.0,
+        "volume": 8428309.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260824,
+        "open_price": 3580.0,
+        "high_price": 3620.0,
+        "low_price": 3420.0,
+        "close_price": 3600.0,
+        "volume": 53962116.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260823,
+        "open_price": 3520.0,
+        "high_price": 3560.0,
+        "low_price": 3390.0,
+        "close_price": 3520.0,
+        "volume": 56044188.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260822,
+        "open_price": 3480.0,
+        "high_price": 3500.0,
+        "low_price": 3380.0,
+        "close_price": 3460.0,
+        "volume": 18929391.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260819,
+        "open_price": 3400.0,
+        "high_price": 3520.0,
+        "low_price": 3390.0,
+        "close_price": 3400.0,
+        "volume": 46839463.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260818,
+        "open_price": 3410.0,
+        "high_price": 3510.0,
+        "low_price": 3330.0,
+        "close_price": 3490.0,
+        "volume": 34863138.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260817,
+        "open_price": 3360.0,
+        "high_price": 3420.0,
+        "low_price": 3310.0,
+        "close_price": 3410.0,
+        "volume": 58164661.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260816,
+        "open_price": 3240.0,
+        "high_price": 3410.0,
+        "low_price": 3240.0,
+        "close_price": 3330.0,
+        "volume": 31324052.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260815,
+        "open_price": 3360.0,
+        "high_price": 3450.0,
+        "low_price": 3320.0,
+        "close_price": 3330.0,
+        "volume": 42096239.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260811,
+        "open_price": 3440.0,
+        "high_price": 3440.0,
+        "low_price": 3300.0,
+        "close_price": 3420.0,
+        "volume": 68309470.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260810,
+        "open_price": 3340.0,
+        "high_price": 3340.0,
+        "low_price": 3340.0,
+        "close_price": 3340.0,
+        "volume": 17443793.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260809,
+        "open_price": 3280.0,
+        "high_price": 3290.0,
+        "low_price": 3110.0,
+        "close_price": 3250.0,
+        "volume": 172039051.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260808,
+        "open_price": 3120.0,
+        "high_price": 3230.0,
+        "low_price": 3120.0,
+        "close_price": 3200.0,
+        "volume": 59134940.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260805,
+        "open_price": 3200.0,
+        "high_price": 3200.0,
+        "low_price": 3090.0,
+        "close_price": 3140.0,
+        "volume": 59765039.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260803,
+        "open_price": 3140.0,
+        "high_price": 3140.0,
+        "low_price": 3140.0,
+        "close_price": 3140.0,
+        "volume": 6399862.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260802,
+        "open_price": 3000.0,
+        "high_price": 3180.0,
+        "low_price": 3000.0,
+        "close_price": 3050.0,
+        "volume": 101428026.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260801,
+        "open_price": 3100.0,
+        "high_price": 3120.0,
+        "low_price": 3090.0,
+        "close_price": 3090.0,
+        "volume": 15496604.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260729,
+        "open_price": 3186.0,
+        "high_price": 3186.0,
+        "low_price": 3106.0,
+        "close_price": 3183.0,
+        "volume": 321337305.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260728,
+        "open_price": 3094.0,
+        "high_price": 3094.0,
+        "low_price": 3094.0,
+        "close_price": 3094.0,
+        "volume": 13601588.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260727,
+        "open_price": 3004.0,
+        "high_price": 3004.0,
+        "low_price": 3004.0,
+        "close_price": 3004.0,
+        "volume": 24008144.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260726,
+        "open_price": 2917.0,
+        "high_price": 2917.0,
+        "low_price": 2917.0,
+        "close_price": 2917.0,
+        "volume": 12566002.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260725,
+        "open_price": 2833.0,
+        "high_price": 2833.0,
+        "low_price": 2833.0,
+        "close_price": 2833.0,
+        "volume": 34136801.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260722,
+        "open_price": 2751.0,
+        "high_price": 2751.0,
+        "low_price": 2751.0,
+        "close_price": 2751.0,
+        "volume": 3426591.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260721,
+        "open_price": 2671.0,
+        "high_price": 2671.0,
+        "low_price": 2671.0,
+        "close_price": 2671.0,
+        "volume": 52127467.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260720,
+        "open_price": 2478.0,
+        "high_price": 2628.0,
+        "low_price": 2478.0,
+        "close_price": 2594.0,
+        "volume": 44002651.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260719,
+        "open_price": 2551.0,
+        "high_price": 2619.0,
+        "low_price": 2551.0,
+        "close_price": 2552.0,
+        "volume": 26332753.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260718,
+        "open_price": 2629.0,
+        "high_price": 2629.0,
+        "low_price": 2629.0,
+        "close_price": 2629.0,
+        "volume": 20615171.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260715,
+        "open_price": 2690.0,
+        "high_price": 2820.0,
+        "low_price": 2690.0,
+        "close_price": 2710.0,
+        "volume": 20924860.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260714,
+        "open_price": 2770.0,
+        "high_price": 2770.0,
+        "low_price": 2770.0,
+        "close_price": 2770.0,
+        "volume": 2551595.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260713,
+        "open_price": 2850.0,
+        "high_price": 2850.0,
+        "low_price": 2850.0,
+        "close_price": 2850.0,
+        "volume": 2257625.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260712,
+        "open_price": 2930.0,
+        "high_price": 2930.0,
+        "low_price": 2930.0,
+        "close_price": 2930.0,
+        "volume": 2117486.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260711,
+        "open_price": 3030.0,
+        "high_price": 3120.0,
+        "low_price": 3010.0,
+        "close_price": 3020.0,
+        "volume": 3528307.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260708,
+        "open_price": 3220.0,
+        "high_price": 3220.0,
+        "low_price": 3070.0,
+        "close_price": 3100.0,
+        "volume": 15493506.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260707,
+        "open_price": 3110.0,
+        "high_price": 3180.0,
+        "low_price": 3000.0,
+        "close_price": 3160.0,
+        "volume": 25687338.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260701,
+        "open_price": 3020.0,
+        "high_price": 3130.0,
+        "low_price": 3020.0,
+        "close_price": 3090.0,
+        "volume": 19814006.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260630,
+        "open_price": 3090.0,
+        "high_price": 3180.0,
+        "low_price": 3000.0,
+        "close_price": 3040.0,
+        "volume": 29309758.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260629,
+        "open_price": 3170.0,
+        "high_price": 3170.0,
+        "low_price": 3080.0,
+        "close_price": 3090.0,
+        "volume": 12252951.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260628,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3170.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260627,
+        "open_price": 3180.0,
+        "high_price": 3180.0,
+        "low_price": 3170.0,
+        "close_price": 3170.0,
+        "volume": 10248512.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260623,
+        "open_price": 3311.0,
+        "high_price": 3311.0,
+        "low_price": 3173.0,
+        "close_price": 3265.0,
+        "volume": 4904910.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3215.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3415.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260620,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3415.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260617,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3415.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260616,
+        "open_price": 3426.0,
+        "high_price": 3426.0,
+        "low_price": 3327.0,
+        "close_price": 3415.0,
+        "volume": 32194531.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260615,
+        "open_price": 3327.0,
+        "high_price": 3327.0,
+        "low_price": 3327.0,
+        "close_price": 3327.0,
+        "volume": 9242851.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260614,
+        "open_price": 3231.0,
+        "high_price": 3231.0,
+        "low_price": 3231.0,
+        "close_price": 3231.0,
+        "volume": 10261476.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260613,
+        "open_price": 3137.0,
+        "high_price": 3137.0,
+        "low_price": 3137.0,
+        "close_price": 3137.0,
+        "volume": 8283454.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260610,
+        "open_price": 3047.0,
+        "high_price": 3047.0,
+        "low_price": 2959.0,
+        "close_price": 3046.0,
+        "volume": 42619266.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260609,
+        "open_price": 2959.0,
+        "high_price": 2959.0,
+        "low_price": 2835.0,
+        "close_price": 2959.0,
+        "volume": 3609321.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260608,
+        "open_price": 2873.0,
+        "high_price": 2959.0,
+        "low_price": 2873.0,
+        "close_price": 2873.0,
+        "volume": 4272242.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260607,
+        "open_price": 2961.0,
+        "high_price": 2961.0,
+        "low_price": 2961.0,
+        "close_price": 2961.0,
+        "volume": 4078196.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260606,
+        "open_price": 2760.0,
+        "high_price": 2889.0,
+        "low_price": 2750.0,
+        "close_price": 2875.0,
+        "volume": 18882554.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260603,
+        "open_price": 2798.0,
+        "high_price": 2890.0,
+        "low_price": 2797.0,
+        "close_price": 2805.0,
+        "volume": 4317476.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260602,
+        "open_price": 3000.0,
+        "high_price": 3000.0,
+        "low_price": 2832.0,
+        "close_price": 2883.0,
+        "volume": 3544143.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260601,
+        "open_price": 3063.0,
+        "high_price": 3063.0,
+        "low_price": 2885.0,
+        "close_price": 2919.0,
+        "volume": 26050482.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260531,
+        "open_price": 2974.0,
+        "high_price": 2974.0,
+        "low_price": 2974.0,
+        "close_price": 2974.0,
+        "volume": 3258080.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260530,
+        "open_price": 2888.0,
+        "high_price": 2888.0,
+        "low_price": 2888.0,
+        "close_price": 2888.0,
+        "volume": 1715609.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260526,
+        "open_price": 2825.0,
+        "high_price": 2825.0,
+        "low_price": 2750.0,
+        "close_price": 2804.0,
+        "volume": 8448675.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260525,
+        "open_price": 2743.0,
+        "high_price": 2743.0,
+        "low_price": 2730.0,
+        "close_price": 2743.0,
+        "volume": 8909735.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260524,
+        "open_price": 2664.0,
+        "high_price": 2664.0,
+        "low_price": 2664.0,
+        "close_price": 2664.0,
+        "volume": 904382.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260523,
+        "open_price": 2587.0,
+        "high_price": 2587.0,
+        "low_price": 2587.0,
+        "close_price": 2587.0,
+        "volume": 709986.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260520,
+        "open_price": 2513.0,
+        "high_price": 2513.0,
+        "low_price": 2479.0,
+        "close_price": 2512.0,
+        "volume": 22643573.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260519,
+        "open_price": 2440.0,
+        "high_price": 2440.0,
+        "low_price": 2440.0,
+        "close_price": 2440.0,
+        "volume": 1423977.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2445.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260225,
+        "open_price": 2418.0,
+        "high_price": 2470.0,
+        "low_price": 2418.0,
+        "close_price": 2445.0,
+        "volume": 543176.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260224,
+        "open_price": 2372.0,
+        "high_price": 2492.0,
+        "low_price": 2352.0,
+        "close_price": 2405.0,
+        "volume": 2978167.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260223,
+        "open_price": 2453.0,
+        "high_price": 2490.0,
+        "low_price": 2401.0,
+        "close_price": 2424.0,
+        "volume": 1727506.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260222,
+        "open_price": 2457.0,
+        "high_price": 2457.0,
+        "low_price": 2457.0,
+        "close_price": 2457.0,
+        "volume": 2160201.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260221,
+        "open_price": 2532.0,
+        "high_price": 2533.0,
+        "low_price": 2532.0,
+        "close_price": 2532.0,
+        "volume": 1931854.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260218,
+        "open_price": 2604.0,
+        "high_price": 2720.0,
+        "low_price": 2602.0,
+        "close_price": 2610.0,
+        "volume": 4659660.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260217,
+        "open_price": 2678.0,
+        "high_price": 2754.0,
+        "low_price": 2678.0,
+        "close_price": 2682.0,
+        "volume": 18402906.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260216,
+        "open_price": 2760.0,
+        "high_price": 2760.0,
+        "low_price": 2760.0,
+        "close_price": 2760.0,
+        "volume": 8967626.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260215,
+        "open_price": 2845.0,
+        "high_price": 2845.0,
+        "low_price": 2845.0,
+        "close_price": 2845.0,
+        "volume": 4260642.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260214,
+        "open_price": 2932.0,
+        "high_price": 2932.0,
+        "low_price": 2932.0,
+        "close_price": 2932.0,
+        "volume": 7095056.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260210,
+        "open_price": 3022.0,
+        "high_price": 3022.0,
+        "low_price": 3022.0,
+        "close_price": 3022.0,
+        "volume": 47084522.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260209,
+        "open_price": 3115.0,
+        "high_price": 3115.0,
+        "low_price": 3115.0,
+        "close_price": 3115.0,
+        "volume": 1913931.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260208,
+        "open_price": 3234.0,
+        "high_price": 3234.0,
+        "low_price": 3151.0,
+        "close_price": 3211.0,
+        "volume": 2378768.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260207,
+        "open_price": 2996.0,
+        "high_price": 3140.0,
+        "low_price": 2996.0,
+        "close_price": 3140.0,
+        "volume": 9282904.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260203,
+        "open_price": 3198.0,
+        "high_price": 3198.0,
+        "low_price": 3016.0,
+        "close_price": 3049.0,
+        "volume": 4316147.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260202,
+        "open_price": 3110.0,
+        "high_price": 3110.0,
+        "low_price": 3053.0,
+        "close_price": 3109.0,
+        "volume": 26312707.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260201,
+        "open_price": 2928.0,
+        "high_price": 3096.0,
+        "low_price": 2928.0,
+        "close_price": 3020.0,
+        "volume": 2284686.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260131,
+        "open_price": 2978.0,
+        "high_price": 3088.0,
+        "low_price": 2973.0,
+        "close_price": 3018.0,
+        "volume": 1259400.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260128,
+        "open_price": 2989.0,
+        "high_price": 3139.0,
+        "low_price": 2958.0,
+        "close_price": 3064.0,
+        "volume": 4606903.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260127,
+        "open_price": 3044.0,
+        "high_price": 3135.0,
+        "low_price": 3044.0,
+        "close_price": 3048.0,
+        "volume": 9211459.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260126,
+        "open_price": 3137.0,
+        "high_price": 3223.0,
+        "low_price": 3137.0,
+        "close_price": 3138.0,
+        "volume": 6583882.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260125,
+        "open_price": 3233.0,
+        "high_price": 3310.0,
+        "low_price": 3233.0,
+        "close_price": 3234.0,
+        "volume": 5864046.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260124,
+        "open_price": 3357.0,
+        "high_price": 3357.0,
+        "low_price": 3247.0,
+        "close_price": 3332.0,
+        "volume": 11535747.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260121,
+        "open_price": 3260.0,
+        "high_price": 3260.0,
+        "low_price": 3180.0,
+        "close_price": 3260.0,
+        "volume": 34899975.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260120,
+        "open_price": 3161.0,
+        "high_price": 3167.0,
+        "low_price": 3110.0,
+        "close_price": 3166.0,
+        "volume": 8657038.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260119,
+        "open_price": 3075.0,
+        "high_price": 3075.0,
+        "low_price": 3045.0,
+        "close_price": 3075.0,
+        "volume": 15196514.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260118,
+        "open_price": 2989.0,
+        "high_price": 2989.0,
+        "low_price": 2911.0,
+        "close_price": 2986.0,
+        "volume": 8164534.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260114,
+        "open_price": 2888.0,
+        "high_price": 3000.0,
+        "low_price": 2885.0,
+        "close_price": 2902.0,
+        "volume": 6462961.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260113,
+        "open_price": 3022.0,
+        "high_price": 3022.0,
+        "low_price": 2942.0,
+        "close_price": 2974.0,
+        "volume": 4463995.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260112,
+        "open_price": 2957.0,
+        "high_price": 3110.0,
+        "low_price": 2957.0,
+        "close_price": 3022.0,
+        "volume": 2381131.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260111,
+        "open_price": 3033.0,
+        "high_price": 3070.0,
+        "low_price": 2983.0,
+        "close_price": 3023.0,
+        "volume": 20294208.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260110,
+        "open_price": 3061.0,
+        "high_price": 3155.0,
+        "low_price": 3061.0,
+        "close_price": 3075.0,
+        "volume": 8502643.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260107,
+        "open_price": 3149.0,
+        "high_price": 3181.0,
+        "low_price": 3081.0,
+        "close_price": 3155.0,
+        "volume": 17674870.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260106,
+        "open_price": 2923.0,
+        "high_price": 3096.0,
+        "low_price": 2923.0,
+        "close_price": 3089.0,
+        "volume": 11311952.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260105,
+        "open_price": 2950.0,
+        "high_price": 3008.0,
+        "low_price": 2948.0,
+        "close_price": 3006.0,
+        "volume": 11273032.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20260104,
+        "open_price": 2921.0,
+        "high_price": 2925.0,
+        "low_price": 2921.0,
+        "close_price": 2921.0,
+        "volume": 10631543.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251231,
+        "open_price": 2890.0,
+        "high_price": 3068.0,
+        "low_price": 2890.0,
+        "close_price": 3011.0,
+        "volume": 4125864.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251230,
+        "open_price": 3081.0,
+        "high_price": 3081.0,
+        "low_price": 2969.0,
+        "close_price": 2979.0,
+        "volume": 9432680.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251229,
+        "open_price": 3110.0,
+        "high_price": 3151.0,
+        "low_price": 3003.0,
+        "close_price": 3060.0,
+        "volume": 10432813.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251228,
+        "open_price": 3137.0,
+        "high_price": 3137.0,
+        "low_price": 3040.0,
+        "close_price": 3095.0,
+        "volume": 2665651.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251227,
+        "open_price": 3016.0,
+        "high_price": 3050.0,
+        "low_price": 2989.0,
+        "close_price": 3046.0,
+        "volume": 24146258.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251224,
+        "open_price": 2908.0,
+        "high_price": 2980.0,
+        "low_price": 2907.0,
+        "close_price": 2962.0,
+        "volume": 8357833.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251223,
+        "open_price": 2987.0,
+        "high_price": 2987.0,
+        "low_price": 2854.0,
+        "close_price": 2894.0,
+        "volume": 10132162.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251222,
+        "open_price": 3027.0,
+        "high_price": 3027.0,
+        "low_price": 2893.0,
+        "close_price": 2930.0,
+        "volume": 5298454.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251221,
+        "open_price": 2985.0,
+        "high_price": 3046.0,
+        "low_price": 2917.0,
+        "close_price": 2968.0,
+        "volume": 4444694.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251220,
+        "open_price": 2910.0,
+        "high_price": 2970.0,
+        "low_price": 2864.0,
+        "close_price": 2959.0,
+        "volume": 10739441.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251217,
+        "open_price": 2938.0,
+        "high_price": 2968.0,
+        "low_price": 2856.0,
+        "close_price": 2884.0,
+        "volume": 2888439.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251216,
+        "open_price": 2995.0,
+        "high_price": 2999.0,
+        "low_price": 2825.0,
+        "close_price": 2886.0,
+        "volume": 17634047.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251215,
+        "open_price": 2924.0,
+        "high_price": 2924.0,
+        "low_price": 2850.0,
+        "close_price": 2912.0,
+        "volume": 13849390.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251214,
+        "open_price": 2841.0,
+        "high_price": 2841.0,
+        "low_price": 2767.0,
+        "close_price": 2839.0,
+        "volume": 22455827.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251213,
+        "open_price": 2760.0,
+        "high_price": 2760.0,
+        "low_price": 2680.0,
+        "close_price": 2759.0,
+        "volume": 23246041.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251210,
+        "open_price": 2660.0,
+        "high_price": 2685.0,
+        "low_price": 2620.0,
+        "close_price": 2680.0,
+        "volume": 10392372.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251209,
+        "open_price": 2648.0,
+        "high_price": 2648.0,
+        "low_price": 2565.0,
+        "close_price": 2607.0,
+        "volume": 7485396.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251208,
+        "open_price": 2588.0,
+        "high_price": 2588.0,
+        "low_price": 2518.0,
+        "close_price": 2583.0,
+        "volume": 16386104.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251207,
+        "open_price": 2513.0,
+        "high_price": 2513.0,
+        "low_price": 2512.0,
+        "close_price": 2513.0,
+        "volume": 16182780.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251206,
+        "open_price": 2441.0,
+        "high_price": 2441.0,
+        "low_price": 2430.0,
+        "close_price": 2440.0,
+        "volume": 12949325.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251203,
+        "open_price": 2356.0,
+        "high_price": 2402.0,
+        "low_price": 2322.0,
+        "close_price": 2370.0,
+        "volume": 12556166.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251202,
+        "open_price": 2336.0,
+        "high_price": 2351.0,
+        "low_price": 2319.0,
+        "close_price": 2333.0,
+        "volume": 6285533.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251201,
+        "open_price": 2257.0,
+        "high_price": 2350.0,
+        "low_price": 2257.0,
+        "close_price": 2313.0,
+        "volume": 10207450.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251130,
+        "open_price": 2338.0,
+        "high_price": 2360.0,
+        "low_price": 2280.0,
+        "close_price": 2317.0,
+        "volume": 10334664.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251129,
+        "open_price": 2347.0,
+        "high_price": 2391.0,
+        "low_price": 2310.0,
+        "close_price": 2337.0,
+        "volume": 13555640.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251126,
+        "open_price": 2230.0,
+        "high_price": 2336.0,
+        "low_price": 2230.0,
+        "close_price": 2325.0,
+        "volume": 27859291.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251125,
+        "open_price": 2331.0,
+        "high_price": 2344.0,
+        "low_price": 2241.0,
+        "close_price": 2268.0,
+        "volume": 8053965.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251123,
+        "open_price": 2330.0,
+        "high_price": 2350.0,
+        "low_price": 2264.0,
+        "close_price": 2290.0,
+        "volume": 21951205.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251122,
+        "open_price": 2343.0,
+        "high_price": 2343.0,
+        "low_price": 2294.0,
+        "close_price": 2334.0,
+        "volume": 42036931.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251119,
+        "open_price": 2295.0,
+        "high_price": 2295.0,
+        "low_price": 2235.0,
+        "close_price": 2275.0,
+        "volume": 54981753.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251118,
+        "open_price": 2238.0,
+        "high_price": 2272.0,
+        "low_price": 2214.0,
+        "close_price": 2229.0,
+        "volume": 11456897.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251117,
+        "open_price": 2269.0,
+        "high_price": 2288.0,
+        "low_price": 2200.0,
+        "close_price": 2216.0,
+        "volume": 4061156.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251116,
+        "open_price": 2230.0,
+        "high_price": 2268.0,
+        "low_price": 2187.0,
+        "close_price": 2222.0,
+        "volume": 7286423.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251115,
+        "open_price": 2222.0,
+        "high_price": 2240.0,
+        "low_price": 2182.0,
+        "close_price": 2203.0,
+        "volume": 4881179.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251112,
+        "open_price": 2278.0,
+        "high_price": 2278.0,
+        "low_price": 2182.0,
+        "close_price": 2212.0,
+        "volume": 3726594.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251111,
+        "open_price": 2237.0,
+        "high_price": 2305.0,
+        "low_price": 2189.0,
+        "close_price": 2220.0,
+        "volume": 3791119.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251110,
+        "open_price": 2191.0,
+        "high_price": 2264.0,
+        "low_price": 2187.0,
+        "close_price": 2238.0,
+        "volume": 2242446.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251109,
+        "open_price": 2276.0,
+        "high_price": 2294.0,
+        "low_price": 2232.0,
+        "close_price": 2254.0,
+        "volume": 1364200.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251108,
+        "open_price": 2263.0,
+        "high_price": 2300.0,
+        "low_price": 2250.0,
+        "close_price": 2255.0,
+        "volume": 1832527.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251105,
+        "open_price": 2300.0,
+        "high_price": 2300.0,
+        "low_price": 2236.0,
+        "close_price": 2252.0,
+        "volume": 3917495.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251104,
+        "open_price": 2248.0,
+        "high_price": 2300.0,
+        "low_price": 2247.0,
+        "close_price": 2250.0,
+        "volume": 856313.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251103,
+        "open_price": 2267.0,
+        "high_price": 2300.0,
+        "low_price": 2226.0,
+        "close_price": 2247.0,
+        "volume": 4706537.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251102,
+        "open_price": 2272.0,
+        "high_price": 2310.0,
+        "low_price": 2249.0,
+        "close_price": 2255.0,
+        "volume": 2146503.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251101,
+        "open_price": 2260.0,
+        "high_price": 2280.0,
+        "low_price": 2232.0,
+        "close_price": 2251.0,
+        "volume": 6027723.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251029,
+        "open_price": 2266.0,
+        "high_price": 2279.0,
+        "low_price": 2244.0,
+        "close_price": 2268.0,
+        "volume": 3888370.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251028,
+        "open_price": 2290.0,
+        "high_price": 2319.0,
+        "low_price": 2248.0,
+        "close_price": 2278.0,
+        "volume": 11119351.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251027,
+        "open_price": 2319.0,
+        "high_price": 2319.0,
+        "low_price": 2253.0,
+        "close_price": 2291.0,
+        "volume": 4370423.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251026,
+        "open_price": 2332.0,
+        "high_price": 2395.0,
+        "low_price": 2286.0,
+        "close_price": 2319.0,
+        "volume": 6802098.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251025,
+        "open_price": 2331.0,
+        "high_price": 2390.0,
+        "low_price": 2303.0,
+        "close_price": 2332.0,
+        "volume": 2442606.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251022,
+        "open_price": 2400.0,
+        "high_price": 2402.0,
+        "low_price": 2282.0,
+        "close_price": 2332.0,
+        "volume": 5332277.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251021,
+        "open_price": 2405.0,
+        "high_price": 2405.0,
+        "low_price": 2290.0,
+        "close_price": 2333.0,
+        "volume": 3230989.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251020,
+        "open_price": 2360.0,
+        "high_price": 2400.0,
+        "low_price": 2312.0,
+        "close_price": 2339.0,
+        "volume": 1392584.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251019,
+        "open_price": 2357.0,
+        "high_price": 2400.0,
+        "low_price": 2328.0,
+        "close_price": 2338.0,
+        "volume": 2012190.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251018,
+        "open_price": 2339.0,
+        "high_price": 2374.0,
+        "low_price": 2339.0,
+        "close_price": 2331.0,
+        "volume": 3315641.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251015,
+        "open_price": 2319.0,
+        "high_price": 2370.0,
+        "low_price": 2298.0,
+        "close_price": 2305.0,
+        "volume": 2327622.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251014,
+        "open_price": 2349.0,
+        "high_price": 2360.0,
+        "low_price": 2302.0,
+        "close_price": 2301.0,
+        "volume": 1515396.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251013,
+        "open_price": 2280.0,
+        "high_price": 2315.0,
+        "low_price": 2248.0,
+        "close_price": 2292.0,
+        "volume": 4618411.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251012,
+        "open_price": 2293.0,
+        "high_price": 2293.0,
+        "low_price": 2231.0,
+        "close_price": 2248.0,
+        "volume": 2277751.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251011,
+        "open_price": 2280.0,
+        "high_price": 2286.0,
+        "low_price": 2280.0,
+        "close_price": 2227.0,
+        "volume": 679802.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251008,
+        "open_price": 2280.0,
+        "high_price": 2280.0,
+        "low_price": 2217.0,
+        "close_price": 2220.0,
+        "volume": 1329749.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251007,
+        "open_price": 2263.0,
+        "high_price": 2263.0,
+        "low_price": 2183.0,
+        "close_price": 2214.0,
+        "volume": 1942354.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251006,
+        "open_price": 2255.0,
+        "high_price": 2256.0,
+        "low_price": 2150.0,
+        "close_price": 2198.0,
+        "volume": 755213.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251005,
+        "open_price": 2219.0,
+        "high_price": 2249.0,
+        "low_price": 2183.0,
+        "close_price": 2191.0,
+        "volume": 931167.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251004,
+        "open_price": 2155.0,
+        "high_price": 2219.0,
+        "low_price": 2155.0,
+        "close_price": 2184.0,
+        "volume": 3117794.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20251001,
+        "open_price": 2156.0,
+        "high_price": 2228.0,
+        "low_price": 2102.0,
+        "close_price": 2155.0,
+        "volume": 2010372.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250930,
+        "open_price": 2217.0,
+        "high_price": 2217.0,
+        "low_price": 2156.0,
+        "close_price": 2166.0,
+        "volume": 1999484.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250929,
+        "open_price": 2181.0,
+        "high_price": 2181.0,
+        "low_price": 2181.0,
+        "close_price": 2153.0,
+        "volume": 4041969.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250928,
+        "open_price": 2157.0,
+        "high_price": 2157.0,
+        "low_price": 2157.0,
+        "close_price": 2118.0,
+        "volume": 2735729.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250927,
+        "open_price": 2134.0,
+        "high_price": 2134.0,
+        "low_price": 2085.0,
+        "close_price": 2095.0,
+        "volume": 2656365.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250924,
+        "open_price": 2120.0,
+        "high_price": 2121.0,
+        "low_price": 2100.0,
+        "close_price": 2072.0,
+        "volume": 1444574.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250923,
+        "open_price": 2101.0,
+        "high_price": 2101.0,
+        "low_price": 2050.0,
+        "close_price": 2060.0,
+        "volume": 2657873.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250922,
+        "open_price": 1982.0,
+        "high_price": 2087.0,
+        "low_price": 1982.0,
+        "close_price": 2040.0,
+        "volume": 2825898.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250921,
+        "open_price": 2000.0,
+        "high_price": 2086.0,
+        "low_price": 2000.0,
+        "close_price": 2027.0,
+        "volume": 1795549.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250920,
+        "open_price": 1981.0,
+        "high_price": 2000.0,
+        "low_price": 1981.0,
+        "close_price": 2028.0,
+        "volume": 1723847.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250917,
+        "open_price": 2050.0,
+        "high_price": 2086.0,
+        "low_price": 2050.0,
+        "close_price": 2042.0,
+        "volume": 1954281.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250916,
+        "open_price": 2014.0,
+        "high_price": 2074.0,
+        "low_price": 2014.0,
+        "close_price": 2026.0,
+        "volume": 1610482.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250915,
+        "open_price": 2012.0,
+        "high_price": 2050.0,
+        "low_price": 2009.0,
+        "close_price": 2014.0,
+        "volume": 752195.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250914,
+        "open_price": 2058.0,
+        "high_price": 2061.0,
+        "low_price": 2007.0,
+        "close_price": 2012.0,
+        "volume": 1026388.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250913,
+        "open_price": 2010.0,
+        "high_price": 2059.0,
+        "low_price": 2010.0,
+        "close_price": 2007.0,
+        "volume": 961153.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250909,
+        "open_price": 2042.0,
+        "high_price": 2046.0,
+        "low_price": 2005.0,
+        "close_price": 2002.0,
+        "volume": 291802.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250908,
+        "open_price": 2006.0,
+        "high_price": 2050.0,
+        "low_price": 2004.0,
+        "close_price": 2001.0,
+        "volume": 720515.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250907,
+        "open_price": 1997.0,
+        "high_price": 2018.0,
+        "low_price": 1985.0,
+        "close_price": 1998.0,
+        "volume": 588912.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250906,
+        "open_price": 2000.0,
+        "high_price": 2038.0,
+        "low_price": 1978.0,
+        "close_price": 1998.0,
+        "volume": 832682.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250903,
+        "open_price": 1981.0,
+        "high_price": 2040.0,
+        "low_price": 1980.0,
+        "close_price": 1999.0,
+        "volume": 2656000.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250902,
+        "open_price": 1978.0,
+        "high_price": 2037.0,
+        "low_price": 1930.0,
+        "close_price": 1981.0,
+        "volume": 2469208.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250831,
+        "open_price": 1920.0,
+        "high_price": 2037.0,
+        "low_price": 1920.0,
+        "close_price": 1980.0,
+        "volume": 500827.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250830,
+        "open_price": 1942.0,
+        "high_price": 1942.0,
+        "low_price": 1934.0,
+        "close_price": 1978.0,
+        "volume": 1929990.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250827,
+        "open_price": 2028.0,
+        "high_price": 2036.0,
+        "low_price": 1980.0,
+        "close_price": 1993.0,
+        "volume": 2361779.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250826,
+        "open_price": 1986.0,
+        "high_price": 1990.0,
+        "low_price": 1975.0,
+        "close_price": 1977.0,
+        "volume": 460051.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250825,
+        "open_price": 1958.0,
+        "high_price": 1995.0,
+        "low_price": 1950.0,
+        "close_price": 1977.0,
+        "volume": 544483.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250823,
+        "open_price": 1992.0,
+        "high_price": 2032.0,
+        "low_price": 1987.0,
+        "close_price": 1977.0,
+        "volume": 671134.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250820,
+        "open_price": 1988.0,
+        "high_price": 2009.0,
+        "low_price": 1968.0,
+        "close_price": 1973.0,
+        "volume": 1562291.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250819,
+        "open_price": 1928.0,
+        "high_price": 2000.0,
+        "low_price": 1928.0,
+        "close_price": 1969.0,
+        "volume": 348026.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250818,
+        "open_price": 1976.0,
+        "high_price": 2000.0,
+        "low_price": 1964.0,
+        "close_price": 1970.0,
+        "volume": 1540152.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250817,
+        "open_price": 1971.0,
+        "high_price": 2020.0,
+        "low_price": 1966.0,
+        "close_price": 1967.0,
+        "volume": 1772858.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250816,
+        "open_price": 1916.0,
+        "high_price": 2034.0,
+        "low_price": 1916.0,
+        "close_price": 1962.0,
+        "volume": 2910519.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250813,
+        "open_price": 1931.0,
+        "high_price": 1960.0,
+        "low_price": 1931.0,
+        "close_price": 1975.0,
+        "volume": 1841704.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250812,
+        "open_price": 1944.0,
+        "high_price": 1945.0,
+        "low_price": 1944.0,
+        "close_price": 1990.0,
+        "volume": 1748638.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250811,
+        "open_price": 1955.0,
+        "high_price": 1976.0,
+        "low_price": 1955.0,
+        "close_price": 2004.0,
+        "volume": 1394576.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250810,
+        "open_price": 1957.0,
+        "high_price": 1970.0,
+        "low_price": 1957.0,
+        "close_price": 2015.0,
+        "volume": 252327.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250809,
+        "open_price": 1986.0,
+        "high_price": 2003.0,
+        "low_price": 1971.0,
+        "close_price": 2017.0,
+        "volume": 1830562.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250806,
+        "open_price": 1986.0,
+        "high_price": 1990.0,
+        "low_price": 1986.0,
+        "close_price": 2031.0,
+        "volume": 1883714.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250805,
+        "open_price": 2003.0,
+        "high_price": 2060.0,
+        "low_price": 2003.0,
+        "close_price": 2047.0,
+        "volume": 1966758.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250804,
+        "open_price": 2023.0,
+        "high_price": 2095.0,
+        "low_price": 2023.0,
+        "close_price": 2064.0,
+        "volume": 2577779.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250803,
+        "open_price": 2064.0,
+        "high_price": 2071.0,
+        "low_price": 2043.0,
+        "close_price": 2085.0,
+        "volume": 2466114.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250802,
+        "open_price": 2064.0,
+        "high_price": 2091.0,
+        "low_price": 2064.0,
+        "close_price": 2106.0,
+        "volume": 2354932.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250730,
+        "open_price": 2081.0,
+        "high_price": 2089.0,
+        "low_price": 2081.0,
+        "close_price": 2127.0,
+        "volume": 1915750.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250729,
+        "open_price": 2148.0,
+        "high_price": 2200.0,
+        "low_price": 2084.0,
+        "close_price": 2145.0,
+        "volume": 421461.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250728,
+        "open_price": 2102.0,
+        "high_price": 2150.0,
+        "low_price": 2102.0,
+        "close_price": 2148.0,
+        "volume": 2001651.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250727,
+        "open_price": 2125.0,
+        "high_price": 2150.0,
+        "low_price": 2124.0,
+        "close_price": 2167.0,
+        "volume": 2326616.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250726,
+        "open_price": 2169.0,
+        "high_price": 2220.0,
+        "low_price": 2154.0,
+        "close_price": 2189.0,
+        "volume": 3646889.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250723,
+        "open_price": 2195.0,
+        "high_price": 2236.0,
+        "low_price": 2169.0,
+        "close_price": 2220.0,
+        "volume": 2129977.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250722,
+        "open_price": 2247.0,
+        "high_price": 2247.0,
+        "low_price": 2205.0,
+        "close_price": 2236.0,
+        "volume": 1001022.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250721,
+        "open_price": 2222.0,
+        "high_price": 2250.0,
+        "low_price": 2192.0,
+        "close_price": 2238.0,
+        "volume": 2253473.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250720,
+        "open_price": 2209.0,
+        "high_price": 2275.0,
+        "low_price": 2209.0,
+        "close_price": 2259.0,
+        "volume": 2646981.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250719,
+        "open_price": 2202.0,
+        "high_price": 2338.0,
+        "low_price": 2202.0,
+        "close_price": 2276.0,
+        "volume": 1742505.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250716,
+        "open_price": 2310.0,
+        "high_price": 2310.0,
+        "low_price": 2279.0,
+        "close_price": 2270.0,
+        "volume": 766365.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250715,
+        "open_price": 2210.0,
+        "high_price": 2300.0,
+        "low_price": 2210.0,
+        "close_price": 2268.0,
+        "volume": 1711467.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250714,
+        "open_price": 2292.0,
+        "high_price": 2327.0,
+        "low_price": 2271.0,
+        "close_price": 2271.0,
+        "volume": 665619.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250713,
+        "open_price": 2291.0,
+        "high_price": 2303.0,
+        "low_price": 2281.0,
+        "close_price": 2270.0,
+        "volume": 305734.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250712,
+        "open_price": 2267.0,
+        "high_price": 2331.0,
+        "low_price": 2199.0,
+        "close_price": 2269.0,
+        "volume": 499498.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250709,
+        "open_price": 2211.0,
+        "high_price": 2250.0,
+        "low_price": 2211.0,
+        "close_price": 2267.0,
+        "volume": 1185109.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250708,
+        "open_price": 2248.0,
+        "high_price": 2248.0,
+        "low_price": 2231.0,
+        "close_price": 2279.0,
+        "volume": 1889913.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250707,
+        "open_price": 2251.0,
+        "high_price": 2330.0,
+        "low_price": 2251.0,
+        "close_price": 2299.0,
+        "volume": 463356.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250702,
+        "open_price": 2248.0,
+        "high_price": 2377.0,
+        "low_price": 2248.0,
+        "close_price": 2299.0,
+        "volume": 4446633.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250701,
+        "open_price": 2275.0,
+        "high_price": 2318.0,
+        "low_price": 2275.0,
+        "close_price": 2317.0,
+        "volume": 2357958.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250630,
+        "open_price": 2328.0,
+        "high_price": 2399.0,
+        "low_price": 2328.0,
+        "close_price": 2345.0,
+        "volume": 11113998.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250629,
+        "open_price": 2390.0,
+        "high_price": 2463.0,
+        "low_price": 2390.0,
+        "close_price": 2399.0,
+        "volume": 9872261.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250628,
+        "open_price": 2444.0,
+        "high_price": 2444.0,
+        "low_price": 2444.0,
+        "close_price": 2463.0,
+        "volume": 4424400.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2519.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2519.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2519.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2519.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2519.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2519.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2519.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2519.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250611,
+        "open_price": 2496.0,
+        "high_price": 2572.0,
+        "low_price": 2492.0,
+        "close_price": 2519.0,
+        "volume": 3969973.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250610,
+        "open_price": 2537.0,
+        "high_price": 2571.0,
+        "low_price": 2537.0,
+        "close_price": 2569.0,
+        "volume": 3395543.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250609,
+        "open_price": 2651.0,
+        "high_price": 2651.0,
+        "low_price": 2572.0,
+        "close_price": 2615.0,
+        "volume": 2586413.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250608,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2771.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250607,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2771.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250603,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2771.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250602,
+        "open_price": 2699.0,
+        "high_price": 2825.0,
+        "low_price": 2688.0,
+        "close_price": 2771.0,
+        "volume": 5376674.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250601,
+        "open_price": 2760.0,
+        "high_price": 2825.0,
+        "low_price": 2751.0,
+        "close_price": 2771.0,
+        "volume": 4073606.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250531,
+        "open_price": 2791.0,
+        "high_price": 2925.0,
+        "low_price": 2756.0,
+        "close_price": 2836.0,
+        "volume": 3986402.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250528,
+        "open_price": 2848.0,
+        "high_price": 2848.0,
+        "low_price": 2801.0,
+        "close_price": 2841.0,
+        "volume": 6438407.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250527,
+        "open_price": 2766.0,
+        "high_price": 2766.0,
+        "low_price": 2751.0,
+        "close_price": 2766.0,
+        "volume": 7804322.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250526,
+        "open_price": 2687.0,
+        "high_price": 2689.0,
+        "low_price": 2592.0,
+        "close_price": 2686.0,
+        "volume": 6934075.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250525,
+        "open_price": 2609.0,
+        "high_price": 2609.0,
+        "low_price": 2609.0,
+        "close_price": 2611.0,
+        "volume": 5297590.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250524,
+        "open_price": 2687.0,
+        "high_price": 2730.0,
+        "low_price": 2687.0,
+        "close_price": 2689.0,
+        "volume": 7106359.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250521,
+        "open_price": 2718.0,
+        "high_price": 2718.0,
+        "low_price": 2718.0,
+        "close_price": 2770.0,
+        "volume": 2082909.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250520,
+        "open_price": 2763.0,
+        "high_price": 2764.0,
+        "low_price": 2762.0,
+        "close_price": 2802.0,
+        "volume": 2911066.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250519,
+        "open_price": 2984.0,
+        "high_price": 2984.0,
+        "low_price": 2832.0,
+        "close_price": 2847.0,
+        "volume": 17646978.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250518,
+        "open_price": 2919.0,
+        "high_price": 2919.0,
+        "low_price": 2913.0,
+        "close_price": 2919.0,
+        "volume": 32930897.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250517,
+        "open_price": 2834.0,
+        "high_price": 2834.0,
+        "low_price": 2834.0,
+        "close_price": 2834.0,
+        "volume": 6978140.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250514,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250507,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250430,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250423,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 85300.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 85300.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 85300.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 85300.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250416,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 85300.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 85300.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250414,
+        "open_price": 85600.0,
+        "high_price": 85600.0,
+        "low_price": 83000.0,
+        "close_price": 85300.0,
+        "volume": 252843.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250413,
+        "open_price": 81150.0,
+        "high_price": 83550.0,
+        "low_price": 81150.0,
+        "close_price": 83150.0,
+        "volume": 159256.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250412,
+        "open_price": 84800.0,
+        "high_price": 85350.0,
+        "low_price": 80650.0,
+        "close_price": 81150.0,
+        "volume": 223304.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250409,
+        "open_price": 84600.0,
+        "high_price": 84600.0,
+        "low_price": 81200.0,
+        "close_price": 83100.0,
+        "volume": 128120.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250408,
+        "open_price": 78900.0,
+        "high_price": 82250.0,
+        "low_price": 78900.0,
+        "close_price": 82150.0,
+        "volume": 221655.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250407,
+        "open_price": 78050.0,
+        "high_price": 80000.0,
+        "low_price": 78050.0,
+        "close_price": 79900.0,
+        "volume": 16768.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250406,
+        "open_price": 78250.0,
+        "high_price": 80000.0,
+        "low_price": 77850.0,
+        "close_price": 80000.0,
+        "volume": 48952.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250405,
+        "open_price": 78250.0,
+        "high_price": 81350.0,
+        "low_price": 78250.0,
+        "close_price": 80250.0,
+        "volume": 96940.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250330,
+        "open_price": 79900.0,
+        "high_price": 84450.0,
+        "low_price": 79850.0,
+        "close_price": 80500.0,
+        "volume": 143227.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250329,
+        "open_price": 83000.0,
+        "high_price": 83000.0,
+        "low_price": 80500.0,
+        "close_price": 82300.0,
+        "volume": 126990.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250326,
+        "open_price": 82400.0,
+        "high_price": 85600.0,
+        "low_price": 82350.0,
+        "close_price": 82900.0,
+        "volume": 209936.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250325,
+        "open_price": 86000.0,
+        "high_price": 87000.0,
+        "low_price": 84050.0,
+        "close_price": 84850.0,
+        "volume": 65408.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250318,
+        "open_price": 86000.0,
+        "high_price": 87900.0,
+        "low_price": 83600.0,
+        "close_price": 84800.0,
+        "volume": 147731.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250317,
+        "open_price": 85300.0,
+        "high_price": 87050.0,
+        "low_price": 84900.0,
+        "close_price": 86150.0,
+        "volume": 348447.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250316,
+        "open_price": 86400.0,
+        "high_price": 86400.0,
+        "low_price": 83000.0,
+        "close_price": 85300.0,
+        "volume": 226033.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250315,
+        "open_price": 84150.0,
+        "high_price": 84150.0,
+        "low_price": 82600.0,
+        "close_price": 83900.0,
+        "volume": 379085.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250312,
+        "open_price": 81050.0,
+        "high_price": 82250.0,
+        "low_price": 77700.0,
+        "close_price": 81700.0,
+        "volume": 281278.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250311,
+        "open_price": 81000.0,
+        "high_price": 81000.0,
+        "low_price": 78850.0,
+        "close_price": 79900.0,
+        "volume": 141531.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250310,
+        "open_price": 76550.0,
+        "high_price": 80400.0,
+        "low_price": 76550.0,
+        "close_price": 78650.0,
+        "volume": 82989.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250309,
+        "open_price": 77000.0,
+        "high_price": 78950.0,
+        "low_price": 75250.0,
+        "close_price": 78100.0,
+        "volume": 156110.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250308,
+        "open_price": 78000.0,
+        "high_price": 78900.0,
+        "low_price": 75350.0,
+        "close_price": 77350.0,
+        "volume": 77789.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250305,
+        "open_price": 77550.0,
+        "high_price": 79300.0,
+        "low_price": 75400.0,
+        "close_price": 77600.0,
+        "volume": 44443.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250304,
+        "open_price": 75300.0,
+        "high_price": 78600.0,
+        "low_price": 75300.0,
+        "close_price": 77550.0,
+        "volume": 23113.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250303,
+        "open_price": 76200.0,
+        "high_price": 76500.0,
+        "low_price": 76200.0,
+        "close_price": 77600.0,
+        "volume": 79544.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250302,
+        "open_price": 76350.0,
+        "high_price": 80000.0,
+        "low_price": 76350.0,
+        "close_price": 78550.0,
+        "volume": 77103.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250301,
+        "open_price": 77500.0,
+        "high_price": 80850.0,
+        "low_price": 77500.0,
+        "close_price": 78550.0,
+        "volume": 31434.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250226,
+        "open_price": 78050.0,
+        "high_price": 80000.0,
+        "low_price": 77600.0,
+        "close_price": 78550.0,
+        "volume": 66822.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250225,
+        "open_price": 78200.0,
+        "high_price": 79350.0,
+        "low_price": 76400.0,
+        "close_price": 78050.0,
+        "volume": 216985.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250224,
+        "open_price": 79000.0,
+        "high_price": 79250.0,
+        "low_price": 77650.0,
+        "close_price": 78700.0,
+        "volume": 232808.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250223,
+        "open_price": 78000.0,
+        "high_price": 79200.0,
+        "low_price": 77450.0,
+        "close_price": 77600.0,
+        "volume": 35862.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250222,
+        "open_price": 75000.0,
+        "high_price": 79050.0,
+        "low_price": 75000.0,
+        "close_price": 77450.0,
+        "volume": 67016.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250219,
+        "open_price": 79050.0,
+        "high_price": 79050.0,
+        "low_price": 74800.0,
+        "close_price": 76750.0,
+        "volume": 78180.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250218,
+        "open_price": 73300.0,
+        "high_price": 77300.0,
+        "low_price": 73100.0,
+        "close_price": 77050.0,
+        "volume": 200376.0
+    },
+    {
+        "symbol": "لطیف",
+        "trade_date": 20250217,
+        "open_price": 74000.0,
+        "high_price": 77350.0,
+        "low_price": 72900.0,
+        "close_price": 75050.0,
+        "volume": 82963.0
+    }
+]

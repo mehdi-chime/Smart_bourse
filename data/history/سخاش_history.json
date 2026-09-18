@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260901,
+        "open_price": 12520.0,
+        "high_price": 12520.0,
+        "low_price": 11820.0,
+        "close_price": 12440.0,
+        "volume": 14093093.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260831,
+        "open_price": 11960.0,
+        "high_price": 12320.0,
+        "low_price": 11620.0,
+        "close_price": 12160.0,
+        "volume": 27501809.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260829,
+        "open_price": 11970.0,
+        "high_price": 11970.0,
+        "low_price": 11970.0,
+        "close_price": 11970.0,
+        "volume": 6921597.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260826,
+        "open_price": 11630.0,
+        "high_price": 11630.0,
+        "low_price": 11630.0,
+        "close_price": 11630.0,
+        "volume": 4511139.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260825,
+        "open_price": 11000.0,
+        "high_price": 11300.0,
+        "low_price": 11000.0,
+        "close_price": 11300.0,
+        "volume": 13845729.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260824,
+        "open_price": 11160.0,
+        "high_price": 11300.0,
+        "low_price": 10800.0,
+        "close_price": 10980.0,
+        "volume": 12208982.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260823,
+        "open_price": 11590.0,
+        "high_price": 11590.0,
+        "low_price": 11030.0,
+        "close_price": 11120.0,
+        "volume": 12979254.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260822,
+        "open_price": 11210.0,
+        "high_price": 11550.0,
+        "low_price": 11130.0,
+        "close_price": 11370.0,
+        "volume": 7118669.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260819,
+        "open_price": 11100.0,
+        "high_price": 11520.0,
+        "low_price": 11090.0,
+        "close_price": 11290.0,
+        "volume": 6962997.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260818,
+        "open_price": 11710.0,
+        "high_price": 11710.0,
+        "low_price": 11360.0,
+        "close_price": 11430.0,
+        "volume": 9324865.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260817,
+        "open_price": 11700.0,
+        "high_price": 11780.0,
+        "low_price": 11550.0,
+        "close_price": 11710.0,
+        "volume": 5530890.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260816,
+        "open_price": 11210.0,
+        "high_price": 11690.0,
+        "low_price": 11140.0,
+        "close_price": 11440.0,
+        "volume": 4328092.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260815,
+        "open_price": 11750.0,
+        "high_price": 11750.0,
+        "low_price": 11300.0,
+        "close_price": 11470.0,
+        "volume": 7098738.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260811,
+        "open_price": 11520.0,
+        "high_price": 11610.0,
+        "low_price": 11300.0,
+        "close_price": 11560.0,
+        "volume": 18683745.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260810,
+        "open_price": 11210.0,
+        "high_price": 11580.0,
+        "low_price": 11210.0,
+        "close_price": 11280.0,
+        "volume": 12393100.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260809,
+        "open_price": 12110.0,
+        "high_price": 12110.0,
+        "low_price": 11510.0,
+        "close_price": 11550.0,
+        "volume": 17054732.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260808,
+        "open_price": 11850.0,
+        "high_price": 11860.0,
+        "low_price": 11650.0,
+        "close_price": 11860.0,
+        "volume": 9385670.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260805,
+        "open_price": 11560.0,
+        "high_price": 11560.0,
+        "low_price": 11370.0,
+        "close_price": 11520.0,
+        "volume": 15225916.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260803,
+        "open_price": 11010.0,
+        "high_price": 11280.0,
+        "low_price": 11010.0,
+        "close_price": 11230.0,
+        "volume": 9729414.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260802,
+        "open_price": 11200.0,
+        "high_price": 11210.0,
+        "low_price": 10810.0,
+        "close_price": 10960.0,
+        "volume": 14194724.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260801,
+        "open_price": 10850.0,
+        "high_price": 11130.0,
+        "low_price": 10850.0,
+        "close_price": 10890.0,
+        "volume": 15406824.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260729,
+        "open_price": 11170.0,
+        "high_price": 11470.0,
+        "low_price": 11170.0,
+        "close_price": 11180.0,
+        "volume": 9062761.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260728,
+        "open_price": 11890.0,
+        "high_price": 12050.0,
+        "low_price": 11440.0,
+        "close_price": 11510.0,
+        "volume": 15151202.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260727,
+        "open_price": 11840.0,
+        "high_price": 12100.0,
+        "low_price": 11760.0,
+        "close_price": 11790.0,
+        "volume": 4710526.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260726,
+        "open_price": 12130.0,
+        "high_price": 12560.0,
+        "low_price": 11840.0,
+        "close_price": 12120.0,
+        "volume": 12415455.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260725,
+        "open_price": 12790.0,
+        "high_price": 12790.0,
+        "low_price": 12070.0,
+        "close_price": 12200.0,
+        "volume": 6877367.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260722,
+        "open_price": 12460.0,
+        "high_price": 12460.0,
+        "low_price": 12120.0,
+        "close_price": 12440.0,
+        "volume": 18418404.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260721,
+        "open_price": 12100.0,
+        "high_price": 12100.0,
+        "low_price": 12100.0,
+        "close_price": 12100.0,
+        "volume": 3927676.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260720,
+        "open_price": 11750.0,
+        "high_price": 11750.0,
+        "low_price": 11750.0,
+        "close_price": 11750.0,
+        "volume": 3252873.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260719,
+        "open_price": 10860.0,
+        "high_price": 11520.0,
+        "low_price": 10860.0,
+        "close_price": 11410.0,
+        "volume": 19277622.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260718,
+        "open_price": 11190.0,
+        "high_price": 11460.0,
+        "low_price": 11190.0,
+        "close_price": 11190.0,
+        "volume": 7752402.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260715,
+        "open_price": 11530.0,
+        "high_price": 11530.0,
+        "low_price": 11470.0,
+        "close_price": 11530.0,
+        "volume": 10938736.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260714,
+        "open_price": 11210.0,
+        "high_price": 11210.0,
+        "low_price": 11000.0,
+        "close_price": 11200.0,
+        "volume": 14205087.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260713,
+        "open_price": 10310.0,
+        "high_price": 10930.0,
+        "low_price": 10310.0,
+        "close_price": 10890.0,
+        "volume": 8587233.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260712,
+        "open_price": 10620.0,
+        "high_price": 10680.0,
+        "low_price": 10620.0,
+        "close_price": 10620.0,
+        "volume": 11516461.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260711,
+        "open_price": 11250.0,
+        "high_price": 11250.0,
+        "low_price": 10850.0,
+        "close_price": 10940.0,
+        "volume": 14759129.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260708,
+        "open_price": 11580.0,
+        "high_price": 11580.0,
+        "low_price": 10930.0,
+        "close_price": 11180.0,
+        "volume": 26638098.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260707,
+        "open_price": 11260.0,
+        "high_price": 11260.0,
+        "low_price": 11080.0,
+        "close_price": 11260.0,
+        "volume": 9650405.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260701,
+        "open_price": 11010.0,
+        "high_price": 11210.0,
+        "low_price": 10920.0,
+        "close_price": 10940.0,
+        "volume": 29406742.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260630,
+        "open_price": 11310.0,
+        "high_price": 11830.0,
+        "low_price": 11160.0,
+        "close_price": 11250.0,
+        "volume": 15437174.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260629,
+        "open_price": 11470.0,
+        "high_price": 11820.0,
+        "low_price": 11470.0,
+        "close_price": 11500.0,
+        "volume": 20142239.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260628,
+        "open_price": 11820.0,
+        "high_price": 11820.0,
+        "low_price": 11820.0,
+        "close_price": 11820.0,
+        "volume": 3123925.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260627,
+        "open_price": 12420.0,
+        "high_price": 12770.0,
+        "low_price": 12120.0,
+        "close_price": 12180.0,
+        "volume": 19110458.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260623,
+        "open_price": 12550.0,
+        "high_price": 13110.0,
+        "low_price": 12350.0,
+        "close_price": 12490.0,
+        "volume": 22951503.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260622,
+        "open_price": 12730.0,
+        "high_price": 12730.0,
+        "low_price": 12730.0,
+        "close_price": 12730.0,
+        "volume": 1309540.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260621,
+        "open_price": 13190.0,
+        "high_price": 13250.0,
+        "low_price": 13080.0,
+        "close_price": 13120.0,
+        "volume": 7780317.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260620,
+        "open_price": 13910.0,
+        "high_price": 13910.0,
+        "low_price": 13110.0,
+        "close_price": 13480.0,
+        "volume": 22057189.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260617,
+        "open_price": 13900.0,
+        "high_price": 13900.0,
+        "low_price": 13110.0,
+        "close_price": 13510.0,
+        "volume": 23155852.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260616,
+        "open_price": 13950.0,
+        "high_price": 13950.0,
+        "low_price": 13150.0,
+        "close_price": 13510.0,
+        "volume": 40942151.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260615,
+        "open_price": 13550.0,
+        "high_price": 13550.0,
+        "low_price": 13550.0,
+        "close_price": 13550.0,
+        "volume": 8989601.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260614,
+        "open_price": 13160.0,
+        "high_price": 13160.0,
+        "low_price": 13160.0,
+        "close_price": 13160.0,
+        "volume": 3316992.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260613,
+        "open_price": 12780.0,
+        "high_price": 12780.0,
+        "low_price": 12780.0,
+        "close_price": 12780.0,
+        "volume": 2114190.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260610,
+        "open_price": 12410.0,
+        "high_price": 12410.0,
+        "low_price": 12270.0,
+        "close_price": 12410.0,
+        "volume": 7180403.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260609,
+        "open_price": 12050.0,
+        "high_price": 12050.0,
+        "low_price": 12050.0,
+        "close_price": 12050.0,
+        "volume": 15240392.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260608,
+        "open_price": 11690.0,
+        "high_price": 12390.0,
+        "low_price": 11690.0,
+        "close_price": 11700.0,
+        "volume": 34567239.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260607,
+        "open_price": 12050.0,
+        "high_price": 12050.0,
+        "low_price": 12050.0,
+        "close_price": 12050.0,
+        "volume": 5041904.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260606,
+        "open_price": 11830.0,
+        "high_price": 11850.0,
+        "low_price": 11350.0,
+        "close_price": 11700.0,
+        "volume": 22687560.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260603,
+        "open_price": 11510.0,
+        "high_price": 11510.0,
+        "low_price": 11220.0,
+        "close_price": 11510.0,
+        "volume": 57813304.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260602,
+        "open_price": 11180.0,
+        "high_price": 11180.0,
+        "low_price": 11180.0,
+        "close_price": 11180.0,
+        "volume": 12994923.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260601,
+        "open_price": 10860.0,
+        "high_price": 10860.0,
+        "low_price": 10860.0,
+        "close_price": 10860.0,
+        "volume": 11205224.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260531,
+        "open_price": 10550.0,
+        "high_price": 10550.0,
+        "low_price": 10550.0,
+        "close_price": 10550.0,
+        "volume": 9312710.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260530,
+        "open_price": 10250.0,
+        "high_price": 10250.0,
+        "low_price": 10250.0,
+        "close_price": 10250.0,
+        "volume": 5919693.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260526,
+        "open_price": 9960.0,
+        "high_price": 9960.0,
+        "low_price": 9960.0,
+        "close_price": 9960.0,
+        "volume": 6013594.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260525,
+        "open_price": 9680.0,
+        "high_price": 9680.0,
+        "low_price": 9400.0,
+        "close_price": 9670.0,
+        "volume": 26031151.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260524,
+        "open_price": 9400.0,
+        "high_price": 9400.0,
+        "low_price": 9400.0,
+        "close_price": 9400.0,
+        "volume": 4643229.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260523,
+        "open_price": 9070.0,
+        "high_price": 9340.0,
+        "low_price": 9070.0,
+        "close_price": 9130.0,
+        "volume": 105975231.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260520,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260519,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8770.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260225,
+        "open_price": 8900.0,
+        "high_price": 8900.0,
+        "low_price": 8710.0,
+        "close_price": 8770.0,
+        "volume": 2709606.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260224,
+        "open_price": 8680.0,
+        "high_price": 8770.0,
+        "low_price": 8490.0,
+        "close_price": 8670.0,
+        "volume": 4270737.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260223,
+        "open_price": 8570.0,
+        "high_price": 8630.0,
+        "low_price": 8390.0,
+        "close_price": 8600.0,
+        "volume": 2735263.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260222,
+        "open_price": 8370.0,
+        "high_price": 8670.0,
+        "low_price": 8370.0,
+        "close_price": 8380.0,
+        "volume": 2342247.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260221,
+        "open_price": 8970.0,
+        "high_price": 8970.0,
+        "low_price": 8620.0,
+        "close_price": 8620.0,
+        "volume": 4241499.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260218,
+        "open_price": 8730.0,
+        "high_price": 8950.0,
+        "low_price": 8730.0,
+        "close_price": 8880.0,
+        "volume": 6735291.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260217,
+        "open_price": 8790.0,
+        "high_price": 8800.0,
+        "low_price": 8600.0,
+        "close_price": 8710.0,
+        "volume": 2365616.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260216,
+        "open_price": 8400.0,
+        "high_price": 8640.0,
+        "low_price": 8400.0,
+        "close_price": 8560.0,
+        "volume": 2311068.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260215,
+        "open_price": 8600.0,
+        "high_price": 8670.0,
+        "low_price": 8330.0,
+        "close_price": 8390.0,
+        "volume": 3307589.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260214,
+        "open_price": 8630.0,
+        "high_price": 8700.0,
+        "low_price": 8420.0,
+        "close_price": 8580.0,
+        "volume": 5575068.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260210,
+        "open_price": 8290.0,
+        "high_price": 8490.0,
+        "low_price": 8290.0,
+        "close_price": 8450.0,
+        "volume": 2945348.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260209,
+        "open_price": 8440.0,
+        "high_price": 8440.0,
+        "low_price": 8180.0,
+        "close_price": 8250.0,
+        "volume": 7117214.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260208,
+        "open_price": 8490.0,
+        "high_price": 8490.0,
+        "low_price": 8310.0,
+        "close_price": 8430.0,
+        "volume": 7565087.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260207,
+        "open_price": 8250.0,
+        "high_price": 8250.0,
+        "low_price": 8180.0,
+        "close_price": 8250.0,
+        "volume": 5755570.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260203,
+        "open_price": 8360.0,
+        "high_price": 8360.0,
+        "low_price": 7910.0,
+        "close_price": 8010.0,
+        "volume": 2352885.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260202,
+        "open_price": 8000.0,
+        "high_price": 8150.0,
+        "low_price": 8000.0,
+        "close_price": 8150.0,
+        "volume": 6591438.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260201,
+        "open_price": 7580.0,
+        "high_price": 7980.0,
+        "low_price": 7580.0,
+        "close_price": 7920.0,
+        "volume": 3408315.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260131,
+        "open_price": 8140.0,
+        "high_price": 8140.0,
+        "low_price": 7680.0,
+        "close_price": 7750.0,
+        "volume": 3030606.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260128,
+        "open_price": 7910.0,
+        "high_price": 8090.0,
+        "low_price": 7910.0,
+        "close_price": 7910.0,
+        "volume": 7890644.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260127,
+        "open_price": 8150.0,
+        "high_price": 8190.0,
+        "low_price": 8150.0,
+        "close_price": 8150.0,
+        "volume": 5514280.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260126,
+        "open_price": 8400.0,
+        "high_price": 8400.0,
+        "low_price": 8400.0,
+        "close_price": 8400.0,
+        "volume": 1115967.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260125,
+        "open_price": 8650.0,
+        "high_price": 8650.0,
+        "low_price": 8650.0,
+        "close_price": 8650.0,
+        "volume": 1675307.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260124,
+        "open_price": 9200.0,
+        "high_price": 9200.0,
+        "low_price": 8890.0,
+        "close_price": 8910.0,
+        "volume": 13354352.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260121,
+        "open_price": 9420.0,
+        "high_price": 9440.0,
+        "low_price": 9010.0,
+        "close_price": 9160.0,
+        "volume": 5772683.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260120,
+        "open_price": 9480.0,
+        "high_price": 9480.0,
+        "low_price": 9030.0,
+        "close_price": 9190.0,
+        "volume": 3398221.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260119,
+        "open_price": 9310.0,
+        "high_price": 9460.0,
+        "low_price": 9040.0,
+        "close_price": 9300.0,
+        "volume": 11880286.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260118,
+        "open_price": 9290.0,
+        "high_price": 9300.0,
+        "low_price": 9080.0,
+        "close_price": 9190.0,
+        "volume": 2214087.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260114,
+        "open_price": 9250.0,
+        "high_price": 9270.0,
+        "low_price": 9030.0,
+        "close_price": 9050.0,
+        "volume": 28536204.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260113,
+        "open_price": 9530.0,
+        "high_price": 9560.0,
+        "low_price": 9250.0,
+        "close_price": 9300.0,
+        "volume": 3409164.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260112,
+        "open_price": 9790.0,
+        "high_price": 9790.0,
+        "low_price": 9500.0,
+        "close_price": 9530.0,
+        "volume": 19478925.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260111,
+        "open_price": 9780.0,
+        "high_price": 10000.0,
+        "low_price": 9780.0,
+        "close_price": 9790.0,
+        "volume": 6164535.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260110,
+        "open_price": 10080.0,
+        "high_price": 10150.0,
+        "low_price": 10080.0,
+        "close_price": 10080.0,
+        "volume": 4412214.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260107,
+        "open_price": 10500.0,
+        "high_price": 10500.0,
+        "low_price": 10000.0,
+        "close_price": 10390.0,
+        "volume": 7302223.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260106,
+        "open_price": 9800.0,
+        "high_price": 10260.0,
+        "low_price": 9800.0,
+        "close_price": 10200.0,
+        "volume": 8540083.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260105,
+        "open_price": 10000.0,
+        "high_price": 10000.0,
+        "low_price": 9870.0,
+        "close_price": 9970.0,
+        "volume": 4340087.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20260104,
+        "open_price": 9790.0,
+        "high_price": 10270.0,
+        "low_price": 9700.0,
+        "close_price": 9710.0,
+        "volume": 4800903.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251231,
+        "open_price": 9990.0,
+        "high_price": 10250.0,
+        "low_price": 9710.0,
+        "close_price": 10000.0,
+        "volume": 7364230.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251230,
+        "open_price": 10270.0,
+        "high_price": 10270.0,
+        "low_price": 9940.0,
+        "close_price": 9960.0,
+        "volume": 9123291.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251229,
+        "open_price": 10710.0,
+        "high_price": 10710.0,
+        "low_price": 10240.0,
+        "close_price": 10240.0,
+        "volume": 7186652.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251228,
+        "open_price": 10550.0,
+        "high_price": 10720.0,
+        "low_price": 10260.0,
+        "close_price": 10550.0,
+        "volume": 5763347.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251227,
+        "open_price": 10410.0,
+        "high_price": 10410.0,
+        "low_price": 10320.0,
+        "close_price": 10410.0,
+        "volume": 5994248.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251224,
+        "open_price": 9850.0,
+        "high_price": 10140.0,
+        "low_price": 9850.0,
+        "close_price": 10110.0,
+        "volume": 4205764.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251223,
+        "open_price": 9730.0,
+        "high_price": 9850.0,
+        "low_price": 9730.0,
+        "close_price": 9850.0,
+        "volume": 6886699.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251222,
+        "open_price": 9480.0,
+        "high_price": 9580.0,
+        "low_price": 9400.0,
+        "close_price": 9570.0,
+        "volume": 8742658.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251221,
+        "open_price": 9560.0,
+        "high_price": 9560.0,
+        "low_price": 9130.0,
+        "close_price": 9310.0,
+        "volume": 5953454.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251220,
+        "open_price": 9550.0,
+        "high_price": 9550.0,
+        "low_price": 9170.0,
+        "close_price": 9320.0,
+        "volume": 5249765.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251217,
+        "open_price": 9420.0,
+        "high_price": 9420.0,
+        "low_price": 9190.0,
+        "close_price": 9290.0,
+        "volume": 1907347.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251216,
+        "open_price": 9600.0,
+        "high_price": 9600.0,
+        "low_price": 9190.0,
+        "close_price": 9330.0,
+        "volume": 2818326.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251215,
+        "open_price": 9590.0,
+        "high_price": 9590.0,
+        "low_price": 9360.0,
+        "close_price": 9450.0,
+        "volume": 2103587.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251214,
+        "open_price": 9120.0,
+        "high_price": 9360.0,
+        "low_price": 8960.0,
+        "close_price": 9330.0,
+        "volume": 11342500.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251213,
+        "open_price": 8910.0,
+        "high_price": 9110.0,
+        "low_price": 8860.0,
+        "close_price": 9090.0,
+        "volume": 5745601.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251210,
+        "open_price": 8730.0,
+        "high_price": 8910.0,
+        "low_price": 8650.0,
+        "close_price": 8850.0,
+        "volume": 5980196.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251209,
+        "open_price": 8860.0,
+        "high_price": 8860.0,
+        "low_price": 8570.0,
+        "close_price": 8660.0,
+        "volume": 8809931.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251208,
+        "open_price": 8970.0,
+        "high_price": 8970.0,
+        "low_price": 8750.0,
+        "close_price": 8820.0,
+        "volume": 2552495.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251207,
+        "open_price": 9240.0,
+        "high_price": 9250.0,
+        "low_price": 8740.0,
+        "close_price": 8890.0,
+        "volume": 4634721.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251206,
+        "open_price": 8940.0,
+        "high_price": 9020.0,
+        "low_price": 8760.0,
+        "close_price": 8990.0,
+        "volume": 7118187.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251203,
+        "open_price": 8800.0,
+        "high_price": 8930.0,
+        "low_price": 8690.0,
+        "close_price": 8760.0,
+        "volume": 4129238.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251202,
+        "open_price": 8900.0,
+        "high_price": 8900.0,
+        "low_price": 8570.0,
+        "close_price": 8680.0,
+        "volume": 9687585.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251201,
+        "open_price": 8940.0,
+        "high_price": 8940.0,
+        "low_price": 8600.0,
+        "close_price": 8680.0,
+        "volume": 4462753.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251130,
+        "open_price": 8890.0,
+        "high_price": 8900.0,
+        "low_price": 8650.0,
+        "close_price": 8700.0,
+        "volume": 4838930.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251129,
+        "open_price": 8920.0,
+        "high_price": 8920.0,
+        "low_price": 8580.0,
+        "close_price": 8730.0,
+        "volume": 4882292.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251126,
+        "open_price": 8900.0,
+        "high_price": 8940.0,
+        "low_price": 8660.0,
+        "close_price": 8750.0,
+        "volume": 16807810.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251125,
+        "open_price": 8870.0,
+        "high_price": 9050.0,
+        "low_price": 8830.0,
+        "close_price": 8920.0,
+        "volume": 7298890.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251123,
+        "open_price": 8790.0,
+        "high_price": 8880.0,
+        "low_price": 8790.0,
+        "close_price": 8870.0,
+        "volume": 12881703.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251122,
+        "open_price": 8510.0,
+        "high_price": 8640.0,
+        "low_price": 8490.0,
+        "close_price": 8630.0,
+        "volume": 7486290.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251119,
+        "open_price": 8390.0,
+        "high_price": 8510.0,
+        "low_price": 8220.0,
+        "close_price": 8390.0,
+        "volume": 4266752.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251118,
+        "open_price": 8420.0,
+        "high_price": 8430.0,
+        "low_price": 8110.0,
+        "close_price": 8280.0,
+        "volume": 10504059.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251117,
+        "open_price": 8120.0,
+        "high_price": 8250.0,
+        "low_price": 8120.0,
+        "close_price": 8240.0,
+        "volume": 12783767.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251116,
+        "open_price": 8020.0,
+        "high_price": 8020.0,
+        "low_price": 7940.0,
+        "close_price": 8010.0,
+        "volume": 9815574.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251115,
+        "open_price": 7770.0,
+        "high_price": 7790.0,
+        "low_price": 7690.0,
+        "close_price": 7790.0,
+        "volume": 3201958.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251112,
+        "open_price": 7630.0,
+        "high_price": 7630.0,
+        "low_price": 7400.0,
+        "close_price": 7570.0,
+        "volume": 12921942.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251111,
+        "open_price": 7230.0,
+        "high_price": 7410.0,
+        "low_price": 7230.0,
+        "close_price": 7410.0,
+        "volume": 5886691.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251110,
+        "open_price": 7290.0,
+        "high_price": 7300.0,
+        "low_price": 7150.0,
+        "close_price": 7200.0,
+        "volume": 3996300.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251109,
+        "open_price": 7250.0,
+        "high_price": 7290.0,
+        "low_price": 7050.0,
+        "close_price": 7120.0,
+        "volume": 6134925.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251108,
+        "open_price": 7200.0,
+        "high_price": 7400.0,
+        "low_price": 7110.0,
+        "close_price": 7260.0,
+        "volume": 4024521.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251105,
+        "open_price": 7080.0,
+        "high_price": 7320.0,
+        "low_price": 7070.0,
+        "close_price": 7210.0,
+        "volume": 4018823.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251104,
+        "open_price": 7310.0,
+        "high_price": 7310.0,
+        "low_price": 7130.0,
+        "close_price": 7220.0,
+        "volume": 6428884.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251103,
+        "open_price": 7100.0,
+        "high_price": 7100.0,
+        "low_price": 7100.0,
+        "close_price": 7100.0,
+        "volume": 6449766.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251102,
+        "open_price": 6830.0,
+        "high_price": 7120.0,
+        "low_price": 6800.0,
+        "close_price": 6900.0,
+        "volume": 3582811.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251101,
+        "open_price": 7150.0,
+        "high_price": 7170.0,
+        "low_price": 6960.0,
+        "close_price": 6980.0,
+        "volume": 10949319.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251029,
+        "open_price": 7400.0,
+        "high_price": 7400.0,
+        "low_price": 7130.0,
+        "close_price": 7170.0,
+        "volume": 4855951.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251028,
+        "open_price": 7380.0,
+        "high_price": 7380.0,
+        "low_price": 7220.0,
+        "close_price": 7350.0,
+        "volume": 9212764.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251027,
+        "open_price": 7190.0,
+        "high_price": 7210.0,
+        "low_price": 7000.0,
+        "close_price": 7170.0,
+        "volume": 13641111.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251026,
+        "open_price": 7000.0,
+        "high_price": 7050.0,
+        "low_price": 6890.0,
+        "close_price": 7000.0,
+        "volume": 12938368.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251025,
+        "open_price": 7050.0,
+        "high_price": 7130.0,
+        "low_price": 6830.0,
+        "close_price": 6850.0,
+        "volume": 13380628.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251022,
+        "open_price": 7120.0,
+        "high_price": 7130.0,
+        "low_price": 6970.0,
+        "close_price": 7040.0,
+        "volume": 2217412.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251021,
+        "open_price": 6980.0,
+        "high_price": 7110.0,
+        "low_price": 6880.0,
+        "close_price": 6950.0,
+        "volume": 2631928.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251020,
+        "open_price": 7160.0,
+        "high_price": 7160.0,
+        "low_price": 6910.0,
+        "close_price": 6980.0,
+        "volume": 5107527.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251019,
+        "open_price": 7030.0,
+        "high_price": 7220.0,
+        "low_price": 6990.0,
+        "close_price": 7120.0,
+        "volume": 3992090.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251018,
+        "open_price": 6840.0,
+        "high_price": 7040.0,
+        "low_price": 6730.0,
+        "close_price": 7020.0,
+        "volume": 5365976.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251015,
+        "open_price": 6840.0,
+        "high_price": 6990.0,
+        "low_price": 6840.0,
+        "close_price": 6840.0,
+        "volume": 7192799.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251014,
+        "open_price": 7320.0,
+        "high_price": 7320.0,
+        "low_price": 7000.0,
+        "close_price": 7050.0,
+        "volume": 3219199.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251013,
+        "open_price": 7350.0,
+        "high_price": 7350.0,
+        "low_price": 7090.0,
+        "close_price": 7210.0,
+        "volume": 4241632.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251012,
+        "open_price": 7100.0,
+        "high_price": 7220.0,
+        "low_price": 7040.0,
+        "close_price": 7150.0,
+        "volume": 6297788.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251011,
+        "open_price": 7280.0,
+        "high_price": 7300.0,
+        "low_price": 6970.0,
+        "close_price": 7090.0,
+        "volume": 7037150.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251008,
+        "open_price": 7260.0,
+        "high_price": 7280.0,
+        "low_price": 7000.0,
+        "close_price": 7180.0,
+        "volume": 7798042.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251007,
+        "open_price": 7100.0,
+        "high_price": 7280.0,
+        "low_price": 6930.0,
+        "close_price": 7200.0,
+        "volume": 4412118.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251006,
+        "open_price": 6950.0,
+        "high_price": 7100.0,
+        "low_price": 6870.0,
+        "close_price": 7070.0,
+        "volume": 23790399.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251005,
+        "open_price": 6910.0,
+        "high_price": 6920.0,
+        "low_price": 6700.0,
+        "close_price": 6900.0,
+        "volume": 8035021.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251004,
+        "open_price": 6450.0,
+        "high_price": 6740.0,
+        "low_price": 6450.0,
+        "close_price": 6720.0,
+        "volume": 6325846.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20251001,
+        "open_price": 6570.0,
+        "high_price": 6690.0,
+        "low_price": 6540.0,
+        "close_price": 6550.0,
+        "volume": 6878136.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250930,
+        "open_price": 6800.0,
+        "high_price": 6990.0,
+        "low_price": 6710.0,
+        "close_price": 6740.0,
+        "volume": 10845486.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250929,
+        "open_price": 6910.0,
+        "high_price": 6910.0,
+        "low_price": 6850.0,
+        "close_price": 6910.0,
+        "volume": 11541879.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250928,
+        "open_price": 6710.0,
+        "high_price": 6710.0,
+        "low_price": 6690.0,
+        "close_price": 6710.0,
+        "volume": 7699067.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250927,
+        "open_price": 6500.0,
+        "high_price": 6550.0,
+        "low_price": 6360.0,
+        "close_price": 6520.0,
+        "volume": 3188843.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250924,
+        "open_price": 6360.0,
+        "high_price": 6400.0,
+        "low_price": 6360.0,
+        "close_price": 6360.0,
+        "volume": 4951995.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250923,
+        "open_price": 6770.0,
+        "high_price": 6800.0,
+        "low_price": 6420.0,
+        "close_price": 6550.0,
+        "volume": 2953833.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250922,
+        "open_price": 6310.0,
+        "high_price": 6640.0,
+        "low_price": 6310.0,
+        "close_price": 6610.0,
+        "volume": 4549768.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250921,
+        "open_price": 6450.0,
+        "high_price": 6600.0,
+        "low_price": 6450.0,
+        "close_price": 6450.0,
+        "volume": 9164585.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250920,
+        "open_price": 6610.0,
+        "high_price": 6610.0,
+        "low_price": 6610.0,
+        "close_price": 6640.0,
+        "volume": 1845463.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250917,
+        "open_price": 6760.0,
+        "high_price": 6950.0,
+        "low_price": 6740.0,
+        "close_price": 6810.0,
+        "volume": 1661618.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250916,
+        "open_price": 6880.0,
+        "high_price": 6880.0,
+        "low_price": 6710.0,
+        "close_price": 6770.0,
+        "volume": 6794414.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250915,
+        "open_price": 6960.0,
+        "high_price": 7050.0,
+        "low_price": 6770.0,
+        "close_price": 6880.0,
+        "volume": 8081076.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250914,
+        "open_price": 6730.0,
+        "high_price": 6900.0,
+        "low_price": 6730.0,
+        "close_price": 6850.0,
+        "volume": 1738608.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250913,
+        "open_price": 6580.0,
+        "high_price": 6710.0,
+        "low_price": 6580.0,
+        "close_price": 6700.0,
+        "volume": 5380302.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250909,
+        "open_price": 6500.0,
+        "high_price": 6580.0,
+        "low_price": 6390.0,
+        "close_price": 6520.0,
+        "volume": 2867813.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250908,
+        "open_price": 6340.0,
+        "high_price": 6400.0,
+        "low_price": 6300.0,
+        "close_price": 6390.0,
+        "volume": 3346278.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250907,
+        "open_price": 6340.0,
+        "high_price": 6340.0,
+        "low_price": 6180.0,
+        "close_price": 6220.0,
+        "volume": 1885109.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250906,
+        "open_price": 6070.0,
+        "high_price": 6220.0,
+        "low_price": 6070.0,
+        "close_price": 6190.0,
+        "volume": 3066990.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250903,
+        "open_price": 6070.0,
+        "high_price": 6070.0,
+        "low_price": 5900.0,
+        "close_price": 6040.0,
+        "volume": 5359160.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250902,
+        "open_price": 5880.0,
+        "high_price": 5910.0,
+        "low_price": 5750.0,
+        "close_price": 5900.0,
+        "volume": 2600627.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250831,
+        "open_price": 5740.0,
+        "high_price": 5800.0,
+        "low_price": 5580.0,
+        "close_price": 5740.0,
+        "volume": 2303317.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250830,
+        "open_price": 5760.0,
+        "high_price": 5760.0,
+        "low_price": 5630.0,
+        "close_price": 5650.0,
+        "volume": 3990054.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250827,
+        "open_price": 5840.0,
+        "high_price": 5890.0,
+        "low_price": 5740.0,
+        "close_price": 5800.0,
+        "volume": 2284272.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250826,
+        "open_price": 5750.0,
+        "high_price": 5800.0,
+        "low_price": 5700.0,
+        "close_price": 5730.0,
+        "volume": 2579726.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250825,
+        "open_price": 5840.0,
+        "high_price": 5840.0,
+        "low_price": 5680.0,
+        "close_price": 5710.0,
+        "volume": 13294543.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250823,
+        "open_price": 5830.0,
+        "high_price": 5840.0,
+        "low_price": 5670.0,
+        "close_price": 5720.0,
+        "volume": 2980252.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250820,
+        "open_price": 5780.0,
+        "high_price": 5780.0,
+        "low_price": 5630.0,
+        "close_price": 5670.0,
+        "volume": 6836199.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250819,
+        "open_price": 5550.0,
+        "high_price": 5760.0,
+        "low_price": 5540.0,
+        "close_price": 5670.0,
+        "volume": 5877592.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250818,
+        "open_price": 5870.0,
+        "high_price": 5870.0,
+        "low_price": 5630.0,
+        "close_price": 5710.0,
+        "volume": 3032016.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250817,
+        "open_price": 5650.0,
+        "high_price": 5720.0,
+        "low_price": 5560.0,
+        "close_price": 5700.0,
+        "volume": 4178787.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250816,
+        "open_price": 5550.0,
+        "high_price": 5700.0,
+        "low_price": 5550.0,
+        "close_price": 5560.0,
+        "volume": 7876697.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250813,
+        "open_price": 5670.0,
+        "high_price": 5670.0,
+        "low_price": 5670.0,
+        "close_price": 5720.0,
+        "volume": 1690423.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250812,
+        "open_price": 5800.0,
+        "high_price": 5840.0,
+        "low_price": 5800.0,
+        "close_price": 5840.0,
+        "volume": 1879657.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250811,
+        "open_price": 6230.0,
+        "high_price": 6230.0,
+        "low_price": 5930.0,
+        "close_price": 5970.0,
+        "volume": 5069667.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250810,
+        "open_price": 6270.0,
+        "high_price": 6280.0,
+        "low_price": 6000.0,
+        "close_price": 6110.0,
+        "volume": 3655596.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250809,
+        "open_price": 6100.0,
+        "high_price": 6280.0,
+        "low_price": 6050.0,
+        "close_price": 6120.0,
+        "volume": 4001204.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250806,
+        "open_price": 6250.0,
+        "high_price": 6250.0,
+        "low_price": 6180.0,
+        "close_price": 6180.0,
+        "volume": 3671257.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250805,
+        "open_price": 6350.0,
+        "high_price": 6390.0,
+        "low_price": 6260.0,
+        "close_price": 6370.0,
+        "volume": 6741883.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250804,
+        "open_price": 6100.0,
+        "high_price": 6310.0,
+        "low_price": 6100.0,
+        "close_price": 6210.0,
+        "volume": 3360192.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250803,
+        "open_price": 5890.0,
+        "high_price": 6240.0,
+        "low_price": 5890.0,
+        "close_price": 6170.0,
+        "volume": 8925140.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250802,
+        "open_price": 6050.0,
+        "high_price": 6300.0,
+        "low_price": 6050.0,
+        "close_price": 6060.0,
+        "volume": 17270173.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250730,
+        "open_price": 6170.0,
+        "high_price": 6170.0,
+        "low_price": 6170.0,
+        "close_price": 6230.0,
+        "volume": 1663466.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250729,
+        "open_price": 6270.0,
+        "high_price": 6270.0,
+        "low_price": 6270.0,
+        "close_price": 6360.0,
+        "volume": 1237370.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250728,
+        "open_price": 6720.0,
+        "high_price": 6720.0,
+        "low_price": 6430.0,
+        "close_price": 6460.0,
+        "volume": 4827488.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250727,
+        "open_price": 6640.0,
+        "high_price": 6640.0,
+        "low_price": 6440.0,
+        "close_price": 6620.0,
+        "volume": 43706471.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250726,
+        "open_price": 6450.0,
+        "high_price": 6450.0,
+        "low_price": 6450.0,
+        "close_price": 6450.0,
+        "volume": 6279745.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250723,
+        "open_price": 6290.0,
+        "high_price": 6310.0,
+        "low_price": 6030.0,
+        "close_price": 6270.0,
+        "volume": 28172870.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250722,
+        "open_price": 6130.0,
+        "high_price": 6130.0,
+        "low_price": 6130.0,
+        "close_price": 6130.0,
+        "volume": 11807793.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250721,
+        "open_price": 5960.0,
+        "high_price": 5960.0,
+        "low_price": 5960.0,
+        "close_price": 5960.0,
+        "volume": 5158810.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250720,
+        "open_price": 5790.0,
+        "high_price": 5790.0,
+        "low_price": 5790.0,
+        "close_price": 5790.0,
+        "volume": 3030761.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250719,
+        "open_price": 5640.0,
+        "high_price": 5640.0,
+        "low_price": 5640.0,
+        "close_price": 5630.0,
+        "volume": 2585381.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250716,
+        "open_price": 5550.0,
+        "high_price": 5560.0,
+        "low_price": 5470.0,
+        "close_price": 5480.0,
+        "volume": 1567348.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250715,
+        "open_price": 5450.0,
+        "high_price": 5450.0,
+        "low_price": 5330.0,
+        "close_price": 5400.0,
+        "volume": 7138612.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250714,
+        "open_price": 5260.0,
+        "high_price": 5350.0,
+        "low_price": 5210.0,
+        "close_price": 5300.0,
+        "volume": 3391389.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250713,
+        "open_price": 5370.0,
+        "high_price": 5370.0,
+        "low_price": 5140.0,
+        "close_price": 5200.0,
+        "volume": 9028804.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250712,
+        "open_price": 5290.0,
+        "high_price": 5290.0,
+        "low_price": 5260.0,
+        "close_price": 5290.0,
+        "volume": 6602755.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250709,
+        "open_price": 5080.0,
+        "high_price": 5280.0,
+        "low_price": 5080.0,
+        "close_price": 5140.0,
+        "volume": 10623582.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250708,
+        "open_price": 5430.0,
+        "high_price": 5430.0,
+        "low_price": 5230.0,
+        "close_price": 5230.0,
+        "volume": 4926005.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250707,
+        "open_price": 5430.0,
+        "high_price": 5430.0,
+        "low_price": 5270.0,
+        "close_price": 5390.0,
+        "volume": 4477339.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250702,
+        "open_price": 5250.0,
+        "high_price": 5550.0,
+        "low_price": 5250.0,
+        "close_price": 5280.0,
+        "volume": 48372327.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250701,
+        "open_price": 5310.0,
+        "high_price": 5310.0,
+        "low_price": 5310.0,
+        "close_price": 5410.0,
+        "volume": 967103.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250630,
+        "open_price": 5470.0,
+        "high_price": 5470.0,
+        "low_price": 5470.0,
+        "close_price": 5470.0,
+        "volume": 6389462.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250629,
+        "open_price": 5630.0,
+        "high_price": 5630.0,
+        "low_price": 5630.0,
+        "close_price": 5630.0,
+        "volume": 3262401.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250628,
+        "open_price": 5780.0,
+        "high_price": 5780.0,
+        "low_price": 5780.0,
+        "close_price": 5800.0,
+        "volume": 2295423.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5950.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5950.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5950.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5950.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5950.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5950.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5950.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5950.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250611,
+        "open_price": 6200.0,
+        "high_price": 6200.0,
+        "low_price": 5930.0,
+        "close_price": 5950.0,
+        "volume": 12095734.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250610,
+        "open_price": 6210.0,
+        "high_price": 6330.0,
+        "low_price": 6100.0,
+        "close_price": 6110.0,
+        "volume": 13609181.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250609,
+        "open_price": 6570.0,
+        "high_price": 6590.0,
+        "low_price": 6220.0,
+        "close_price": 6280.0,
+        "volume": 6859585.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250608,
+        "open_price": 6210.0,
+        "high_price": 6560.0,
+        "low_price": 6180.0,
+        "close_price": 6410.0,
+        "volume": 4631831.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250607,
+        "open_price": 6360.0,
+        "high_price": 6550.0,
+        "low_price": 6360.0,
+        "close_price": 6370.0,
+        "volume": 8747615.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250603,
+        "open_price": 6530.0,
+        "high_price": 6600.0,
+        "low_price": 6300.0,
+        "close_price": 6550.0,
+        "volume": 12209688.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250602,
+        "open_price": 6670.0,
+        "high_price": 6670.0,
+        "low_price": 6350.0,
+        "close_price": 6410.0,
+        "volume": 17890545.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250601,
+        "open_price": 6540.0,
+        "high_price": 6690.0,
+        "low_price": 6540.0,
+        "close_price": 6540.0,
+        "volume": 31977076.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250531,
+        "open_price": 6940.0,
+        "high_price": 6940.0,
+        "low_price": 6730.0,
+        "close_price": 6740.0,
+        "volume": 4669343.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250528,
+        "open_price": 7120.0,
+        "high_price": 7250.0,
+        "low_price": 6900.0,
+        "close_price": 6930.0,
+        "volume": 27058974.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250527,
+        "open_price": 7120.0,
+        "high_price": 7140.0,
+        "low_price": 6900.0,
+        "close_price": 7110.0,
+        "volume": 21731268.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250526,
+        "open_price": 6760.0,
+        "high_price": 6990.0,
+        "low_price": 6760.0,
+        "close_price": 6940.0,
+        "volume": 19073467.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250525,
+        "open_price": 6700.0,
+        "high_price": 6900.0,
+        "low_price": 6610.0,
+        "close_price": 6790.0,
+        "volume": 22946957.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250524,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6510.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250521,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250520,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250519,
+        "open_price": 7230.0,
+        "high_price": 7480.0,
+        "low_price": 7230.0,
+        "close_price": 7260.0,
+        "volume": 45510468.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250518,
+        "open_price": 7450.0,
+        "high_price": 7450.0,
+        "low_price": 7450.0,
+        "close_price": 7450.0,
+        "volume": 4562883.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250517,
+        "open_price": 7680.0,
+        "high_price": 7690.0,
+        "low_price": 7680.0,
+        "close_price": 7680.0,
+        "volume": 6395767.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250514,
+        "open_price": 7890.0,
+        "high_price": 7930.0,
+        "low_price": 7740.0,
+        "close_price": 7910.0,
+        "volume": 33181120.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250513,
+        "open_price": 7700.0,
+        "high_price": 7700.0,
+        "low_price": 7700.0,
+        "close_price": 7700.0,
+        "volume": 8825778.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250512,
+        "open_price": 7490.0,
+        "high_price": 7490.0,
+        "low_price": 7490.0,
+        "close_price": 7480.0,
+        "volume": 1991912.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250511,
+        "open_price": 7000.0,
+        "high_price": 7340.0,
+        "low_price": 7000.0,
+        "close_price": 7280.0,
+        "volume": 21294996.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250510,
+        "open_price": 7120.0,
+        "high_price": 7250.0,
+        "low_price": 7120.0,
+        "close_price": 7130.0,
+        "volume": 25697984.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250507,
+        "open_price": 7510.0,
+        "high_price": 7510.0,
+        "low_price": 7090.0,
+        "close_price": 7340.0,
+        "volume": 67892254.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250506,
+        "open_price": 7300.0,
+        "high_price": 7300.0,
+        "low_price": 7300.0,
+        "close_price": 7300.0,
+        "volume": 6250687.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250505,
+        "open_price": 7090.0,
+        "high_price": 7090.0,
+        "low_price": 7090.0,
+        "close_price": 7090.0,
+        "volume": 10305138.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250504,
+        "open_price": 6890.0,
+        "high_price": 6890.0,
+        "low_price": 6890.0,
+        "close_price": 6890.0,
+        "volume": 6168608.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250503,
+        "open_price": 6690.0,
+        "high_price": 6690.0,
+        "low_price": 6690.0,
+        "close_price": 6690.0,
+        "volume": 13992930.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250430,
+        "open_price": 6500.0,
+        "high_price": 6500.0,
+        "low_price": 6500.0,
+        "close_price": 6500.0,
+        "volume": 11946064.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250429,
+        "open_price": 6320.0,
+        "high_price": 6320.0,
+        "low_price": 6320.0,
+        "close_price": 6320.0,
+        "volume": 7993688.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250428,
+        "open_price": 6140.0,
+        "high_price": 6140.0,
+        "low_price": 6140.0,
+        "close_price": 6140.0,
+        "volume": 12221530.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250427,
+        "open_price": 5990.0,
+        "high_price": 6040.0,
+        "low_price": 5820.0,
+        "close_price": 5970.0,
+        "volume": 20009269.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250426,
+        "open_price": 6070.0,
+        "high_price": 6070.0,
+        "low_price": 5760.0,
+        "close_price": 5870.0,
+        "volume": 13356847.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250423,
+        "open_price": 6160.0,
+        "high_price": 6160.0,
+        "low_price": 5890.0,
+        "close_price": 5900.0,
+        "volume": 28048190.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250422,
+        "open_price": 6360.0,
+        "high_price": 6360.0,
+        "low_price": 6020.0,
+        "close_price": 6070.0,
+        "volume": 19393407.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250421,
+        "open_price": 6210.0,
+        "high_price": 6210.0,
+        "low_price": 6050.0,
+        "close_price": 6200.0,
+        "volume": 14355684.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250420,
+        "open_price": 6000.0,
+        "high_price": 6050.0,
+        "low_price": 5870.0,
+        "close_price": 6030.0,
+        "volume": 7494775.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250419,
+        "open_price": 5810.0,
+        "high_price": 5890.0,
+        "low_price": 5810.0,
+        "close_price": 5880.0,
+        "volume": 14112945.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250416,
+        "open_price": 5680.0,
+        "high_price": 5760.0,
+        "low_price": 5580.0,
+        "close_price": 5720.0,
+        "volume": 18976786.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250415,
+        "open_price": 5700.0,
+        "high_price": 5740.0,
+        "low_price": 5580.0,
+        "close_price": 5600.0,
+        "volume": 20080538.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250414,
+        "open_price": 5850.0,
+        "high_price": 5930.0,
+        "low_price": 5680.0,
+        "close_price": 5750.0,
+        "volume": 27971197.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250413,
+        "open_price": 5850.0,
+        "high_price": 5920.0,
+        "low_price": 5660.0,
+        "close_price": 5850.0,
+        "volume": 25258835.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250412,
+        "open_price": 5750.0,
+        "high_price": 5750.0,
+        "low_price": 5750.0,
+        "close_price": 5750.0,
+        "volume": 17427204.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250409,
+        "open_price": 6240.0,
+        "high_price": 6240.0,
+        "low_price": 5910.0,
+        "close_price": 5920.0,
+        "volume": 24164657.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250408,
+        "open_price": 5940.0,
+        "high_price": 6110.0,
+        "low_price": 5940.0,
+        "close_price": 6090.0,
+        "volume": 14331498.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250407,
+        "open_price": 5940.0,
+        "high_price": 5940.0,
+        "low_price": 5900.0,
+        "close_price": 5940.0,
+        "volume": 23861158.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250406,
+        "open_price": 5690.0,
+        "high_price": 5780.0,
+        "low_price": 5650.0,
+        "close_price": 5770.0,
+        "volume": 12066995.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250405,
+        "open_price": 5570.0,
+        "high_price": 5640.0,
+        "low_price": 5500.0,
+        "close_price": 5620.0,
+        "volume": 18827792.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250330,
+        "open_price": 5650.0,
+        "high_price": 5650.0,
+        "low_price": 5410.0,
+        "close_price": 5480.0,
+        "volume": 13189256.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250329,
+        "open_price": 5620.0,
+        "high_price": 5700.0,
+        "low_price": 5410.0,
+        "close_price": 5500.0,
+        "volume": 21457237.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250326,
+        "open_price": 5640.0,
+        "high_price": 5690.0,
+        "low_price": 5480.0,
+        "close_price": 5570.0,
+        "volume": 16713095.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250325,
+        "open_price": 5530.0,
+        "high_price": 5570.0,
+        "low_price": 5490.0,
+        "close_price": 5570.0,
+        "volume": 5753804.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250318,
+        "open_price": 5410.0,
+        "high_price": 5500.0,
+        "low_price": 5400.0,
+        "close_price": 5410.0,
+        "volume": 23561581.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250317,
+        "open_price": 5570.0,
+        "high_price": 5570.0,
+        "low_price": 5450.0,
+        "close_price": 5560.0,
+        "volume": 39453776.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250316,
+        "open_price": 5410.0,
+        "high_price": 5410.0,
+        "low_price": 5400.0,
+        "close_price": 5410.0,
+        "volume": 64582317.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250315,
+        "open_price": 5260.0,
+        "high_price": 5260.0,
+        "low_price": 5220.0,
+        "close_price": 5260.0,
+        "volume": 5742330.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250312,
+        "open_price": 5050.0,
+        "high_price": 5150.0,
+        "low_price": 4980.0,
+        "close_price": 5110.0,
+        "volume": 7933009.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250311,
+        "open_price": 5020.0,
+        "high_price": 5100.0,
+        "low_price": 4920.0,
+        "close_price": 5000.0,
+        "volume": 5755124.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250310,
+        "open_price": 4800.0,
+        "high_price": 5040.0,
+        "low_price": 4800.0,
+        "close_price": 5020.0,
+        "volume": 5705076.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250309,
+        "open_price": 4920.0,
+        "high_price": 5020.0,
+        "low_price": 4840.0,
+        "close_price": 4900.0,
+        "volume": 9513130.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250308,
+        "open_price": 5150.0,
+        "high_price": 5150.0,
+        "low_price": 4910.0,
+        "close_price": 4980.0,
+        "volume": 4969589.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250305,
+        "open_price": 5010.0,
+        "high_price": 5210.0,
+        "low_price": 4940.0,
+        "close_price": 5050.0,
+        "volume": 3840067.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250304,
+        "open_price": 4970.0,
+        "high_price": 5150.0,
+        "low_price": 4970.0,
+        "close_price": 5060.0,
+        "volume": 3664617.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250303,
+        "open_price": 5050.0,
+        "high_price": 5120.0,
+        "low_price": 5030.0,
+        "close_price": 5040.0,
+        "volume": 6630780.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250302,
+        "open_price": 5270.0,
+        "high_price": 5310.0,
+        "low_price": 5150.0,
+        "close_price": 5180.0,
+        "volume": 11208914.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250301,
+        "open_price": 5340.0,
+        "high_price": 5370.0,
+        "low_price": 5250.0,
+        "close_price": 5300.0,
+        "volume": 7713565.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250226,
+        "open_price": 5520.0,
+        "high_price": 5520.0,
+        "low_price": 5290.0,
+        "close_price": 5340.0,
+        "volume": 7218920.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250225,
+        "open_price": 5500.0,
+        "high_price": 5550.0,
+        "low_price": 5290.0,
+        "close_price": 5420.0,
+        "volume": 7757799.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250224,
+        "open_price": 5300.0,
+        "high_price": 5430.0,
+        "low_price": 5300.0,
+        "close_price": 5390.0,
+        "volume": 7189672.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250223,
+        "open_price": 5220.0,
+        "high_price": 5380.0,
+        "low_price": 5220.0,
+        "close_price": 5300.0,
+        "volume": 4408813.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250222,
+        "open_price": 5500.0,
+        "high_price": 5500.0,
+        "low_price": 5180.0,
+        "close_price": 5290.0,
+        "volume": 11518215.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250219,
+        "open_price": 5320.0,
+        "high_price": 5340.0,
+        "low_price": 5320.0,
+        "close_price": 5340.0,
+        "volume": 5363093.0
+    },
+    {
+        "symbol": "سخاش",
+        "trade_date": 20250218,
+        "open_price": 5190.0,
+        "high_price": 5210.0,
+        "low_price": 5090.0,
+        "close_price": 5190.0,
+        "volume": 5060265.0
+    }
+]

@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260901,
+        "open_price": 2959.0,
+        "high_price": 2959.0,
+        "low_price": 2803.0,
+        "close_price": 2865.0,
+        "volume": 31009315.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260831,
+        "open_price": 2876.0,
+        "high_price": 2990.0,
+        "low_price": 2876.0,
+        "close_price": 2889.0,
+        "volume": 50269692.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260829,
+        "open_price": 2962.0,
+        "high_price": 2991.0,
+        "low_price": 2912.0,
+        "close_price": 2964.0,
+        "volume": 35406545.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260826,
+        "open_price": 2900.0,
+        "high_price": 2910.0,
+        "low_price": 2844.0,
+        "close_price": 2908.0,
+        "volume": 41257861.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260825,
+        "open_price": 2790.0,
+        "high_price": 2880.0,
+        "low_price": 2769.0,
+        "close_price": 2826.0,
+        "volume": 62850048.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260824,
+        "open_price": 2921.0,
+        "high_price": 2921.0,
+        "low_price": 2783.0,
+        "close_price": 2850.0,
+        "volume": 39639380.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260823,
+        "open_price": 2921.0,
+        "high_price": 2921.0,
+        "low_price": 2764.0,
+        "close_price": 2869.0,
+        "volume": 45596054.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260822,
+        "open_price": 2798.0,
+        "high_price": 2838.0,
+        "low_price": 2798.0,
+        "close_price": 2836.0,
+        "volume": 31717862.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260819,
+        "open_price": 2610.0,
+        "high_price": 2763.0,
+        "low_price": 2610.0,
+        "close_price": 2756.0,
+        "volume": 44341192.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260818,
+        "open_price": 2790.0,
+        "high_price": 2790.0,
+        "low_price": 2638.0,
+        "close_price": 2683.0,
+        "volume": 41916449.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260817,
+        "open_price": 2720.0,
+        "high_price": 2720.0,
+        "low_price": 2661.0,
+        "close_price": 2719.0,
+        "volume": 38688444.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260816,
+        "open_price": 2608.0,
+        "high_price": 2641.0,
+        "low_price": 2608.0,
+        "close_price": 2641.0,
+        "volume": 61054097.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260815,
+        "open_price": 2572.0,
+        "high_price": 2575.0,
+        "low_price": 2475.0,
+        "close_price": 2565.0,
+        "volume": 68947236.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260811,
+        "open_price": 2557.0,
+        "high_price": 2557.0,
+        "low_price": 2409.0,
+        "close_price": 2500.0,
+        "volume": 48697750.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260810,
+        "open_price": 2401.0,
+        "high_price": 2530.0,
+        "low_price": 2401.0,
+        "close_price": 2483.0,
+        "volume": 41453357.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260809,
+        "open_price": 2599.0,
+        "high_price": 2599.0,
+        "low_price": 2458.0,
+        "close_price": 2465.0,
+        "volume": 42710989.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260808,
+        "open_price": 2535.0,
+        "high_price": 2535.0,
+        "low_price": 2504.0,
+        "close_price": 2533.0,
+        "volume": 60670293.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260805,
+        "open_price": 2462.0,
+        "high_price": 2462.0,
+        "low_price": 2462.0,
+        "close_price": 2462.0,
+        "volume": 11493080.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260803,
+        "open_price": 2391.0,
+        "high_price": 2391.0,
+        "low_price": 2381.0,
+        "close_price": 2391.0,
+        "volume": 16131646.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260802,
+        "open_price": 2305.0,
+        "high_price": 2342.0,
+        "low_price": 2245.0,
+        "close_price": 2322.0,
+        "volume": 39805751.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260801,
+        "open_price": 2302.0,
+        "high_price": 2303.0,
+        "low_price": 2216.0,
+        "close_price": 2274.0,
+        "volume": 23064083.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260729,
+        "open_price": 2190.0,
+        "high_price": 2253.0,
+        "low_price": 2139.0,
+        "close_price": 2238.0,
+        "volume": 44215557.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260728,
+        "open_price": 2187.0,
+        "high_price": 2191.0,
+        "low_price": 2130.0,
+        "close_price": 2188.0,
+        "volume": 20334636.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260727,
+        "open_price": 2135.0,
+        "high_price": 2135.0,
+        "low_price": 2081.0,
+        "close_price": 2128.0,
+        "volume": 37372803.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260726,
+        "open_price": 2073.0,
+        "high_price": 2073.0,
+        "low_price": 2073.0,
+        "close_price": 2073.0,
+        "volume": 32461197.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260725,
+        "open_price": 2083.0,
+        "high_price": 2084.0,
+        "low_price": 1964.0,
+        "close_price": 2013.0,
+        "volume": 20243504.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260722,
+        "open_price": 2025.0,
+        "high_price": 2077.0,
+        "low_price": 1961.0,
+        "close_price": 2024.0,
+        "volume": 44012409.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260721,
+        "open_price": 2006.0,
+        "high_price": 2021.0,
+        "low_price": 1980.0,
+        "close_price": 2021.0,
+        "volume": 23311395.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260720,
+        "open_price": 1949.0,
+        "high_price": 1964.0,
+        "low_price": 1940.0,
+        "close_price": 1963.0,
+        "volume": 30250824.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260719,
+        "open_price": 1832.0,
+        "high_price": 1943.0,
+        "low_price": 1831.0,
+        "close_price": 1907.0,
+        "volume": 26436126.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260718,
+        "open_price": 1887.0,
+        "high_price": 1933.0,
+        "low_price": 1887.0,
+        "close_price": 1887.0,
+        "volume": 21709993.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260715,
+        "open_price": 1895.0,
+        "high_price": 1964.0,
+        "low_price": 1860.0,
+        "close_price": 1945.0,
+        "volume": 30992306.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260714,
+        "open_price": 1891.0,
+        "high_price": 1954.0,
+        "low_price": 1891.0,
+        "close_price": 1907.0,
+        "volume": 26096452.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260713,
+        "open_price": 1900.0,
+        "high_price": 1986.0,
+        "low_price": 1900.0,
+        "close_price": 1949.0,
+        "volume": 40533904.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260712,
+        "open_price": 1925.0,
+        "high_price": 1990.0,
+        "low_price": 1925.0,
+        "close_price": 1929.0,
+        "volume": 16752815.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260711,
+        "open_price": 1984.0,
+        "high_price": 1999.0,
+        "low_price": 1984.0,
+        "close_price": 1984.0,
+        "volume": 24844739.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260708,
+        "open_price": 2045.0,
+        "high_price": 2097.0,
+        "low_price": 2044.0,
+        "close_price": 2045.0,
+        "volume": 24566746.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260707,
+        "open_price": 2107.0,
+        "high_price": 2107.0,
+        "low_price": 2107.0,
+        "close_price": 2107.0,
+        "volume": 7493111.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260701,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2046.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260630,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2046.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260629,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2486.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260628,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2486.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260627,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2486.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2486.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260622,
+        "open_price": 2540.0,
+        "high_price": 2540.0,
+        "low_price": 2410.0,
+        "close_price": 2486.0,
+        "volume": 23714143.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260621,
+        "open_price": 2489.0,
+        "high_price": 2489.0,
+        "low_price": 2400.0,
+        "close_price": 2482.0,
+        "volume": 72171316.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260620,
+        "open_price": 2490.0,
+        "high_price": 2490.0,
+        "low_price": 2363.0,
+        "close_price": 2417.0,
+        "volume": 51694551.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260617,
+        "open_price": 2414.0,
+        "high_price": 2503.0,
+        "low_price": 2413.0,
+        "close_price": 2436.0,
+        "volume": 39564102.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260616,
+        "open_price": 2596.0,
+        "high_price": 2596.0,
+        "low_price": 2446.0,
+        "close_price": 2487.0,
+        "volume": 53372783.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260615,
+        "open_price": 2521.0,
+        "high_price": 2521.0,
+        "low_price": 2521.0,
+        "close_price": 2521.0,
+        "volume": 5742875.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260614,
+        "open_price": 2448.0,
+        "high_price": 2448.0,
+        "low_price": 2448.0,
+        "close_price": 2448.0,
+        "volume": 10948407.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260613,
+        "open_price": 2377.0,
+        "high_price": 2377.0,
+        "low_price": 2376.0,
+        "close_price": 2377.0,
+        "volume": 10928141.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260610,
+        "open_price": 2285.0,
+        "high_price": 2388.0,
+        "low_price": 2273.0,
+        "close_price": 2308.0,
+        "volume": 20461546.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260609,
+        "open_price": 2291.0,
+        "high_price": 2349.0,
+        "low_price": 2291.0,
+        "close_price": 2343.0,
+        "volume": 22841145.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260608,
+        "open_price": 2281.0,
+        "high_price": 2281.0,
+        "low_price": 2281.0,
+        "close_price": 2281.0,
+        "volume": 6696884.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260607,
+        "open_price": 2241.0,
+        "high_price": 2355.0,
+        "low_price": 2241.0,
+        "close_price": 2351.0,
+        "volume": 28795287.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260606,
+        "open_price": 2284.0,
+        "high_price": 2350.0,
+        "low_price": 2284.0,
+        "close_price": 2287.0,
+        "volume": 31530767.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260603,
+        "open_price": 2354.0,
+        "high_price": 2354.0,
+        "low_price": 2354.0,
+        "close_price": 2354.0,
+        "volume": 4652480.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260602,
+        "open_price": 2427.0,
+        "high_price": 2427.0,
+        "low_price": 2426.0,
+        "close_price": 2426.0,
+        "volume": 19020000.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260601,
+        "open_price": 2585.0,
+        "high_price": 2585.0,
+        "low_price": 2435.0,
+        "close_price": 2501.0,
+        "volume": 42037816.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260531,
+        "open_price": 2510.0,
+        "high_price": 2510.0,
+        "low_price": 2500.0,
+        "close_price": 2510.0,
+        "volume": 30401636.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260530,
+        "open_price": 2430.0,
+        "high_price": 2440.0,
+        "low_price": 2390.0,
+        "close_price": 2437.0,
+        "volume": 16754065.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260526,
+        "open_price": 2358.0,
+        "high_price": 2426.0,
+        "low_price": 2356.0,
+        "close_price": 2369.0,
+        "volume": 35175895.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260525,
+        "open_price": 2475.0,
+        "high_price": 2475.0,
+        "low_price": 2350.0,
+        "close_price": 2428.0,
+        "volume": 56748020.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260524,
+        "open_price": 2360.0,
+        "high_price": 2430.0,
+        "low_price": 2360.0,
+        "close_price": 2409.0,
+        "volume": 80178743.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260523,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1991.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260520,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1991.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260519,
+        "open_price": 1994.0,
+        "high_price": 1994.0,
+        "low_price": 1936.0,
+        "close_price": 1991.0,
+        "volume": 8750409.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1936.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260225,
+        "open_price": 1950.0,
+        "high_price": 1979.0,
+        "low_price": 1895.0,
+        "close_price": 1936.0,
+        "volume": 2122346.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260224,
+        "open_price": 1907.0,
+        "high_price": 2009.0,
+        "low_price": 1903.0,
+        "close_price": 1929.0,
+        "volume": 3299111.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260223,
+        "open_price": 1917.0,
+        "high_price": 1973.0,
+        "low_price": 1917.0,
+        "close_price": 1961.0,
+        "volume": 1941768.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260222,
+        "open_price": 1916.0,
+        "high_price": 1916.0,
+        "low_price": 1916.0,
+        "close_price": 1916.0,
+        "volume": 4422586.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260221,
+        "open_price": 1981.0,
+        "high_price": 1983.0,
+        "low_price": 1974.0,
+        "close_price": 1975.0,
+        "volume": 6971924.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260218,
+        "open_price": 2069.0,
+        "high_price": 2069.0,
+        "low_price": 2018.0,
+        "close_price": 2035.0,
+        "volume": 5266735.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260217,
+        "open_price": 2038.0,
+        "high_price": 2039.0,
+        "low_price": 1990.0,
+        "close_price": 2020.0,
+        "volume": 5010627.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260216,
+        "open_price": 1980.0,
+        "high_price": 2025.0,
+        "low_price": 1958.0,
+        "close_price": 1980.0,
+        "volume": 5226119.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260215,
+        "open_price": 2073.0,
+        "high_price": 2073.0,
+        "low_price": 1964.0,
+        "close_price": 1979.0,
+        "volume": 11210824.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260214,
+        "open_price": 2090.0,
+        "high_price": 2090.0,
+        "low_price": 1995.0,
+        "close_price": 2024.0,
+        "volume": 21936435.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260210,
+        "open_price": 2035.0,
+        "high_price": 2069.0,
+        "low_price": 2023.0,
+        "close_price": 2048.0,
+        "volume": 7251218.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260209,
+        "open_price": 2081.0,
+        "high_price": 2081.0,
+        "low_price": 2009.0,
+        "close_price": 2027.0,
+        "volume": 15941077.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260208,
+        "open_price": 2124.0,
+        "high_price": 2124.0,
+        "low_price": 2034.0,
+        "close_price": 2071.0,
+        "volume": 15611459.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260207,
+        "open_price": 2065.0,
+        "high_price": 2065.0,
+        "low_price": 2020.0,
+        "close_price": 2063.0,
+        "volume": 9945440.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260203,
+        "open_price": 2090.0,
+        "high_price": 2090.0,
+        "low_price": 2000.0,
+        "close_price": 2005.0,
+        "volume": 19212681.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260202,
+        "open_price": 2069.0,
+        "high_price": 2073.0,
+        "low_price": 2040.0,
+        "close_price": 2061.0,
+        "volume": 7921600.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260201,
+        "open_price": 1972.0,
+        "high_price": 2050.0,
+        "low_price": 1972.0,
+        "close_price": 2013.0,
+        "volume": 12268856.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260131,
+        "open_price": 2013.0,
+        "high_price": 2090.0,
+        "low_price": 2013.0,
+        "close_price": 2015.0,
+        "volume": 50566332.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260128,
+        "open_price": 2075.0,
+        "high_price": 2075.0,
+        "low_price": 2075.0,
+        "close_price": 2075.0,
+        "volume": 10240159.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260127,
+        "open_price": 2139.0,
+        "high_price": 2139.0,
+        "low_price": 2139.0,
+        "close_price": 2139.0,
+        "volume": 6177649.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260126,
+        "open_price": 2205.0,
+        "high_price": 2205.0,
+        "low_price": 2205.0,
+        "close_price": 2205.0,
+        "volume": 5827110.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260125,
+        "open_price": 2273.0,
+        "high_price": 2273.0,
+        "low_price": 2273.0,
+        "close_price": 2273.0,
+        "volume": 6070316.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260124,
+        "open_price": 2343.0,
+        "high_price": 2350.0,
+        "low_price": 2343.0,
+        "close_price": 2343.0,
+        "volume": 19581387.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260121,
+        "open_price": 2393.0,
+        "high_price": 2490.0,
+        "low_price": 2391.0,
+        "close_price": 2415.0,
+        "volume": 28355170.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260120,
+        "open_price": 2402.0,
+        "high_price": 2461.0,
+        "low_price": 2402.0,
+        "close_price": 2452.0,
+        "volume": 13773599.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260119,
+        "open_price": 2393.0,
+        "high_price": 2396.0,
+        "low_price": 2335.0,
+        "close_price": 2390.0,
+        "volume": 25115262.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260118,
+        "open_price": 2325.0,
+        "high_price": 2327.0,
+        "low_price": 2302.0,
+        "close_price": 2327.0,
+        "volume": 20829127.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260114,
+        "open_price": 2300.0,
+        "high_price": 2300.0,
+        "low_price": 2235.0,
+        "close_price": 2260.0,
+        "volume": 35465316.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260113,
+        "open_price": 2416.0,
+        "high_price": 2416.0,
+        "low_price": 2289.0,
+        "close_price": 2304.0,
+        "volume": 26428510.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260112,
+        "open_price": 2301.0,
+        "high_price": 2417.0,
+        "low_price": 2301.0,
+        "close_price": 2359.0,
+        "volume": 11629019.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260111,
+        "open_price": 2328.0,
+        "high_price": 2435.0,
+        "low_price": 2328.0,
+        "close_price": 2347.0,
+        "volume": 22451609.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260110,
+        "open_price": 2399.0,
+        "high_price": 2402.0,
+        "low_price": 2399.0,
+        "close_price": 2399.0,
+        "volume": 19612216.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260107,
+        "open_price": 2600.0,
+        "high_price": 2600.0,
+        "low_price": 2467.0,
+        "close_price": 2473.0,
+        "volume": 20263883.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260106,
+        "open_price": 2406.0,
+        "high_price": 2547.0,
+        "low_price": 2406.0,
+        "close_price": 2543.0,
+        "volume": 28709572.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260105,
+        "open_price": 2416.0,
+        "high_price": 2474.0,
+        "low_price": 2416.0,
+        "close_price": 2473.0,
+        "volume": 25797673.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20260104,
+        "open_price": 2402.0,
+        "high_price": 2435.0,
+        "low_price": 2402.0,
+        "close_price": 2402.0,
+        "volume": 103493902.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251231,
+        "open_price": 2476.0,
+        "high_price": 2476.0,
+        "low_price": 2476.0,
+        "close_price": 2476.0,
+        "volume": 27880592.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251230,
+        "open_price": 2552.0,
+        "high_price": 2552.0,
+        "low_price": 2552.0,
+        "close_price": 2552.0,
+        "volume": 13446016.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251229,
+        "open_price": 2710.0,
+        "high_price": 2748.0,
+        "low_price": 2618.0,
+        "close_price": 2630.0,
+        "volume": 13422259.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251228,
+        "open_price": 2699.0,
+        "high_price": 2750.0,
+        "low_price": 2650.0,
+        "close_price": 2698.0,
+        "volume": 18452203.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251227,
+        "open_price": 2750.0,
+        "high_price": 2780.0,
+        "low_price": 2639.0,
+        "close_price": 2707.0,
+        "volume": 41886829.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251224,
+        "open_price": 2724.0,
+        "high_price": 2724.0,
+        "low_price": 2671.0,
+        "close_price": 2720.0,
+        "volume": 53847996.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251223,
+        "open_price": 2579.0,
+        "high_price": 2655.0,
+        "low_price": 2578.0,
+        "close_price": 2645.0,
+        "volume": 52074472.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251222,
+        "open_price": 2632.0,
+        "high_price": 2632.0,
+        "low_price": 2534.0,
+        "close_price": 2578.0,
+        "volume": 34634790.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251221,
+        "open_price": 2670.0,
+        "high_price": 2670.0,
+        "low_price": 2553.0,
+        "close_price": 2587.0,
+        "volume": 19361465.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251220,
+        "open_price": 2580.0,
+        "high_price": 2627.0,
+        "low_price": 2580.0,
+        "close_price": 2613.0,
+        "volume": 13694824.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251217,
+        "open_price": 2568.0,
+        "high_price": 2579.0,
+        "low_price": 2485.0,
+        "close_price": 2552.0,
+        "volume": 10688971.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251216,
+        "open_price": 2548.0,
+        "high_price": 2584.0,
+        "low_price": 2440.0,
+        "close_price": 2506.0,
+        "volume": 17625489.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251215,
+        "open_price": 2484.0,
+        "high_price": 2536.0,
+        "low_price": 2484.0,
+        "close_price": 2512.0,
+        "volume": 14533524.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251214,
+        "open_price": 2537.0,
+        "high_price": 2537.0,
+        "low_price": 2459.0,
+        "close_price": 2474.0,
+        "volume": 44014541.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251213,
+        "open_price": 2510.0,
+        "high_price": 2546.0,
+        "low_price": 2491.0,
+        "close_price": 2535.0,
+        "volume": 22080081.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251210,
+        "open_price": 2472.0,
+        "high_price": 2472.0,
+        "low_price": 2454.0,
+        "close_price": 2472.0,
+        "volume": 24820545.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251209,
+        "open_price": 2400.0,
+        "high_price": 2440.0,
+        "low_price": 2322.0,
+        "close_price": 2400.0,
+        "volume": 32811621.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251208,
+        "open_price": 2382.0,
+        "high_price": 2400.0,
+        "low_price": 2356.0,
+        "close_price": 2369.0,
+        "volume": 9499944.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251207,
+        "open_price": 2413.0,
+        "high_price": 2420.0,
+        "low_price": 2337.0,
+        "close_price": 2356.0,
+        "volume": 19587862.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251206,
+        "open_price": 2388.0,
+        "high_price": 2421.0,
+        "low_price": 2362.0,
+        "close_price": 2409.0,
+        "volume": 16390819.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251203,
+        "open_price": 2315.0,
+        "high_price": 2400.0,
+        "low_price": 2305.0,
+        "close_price": 2351.0,
+        "volume": 13801652.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251202,
+        "open_price": 2395.0,
+        "high_price": 2395.0,
+        "low_price": 2350.0,
+        "close_price": 2373.0,
+        "volume": 10250753.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251201,
+        "open_price": 2369.0,
+        "high_price": 2418.0,
+        "low_price": 2342.0,
+        "close_price": 2376.0,
+        "volume": 19797229.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251130,
+        "open_price": 2401.0,
+        "high_price": 2430.0,
+        "low_price": 2331.0,
+        "close_price": 2364.0,
+        "volume": 24165564.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251129,
+        "open_price": 2333.0,
+        "high_price": 2378.0,
+        "low_price": 2333.0,
+        "close_price": 2378.0,
+        "volume": 37513465.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251126,
+        "open_price": 2300.0,
+        "high_price": 2345.0,
+        "low_price": 2271.0,
+        "close_price": 2309.0,
+        "volume": 9398341.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251125,
+        "open_price": 2286.0,
+        "high_price": 2331.0,
+        "low_price": 2264.0,
+        "close_price": 2294.0,
+        "volume": 4389786.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251123,
+        "open_price": 2240.0,
+        "high_price": 2274.0,
+        "low_price": 2217.0,
+        "close_price": 2264.0,
+        "volume": 14136495.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251122,
+        "open_price": 2220.0,
+        "high_price": 2244.0,
+        "low_price": 2160.0,
+        "close_price": 2208.0,
+        "volume": 6366435.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251119,
+        "open_price": 2200.0,
+        "high_price": 2248.0,
+        "low_price": 2200.0,
+        "close_price": 2220.0,
+        "volume": 2164746.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251118,
+        "open_price": 2200.0,
+        "high_price": 2267.0,
+        "low_price": 2155.0,
+        "close_price": 2218.0,
+        "volume": 9166179.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251117,
+        "open_price": 2204.0,
+        "high_price": 2204.0,
+        "low_price": 2176.0,
+        "close_price": 2202.0,
+        "volume": 12569424.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251116,
+        "open_price": 2130.0,
+        "high_price": 2187.0,
+        "low_price": 2114.0,
+        "close_price": 2140.0,
+        "volume": 10181028.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251115,
+        "open_price": 2201.0,
+        "high_price": 2201.0,
+        "low_price": 2110.0,
+        "close_price": 2150.0,
+        "volume": 7595703.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251112,
+        "open_price": 2120.0,
+        "high_price": 2198.0,
+        "low_price": 2120.0,
+        "close_price": 2168.0,
+        "volume": 9990158.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251111,
+        "open_price": 2224.0,
+        "high_price": 2224.0,
+        "low_price": 2103.0,
+        "close_price": 2167.0,
+        "volume": 2523974.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251110,
+        "open_price": 2162.0,
+        "high_price": 2215.0,
+        "low_price": 2162.0,
+        "close_price": 2166.0,
+        "volume": 10328921.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251109,
+        "open_price": 2265.0,
+        "high_price": 2265.0,
+        "low_price": 2228.0,
+        "close_price": 2228.0,
+        "volume": 21205632.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251108,
+        "open_price": 2345.0,
+        "high_price": 2348.0,
+        "low_price": 2268.0,
+        "close_price": 2296.0,
+        "volume": 3933104.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251105,
+        "open_price": 2300.0,
+        "high_price": 2330.0,
+        "low_price": 2278.0,
+        "close_price": 2281.0,
+        "volume": 15994340.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251104,
+        "open_price": 2400.0,
+        "high_price": 2400.0,
+        "low_price": 2344.0,
+        "close_price": 2348.0,
+        "volume": 12567733.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251103,
+        "open_price": 2478.0,
+        "high_price": 2478.0,
+        "low_price": 2395.0,
+        "close_price": 2416.0,
+        "volume": 6704101.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251102,
+        "open_price": 2434.0,
+        "high_price": 2469.0,
+        "low_price": 2360.0,
+        "close_price": 2409.0,
+        "volume": 12487450.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251101,
+        "open_price": 2457.0,
+        "high_price": 2514.0,
+        "low_price": 2387.0,
+        "close_price": 2423.0,
+        "volume": 12662974.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251029,
+        "open_price": 2448.0,
+        "high_price": 2448.0,
+        "low_price": 2401.0,
+        "close_price": 2446.0,
+        "volume": 35999926.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251028,
+        "open_price": 2377.0,
+        "high_price": 2377.0,
+        "low_price": 2377.0,
+        "close_price": 2377.0,
+        "volume": 31009322.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251027,
+        "open_price": 2341.0,
+        "high_price": 2341.0,
+        "low_price": 2279.0,
+        "close_price": 2308.0,
+        "volume": 7908943.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251026,
+        "open_price": 2329.0,
+        "high_price": 2333.0,
+        "low_price": 2270.0,
+        "close_price": 2302.0,
+        "volume": 6676819.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251025,
+        "open_price": 2261.0,
+        "high_price": 2362.0,
+        "low_price": 2261.0,
+        "close_price": 2274.0,
+        "volume": 14959151.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251022,
+        "open_price": 2381.0,
+        "high_price": 2439.0,
+        "low_price": 2315.0,
+        "close_price": 2330.0,
+        "volume": 25541866.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251021,
+        "open_price": 2338.0,
+        "high_price": 2471.0,
+        "low_price": 2338.0,
+        "close_price": 2386.0,
+        "volume": 5410439.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251020,
+        "open_price": 2490.0,
+        "high_price": 2490.0,
+        "low_price": 2400.0,
+        "close_price": 2409.0,
+        "volume": 10521014.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251019,
+        "open_price": 2520.0,
+        "high_price": 2520.0,
+        "low_price": 2414.0,
+        "close_price": 2474.0,
+        "volume": 8636269.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251018,
+        "open_price": 2410.0,
+        "high_price": 2448.0,
+        "low_price": 2410.0,
+        "close_price": 2447.0,
+        "volume": 15941646.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251015,
+        "open_price": 2312.0,
+        "high_price": 2418.0,
+        "low_price": 2312.0,
+        "close_price": 2377.0,
+        "volume": 3598745.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251014,
+        "open_price": 2490.0,
+        "high_price": 2490.0,
+        "low_price": 2354.0,
+        "close_price": 2382.0,
+        "volume": 12441775.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251013,
+        "open_price": 2442.0,
+        "high_price": 2442.0,
+        "low_price": 2378.0,
+        "close_price": 2426.0,
+        "volume": 12348486.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251012,
+        "open_price": 2357.0,
+        "high_price": 2372.0,
+        "low_price": 2356.0,
+        "close_price": 2371.0,
+        "volume": 12648088.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251011,
+        "open_price": 2355.0,
+        "high_price": 2355.0,
+        "low_price": 2276.0,
+        "close_price": 2303.0,
+        "volume": 9897496.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251008,
+        "open_price": 2400.0,
+        "high_price": 2400.0,
+        "low_price": 2278.0,
+        "close_price": 2289.0,
+        "volume": 12531920.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251007,
+        "open_price": 2320.0,
+        "high_price": 2380.0,
+        "low_price": 2285.0,
+        "close_price": 2348.0,
+        "volume": 6646080.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251006,
+        "open_price": 2362.0,
+        "high_price": 2362.0,
+        "low_price": 2251.0,
+        "close_price": 2341.0,
+        "volume": 11927521.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251005,
+        "open_price": 2299.0,
+        "high_price": 2299.0,
+        "low_price": 2245.0,
+        "close_price": 2294.0,
+        "volume": 18717228.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251004,
+        "open_price": 2229.0,
+        "high_price": 2233.0,
+        "low_price": 2204.0,
+        "close_price": 2233.0,
+        "volume": 8461195.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20251001,
+        "open_price": 2180.0,
+        "high_price": 2233.0,
+        "low_price": 2161.0,
+        "close_price": 2168.0,
+        "volume": 12858879.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250930,
+        "open_price": 2238.0,
+        "high_price": 2238.0,
+        "low_price": 2175.0,
+        "close_price": 2227.0,
+        "volume": 26939547.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250929,
+        "open_price": 2175.0,
+        "high_price": 2175.0,
+        "low_price": 2175.0,
+        "close_price": 2173.0,
+        "volume": 7224843.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250928,
+        "open_price": 2112.0,
+        "high_price": 2112.0,
+        "low_price": 2112.0,
+        "close_price": 2112.0,
+        "volume": 9692469.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250927,
+        "open_price": 1948.0,
+        "high_price": 2068.0,
+        "low_price": 1948.0,
+        "close_price": 2051.0,
+        "volume": 13310547.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250924,
+        "open_price": 2006.0,
+        "high_price": 2049.0,
+        "low_price": 2006.0,
+        "close_price": 2008.0,
+        "volume": 13598994.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250923,
+        "open_price": 2180.0,
+        "high_price": 2180.0,
+        "low_price": 2066.0,
+        "close_price": 2068.0,
+        "volume": 7612404.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250922,
+        "open_price": 2085.0,
+        "high_price": 2212.0,
+        "low_price": 2084.0,
+        "close_price": 2129.0,
+        "volume": 24794466.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250921,
+        "open_price": 2148.0,
+        "high_price": 2148.0,
+        "low_price": 2148.0,
+        "close_price": 2148.0,
+        "volume": 15854750.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250920,
+        "open_price": 2212.0,
+        "high_price": 2212.0,
+        "low_price": 2212.0,
+        "close_price": 2214.0,
+        "volume": 6422345.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250917,
+        "open_price": 2249.0,
+        "high_price": 2301.0,
+        "low_price": 2208.0,
+        "close_price": 2280.0,
+        "volume": 7231864.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250916,
+        "open_price": 2220.0,
+        "high_price": 2250.0,
+        "low_price": 2174.0,
+        "close_price": 2234.0,
+        "volume": 28977847.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250915,
+        "open_price": 2185.0,
+        "high_price": 2185.0,
+        "low_price": 2185.0,
+        "close_price": 2185.0,
+        "volume": 12628607.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250914,
+        "open_price": 2122.0,
+        "high_price": 2122.0,
+        "low_price": 2122.0,
+        "close_price": 2122.0,
+        "volume": 8571685.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250913,
+        "open_price": 2061.0,
+        "high_price": 2061.0,
+        "low_price": 2061.0,
+        "close_price": 2061.0,
+        "volume": 21303303.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250909,
+        "open_price": 2001.0,
+        "high_price": 2001.0,
+        "low_price": 2001.0,
+        "close_price": 2001.0,
+        "volume": 13479512.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250908,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1943.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250907,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1943.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250906,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2697.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250903,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2697.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250902,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2697.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250831,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2697.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250830,
+        "open_price": 2693.0,
+        "high_price": 2780.0,
+        "low_price": 2693.0,
+        "close_price": 2697.0,
+        "volume": 5804315.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250827,
+        "open_price": 2650.0,
+        "high_price": 2809.0,
+        "low_price": 2650.0,
+        "close_price": 2776.0,
+        "volume": 4204440.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250826,
+        "open_price": 2724.0,
+        "high_price": 2800.0,
+        "low_price": 2723.0,
+        "close_price": 2728.0,
+        "volume": 7387042.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250825,
+        "open_price": 2771.0,
+        "high_price": 2864.0,
+        "low_price": 2764.0,
+        "close_price": 2807.0,
+        "volume": 2692557.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250823,
+        "open_price": 2906.0,
+        "high_price": 2906.0,
+        "low_price": 2837.0,
+        "close_price": 2849.0,
+        "volume": 6714847.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250820,
+        "open_price": 2760.0,
+        "high_price": 2927.0,
+        "low_price": 2758.0,
+        "close_price": 2827.0,
+        "volume": 6762591.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250819,
+        "open_price": 2824.0,
+        "high_price": 2896.0,
+        "low_price": 2823.0,
+        "close_price": 2843.0,
+        "volume": 4050270.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250818,
+        "open_price": 2999.0,
+        "high_price": 3063.0,
+        "low_price": 2905.0,
+        "close_price": 2910.0,
+        "volume": 13062774.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250817,
+        "open_price": 2889.0,
+        "high_price": 3055.0,
+        "low_price": 2889.0,
+        "close_price": 2994.0,
+        "volume": 8372976.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250816,
+        "open_price": 2973.0,
+        "high_price": 2974.0,
+        "low_price": 2973.0,
+        "close_price": 2978.0,
+        "volume": 4639981.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250813,
+        "open_price": 2975.0,
+        "high_price": 2975.0,
+        "low_price": 2975.0,
+        "close_price": 3064.0,
+        "volume": 139754.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250812,
+        "open_price": 2993.0,
+        "high_price": 2994.0,
+        "low_price": 2993.0,
+        "close_price": 3067.0,
+        "volume": 928129.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250811,
+        "open_price": 3180.0,
+        "high_price": 3180.0,
+        "low_price": 3019.0,
+        "close_price": 3085.0,
+        "volume": 2485154.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250810,
+        "open_price": 3145.0,
+        "high_price": 3145.0,
+        "low_price": 3109.0,
+        "close_price": 3112.0,
+        "volume": 8501083.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250809,
+        "open_price": 3110.0,
+        "high_price": 3302.0,
+        "low_price": 3110.0,
+        "close_price": 3205.0,
+        "volume": 6299680.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250806,
+        "open_price": 3169.0,
+        "high_price": 3171.0,
+        "low_price": 3169.0,
+        "close_price": 3206.0,
+        "volume": 2571241.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250805,
+        "open_price": 3326.0,
+        "high_price": 3333.0,
+        "low_price": 3229.0,
+        "close_price": 3267.0,
+        "volume": 7366005.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250804,
+        "open_price": 3326.0,
+        "high_price": 3400.0,
+        "low_price": 3326.0,
+        "close_price": 3328.0,
+        "volume": 22597291.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250803,
+        "open_price": 3428.0,
+        "high_price": 3430.0,
+        "low_price": 3428.0,
+        "close_price": 3428.0,
+        "volume": 32575235.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250802,
+        "open_price": 3534.0,
+        "high_price": 3534.0,
+        "low_price": 3534.0,
+        "close_price": 3534.0,
+        "volume": 16879599.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250730,
+        "open_price": 3542.0,
+        "high_price": 3542.0,
+        "low_price": 3542.0,
+        "close_price": 3643.0,
+        "volume": 293897.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250729,
+        "open_price": 3545.0,
+        "high_price": 3545.0,
+        "low_price": 3545.0,
+        "close_price": 3651.0,
+        "volume": 96370.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250728,
+        "open_price": 3548.0,
+        "high_price": 3548.0,
+        "low_price": 3548.0,
+        "close_price": 3654.0,
+        "volume": 126844.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250727,
+        "open_price": 3554.0,
+        "high_price": 3554.0,
+        "low_price": 3554.0,
+        "close_price": 3657.0,
+        "volume": 236967.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250726,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3663.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250723,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3808.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250722,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3808.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250721,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3808.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250720,
+        "open_price": 3895.0,
+        "high_price": 3895.0,
+        "low_price": 3803.0,
+        "close_price": 3808.0,
+        "volume": 8786117.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250719,
+        "open_price": 3933.0,
+        "high_price": 3984.0,
+        "low_price": 3893.0,
+        "close_price": 3920.0,
+        "volume": 5376677.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250716,
+        "open_price": 3882.0,
+        "high_price": 3959.0,
+        "low_price": 3867.0,
+        "close_price": 3932.0,
+        "volume": 10622479.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250715,
+        "open_price": 3850.0,
+        "high_price": 3900.0,
+        "low_price": 3804.0,
+        "close_price": 3844.0,
+        "volume": 26796151.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250714,
+        "open_price": 3948.0,
+        "high_price": 3960.0,
+        "low_price": 3813.0,
+        "close_price": 3856.0,
+        "volume": 26831860.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250713,
+        "open_price": 3855.0,
+        "high_price": 3855.0,
+        "low_price": 3855.0,
+        "close_price": 3930.0,
+        "volume": 1405044.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250712,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3974.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250709,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3974.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250708,
+        "open_price": 3930.0,
+        "high_price": 4000.0,
+        "low_price": 3925.0,
+        "close_price": 3974.0,
+        "volume": 2223709.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250707,
+        "open_price": 4035.0,
+        "high_price": 4190.0,
+        "low_price": 3956.0,
+        "close_price": 4046.0,
+        "volume": 13202457.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250702,
+        "open_price": 4042.0,
+        "high_price": 4220.0,
+        "low_price": 4042.0,
+        "close_price": 4068.0,
+        "volume": 57605862.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250701,
+        "open_price": 4166.0,
+        "high_price": 4166.0,
+        "low_price": 4166.0,
+        "close_price": 4166.0,
+        "volume": 4164625.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250630,
+        "open_price": 4206.0,
+        "high_price": 4206.0,
+        "low_price": 4206.0,
+        "close_price": 4294.0,
+        "volume": 1048586.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250629,
+        "open_price": 4336.0,
+        "high_price": 4336.0,
+        "low_price": 4336.0,
+        "close_price": 4336.0,
+        "volume": 32569722.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250628,
+        "open_price": 4470.0,
+        "high_price": 4470.0,
+        "low_price": 4470.0,
+        "close_price": 4470.0,
+        "volume": 31729360.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4608.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4608.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4608.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4608.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4608.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4608.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4608.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4608.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250611,
+        "open_price": 4602.0,
+        "high_price": 4656.0,
+        "low_price": 4552.0,
+        "close_price": 4608.0,
+        "volume": 10240902.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250610,
+        "open_price": 4580.0,
+        "high_price": 4590.0,
+        "low_price": 4460.0,
+        "close_price": 4521.0,
+        "volume": 8228978.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250609,
+        "open_price": 4599.0,
+        "high_price": 4643.0,
+        "low_price": 4459.0,
+        "close_price": 4484.0,
+        "volume": 22739969.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250608,
+        "open_price": 4464.0,
+        "high_price": 4599.0,
+        "low_price": 4464.0,
+        "close_price": 4596.0,
+        "volume": 24207486.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250607,
+        "open_price": 4463.0,
+        "high_price": 4549.0,
+        "low_price": 4462.0,
+        "close_price": 4466.0,
+        "volume": 26141848.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250603,
+        "open_price": 4564.0,
+        "high_price": 4672.0,
+        "low_price": 4564.0,
+        "close_price": 4599.0,
+        "volume": 16086765.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250602,
+        "open_price": 4700.0,
+        "high_price": 4748.0,
+        "low_price": 4624.0,
+        "close_price": 4705.0,
+        "volume": 9193777.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250601,
+        "open_price": 4558.0,
+        "high_price": 4721.0,
+        "low_price": 4528.0,
+        "close_price": 4610.0,
+        "volume": 41865945.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250531,
+        "open_price": 4733.0,
+        "high_price": 4733.0,
+        "low_price": 4460.0,
+        "close_price": 4584.0,
+        "volume": 35642418.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250528,
+        "open_price": 4597.0,
+        "high_price": 4597.0,
+        "low_price": 4597.0,
+        "close_price": 4597.0,
+        "volume": 14240592.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250527,
+        "open_price": 4464.0,
+        "high_price": 4464.0,
+        "low_price": 4464.0,
+        "close_price": 4464.0,
+        "volume": 7637354.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250526,
+        "open_price": 4334.0,
+        "high_price": 4334.0,
+        "low_price": 4334.0,
+        "close_price": 4334.0,
+        "volume": 6862654.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250525,
+        "open_price": 4221.0,
+        "high_price": 4250.0,
+        "low_price": 4085.0,
+        "close_price": 4208.0,
+        "volume": 26518988.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250524,
+        "open_price": 4078.0,
+        "high_price": 4134.0,
+        "low_price": 4015.0,
+        "close_price": 4127.0,
+        "volume": 16345931.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250521,
+        "open_price": 3932.0,
+        "high_price": 4069.0,
+        "low_price": 3932.0,
+        "close_price": 4014.0,
+        "volume": 21498490.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250520,
+        "open_price": 4118.0,
+        "high_price": 4158.0,
+        "low_price": 3960.0,
+        "close_price": 4053.0,
+        "volume": 25600447.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250519,
+        "open_price": 3997.0,
+        "high_price": 4118.0,
+        "low_price": 3980.0,
+        "close_price": 4082.0,
+        "volume": 32895748.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250518,
+        "open_price": 4080.0,
+        "high_price": 4080.0,
+        "low_price": 3975.0,
+        "close_price": 3999.0,
+        "volume": 11341394.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250517,
+        "open_price": 3993.0,
+        "high_price": 4114.0,
+        "low_price": 3987.0,
+        "close_price": 4041.0,
+        "volume": 13242896.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250514,
+        "open_price": 3955.0,
+        "high_price": 4080.0,
+        "low_price": 3930.0,
+        "close_price": 3995.0,
+        "volume": 15438775.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250513,
+        "open_price": 4007.0,
+        "high_price": 4027.0,
+        "low_price": 3890.0,
+        "close_price": 3979.0,
+        "volume": 8889709.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250512,
+        "open_price": 3974.0,
+        "high_price": 3974.0,
+        "low_price": 3960.0,
+        "close_price": 3974.0,
+        "volume": 34945428.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250511,
+        "open_price": 3937.0,
+        "high_price": 3937.0,
+        "low_price": 3834.0,
+        "close_price": 3859.0,
+        "volume": 12483402.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250510,
+        "open_price": 4006.0,
+        "high_price": 4006.0,
+        "low_price": 3943.0,
+        "close_price": 3952.0,
+        "volume": 13430557.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250507,
+        "open_price": 4040.0,
+        "high_price": 4117.0,
+        "low_price": 3987.0,
+        "close_price": 4064.0,
+        "volume": 11956807.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250506,
+        "open_price": 3959.0,
+        "high_price": 4100.0,
+        "low_price": 3945.0,
+        "close_price": 4017.0,
+        "volume": 12389259.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250505,
+        "open_price": 4150.0,
+        "high_price": 4165.0,
+        "low_price": 3962.0,
+        "close_price": 3991.0,
+        "volume": 26315593.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250504,
+        "open_price": 4080.0,
+        "high_price": 4149.0,
+        "low_price": 4060.0,
+        "close_price": 4084.0,
+        "volume": 11737009.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250503,
+        "open_price": 4085.0,
+        "high_price": 4176.0,
+        "low_price": 4085.0,
+        "close_price": 4086.0,
+        "volume": 15475106.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250430,
+        "open_price": 4200.0,
+        "high_price": 4266.0,
+        "low_price": 4170.0,
+        "close_price": 4211.0,
+        "volume": 20669833.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250429,
+        "open_price": 4192.0,
+        "high_price": 4250.0,
+        "low_price": 4124.0,
+        "close_price": 4220.0,
+        "volume": 19970220.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250428,
+        "open_price": 4230.0,
+        "high_price": 4259.0,
+        "low_price": 4150.0,
+        "close_price": 4192.0,
+        "volume": 14169257.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250427,
+        "open_price": 4169.0,
+        "high_price": 4285.0,
+        "low_price": 4081.0,
+        "close_price": 4177.0,
+        "volume": 13925496.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250426,
+        "open_price": 4193.0,
+        "high_price": 4193.0,
+        "low_price": 4075.0,
+        "close_price": 4191.0,
+        "volume": 29528148.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250423,
+        "open_price": 4050.0,
+        "high_price": 4108.0,
+        "low_price": 3988.0,
+        "close_price": 4071.0,
+        "volume": 20318885.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250422,
+        "open_price": 3900.0,
+        "high_price": 4034.0,
+        "low_price": 3872.0,
+        "close_price": 3989.0,
+        "volume": 28066409.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250421,
+        "open_price": 3919.0,
+        "high_price": 3919.0,
+        "low_price": 3841.0,
+        "close_price": 3917.0,
+        "volume": 34014286.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250420,
+        "open_price": 3755.0,
+        "high_price": 3805.0,
+        "low_price": 3755.0,
+        "close_price": 3805.0,
+        "volume": 21542479.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250419,
+        "open_price": 3674.0,
+        "high_price": 3750.0,
+        "low_price": 3635.0,
+        "close_price": 3695.0,
+        "volume": 11522601.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250416,
+        "open_price": 3681.0,
+        "high_price": 3681.0,
+        "low_price": 3585.0,
+        "close_price": 3645.0,
+        "volume": 8147220.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250415,
+        "open_price": 3700.0,
+        "high_price": 3700.0,
+        "low_price": 3550.0,
+        "close_price": 3590.0,
+        "volume": 19961221.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250414,
+        "open_price": 3662.0,
+        "high_price": 3662.0,
+        "low_price": 3632.0,
+        "close_price": 3659.0,
+        "volume": 18823370.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250413,
+        "open_price": 3556.0,
+        "high_price": 3556.0,
+        "low_price": 3556.0,
+        "close_price": 3556.0,
+        "volume": 10279675.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250412,
+        "open_price": 3520.0,
+        "high_price": 3565.0,
+        "low_price": 3414.0,
+        "close_price": 3453.0,
+        "volume": 5744468.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250409,
+        "open_price": 3674.0,
+        "high_price": 3674.0,
+        "low_price": 3460.0,
+        "close_price": 3513.0,
+        "volume": 7206757.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250408,
+        "open_price": 3568.0,
+        "high_price": 3568.0,
+        "low_price": 3481.0,
+        "close_price": 3567.0,
+        "volume": 13390106.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250407,
+        "open_price": 3457.0,
+        "high_price": 3551.0,
+        "low_price": 3423.0,
+        "close_price": 3465.0,
+        "volume": 8198265.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250406,
+        "open_price": 3346.0,
+        "high_price": 3552.0,
+        "low_price": 3346.0,
+        "close_price": 3513.0,
+        "volume": 11590011.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250405,
+        "open_price": 3403.0,
+        "high_price": 3466.0,
+        "low_price": 3381.0,
+        "close_price": 3449.0,
+        "volume": 8620243.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250330,
+        "open_price": 3397.0,
+        "high_price": 3427.0,
+        "low_price": 3275.0,
+        "close_price": 3366.0,
+        "volume": 3822649.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250329,
+        "open_price": 3313.0,
+        "high_price": 3405.0,
+        "low_price": 3277.0,
+        "close_price": 3328.0,
+        "volume": 4126704.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250326,
+        "open_price": 3297.0,
+        "high_price": 3308.0,
+        "low_price": 3252.0,
+        "close_price": 3306.0,
+        "volume": 4814811.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250325,
+        "open_price": 3149.0,
+        "high_price": 3221.0,
+        "low_price": 3141.0,
+        "close_price": 3212.0,
+        "volume": 4566887.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250318,
+        "open_price": 3124.0,
+        "high_price": 3266.0,
+        "low_price": 3124.0,
+        "close_price": 3128.0,
+        "volume": 11291018.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250317,
+        "open_price": 3274.0,
+        "high_price": 3274.0,
+        "low_price": 3188.0,
+        "close_price": 3220.0,
+        "volume": 5169925.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250316,
+        "open_price": 3324.0,
+        "high_price": 3324.0,
+        "low_price": 3240.0,
+        "close_price": 3268.0,
+        "volume": 5561458.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250315,
+        "open_price": 3240.0,
+        "high_price": 3242.0,
+        "low_price": 3196.0,
+        "close_price": 3228.0,
+        "volume": 4125797.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250312,
+        "open_price": 3060.0,
+        "high_price": 3222.0,
+        "low_price": 3057.0,
+        "close_price": 3148.0,
+        "volume": 3697383.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250311,
+        "open_price": 3200.0,
+        "high_price": 3221.0,
+        "low_price": 3146.0,
+        "close_price": 3151.0,
+        "volume": 7575470.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250310,
+        "open_price": 3246.0,
+        "high_price": 3386.0,
+        "low_price": 3215.0,
+        "close_price": 3243.0,
+        "volume": 9807868.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250309,
+        "open_price": 3302.0,
+        "high_price": 3449.0,
+        "low_price": 3302.0,
+        "close_price": 3314.0,
+        "volume": 15184503.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250308,
+        "open_price": 3405.0,
+        "high_price": 3578.0,
+        "low_price": 3398.0,
+        "close_price": 3404.0,
+        "volume": 14518441.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250305,
+        "open_price": 3521.0,
+        "high_price": 3649.0,
+        "low_price": 3453.0,
+        "close_price": 3503.0,
+        "volume": 10462312.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250304,
+        "open_price": 3547.0,
+        "high_price": 3765.0,
+        "low_price": 3547.0,
+        "close_price": 3559.0,
+        "volume": 14983682.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250303,
+        "open_price": 3656.0,
+        "high_price": 3700.0,
+        "low_price": 3656.0,
+        "close_price": 3656.0,
+        "volume": 9617016.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250302,
+        "open_price": 3806.0,
+        "high_price": 3868.0,
+        "low_price": 3722.0,
+        "close_price": 3769.0,
+        "volume": 11021122.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250301,
+        "open_price": 3799.0,
+        "high_price": 3878.0,
+        "low_price": 3705.0,
+        "close_price": 3806.0,
+        "volume": 17418996.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250226,
+        "open_price": 3686.0,
+        "high_price": 3859.0,
+        "low_price": 3686.0,
+        "close_price": 3783.0,
+        "volume": 17923349.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250225,
+        "open_price": 3750.0,
+        "high_price": 3812.0,
+        "low_price": 3698.0,
+        "close_price": 3799.0,
+        "volume": 55598276.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250224,
+        "open_price": 3699.0,
+        "high_price": 3702.0,
+        "low_price": 3640.0,
+        "close_price": 3701.0,
+        "volume": 22354008.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250223,
+        "open_price": 3613.0,
+        "high_price": 3613.0,
+        "low_price": 3515.0,
+        "close_price": 3595.0,
+        "volume": 22449943.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250222,
+        "open_price": 3515.0,
+        "high_price": 3515.0,
+        "low_price": 3444.0,
+        "close_price": 3508.0,
+        "volume": 25706024.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250219,
+        "open_price": 3316.0,
+        "high_price": 3422.0,
+        "low_price": 3316.0,
+        "close_price": 3413.0,
+        "volume": 18755741.0
+    },
+    {
+        "symbol": "فلوله",
+        "trade_date": 20250218,
+        "open_price": 3299.0,
+        "high_price": 3379.0,
+        "low_price": 3259.0,
+        "close_price": 3323.0,
+        "volume": 9713768.0
+    }
+]

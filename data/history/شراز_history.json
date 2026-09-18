@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "شراز",
+        "trade_date": 20260901,
+        "open_price": 95910.0,
+        "high_price": 95910.0,
+        "low_price": 92000.0,
+        "close_price": 94970.0,
+        "volume": 9136838.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260831,
+        "open_price": 91500.0,
+        "high_price": 93770.0,
+        "low_price": 91040.0,
+        "close_price": 93120.0,
+        "volume": 2839264.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260829,
+        "open_price": 91040.0,
+        "high_price": 91040.0,
+        "low_price": 91040.0,
+        "close_price": 91040.0,
+        "volume": 4476668.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260826,
+        "open_price": 88390.0,
+        "high_price": 88390.0,
+        "low_price": 88390.0,
+        "close_price": 88390.0,
+        "volume": 1909907.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260825,
+        "open_price": 85820.0,
+        "high_price": 85820.0,
+        "low_price": 85720.0,
+        "close_price": 85820.0,
+        "volume": 2103312.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260824,
+        "open_price": 82500.0,
+        "high_price": 86900.0,
+        "low_price": 81980.0,
+        "close_price": 83330.0,
+        "volume": 6724485.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260823,
+        "open_price": 84750.0,
+        "high_price": 84750.0,
+        "low_price": 82690.0,
+        "close_price": 84510.0,
+        "volume": 10596950.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260822,
+        "open_price": 82350.0,
+        "high_price": 82350.0,
+        "low_price": 80600.0,
+        "close_price": 82290.0,
+        "volume": 9237008.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260819,
+        "open_price": 77200.0,
+        "high_price": 81680.0,
+        "low_price": 76960.0,
+        "close_price": 79960.0,
+        "volume": 6826859.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260818,
+        "open_price": 80000.0,
+        "high_price": 81220.0,
+        "low_price": 76510.0,
+        "close_price": 79310.0,
+        "volume": 11807367.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260817,
+        "open_price": 78870.0,
+        "high_price": 78870.0,
+        "low_price": 78870.0,
+        "close_price": 78870.0,
+        "volume": 1720290.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260816,
+        "open_price": 76580.0,
+        "high_price": 76580.0,
+        "low_price": 76580.0,
+        "close_price": 76580.0,
+        "volume": 4837785.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260815,
+        "open_price": 75450.0,
+        "high_price": 75450.0,
+        "low_price": 71070.0,
+        "close_price": 74350.0,
+        "volume": 12558144.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260811,
+        "open_price": 73260.0,
+        "high_price": 73260.0,
+        "low_price": 72700.0,
+        "close_price": 73260.0,
+        "volume": 16829078.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260810,
+        "open_price": 68720.0,
+        "high_price": 72960.0,
+        "low_price": 68720.0,
+        "close_price": 71130.0,
+        "volume": 15933194.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260809,
+        "open_price": 73220.0,
+        "high_price": 73220.0,
+        "low_price": 68960.0,
+        "close_price": 70840.0,
+        "volume": 17679513.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260808,
+        "open_price": 71090.0,
+        "high_price": 71090.0,
+        "low_price": 71090.0,
+        "close_price": 71090.0,
+        "volume": 2866125.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260805,
+        "open_price": 69020.0,
+        "high_price": 69020.0,
+        "low_price": 69020.0,
+        "close_price": 69020.0,
+        "volume": 1428162.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260803,
+        "open_price": 67010.0,
+        "high_price": 67010.0,
+        "low_price": 67010.0,
+        "close_price": 67010.0,
+        "volume": 1401129.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260802,
+        "open_price": 65060.0,
+        "high_price": 65060.0,
+        "low_price": 64840.0,
+        "close_price": 65060.0,
+        "volume": 14906825.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260801,
+        "open_price": 61970.0,
+        "high_price": 63920.0,
+        "low_price": 61400.0,
+        "close_price": 63170.0,
+        "volume": 15377205.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260729,
+        "open_price": 61080.0,
+        "high_price": 64500.0,
+        "low_price": 61080.0,
+        "close_price": 62060.0,
+        "volume": 16819956.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260728,
+        "open_price": 62990.0,
+        "high_price": 62990.0,
+        "low_price": 62100.0,
+        "close_price": 62960.0,
+        "volume": 25444111.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260727,
+        "open_price": 61160.0,
+        "high_price": 61160.0,
+        "low_price": 61160.0,
+        "close_price": 61160.0,
+        "volume": 3875803.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260726,
+        "open_price": 59380.0,
+        "high_price": 59380.0,
+        "low_price": 59380.0,
+        "close_price": 59380.0,
+        "volume": 5026501.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260725,
+        "open_price": 57660.0,
+        "high_price": 57660.0,
+        "low_price": 57660.0,
+        "close_price": 57660.0,
+        "volume": 3712934.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260722,
+        "open_price": 55990.0,
+        "high_price": 55990.0,
+        "low_price": 55990.0,
+        "close_price": 55990.0,
+        "volume": 3972646.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260721,
+        "open_price": 54360.0,
+        "high_price": 54360.0,
+        "low_price": 54360.0,
+        "close_price": 54360.0,
+        "volume": 1415545.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260720,
+        "open_price": 50500.0,
+        "high_price": 53390.0,
+        "low_price": 50500.0,
+        "close_price": 52780.0,
+        "volume": 8359679.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260719,
+        "open_price": 51830.0,
+        "high_price": 53000.0,
+        "low_price": 51830.0,
+        "close_price": 51840.0,
+        "volume": 38535351.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260718,
+        "open_price": 53430.0,
+        "high_price": 53430.0,
+        "low_price": 53430.0,
+        "close_price": 53430.0,
+        "volume": 115529.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260715,
+        "open_price": 55080.0,
+        "high_price": 55080.0,
+        "low_price": 55080.0,
+        "close_price": 55080.0,
+        "volume": 4955720.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260714,
+        "open_price": 56780.0,
+        "high_price": 56780.0,
+        "low_price": 56780.0,
+        "close_price": 56780.0,
+        "volume": 10377888.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260713,
+        "open_price": 58530.0,
+        "high_price": 58530.0,
+        "low_price": 58530.0,
+        "close_price": 58530.0,
+        "volume": 3888731.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260712,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260711,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 64640.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260708,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 64640.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260707,
+        "open_price": 64660.0,
+        "high_price": 64660.0,
+        "low_price": 63100.0,
+        "close_price": 64640.0,
+        "volume": 25028954.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260701,
+        "open_price": 64990.0,
+        "high_price": 64990.0,
+        "low_price": 61700.0,
+        "close_price": 62780.0,
+        "volume": 29754125.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260630,
+        "open_price": 64020.0,
+        "high_price": 64020.0,
+        "low_price": 62170.0,
+        "close_price": 63600.0,
+        "volume": 24456285.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260629,
+        "open_price": 62000.0,
+        "high_price": 62250.0,
+        "low_price": 60510.0,
+        "close_price": 62160.0,
+        "volume": 22933803.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260628,
+        "open_price": 60500.0,
+        "high_price": 60500.0,
+        "low_price": 58690.0,
+        "close_price": 60440.0,
+        "volume": 36252496.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260627,
+        "open_price": 58740.0,
+        "high_price": 58740.0,
+        "low_price": 58740.0,
+        "close_price": 58740.0,
+        "volume": 182482.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260623,
+        "open_price": 57030.0,
+        "high_price": 57030.0,
+        "low_price": 57030.0,
+        "close_price": 57030.0,
+        "volume": 105381.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260622,
+        "open_price": 55380.0,
+        "high_price": 55380.0,
+        "low_price": 53770.0,
+        "close_price": 55370.0,
+        "volume": 26437019.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260621,
+        "open_price": 53770.0,
+        "high_price": 53770.0,
+        "low_price": 53770.0,
+        "close_price": 53770.0,
+        "volume": 12314479.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260620,
+        "open_price": 52210.0,
+        "high_price": 52210.0,
+        "low_price": 52210.0,
+        "close_price": 52210.0,
+        "volume": 2278565.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260617,
+        "open_price": 50690.0,
+        "high_price": 50690.0,
+        "low_price": 50690.0,
+        "close_price": 50690.0,
+        "volume": 4982788.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260616,
+        "open_price": 49220.0,
+        "high_price": 49220.0,
+        "low_price": 49220.0,
+        "close_price": 49220.0,
+        "volume": 336614.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260615,
+        "open_price": 47790.0,
+        "high_price": 47790.0,
+        "low_price": 47790.0,
+        "close_price": 47790.0,
+        "volume": 95816.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260614,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 46400.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260613,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 46400.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260610,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 46400.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260609,
+        "open_price": 46400.0,
+        "high_price": 46400.0,
+        "low_price": 46400.0,
+        "close_price": 46400.0,
+        "volume": 18114.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260608,
+        "open_price": 45090.0,
+        "high_price": 45090.0,
+        "low_price": 42810.0,
+        "close_price": 45050.0,
+        "volume": 43885314.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260607,
+        "open_price": 43780.0,
+        "high_price": 43780.0,
+        "low_price": 43780.0,
+        "close_price": 43780.0,
+        "volume": 1108618.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260606,
+        "open_price": 42510.0,
+        "high_price": 42510.0,
+        "low_price": 42510.0,
+        "close_price": 42510.0,
+        "volume": 1156840.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260603,
+        "open_price": 41280.0,
+        "high_price": 41280.0,
+        "low_price": 41280.0,
+        "close_price": 41280.0,
+        "volume": 1205953.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260602,
+        "open_price": 40080.0,
+        "high_price": 40080.0,
+        "low_price": 40080.0,
+        "close_price": 40080.0,
+        "volume": 1240797.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260601,
+        "open_price": 38920.0,
+        "high_price": 38920.0,
+        "low_price": 38920.0,
+        "close_price": 38920.0,
+        "volume": 1086359.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260531,
+        "open_price": 37790.0,
+        "high_price": 37790.0,
+        "low_price": 37790.0,
+        "close_price": 37790.0,
+        "volume": 1024917.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260530,
+        "open_price": 36690.0,
+        "high_price": 36690.0,
+        "low_price": 36690.0,
+        "close_price": 36690.0,
+        "volume": 1040798.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260526,
+        "open_price": 35630.0,
+        "high_price": 35630.0,
+        "low_price": 35630.0,
+        "close_price": 35630.0,
+        "volume": 1181763.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260525,
+        "open_price": 34600.0,
+        "high_price": 34600.0,
+        "low_price": 34600.0,
+        "close_price": 34600.0,
+        "volume": 946581.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260524,
+        "open_price": 33600.0,
+        "high_price": 33600.0,
+        "low_price": 33600.0,
+        "close_price": 33600.0,
+        "volume": 641397.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260523,
+        "open_price": 32630.0,
+        "high_price": 32630.0,
+        "low_price": 32630.0,
+        "close_price": 32630.0,
+        "volume": 1280641.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260520,
+        "open_price": 31680.0,
+        "high_price": 31680.0,
+        "low_price": 31680.0,
+        "close_price": 31680.0,
+        "volume": 9532679.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260519,
+        "open_price": 30200.0,
+        "high_price": 32060.0,
+        "low_price": 30200.0,
+        "close_price": 30760.0,
+        "volume": 17710858.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260225,
+        "open_price": 30430.0,
+        "high_price": 31360.0,
+        "low_price": 30430.0,
+        "close_price": 31130.0,
+        "volume": 2088361.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260224,
+        "open_price": 31200.0,
+        "high_price": 31250.0,
+        "low_price": 30220.0,
+        "close_price": 30450.0,
+        "volume": 2209903.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260223,
+        "open_price": 30000.0,
+        "high_price": 30660.0,
+        "low_price": 29700.0,
+        "close_price": 30650.0,
+        "volume": 2698409.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260222,
+        "open_price": 29750.0,
+        "high_price": 30380.0,
+        "low_price": 29750.0,
+        "close_price": 29770.0,
+        "volume": 2036310.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260221,
+        "open_price": 30660.0,
+        "high_price": 32000.0,
+        "low_price": 30660.0,
+        "close_price": 30660.0,
+        "volume": 975007.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260218,
+        "open_price": 31890.0,
+        "high_price": 32280.0,
+        "low_price": 30800.0,
+        "close_price": 31600.0,
+        "volume": 2246114.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260217,
+        "open_price": 31000.0,
+        "high_price": 31400.0,
+        "low_price": 30700.0,
+        "close_price": 31350.0,
+        "volume": 1390540.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260216,
+        "open_price": 31650.0,
+        "high_price": 31650.0,
+        "low_price": 30050.0,
+        "close_price": 30490.0,
+        "volume": 707741.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260215,
+        "open_price": 32600.0,
+        "high_price": 32600.0,
+        "low_price": 30860.0,
+        "close_price": 30960.0,
+        "volume": 2544061.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260214,
+        "open_price": 32870.0,
+        "high_price": 32870.0,
+        "low_price": 31240.0,
+        "close_price": 31810.0,
+        "volume": 4143312.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260210,
+        "open_price": 31780.0,
+        "high_price": 33180.0,
+        "low_price": 31710.0,
+        "close_price": 31920.0,
+        "volume": 3272249.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260209,
+        "open_price": 32690.0,
+        "high_price": 33140.0,
+        "low_price": 32690.0,
+        "close_price": 32690.0,
+        "volume": 4563025.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260208,
+        "open_price": 34230.0,
+        "high_price": 34230.0,
+        "low_price": 33050.0,
+        "close_price": 33700.0,
+        "volume": 8118532.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260207,
+        "open_price": 33000.0,
+        "high_price": 33280.0,
+        "low_price": 32600.0,
+        "close_price": 33240.0,
+        "volume": 3167217.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260203,
+        "open_price": 32000.0,
+        "high_price": 32950.0,
+        "low_price": 31470.0,
+        "close_price": 32320.0,
+        "volume": 2507015.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260202,
+        "open_price": 32210.0,
+        "high_price": 32210.0,
+        "low_price": 31900.0,
+        "close_price": 32210.0,
+        "volume": 9315553.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260201,
+        "open_price": 30570.0,
+        "high_price": 31320.0,
+        "low_price": 30570.0,
+        "close_price": 31280.0,
+        "volume": 17490637.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260131,
+        "open_price": 31600.0,
+        "high_price": 31600.0,
+        "low_price": 29760.0,
+        "close_price": 30410.0,
+        "volume": 7608567.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260128,
+        "open_price": 30070.0,
+        "high_price": 31900.0,
+        "low_price": 30060.0,
+        "close_price": 30680.0,
+        "volume": 12457033.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260127,
+        "open_price": 30980.0,
+        "high_price": 30980.0,
+        "low_price": 30980.0,
+        "close_price": 30980.0,
+        "volume": 774056.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260126,
+        "open_price": 31930.0,
+        "high_price": 31930.0,
+        "low_price": 31930.0,
+        "close_price": 31930.0,
+        "volume": 180536.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260125,
+        "open_price": 32910.0,
+        "high_price": 32990.0,
+        "low_price": 32910.0,
+        "close_price": 32910.0,
+        "volume": 11350486.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260124,
+        "open_price": 33990.0,
+        "high_price": 34950.0,
+        "low_price": 33910.0,
+        "close_price": 33920.0,
+        "volume": 11962356.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260121,
+        "open_price": 34980.0,
+        "high_price": 34990.0,
+        "low_price": 34000.0,
+        "close_price": 34950.0,
+        "volume": 15793792.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260120,
+        "open_price": 34400.0,
+        "high_price": 35000.0,
+        "low_price": 33460.0,
+        "close_price": 33980.0,
+        "volume": 9122845.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260119,
+        "open_price": 34620.0,
+        "high_price": 34630.0,
+        "low_price": 33630.0,
+        "close_price": 34490.0,
+        "volume": 5686260.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260118,
+        "open_price": 33440.0,
+        "high_price": 33670.0,
+        "low_price": 33200.0,
+        "close_price": 33630.0,
+        "volume": 4748196.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260114,
+        "open_price": 32690.0,
+        "high_price": 32690.0,
+        "low_price": 32690.0,
+        "close_price": 32690.0,
+        "volume": 764072.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260113,
+        "open_price": 35400.0,
+        "high_price": 35400.0,
+        "low_price": 33540.0,
+        "close_price": 33700.0,
+        "volume": 10111416.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260112,
+        "open_price": 34580.0,
+        "high_price": 34580.0,
+        "low_price": 33900.0,
+        "close_price": 34570.0,
+        "volume": 5387422.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260111,
+        "open_price": 32280.0,
+        "high_price": 33630.0,
+        "low_price": 32280.0,
+        "close_price": 33580.0,
+        "volume": 7050780.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260110,
+        "open_price": 32030.0,
+        "high_price": 33970.0,
+        "low_price": 32030.0,
+        "close_price": 32660.0,
+        "volume": 10339447.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260107,
+        "open_price": 33020.0,
+        "high_price": 33020.0,
+        "low_price": 33020.0,
+        "close_price": 33020.0,
+        "volume": 8189100.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260106,
+        "open_price": 32060.0,
+        "high_price": 32060.0,
+        "low_price": 32060.0,
+        "close_price": 32060.0,
+        "volume": 2427807.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260105,
+        "open_price": 31130.0,
+        "high_price": 31130.0,
+        "low_price": 31130.0,
+        "close_price": 31130.0,
+        "volume": 2927663.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20260104,
+        "open_price": 31020.0,
+        "high_price": 31020.0,
+        "low_price": 29220.0,
+        "close_price": 30230.0,
+        "volume": 5428343.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251231,
+        "open_price": 28950.0,
+        "high_price": 30730.0,
+        "low_price": 28950.0,
+        "close_price": 30120.0,
+        "volume": 6257642.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251230,
+        "open_price": 29840.0,
+        "high_price": 29840.0,
+        "low_price": 29840.0,
+        "close_price": 29840.0,
+        "volume": 550326.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251229,
+        "open_price": 32150.0,
+        "high_price": 32150.0,
+        "low_price": 30290.0,
+        "close_price": 30760.0,
+        "volume": 6886065.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251228,
+        "open_price": 31250.0,
+        "high_price": 31370.0,
+        "low_price": 29900.0,
+        "close_price": 31220.0,
+        "volume": 3959460.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251227,
+        "open_price": 30500.0,
+        "high_price": 30500.0,
+        "low_price": 30110.0,
+        "close_price": 30460.0,
+        "volume": 4855195.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251224,
+        "open_price": 29250.0,
+        "high_price": 29630.0,
+        "low_price": 29250.0,
+        "close_price": 29620.0,
+        "volume": 3956580.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251223,
+        "open_price": 28690.0,
+        "high_price": 29330.0,
+        "low_price": 28000.0,
+        "close_price": 28770.0,
+        "volume": 7827395.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251222,
+        "open_price": 28000.0,
+        "high_price": 28880.0,
+        "low_price": 27920.0,
+        "close_price": 28480.0,
+        "volume": 3672667.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251221,
+        "open_price": 28600.0,
+        "high_price": 28890.0,
+        "low_price": 27780.0,
+        "close_price": 28310.0,
+        "volume": 6280507.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251220,
+        "open_price": 27500.0,
+        "high_price": 28600.0,
+        "low_price": 27500.0,
+        "close_price": 28510.0,
+        "volume": 7369073.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251217,
+        "open_price": 28130.0,
+        "high_price": 28230.0,
+        "low_price": 27430.0,
+        "close_price": 27770.0,
+        "volume": 5377537.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251216,
+        "open_price": 28500.0,
+        "high_price": 28620.0,
+        "low_price": 27310.0,
+        "close_price": 28250.0,
+        "volume": 5876324.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251215,
+        "open_price": 27230.0,
+        "high_price": 28040.0,
+        "low_price": 26950.0,
+        "close_price": 27790.0,
+        "volume": 9444877.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251214,
+        "open_price": 27300.0,
+        "high_price": 27970.0,
+        "low_price": 27010.0,
+        "close_price": 27230.0,
+        "volume": 4432707.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251213,
+        "open_price": 28200.0,
+        "high_price": 28200.0,
+        "low_price": 27420.0,
+        "close_price": 27770.0,
+        "volume": 5341168.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251210,
+        "open_price": 27800.0,
+        "high_price": 27960.0,
+        "low_price": 26970.0,
+        "close_price": 27560.0,
+        "volume": 3839583.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251209,
+        "open_price": 28570.0,
+        "high_price": 28570.0,
+        "low_price": 27020.0,
+        "close_price": 27800.0,
+        "volume": 4709236.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251208,
+        "open_price": 27700.0,
+        "high_price": 27760.0,
+        "low_price": 27260.0,
+        "close_price": 27740.0,
+        "volume": 4011355.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251207,
+        "open_price": 26990.0,
+        "high_price": 27500.0,
+        "low_price": 26600.0,
+        "close_price": 26960.0,
+        "volume": 3678404.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251206,
+        "open_price": 27210.0,
+        "high_price": 27210.0,
+        "low_price": 26840.0,
+        "close_price": 26970.0,
+        "volume": 3221538.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251203,
+        "open_price": 27240.0,
+        "high_price": 27240.0,
+        "low_price": 26620.0,
+        "close_price": 26810.0,
+        "volume": 1794637.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251202,
+        "open_price": 27300.0,
+        "high_price": 27300.0,
+        "low_price": 26620.0,
+        "close_price": 26840.0,
+        "volume": 2946203.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251201,
+        "open_price": 26970.0,
+        "high_price": 27350.0,
+        "low_price": 26690.0,
+        "close_price": 26870.0,
+        "volume": 2818550.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251130,
+        "open_price": 26480.0,
+        "high_price": 26970.0,
+        "low_price": 26240.0,
+        "close_price": 26720.0,
+        "volume": 2624528.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251129,
+        "open_price": 27260.0,
+        "high_price": 27360.0,
+        "low_price": 26360.0,
+        "close_price": 26740.0,
+        "volume": 4827863.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251126,
+        "open_price": 28330.0,
+        "high_price": 28330.0,
+        "low_price": 26890.0,
+        "close_price": 27090.0,
+        "volume": 7162747.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251125,
+        "open_price": 28180.0,
+        "high_price": 28180.0,
+        "low_price": 27400.0,
+        "close_price": 27720.0,
+        "volume": 4899818.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251123,
+        "open_price": 27470.0,
+        "high_price": 28230.0,
+        "low_price": 27310.0,
+        "close_price": 27710.0,
+        "volume": 5406161.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251122,
+        "open_price": 28360.0,
+        "high_price": 28360.0,
+        "low_price": 27450.0,
+        "close_price": 27790.0,
+        "volume": 8541009.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251119,
+        "open_price": 28790.0,
+        "high_price": 28790.0,
+        "low_price": 27990.0,
+        "close_price": 28150.0,
+        "volume": 2376218.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251118,
+        "open_price": 28030.0,
+        "high_price": 28180.0,
+        "low_price": 27730.0,
+        "close_price": 28010.0,
+        "volume": 4973641.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251117,
+        "open_price": 27870.0,
+        "high_price": 27870.0,
+        "low_price": 27870.0,
+        "close_price": 27870.0,
+        "volume": 4016167.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251116,
+        "open_price": 27540.0,
+        "high_price": 27540.0,
+        "low_price": 27540.0,
+        "close_price": 27060.0,
+        "volume": 1522228.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251115,
+        "open_price": 26900.0,
+        "high_price": 26960.0,
+        "low_price": 26150.0,
+        "close_price": 26740.0,
+        "volume": 3904376.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251112,
+        "open_price": 26150.0,
+        "high_price": 26750.0,
+        "low_price": 25810.0,
+        "close_price": 26180.0,
+        "volume": 3916139.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251111,
+        "open_price": 26600.0,
+        "high_price": 27040.0,
+        "low_price": 25950.0,
+        "close_price": 26210.0,
+        "volume": 4134490.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251110,
+        "open_price": 26450.0,
+        "high_price": 27000.0,
+        "low_price": 25980.0,
+        "close_price": 26290.0,
+        "volume": 6566952.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251109,
+        "open_price": 27580.0,
+        "high_price": 27580.0,
+        "low_price": 26400.0,
+        "close_price": 26460.0,
+        "volume": 10298814.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251108,
+        "open_price": 27150.0,
+        "high_price": 27280.0,
+        "low_price": 26890.0,
+        "close_price": 27210.0,
+        "volume": 8981993.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251105,
+        "open_price": 25780.0,
+        "high_price": 26890.0,
+        "low_price": 25780.0,
+        "close_price": 26490.0,
+        "volume": 4256746.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251104,
+        "open_price": 26580.0,
+        "high_price": 27140.0,
+        "low_price": 26040.0,
+        "close_price": 26570.0,
+        "volume": 6626642.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251103,
+        "open_price": 26890.0,
+        "high_price": 26940.0,
+        "low_price": 26400.0,
+        "close_price": 26840.0,
+        "volume": 7243518.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251102,
+        "open_price": 26010.0,
+        "high_price": 26870.0,
+        "low_price": 25330.0,
+        "close_price": 26160.0,
+        "volume": 8492350.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251101,
+        "open_price": 26890.0,
+        "high_price": 26980.0,
+        "low_price": 25780.0,
+        "close_price": 26110.0,
+        "volume": 6457061.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251029,
+        "open_price": 27100.0,
+        "high_price": 27180.0,
+        "low_price": 26260.0,
+        "close_price": 26570.0,
+        "volume": 4449627.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251028,
+        "open_price": 26900.0,
+        "high_price": 27290.0,
+        "low_price": 26200.0,
+        "close_price": 26740.0,
+        "volume": 8272542.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251027,
+        "open_price": 27490.0,
+        "high_price": 27490.0,
+        "low_price": 26420.0,
+        "close_price": 26600.0,
+        "volume": 17203631.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251026,
+        "open_price": 27360.0,
+        "high_price": 27360.0,
+        "low_price": 26800.0,
+        "close_price": 27230.0,
+        "volume": 11983422.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251025,
+        "open_price": 26630.0,
+        "high_price": 26630.0,
+        "low_price": 25600.0,
+        "close_price": 26570.0,
+        "volume": 21652576.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251022,
+        "open_price": 25900.0,
+        "high_price": 25900.0,
+        "low_price": 25180.0,
+        "close_price": 25860.0,
+        "volume": 9441534.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251021,
+        "open_price": 24200.0,
+        "high_price": 25280.0,
+        "low_price": 24000.0,
+        "close_price": 25150.0,
+        "volume": 16934453.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251020,
+        "open_price": 24760.0,
+        "high_price": 24990.0,
+        "low_price": 24200.0,
+        "close_price": 24550.0,
+        "volume": 3827286.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251019,
+        "open_price": 25620.0,
+        "high_price": 25620.0,
+        "low_price": 24140.0,
+        "close_price": 24890.0,
+        "volume": 5854422.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251018,
+        "open_price": 24880.0,
+        "high_price": 24880.0,
+        "low_price": 24600.0,
+        "close_price": 24880.0,
+        "volume": 5591008.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251015,
+        "open_price": 24190.0,
+        "high_price": 24940.0,
+        "low_price": 24080.0,
+        "close_price": 24160.0,
+        "volume": 10038886.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251014,
+        "open_price": 25300.0,
+        "high_price": 25370.0,
+        "low_price": 24730.0,
+        "close_price": 24820.0,
+        "volume": 6256520.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251013,
+        "open_price": 25710.0,
+        "high_price": 25710.0,
+        "low_price": 25000.0,
+        "close_price": 25490.0,
+        "volume": 21541322.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251012,
+        "open_price": 25020.0,
+        "high_price": 25020.0,
+        "low_price": 24620.0,
+        "close_price": 25010.0,
+        "volume": 20297832.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251011,
+        "open_price": 24200.0,
+        "high_price": 24320.0,
+        "low_price": 23510.0,
+        "close_price": 24300.0,
+        "volume": 18928507.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251008,
+        "open_price": 24440.0,
+        "high_price": 24440.0,
+        "low_price": 23380.0,
+        "close_price": 23620.0,
+        "volume": 13622557.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251007,
+        "open_price": 23800.0,
+        "high_price": 24790.0,
+        "low_price": 23610.0,
+        "close_price": 24100.0,
+        "volume": 9989793.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251006,
+        "open_price": 25100.0,
+        "high_price": 25100.0,
+        "low_price": 24250.0,
+        "close_price": 24330.0,
+        "volume": 29927352.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251005,
+        "open_price": 25680.0,
+        "high_price": 25680.0,
+        "low_price": 24420.0,
+        "close_price": 24990.0,
+        "volume": 28659985.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251004,
+        "open_price": 24800.0,
+        "high_price": 24950.0,
+        "low_price": 24450.0,
+        "close_price": 24940.0,
+        "volume": 9907303.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20251001,
+        "open_price": 24700.0,
+        "high_price": 24800.0,
+        "low_price": 24020.0,
+        "close_price": 24230.0,
+        "volume": 24592352.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250930,
+        "open_price": 24940.0,
+        "high_price": 24940.0,
+        "low_price": 23810.0,
+        "close_price": 24760.0,
+        "volume": 27440625.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250929,
+        "open_price": 24460.0,
+        "high_price": 24460.0,
+        "low_price": 24460.0,
+        "close_price": 24220.0,
+        "volume": 2917063.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250928,
+        "open_price": 24170.0,
+        "high_price": 24170.0,
+        "low_price": 24170.0,
+        "close_price": 23750.0,
+        "volume": 1775216.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250927,
+        "open_price": 22890.0,
+        "high_price": 23570.0,
+        "low_price": 22890.0,
+        "close_price": 23470.0,
+        "volume": 4652324.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250924,
+        "open_price": 22660.0,
+        "high_price": 23340.0,
+        "low_price": 22660.0,
+        "close_price": 22890.0,
+        "volume": 11604022.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250923,
+        "open_price": 23440.0,
+        "high_price": 23800.0,
+        "low_price": 22470.0,
+        "close_price": 23360.0,
+        "volume": 17291066.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250922,
+        "open_price": 23160.0,
+        "high_price": 23160.0,
+        "low_price": 23160.0,
+        "close_price": 23160.0,
+        "volume": 17225001.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250921,
+        "open_price": 21730.0,
+        "high_price": 23070.0,
+        "low_price": 21730.0,
+        "close_price": 22490.0,
+        "volume": 27345405.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250920,
+        "open_price": 21880.0,
+        "high_price": 21880.0,
+        "low_price": 21880.0,
+        "close_price": 22400.0,
+        "volume": 1007449.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250917,
+        "open_price": 22250.0,
+        "high_price": 23150.0,
+        "low_price": 21960.0,
+        "close_price": 22550.0,
+        "volume": 15502166.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250916,
+        "open_price": 22570.0,
+        "high_price": 22680.0,
+        "low_price": 22120.0,
+        "close_price": 22630.0,
+        "volume": 78653211.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250915,
+        "open_price": 22020.0,
+        "high_price": 22020.0,
+        "low_price": 22020.0,
+        "close_price": 22020.0,
+        "volume": 13037012.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250914,
+        "open_price": 21380.0,
+        "high_price": 21380.0,
+        "low_price": 21380.0,
+        "close_price": 21380.0,
+        "volume": 5612533.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250913,
+        "open_price": 21350.0,
+        "high_price": 21350.0,
+        "low_price": 21350.0,
+        "close_price": 20760.0,
+        "volume": 226609.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250909,
+        "open_price": 21090.0,
+        "high_price": 21090.0,
+        "low_price": 21090.0,
+        "close_price": 20730.0,
+        "volume": 1768001.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250908,
+        "open_price": 20480.0,
+        "high_price": 20480.0,
+        "low_price": 20480.0,
+        "close_price": 20480.0,
+        "volume": 8364863.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250907,
+        "open_price": 19890.0,
+        "high_price": 19890.0,
+        "low_price": 19890.0,
+        "close_price": 19890.0,
+        "volume": 4953081.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250906,
+        "open_price": 19810.0,
+        "high_price": 19810.0,
+        "low_price": 19810.0,
+        "close_price": 19320.0,
+        "volume": 587814.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250903,
+        "open_price": 19290.0,
+        "high_price": 19290.0,
+        "low_price": 19290.0,
+        "close_price": 19240.0,
+        "volume": 4030516.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250902,
+        "open_price": 19020.0,
+        "high_price": 19020.0,
+        "low_price": 19020.0,
+        "close_price": 18730.0,
+        "volume": 2071313.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250831,
+        "open_price": 18830.0,
+        "high_price": 18850.0,
+        "low_price": 18830.0,
+        "close_price": 18470.0,
+        "volume": 1316468.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250830,
+        "open_price": 18100.0,
+        "high_price": 18950.0,
+        "low_price": 17850.0,
+        "close_price": 18310.0,
+        "volume": 3615631.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250827,
+        "open_price": 18270.0,
+        "high_price": 18410.0,
+        "low_price": 18080.0,
+        "close_price": 18400.0,
+        "volume": 5330762.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250826,
+        "open_price": 17810.0,
+        "high_price": 18300.0,
+        "low_price": 17570.0,
+        "close_price": 17880.0,
+        "volume": 2185338.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250825,
+        "open_price": 18550.0,
+        "high_price": 18550.0,
+        "low_price": 17790.0,
+        "close_price": 17800.0,
+        "volume": 6149735.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250823,
+        "open_price": 18310.0,
+        "high_price": 18470.0,
+        "low_price": 18100.0,
+        "close_price": 18330.0,
+        "volume": 1396852.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250820,
+        "open_price": 18480.0,
+        "high_price": 18490.0,
+        "low_price": 18220.0,
+        "close_price": 18320.0,
+        "volume": 2596426.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250819,
+        "open_price": 18300.0,
+        "high_price": 18300.0,
+        "low_price": 18020.0,
+        "close_price": 18280.0,
+        "volume": 7894953.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250818,
+        "open_price": 17930.0,
+        "high_price": 17930.0,
+        "low_price": 17930.0,
+        "close_price": 17770.0,
+        "volume": 3036410.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250817,
+        "open_price": 17830.0,
+        "high_price": 17830.0,
+        "low_price": 17830.0,
+        "close_price": 17410.0,
+        "volume": 804534.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250816,
+        "open_price": 16850.0,
+        "high_price": 17730.0,
+        "low_price": 16850.0,
+        "close_price": 17320.0,
+        "volume": 1327779.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250813,
+        "open_price": 17640.0,
+        "high_price": 17640.0,
+        "low_price": 17140.0,
+        "close_price": 17220.0,
+        "volume": 3869981.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250812,
+        "open_price": 18000.0,
+        "high_price": 18000.0,
+        "low_price": 17640.0,
+        "close_price": 17670.0,
+        "volume": 5847001.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250811,
+        "open_price": 18100.0,
+        "high_price": 18390.0,
+        "low_price": 17660.0,
+        "close_price": 18180.0,
+        "volume": 648743.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250810,
+        "open_price": 18670.0,
+        "high_price": 18670.0,
+        "low_price": 18120.0,
+        "close_price": 18200.0,
+        "volume": 841299.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250809,
+        "open_price": 18030.0,
+        "high_price": 18560.0,
+        "low_price": 18030.0,
+        "close_price": 18200.0,
+        "volume": 1578547.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250806,
+        "open_price": 17950.0,
+        "high_price": 18150.0,
+        "low_price": 17850.0,
+        "close_price": 18020.0,
+        "volume": 1566353.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250805,
+        "open_price": 18050.0,
+        "high_price": 18240.0,
+        "low_price": 17890.0,
+        "close_price": 18000.0,
+        "volume": 4023939.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250804,
+        "open_price": 17870.0,
+        "high_price": 18150.0,
+        "low_price": 17870.0,
+        "close_price": 17890.0,
+        "volume": 1405892.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250803,
+        "open_price": 17880.0,
+        "high_price": 18080.0,
+        "low_price": 17700.0,
+        "close_price": 17820.0,
+        "volume": 6590083.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250802,
+        "open_price": 18000.0,
+        "high_price": 18260.0,
+        "low_price": 17540.0,
+        "close_price": 17730.0,
+        "volume": 3952387.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250730,
+        "open_price": 17500.0,
+        "high_price": 18580.0,
+        "low_price": 17500.0,
+        "close_price": 17780.0,
+        "volume": 7861041.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250729,
+        "open_price": 17520.0,
+        "high_price": 17520.0,
+        "low_price": 17520.0,
+        "close_price": 18040.0,
+        "volume": 195847.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250728,
+        "open_price": 18000.0,
+        "high_price": 18200.0,
+        "low_price": 17700.0,
+        "close_price": 18060.0,
+        "volume": 1605179.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250727,
+        "open_price": 18800.0,
+        "high_price": 18800.0,
+        "low_price": 18040.0,
+        "close_price": 18240.0,
+        "volume": 10644123.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250726,
+        "open_price": 18590.0,
+        "high_price": 18590.0,
+        "low_price": 18350.0,
+        "close_price": 18590.0,
+        "volume": 20432476.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250723,
+        "open_price": 18050.0,
+        "high_price": 18050.0,
+        "low_price": 18000.0,
+        "close_price": 18050.0,
+        "volume": 28457409.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250722,
+        "open_price": 17530.0,
+        "high_price": 17530.0,
+        "low_price": 17530.0,
+        "close_price": 17530.0,
+        "volume": 7256768.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250721,
+        "open_price": 17020.0,
+        "high_price": 17020.0,
+        "low_price": 17020.0,
+        "close_price": 17020.0,
+        "volume": 7752063.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250720,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16530.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250719,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18550.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250716,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18550.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250715,
+        "open_price": 18870.0,
+        "high_price": 19070.0,
+        "low_price": 18310.0,
+        "close_price": 18550.0,
+        "volume": 5015673.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250714,
+        "open_price": 19050.0,
+        "high_price": 19060.0,
+        "low_price": 18740.0,
+        "close_price": 18870.0,
+        "volume": 1234943.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250713,
+        "open_price": 18940.0,
+        "high_price": 19090.0,
+        "low_price": 18820.0,
+        "close_price": 18870.0,
+        "volume": 2319552.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250712,
+        "open_price": 18850.0,
+        "high_price": 19290.0,
+        "low_price": 18850.0,
+        "close_price": 18820.0,
+        "volume": 836939.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250709,
+        "open_price": 18370.0,
+        "high_price": 19100.0,
+        "low_price": 18370.0,
+        "close_price": 18780.0,
+        "volume": 1890990.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250708,
+        "open_price": 18510.0,
+        "high_price": 18510.0,
+        "low_price": 18450.0,
+        "close_price": 18930.0,
+        "volume": 680223.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250707,
+        "open_price": 20000.0,
+        "high_price": 20000.0,
+        "low_price": 18950.0,
+        "close_price": 19020.0,
+        "volume": 8941867.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250702,
+        "open_price": 19480.0,
+        "high_price": 20400.0,
+        "low_price": 19480.0,
+        "close_price": 19530.0,
+        "volume": 31136023.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250701,
+        "open_price": 19570.0,
+        "high_price": 19570.0,
+        "low_price": 19570.0,
+        "close_price": 20080.0,
+        "volume": 661116.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250630,
+        "open_price": 19670.0,
+        "high_price": 19670.0,
+        "low_price": 19670.0,
+        "close_price": 20170.0,
+        "volume": 706144.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250629,
+        "open_price": 20130.0,
+        "high_price": 20130.0,
+        "low_price": 20130.0,
+        "close_price": 20270.0,
+        "volume": 3389956.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250628,
+        "open_price": 20440.0,
+        "high_price": 20440.0,
+        "low_price": 20440.0,
+        "close_price": 20750.0,
+        "volume": 2241696.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21070.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21070.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21070.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21070.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21070.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21070.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21070.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21070.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250611,
+        "open_price": 21080.0,
+        "high_price": 21350.0,
+        "low_price": 20930.0,
+        "close_price": 21070.0,
+        "volume": 354677.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250610,
+        "open_price": 21110.0,
+        "high_price": 21540.0,
+        "low_price": 20890.0,
+        "close_price": 21080.0,
+        "volume": 1121209.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250609,
+        "open_price": 21180.0,
+        "high_price": 21630.0,
+        "low_price": 20770.0,
+        "close_price": 21110.0,
+        "volume": 1071453.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250608,
+        "open_price": 21790.0,
+        "high_price": 21790.0,
+        "low_price": 20920.0,
+        "close_price": 21180.0,
+        "volume": 596023.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250607,
+        "open_price": 21540.0,
+        "high_price": 21540.0,
+        "low_price": 20900.0,
+        "close_price": 21210.0,
+        "volume": 3630055.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250603,
+        "open_price": 21410.0,
+        "high_price": 21600.0,
+        "low_price": 21130.0,
+        "close_price": 21540.0,
+        "volume": 1217974.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250602,
+        "open_price": 21640.0,
+        "high_price": 22000.0,
+        "low_price": 21400.0,
+        "close_price": 21630.0,
+        "volume": 3276928.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250601,
+        "open_price": 22300.0,
+        "high_price": 22300.0,
+        "low_price": 21640.0,
+        "close_price": 21710.0,
+        "volume": 4761840.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250531,
+        "open_price": 22000.0,
+        "high_price": 22390.0,
+        "low_price": 22000.0,
+        "close_price": 22300.0,
+        "volume": 1183798.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250528,
+        "open_price": 22760.0,
+        "high_price": 22780.0,
+        "low_price": 22080.0,
+        "close_price": 22360.0,
+        "volume": 3807376.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250527,
+        "open_price": 22840.0,
+        "high_price": 23150.0,
+        "low_price": 22470.0,
+        "close_price": 22760.0,
+        "volume": 2281300.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250526,
+        "open_price": 22450.0,
+        "high_price": 23420.0,
+        "low_price": 22410.0,
+        "close_price": 22830.0,
+        "volume": 691719.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250525,
+        "open_price": 23570.0,
+        "high_price": 23570.0,
+        "low_price": 22340.0,
+        "close_price": 22870.0,
+        "volume": 845729.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250524,
+        "open_price": 22110.0,
+        "high_price": 23260.0,
+        "low_price": 22110.0,
+        "close_price": 22890.0,
+        "volume": 2215519.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250521,
+        "open_price": 22330.0,
+        "high_price": 23000.0,
+        "low_price": 22330.0,
+        "close_price": 22590.0,
+        "volume": 2701507.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250520,
+        "open_price": 22940.0,
+        "high_price": 23340.0,
+        "low_price": 22940.0,
+        "close_price": 23020.0,
+        "volume": 21535919.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250519,
+        "open_price": 24380.0,
+        "high_price": 24380.0,
+        "low_price": 23060.0,
+        "close_price": 23640.0,
+        "volume": 5047678.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250518,
+        "open_price": 23000.0,
+        "high_price": 24170.0,
+        "low_price": 22950.0,
+        "close_price": 23670.0,
+        "volume": 12246590.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250517,
+        "open_price": 24100.0,
+        "high_price": 24100.0,
+        "low_price": 23400.0,
+        "close_price": 23470.0,
+        "volume": 2250544.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250514,
+        "open_price": 23570.0,
+        "high_price": 23570.0,
+        "low_price": 23110.0,
+        "close_price": 23410.0,
+        "volume": 3510359.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250513,
+        "open_price": 23250.0,
+        "high_price": 23250.0,
+        "low_price": 22850.0,
+        "close_price": 22890.0,
+        "volume": 2028451.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250512,
+        "open_price": 23110.0,
+        "high_price": 23110.0,
+        "low_price": 23110.0,
+        "close_price": 22580.0,
+        "volume": 898024.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250511,
+        "open_price": 21830.0,
+        "high_price": 22590.0,
+        "low_price": 21500.0,
+        "close_price": 22440.0,
+        "volume": 5777117.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250510,
+        "open_price": 22880.0,
+        "high_price": 22880.0,
+        "low_price": 21830.0,
+        "close_price": 21940.0,
+        "volume": 6183228.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250507,
+        "open_price": 23010.0,
+        "high_price": 23010.0,
+        "low_price": 23010.0,
+        "close_price": 22500.0,
+        "volume": 1052700.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250506,
+        "open_price": 22500.0,
+        "high_price": 22700.0,
+        "low_price": 21500.0,
+        "close_price": 22340.0,
+        "volume": 4909837.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250505,
+        "open_price": 22580.0,
+        "high_price": 22730.0,
+        "low_price": 21700.0,
+        "close_price": 22040.0,
+        "volume": 2220967.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250504,
+        "open_price": 21490.0,
+        "high_price": 22500.0,
+        "low_price": 21490.0,
+        "close_price": 22140.0,
+        "volume": 4168002.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250503,
+        "open_price": 21910.0,
+        "high_price": 23000.0,
+        "low_price": 21910.0,
+        "close_price": 22110.0,
+        "volume": 8044404.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250430,
+        "open_price": 22420.0,
+        "high_price": 23050.0,
+        "low_price": 21820.0,
+        "close_price": 22580.0,
+        "volume": 3291959.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250429,
+        "open_price": 22470.0,
+        "high_price": 22470.0,
+        "low_price": 21290.0,
+        "close_price": 22380.0,
+        "volume": 14753947.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250428,
+        "open_price": 22160.0,
+        "high_price": 22160.0,
+        "low_price": 22160.0,
+        "close_price": 21820.0,
+        "volume": 2095891.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250427,
+        "open_price": 20690.0,
+        "high_price": 21950.0,
+        "low_price": 20690.0,
+        "close_price": 21520.0,
+        "volume": 4058333.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250426,
+        "open_price": 21320.0,
+        "high_price": 21320.0,
+        "low_price": 21320.0,
+        "close_price": 21320.0,
+        "volume": 6693864.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250423,
+        "open_price": 20780.0,
+        "high_price": 20780.0,
+        "low_price": 20780.0,
+        "close_price": 20700.0,
+        "volume": 3835201.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250422,
+        "open_price": 20720.0,
+        "high_price": 20720.0,
+        "low_price": 20720.0,
+        "close_price": 20180.0,
+        "volume": 408198.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250421,
+        "open_price": 20290.0,
+        "high_price": 20290.0,
+        "low_price": 20290.0,
+        "close_price": 20120.0,
+        "volume": 3115914.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250420,
+        "open_price": 20160.0,
+        "high_price": 20160.0,
+        "low_price": 20160.0,
+        "close_price": 19700.0,
+        "volume": 909979.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250419,
+        "open_price": 19880.0,
+        "high_price": 19880.0,
+        "low_price": 19000.0,
+        "close_price": 19580.0,
+        "volume": 2103441.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250416,
+        "open_price": 19200.0,
+        "high_price": 19780.0,
+        "low_price": 18730.0,
+        "close_price": 19310.0,
+        "volume": 1823849.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250415,
+        "open_price": 19920.0,
+        "high_price": 19930.0,
+        "low_price": 18800.0,
+        "close_price": 19210.0,
+        "volume": 2542647.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250414,
+        "open_price": 19650.0,
+        "high_price": 19670.0,
+        "low_price": 19040.0,
+        "close_price": 19380.0,
+        "volume": 2219867.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250413,
+        "open_price": 19110.0,
+        "high_price": 19110.0,
+        "low_price": 19020.0,
+        "close_price": 19100.0,
+        "volume": 4740782.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250412,
+        "open_price": 18980.0,
+        "high_price": 18980.0,
+        "low_price": 18440.0,
+        "close_price": 18560.0,
+        "volume": 2769268.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250409,
+        "open_price": 18200.0,
+        "high_price": 18480.0,
+        "low_price": 18200.0,
+        "close_price": 18430.0,
+        "volume": 6599726.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250408,
+        "open_price": 17260.0,
+        "high_price": 18220.0,
+        "low_price": 17260.0,
+        "close_price": 17950.0,
+        "volume": 2222607.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250407,
+        "open_price": 17330.0,
+        "high_price": 17680.0,
+        "low_price": 17290.0,
+        "close_price": 17690.0,
+        "volume": 743155.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250406,
+        "open_price": 18200.0,
+        "high_price": 18250.0,
+        "low_price": 17370.0,
+        "close_price": 17750.0,
+        "volume": 981377.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250405,
+        "open_price": 18350.0,
+        "high_price": 18350.0,
+        "low_price": 17590.0,
+        "close_price": 17810.0,
+        "volume": 1566642.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250330,
+        "open_price": 18000.0,
+        "high_price": 18090.0,
+        "low_price": 17310.0,
+        "close_price": 17860.0,
+        "volume": 2501495.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250329,
+        "open_price": 18000.0,
+        "high_price": 18000.0,
+        "low_price": 17210.0,
+        "close_price": 17570.0,
+        "volume": 618542.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250326,
+        "open_price": 17960.0,
+        "high_price": 17960.0,
+        "low_price": 17700.0,
+        "close_price": 17570.0,
+        "volume": 1117038.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250325,
+        "open_price": 17450.0,
+        "high_price": 17910.0,
+        "low_price": 17450.0,
+        "close_price": 17440.0,
+        "volume": 435211.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250318,
+        "open_price": 17240.0,
+        "high_price": 17300.0,
+        "low_price": 17240.0,
+        "close_price": 17390.0,
+        "volume": 3174970.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250317,
+        "open_price": 18200.0,
+        "high_price": 18200.0,
+        "low_price": 17400.0,
+        "close_price": 17770.0,
+        "volume": 1456618.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250316,
+        "open_price": 18130.0,
+        "high_price": 18130.0,
+        "low_price": 17780.0,
+        "close_price": 17790.0,
+        "volume": 1673985.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250315,
+        "open_price": 17750.0,
+        "high_price": 17970.0,
+        "low_price": 17750.0,
+        "close_price": 17610.0,
+        "volume": 1345054.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250312,
+        "open_price": 17200.0,
+        "high_price": 17700.0,
+        "low_price": 16950.0,
+        "close_price": 17450.0,
+        "volume": 902243.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250311,
+        "open_price": 17450.0,
+        "high_price": 17470.0,
+        "low_price": 17180.0,
+        "close_price": 17470.0,
+        "volume": 2032585.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250310,
+        "open_price": 18070.0,
+        "high_price": 18230.0,
+        "low_price": 17640.0,
+        "close_price": 17710.0,
+        "volume": 763034.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250309,
+        "open_price": 18120.0,
+        "high_price": 18170.0,
+        "low_price": 17640.0,
+        "close_price": 17700.0,
+        "volume": 4763906.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250308,
+        "open_price": 18290.0,
+        "high_price": 18290.0,
+        "low_price": 17750.0,
+        "close_price": 18180.0,
+        "volume": 2257415.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250305,
+        "open_price": 18400.0,
+        "high_price": 18600.0,
+        "low_price": 17990.0,
+        "close_price": 18290.0,
+        "volume": 3153120.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250304,
+        "open_price": 19010.0,
+        "high_price": 19010.0,
+        "low_price": 17930.0,
+        "close_price": 18510.0,
+        "volume": 1188080.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250303,
+        "open_price": 18650.0,
+        "high_price": 18850.0,
+        "low_price": 18430.0,
+        "close_price": 18480.0,
+        "volume": 5782541.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250302,
+        "open_price": 18870.0,
+        "high_price": 19380.0,
+        "low_price": 18780.0,
+        "close_price": 18990.0,
+        "volume": 3301011.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250301,
+        "open_price": 19040.0,
+        "high_price": 19040.0,
+        "low_price": 18460.0,
+        "close_price": 18870.0,
+        "volume": 2956189.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250226,
+        "open_price": 18730.0,
+        "high_price": 19090.0,
+        "low_price": 18430.0,
+        "close_price": 18930.0,
+        "volume": 2443248.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250225,
+        "open_price": 19030.0,
+        "high_price": 19030.0,
+        "low_price": 18490.0,
+        "close_price": 19000.0,
+        "volume": 7484249.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250224,
+        "open_price": 17900.0,
+        "high_price": 18500.0,
+        "low_price": 17900.0,
+        "close_price": 18480.0,
+        "volume": 5739498.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250223,
+        "open_price": 18140.0,
+        "high_price": 18300.0,
+        "low_price": 17550.0,
+        "close_price": 17970.0,
+        "volume": 1424480.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250222,
+        "open_price": 17810.0,
+        "high_price": 18130.0,
+        "low_price": 17670.0,
+        "close_price": 17920.0,
+        "volume": 3263029.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250219,
+        "open_price": 18000.0,
+        "high_price": 18000.0,
+        "low_price": 17340.0,
+        "close_price": 17810.0,
+        "volume": 1486454.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250218,
+        "open_price": 17300.0,
+        "high_price": 18200.0,
+        "low_price": 17300.0,
+        "close_price": 17800.0,
+        "volume": 1611023.0
+    },
+    {
+        "symbol": "شراز",
+        "trade_date": 20250217,
+        "open_price": 17280.0,
+        "high_price": 18180.0,
+        "low_price": 17280.0,
+        "close_price": 17760.0,
+        "volume": 331679.0
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "symbol": "ضملی9034",
+        "trade_date": 20260901,
+        "open_price": 12999.0,
+        "high_price": 13999.0,
+        "low_price": 12000.0,
+        "close_price": 12124.0,
+        "volume": 192.0
+    },
+    {
+        "symbol": "ضملی9034",
+        "trade_date": 20260831,
+        "open_price": 12099.0,
+        "high_price": 12099.0,
+        "low_price": 12000.0,
+        "close_price": 12030.0,
+        "volume": 100.0
+    },
+    {
+        "symbol": "ضملی9034",
+        "trade_date": 20260829,
+        "open_price": 11990.0,
+        "high_price": 12100.0,
+        "low_price": 11990.0,
+        "close_price": 12088.0,
+        "volume": 13.0
+    },
+    {
+        "symbol": "ضملی9034",
+        "trade_date": 20260826,
+        "open_price": 10000.0,
+        "high_price": 11500.0,
+        "low_price": 9999.0,
+        "close_price": 10304.0,
+        "volume": 23.0
+    },
+    {
+        "symbol": "ضملی9034",
+        "trade_date": 20260825,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9044.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ضملی9034",
+        "trade_date": 20260824,
+        "open_price": 9516.0,
+        "high_price": 9516.0,
+        "low_price": 9024.0,
+        "close_price": 9044.0,
+        "volume": 53.0
+    },
+    {
+        "symbol": "ضملی9034",
+        "trade_date": 20260823,
+        "open_price": 9890.0,
+        "high_price": 9890.0,
+        "low_price": 8854.0,
+        "close_price": 9106.0,
+        "volume": 114.0
+    },
+    {
+        "symbol": "ضملی9034",
+        "trade_date": 20260822,
+        "open_price": 9468.0,
+        "high_price": 9468.0,
+        "low_price": 9207.0,
+        "close_price": 9349.0,
+        "volume": 35.0
+    },
+    {
+        "symbol": "ضملی9034",
+        "trade_date": 20260819,
+        "open_price": 9187.0,
+        "high_price": 9187.0,
+        "low_price": 8875.0,
+        "close_price": 9062.0,
+        "volume": 800.0
+    },
+    {
+        "symbol": "ضملی9034",
+        "trade_date": 20260818,
+        "open_price": 9498.0,
+        "high_price": 9498.0,
+        "low_price": 8925.0,
+        "close_price": 9014.0,
+        "volume": 308.0
+    },
+    {
+        "symbol": "ضملی9034",
+        "trade_date": 20260817,
+        "open_price": 9640.0,
+        "high_price": 9660.0,
+        "low_price": 9402.0,
+        "close_price": 9597.0,
+        "volume": 261.0
+    },
+    {
+        "symbol": "ضملی9034",
+        "trade_date": 20260816,
+        "open_price": 10250.0,
+        "high_price": 10250.0,
+        "low_price": 9150.0,
+        "close_price": 9387.0,
+        "volume": 916.0
+    },
+    {
+        "symbol": "ضملی9034",
+        "trade_date": 20260815,
+        "open_price": 11500.0,
+        "high_price": 11500.0,
+        "low_price": 10900.0,
+        "close_price": 11330.0,
+        "volume": 15.0
+    },
+    {
+        "symbol": "ضملی9034",
+        "trade_date": 20260811,
+        "open_price": 11750.0,
+        "high_price": 11750.0,
+        "low_price": 11390.0,
+        "close_price": 11682.0,
+        "volume": 69.0
+    },
+    {
+        "symbol": "ضملی9034",
+        "trade_date": 20260810,
+        "open_price": 11495.0,
+        "high_price": 11495.0,
+        "low_price": 10010.0,
+        "close_price": 10612.0,
+        "volume": 54.0
+    },
+    {
+        "symbol": "ضملی9034",
+        "trade_date": 20260809,
+        "open_price": 10005.0,
+        "high_price": 10599.0,
+        "low_price": 9000.0,
+        "close_price": 9749.0,
+        "volume": 494.0
+    },
+    {
+        "symbol": "ضملی9034",
+        "trade_date": 20260808,
+        "open_price": 12000.0,
+        "high_price": 15005.0,
+        "low_price": 12000.0,
+        "close_price": 13002.0,
+        "volume": 3.0
+    },
+    {
+        "symbol": "ضملی9034",
+        "trade_date": 20260805,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1.0,
+        "volume": 0.0
+    }
+]

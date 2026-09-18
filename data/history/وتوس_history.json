@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260901,
+        "open_price": 8370.0,
+        "high_price": 8370.0,
+        "low_price": 7890.0,
+        "close_price": 8270.0,
+        "volume": 8362524.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260831,
+        "open_price": 8040.0,
+        "high_price": 8160.0,
+        "low_price": 7860.0,
+        "close_price": 8130.0,
+        "volume": 11269601.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260829,
+        "open_price": 7930.0,
+        "high_price": 7930.0,
+        "low_price": 7930.0,
+        "close_price": 7930.0,
+        "volume": 3178634.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260826,
+        "open_price": 7700.0,
+        "high_price": 7700.0,
+        "low_price": 7700.0,
+        "close_price": 7700.0,
+        "volume": 4274225.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260825,
+        "open_price": 7400.0,
+        "high_price": 7600.0,
+        "low_price": 7400.0,
+        "close_price": 7480.0,
+        "volume": 5071932.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260824,
+        "open_price": 7270.0,
+        "high_price": 7590.0,
+        "low_price": 7270.0,
+        "close_price": 7450.0,
+        "volume": 4728139.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260823,
+        "open_price": 7450.0,
+        "high_price": 7650.0,
+        "low_price": 7230.0,
+        "close_price": 7440.0,
+        "volume": 5972485.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260822,
+        "open_price": 7360.0,
+        "high_price": 7650.0,
+        "low_price": 7290.0,
+        "close_price": 7450.0,
+        "volume": 5097645.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260819,
+        "open_price": 7480.0,
+        "high_price": 7570.0,
+        "low_price": 7450.0,
+        "close_price": 7490.0,
+        "volume": 5057432.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260818,
+        "open_price": 7960.0,
+        "high_price": 7960.0,
+        "low_price": 7510.0,
+        "close_price": 7680.0,
+        "volume": 3627756.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260817,
+        "open_price": 7790.0,
+        "high_price": 7810.0,
+        "low_price": 7660.0,
+        "close_price": 7740.0,
+        "volume": 10314923.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260816,
+        "open_price": 7360.0,
+        "high_price": 7750.0,
+        "low_price": 7360.0,
+        "close_price": 7590.0,
+        "volume": 5236512.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260815,
+        "open_price": 7850.0,
+        "high_price": 7850.0,
+        "low_price": 7510.0,
+        "close_price": 7550.0,
+        "volume": 4135206.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260811,
+        "open_price": 7790.0,
+        "high_price": 7880.0,
+        "low_price": 7650.0,
+        "close_price": 7740.0,
+        "volume": 2663184.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260810,
+        "open_price": 7630.0,
+        "high_price": 7870.0,
+        "low_price": 7630.0,
+        "close_price": 7660.0,
+        "volume": 5206988.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260809,
+        "open_price": 8270.0,
+        "high_price": 8270.0,
+        "low_price": 7850.0,
+        "close_price": 7860.0,
+        "volume": 2412579.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260808,
+        "open_price": 8030.0,
+        "high_price": 8130.0,
+        "low_price": 7900.0,
+        "close_price": 8090.0,
+        "volume": 6187953.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260805,
+        "open_price": 7760.0,
+        "high_price": 7920.0,
+        "low_price": 7760.0,
+        "close_price": 7900.0,
+        "volume": 3009527.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260803,
+        "open_price": 7510.0,
+        "high_price": 7750.0,
+        "low_price": 7510.0,
+        "close_price": 7690.0,
+        "volume": 4885349.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260802,
+        "open_price": 7580.0,
+        "high_price": 7630.0,
+        "low_price": 7340.0,
+        "close_price": 7540.0,
+        "volume": 3114733.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260801,
+        "open_price": 7650.0,
+        "high_price": 7660.0,
+        "low_price": 7220.0,
+        "close_price": 7410.0,
+        "volume": 6896409.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260729,
+        "open_price": 7400.0,
+        "high_price": 7490.0,
+        "low_price": 7200.0,
+        "close_price": 7440.0,
+        "volume": 5387279.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260728,
+        "open_price": 7200.0,
+        "high_price": 7300.0,
+        "low_price": 6940.0,
+        "close_price": 7280.0,
+        "volume": 5631686.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260727,
+        "open_price": 7140.0,
+        "high_price": 7250.0,
+        "low_price": 6880.0,
+        "close_price": 7090.0,
+        "volume": 3335178.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260726,
+        "open_price": 7000.0,
+        "high_price": 7050.0,
+        "low_price": 6870.0,
+        "close_price": 7050.0,
+        "volume": 4475419.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260725,
+        "open_price": 6750.0,
+        "high_price": 6970.0,
+        "low_price": 6610.0,
+        "close_price": 6850.0,
+        "volume": 1486884.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260722,
+        "open_price": 6740.0,
+        "high_price": 7050.0,
+        "low_price": 6740.0,
+        "close_price": 6770.0,
+        "volume": 3292143.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260721,
+        "open_price": 6890.0,
+        "high_price": 7000.0,
+        "low_price": 6820.0,
+        "close_price": 6940.0,
+        "volume": 3524178.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260720,
+        "open_price": 6550.0,
+        "high_price": 6800.0,
+        "low_price": 6550.0,
+        "close_price": 6800.0,
+        "volume": 4458393.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260719,
+        "open_price": 6550.0,
+        "high_price": 6940.0,
+        "low_price": 6550.0,
+        "close_price": 6610.0,
+        "volume": 3771276.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260718,
+        "open_price": 6760.0,
+        "high_price": 6760.0,
+        "low_price": 6750.0,
+        "close_price": 6750.0,
+        "volume": 279351.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260715,
+        "open_price": 7320.0,
+        "high_price": 7320.0,
+        "low_price": 6910.0,
+        "close_price": 6950.0,
+        "volume": 3162177.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260714,
+        "open_price": 7160.0,
+        "high_price": 7170.0,
+        "low_price": 6990.0,
+        "close_price": 7120.0,
+        "volume": 4125311.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260713,
+        "open_price": 6760.0,
+        "high_price": 7160.0,
+        "low_price": 6760.0,
+        "close_price": 6970.0,
+        "volume": 7305615.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260712,
+        "open_price": 6960.0,
+        "high_price": 6960.0,
+        "low_price": 6960.0,
+        "close_price": 6960.0,
+        "volume": 73708.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260711,
+        "open_price": 6960.0,
+        "high_price": 7370.0,
+        "low_price": 6960.0,
+        "close_price": 7170.0,
+        "volume": 1741109.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260708,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7170.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260707,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7170.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260701,
+        "open_price": 7170.0,
+        "high_price": 7180.0,
+        "low_price": 7050.0,
+        "close_price": 7170.0,
+        "volume": 3320144.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260630,
+        "open_price": 6900.0,
+        "high_price": 7080.0,
+        "low_price": 6890.0,
+        "close_price": 6980.0,
+        "volume": 11412121.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260629,
+        "open_price": 6880.0,
+        "high_price": 6890.0,
+        "low_price": 6760.0,
+        "close_price": 6880.0,
+        "volume": 4527675.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260628,
+        "open_price": 7020.0,
+        "high_price": 7020.0,
+        "low_price": 6620.0,
+        "close_price": 6690.0,
+        "volume": 3236801.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260627,
+        "open_price": 6630.0,
+        "high_price": 6950.0,
+        "low_price": 6550.0,
+        "close_price": 6820.0,
+        "volume": 4298370.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260623,
+        "open_price": 6650.0,
+        "high_price": 7050.0,
+        "low_price": 6650.0,
+        "close_price": 6750.0,
+        "volume": 5031556.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260622,
+        "open_price": 6850.0,
+        "high_price": 6850.0,
+        "low_price": 6850.0,
+        "close_price": 6850.0,
+        "volume": 120816.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260621,
+        "open_price": 7070.0,
+        "high_price": 7070.0,
+        "low_price": 7060.0,
+        "close_price": 7060.0,
+        "volume": 523437.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260620,
+        "open_price": 7120.0,
+        "high_price": 7560.0,
+        "low_price": 7120.0,
+        "close_price": 7270.0,
+        "volume": 4549659.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260617,
+        "open_price": 7340.0,
+        "high_price": 7340.0,
+        "low_price": 7340.0,
+        "close_price": 7340.0,
+        "volume": 1191724.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260616,
+        "open_price": 7820.0,
+        "high_price": 7950.0,
+        "low_price": 7490.0,
+        "close_price": 7560.0,
+        "volume": 4952243.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260615,
+        "open_price": 7720.0,
+        "high_price": 7720.0,
+        "low_price": 7710.0,
+        "close_price": 7720.0,
+        "volume": 9069527.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260614,
+        "open_price": 7500.0,
+        "high_price": 7500.0,
+        "low_price": 7340.0,
+        "close_price": 7500.0,
+        "volume": 6677526.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260613,
+        "open_price": 7290.0,
+        "high_price": 7290.0,
+        "low_price": 7290.0,
+        "close_price": 7290.0,
+        "volume": 1608604.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260610,
+        "open_price": 7190.0,
+        "high_price": 7280.0,
+        "low_price": 6870.0,
+        "close_price": 7080.0,
+        "volume": 5139194.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260609,
+        "open_price": 7070.0,
+        "high_price": 7070.0,
+        "low_price": 7070.0,
+        "close_price": 7070.0,
+        "volume": 722739.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260608,
+        "open_price": 6870.0,
+        "high_price": 6870.0,
+        "low_price": 6870.0,
+        "close_price": 6870.0,
+        "volume": 457662.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260607,
+        "open_price": 7080.0,
+        "high_price": 7080.0,
+        "low_price": 7080.0,
+        "close_price": 7080.0,
+        "volume": 2469042.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260606,
+        "open_price": 6880.0,
+        "high_price": 6880.0,
+        "low_price": 6880.0,
+        "close_price": 6880.0,
+        "volume": 2075693.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260603,
+        "open_price": 6650.0,
+        "high_price": 6680.0,
+        "low_price": 6650.0,
+        "close_price": 6680.0,
+        "volume": 5153109.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260602,
+        "open_price": 6420.0,
+        "high_price": 6540.0,
+        "low_price": 6160.0,
+        "close_price": 6490.0,
+        "volume": 11287041.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260601,
+        "open_price": 6500.0,
+        "high_price": 6500.0,
+        "low_price": 6140.0,
+        "close_price": 6350.0,
+        "volume": 6283810.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260531,
+        "open_price": 6320.0,
+        "high_price": 6320.0,
+        "low_price": 6260.0,
+        "close_price": 6320.0,
+        "volume": 936668.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260530,
+        "open_price": 6140.0,
+        "high_price": 6140.0,
+        "low_price": 6100.0,
+        "close_price": 6140.0,
+        "volume": 2350929.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260526,
+        "open_price": 5970.0,
+        "high_price": 5970.0,
+        "low_price": 5940.0,
+        "close_price": 5970.0,
+        "volume": 3275955.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260525,
+        "open_price": 5800.0,
+        "high_price": 5800.0,
+        "low_price": 5800.0,
+        "close_price": 5800.0,
+        "volume": 1902600.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260524,
+        "open_price": 5640.0,
+        "high_price": 5640.0,
+        "low_price": 5640.0,
+        "close_price": 5640.0,
+        "volume": 1200043.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260523,
+        "open_price": 5480.0,
+        "high_price": 5480.0,
+        "low_price": 5480.0,
+        "close_price": 5480.0,
+        "volume": 619325.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260520,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260519,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260225,
+        "open_price": 5390.0,
+        "high_price": 5390.0,
+        "low_price": 5390.0,
+        "close_price": 5390.0,
+        "volume": 902473.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260224,
+        "open_price": 5170.0,
+        "high_price": 5260.0,
+        "low_price": 5080.0,
+        "close_price": 5240.0,
+        "volume": 770019.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260223,
+        "open_price": 5360.0,
+        "high_price": 5360.0,
+        "low_price": 5060.0,
+        "close_price": 5110.0,
+        "volume": 676340.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260222,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5210.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260221,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8340.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260218,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8340.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260217,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8340.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260216,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8340.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260215,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8340.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260214,
+        "open_price": 8360.0,
+        "high_price": 8500.0,
+        "low_price": 8310.0,
+        "close_price": 8340.0,
+        "volume": 1946007.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260210,
+        "open_price": 8780.0,
+        "high_price": 8790.0,
+        "low_price": 8430.0,
+        "close_price": 8560.0,
+        "volume": 571449.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260209,
+        "open_price": 8630.0,
+        "high_price": 8760.0,
+        "low_price": 8600.0,
+        "close_price": 8610.0,
+        "volume": 833026.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260208,
+        "open_price": 8920.0,
+        "high_price": 9050.0,
+        "low_price": 8760.0,
+        "close_price": 8860.0,
+        "volume": 2377956.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260207,
+        "open_price": 9100.0,
+        "high_price": 9190.0,
+        "low_price": 8980.0,
+        "close_price": 9030.0,
+        "volume": 3091962.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260203,
+        "open_price": 9140.0,
+        "high_price": 9150.0,
+        "low_price": 8630.0,
+        "close_price": 8940.0,
+        "volume": 1296732.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260202,
+        "open_price": 8890.0,
+        "high_price": 8890.0,
+        "low_price": 8810.0,
+        "close_price": 8890.0,
+        "volume": 3802511.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260201,
+        "open_price": 8450.0,
+        "high_price": 8960.0,
+        "low_price": 8450.0,
+        "close_price": 8640.0,
+        "volume": 3738533.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260131,
+        "open_price": 8710.0,
+        "high_price": 8790.0,
+        "low_price": 8710.0,
+        "close_price": 8710.0,
+        "volume": 679568.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260128,
+        "open_price": 8970.0,
+        "high_price": 9200.0,
+        "low_price": 8970.0,
+        "close_price": 8970.0,
+        "volume": 1656992.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260127,
+        "open_price": 9240.0,
+        "high_price": 9240.0,
+        "low_price": 9240.0,
+        "close_price": 9240.0,
+        "volume": 119627.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260126,
+        "open_price": 9520.0,
+        "high_price": 9520.0,
+        "low_price": 9520.0,
+        "close_price": 9520.0,
+        "volume": 141819.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260125,
+        "open_price": 9810.0,
+        "high_price": 9810.0,
+        "low_price": 9810.0,
+        "close_price": 9810.0,
+        "volume": 447856.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260124,
+        "open_price": 10560.0,
+        "high_price": 10560.0,
+        "low_price": 10100.0,
+        "close_price": 10110.0,
+        "volume": 874948.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260121,
+        "open_price": 9890.0,
+        "high_price": 10440.0,
+        "low_price": 9890.0,
+        "close_price": 10410.0,
+        "volume": 1766486.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260120,
+        "open_price": 10460.0,
+        "high_price": 10650.0,
+        "low_price": 10050.0,
+        "close_price": 10140.0,
+        "volume": 1641605.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260119,
+        "open_price": 10360.0,
+        "high_price": 10370.0,
+        "low_price": 10100.0,
+        "close_price": 10360.0,
+        "volume": 3230194.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260118,
+        "open_price": 10070.0,
+        "high_price": 10070.0,
+        "low_price": 10070.0,
+        "close_price": 10070.0,
+        "volume": 1425928.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260114,
+        "open_price": 9940.0,
+        "high_price": 10230.0,
+        "low_price": 9650.0,
+        "close_price": 9780.0,
+        "volume": 4617879.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260113,
+        "open_price": 9980.0,
+        "high_price": 10010.0,
+        "low_price": 9800.0,
+        "close_price": 9940.0,
+        "volume": 3040394.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260112,
+        "open_price": 9720.0,
+        "high_price": 9720.0,
+        "low_price": 9500.0,
+        "close_price": 9720.0,
+        "volume": 3873615.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260111,
+        "open_price": 9080.0,
+        "high_price": 9640.0,
+        "low_price": 9080.0,
+        "close_price": 9440.0,
+        "volume": 8776229.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260110,
+        "open_price": 9360.0,
+        "high_price": 9360.0,
+        "low_price": 9360.0,
+        "close_price": 9360.0,
+        "volume": 976018.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260107,
+        "open_price": 9690.0,
+        "high_price": 10180.0,
+        "low_price": 9630.0,
+        "close_price": 9640.0,
+        "volume": 1264127.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260106,
+        "open_price": 9680.0,
+        "high_price": 9930.0,
+        "low_price": 9680.0,
+        "close_price": 9920.0,
+        "volume": 1375463.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260105,
+        "open_price": 9360.0,
+        "high_price": 9910.0,
+        "low_price": 9360.0,
+        "close_price": 9650.0,
+        "volume": 2950468.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20260104,
+        "open_price": 9620.0,
+        "high_price": 9900.0,
+        "low_price": 9620.0,
+        "close_price": 9640.0,
+        "volume": 701284.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251231,
+        "open_price": 9860.0,
+        "high_price": 10390.0,
+        "low_price": 9860.0,
+        "close_price": 9910.0,
+        "volume": 3155852.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251230,
+        "open_price": 10160.0,
+        "high_price": 10160.0,
+        "low_price": 10160.0,
+        "close_price": 10160.0,
+        "volume": 579271.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251229,
+        "open_price": 10800.0,
+        "high_price": 10890.0,
+        "low_price": 10450.0,
+        "close_price": 10470.0,
+        "volume": 2135918.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251228,
+        "open_price": 10700.0,
+        "high_price": 11000.0,
+        "low_price": 10640.0,
+        "close_price": 10770.0,
+        "volume": 4969425.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251227,
+        "open_price": 11100.0,
+        "high_price": 11100.0,
+        "low_price": 10630.0,
+        "close_price": 10960.0,
+        "volume": 4183297.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251224,
+        "open_price": 10810.0,
+        "high_price": 10810.0,
+        "low_price": 10520.0,
+        "close_price": 10780.0,
+        "volume": 8099970.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251223,
+        "open_price": 10500.0,
+        "high_price": 10500.0,
+        "low_price": 10500.0,
+        "close_price": 10500.0,
+        "volume": 2287539.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251222,
+        "open_price": 10480.0,
+        "high_price": 10500.0,
+        "low_price": 9900.0,
+        "close_price": 10200.0,
+        "volume": 7608255.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251221,
+        "open_price": 10140.0,
+        "high_price": 10240.0,
+        "low_price": 9900.0,
+        "close_price": 10200.0,
+        "volume": 3322629.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251220,
+        "open_price": 9530.0,
+        "high_price": 9960.0,
+        "low_price": 9530.0,
+        "close_price": 9950.0,
+        "volume": 1732545.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251217,
+        "open_price": 9460.0,
+        "high_price": 9880.0,
+        "low_price": 9460.0,
+        "close_price": 9670.0,
+        "volume": 2483084.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251216,
+        "open_price": 9800.0,
+        "high_price": 10000.0,
+        "low_price": 9610.0,
+        "close_price": 9710.0,
+        "volume": 4427077.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251215,
+        "open_price": 9950.0,
+        "high_price": 10020.0,
+        "low_price": 9440.0,
+        "close_price": 9900.0,
+        "volume": 5717591.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251214,
+        "open_price": 9780.0,
+        "high_price": 9780.0,
+        "low_price": 9500.0,
+        "close_price": 9730.0,
+        "volume": 5678513.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251213,
+        "open_price": 9500.0,
+        "high_price": 9500.0,
+        "low_price": 9500.0,
+        "close_price": 9500.0,
+        "volume": 2554612.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251210,
+        "open_price": 9280.0,
+        "high_price": 9280.0,
+        "low_price": 9280.0,
+        "close_price": 9230.0,
+        "volume": 1385497.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251209,
+        "open_price": 9090.0,
+        "high_price": 9090.0,
+        "low_price": 9090.0,
+        "close_price": 9010.0,
+        "volume": 1210145.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251208,
+        "open_price": 8710.0,
+        "high_price": 8970.0,
+        "low_price": 8600.0,
+        "close_price": 8830.0,
+        "volume": 1343632.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251207,
+        "open_price": 8810.0,
+        "high_price": 8900.0,
+        "low_price": 8490.0,
+        "close_price": 8710.0,
+        "volume": 734395.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251206,
+        "open_price": 8820.0,
+        "high_price": 8900.0,
+        "low_price": 8610.0,
+        "close_price": 8750.0,
+        "volume": 947885.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251203,
+        "open_price": 8430.0,
+        "high_price": 8700.0,
+        "low_price": 8400.0,
+        "close_price": 8650.0,
+        "volume": 1884742.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251202,
+        "open_price": 8610.0,
+        "high_price": 8610.0,
+        "low_price": 8330.0,
+        "close_price": 8450.0,
+        "volume": 850796.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251201,
+        "open_price": 8630.0,
+        "high_price": 8670.0,
+        "low_price": 8390.0,
+        "close_price": 8500.0,
+        "volume": 578051.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251130,
+        "open_price": 8450.0,
+        "high_price": 8670.0,
+        "low_price": 8320.0,
+        "close_price": 8500.0,
+        "volume": 697068.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251129,
+        "open_price": 8560.0,
+        "high_price": 8690.0,
+        "low_price": 8530.0,
+        "close_price": 8570.0,
+        "volume": 1481533.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251126,
+        "open_price": 8720.0,
+        "high_price": 8920.0,
+        "low_price": 8560.0,
+        "close_price": 8790.0,
+        "volume": 567009.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251125,
+        "open_price": 9000.0,
+        "high_price": 9000.0,
+        "low_price": 8760.0,
+        "close_price": 8820.0,
+        "volume": 1193109.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251123,
+        "open_price": 8500.0,
+        "high_price": 8980.0,
+        "low_price": 8500.0,
+        "close_price": 8780.0,
+        "volume": 1089035.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251122,
+        "open_price": 8670.0,
+        "high_price": 8850.0,
+        "low_price": 8590.0,
+        "close_price": 8720.0,
+        "volume": 1217994.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251119,
+        "open_price": 8710.0,
+        "high_price": 9030.0,
+        "low_price": 8670.0,
+        "close_price": 8850.0,
+        "volume": 778871.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251118,
+        "open_price": 8840.0,
+        "high_price": 8950.0,
+        "low_price": 8760.0,
+        "close_price": 8930.0,
+        "volume": 848694.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251117,
+        "open_price": 9090.0,
+        "high_price": 9210.0,
+        "low_price": 8820.0,
+        "close_price": 9030.0,
+        "volume": 760409.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251116,
+        "open_price": 9350.0,
+        "high_price": 9350.0,
+        "low_price": 8830.0,
+        "close_price": 9090.0,
+        "volume": 608619.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251115,
+        "open_price": 8840.0,
+        "high_price": 9340.0,
+        "low_price": 8840.0,
+        "close_price": 9100.0,
+        "volume": 327804.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251112,
+        "open_price": 9200.0,
+        "high_price": 9200.0,
+        "low_price": 8910.0,
+        "close_price": 9080.0,
+        "volume": 715558.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251111,
+        "open_price": 9170.0,
+        "high_price": 9400.0,
+        "low_price": 9170.0,
+        "close_price": 9180.0,
+        "volume": 1698133.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251110,
+        "open_price": 9280.0,
+        "high_price": 9280.0,
+        "low_price": 9280.0,
+        "close_price": 9450.0,
+        "volume": 634736.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251109,
+        "open_price": 9680.0,
+        "high_price": 9680.0,
+        "low_price": 9340.0,
+        "close_price": 9560.0,
+        "volume": 343741.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251108,
+        "open_price": 9870.0,
+        "high_price": 9900.0,
+        "low_price": 9350.0,
+        "close_price": 9620.0,
+        "volume": 837154.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251105,
+        "open_price": 9560.0,
+        "high_price": 9980.0,
+        "low_price": 9560.0,
+        "close_price": 9620.0,
+        "volume": 1573554.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251104,
+        "open_price": 9800.0,
+        "high_price": 9800.0,
+        "low_price": 9750.0,
+        "close_price": 9850.0,
+        "volume": 1155641.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251103,
+        "open_price": 10110.0,
+        "high_price": 10250.0,
+        "low_price": 9730.0,
+        "close_price": 10050.0,
+        "volume": 1796651.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251102,
+        "open_price": 10250.0,
+        "high_price": 10340.0,
+        "low_price": 9740.0,
+        "close_price": 10020.0,
+        "volume": 1426615.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251101,
+        "open_price": 10040.0,
+        "high_price": 10040.0,
+        "low_price": 9860.0,
+        "close_price": 10040.0,
+        "volume": 4328908.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251029,
+        "open_price": 9830.0,
+        "high_price": 9830.0,
+        "low_price": 9830.0,
+        "close_price": 9750.0,
+        "volume": 1199039.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251028,
+        "open_price": 9530.0,
+        "high_price": 9550.0,
+        "low_price": 9450.0,
+        "close_price": 9550.0,
+        "volume": 1686356.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251027,
+        "open_price": 9380.0,
+        "high_price": 9380.0,
+        "low_price": 9260.0,
+        "close_price": 9280.0,
+        "volume": 1108449.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251026,
+        "open_price": 8830.0,
+        "high_price": 9210.0,
+        "low_price": 8830.0,
+        "close_price": 9110.0,
+        "volume": 1163728.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251025,
+        "open_price": 9180.0,
+        "high_price": 9180.0,
+        "low_price": 8810.0,
+        "close_price": 8950.0,
+        "volume": 1383507.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251022,
+        "open_price": 9160.0,
+        "high_price": 9160.0,
+        "low_price": 8880.0,
+        "close_price": 8920.0,
+        "volume": 2017973.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251021,
+        "open_price": 9170.0,
+        "high_price": 9270.0,
+        "low_price": 9000.0,
+        "close_price": 9150.0,
+        "volume": 1006701.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251020,
+        "open_price": 9120.0,
+        "high_price": 9590.0,
+        "low_price": 9050.0,
+        "close_price": 9260.0,
+        "volume": 2776995.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251019,
+        "open_price": 9330.0,
+        "high_price": 9330.0,
+        "low_price": 9180.0,
+        "close_price": 9320.0,
+        "volume": 2125183.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251018,
+        "open_price": 9060.0,
+        "high_price": 9060.0,
+        "low_price": 9060.0,
+        "close_price": 9060.0,
+        "volume": 1674600.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251015,
+        "open_price": 8800.0,
+        "high_price": 8810.0,
+        "low_price": 8690.0,
+        "close_price": 8800.0,
+        "volume": 3063123.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251014,
+        "open_price": 8540.0,
+        "high_price": 8560.0,
+        "low_price": 8480.0,
+        "close_price": 8560.0,
+        "volume": 2526885.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251013,
+        "open_price": 8460.0,
+        "high_price": 8460.0,
+        "low_price": 8460.0,
+        "close_price": 8320.0,
+        "volume": 759493.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251012,
+        "open_price": 8250.0,
+        "high_price": 8280.0,
+        "low_price": 8190.0,
+        "close_price": 8220.0,
+        "volume": 1407208.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251011,
+        "open_price": 8050.0,
+        "high_price": 8160.0,
+        "low_price": 7820.0,
+        "close_price": 8040.0,
+        "volume": 522842.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251008,
+        "open_price": 8010.0,
+        "high_price": 8150.0,
+        "low_price": 7860.0,
+        "close_price": 8020.0,
+        "volume": 254888.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251007,
+        "open_price": 8100.0,
+        "high_price": 8170.0,
+        "low_price": 7860.0,
+        "close_price": 8020.0,
+        "volume": 307680.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251006,
+        "open_price": 8050.0,
+        "high_price": 8120.0,
+        "low_price": 7810.0,
+        "close_price": 8020.0,
+        "volume": 937804.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251005,
+        "open_price": 8220.0,
+        "high_price": 8220.0,
+        "low_price": 7840.0,
+        "close_price": 7980.0,
+        "volume": 637811.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251004,
+        "open_price": 7800.0,
+        "high_price": 8180.0,
+        "low_price": 7800.0,
+        "close_price": 8000.0,
+        "volume": 1916702.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20251001,
+        "open_price": 7890.0,
+        "high_price": 8160.0,
+        "low_price": 7890.0,
+        "close_price": 7970.0,
+        "volume": 1263529.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250930,
+        "open_price": 8190.0,
+        "high_price": 8230.0,
+        "low_price": 7950.0,
+        "close_price": 8130.0,
+        "volume": 581955.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250929,
+        "open_price": 8350.0,
+        "high_price": 8350.0,
+        "low_price": 8100.0,
+        "close_price": 8190.0,
+        "volume": 645053.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250928,
+        "open_price": 8180.0,
+        "high_price": 8270.0,
+        "low_price": 8180.0,
+        "close_price": 8110.0,
+        "volume": 615815.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250927,
+        "open_price": 7820.0,
+        "high_price": 8240.0,
+        "low_price": 7820.0,
+        "close_price": 8030.0,
+        "volume": 605081.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250924,
+        "open_price": 7890.0,
+        "high_price": 7980.0,
+        "low_price": 7880.0,
+        "close_price": 8060.0,
+        "volume": 438804.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250923,
+        "open_price": 8090.0,
+        "high_price": 8130.0,
+        "low_price": 8050.0,
+        "close_price": 8120.0,
+        "volume": 1299239.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250922,
+        "open_price": 8400.0,
+        "high_price": 8450.0,
+        "low_price": 8080.0,
+        "close_price": 8290.0,
+        "volume": 178092.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250921,
+        "open_price": 8110.0,
+        "high_price": 8200.0,
+        "low_price": 8100.0,
+        "close_price": 8310.0,
+        "volume": 287090.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250920,
+        "open_price": 8130.0,
+        "high_price": 8130.0,
+        "low_price": 8130.0,
+        "close_price": 8350.0,
+        "volume": 204856.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250917,
+        "open_price": 8190.0,
+        "high_price": 8310.0,
+        "low_price": 8190.0,
+        "close_price": 8380.0,
+        "volume": 456743.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250916,
+        "open_price": 8250.0,
+        "high_price": 8400.0,
+        "low_price": 8250.0,
+        "close_price": 8440.0,
+        "volume": 399419.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250915,
+        "open_price": 8780.0,
+        "high_price": 8780.0,
+        "low_price": 8330.0,
+        "close_price": 8500.0,
+        "volume": 664751.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250914,
+        "open_price": 8800.0,
+        "high_price": 8800.0,
+        "low_price": 8540.0,
+        "close_price": 8580.0,
+        "volume": 387937.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250913,
+        "open_price": 8330.0,
+        "high_price": 8700.0,
+        "low_price": 8330.0,
+        "close_price": 8560.0,
+        "volume": 302342.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250909,
+        "open_price": 8690.0,
+        "high_price": 8700.0,
+        "low_price": 8500.0,
+        "close_price": 8570.0,
+        "volume": 332696.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250908,
+        "open_price": 8450.0,
+        "high_price": 8740.0,
+        "low_price": 8450.0,
+        "close_price": 8560.0,
+        "volume": 431560.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250907,
+        "open_price": 8290.0,
+        "high_price": 8710.0,
+        "low_price": 8290.0,
+        "close_price": 8530.0,
+        "volume": 168974.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250906,
+        "open_price": 8780.0,
+        "high_price": 8790.0,
+        "low_price": 8330.0,
+        "close_price": 8530.0,
+        "volume": 511704.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250903,
+        "open_price": 8700.0,
+        "high_price": 8780.0,
+        "low_price": 8560.0,
+        "close_price": 8580.0,
+        "volume": 453316.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250902,
+        "open_price": 8700.0,
+        "high_price": 8710.0,
+        "low_price": 8530.0,
+        "close_price": 8530.0,
+        "volume": 522338.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250831,
+        "open_price": 8280.0,
+        "high_price": 8480.0,
+        "low_price": 8270.0,
+        "close_price": 8470.0,
+        "volume": 403330.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250830,
+        "open_price": 8270.0,
+        "high_price": 8270.0,
+        "low_price": 8270.0,
+        "close_price": 8520.0,
+        "volume": 20196.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250827,
+        "open_price": 8290.0,
+        "high_price": 8420.0,
+        "low_price": 8290.0,
+        "close_price": 8520.0,
+        "volume": 148754.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250826,
+        "open_price": 8340.0,
+        "high_price": 8490.0,
+        "low_price": 8330.0,
+        "close_price": 8540.0,
+        "volume": 302932.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250825,
+        "open_price": 8390.0,
+        "high_price": 8720.0,
+        "low_price": 8370.0,
+        "close_price": 8580.0,
+        "volume": 347978.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250823,
+        "open_price": 8880.0,
+        "high_price": 8880.0,
+        "low_price": 8400.0,
+        "close_price": 8620.0,
+        "volume": 243701.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250820,
+        "open_price": 8420.0,
+        "high_price": 8500.0,
+        "low_price": 8420.0,
+        "close_price": 8650.0,
+        "volume": 175498.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250819,
+        "open_price": 8440.0,
+        "high_price": 8470.0,
+        "low_price": 8440.0,
+        "close_price": 8680.0,
+        "volume": 148326.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250818,
+        "open_price": 9020.0,
+        "high_price": 9060.0,
+        "low_price": 8540.0,
+        "close_price": 8700.0,
+        "volume": 926488.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250817,
+        "open_price": 8580.0,
+        "high_price": 9090.0,
+        "low_price": 8580.0,
+        "close_price": 8800.0,
+        "volume": 706084.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250816,
+        "open_price": 8630.0,
+        "high_price": 8630.0,
+        "low_price": 8630.0,
+        "close_price": 8840.0,
+        "volume": 330597.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250813,
+        "open_price": 8650.0,
+        "high_price": 8650.0,
+        "low_price": 8650.0,
+        "close_price": 8890.0,
+        "volume": 139044.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250812,
+        "open_price": 8680.0,
+        "high_price": 8680.0,
+        "low_price": 8680.0,
+        "close_price": 8910.0,
+        "volume": 163924.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250811,
+        "open_price": 8740.0,
+        "high_price": 8740.0,
+        "low_price": 8720.0,
+        "close_price": 8940.0,
+        "volume": 229223.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250810,
+        "open_price": 8790.0,
+        "high_price": 8940.0,
+        "low_price": 8750.0,
+        "close_price": 8980.0,
+        "volume": 259838.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250809,
+        "open_price": 8840.0,
+        "high_price": 9000.0,
+        "low_price": 8800.0,
+        "close_price": 9020.0,
+        "volume": 378767.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250806,
+        "open_price": 9050.0,
+        "high_price": 9280.0,
+        "low_price": 8830.0,
+        "close_price": 9070.0,
+        "volume": 419875.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250805,
+        "open_price": 9390.0,
+        "high_price": 9390.0,
+        "low_price": 8850.0,
+        "close_price": 9100.0,
+        "volume": 235203.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250804,
+        "open_price": 8800.0,
+        "high_price": 9290.0,
+        "low_price": 8800.0,
+        "close_price": 9120.0,
+        "volume": 854577.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250803,
+        "open_price": 8720.0,
+        "high_price": 9220.0,
+        "low_price": 8720.0,
+        "close_price": 9020.0,
+        "volume": 1146358.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250802,
+        "open_price": 8870.0,
+        "high_price": 8900.0,
+        "low_price": 8870.0,
+        "close_price": 8980.0,
+        "volume": 976885.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250730,
+        "open_price": 8890.0,
+        "high_price": 8900.0,
+        "low_price": 8890.0,
+        "close_price": 9140.0,
+        "volume": 123776.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250729,
+        "open_price": 8900.0,
+        "high_price": 8910.0,
+        "low_price": 8900.0,
+        "close_price": 9160.0,
+        "volume": 33369.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250728,
+        "open_price": 8980.0,
+        "high_price": 9160.0,
+        "low_price": 8980.0,
+        "close_price": 9170.0,
+        "volume": 455544.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250727,
+        "open_price": 9080.0,
+        "high_price": 9080.0,
+        "low_price": 9020.0,
+        "close_price": 9250.0,
+        "volume": 220917.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250726,
+        "open_price": 9080.0,
+        "high_price": 9100.0,
+        "low_price": 9080.0,
+        "close_price": 9290.0,
+        "volume": 413751.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250723,
+        "open_price": 9130.0,
+        "high_price": 9140.0,
+        "low_price": 9120.0,
+        "close_price": 9360.0,
+        "volume": 208414.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250722,
+        "open_price": 9360.0,
+        "high_price": 9440.0,
+        "low_price": 9210.0,
+        "close_price": 9400.0,
+        "volume": 577955.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250721,
+        "open_price": 9500.0,
+        "high_price": 9640.0,
+        "low_price": 9250.0,
+        "close_price": 9490.0,
+        "volume": 420535.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250720,
+        "open_price": 9390.0,
+        "high_price": 9500.0,
+        "low_price": 9280.0,
+        "close_price": 9520.0,
+        "volume": 289036.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250719,
+        "open_price": 9510.0,
+        "high_price": 9810.0,
+        "low_price": 9380.0,
+        "close_price": 9560.0,
+        "volume": 345509.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250716,
+        "open_price": 9620.0,
+        "high_price": 9810.0,
+        "low_price": 9570.0,
+        "close_price": 9580.0,
+        "volume": 568745.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250715,
+        "open_price": 9630.0,
+        "high_price": 9630.0,
+        "low_price": 9350.0,
+        "close_price": 9530.0,
+        "volume": 832323.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250714,
+        "open_price": 9790.0,
+        "high_price": 9790.0,
+        "low_price": 9420.0,
+        "close_price": 9630.0,
+        "volume": 860296.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250713,
+        "open_price": 9480.0,
+        "high_price": 9500.0,
+        "low_price": 9470.0,
+        "close_price": 9710.0,
+        "volume": 291383.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250712,
+        "open_price": 9780.0,
+        "high_price": 9980.0,
+        "low_price": 9710.0,
+        "close_price": 9760.0,
+        "volume": 883044.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250709,
+        "open_price": 9530.0,
+        "high_price": 9530.0,
+        "low_price": 9530.0,
+        "close_price": 9750.0,
+        "volume": 347458.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250708,
+        "open_price": 9650.0,
+        "high_price": 10100.0,
+        "low_price": 9580.0,
+        "close_price": 9820.0,
+        "volume": 255210.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250707,
+        "open_price": 9640.0,
+        "high_price": 10180.0,
+        "low_price": 9640.0,
+        "close_price": 9870.0,
+        "volume": 352026.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250702,
+        "open_price": 9760.0,
+        "high_price": 10170.0,
+        "low_price": 9760.0,
+        "close_price": 9890.0,
+        "volume": 1874060.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250701,
+        "open_price": 9930.0,
+        "high_price": 9990.0,
+        "low_price": 9870.0,
+        "close_price": 10060.0,
+        "volume": 523288.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250630,
+        "open_price": 10130.0,
+        "high_price": 10550.0,
+        "low_price": 10130.0,
+        "close_price": 10170.0,
+        "volume": 4249123.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250629,
+        "open_price": 10370.0,
+        "high_price": 10370.0,
+        "low_price": 10370.0,
+        "close_price": 10440.0,
+        "volume": 1075341.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250628,
+        "open_price": 10690.0,
+        "high_price": 10690.0,
+        "low_price": 10690.0,
+        "close_price": 10690.0,
+        "volume": 1610889.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 11020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 11020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 11020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 11020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 11020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 11020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 11020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 11020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250611,
+        "open_price": 10810.0,
+        "high_price": 11130.0,
+        "low_price": 10810.0,
+        "close_price": 11020.0,
+        "volume": 543533.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250610,
+        "open_price": 10940.0,
+        "high_price": 11150.0,
+        "low_price": 10940.0,
+        "close_price": 11140.0,
+        "volume": 540797.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250609,
+        "open_price": 11060.0,
+        "high_price": 11060.0,
+        "low_price": 11010.0,
+        "close_price": 11270.0,
+        "volume": 300908.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250608,
+        "open_price": 11120.0,
+        "high_price": 11320.0,
+        "low_price": 11120.0,
+        "close_price": 11350.0,
+        "volume": 476481.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250607,
+        "open_price": 11500.0,
+        "high_price": 11500.0,
+        "low_price": 11180.0,
+        "close_price": 11460.0,
+        "volume": 231872.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250603,
+        "open_price": 11510.0,
+        "high_price": 11650.0,
+        "low_price": 11310.0,
+        "close_price": 11520.0,
+        "volume": 504440.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250602,
+        "open_price": 11510.0,
+        "high_price": 11740.0,
+        "low_price": 11510.0,
+        "close_price": 11650.0,
+        "volume": 369640.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250601,
+        "open_price": 11750.0,
+        "high_price": 11780.0,
+        "low_price": 11600.0,
+        "close_price": 11670.0,
+        "volume": 1038395.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250531,
+        "open_price": 11760.0,
+        "high_price": 12080.0,
+        "low_price": 11760.0,
+        "close_price": 11950.0,
+        "volume": 2594018.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250528,
+        "open_price": 11740.0,
+        "high_price": 12090.0,
+        "low_price": 11740.0,
+        "close_price": 11960.0,
+        "volume": 605202.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250527,
+        "open_price": 12350.0,
+        "high_price": 12350.0,
+        "low_price": 11830.0,
+        "close_price": 12050.0,
+        "volume": 802831.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250526,
+        "open_price": 12010.0,
+        "high_price": 12400.0,
+        "low_price": 12010.0,
+        "close_price": 12190.0,
+        "volume": 876063.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250525,
+        "open_price": 12690.0,
+        "high_price": 12690.0,
+        "low_price": 11980.0,
+        "close_price": 12340.0,
+        "volume": 1073375.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250524,
+        "open_price": 12360.0,
+        "high_price": 12380.0,
+        "low_price": 12150.0,
+        "close_price": 12340.0,
+        "volume": 1760449.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250521,
+        "open_price": 11810.0,
+        "high_price": 12120.0,
+        "low_price": 11810.0,
+        "close_price": 12020.0,
+        "volume": 711370.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250520,
+        "open_price": 12240.0,
+        "high_price": 12240.0,
+        "low_price": 11540.0,
+        "close_price": 12170.0,
+        "volume": 2901655.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250519,
+        "open_price": 11970.0,
+        "high_price": 11990.0,
+        "low_price": 11730.0,
+        "close_price": 11890.0,
+        "volume": 1110128.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250518,
+        "open_price": 11790.0,
+        "high_price": 11890.0,
+        "low_price": 11210.0,
+        "close_price": 11650.0,
+        "volume": 1577451.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250517,
+        "open_price": 11800.0,
+        "high_price": 12090.0,
+        "low_price": 11450.0,
+        "close_price": 11550.0,
+        "volume": 1181566.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250514,
+        "open_price": 11800.0,
+        "high_price": 12110.0,
+        "low_price": 11730.0,
+        "close_price": 11800.0,
+        "volume": 1258344.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250513,
+        "open_price": 12140.0,
+        "high_price": 12270.0,
+        "low_price": 11900.0,
+        "close_price": 12090.0,
+        "volume": 708342.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250512,
+        "open_price": 12160.0,
+        "high_price": 12170.0,
+        "low_price": 12030.0,
+        "close_price": 12130.0,
+        "volume": 1173731.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250511,
+        "open_price": 11660.0,
+        "high_price": 12100.0,
+        "low_price": 11620.0,
+        "close_price": 11820.0,
+        "volume": 877634.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250510,
+        "open_price": 12110.0,
+        "high_price": 12300.0,
+        "low_price": 11920.0,
+        "close_price": 11970.0,
+        "volume": 1606293.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250507,
+        "open_price": 12670.0,
+        "high_price": 12670.0,
+        "low_price": 12040.0,
+        "close_price": 12280.0,
+        "volume": 2730480.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250506,
+        "open_price": 12780.0,
+        "high_price": 12800.0,
+        "low_price": 12230.0,
+        "close_price": 12410.0,
+        "volume": 1441480.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250505,
+        "open_price": 12650.0,
+        "high_price": 12930.0,
+        "low_price": 12210.0,
+        "close_price": 12480.0,
+        "volume": 1395444.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250504,
+        "open_price": 12320.0,
+        "high_price": 13020.0,
+        "low_price": 12310.0,
+        "close_price": 12570.0,
+        "volume": 936546.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250503,
+        "open_price": 13050.0,
+        "high_price": 13050.0,
+        "low_price": 12680.0,
+        "close_price": 12690.0,
+        "volume": 1166196.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250430,
+        "open_price": 13050.0,
+        "high_price": 13070.0,
+        "low_price": 13050.0,
+        "close_price": 13070.0,
+        "volume": 1275846.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250429,
+        "open_price": 12570.0,
+        "high_price": 12840.0,
+        "low_price": 12570.0,
+        "close_price": 12690.0,
+        "volume": 779384.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250428,
+        "open_price": 12490.0,
+        "high_price": 12570.0,
+        "low_price": 12330.0,
+        "close_price": 12470.0,
+        "volume": 1081382.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250427,
+        "open_price": 12430.0,
+        "high_price": 12450.0,
+        "low_price": 11850.0,
+        "close_price": 12210.0,
+        "volume": 608116.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250426,
+        "open_price": 12230.0,
+        "high_price": 12250.0,
+        "low_price": 11760.0,
+        "close_price": 12100.0,
+        "volume": 1891033.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250423,
+        "open_price": 11950.0,
+        "high_price": 11980.0,
+        "low_price": 11450.0,
+        "close_price": 11900.0,
+        "volume": 2114738.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250422,
+        "open_price": 11500.0,
+        "high_price": 11710.0,
+        "low_price": 11200.0,
+        "close_price": 11640.0,
+        "volume": 2685614.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250421,
+        "open_price": 11500.0,
+        "high_price": 11500.0,
+        "low_price": 11500.0,
+        "close_price": 11370.0,
+        "volume": 832570.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 11170.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 11170.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250416,
+        "open_price": 11290.0,
+        "high_price": 11510.0,
+        "low_price": 10860.0,
+        "close_price": 11170.0,
+        "volume": 4024268.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250415,
+        "open_price": 11200.0,
+        "high_price": 11200.0,
+        "low_price": 11200.0,
+        "close_price": 11190.0,
+        "volume": 1385561.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250414,
+        "open_price": 11060.0,
+        "high_price": 11060.0,
+        "low_price": 11060.0,
+        "close_price": 10880.0,
+        "volume": 645387.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250413,
+        "open_price": 10990.0,
+        "high_price": 10990.0,
+        "low_price": 10990.0,
+        "close_price": 10740.0,
+        "volume": 296037.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250412,
+        "open_price": 10350.0,
+        "high_price": 10750.0,
+        "low_price": 10340.0,
+        "close_price": 10670.0,
+        "volume": 1327666.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250409,
+        "open_price": 10770.0,
+        "high_price": 10770.0,
+        "low_price": 10200.0,
+        "close_price": 10440.0,
+        "volume": 765771.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250408,
+        "open_price": 10400.0,
+        "high_price": 10600.0,
+        "low_price": 10300.0,
+        "close_price": 10460.0,
+        "volume": 817707.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250407,
+        "open_price": 10200.0,
+        "high_price": 10390.0,
+        "low_price": 10200.0,
+        "close_price": 10300.0,
+        "volume": 974380.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250406,
+        "open_price": 10330.0,
+        "high_price": 10540.0,
+        "low_price": 10330.0,
+        "close_price": 10510.0,
+        "volume": 717493.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250405,
+        "open_price": 10500.0,
+        "high_price": 10790.0,
+        "low_price": 10400.0,
+        "close_price": 10600.0,
+        "volume": 621364.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250330,
+        "open_price": 10550.0,
+        "high_price": 11000.0,
+        "low_price": 10550.0,
+        "close_price": 10680.0,
+        "volume": 1530236.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250329,
+        "open_price": 10800.0,
+        "high_price": 11100.0,
+        "low_price": 10700.0,
+        "close_price": 10870.0,
+        "volume": 650173.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250326,
+        "open_price": 11300.0,
+        "high_price": 11320.0,
+        "low_price": 10830.0,
+        "close_price": 11030.0,
+        "volume": 350679.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250325,
+        "open_price": 11020.0,
+        "high_price": 11180.0,
+        "low_price": 10870.0,
+        "close_price": 11010.0,
+        "volume": 365254.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250318,
+        "open_price": 10790.0,
+        "high_price": 11110.0,
+        "low_price": 10790.0,
+        "close_price": 10970.0,
+        "volume": 688877.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250317,
+        "open_price": 11630.0,
+        "high_price": 11640.0,
+        "low_price": 10980.0,
+        "close_price": 11120.0,
+        "volume": 1527975.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250316,
+        "open_price": 11190.0,
+        "high_price": 11410.0,
+        "low_price": 11190.0,
+        "close_price": 11310.0,
+        "volume": 962676.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 11080.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250312,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 11080.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250311,
+        "open_price": 11020.0,
+        "high_price": 11350.0,
+        "low_price": 11020.0,
+        "close_price": 11080.0,
+        "volume": 1964493.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250310,
+        "open_price": 11790.0,
+        "high_price": 11790.0,
+        "low_price": 11300.0,
+        "close_price": 11360.0,
+        "volume": 1363267.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250309,
+        "open_price": 11360.0,
+        "high_price": 11360.0,
+        "low_price": 11360.0,
+        "close_price": 11640.0,
+        "volume": 277627.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250308,
+        "open_price": 11800.0,
+        "high_price": 11860.0,
+        "low_price": 11200.0,
+        "close_price": 11710.0,
+        "volume": 2824314.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250305,
+        "open_price": 11390.0,
+        "high_price": 12000.0,
+        "low_price": 11370.0,
+        "close_price": 11520.0,
+        "volume": 2762371.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250304,
+        "open_price": 11700.0,
+        "high_price": 12100.0,
+        "low_price": 11700.0,
+        "close_price": 11720.0,
+        "volume": 1852159.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250303,
+        "open_price": 11790.0,
+        "high_price": 11790.0,
+        "low_price": 11790.0,
+        "close_price": 12060.0,
+        "volume": 291803.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250302,
+        "open_price": 12250.0,
+        "high_price": 12370.0,
+        "low_price": 11890.0,
+        "close_price": 12150.0,
+        "volume": 562097.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250301,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12590.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250226,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12590.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250225,
+        "open_price": 13100.0,
+        "high_price": 13100.0,
+        "low_price": 12480.0,
+        "close_price": 12590.0,
+        "volume": 3786439.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250224,
+        "open_price": 12400.0,
+        "high_price": 13090.0,
+        "low_price": 12400.0,
+        "close_price": 12860.0,
+        "volume": 2291315.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250223,
+        "open_price": 12670.0,
+        "high_price": 13390.0,
+        "low_price": 12670.0,
+        "close_price": 12710.0,
+        "volume": 3912488.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250222,
+        "open_price": 12720.0,
+        "high_price": 12720.0,
+        "low_price": 12720.0,
+        "close_price": 13060.0,
+        "volume": 137280.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250219,
+        "open_price": 12860.0,
+        "high_price": 12860.0,
+        "low_price": 12860.0,
+        "close_price": 13110.0,
+        "volume": 373932.0
+    },
+    {
+        "symbol": "وتوس",
+        "trade_date": 20250218,
+        "open_price": 13030.0,
+        "high_price": 13030.0,
+        "low_price": 13030.0,
+        "close_price": 13250.0,
+        "volume": 485035.0
+    }
+]

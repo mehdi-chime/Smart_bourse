@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "سمان",
+        "trade_date": 20260901,
+        "open_price": 41029.0,
+        "high_price": 41343.0,
+        "low_price": 39300.0,
+        "close_price": 40369.0,
+        "volume": 843803.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260831,
+        "open_price": 40164.0,
+        "high_price": 40497.0,
+        "low_price": 39663.0,
+        "close_price": 40141.0,
+        "volume": 4945647.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260829,
+        "open_price": 40010.0,
+        "high_price": 40985.0,
+        "low_price": 39523.0,
+        "close_price": 40889.0,
+        "volume": 2310149.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260826,
+        "open_price": 39500.0,
+        "high_price": 40233.0,
+        "low_price": 39222.0,
+        "close_price": 39792.0,
+        "volume": 2350149.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260825,
+        "open_price": 37632.0,
+        "high_price": 39222.0,
+        "low_price": 37632.0,
+        "close_price": 39062.0,
+        "volume": 12524689.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260824,
+        "open_price": 39276.0,
+        "high_price": 39276.0,
+        "low_price": 37620.0,
+        "close_price": 38080.0,
+        "volume": 3366973.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260823,
+        "open_price": 38490.0,
+        "high_price": 38884.0,
+        "low_price": 37591.0,
+        "close_price": 38449.0,
+        "volume": 6092608.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260822,
+        "open_price": 37950.0,
+        "high_price": 38606.0,
+        "low_price": 37257.0,
+        "close_price": 38443.0,
+        "volume": 1314389.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260819,
+        "open_price": 37980.0,
+        "high_price": 38048.0,
+        "low_price": 36205.0,
+        "close_price": 37482.0,
+        "volume": 1075207.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260818,
+        "open_price": 38050.0,
+        "high_price": 38325.0,
+        "low_price": 37002.0,
+        "close_price": 37307.0,
+        "volume": 3632952.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260817,
+        "open_price": 37850.0,
+        "high_price": 38634.0,
+        "low_price": 37730.0,
+        "close_price": 38145.0,
+        "volume": 1204101.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260816,
+        "open_price": 37999.0,
+        "high_price": 38160.0,
+        "low_price": 36850.0,
+        "close_price": 37509.0,
+        "volume": 4215407.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260815,
+        "open_price": 38608.0,
+        "high_price": 38608.0,
+        "low_price": 37041.0,
+        "close_price": 37416.0,
+        "volume": 2606238.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260811,
+        "open_price": 37876.0,
+        "high_price": 37877.0,
+        "low_price": 36816.0,
+        "close_price": 37751.0,
+        "volume": 4120277.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260810,
+        "open_price": 36500.0,
+        "high_price": 37457.0,
+        "low_price": 35942.0,
+        "close_price": 36774.0,
+        "volume": 7216842.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260809,
+        "open_price": 37620.0,
+        "high_price": 37777.0,
+        "low_price": 35577.0,
+        "close_price": 36942.0,
+        "volume": 17817516.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260808,
+        "open_price": 36677.0,
+        "high_price": 36677.0,
+        "low_price": 36677.0,
+        "close_price": 36677.0,
+        "volume": 8803797.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260805,
+        "open_price": 35611.0,
+        "high_price": 35612.0,
+        "low_price": 35288.0,
+        "close_price": 35609.0,
+        "volume": 3298794.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260803,
+        "open_price": 34550.0,
+        "high_price": 34589.0,
+        "low_price": 34109.0,
+        "close_price": 34575.0,
+        "volume": 2977717.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260802,
+        "open_price": 33610.0,
+        "high_price": 33611.0,
+        "low_price": 33382.0,
+        "close_price": 33582.0,
+        "volume": 8071958.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260801,
+        "open_price": 32180.0,
+        "high_price": 33500.0,
+        "low_price": 32180.0,
+        "close_price": 32633.0,
+        "volume": 8932455.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260729,
+        "open_price": 31520.0,
+        "high_price": 33440.0,
+        "low_price": 31520.0,
+        "close_price": 32675.0,
+        "volume": 3669995.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260728,
+        "open_price": 32161.0,
+        "high_price": 32823.0,
+        "low_price": 31551.0,
+        "close_price": 32494.0,
+        "volume": 2912090.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260727,
+        "open_price": 32650.0,
+        "high_price": 33190.0,
+        "low_price": 31816.0,
+        "close_price": 31867.0,
+        "volume": 9875779.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260726,
+        "open_price": 32995.0,
+        "high_price": 32995.0,
+        "low_price": 32226.0,
+        "close_price": 32799.0,
+        "volume": 13346847.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260725,
+        "open_price": 32339.0,
+        "high_price": 33190.0,
+        "low_price": 31258.0,
+        "close_price": 32034.0,
+        "volume": 11710628.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260722,
+        "open_price": 32348.0,
+        "high_price": 32348.0,
+        "low_price": 30478.0,
+        "close_price": 32224.0,
+        "volume": 5849971.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260721,
+        "open_price": 31406.0,
+        "high_price": 31406.0,
+        "low_price": 31406.0,
+        "close_price": 31406.0,
+        "volume": 2770992.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260720,
+        "open_price": 30493.0,
+        "high_price": 30493.0,
+        "low_price": 30390.0,
+        "close_price": 30492.0,
+        "volume": 4414943.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260719,
+        "open_price": 28602.0,
+        "high_price": 30363.0,
+        "low_price": 28602.0,
+        "close_price": 29605.0,
+        "volume": 3820696.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260718,
+        "open_price": 29487.0,
+        "high_price": 29487.0,
+        "low_price": 29486.0,
+        "close_price": 29486.0,
+        "volume": 2101432.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260715,
+        "open_price": 30407.0,
+        "high_price": 30407.0,
+        "low_price": 29936.0,
+        "close_price": 30397.0,
+        "volume": 5590929.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260714,
+        "open_price": 28456.0,
+        "high_price": 30216.0,
+        "low_price": 28456.0,
+        "close_price": 29522.0,
+        "volume": 10877718.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260713,
+        "open_price": 29336.0,
+        "high_price": 29336.0,
+        "low_price": 29336.0,
+        "close_price": 29336.0,
+        "volume": 3157093.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260712,
+        "open_price": 30243.0,
+        "high_price": 30243.0,
+        "low_price": 30243.0,
+        "close_price": 30243.0,
+        "volume": 173605.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260711,
+        "open_price": 31500.0,
+        "high_price": 32400.0,
+        "low_price": 31109.0,
+        "close_price": 31178.0,
+        "volume": 3446852.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260708,
+        "open_price": 33009.0,
+        "high_price": 33009.0,
+        "low_price": 31087.0,
+        "close_price": 32071.0,
+        "volume": 4801215.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260707,
+        "open_price": 31667.0,
+        "high_price": 32099.0,
+        "low_price": 31162.0,
+        "close_price": 32048.0,
+        "volume": 3051742.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260701,
+        "open_price": 30977.0,
+        "high_price": 31668.0,
+        "low_price": 29824.0,
+        "close_price": 31165.0,
+        "volume": 6077226.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260630,
+        "open_price": 30969.0,
+        "high_price": 30983.0,
+        "low_price": 29200.0,
+        "close_price": 30746.0,
+        "volume": 7346139.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260629,
+        "open_price": 29763.0,
+        "high_price": 31199.0,
+        "low_price": 29763.0,
+        "close_price": 30081.0,
+        "volume": 13074884.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260628,
+        "open_price": 30683.0,
+        "high_price": 30683.0,
+        "low_price": 30683.0,
+        "close_price": 30683.0,
+        "volume": 3052837.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260627,
+        "open_price": 31781.0,
+        "high_price": 31781.0,
+        "low_price": 31596.0,
+        "close_price": 31631.0,
+        "volume": 3366882.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260623,
+        "open_price": 32459.0,
+        "high_price": 33200.0,
+        "low_price": 32459.0,
+        "close_price": 32573.0,
+        "volume": 20279839.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260622,
+        "open_price": 33462.0,
+        "high_price": 33462.0,
+        "low_price": 33462.0,
+        "close_price": 33462.0,
+        "volume": 1513537.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260621,
+        "open_price": 34496.0,
+        "high_price": 34496.0,
+        "low_price": 34496.0,
+        "close_price": 34496.0,
+        "volume": 6292313.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260620,
+        "open_price": 36395.0,
+        "high_price": 36870.0,
+        "low_price": 35304.0,
+        "close_price": 35562.0,
+        "volume": 2997885.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260617,
+        "open_price": 36470.0,
+        "high_price": 36960.0,
+        "low_price": 36360.0,
+        "close_price": 36395.0,
+        "volume": 30751351.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260616,
+        "open_price": 37600.0,
+        "high_price": 37600.0,
+        "low_price": 36080.0,
+        "close_price": 37484.0,
+        "volume": 27278948.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260615,
+        "open_price": 36505.0,
+        "high_price": 36505.0,
+        "low_price": 36505.0,
+        "close_price": 36505.0,
+        "volume": 6133040.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260614,
+        "open_price": 35442.0,
+        "high_price": 35442.0,
+        "low_price": 35442.0,
+        "close_price": 35442.0,
+        "volume": 253228.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260613,
+        "open_price": 34410.0,
+        "high_price": 34410.0,
+        "low_price": 34410.0,
+        "close_price": 34410.0,
+        "volume": 13178.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260610,
+        "open_price": 33408.0,
+        "high_price": 33408.0,
+        "low_price": 33408.0,
+        "close_price": 33408.0,
+        "volume": 3060643.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260609,
+        "open_price": 32435.0,
+        "high_price": 32435.0,
+        "low_price": 32435.0,
+        "close_price": 32435.0,
+        "volume": 3076814.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260608,
+        "open_price": 30757.0,
+        "high_price": 32141.0,
+        "low_price": 30269.0,
+        "close_price": 31491.0,
+        "volume": 57408513.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260607,
+        "open_price": 31205.0,
+        "high_price": 31205.0,
+        "low_price": 31205.0,
+        "close_price": 31205.0,
+        "volume": 24484.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260606,
+        "open_price": 30297.0,
+        "high_price": 30297.0,
+        "low_price": 30297.0,
+        "close_price": 30297.0,
+        "volume": 2939828.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260603,
+        "open_price": 29415.0,
+        "high_price": 29415.0,
+        "low_price": 29415.0,
+        "close_price": 29415.0,
+        "volume": 4512134.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260602,
+        "open_price": 28559.0,
+        "high_price": 28559.0,
+        "low_price": 28559.0,
+        "close_price": 28559.0,
+        "volume": 5925597.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260601,
+        "open_price": 27728.0,
+        "high_price": 27728.0,
+        "low_price": 27728.0,
+        "close_price": 27728.0,
+        "volume": 3143437.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260531,
+        "open_price": 26921.0,
+        "high_price": 26921.0,
+        "low_price": 26921.0,
+        "close_price": 26921.0,
+        "volume": 3276877.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260530,
+        "open_price": 26137.0,
+        "high_price": 26137.0,
+        "low_price": 26137.0,
+        "close_price": 26137.0,
+        "volume": 25127.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260526,
+        "open_price": 25376.0,
+        "high_price": 25376.0,
+        "low_price": 25376.0,
+        "close_price": 25376.0,
+        "volume": 1057424.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260525,
+        "open_price": 24637.0,
+        "high_price": 24637.0,
+        "low_price": 24637.0,
+        "close_price": 24637.0,
+        "volume": 6204923.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260524,
+        "open_price": 23920.0,
+        "high_price": 23920.0,
+        "low_price": 23920.0,
+        "close_price": 23920.0,
+        "volume": 514814.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260523,
+        "open_price": 23224.0,
+        "high_price": 23224.0,
+        "low_price": 23224.0,
+        "close_price": 23224.0,
+        "volume": 13653362.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260520,
+        "open_price": 22548.0,
+        "high_price": 22548.0,
+        "low_price": 22548.0,
+        "close_price": 22548.0,
+        "volume": 187381.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260519,
+        "open_price": 21892.0,
+        "high_price": 21892.0,
+        "low_price": 21892.0,
+        "close_price": 21892.0,
+        "volume": 19383939.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21255.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260225,
+        "open_price": 20998.0,
+        "high_price": 21592.0,
+        "low_price": 20998.0,
+        "close_price": 21255.0,
+        "volume": 548561.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260224,
+        "open_price": 20610.0,
+        "high_price": 21462.0,
+        "low_price": 20610.0,
+        "close_price": 20964.0,
+        "volume": 335256.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260223,
+        "open_price": 21566.0,
+        "high_price": 21566.0,
+        "low_price": 20950.0,
+        "close_price": 21225.0,
+        "volume": 348517.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260222,
+        "open_price": 20923.0,
+        "high_price": 21570.0,
+        "low_price": 20923.0,
+        "close_price": 20938.0,
+        "volume": 394852.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260221,
+        "open_price": 21570.0,
+        "high_price": 21580.0,
+        "low_price": 21570.0,
+        "close_price": 21570.0,
+        "volume": 328480.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260218,
+        "open_price": 22000.0,
+        "high_price": 22670.0,
+        "low_price": 21590.0,
+        "close_price": 22230.0,
+        "volume": 105748.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260217,
+        "open_price": 21620.0,
+        "high_price": 22510.0,
+        "low_price": 21620.0,
+        "close_price": 22020.0,
+        "volume": 128687.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260216,
+        "open_price": 21800.0,
+        "high_price": 22150.0,
+        "low_price": 21620.0,
+        "close_price": 21910.0,
+        "volume": 415031.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260215,
+        "open_price": 22400.0,
+        "high_price": 22400.0,
+        "low_price": 22100.0,
+        "close_price": 22100.0,
+        "volume": 373945.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260214,
+        "open_price": 23230.0,
+        "high_price": 23230.0,
+        "low_price": 22010.0,
+        "close_price": 22780.0,
+        "volume": 1152380.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260210,
+        "open_price": 22230.0,
+        "high_price": 23350.0,
+        "low_price": 22230.0,
+        "close_price": 22560.0,
+        "volume": 594345.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260209,
+        "open_price": 22690.0,
+        "high_price": 23500.0,
+        "low_price": 22680.0,
+        "close_price": 22710.0,
+        "volume": 340514.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260208,
+        "open_price": 24090.0,
+        "high_price": 24090.0,
+        "low_price": 23140.0,
+        "close_price": 23380.0,
+        "volume": 1268290.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260207,
+        "open_price": 23220.0,
+        "high_price": 23420.0,
+        "low_price": 23220.0,
+        "close_price": 23400.0,
+        "volume": 779125.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260203,
+        "open_price": 22870.0,
+        "high_price": 22930.0,
+        "low_price": 22000.0,
+        "close_price": 22740.0,
+        "volume": 3233646.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260202,
+        "open_price": 21720.0,
+        "high_price": 22470.0,
+        "low_price": 21720.0,
+        "close_price": 22280.0,
+        "volume": 207103.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260201,
+        "open_price": 20730.0,
+        "high_price": 22010.0,
+        "low_price": 20730.0,
+        "close_price": 21830.0,
+        "volume": 10538222.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260131,
+        "open_price": 21240.0,
+        "high_price": 22490.0,
+        "low_price": 21210.0,
+        "close_price": 21370.0,
+        "volume": 340682.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260128,
+        "open_price": 21860.0,
+        "high_price": 23000.0,
+        "low_price": 21860.0,
+        "close_price": 21860.0,
+        "volume": 3260225.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260127,
+        "open_price": 22530.0,
+        "high_price": 22530.0,
+        "low_price": 22530.0,
+        "close_price": 22530.0,
+        "volume": 227375.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260126,
+        "open_price": 23220.0,
+        "high_price": 23220.0,
+        "low_price": 23220.0,
+        "close_price": 23220.0,
+        "volume": 203399.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260125,
+        "open_price": 23930.0,
+        "high_price": 23930.0,
+        "low_price": 23930.0,
+        "close_price": 23930.0,
+        "volume": 111674.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260124,
+        "open_price": 24520.0,
+        "high_price": 25250.0,
+        "low_price": 24510.0,
+        "close_price": 24670.0,
+        "volume": 524854.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260121,
+        "open_price": 25270.0,
+        "high_price": 25520.0,
+        "low_price": 24890.0,
+        "close_price": 25260.0,
+        "volume": 8561953.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260120,
+        "open_price": 24550.0,
+        "high_price": 25280.0,
+        "low_price": 23880.0,
+        "close_price": 24840.0,
+        "volume": 19627405.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260119,
+        "open_price": 24400.0,
+        "high_price": 24810.0,
+        "low_price": 23650.0,
+        "close_price": 24550.0,
+        "volume": 11219316.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260118,
+        "open_price": 24530.0,
+        "high_price": 24530.0,
+        "low_price": 23970.0,
+        "close_price": 24110.0,
+        "volume": 1018355.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260114,
+        "open_price": 23980.0,
+        "high_price": 23980.0,
+        "low_price": 23820.0,
+        "close_price": 23820.0,
+        "volume": 173524.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260113,
+        "open_price": 25470.0,
+        "high_price": 25470.0,
+        "low_price": 24320.0,
+        "close_price": 24550.0,
+        "volume": 1744471.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260112,
+        "open_price": 25460.0,
+        "high_price": 25460.0,
+        "low_price": 24720.0,
+        "close_price": 25070.0,
+        "volume": 1293928.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260111,
+        "open_price": 24720.0,
+        "high_price": 26220.0,
+        "low_price": 24720.0,
+        "close_price": 24730.0,
+        "volume": 6492248.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260110,
+        "open_price": 25480.0,
+        "high_price": 25480.0,
+        "low_price": 25480.0,
+        "close_price": 25480.0,
+        "volume": 2572798.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260107,
+        "open_price": 27590.0,
+        "high_price": 27590.0,
+        "low_price": 26060.0,
+        "close_price": 26260.0,
+        "volume": 2127078.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260106,
+        "open_price": 26050.0,
+        "high_price": 26890.0,
+        "low_price": 26050.0,
+        "close_price": 26860.0,
+        "volume": 6555454.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260105,
+        "open_price": 25680.0,
+        "high_price": 26130.0,
+        "low_price": 25680.0,
+        "close_price": 26110.0,
+        "volume": 6333333.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20260104,
+        "open_price": 25310.0,
+        "high_price": 26100.0,
+        "low_price": 25180.0,
+        "close_price": 25370.0,
+        "volume": 2473060.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251231,
+        "open_price": 25520.0,
+        "high_price": 26570.0,
+        "low_price": 25520.0,
+        "close_price": 25950.0,
+        "volume": 3349832.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251230,
+        "open_price": 26300.0,
+        "high_price": 26300.0,
+        "low_price": 26300.0,
+        "close_price": 26300.0,
+        "volume": 1125547.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251229,
+        "open_price": 27110.0,
+        "high_price": 27570.0,
+        "low_price": 27110.0,
+        "close_price": 27110.0,
+        "volume": 4625328.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251228,
+        "open_price": 29000.0,
+        "high_price": 29000.0,
+        "low_price": 27580.0,
+        "close_price": 27940.0,
+        "volume": 3842192.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251227,
+        "open_price": 29100.0,
+        "high_price": 29140.0,
+        "low_price": 27800.0,
+        "close_price": 28430.0,
+        "volume": 4072648.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251224,
+        "open_price": 28290.0,
+        "high_price": 28360.0,
+        "low_price": 27890.0,
+        "close_price": 28300.0,
+        "volume": 6973325.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251223,
+        "open_price": 27190.0,
+        "high_price": 27830.0,
+        "low_price": 27190.0,
+        "close_price": 27540.0,
+        "volume": 4738874.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251222,
+        "open_price": 26890.0,
+        "high_price": 27040.0,
+        "low_price": 26690.0,
+        "close_price": 27030.0,
+        "volume": 14035263.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251221,
+        "open_price": 25690.0,
+        "high_price": 26370.0,
+        "low_price": 25590.0,
+        "close_price": 26260.0,
+        "volume": 12037679.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251220,
+        "open_price": 25690.0,
+        "high_price": 25960.0,
+        "low_price": 25300.0,
+        "close_price": 25610.0,
+        "volume": 15306847.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251217,
+        "open_price": 24720.0,
+        "high_price": 25590.0,
+        "low_price": 24720.0,
+        "close_price": 25240.0,
+        "volume": 6921446.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251216,
+        "open_price": 24840.0,
+        "high_price": 25540.0,
+        "low_price": 24840.0,
+        "close_price": 25380.0,
+        "volume": 5854751.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251215,
+        "open_price": 25440.0,
+        "high_price": 25520.0,
+        "low_price": 25180.0,
+        "close_price": 25450.0,
+        "volume": 7593228.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251214,
+        "open_price": 24330.0,
+        "high_price": 25440.0,
+        "low_price": 24330.0,
+        "close_price": 25200.0,
+        "volume": 15813586.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251213,
+        "open_price": 24910.0,
+        "high_price": 25350.0,
+        "low_price": 24800.0,
+        "close_price": 25040.0,
+        "volume": 10935192.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251210,
+        "open_price": 24600.0,
+        "high_price": 24790.0,
+        "low_price": 24190.0,
+        "close_price": 24710.0,
+        "volume": 8092179.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251209,
+        "open_price": 24430.0,
+        "high_price": 24580.0,
+        "low_price": 24000.0,
+        "close_price": 24480.0,
+        "volume": 6423890.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251208,
+        "open_price": 24600.0,
+        "high_price": 24750.0,
+        "low_price": 23960.0,
+        "close_price": 24380.0,
+        "volume": 6677056.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251207,
+        "open_price": 25550.0,
+        "high_price": 25550.0,
+        "low_price": 24250.0,
+        "close_price": 24550.0,
+        "volume": 5880892.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251206,
+        "open_price": 24850.0,
+        "high_price": 25280.0,
+        "low_price": 24800.0,
+        "close_price": 24990.0,
+        "volume": 7808963.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251203,
+        "open_price": 24870.0,
+        "high_price": 24870.0,
+        "low_price": 24260.0,
+        "close_price": 24560.0,
+        "volume": 11998707.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251202,
+        "open_price": 24480.0,
+        "high_price": 24970.0,
+        "low_price": 24120.0,
+        "close_price": 24540.0,
+        "volume": 7336805.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251201,
+        "open_price": 24480.0,
+        "high_price": 24680.0,
+        "low_price": 24140.0,
+        "close_price": 24410.0,
+        "volume": 538664.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251130,
+        "open_price": 23910.0,
+        "high_price": 24490.0,
+        "low_price": 23910.0,
+        "close_price": 24130.0,
+        "volume": 6624312.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251129,
+        "open_price": 24340.0,
+        "high_price": 25010.0,
+        "low_price": 24200.0,
+        "close_price": 24330.0,
+        "volume": 388035.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251126,
+        "open_price": 24540.0,
+        "high_price": 24710.0,
+        "low_price": 24150.0,
+        "close_price": 24340.0,
+        "volume": 565969.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251125,
+        "open_price": 24320.0,
+        "high_price": 24790.0,
+        "low_price": 24240.0,
+        "close_price": 24540.0,
+        "volume": 4410482.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251123,
+        "open_price": 24550.0,
+        "high_price": 24700.0,
+        "low_price": 24300.0,
+        "close_price": 24470.0,
+        "volume": 5459551.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251122,
+        "open_price": 23680.0,
+        "high_price": 24760.0,
+        "low_price": 23680.0,
+        "close_price": 24440.0,
+        "volume": 713773.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251119,
+        "open_price": 24810.0,
+        "high_price": 24810.0,
+        "low_price": 24050.0,
+        "close_price": 24140.0,
+        "volume": 3165794.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251118,
+        "open_price": 24280.0,
+        "high_price": 24490.0,
+        "low_price": 23940.0,
+        "close_price": 24100.0,
+        "volume": 291683.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251117,
+        "open_price": 24250.0,
+        "high_price": 24280.0,
+        "low_price": 23890.0,
+        "close_price": 24000.0,
+        "volume": 6011283.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251116,
+        "open_price": 23990.0,
+        "high_price": 24000.0,
+        "low_price": 23680.0,
+        "close_price": 23760.0,
+        "volume": 1326115.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251115,
+        "open_price": 23690.0,
+        "high_price": 23850.0,
+        "low_price": 23320.0,
+        "close_price": 23480.0,
+        "volume": 4354416.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251112,
+        "open_price": 23380.0,
+        "high_price": 23620.0,
+        "low_price": 23040.0,
+        "close_price": 23200.0,
+        "volume": 3194303.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251111,
+        "open_price": 23070.0,
+        "high_price": 23590.0,
+        "low_price": 22940.0,
+        "close_price": 23170.0,
+        "volume": 5298299.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251110,
+        "open_price": 22620.0,
+        "high_price": 23490.0,
+        "low_price": 22530.0,
+        "close_price": 23000.0,
+        "volume": 4638037.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251109,
+        "open_price": 23500.0,
+        "high_price": 23500.0,
+        "low_price": 22900.0,
+        "close_price": 23160.0,
+        "volume": 2527748.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251108,
+        "open_price": 23600.0,
+        "high_price": 23760.0,
+        "low_price": 22850.0,
+        "close_price": 23490.0,
+        "volume": 7005377.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251105,
+        "open_price": 22610.0,
+        "high_price": 23580.0,
+        "low_price": 22590.0,
+        "close_price": 23200.0,
+        "volume": 12541972.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251104,
+        "open_price": 23140.0,
+        "high_price": 23170.0,
+        "low_price": 22710.0,
+        "close_price": 22940.0,
+        "volume": 969986.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251103,
+        "open_price": 23290.0,
+        "high_price": 23290.0,
+        "low_price": 22710.0,
+        "close_price": 22990.0,
+        "volume": 7429265.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251102,
+        "open_price": 23000.0,
+        "high_price": 23330.0,
+        "low_price": 22670.0,
+        "close_price": 22960.0,
+        "volume": 10121238.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251101,
+        "open_price": 23670.0,
+        "high_price": 23670.0,
+        "low_price": 22760.0,
+        "close_price": 23160.0,
+        "volume": 7803863.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251029,
+        "open_price": 23590.0,
+        "high_price": 23660.0,
+        "low_price": 23110.0,
+        "close_price": 23390.0,
+        "volume": 1660028.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251028,
+        "open_price": 23800.0,
+        "high_price": 24010.0,
+        "low_price": 23270.0,
+        "close_price": 23590.0,
+        "volume": 5833499.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251027,
+        "open_price": 23200.0,
+        "high_price": 23670.0,
+        "low_price": 23200.0,
+        "close_price": 23390.0,
+        "volume": 3614283.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251026,
+        "open_price": 23000.0,
+        "high_price": 23270.0,
+        "low_price": 23000.0,
+        "close_price": 23130.0,
+        "volume": 678167.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251025,
+        "open_price": 23030.0,
+        "high_price": 23440.0,
+        "low_price": 22660.0,
+        "close_price": 22990.0,
+        "volume": 2909037.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251022,
+        "open_price": 23460.0,
+        "high_price": 23470.0,
+        "low_price": 23190.0,
+        "close_price": 23300.0,
+        "volume": 1317517.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251021,
+        "open_price": 22600.0,
+        "high_price": 23480.0,
+        "low_price": 22600.0,
+        "close_price": 23050.0,
+        "volume": 1699101.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251020,
+        "open_price": 23190.0,
+        "high_price": 23190.0,
+        "low_price": 22600.0,
+        "close_price": 22820.0,
+        "volume": 8317921.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251019,
+        "open_price": 23400.0,
+        "high_price": 23440.0,
+        "low_price": 22700.0,
+        "close_price": 22940.0,
+        "volume": 9689406.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251018,
+        "open_price": 22550.0,
+        "high_price": 23260.0,
+        "low_price": 22550.0,
+        "close_price": 23250.0,
+        "volume": 8822205.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251015,
+        "open_price": 22020.0,
+        "high_price": 22720.0,
+        "low_price": 22020.0,
+        "close_price": 22590.0,
+        "volume": 2788250.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251014,
+        "open_price": 22700.0,
+        "high_price": 22810.0,
+        "low_price": 22010.0,
+        "close_price": 22640.0,
+        "volume": 6001415.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251013,
+        "open_price": 22990.0,
+        "high_price": 22990.0,
+        "low_price": 22380.0,
+        "close_price": 22580.0,
+        "volume": 6821702.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251012,
+        "open_price": 22600.0,
+        "high_price": 22760.0,
+        "low_price": 22400.0,
+        "close_price": 22740.0,
+        "volume": 4968036.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251011,
+        "open_price": 22000.0,
+        "high_price": 22470.0,
+        "low_price": 22000.0,
+        "close_price": 22100.0,
+        "volume": 1141853.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251008,
+        "open_price": 22660.0,
+        "high_price": 22660.0,
+        "low_price": 21660.0,
+        "close_price": 21960.0,
+        "volume": 10314000.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251007,
+        "open_price": 21510.0,
+        "high_price": 22460.0,
+        "low_price": 21510.0,
+        "close_price": 22290.0,
+        "volume": 5168940.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251006,
+        "open_price": 22420.0,
+        "high_price": 22570.0,
+        "low_price": 21620.0,
+        "close_price": 22030.0,
+        "volume": 3215620.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251005,
+        "open_price": 22400.0,
+        "high_price": 22490.0,
+        "low_price": 21910.0,
+        "close_price": 22200.0,
+        "volume": 4376088.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251004,
+        "open_price": 21600.0,
+        "high_price": 21880.0,
+        "low_price": 21600.0,
+        "close_price": 21870.0,
+        "volume": 1537123.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20251001,
+        "open_price": 21500.0,
+        "high_price": 21650.0,
+        "low_price": 21010.0,
+        "close_price": 21250.0,
+        "volume": 2961983.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250930,
+        "open_price": 21580.0,
+        "high_price": 22000.0,
+        "low_price": 21010.0,
+        "close_price": 21620.0,
+        "volume": 5917787.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250929,
+        "open_price": 21550.0,
+        "high_price": 21550.0,
+        "low_price": 21550.0,
+        "close_price": 21550.0,
+        "volume": 5190475.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250928,
+        "open_price": 20930.0,
+        "high_price": 20930.0,
+        "low_price": 20930.0,
+        "close_price": 20930.0,
+        "volume": 385801.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250927,
+        "open_price": 19780.0,
+        "high_price": 20370.0,
+        "low_price": 19770.0,
+        "close_price": 20330.0,
+        "volume": 1332233.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250924,
+        "open_price": 19480.0,
+        "high_price": 20000.0,
+        "low_price": 19440.0,
+        "close_price": 19780.0,
+        "volume": 6506679.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250923,
+        "open_price": 20100.0,
+        "high_price": 20280.0,
+        "low_price": 19790.0,
+        "close_price": 20040.0,
+        "volume": 1898817.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250922,
+        "open_price": 19990.0,
+        "high_price": 20070.0,
+        "low_price": 19750.0,
+        "close_price": 19940.0,
+        "volume": 3163611.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250921,
+        "open_price": 19440.0,
+        "high_price": 19790.0,
+        "low_price": 19440.0,
+        "close_price": 19490.0,
+        "volume": 2944896.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250920,
+        "open_price": 20040.0,
+        "high_price": 20040.0,
+        "low_price": 20040.0,
+        "close_price": 20040.0,
+        "volume": 1788493.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250917,
+        "open_price": 20540.0,
+        "high_price": 21000.0,
+        "low_price": 20540.0,
+        "close_price": 20650.0,
+        "volume": 2077411.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250916,
+        "open_price": 21230.0,
+        "high_price": 21640.0,
+        "low_price": 21020.0,
+        "close_price": 21110.0,
+        "volume": 3688277.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250915,
+        "open_price": 21860.0,
+        "high_price": 21990.0,
+        "low_price": 21300.0,
+        "close_price": 21660.0,
+        "volume": 3672502.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250914,
+        "open_price": 21360.0,
+        "high_price": 21900.0,
+        "low_price": 21360.0,
+        "close_price": 21830.0,
+        "volume": 8080164.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250913,
+        "open_price": 21300.0,
+        "high_price": 21550.0,
+        "low_price": 20930.0,
+        "close_price": 21310.0,
+        "volume": 1541999.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250909,
+        "open_price": 21890.0,
+        "high_price": 21890.0,
+        "low_price": 20930.0,
+        "close_price": 21240.0,
+        "volume": 3040976.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250908,
+        "open_price": 21150.0,
+        "high_price": 21680.0,
+        "low_price": 21150.0,
+        "close_price": 21480.0,
+        "volume": 3430482.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250907,
+        "open_price": 20410.0,
+        "high_price": 21380.0,
+        "low_price": 20410.0,
+        "close_price": 21190.0,
+        "volume": 14317136.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250906,
+        "open_price": 21240.0,
+        "high_price": 21240.0,
+        "low_price": 20600.0,
+        "close_price": 20900.0,
+        "volume": 2193206.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250903,
+        "open_price": 21380.0,
+        "high_price": 21380.0,
+        "low_price": 20240.0,
+        "close_price": 20950.0,
+        "volume": 5448084.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250902,
+        "open_price": 20360.0,
+        "high_price": 20890.0,
+        "low_price": 20360.0,
+        "close_price": 20810.0,
+        "volume": 4608728.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250831,
+        "open_price": 20250.0,
+        "high_price": 20430.0,
+        "low_price": 20180.0,
+        "close_price": 20290.0,
+        "volume": 3021341.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250830,
+        "open_price": 19870.0,
+        "high_price": 20000.0,
+        "low_price": 19870.0,
+        "close_price": 19880.0,
+        "volume": 2413756.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250827,
+        "open_price": 20410.0,
+        "high_price": 20730.0,
+        "low_price": 20010.0,
+        "close_price": 20480.0,
+        "volume": 2343311.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250826,
+        "open_price": 20030.0,
+        "high_price": 20670.0,
+        "low_price": 19720.0,
+        "close_price": 20130.0,
+        "volume": 2167213.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250825,
+        "open_price": 20490.0,
+        "high_price": 20490.0,
+        "low_price": 19750.0,
+        "close_price": 20150.0,
+        "volume": 5003371.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250823,
+        "open_price": 20140.0,
+        "high_price": 20500.0,
+        "low_price": 20140.0,
+        "close_price": 20290.0,
+        "volume": 2049004.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250820,
+        "open_price": 20100.0,
+        "high_price": 20100.0,
+        "low_price": 19850.0,
+        "close_price": 20030.0,
+        "volume": 1318731.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250819,
+        "open_price": 20830.0,
+        "high_price": 20830.0,
+        "low_price": 19760.0,
+        "close_price": 20040.0,
+        "volume": 2265555.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250818,
+        "open_price": 20400.0,
+        "high_price": 20400.0,
+        "low_price": 20010.0,
+        "close_price": 20270.0,
+        "volume": 4721072.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250817,
+        "open_price": 19790.0,
+        "high_price": 19830.0,
+        "low_price": 19520.0,
+        "close_price": 19830.0,
+        "volume": 3633842.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250816,
+        "open_price": 19300.0,
+        "high_price": 19780.0,
+        "low_price": 18680.0,
+        "close_price": 19260.0,
+        "volume": 1964510.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250813,
+        "open_price": 19700.0,
+        "high_price": 19700.0,
+        "low_price": 19130.0,
+        "close_price": 19220.0,
+        "volume": 2913138.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250812,
+        "open_price": 19700.0,
+        "high_price": 19910.0,
+        "low_price": 19450.0,
+        "close_price": 19720.0,
+        "volume": 5872390.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250811,
+        "open_price": 20120.0,
+        "high_price": 20290.0,
+        "low_price": 19670.0,
+        "close_price": 19940.0,
+        "volume": 4122389.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250810,
+        "open_price": 20570.0,
+        "high_price": 20890.0,
+        "low_price": 19910.0,
+        "close_price": 20130.0,
+        "volume": 6375068.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250809,
+        "open_price": 19990.0,
+        "high_price": 20470.0,
+        "low_price": 19990.0,
+        "close_price": 20400.0,
+        "volume": 10114175.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250806,
+        "open_price": 19700.0,
+        "high_price": 20050.0,
+        "low_price": 19510.0,
+        "close_price": 19880.0,
+        "volume": 6593924.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250805,
+        "open_price": 20410.0,
+        "high_price": 20450.0,
+        "low_price": 19530.0,
+        "close_price": 20080.0,
+        "volume": 14059796.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250804,
+        "open_price": 19640.0,
+        "high_price": 20130.0,
+        "low_price": 19600.0,
+        "close_price": 20040.0,
+        "volume": 9266957.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250803,
+        "open_price": 19530.0,
+        "high_price": 20130.0,
+        "low_price": 19530.0,
+        "close_price": 19550.0,
+        "volume": 19230440.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250802,
+        "open_price": 20130.0,
+        "high_price": 20130.0,
+        "low_price": 20130.0,
+        "close_price": 20130.0,
+        "volume": 7190862.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250730,
+        "open_price": 20750.0,
+        "high_price": 20750.0,
+        "low_price": 20750.0,
+        "close_price": 20750.0,
+        "volume": 6610014.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250729,
+        "open_price": 21390.0,
+        "high_price": 21390.0,
+        "low_price": 21390.0,
+        "close_price": 21390.0,
+        "volume": 1152771.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250728,
+        "open_price": 22050.0,
+        "high_price": 22050.0,
+        "low_price": 22050.0,
+        "close_price": 22050.0,
+        "volume": 1096738.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250727,
+        "open_price": 22300.0,
+        "high_price": 23300.0,
+        "low_price": 22040.0,
+        "close_price": 22730.0,
+        "volume": 11805390.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250726,
+        "open_price": 22800.0,
+        "high_price": 23200.0,
+        "low_price": 22420.0,
+        "close_price": 22720.0,
+        "volume": 9738433.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250723,
+        "open_price": 23170.0,
+        "high_price": 23670.0,
+        "low_price": 23100.0,
+        "close_price": 23110.0,
+        "volume": 7829229.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250722,
+        "open_price": 24050.0,
+        "high_price": 24050.0,
+        "low_price": 23060.0,
+        "close_price": 23810.0,
+        "volume": 33231595.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250721,
+        "open_price": 23350.0,
+        "high_price": 23350.0,
+        "low_price": 23350.0,
+        "close_price": 23350.0,
+        "volume": 5795648.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250720,
+        "open_price": 22690.0,
+        "high_price": 22810.0,
+        "low_price": 22400.0,
+        "close_price": 22670.0,
+        "volume": 12362232.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250719,
+        "open_price": 22280.0,
+        "high_price": 22290.0,
+        "low_price": 22000.0,
+        "close_price": 22150.0,
+        "volume": 7752474.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250716,
+        "open_price": 21600.0,
+        "high_price": 21840.0,
+        "low_price": 21600.0,
+        "close_price": 21740.0,
+        "volume": 4708840.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250715,
+        "open_price": 21000.0,
+        "high_price": 21310.0,
+        "low_price": 21000.0,
+        "close_price": 21210.0,
+        "volume": 1483633.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250714,
+        "open_price": 21030.0,
+        "high_price": 21030.0,
+        "low_price": 20450.0,
+        "close_price": 20690.0,
+        "volume": 5429982.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250713,
+        "open_price": 20520.0,
+        "high_price": 20630.0,
+        "low_price": 20290.0,
+        "close_price": 20450.0,
+        "volume": 4292636.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250712,
+        "open_price": 20080.0,
+        "high_price": 20090.0,
+        "low_price": 20000.0,
+        "close_price": 20080.0,
+        "volume": 3228945.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250709,
+        "open_price": 19060.0,
+        "high_price": 20010.0,
+        "low_price": 19020.0,
+        "close_price": 19510.0,
+        "volume": 5319345.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250708,
+        "open_price": 19430.0,
+        "high_price": 20000.0,
+        "low_price": 19280.0,
+        "close_price": 19470.0,
+        "volume": 2467635.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250707,
+        "open_price": 19830.0,
+        "high_price": 20860.0,
+        "low_price": 19760.0,
+        "close_price": 19860.0,
+        "volume": 8837740.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250702,
+        "open_price": 20370.0,
+        "high_price": 20370.0,
+        "low_price": 20370.0,
+        "close_price": 20370.0,
+        "volume": 9648411.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250701,
+        "open_price": 21000.0,
+        "high_price": 21000.0,
+        "low_price": 21000.0,
+        "close_price": 21000.0,
+        "volume": 1226979.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250630,
+        "open_price": 21640.0,
+        "high_price": 21640.0,
+        "low_price": 21640.0,
+        "close_price": 21640.0,
+        "volume": 254401.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250629,
+        "open_price": 22300.0,
+        "high_price": 22300.0,
+        "low_price": 22300.0,
+        "close_price": 22300.0,
+        "volume": 1010834.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250628,
+        "open_price": 22980.0,
+        "high_price": 22980.0,
+        "low_price": 22980.0,
+        "close_price": 22980.0,
+        "volume": 1032919.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 23690.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 23690.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 23690.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 23690.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 23690.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 23690.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 23690.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 23690.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250611,
+        "open_price": 23740.0,
+        "high_price": 23930.0,
+        "low_price": 23560.0,
+        "close_price": 23690.0,
+        "volume": 3308698.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250610,
+        "open_price": 23610.0,
+        "high_price": 24000.0,
+        "low_price": 23420.0,
+        "close_price": 23610.0,
+        "volume": 3113564.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250609,
+        "open_price": 23810.0,
+        "high_price": 24020.0,
+        "low_price": 23300.0,
+        "close_price": 23610.0,
+        "volume": 3829383.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250608,
+        "open_price": 23410.0,
+        "high_price": 24200.0,
+        "low_price": 23410.0,
+        "close_price": 23950.0,
+        "volume": 7499627.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250607,
+        "open_price": 24040.0,
+        "high_price": 24460.0,
+        "low_price": 23910.0,
+        "close_price": 24020.0,
+        "volume": 7343293.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250603,
+        "open_price": 24970.0,
+        "high_price": 25040.0,
+        "low_price": 24330.0,
+        "close_price": 24640.0,
+        "volume": 14675753.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250602,
+        "open_price": 25070.0,
+        "high_price": 25090.0,
+        "low_price": 24190.0,
+        "close_price": 24550.0,
+        "volume": 14452528.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250601,
+        "open_price": 24480.0,
+        "high_price": 25150.0,
+        "low_price": 24450.0,
+        "close_price": 24460.0,
+        "volume": 14558980.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250531,
+        "open_price": 26380.0,
+        "high_price": 26380.0,
+        "low_price": 24960.0,
+        "close_price": 25200.0,
+        "volume": 9507325.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250528,
+        "open_price": 26690.0,
+        "high_price": 26690.0,
+        "low_price": 25600.0,
+        "close_price": 25730.0,
+        "volume": 12982958.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250527,
+        "open_price": 26440.0,
+        "high_price": 26440.0,
+        "low_price": 26160.0,
+        "close_price": 26390.0,
+        "volume": 22465476.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250526,
+        "open_price": 26370.0,
+        "high_price": 26370.0,
+        "low_price": 25450.0,
+        "close_price": 25670.0,
+        "volume": 9248383.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250525,
+        "open_price": 26410.0,
+        "high_price": 26410.0,
+        "low_price": 25230.0,
+        "close_price": 25980.0,
+        "volume": 28558872.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250524,
+        "open_price": 25650.0,
+        "high_price": 25650.0,
+        "low_price": 25500.0,
+        "close_price": 25650.0,
+        "volume": 36531464.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250521,
+        "open_price": 23850.0,
+        "high_price": 25030.0,
+        "low_price": 23840.0,
+        "close_price": 24910.0,
+        "volume": 48025911.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250520,
+        "open_price": 24510.0,
+        "high_price": 24820.0,
+        "low_price": 23840.0,
+        "close_price": 24310.0,
+        "volume": 7658528.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250519,
+        "open_price": 24200.0,
+        "high_price": 24870.0,
+        "low_price": 24200.0,
+        "close_price": 24570.0,
+        "volume": 6521112.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250518,
+        "open_price": 24510.0,
+        "high_price": 24510.0,
+        "low_price": 23870.0,
+        "close_price": 24160.0,
+        "volume": 4149621.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250517,
+        "open_price": 24180.0,
+        "high_price": 24860.0,
+        "low_price": 24120.0,
+        "close_price": 24340.0,
+        "volume": 7623120.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250514,
+        "open_price": 24710.0,
+        "high_price": 25010.0,
+        "low_price": 24360.0,
+        "close_price": 24850.0,
+        "volume": 14308386.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250513,
+        "open_price": 24640.0,
+        "high_price": 24640.0,
+        "low_price": 24100.0,
+        "close_price": 24290.0,
+        "volume": 8925943.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250512,
+        "open_price": 24050.0,
+        "high_price": 24050.0,
+        "low_price": 23930.0,
+        "close_price": 24040.0,
+        "volume": 23033019.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250511,
+        "open_price": 22980.0,
+        "high_price": 23760.0,
+        "low_price": 22980.0,
+        "close_price": 23350.0,
+        "volume": 4267990.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250510,
+        "open_price": 24290.0,
+        "high_price": 24290.0,
+        "low_price": 23540.0,
+        "close_price": 23560.0,
+        "volume": 3748473.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250507,
+        "open_price": 24940.0,
+        "high_price": 24940.0,
+        "low_price": 23720.0,
+        "close_price": 24260.0,
+        "volume": 4325056.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250506,
+        "open_price": 25100.0,
+        "high_price": 25110.0,
+        "low_price": 24310.0,
+        "close_price": 24440.0,
+        "volume": 8906969.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250505,
+        "open_price": 24820.0,
+        "high_price": 24930.0,
+        "low_price": 24520.0,
+        "close_price": 24800.0,
+        "volume": 6450240.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250504,
+        "open_price": 23100.0,
+        "high_price": 24450.0,
+        "low_price": 23100.0,
+        "close_price": 24210.0,
+        "volume": 3944492.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250503,
+        "open_price": 23650.0,
+        "high_price": 24190.0,
+        "low_price": 23650.0,
+        "close_price": 23740.0,
+        "volume": 7308742.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250430,
+        "open_price": 24630.0,
+        "high_price": 24630.0,
+        "low_price": 24310.0,
+        "close_price": 24380.0,
+        "volume": 23247690.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250429,
+        "open_price": 24000.0,
+        "high_price": 24390.0,
+        "low_price": 23330.0,
+        "close_price": 23920.0,
+        "volume": 7717400.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250428,
+        "open_price": 23680.0,
+        "high_price": 23690.0,
+        "low_price": 23670.0,
+        "close_price": 23690.0,
+        "volume": 28059437.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250427,
+        "open_price": 23170.0,
+        "high_price": 23180.0,
+        "low_price": 22580.0,
+        "close_price": 23000.0,
+        "volume": 6564821.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250426,
+        "open_price": 22520.0,
+        "high_price": 22520.0,
+        "low_price": 22000.0,
+        "close_price": 22510.0,
+        "volume": 2179396.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250423,
+        "open_price": 22180.0,
+        "high_price": 22180.0,
+        "low_price": 21800.0,
+        "close_price": 21870.0,
+        "volume": 1862432.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250422,
+        "open_price": 22070.0,
+        "high_price": 22100.0,
+        "low_price": 21880.0,
+        "close_price": 21920.0,
+        "volume": 1950778.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250421,
+        "open_price": 22380.0,
+        "high_price": 22400.0,
+        "low_price": 21750.0,
+        "close_price": 22260.0,
+        "volume": 5660385.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250420,
+        "open_price": 21550.0,
+        "high_price": 21760.0,
+        "low_price": 21550.0,
+        "close_price": 21750.0,
+        "volume": 21380804.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250419,
+        "open_price": 21230.0,
+        "high_price": 21240.0,
+        "low_price": 20830.0,
+        "close_price": 21130.0,
+        "volume": 149851.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250416,
+        "open_price": 21050.0,
+        "high_price": 21110.0,
+        "low_price": 20520.0,
+        "close_price": 20660.0,
+        "volume": 5437839.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250415,
+        "open_price": 21500.0,
+        "high_price": 21500.0,
+        "low_price": 20720.0,
+        "close_price": 21010.0,
+        "volume": 1395861.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250414,
+        "open_price": 21520.0,
+        "high_price": 21520.0,
+        "low_price": 20920.0,
+        "close_price": 21360.0,
+        "volume": 5826370.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250413,
+        "open_price": 20900.0,
+        "high_price": 20900.0,
+        "low_price": 20900.0,
+        "close_price": 20900.0,
+        "volume": 3043029.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250412,
+        "open_price": 20650.0,
+        "high_price": 20700.0,
+        "low_price": 20100.0,
+        "close_price": 20300.0,
+        "volume": 2744107.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250409,
+        "open_price": 21390.0,
+        "high_price": 21390.0,
+        "low_price": 20240.0,
+        "close_price": 20380.0,
+        "volume": 1322656.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250408,
+        "open_price": 20420.0,
+        "high_price": 20810.0,
+        "low_price": 20420.0,
+        "close_price": 20770.0,
+        "volume": 3142334.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250407,
+        "open_price": 20590.0,
+        "high_price": 20900.0,
+        "low_price": 19960.0,
+        "close_price": 20210.0,
+        "volume": 265972.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250406,
+        "open_price": 20350.0,
+        "high_price": 20400.0,
+        "low_price": 20260.0,
+        "close_price": 20380.0,
+        "volume": 2587611.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250405,
+        "open_price": 19710.0,
+        "high_price": 20160.0,
+        "low_price": 19710.0,
+        "close_price": 20000.0,
+        "volume": 4865560.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250330,
+        "open_price": 19470.0,
+        "high_price": 19670.0,
+        "low_price": 19230.0,
+        "close_price": 19580.0,
+        "volume": 277299.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250329,
+        "open_price": 19000.0,
+        "high_price": 19350.0,
+        "low_price": 18650.0,
+        "close_price": 19160.0,
+        "volume": 226699.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250326,
+        "open_price": 19010.0,
+        "high_price": 19090.0,
+        "low_price": 18890.0,
+        "close_price": 19030.0,
+        "volume": 5462338.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250325,
+        "open_price": 18600.0,
+        "high_price": 18930.0,
+        "low_price": 18600.0,
+        "close_price": 18920.0,
+        "volume": 808165.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250318,
+        "open_price": 18380.0,
+        "high_price": 18500.0,
+        "low_price": 18380.0,
+        "close_price": 18380.0,
+        "volume": 2325895.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250317,
+        "open_price": 18510.0,
+        "high_price": 19070.0,
+        "low_price": 18510.0,
+        "close_price": 18940.0,
+        "volume": 945224.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250316,
+        "open_price": 18500.0,
+        "high_price": 18690.0,
+        "low_price": 18300.0,
+        "close_price": 18520.0,
+        "volume": 377169.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250315,
+        "open_price": 18590.0,
+        "high_price": 18600.0,
+        "low_price": 18490.0,
+        "close_price": 18600.0,
+        "volume": 1936483.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250312,
+        "open_price": 17610.0,
+        "high_price": 18320.0,
+        "low_price": 17610.0,
+        "close_price": 18060.0,
+        "volume": 3047064.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250311,
+        "open_price": 17580.0,
+        "high_price": 18170.0,
+        "low_price": 17570.0,
+        "close_price": 18100.0,
+        "volume": 13965109.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250310,
+        "open_price": 17900.0,
+        "high_price": 18150.0,
+        "low_price": 17820.0,
+        "close_price": 18080.0,
+        "volume": 34346478.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250309,
+        "open_price": 17770.0,
+        "high_price": 18100.0,
+        "low_price": 17660.0,
+        "close_price": 18040.0,
+        "volume": 37255411.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250308,
+        "open_price": 18300.0,
+        "high_price": 18570.0,
+        "low_price": 17880.0,
+        "close_price": 18200.0,
+        "volume": 581068.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250305,
+        "open_price": 18130.0,
+        "high_price": 18660.0,
+        "low_price": 18130.0,
+        "close_price": 18210.0,
+        "volume": 4986405.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250304,
+        "open_price": 18890.0,
+        "high_price": 18890.0,
+        "low_price": 18310.0,
+        "close_price": 18650.0,
+        "volume": 857731.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250303,
+        "open_price": 18370.0,
+        "high_price": 18500.0,
+        "low_price": 18370.0,
+        "close_price": 18370.0,
+        "volume": 3347377.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250302,
+        "open_price": 19150.0,
+        "high_price": 19150.0,
+        "low_price": 18410.0,
+        "close_price": 18930.0,
+        "volume": 211694.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250301,
+        "open_price": 18400.0,
+        "high_price": 19160.0,
+        "low_price": 18400.0,
+        "close_price": 18970.0,
+        "volume": 86772.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250226,
+        "open_price": 18780.0,
+        "high_price": 19170.0,
+        "low_price": 18780.0,
+        "close_price": 18940.0,
+        "volume": 1503942.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250225,
+        "open_price": 19670.0,
+        "high_price": 19670.0,
+        "low_price": 19130.0,
+        "close_price": 19360.0,
+        "volume": 1093088.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250224,
+        "open_price": 19150.0,
+        "high_price": 19160.0,
+        "low_price": 18900.0,
+        "close_price": 19140.0,
+        "volume": 1991103.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250223,
+        "open_price": 18700.0,
+        "high_price": 18700.0,
+        "low_price": 18450.0,
+        "close_price": 18610.0,
+        "volume": 13281767.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250222,
+        "open_price": 18860.0,
+        "high_price": 18860.0,
+        "low_price": 18300.0,
+        "close_price": 18490.0,
+        "volume": 234653.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250219,
+        "open_price": 18800.0,
+        "high_price": 19100.0,
+        "low_price": 18630.0,
+        "close_price": 18740.0,
+        "volume": 89609.0
+    },
+    {
+        "symbol": "سمان",
+        "trade_date": 20250218,
+        "open_price": 18420.0,
+        "high_price": 18840.0,
+        "low_price": 18420.0,
+        "close_price": 18710.0,
+        "volume": 55686.0
+    }
+]

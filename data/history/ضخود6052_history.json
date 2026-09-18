@@ -1,0 +1,515 @@
+[
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260831,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 153.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260829,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 153.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260826,
+        "open_price": 145.0,
+        "high_price": 157.0,
+        "low_price": 140.0,
+        "close_price": 153.0,
+        "volume": 4197789.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260825,
+        "open_price": 115.0,
+        "high_price": 146.0,
+        "low_price": 115.0,
+        "close_price": 136.0,
+        "volume": 4157360.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260824,
+        "open_price": 117.0,
+        "high_price": 131.0,
+        "low_price": 113.0,
+        "close_price": 125.0,
+        "volume": 4086731.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260823,
+        "open_price": 126.0,
+        "high_price": 129.0,
+        "low_price": 108.0,
+        "close_price": 117.0,
+        "volume": 5791856.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260822,
+        "open_price": 89.0,
+        "high_price": 118.0,
+        "low_price": 89.0,
+        "close_price": 112.0,
+        "volume": 5360576.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260819,
+        "open_price": 72.0,
+        "high_price": 85.0,
+        "low_price": 71.0,
+        "close_price": 80.0,
+        "volume": 4507090.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260818,
+        "open_price": 78.0,
+        "high_price": 90.0,
+        "low_price": 67.0,
+        "close_price": 80.0,
+        "volume": 6611319.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260817,
+        "open_price": 78.0,
+        "high_price": 86.0,
+        "low_price": 75.0,
+        "close_price": 81.0,
+        "volume": 5893267.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260816,
+        "open_price": 55.0,
+        "high_price": 77.0,
+        "low_price": 54.0,
+        "close_price": 70.0,
+        "volume": 4259532.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260815,
+        "open_price": 69.0,
+        "high_price": 69.0,
+        "low_price": 53.0,
+        "close_price": 57.0,
+        "volume": 7485098.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260811,
+        "open_price": 71.0,
+        "high_price": 74.0,
+        "low_price": 58.0,
+        "close_price": 69.0,
+        "volume": 5569622.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260810,
+        "open_price": 52.0,
+        "high_price": 76.0,
+        "low_price": 51.0,
+        "close_price": 68.0,
+        "volume": 6918004.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260809,
+        "open_price": 75.0,
+        "high_price": 75.0,
+        "low_price": 48.0,
+        "close_price": 55.0,
+        "volume": 5444336.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260808,
+        "open_price": 71.0,
+        "high_price": 80.0,
+        "low_price": 66.0,
+        "close_price": 75.0,
+        "volume": 6014689.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260805,
+        "open_price": 53.0,
+        "high_price": 59.0,
+        "low_price": 53.0,
+        "close_price": 56.0,
+        "volume": 6261467.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260803,
+        "open_price": 36.0,
+        "high_price": 43.0,
+        "low_price": 33.0,
+        "close_price": 40.0,
+        "volume": 5650253.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260802,
+        "open_price": 31.0,
+        "high_price": 33.0,
+        "low_price": 27.0,
+        "close_price": 30.0,
+        "volume": 6135753.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260801,
+        "open_price": 27.0,
+        "high_price": 31.0,
+        "low_price": 21.0,
+        "close_price": 25.0,
+        "volume": 9225771.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260729,
+        "open_price": 32.0,
+        "high_price": 36.0,
+        "low_price": 24.0,
+        "close_price": 27.0,
+        "volume": 5923047.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260728,
+        "open_price": 41.0,
+        "high_price": 45.0,
+        "low_price": 36.0,
+        "close_price": 39.0,
+        "volume": 3560667.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260727,
+        "open_price": 50.0,
+        "high_price": 50.0,
+        "low_price": 40.0,
+        "close_price": 44.0,
+        "volume": 1779331.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260726,
+        "open_price": 50.0,
+        "high_price": 52.0,
+        "low_price": 45.0,
+        "close_price": 48.0,
+        "volume": 2572142.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260725,
+        "open_price": 38.0,
+        "high_price": 40.0,
+        "low_price": 36.0,
+        "close_price": 38.0,
+        "volume": 230216.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260722,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 39.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260721,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 39.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260720,
+        "open_price": 40.0,
+        "high_price": 46.0,
+        "low_price": 34.0,
+        "close_price": 39.0,
+        "volume": 1271155.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260719,
+        "open_price": 32.0,
+        "high_price": 41.0,
+        "low_price": 32.0,
+        "close_price": 38.0,
+        "volume": 1030943.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260718,
+        "open_price": 42.0,
+        "high_price": 42.0,
+        "low_price": 30.0,
+        "close_price": 34.0,
+        "volume": 452107.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260715,
+        "open_price": 62.0,
+        "high_price": 62.0,
+        "low_price": 42.0,
+        "close_price": 50.0,
+        "volume": 585271.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260714,
+        "open_price": 61.0,
+        "high_price": 65.0,
+        "low_price": 54.0,
+        "close_price": 59.0,
+        "volume": 678607.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260713,
+        "open_price": 53.0,
+        "high_price": 70.0,
+        "low_price": 49.0,
+        "close_price": 62.0,
+        "volume": 740771.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260712,
+        "open_price": 70.0,
+        "high_price": 70.0,
+        "low_price": 50.0,
+        "close_price": 55.0,
+        "volume": 527414.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260711,
+        "open_price": 111.0,
+        "high_price": 111.0,
+        "low_price": 90.0,
+        "close_price": 94.0,
+        "volume": 473637.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260708,
+        "open_price": 126.0,
+        "high_price": 134.0,
+        "low_price": 90.0,
+        "close_price": 116.0,
+        "volume": 277522.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260707,
+        "open_price": 102.0,
+        "high_price": 136.0,
+        "low_price": 100.0,
+        "close_price": 122.0,
+        "volume": 221426.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260701,
+        "open_price": 100.0,
+        "high_price": 100.0,
+        "low_price": 75.0,
+        "close_price": 79.0,
+        "volume": 325299.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260630,
+        "open_price": 90.0,
+        "high_price": 90.0,
+        "low_price": 67.0,
+        "close_price": 75.0,
+        "volume": 213742.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260629,
+        "open_price": 89.0,
+        "high_price": 91.0,
+        "low_price": 74.0,
+        "close_price": 85.0,
+        "volume": 31153.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260628,
+        "open_price": 90.0,
+        "high_price": 90.0,
+        "low_price": 66.0,
+        "close_price": 75.0,
+        "volume": 28564.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260627,
+        "open_price": 118.0,
+        "high_price": 118.0,
+        "low_price": 87.0,
+        "close_price": 94.0,
+        "volume": 43354.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260623,
+        "open_price": 73.0,
+        "high_price": 155.0,
+        "low_price": 73.0,
+        "close_price": 113.0,
+        "volume": 21362.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260622,
+        "open_price": 72.0,
+        "high_price": 144.0,
+        "low_price": 72.0,
+        "close_price": 112.0,
+        "volume": 10954.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260621,
+        "open_price": 77.0,
+        "high_price": 150.0,
+        "low_price": 77.0,
+        "close_price": 120.0,
+        "volume": 7693.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260620,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 170.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260617,
+        "open_price": 170.0,
+        "high_price": 170.0,
+        "low_price": 170.0,
+        "close_price": 170.0,
+        "volume": 1.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260616,
+        "open_price": 165.0,
+        "high_price": 165.0,
+        "low_price": 126.0,
+        "close_price": 140.0,
+        "volume": 10438.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260615,
+        "open_price": 170.0,
+        "high_price": 190.0,
+        "low_price": 160.0,
+        "close_price": 166.0,
+        "volume": 22317.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260614,
+        "open_price": 140.0,
+        "high_price": 154.0,
+        "low_price": 128.0,
+        "close_price": 134.0,
+        "volume": 16047.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260613,
+        "open_price": 158.0,
+        "high_price": 158.0,
+        "low_price": 120.0,
+        "close_price": 151.0,
+        "volume": 4334.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260610,
+        "open_price": 84.0,
+        "high_price": 111.0,
+        "low_price": 56.0,
+        "close_price": 93.0,
+        "volume": 11523.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260609,
+        "open_price": 64.0,
+        "high_price": 111.0,
+        "low_price": 64.0,
+        "close_price": 75.0,
+        "volume": 5727.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260608,
+        "open_price": 66.0,
+        "high_price": 66.0,
+        "low_price": 43.0,
+        "close_price": 54.0,
+        "volume": 4703.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260607,
+        "open_price": 89.0,
+        "high_price": 103.0,
+        "low_price": 71.0,
+        "close_price": 89.0,
+        "volume": 2127.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260606,
+        "open_price": 80.0,
+        "high_price": 80.0,
+        "low_price": 80.0,
+        "close_price": 80.0,
+        "volume": 3000.0
+    },
+    {
+        "symbol": "ضخود6052",
+        "trade_date": 20260603,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1.0,
+        "volume": 0.0
+    }
+]

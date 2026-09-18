@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260901,
+        "open_price": 90400.0,
+        "high_price": 92660.0,
+        "low_price": 90400.0,
+        "close_price": 90630.0,
+        "volume": 2625465.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260831,
+        "open_price": 93190.0,
+        "high_price": 93190.0,
+        "low_price": 93190.0,
+        "close_price": 93190.0,
+        "volume": 355967.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260829,
+        "open_price": 100920.0,
+        "high_price": 100920.0,
+        "low_price": 95620.0,
+        "close_price": 96070.0,
+        "volume": 1358732.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260826,
+        "open_price": 98600.0,
+        "high_price": 98620.0,
+        "low_price": 96760.0,
+        "close_price": 98570.0,
+        "volume": 1180143.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260825,
+        "open_price": 95000.0,
+        "high_price": 96690.0,
+        "low_price": 94670.0,
+        "close_price": 95750.0,
+        "volume": 632111.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260824,
+        "open_price": 90070.0,
+        "high_price": 95420.0,
+        "low_price": 90070.0,
+        "close_price": 93880.0,
+        "volume": 1066643.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260823,
+        "open_price": 90100.0,
+        "high_price": 95000.0,
+        "low_price": 90100.0,
+        "close_price": 92660.0,
+        "volume": 2633508.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260822,
+        "open_price": 92300.0,
+        "high_price": 96800.0,
+        "low_price": 92250.0,
+        "close_price": 92730.0,
+        "volume": 2447837.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260819,
+        "open_price": 95070.0,
+        "high_price": 97920.0,
+        "low_price": 95070.0,
+        "close_price": 95100.0,
+        "volume": 4216660.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260818,
+        "open_price": 98010.0,
+        "high_price": 98010.0,
+        "low_price": 98010.0,
+        "close_price": 98010.0,
+        "volume": 568368.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260817,
+        "open_price": 95160.0,
+        "high_price": 95160.0,
+        "low_price": 95160.0,
+        "close_price": 95160.0,
+        "volume": 184989.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260816,
+        "open_price": 92390.0,
+        "high_price": 92390.0,
+        "low_price": 92390.0,
+        "close_price": 92390.0,
+        "volume": 285222.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260815,
+        "open_price": 89700.0,
+        "high_price": 89700.0,
+        "low_price": 89700.0,
+        "close_price": 89700.0,
+        "volume": 270143.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260811,
+        "open_price": 87090.0,
+        "high_price": 87090.0,
+        "low_price": 87090.0,
+        "close_price": 87090.0,
+        "volume": 229244.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260810,
+        "open_price": 84560.0,
+        "high_price": 84560.0,
+        "low_price": 84560.0,
+        "close_price": 84560.0,
+        "volume": 370266.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260809,
+        "open_price": 82100.0,
+        "high_price": 82100.0,
+        "low_price": 82100.0,
+        "close_price": 82100.0,
+        "volume": 515773.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260808,
+        "open_price": 79710.0,
+        "high_price": 79710.0,
+        "low_price": 79710.0,
+        "close_price": 79710.0,
+        "volume": 793884.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260805,
+        "open_price": 77390.0,
+        "high_price": 77390.0,
+        "low_price": 77390.0,
+        "close_price": 77390.0,
+        "volume": 1232397.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260803,
+        "open_price": 74440.0,
+        "high_price": 75160.0,
+        "low_price": 73620.0,
+        "close_price": 75140.0,
+        "volume": 1226500.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260802,
+        "open_price": 73890.0,
+        "high_price": 74950.0,
+        "low_price": 71730.0,
+        "close_price": 72980.0,
+        "volume": 785276.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260801,
+        "open_price": 75000.0,
+        "high_price": 75000.0,
+        "low_price": 71620.0,
+        "close_price": 73550.0,
+        "volume": 660088.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260729,
+        "open_price": 74650.0,
+        "high_price": 74650.0,
+        "low_price": 71690.0,
+        "close_price": 73520.0,
+        "volume": 468571.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260728,
+        "open_price": 72960.0,
+        "high_price": 72980.0,
+        "low_price": 70850.0,
+        "close_price": 72490.0,
+        "volume": 1057308.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260727,
+        "open_price": 70860.0,
+        "high_price": 70860.0,
+        "low_price": 70000.0,
+        "close_price": 70860.0,
+        "volume": 1148980.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260726,
+        "open_price": 68800.0,
+        "high_price": 68800.0,
+        "low_price": 68800.0,
+        "close_price": 68800.0,
+        "volume": 626891.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260725,
+        "open_price": 70740.0,
+        "high_price": 70740.0,
+        "low_price": 66750.0,
+        "close_price": 66800.0,
+        "volume": 1895691.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260722,
+        "open_price": 70910.0,
+        "high_price": 71200.0,
+        "low_price": 68580.0,
+        "close_price": 68810.0,
+        "volume": 1643608.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260721,
+        "open_price": 70900.0,
+        "high_price": 70910.0,
+        "low_price": 69120.0,
+        "close_price": 70700.0,
+        "volume": 2534432.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260720,
+        "open_price": 68850.0,
+        "high_price": 68870.0,
+        "low_price": 66560.0,
+        "close_price": 68850.0,
+        "volume": 1084353.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260719,
+        "open_price": 66600.0,
+        "high_price": 67990.0,
+        "low_price": 66500.0,
+        "close_price": 66870.0,
+        "volume": 1548883.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260718,
+        "open_price": 68560.0,
+        "high_price": 68570.0,
+        "low_price": 68550.0,
+        "close_price": 68550.0,
+        "volume": 923112.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260715,
+        "open_price": 72000.0,
+        "high_price": 72140.0,
+        "low_price": 68940.0,
+        "close_price": 70660.0,
+        "volume": 2127678.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260714,
+        "open_price": 68120.0,
+        "high_price": 71620.0,
+        "low_price": 68120.0,
+        "close_price": 70040.0,
+        "volume": 2560215.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260713,
+        "open_price": 70220.0,
+        "high_price": 71000.0,
+        "low_price": 70220.0,
+        "close_price": 70220.0,
+        "volume": 1549589.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260712,
+        "open_price": 72390.0,
+        "high_price": 72390.0,
+        "low_price": 72390.0,
+        "close_price": 72390.0,
+        "volume": 214996.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260711,
+        "open_price": 74590.0,
+        "high_price": 76500.0,
+        "low_price": 74590.0,
+        "close_price": 74620.0,
+        "volume": 2983228.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260708,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 76890.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260707,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 85490.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260701,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 85490.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260630,
+        "open_price": 85500.0,
+        "high_price": 85530.0,
+        "low_price": 83520.0,
+        "close_price": 85490.0,
+        "volume": 2154557.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260629,
+        "open_price": 83000.0,
+        "high_price": 85300.0,
+        "low_price": 83000.0,
+        "close_price": 83040.0,
+        "volume": 4592511.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260628,
+        "open_price": 86830.0,
+        "high_price": 86830.0,
+        "low_price": 85340.0,
+        "close_price": 85560.0,
+        "volume": 541491.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260627,
+        "open_price": 89990.0,
+        "high_price": 89990.0,
+        "low_price": 86550.0,
+        "close_price": 87970.0,
+        "volume": 857938.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260623,
+        "open_price": 86590.0,
+        "high_price": 89700.0,
+        "low_price": 85000.0,
+        "close_price": 87370.0,
+        "volume": 2381984.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260622,
+        "open_price": 87190.0,
+        "high_price": 87190.0,
+        "low_price": 87190.0,
+        "close_price": 87190.0,
+        "volume": 708324.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260621,
+        "open_price": 92470.0,
+        "high_price": 92470.0,
+        "low_price": 87090.0,
+        "close_price": 89880.0,
+        "volume": 9824965.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260620,
+        "open_price": 89780.0,
+        "high_price": 89780.0,
+        "low_price": 89780.0,
+        "close_price": 89780.0,
+        "volume": 2428563.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260617,
+        "open_price": 87170.0,
+        "high_price": 87170.0,
+        "low_price": 87170.0,
+        "close_price": 87170.0,
+        "volume": 1246122.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260616,
+        "open_price": 84640.0,
+        "high_price": 84640.0,
+        "low_price": 84640.0,
+        "close_price": 84640.0,
+        "volume": 3297926.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 82180.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260614,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 82180.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260613,
+        "open_price": 82180.0,
+        "high_price": 82180.0,
+        "low_price": 82180.0,
+        "close_price": 82180.0,
+        "volume": 11029.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260610,
+        "open_price": 79790.0,
+        "high_price": 79790.0,
+        "low_price": 79790.0,
+        "close_price": 79790.0,
+        "volume": 3076.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260609,
+        "open_price": 77470.0,
+        "high_price": 77470.0,
+        "low_price": 77470.0,
+        "close_price": 77470.0,
+        "volume": 207650.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260608,
+        "open_price": 75240.0,
+        "high_price": 75240.0,
+        "low_price": 73850.0,
+        "close_price": 75220.0,
+        "volume": 14339185.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260607,
+        "open_price": 73050.0,
+        "high_price": 73050.0,
+        "low_price": 73050.0,
+        "close_price": 73050.0,
+        "volume": 290123.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260606,
+        "open_price": 70930.0,
+        "high_price": 70930.0,
+        "low_price": 70930.0,
+        "close_price": 70930.0,
+        "volume": 231765.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260603,
+        "open_price": 68870.0,
+        "high_price": 68870.0,
+        "low_price": 68870.0,
+        "close_price": 68870.0,
+        "volume": 219109.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260602,
+        "open_price": 66870.0,
+        "high_price": 66870.0,
+        "low_price": 66870.0,
+        "close_price": 66870.0,
+        "volume": 875876.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260601,
+        "open_price": 64930.0,
+        "high_price": 64930.0,
+        "low_price": 64930.0,
+        "close_price": 64930.0,
+        "volume": 1678259.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260531,
+        "open_price": 63040.0,
+        "high_price": 63040.0,
+        "low_price": 63040.0,
+        "close_price": 63040.0,
+        "volume": 182454.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260530,
+        "open_price": 61210.0,
+        "high_price": 61210.0,
+        "low_price": 61210.0,
+        "close_price": 61210.0,
+        "volume": 10816.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260526,
+        "open_price": 59430.0,
+        "high_price": 59430.0,
+        "low_price": 59430.0,
+        "close_price": 59430.0,
+        "volume": 9565.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260525,
+        "open_price": 57700.0,
+        "high_price": 57700.0,
+        "low_price": 57700.0,
+        "close_price": 57700.0,
+        "volume": 843780.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260524,
+        "open_price": 56020.0,
+        "high_price": 56020.0,
+        "low_price": 56020.0,
+        "close_price": 56020.0,
+        "volume": 1000442.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260523,
+        "open_price": 54370.0,
+        "high_price": 56000.0,
+        "low_price": 54370.0,
+        "close_price": 54390.0,
+        "volume": 14725541.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260520,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52790.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260519,
+        "open_price": 52790.0,
+        "high_price": 52790.0,
+        "low_price": 52790.0,
+        "close_price": 52790.0,
+        "volume": 580463.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 51260.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260225,
+        "open_price": 51950.0,
+        "high_price": 52550.0,
+        "low_price": 50520.0,
+        "close_price": 51260.0,
+        "volume": 143499.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260224,
+        "open_price": 52000.0,
+        "high_price": 52990.0,
+        "low_price": 49990.0,
+        "close_price": 51180.0,
+        "volume": 229571.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260223,
+        "open_price": 51860.0,
+        "high_price": 52990.0,
+        "low_price": 50710.0,
+        "close_price": 51530.0,
+        "volume": 192958.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260222,
+        "open_price": 53730.0,
+        "high_price": 53730.0,
+        "low_price": 51510.0,
+        "close_price": 51870.0,
+        "volume": 165084.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260221,
+        "open_price": 53700.0,
+        "high_price": 53700.0,
+        "low_price": 53090.0,
+        "close_price": 53100.0,
+        "volume": 223750.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260218,
+        "open_price": 55150.0,
+        "high_price": 55550.0,
+        "low_price": 53600.0,
+        "close_price": 54730.0,
+        "volume": 78690.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260217,
+        "open_price": 57440.0,
+        "high_price": 57440.0,
+        "low_price": 54300.0,
+        "close_price": 55140.0,
+        "volume": 171325.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260216,
+        "open_price": 56200.0,
+        "high_price": 56940.0,
+        "low_price": 55630.0,
+        "close_price": 55880.0,
+        "volume": 217458.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260215,
+        "open_price": 58290.0,
+        "high_price": 58290.0,
+        "low_price": 57240.0,
+        "close_price": 57350.0,
+        "volume": 69577.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260214,
+        "open_price": 60000.0,
+        "high_price": 61380.0,
+        "low_price": 58000.0,
+        "close_price": 59010.0,
+        "volume": 68247.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260210,
+        "open_price": 59690.0,
+        "high_price": 60900.0,
+        "low_price": 59490.0,
+        "close_price": 59680.0,
+        "volume": 124686.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260209,
+        "open_price": 60620.0,
+        "high_price": 60620.0,
+        "low_price": 58960.0,
+        "close_price": 59420.0,
+        "volume": 632412.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260208,
+        "open_price": 61400.0,
+        "high_price": 61870.0,
+        "low_price": 59830.0,
+        "close_price": 60780.0,
+        "volume": 623430.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260207,
+        "open_price": 60000.0,
+        "high_price": 61350.0,
+        "low_price": 60000.0,
+        "close_price": 60950.0,
+        "volume": 127362.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260203,
+        "open_price": 60370.0,
+        "high_price": 61320.0,
+        "low_price": 59000.0,
+        "close_price": 59580.0,
+        "volume": 194423.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260202,
+        "open_price": 60000.0,
+        "high_price": 60770.0,
+        "low_price": 59580.0,
+        "close_price": 60730.0,
+        "volume": 456146.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260201,
+        "open_price": 58500.0,
+        "high_price": 60090.0,
+        "low_price": 58450.0,
+        "close_price": 59000.0,
+        "volume": 286691.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260131,
+        "open_price": 61000.0,
+        "high_price": 61270.0,
+        "low_price": 60200.0,
+        "close_price": 60230.0,
+        "volume": 413818.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260128,
+        "open_price": 62810.0,
+        "high_price": 62810.0,
+        "low_price": 59200.0,
+        "close_price": 62060.0,
+        "volume": 690049.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260127,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 60990.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260126,
+        "open_price": 60990.0,
+        "high_price": 60990.0,
+        "low_price": 60990.0,
+        "close_price": 60990.0,
+        "volume": 615643.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260125,
+        "open_price": 62870.0,
+        "high_price": 62870.0,
+        "low_price": 62870.0,
+        "close_price": 62870.0,
+        "volume": 241233.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260124,
+        "open_price": 65820.0,
+        "high_price": 66190.0,
+        "low_price": 64770.0,
+        "close_price": 64810.0,
+        "volume": 1020287.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260121,
+        "open_price": 66700.0,
+        "high_price": 66830.0,
+        "low_price": 65220.0,
+        "close_price": 66770.0,
+        "volume": 1488181.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260120,
+        "open_price": 64890.0,
+        "high_price": 64890.0,
+        "low_price": 63250.0,
+        "close_price": 64890.0,
+        "volume": 2601963.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260119,
+        "open_price": 63000.0,
+        "high_price": 63020.0,
+        "low_price": 62100.0,
+        "close_price": 63000.0,
+        "volume": 1407639.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260118,
+        "open_price": 59360.0,
+        "high_price": 61220.0,
+        "low_price": 59360.0,
+        "close_price": 61190.0,
+        "volume": 632937.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260114,
+        "open_price": 59120.0,
+        "high_price": 60330.0,
+        "low_price": 59120.0,
+        "close_price": 59440.0,
+        "volume": 849234.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260113,
+        "open_price": 62410.0,
+        "high_price": 62420.0,
+        "low_price": 60670.0,
+        "close_price": 60940.0,
+        "volume": 790956.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260112,
+        "open_price": 64150.0,
+        "high_price": 65200.0,
+        "low_price": 61420.0,
+        "close_price": 62540.0,
+        "volume": 699036.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260111,
+        "open_price": 63180.0,
+        "high_price": 65720.0,
+        "low_price": 63180.0,
+        "close_price": 63310.0,
+        "volume": 634753.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260110,
+        "open_price": 64430.0,
+        "high_price": 66400.0,
+        "low_price": 64430.0,
+        "close_price": 65130.0,
+        "volume": 4154726.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260107,
+        "open_price": 67800.0,
+        "high_price": 67800.0,
+        "low_price": 63910.0,
+        "close_price": 66420.0,
+        "volume": 1103235.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260106,
+        "open_price": 65850.0,
+        "high_price": 65850.0,
+        "low_price": 64000.0,
+        "close_price": 65830.0,
+        "volume": 397841.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260105,
+        "open_price": 62800.0,
+        "high_price": 64060.0,
+        "low_price": 62800.0,
+        "close_price": 63940.0,
+        "volume": 403937.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20260104,
+        "open_price": 65840.0,
+        "high_price": 65840.0,
+        "low_price": 62020.0,
+        "close_price": 62200.0,
+        "volume": 662418.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251231,
+        "open_price": 62440.0,
+        "high_price": 64710.0,
+        "low_price": 62440.0,
+        "close_price": 63930.0,
+        "volume": 844860.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251230,
+        "open_price": 64700.0,
+        "high_price": 64700.0,
+        "low_price": 62650.0,
+        "close_price": 62830.0,
+        "volume": 998571.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251229,
+        "open_price": 68180.0,
+        "high_price": 68180.0,
+        "low_price": 64220.0,
+        "close_price": 64580.0,
+        "volume": 587042.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251228,
+        "open_price": 66300.0,
+        "high_price": 66300.0,
+        "low_price": 65100.0,
+        "close_price": 66200.0,
+        "volume": 451884.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251227,
+        "open_price": 64370.0,
+        "high_price": 64370.0,
+        "low_price": 64370.0,
+        "close_price": 64370.0,
+        "volume": 1027984.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251224,
+        "open_price": 62370.0,
+        "high_price": 62650.0,
+        "low_price": 61120.0,
+        "close_price": 62500.0,
+        "volume": 1523939.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251223,
+        "open_price": 61620.0,
+        "high_price": 61620.0,
+        "low_price": 59970.0,
+        "close_price": 60830.0,
+        "volume": 382894.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251222,
+        "open_price": 60980.0,
+        "high_price": 61390.0,
+        "low_price": 59200.0,
+        "close_price": 60330.0,
+        "volume": 328997.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251221,
+        "open_price": 62200.0,
+        "high_price": 62200.0,
+        "low_price": 59250.0,
+        "close_price": 59830.0,
+        "volume": 542107.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251220,
+        "open_price": 59950.0,
+        "high_price": 60680.0,
+        "low_price": 59950.0,
+        "close_price": 60520.0,
+        "volume": 426902.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251217,
+        "open_price": 60480.0,
+        "high_price": 60480.0,
+        "low_price": 58440.0,
+        "close_price": 58920.0,
+        "volume": 534294.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251216,
+        "open_price": 63170.0,
+        "high_price": 63180.0,
+        "low_price": 59670.0,
+        "close_price": 60240.0,
+        "volume": 694011.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251215,
+        "open_price": 63170.0,
+        "high_price": 63170.0,
+        "low_price": 61210.0,
+        "close_price": 61510.0,
+        "volume": 507038.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251214,
+        "open_price": 61440.0,
+        "high_price": 61460.0,
+        "low_price": 60010.0,
+        "close_price": 61350.0,
+        "volume": 586154.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251213,
+        "open_price": 59660.0,
+        "high_price": 59670.0,
+        "low_price": 59600.0,
+        "close_price": 59670.0,
+        "volume": 698309.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251210,
+        "open_price": 57500.0,
+        "high_price": 58080.0,
+        "low_price": 57000.0,
+        "close_price": 57940.0,
+        "volume": 318694.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251209,
+        "open_price": 56910.0,
+        "high_price": 56910.0,
+        "low_price": 56030.0,
+        "close_price": 56390.0,
+        "volume": 634193.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251208,
+        "open_price": 57670.0,
+        "high_price": 57670.0,
+        "low_price": 56320.0,
+        "close_price": 56770.0,
+        "volume": 774698.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251207,
+        "open_price": 57230.0,
+        "high_price": 57780.0,
+        "low_price": 56780.0,
+        "close_price": 57130.0,
+        "volume": 1908121.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251206,
+        "open_price": 58000.0,
+        "high_price": 58180.0,
+        "low_price": 56150.0,
+        "close_price": 56980.0,
+        "volume": 394327.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251203,
+        "open_price": 57150.0,
+        "high_price": 57730.0,
+        "low_price": 56000.0,
+        "close_price": 56490.0,
+        "volume": 823577.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251202,
+        "open_price": 57760.0,
+        "high_price": 57760.0,
+        "low_price": 56080.0,
+        "close_price": 56590.0,
+        "volume": 504737.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251201,
+        "open_price": 56700.0,
+        "high_price": 57770.0,
+        "low_price": 56620.0,
+        "close_price": 56720.0,
+        "volume": 188698.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251130,
+        "open_price": 56060.0,
+        "high_price": 57040.0,
+        "low_price": 55500.0,
+        "close_price": 56130.0,
+        "volume": 370769.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251129,
+        "open_price": 57180.0,
+        "high_price": 57180.0,
+        "low_price": 55660.0,
+        "close_price": 56090.0,
+        "volume": 660183.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251126,
+        "open_price": 53940.0,
+        "high_price": 55550.0,
+        "low_price": 53940.0,
+        "close_price": 55520.0,
+        "volume": 1491969.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251125,
+        "open_price": 52080.0,
+        "high_price": 54800.0,
+        "low_price": 52060.0,
+        "close_price": 53940.0,
+        "volume": 795489.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251123,
+        "open_price": 55610.0,
+        "high_price": 55980.0,
+        "low_price": 52930.0,
+        "close_price": 53660.0,
+        "volume": 1237401.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251122,
+        "open_price": 54030.0,
+        "high_price": 54710.0,
+        "low_price": 53680.0,
+        "close_price": 54560.0,
+        "volume": 1295877.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251119,
+        "open_price": 52850.0,
+        "high_price": 53130.0,
+        "low_price": 52850.0,
+        "close_price": 53120.0,
+        "volume": 882312.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251118,
+        "open_price": 51610.0,
+        "high_price": 51610.0,
+        "low_price": 50810.0,
+        "close_price": 51590.0,
+        "volume": 1465365.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251117,
+        "open_price": 49890.0,
+        "high_price": 50220.0,
+        "low_price": 49060.0,
+        "close_price": 50110.0,
+        "volume": 1312333.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251116,
+        "open_price": 47810.0,
+        "high_price": 49050.0,
+        "low_price": 47690.0,
+        "close_price": 48760.0,
+        "volume": 1068771.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251115,
+        "open_price": 48500.0,
+        "high_price": 48500.0,
+        "low_price": 47390.0,
+        "close_price": 47630.0,
+        "volume": 257335.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251112,
+        "open_price": 48150.0,
+        "high_price": 48150.0,
+        "low_price": 47340.0,
+        "close_price": 47640.0,
+        "volume": 553180.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251111,
+        "open_price": 48280.0,
+        "high_price": 48980.0,
+        "low_price": 47600.0,
+        "close_price": 48150.0,
+        "volume": 383110.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251110,
+        "open_price": 48410.0,
+        "high_price": 49000.0,
+        "low_price": 47670.0,
+        "close_price": 48160.0,
+        "volume": 588789.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251109,
+        "open_price": 49590.0,
+        "high_price": 49740.0,
+        "low_price": 47830.0,
+        "close_price": 48170.0,
+        "volume": 2427063.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251108,
+        "open_price": 48710.0,
+        "high_price": 49310.0,
+        "low_price": 48710.0,
+        "close_price": 49300.0,
+        "volume": 2270759.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251105,
+        "open_price": 48220.0,
+        "high_price": 48480.0,
+        "low_price": 47300.0,
+        "close_price": 47880.0,
+        "volume": 904293.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251104,
+        "open_price": 48200.0,
+        "high_price": 48560.0,
+        "low_price": 47360.0,
+        "close_price": 47810.0,
+        "volume": 1215934.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251103,
+        "open_price": 48120.0,
+        "high_price": 48740.0,
+        "low_price": 47820.0,
+        "close_price": 48240.0,
+        "volume": 1704054.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251102,
+        "open_price": 48270.0,
+        "high_price": 48690.0,
+        "low_price": 47530.0,
+        "close_price": 48090.0,
+        "volume": 1455011.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251101,
+        "open_price": 49340.0,
+        "high_price": 49340.0,
+        "low_price": 47480.0,
+        "close_price": 48070.0,
+        "volume": 1017239.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251029,
+        "open_price": 49540.0,
+        "high_price": 49540.0,
+        "low_price": 47760.0,
+        "close_price": 48440.0,
+        "volume": 1201561.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251028,
+        "open_price": 48490.0,
+        "high_price": 48490.0,
+        "low_price": 47300.0,
+        "close_price": 48320.0,
+        "volume": 10710069.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251027,
+        "open_price": 47080.0,
+        "high_price": 47080.0,
+        "low_price": 47080.0,
+        "close_price": 47080.0,
+        "volume": 3425003.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251026,
+        "open_price": 45710.0,
+        "high_price": 45710.0,
+        "low_price": 45710.0,
+        "close_price": 45710.0,
+        "volume": 3343416.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251025,
+        "open_price": 44380.0,
+        "high_price": 44380.0,
+        "low_price": 44380.0,
+        "close_price": 44380.0,
+        "volume": 5195732.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251022,
+        "open_price": 43090.0,
+        "high_price": 43090.0,
+        "low_price": 43090.0,
+        "close_price": 43090.0,
+        "volume": 3833231.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251021,
+        "open_price": 42500.0,
+        "high_price": 42500.0,
+        "low_price": 41790.0,
+        "close_price": 41840.0,
+        "volume": 196433.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251020,
+        "open_price": 42360.0,
+        "high_price": 42360.0,
+        "low_price": 41440.0,
+        "close_price": 41780.0,
+        "volume": 380374.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251019,
+        "open_price": 41250.0,
+        "high_price": 42170.0,
+        "low_price": 40610.0,
+        "close_price": 41440.0,
+        "volume": 515216.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251018,
+        "open_price": 42150.0,
+        "high_price": 42180.0,
+        "low_price": 41600.0,
+        "close_price": 41410.0,
+        "volume": 148180.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251015,
+        "open_price": 39920.0,
+        "high_price": 41100.0,
+        "low_price": 39920.0,
+        "close_price": 40960.0,
+        "volume": 102246.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251014,
+        "open_price": 40850.0,
+        "high_price": 41490.0,
+        "low_price": 40740.0,
+        "close_price": 41150.0,
+        "volume": 255720.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251013,
+        "open_price": 43110.0,
+        "high_price": 43120.0,
+        "low_price": 40700.0,
+        "close_price": 41990.0,
+        "volume": 264248.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251012,
+        "open_price": 42160.0,
+        "high_price": 42160.0,
+        "low_price": 40900.0,
+        "close_price": 41870.0,
+        "volume": 351178.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251011,
+        "open_price": 41300.0,
+        "high_price": 41340.0,
+        "low_price": 39880.0,
+        "close_price": 40940.0,
+        "volume": 265405.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251008,
+        "open_price": 40770.0,
+        "high_price": 40970.0,
+        "low_price": 39420.0,
+        "close_price": 40140.0,
+        "volume": 158924.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251007,
+        "open_price": 40000.0,
+        "high_price": 40590.0,
+        "low_price": 39410.0,
+        "close_price": 39780.0,
+        "volume": 256150.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251006,
+        "open_price": 39830.0,
+        "high_price": 39830.0,
+        "low_price": 39060.0,
+        "close_price": 39410.0,
+        "volume": 265664.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251005,
+        "open_price": 38890.0,
+        "high_price": 38890.0,
+        "low_price": 38100.0,
+        "close_price": 38670.0,
+        "volume": 351816.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251004,
+        "open_price": 37500.0,
+        "high_price": 38050.0,
+        "low_price": 37500.0,
+        "close_price": 37760.0,
+        "volume": 307673.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20251001,
+        "open_price": 36150.0,
+        "high_price": 36700.0,
+        "low_price": 36080.0,
+        "close_price": 36950.0,
+        "volume": 101877.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250930,
+        "open_price": 39040.0,
+        "high_price": 39040.0,
+        "low_price": 36780.0,
+        "close_price": 37190.0,
+        "volume": 309598.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250929,
+        "open_price": 38150.0,
+        "high_price": 38150.0,
+        "low_price": 38150.0,
+        "close_price": 37910.0,
+        "volume": 327610.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250928,
+        "open_price": 37910.0,
+        "high_price": 37910.0,
+        "low_price": 37910.0,
+        "close_price": 37040.0,
+        "volume": 87738.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250927,
+        "open_price": 36800.0,
+        "high_price": 36900.0,
+        "low_price": 35340.0,
+        "close_price": 36810.0,
+        "volume": 386819.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250924,
+        "open_price": 35350.0,
+        "high_price": 36190.0,
+        "low_price": 35070.0,
+        "close_price": 35830.0,
+        "volume": 126152.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250923,
+        "open_price": 35700.0,
+        "high_price": 35900.0,
+        "low_price": 35350.0,
+        "close_price": 36150.0,
+        "volume": 47123.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250922,
+        "open_price": 34860.0,
+        "high_price": 36910.0,
+        "low_price": 34860.0,
+        "close_price": 36210.0,
+        "volume": 190516.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250921,
+        "open_price": 35500.0,
+        "high_price": 37500.0,
+        "low_price": 35500.0,
+        "close_price": 35850.0,
+        "volume": 281080.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250920,
+        "open_price": 35930.0,
+        "high_price": 35930.0,
+        "low_price": 35930.0,
+        "close_price": 36590.0,
+        "volume": 163570.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250917,
+        "open_price": 36400.0,
+        "high_price": 37350.0,
+        "low_price": 36350.0,
+        "close_price": 37040.0,
+        "volume": 161725.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250916,
+        "open_price": 36760.0,
+        "high_price": 36900.0,
+        "low_price": 36730.0,
+        "close_price": 37470.0,
+        "volume": 141212.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250915,
+        "open_price": 39250.0,
+        "high_price": 39250.0,
+        "low_price": 37130.0,
+        "close_price": 37860.0,
+        "volume": 177480.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250914,
+        "open_price": 38750.0,
+        "high_price": 38900.0,
+        "low_price": 38000.0,
+        "close_price": 38270.0,
+        "volume": 187444.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250913,
+        "open_price": 37780.0,
+        "high_price": 37790.0,
+        "low_price": 37000.0,
+        "close_price": 37770.0,
+        "volume": 457685.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250909,
+        "open_price": 36210.0,
+        "high_price": 37550.0,
+        "low_price": 36210.0,
+        "close_price": 36690.0,
+        "volume": 241022.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250908,
+        "open_price": 35340.0,
+        "high_price": 37410.0,
+        "low_price": 35340.0,
+        "close_price": 36580.0,
+        "volume": 123062.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250907,
+        "open_price": 35000.0,
+        "high_price": 36420.0,
+        "low_price": 35000.0,
+        "close_price": 36330.0,
+        "volume": 494559.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250906,
+        "open_price": 34080.0,
+        "high_price": 35420.0,
+        "low_price": 34000.0,
+        "close_price": 35360.0,
+        "volume": 689124.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250903,
+        "open_price": 33010.0,
+        "high_price": 34480.0,
+        "low_price": 33010.0,
+        "close_price": 34390.0,
+        "volume": 430034.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250902,
+        "open_price": 33300.0,
+        "high_price": 33490.0,
+        "low_price": 33300.0,
+        "close_price": 33480.0,
+        "volume": 491335.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250831,
+        "open_price": 33500.0,
+        "high_price": 33500.0,
+        "low_price": 32110.0,
+        "close_price": 32520.0,
+        "volume": 211454.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250830,
+        "open_price": 32110.0,
+        "high_price": 32500.0,
+        "low_price": 32100.0,
+        "close_price": 32610.0,
+        "volume": 219263.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250827,
+        "open_price": 32100.0,
+        "high_price": 34050.0,
+        "low_price": 32100.0,
+        "close_price": 33090.0,
+        "volume": 99434.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250826,
+        "open_price": 32360.0,
+        "high_price": 32960.0,
+        "low_price": 32100.0,
+        "close_price": 33060.0,
+        "volume": 23458.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250825,
+        "open_price": 32450.0,
+        "high_price": 32990.0,
+        "low_price": 32410.0,
+        "close_price": 33090.0,
+        "volume": 131565.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250823,
+        "open_price": 34280.0,
+        "high_price": 34280.0,
+        "low_price": 33300.0,
+        "close_price": 33360.0,
+        "volume": 39891.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250820,
+        "open_price": 32420.0,
+        "high_price": 34000.0,
+        "low_price": 32420.0,
+        "close_price": 33310.0,
+        "volume": 154817.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250819,
+        "open_price": 32270.0,
+        "high_price": 34200.0,
+        "low_price": 32270.0,
+        "close_price": 33290.0,
+        "volume": 126087.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250818,
+        "open_price": 34240.0,
+        "high_price": 34240.0,
+        "low_price": 32830.0,
+        "close_price": 33250.0,
+        "volume": 20995.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250817,
+        "open_price": 33500.0,
+        "high_price": 33810.0,
+        "low_price": 33450.0,
+        "close_price": 33250.0,
+        "volume": 195045.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250816,
+        "open_price": 32740.0,
+        "high_price": 33640.0,
+        "low_price": 31780.0,
+        "close_price": 32830.0,
+        "volume": 94678.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250813,
+        "open_price": 32430.0,
+        "high_price": 33000.0,
+        "low_price": 32150.0,
+        "close_price": 32740.0,
+        "volume": 188698.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250812,
+        "open_price": 32430.0,
+        "high_price": 32500.0,
+        "low_price": 32230.0,
+        "close_price": 33140.0,
+        "volume": 31097.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250811,
+        "open_price": 33310.0,
+        "high_price": 33950.0,
+        "low_price": 33000.0,
+        "close_price": 33200.0,
+        "volume": 74954.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250810,
+        "open_price": 32730.0,
+        "high_price": 33380.0,
+        "low_price": 32730.0,
+        "close_price": 33180.0,
+        "volume": 127550.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250809,
+        "open_price": 32420.0,
+        "high_price": 34080.0,
+        "low_price": 32420.0,
+        "close_price": 33310.0,
+        "volume": 150219.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250806,
+        "open_price": 33400.0,
+        "high_price": 33400.0,
+        "low_price": 32930.0,
+        "close_price": 33420.0,
+        "volume": 255623.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250805,
+        "open_price": 34900.0,
+        "high_price": 34900.0,
+        "low_price": 33810.0,
+        "close_price": 33940.0,
+        "volume": 160462.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250804,
+        "open_price": 34000.0,
+        "high_price": 34370.0,
+        "low_price": 33750.0,
+        "close_price": 33950.0,
+        "volume": 354122.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250803,
+        "open_price": 34040.0,
+        "high_price": 34950.0,
+        "low_price": 33730.0,
+        "close_price": 34000.0,
+        "volume": 249430.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250802,
+        "open_price": 34200.0,
+        "high_price": 34970.0,
+        "low_price": 33940.0,
+        "close_price": 34070.0,
+        "volume": 456342.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250730,
+        "open_price": 34900.0,
+        "high_price": 34990.0,
+        "low_price": 33610.0,
+        "close_price": 34160.0,
+        "volume": 195128.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250729,
+        "open_price": 33610.0,
+        "high_price": 33620.0,
+        "low_price": 33590.0,
+        "close_price": 34090.0,
+        "volume": 216505.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250728,
+        "open_price": 35610.0,
+        "high_price": 35610.0,
+        "low_price": 34620.0,
+        "close_price": 34620.0,
+        "volume": 482815.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250727,
+        "open_price": 35850.0,
+        "high_price": 36000.0,
+        "low_price": 35580.0,
+        "close_price": 35690.0,
+        "volume": 317149.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250726,
+        "open_price": 36000.0,
+        "high_price": 36190.0,
+        "low_price": 34510.0,
+        "close_price": 35680.0,
+        "volume": 321729.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250723,
+        "open_price": 36000.0,
+        "high_price": 36150.0,
+        "low_price": 35100.0,
+        "close_price": 35510.0,
+        "volume": 708831.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250722,
+        "open_price": 35280.0,
+        "high_price": 35280.0,
+        "low_price": 35280.0,
+        "close_price": 35150.0,
+        "volume": 390540.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250721,
+        "open_price": 34420.0,
+        "high_price": 34420.0,
+        "low_price": 34420.0,
+        "close_price": 34260.0,
+        "volume": 378031.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250720,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 33420.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250719,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 37520.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250716,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 37520.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250715,
+        "open_price": 37400.0,
+        "high_price": 38190.0,
+        "low_price": 37380.0,
+        "close_price": 37520.0,
+        "volume": 118743.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250714,
+        "open_price": 37720.0,
+        "high_price": 37800.0,
+        "low_price": 37250.0,
+        "close_price": 37400.0,
+        "volume": 212804.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250713,
+        "open_price": 38220.0,
+        "high_price": 38230.0,
+        "low_price": 37110.0,
+        "close_price": 37370.0,
+        "volume": 123151.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250712,
+        "open_price": 37130.0,
+        "high_price": 38240.0,
+        "low_price": 37130.0,
+        "close_price": 37420.0,
+        "volume": 141783.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250709,
+        "open_price": 36790.0,
+        "high_price": 37500.0,
+        "low_price": 36760.0,
+        "close_price": 37130.0,
+        "volume": 266161.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250708,
+        "open_price": 38700.0,
+        "high_price": 38700.0,
+        "low_price": 37600.0,
+        "close_price": 37890.0,
+        "volume": 308990.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250707,
+        "open_price": 39890.0,
+        "high_price": 39890.0,
+        "low_price": 38600.0,
+        "close_price": 38760.0,
+        "volume": 78390.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250702,
+        "open_price": 38680.0,
+        "high_price": 40630.0,
+        "low_price": 38680.0,
+        "close_price": 38730.0,
+        "volume": 4209497.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250701,
+        "open_price": 39210.0,
+        "high_price": 39210.0,
+        "low_price": 39210.0,
+        "close_price": 39870.0,
+        "volume": 157635.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250630,
+        "open_price": 40420.0,
+        "high_price": 40420.0,
+        "low_price": 40420.0,
+        "close_price": 40420.0,
+        "volume": 1963897.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250629,
+        "open_price": 41660.0,
+        "high_price": 41660.0,
+        "low_price": 41660.0,
+        "close_price": 41660.0,
+        "volume": 409288.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250628,
+        "open_price": 42270.0,
+        "high_price": 42270.0,
+        "low_price": 42270.0,
+        "close_price": 42940.0,
+        "volume": 167599.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 43570.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 43570.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 43570.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 43570.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 43570.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 43570.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 43570.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 43570.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250611,
+        "open_price": 43560.0,
+        "high_price": 44550.0,
+        "low_price": 43100.0,
+        "close_price": 43570.0,
+        "volume": 131794.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250610,
+        "open_price": 43400.0,
+        "high_price": 44710.0,
+        "low_price": 43190.0,
+        "close_price": 43670.0,
+        "volume": 351964.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250609,
+        "open_price": 44210.0,
+        "high_price": 45050.0,
+        "low_price": 42860.0,
+        "close_price": 43410.0,
+        "volume": 737724.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250608,
+        "open_price": 44500.0,
+        "high_price": 45100.0,
+        "low_price": 43550.0,
+        "close_price": 43770.0,
+        "volume": 1352797.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250607,
+        "open_price": 46000.0,
+        "high_price": 46000.0,
+        "low_price": 44710.0,
+        "close_price": 44890.0,
+        "volume": 912598.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250603,
+        "open_price": 46000.0,
+        "high_price": 47100.0,
+        "low_price": 45750.0,
+        "close_price": 46090.0,
+        "volume": 518547.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250602,
+        "open_price": 47600.0,
+        "high_price": 47600.0,
+        "low_price": 45880.0,
+        "close_price": 46470.0,
+        "volume": 337977.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250601,
+        "open_price": 47860.0,
+        "high_price": 47860.0,
+        "low_price": 47210.0,
+        "close_price": 47250.0,
+        "volume": 1138360.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250531,
+        "open_price": 49800.0,
+        "high_price": 50700.0,
+        "low_price": 47760.0,
+        "close_price": 48660.0,
+        "volume": 828210.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250528,
+        "open_price": 48910.0,
+        "high_price": 49610.0,
+        "low_price": 48480.0,
+        "close_price": 49230.0,
+        "volume": 1855018.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250527,
+        "open_price": 48260.0,
+        "high_price": 48260.0,
+        "low_price": 47000.0,
+        "close_price": 48170.0,
+        "volume": 2724583.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250526,
+        "open_price": 45900.0,
+        "high_price": 48720.0,
+        "low_price": 45900.0,
+        "close_price": 46860.0,
+        "volume": 5201436.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250525,
+        "open_price": 47220.0,
+        "high_price": 47220.0,
+        "low_price": 47220.0,
+        "close_price": 47310.0,
+        "volume": 280702.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250524,
+        "open_price": 48560.0,
+        "high_price": 48560.0,
+        "low_price": 48560.0,
+        "close_price": 48680.0,
+        "volume": 275418.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250521,
+        "open_price": 49920.0,
+        "high_price": 49920.0,
+        "low_price": 49920.0,
+        "close_price": 50060.0,
+        "volume": 251985.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250520,
+        "open_price": 51460.0,
+        "high_price": 51700.0,
+        "low_price": 51460.0,
+        "close_price": 51460.0,
+        "volume": 1124827.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250519,
+        "open_price": 54200.0,
+        "high_price": 54200.0,
+        "low_price": 52590.0,
+        "close_price": 53050.0,
+        "volume": 236637.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250518,
+        "open_price": 54320.0,
+        "high_price": 54320.0,
+        "low_price": 53290.0,
+        "close_price": 54210.0,
+        "volume": 917458.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250517,
+        "open_price": 54650.0,
+        "high_price": 54650.0,
+        "low_price": 52350.0,
+        "close_price": 52740.0,
+        "volume": 1244491.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250514,
+        "open_price": 53960.0,
+        "high_price": 53960.0,
+        "low_price": 52670.0,
+        "close_price": 53960.0,
+        "volume": 4381971.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250513,
+        "open_price": 52500.0,
+        "high_price": 52610.0,
+        "low_price": 51080.0,
+        "close_price": 52390.0,
+        "volume": 1463751.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250512,
+        "open_price": 51080.0,
+        "high_price": 51080.0,
+        "low_price": 51000.0,
+        "close_price": 51080.0,
+        "volume": 326048.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250511,
+        "open_price": 49280.0,
+        "high_price": 51000.0,
+        "low_price": 49240.0,
+        "close_price": 49600.0,
+        "volume": 369818.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250510,
+        "open_price": 52700.0,
+        "high_price": 52700.0,
+        "low_price": 49710.0,
+        "close_price": 50760.0,
+        "volume": 954046.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250507,
+        "open_price": 50000.0,
+        "high_price": 51290.0,
+        "low_price": 50000.0,
+        "close_price": 51240.0,
+        "volume": 790164.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250506,
+        "open_price": 51400.0,
+        "high_price": 51950.0,
+        "low_price": 49530.0,
+        "close_price": 49800.0,
+        "volume": 1251949.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250505,
+        "open_price": 52050.0,
+        "high_price": 53000.0,
+        "low_price": 50610.0,
+        "close_price": 51060.0,
+        "volume": 2422237.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250504,
+        "open_price": 52270.0,
+        "high_price": 52600.0,
+        "low_price": 51020.0,
+        "close_price": 52170.0,
+        "volume": 2397412.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250503,
+        "open_price": 51230.0,
+        "high_price": 51230.0,
+        "low_price": 49520.0,
+        "close_price": 51070.0,
+        "volume": 5450132.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250430,
+        "open_price": 49740.0,
+        "high_price": 49740.0,
+        "low_price": 49740.0,
+        "close_price": 49740.0,
+        "volume": 1803430.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250429,
+        "open_price": 46980.0,
+        "high_price": 48370.0,
+        "low_price": 46910.0,
+        "close_price": 48300.0,
+        "volume": 869272.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250428,
+        "open_price": 46200.0,
+        "high_price": 47630.0,
+        "low_price": 46200.0,
+        "close_price": 46970.0,
+        "volume": 245512.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250427,
+        "open_price": 46580.0,
+        "high_price": 47000.0,
+        "low_price": 45890.0,
+        "close_price": 46250.0,
+        "volume": 445614.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250426,
+        "open_price": 46650.0,
+        "high_price": 47600.0,
+        "low_price": 46030.0,
+        "close_price": 46720.0,
+        "volume": 458842.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250423,
+        "open_price": 47610.0,
+        "high_price": 48100.0,
+        "low_price": 46190.0,
+        "close_price": 46750.0,
+        "volume": 784024.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250422,
+        "open_price": 46600.0,
+        "high_price": 47920.0,
+        "low_price": 46600.0,
+        "close_price": 47610.0,
+        "volume": 974195.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250421,
+        "open_price": 46620.0,
+        "high_price": 46620.0,
+        "low_price": 45300.0,
+        "close_price": 46530.0,
+        "volume": 1200770.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250420,
+        "open_price": 45270.0,
+        "high_price": 45270.0,
+        "low_price": 45270.0,
+        "close_price": 45270.0,
+        "volume": 546261.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250419,
+        "open_price": 43960.0,
+        "high_price": 43960.0,
+        "low_price": 43960.0,
+        "close_price": 43960.0,
+        "volume": 475186.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250416,
+        "open_price": 41760.0,
+        "high_price": 43380.0,
+        "low_price": 41070.0,
+        "close_price": 42680.0,
+        "volume": 770626.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250415,
+        "open_price": 42700.0,
+        "high_price": 42700.0,
+        "low_price": 41530.0,
+        "close_price": 42120.0,
+        "volume": 771807.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250414,
+        "open_price": 41490.0,
+        "high_price": 41490.0,
+        "low_price": 40900.0,
+        "close_price": 41460.0,
+        "volume": 507163.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250413,
+        "open_price": 40770.0,
+        "high_price": 40780.0,
+        "low_price": 40750.0,
+        "close_price": 40290.0,
+        "volume": 224837.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250412,
+        "open_price": 40390.0,
+        "high_price": 40390.0,
+        "low_price": 39280.0,
+        "close_price": 39600.0,
+        "volume": 724751.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250409,
+        "open_price": 39340.0,
+        "high_price": 39340.0,
+        "low_price": 38270.0,
+        "close_price": 39300.0,
+        "volume": 783485.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250408,
+        "open_price": 38200.0,
+        "high_price": 38240.0,
+        "low_price": 37750.0,
+        "close_price": 38200.0,
+        "volume": 400325.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250407,
+        "open_price": 37670.0,
+        "high_price": 37680.0,
+        "low_price": 36530.0,
+        "close_price": 37130.0,
+        "volume": 1145163.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250406,
+        "open_price": 37670.0,
+        "high_price": 37670.0,
+        "low_price": 36580.0,
+        "close_price": 36590.0,
+        "volume": 42129.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 36580.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 36580.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250329,
+        "open_price": 36820.0,
+        "high_price": 37190.0,
+        "low_price": 36520.0,
+        "close_price": 36580.0,
+        "volume": 146923.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250326,
+        "open_price": 37480.0,
+        "high_price": 37480.0,
+        "low_price": 36790.0,
+        "close_price": 36470.0,
+        "volume": 46447.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250325,
+        "open_price": 36300.0,
+        "high_price": 37370.0,
+        "low_price": 36120.0,
+        "close_price": 36400.0,
+        "volume": 53438.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250318,
+        "open_price": 36650.0,
+        "high_price": 36650.0,
+        "low_price": 35950.0,
+        "close_price": 36300.0,
+        "volume": 344873.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250317,
+        "open_price": 38300.0,
+        "high_price": 38300.0,
+        "low_price": 36130.0,
+        "close_price": 36790.0,
+        "volume": 606542.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250316,
+        "open_price": 38020.0,
+        "high_price": 38020.0,
+        "low_price": 37010.0,
+        "close_price": 37240.0,
+        "volume": 189673.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250315,
+        "open_price": 37020.0,
+        "high_price": 37750.0,
+        "low_price": 37020.0,
+        "close_price": 36920.0,
+        "volume": 130175.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250312,
+        "open_price": 36790.0,
+        "high_price": 37510.0,
+        "low_price": 36790.0,
+        "close_price": 36660.0,
+        "volume": 128863.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250311,
+        "open_price": 36990.0,
+        "high_price": 37810.0,
+        "low_price": 35970.0,
+        "close_price": 36420.0,
+        "volume": 463952.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250310,
+        "open_price": 38000.0,
+        "high_price": 38000.0,
+        "low_price": 36280.0,
+        "close_price": 37080.0,
+        "volume": 73941.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250309,
+        "open_price": 37110.0,
+        "high_price": 38180.0,
+        "low_price": 37100.0,
+        "close_price": 37100.0,
+        "volume": 455956.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250308,
+        "open_price": 38880.0,
+        "high_price": 38900.0,
+        "low_price": 37720.0,
+        "close_price": 38240.0,
+        "volume": 316545.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250305,
+        "open_price": 38910.0,
+        "high_price": 39480.0,
+        "low_price": 38800.0,
+        "close_price": 38880.0,
+        "volume": 158430.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250304,
+        "open_price": 39300.0,
+        "high_price": 39940.0,
+        "low_price": 38790.0,
+        "close_price": 38900.0,
+        "volume": 105558.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250303,
+        "open_price": 39220.0,
+        "high_price": 39320.0,
+        "low_price": 38760.0,
+        "close_price": 38810.0,
+        "volume": 464094.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250302,
+        "open_price": 40240.0,
+        "high_price": 40630.0,
+        "low_price": 39830.0,
+        "close_price": 39950.0,
+        "volume": 441087.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250301,
+        "open_price": 40180.0,
+        "high_price": 40810.0,
+        "low_price": 39990.0,
+        "close_price": 40240.0,
+        "volume": 125195.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250226,
+        "open_price": 40330.0,
+        "high_price": 40880.0,
+        "low_price": 39810.0,
+        "close_price": 40180.0,
+        "volume": 205919.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250225,
+        "open_price": 40600.0,
+        "high_price": 40970.0,
+        "low_price": 40070.0,
+        "close_price": 40340.0,
+        "volume": 242087.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250224,
+        "open_price": 40980.0,
+        "high_price": 40980.0,
+        "low_price": 40130.0,
+        "close_price": 40070.0,
+        "volume": 108844.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250223,
+        "open_price": 40550.0,
+        "high_price": 40560.0,
+        "low_price": 39580.0,
+        "close_price": 39920.0,
+        "volume": 159254.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250222,
+        "open_price": 40400.0,
+        "high_price": 41650.0,
+        "low_price": 39460.0,
+        "close_price": 39870.0,
+        "volume": 484693.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250219,
+        "open_price": 41630.0,
+        "high_price": 41630.0,
+        "low_price": 40080.0,
+        "close_price": 40490.0,
+        "volume": 169450.0
+    },
+    {
+        "symbol": "زمگسا",
+        "trade_date": 20250218,
+        "open_price": 40900.0,
+        "high_price": 41660.0,
+        "low_price": 39980.0,
+        "close_price": 40430.0,
+        "volume": 57733.0
+    }
+]

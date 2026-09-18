@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260901,
+        "open_price": 12260.0,
+        "high_price": 12260.0,
+        "low_price": 11560.0,
+        "close_price": 11970.0,
+        "volume": 452448635.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260831,
+        "open_price": 11920.0,
+        "high_price": 11920.0,
+        "low_price": 11650.0,
+        "close_price": 11910.0,
+        "volume": 421086541.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260829,
+        "open_price": 11590.0,
+        "high_price": 11590.0,
+        "low_price": 11310.0,
+        "close_price": 11580.0,
+        "volume": 297987782.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260826,
+        "open_price": 11260.0,
+        "high_price": 11260.0,
+        "low_price": 11210.0,
+        "close_price": 11260.0,
+        "volume": 246604170.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260825,
+        "open_price": 10890.0,
+        "high_price": 10970.0,
+        "low_price": 10770.0,
+        "close_price": 10940.0,
+        "volume": 239506821.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260824,
+        "open_price": 10150.0,
+        "high_price": 10730.0,
+        "low_price": 10120.0,
+        "close_price": 10660.0,
+        "volume": 317417892.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260823,
+        "open_price": 10770.0,
+        "high_price": 10780.0,
+        "low_price": 10280.0,
+        "close_price": 10420.0,
+        "volume": 216504372.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260822,
+        "open_price": 10490.0,
+        "high_price": 10710.0,
+        "low_price": 10460.0,
+        "close_price": 10590.0,
+        "volume": 149598770.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260819,
+        "open_price": 10350.0,
+        "high_price": 10600.0,
+        "low_price": 10350.0,
+        "close_price": 10400.0,
+        "volume": 178859635.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260818,
+        "open_price": 10770.0,
+        "high_price": 11050.0,
+        "low_price": 10520.0,
+        "close_price": 10660.0,
+        "volume": 156766825.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260817,
+        "open_price": 10830.0,
+        "high_price": 10850.0,
+        "low_price": 10700.0,
+        "close_price": 10840.0,
+        "volume": 132701404.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260816,
+        "open_price": 10490.0,
+        "high_price": 10800.0,
+        "low_price": 10490.0,
+        "close_price": 10540.0,
+        "volume": 305822285.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260815,
+        "open_price": 10810.0,
+        "high_price": 10900.0,
+        "low_price": 10810.0,
+        "close_price": 10810.0,
+        "volume": 248758143.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260811,
+        "open_price": 11400.0,
+        "high_price": 11400.0,
+        "low_price": 11010.0,
+        "close_price": 11140.0,
+        "volume": 104448846.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260810,
+        "open_price": 10970.0,
+        "high_price": 11280.0,
+        "low_price": 10840.0,
+        "close_price": 11130.0,
+        "volume": 161883757.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260809,
+        "open_price": 11350.0,
+        "high_price": 11350.0,
+        "low_price": 10920.0,
+        "close_price": 10960.0,
+        "volume": 384532085.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260808,
+        "open_price": 11250.0,
+        "high_price": 11250.0,
+        "low_price": 11250.0,
+        "close_price": 11250.0,
+        "volume": 61170916.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260805,
+        "open_price": 10930.0,
+        "high_price": 10930.0,
+        "low_price": 10920.0,
+        "close_price": 10930.0,
+        "volume": 114291570.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260803,
+        "open_price": 10620.0,
+        "high_price": 10620.0,
+        "low_price": 10470.0,
+        "close_price": 10620.0,
+        "volume": 110818132.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260802,
+        "open_price": 10500.0,
+        "high_price": 10530.0,
+        "low_price": 9960.0,
+        "close_price": 10320.0,
+        "volume": 215246932.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260801,
+        "open_price": 10250.0,
+        "high_price": 10250.0,
+        "low_price": 10250.0,
+        "close_price": 10250.0,
+        "volume": 75668539.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260729,
+        "open_price": 10560.0,
+        "high_price": 10630.0,
+        "low_price": 10560.0,
+        "close_price": 10560.0,
+        "volume": 234064465.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260728,
+        "open_price": 10880.0,
+        "high_price": 10880.0,
+        "low_price": 10770.0,
+        "close_price": 10880.0,
+        "volume": 385568253.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260727,
+        "open_price": 10700.0,
+        "high_price": 10770.0,
+        "low_price": 10150.0,
+        "close_price": 10570.0,
+        "volume": 396327645.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260726,
+        "open_price": 10460.0,
+        "high_price": 10460.0,
+        "low_price": 10420.0,
+        "close_price": 10460.0,
+        "volume": 189695309.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260725,
+        "open_price": 10160.0,
+        "high_price": 10200.0,
+        "low_price": 10160.0,
+        "close_price": 10160.0,
+        "volume": 196695216.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260722,
+        "open_price": 10470.0,
+        "high_price": 10470.0,
+        "low_price": 10470.0,
+        "close_price": 10470.0,
+        "volume": 104154575.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260721,
+        "open_price": 10940.0,
+        "high_price": 10940.0,
+        "low_price": 10690.0,
+        "close_price": 10790.0,
+        "volume": 105838596.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260720,
+        "open_price": 10970.0,
+        "high_price": 10970.0,
+        "low_price": 10350.0,
+        "close_price": 10630.0,
+        "volume": 179555291.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260719,
+        "open_price": 10660.0,
+        "high_price": 10840.0,
+        "low_price": 10660.0,
+        "close_price": 10660.0,
+        "volume": 264512383.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260718,
+        "open_price": 10980.0,
+        "high_price": 10980.0,
+        "low_price": 10980.0,
+        "close_price": 10980.0,
+        "volume": 5271863.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260715,
+        "open_price": 11310.0,
+        "high_price": 11370.0,
+        "low_price": 11310.0,
+        "close_price": 11310.0,
+        "volume": 194842799.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260714,
+        "open_price": 11650.0,
+        "high_price": 11650.0,
+        "low_price": 11650.0,
+        "close_price": 11650.0,
+        "volume": 179175796.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260713,
+        "open_price": 12010.0,
+        "high_price": 12010.0,
+        "low_price": 12010.0,
+        "close_price": 12010.0,
+        "volume": 58826484.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260712,
+        "open_price": 12380.0,
+        "high_price": 12380.0,
+        "low_price": 12380.0,
+        "close_price": 12380.0,
+        "volume": 10356976.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260711,
+        "open_price": 12750.0,
+        "high_price": 12990.0,
+        "low_price": 12740.0,
+        "close_price": 12760.0,
+        "volume": 121686119.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260708,
+        "open_price": 13250.0,
+        "high_price": 13250.0,
+        "low_price": 12490.0,
+        "close_price": 13130.0,
+        "volume": 659913792.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260707,
+        "open_price": 12870.0,
+        "high_price": 12870.0,
+        "low_price": 12870.0,
+        "close_price": 12870.0,
+        "volume": 86347338.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260701,
+        "open_price": 11970.0,
+        "high_price": 12660.0,
+        "low_price": 11940.0,
+        "close_price": 12500.0,
+        "volume": 239284040.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260630,
+        "open_price": 12750.0,
+        "high_price": 12840.0,
+        "low_price": 12100.0,
+        "close_price": 12300.0,
+        "volume": 160030446.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260629,
+        "open_price": 12450.0,
+        "high_price": 12780.0,
+        "low_price": 12450.0,
+        "close_price": 12470.0,
+        "volume": 251579834.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260628,
+        "open_price": 12830.0,
+        "high_price": 12960.0,
+        "low_price": 12830.0,
+        "close_price": 12830.0,
+        "volume": 172826671.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260627,
+        "open_price": 13290.0,
+        "high_price": 13290.0,
+        "low_price": 12870.0,
+        "close_price": 13220.0,
+        "volume": 372376801.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260623,
+        "open_price": 12910.0,
+        "high_price": 12910.0,
+        "low_price": 12720.0,
+        "close_price": 12910.0,
+        "volume": 217600545.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260622,
+        "open_price": 12540.0,
+        "high_price": 12710.0,
+        "low_price": 12540.0,
+        "close_price": 12540.0,
+        "volume": 413164337.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260621,
+        "open_price": 12920.0,
+        "high_price": 13000.0,
+        "low_price": 12920.0,
+        "close_price": 12920.0,
+        "volume": 184825275.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260620,
+        "open_price": 13550.0,
+        "high_price": 13900.0,
+        "low_price": 13270.0,
+        "close_price": 13310.0,
+        "volume": 366291235.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260617,
+        "open_price": 13680.0,
+        "high_price": 13680.0,
+        "low_price": 13680.0,
+        "close_price": 13680.0,
+        "volume": 90391056.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260616,
+        "open_price": 14460.0,
+        "high_price": 14460.0,
+        "low_price": 13620.0,
+        "close_price": 14100.0,
+        "volume": 464641025.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260615,
+        "open_price": 14040.0,
+        "high_price": 14040.0,
+        "low_price": 14040.0,
+        "close_price": 14040.0,
+        "volume": 62541388.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260614,
+        "open_price": 13650.0,
+        "high_price": 13650.0,
+        "low_price": 13520.0,
+        "close_price": 13640.0,
+        "volume": 217015184.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260613,
+        "open_price": 13260.0,
+        "high_price": 13260.0,
+        "low_price": 13260.0,
+        "close_price": 13260.0,
+        "volume": 59732599.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260610,
+        "open_price": 13160.0,
+        "high_price": 13250.0,
+        "low_price": 12870.0,
+        "close_price": 12880.0,
+        "volume": 477231600.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260609,
+        "open_price": 13300.0,
+        "high_price": 13300.0,
+        "low_price": 13040.0,
+        "close_price": 13260.0,
+        "volume": 354475124.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260608,
+        "open_price": 12920.0,
+        "high_price": 12920.0,
+        "low_price": 12920.0,
+        "close_price": 12920.0,
+        "volume": 314987634.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260607,
+        "open_price": 13300.0,
+        "high_price": 13310.0,
+        "low_price": 13210.0,
+        "close_price": 13310.0,
+        "volume": 331150941.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260606,
+        "open_price": 13060.0,
+        "high_price": 13380.0,
+        "low_price": 12840.0,
+        "close_price": 12930.0,
+        "volume": 651474311.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260603,
+        "open_price": 13300.0,
+        "high_price": 13590.0,
+        "low_price": 13210.0,
+        "close_price": 13230.0,
+        "volume": 1247815616.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260602,
+        "open_price": 13650.0,
+        "high_price": 14050.0,
+        "low_price": 13250.0,
+        "close_price": 13610.0,
+        "volume": 2155420724.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260601,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260531,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260530,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260526,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260525,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260524,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260523,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260520,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260519,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 508420.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 508420.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 508420.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 508420.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 508420.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 508420.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 508420.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 508420.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 508420.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 508420.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 508420.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 508420.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 508420.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 508420.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 508420.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 508420.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 508420.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 508420.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 508420.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 508420.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260225,
+        "open_price": 497100.0,
+        "high_price": 517000.0,
+        "low_price": 497100.0,
+        "close_price": 508420.0,
+        "volume": 789118.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260224,
+        "open_price": 515880.0,
+        "high_price": 515880.0,
+        "low_price": 497050.0,
+        "close_price": 502260.0,
+        "volume": 1791583.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260223,
+        "open_price": 498150.0,
+        "high_price": 512960.0,
+        "low_price": 498150.0,
+        "close_price": 512410.0,
+        "volume": 1712978.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260222,
+        "open_price": 497970.0,
+        "high_price": 499800.0,
+        "low_price": 497970.0,
+        "close_price": 498020.0,
+        "volume": 3210977.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260221,
+        "open_price": 513370.0,
+        "high_price": 513370.0,
+        "low_price": 513370.0,
+        "close_price": 513370.0,
+        "volume": 325507.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260218,
+        "open_price": 545200.0,
+        "high_price": 553000.0,
+        "low_price": 525730.0,
+        "close_price": 529240.0,
+        "volume": 1818123.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260217,
+        "open_price": 541080.0,
+        "high_price": 552800.0,
+        "low_price": 524960.0,
+        "close_price": 541980.0,
+        "volume": 1753810.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260216,
+        "open_price": 539720.0,
+        "high_price": 554480.0,
+        "low_price": 539720.0,
+        "close_price": 541170.0,
+        "volume": 3381462.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260215,
+        "open_price": 556410.0,
+        "high_price": 559600.0,
+        "low_price": 556410.0,
+        "close_price": 556410.0,
+        "volume": 1238064.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260214,
+        "open_price": 595660.0,
+        "high_price": 595660.0,
+        "low_price": 560980.0,
+        "close_price": 573610.0,
+        "volume": 3999883.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260210,
+        "open_price": 553050.0,
+        "high_price": 586850.0,
+        "low_price": 553050.0,
+        "close_price": 578320.0,
+        "volume": 2191824.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260209,
+        "open_price": 585580.0,
+        "high_price": 585580.0,
+        "low_price": 569150.0,
+        "close_price": 569800.0,
+        "volume": 3693734.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260208,
+        "open_price": 590690.0,
+        "high_price": 590690.0,
+        "low_price": 570690.0,
+        "close_price": 586750.0,
+        "volume": 7253616.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260207,
+        "open_price": 573490.0,
+        "high_price": 573490.0,
+        "low_price": 573490.0,
+        "close_price": 573490.0,
+        "volume": 1791480.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260203,
+        "open_price": 557520.0,
+        "high_price": 557520.0,
+        "low_price": 549000.0,
+        "close_price": 556790.0,
+        "volume": 7144087.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260202,
+        "open_price": 541290.0,
+        "high_price": 541290.0,
+        "low_price": 536200.0,
+        "close_price": 541290.0,
+        "volume": 2175981.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260201,
+        "open_price": 512000.0,
+        "high_price": 532230.0,
+        "low_price": 510650.0,
+        "close_price": 525530.0,
+        "volume": 3583831.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260131,
+        "open_price": 534240.0,
+        "high_price": 534240.0,
+        "low_price": 503120.0,
+        "close_price": 516730.0,
+        "volume": 5279970.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260128,
+        "open_price": 510830.0,
+        "high_price": 542410.0,
+        "low_price": 510830.0,
+        "close_price": 518680.0,
+        "volume": 13889146.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260127,
+        "open_price": 526620.0,
+        "high_price": 526620.0,
+        "low_price": 526620.0,
+        "close_price": 526620.0,
+        "volume": 1026918.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260126,
+        "open_price": 542900.0,
+        "high_price": 542900.0,
+        "low_price": 542900.0,
+        "close_price": 542900.0,
+        "volume": 215843.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260125,
+        "open_price": 559690.0,
+        "high_price": 559690.0,
+        "low_price": 559690.0,
+        "close_price": 559690.0,
+        "volume": 6062713.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260124,
+        "open_price": 576990.0,
+        "high_price": 576990.0,
+        "low_price": 576990.0,
+        "close_price": 576990.0,
+        "volume": 4371170.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260121,
+        "open_price": 594400.0,
+        "high_price": 605930.0,
+        "low_price": 594310.0,
+        "close_price": 594830.0,
+        "volume": 7949966.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260120,
+        "open_price": 633000.0,
+        "high_price": 633000.0,
+        "low_price": 605930.0,
+        "close_price": 612690.0,
+        "volume": 11401424.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260119,
+        "open_price": 625420.0,
+        "high_price": 625420.0,
+        "low_price": 612150.0,
+        "close_price": 624660.0,
+        "volume": 20453440.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260118,
+        "open_price": 607210.0,
+        "high_price": 607210.0,
+        "low_price": 607210.0,
+        "close_price": 607210.0,
+        "volume": 362768.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260114,
+        "open_price": 591000.0,
+        "high_price": 610990.0,
+        "low_price": 575410.0,
+        "close_price": 589530.0,
+        "volume": 24254780.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260113,
+        "open_price": 593200.0,
+        "high_price": 593200.0,
+        "low_price": 593200.0,
+        "close_price": 593200.0,
+        "volume": 5022413.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260112,
+        "open_price": 575930.0,
+        "high_price": 575930.0,
+        "low_price": 575930.0,
+        "close_price": 575930.0,
+        "volume": 3251135.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260111,
+        "open_price": 559160.0,
+        "high_price": 559160.0,
+        "low_price": 559160.0,
+        "close_price": 559160.0,
+        "volume": 170168.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260110,
+        "open_price": 542880.0,
+        "high_price": 542880.0,
+        "low_price": 542880.0,
+        "close_price": 542880.0,
+        "volume": 4626739.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260107,
+        "open_price": 527070.0,
+        "high_price": 527070.0,
+        "low_price": 527070.0,
+        "close_price": 527070.0,
+        "volume": 206168.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260106,
+        "open_price": 511720.0,
+        "high_price": 511720.0,
+        "low_price": 511720.0,
+        "close_price": 511720.0,
+        "volume": 59263.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260105,
+        "open_price": 496820.0,
+        "high_price": 496820.0,
+        "low_price": 496820.0,
+        "close_price": 496820.0,
+        "volume": 1032775.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20260104,
+        "open_price": 482830.0,
+        "high_price": 482830.0,
+        "low_price": 468780.0,
+        "close_price": 482350.0,
+        "volume": 8210550.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251231,
+        "open_price": 468770.0,
+        "high_price": 468770.0,
+        "low_price": 468700.0,
+        "close_price": 468770.0,
+        "volume": 3486449.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251230,
+        "open_price": 454520.0,
+        "high_price": 469990.0,
+        "low_price": 454520.0,
+        "close_price": 455120.0,
+        "volume": 7549986.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251229,
+        "open_price": 470030.0,
+        "high_price": 470030.0,
+        "low_price": 455700.0,
+        "close_price": 468570.0,
+        "volume": 11287263.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251228,
+        "open_price": 456340.0,
+        "high_price": 456340.0,
+        "low_price": 456340.0,
+        "close_price": 456340.0,
+        "volume": 1526833.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251227,
+        "open_price": 443050.0,
+        "high_price": 443050.0,
+        "low_price": 443050.0,
+        "close_price": 443050.0,
+        "volume": 453711.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251224,
+        "open_price": 430150.0,
+        "high_price": 430150.0,
+        "low_price": 430150.0,
+        "close_price": 430150.0,
+        "volume": 826109.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251223,
+        "open_price": 419000.0,
+        "high_price": 419000.0,
+        "low_price": 413010.0,
+        "close_price": 417630.0,
+        "volume": 4937741.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251222,
+        "open_price": 406800.0,
+        "high_price": 406800.0,
+        "low_price": 406800.0,
+        "close_price": 406800.0,
+        "volume": 1891975.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251221,
+        "open_price": 395070.0,
+        "high_price": 395070.0,
+        "low_price": 388600.0,
+        "close_price": 394960.0,
+        "volume": 2639682.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251220,
+        "open_price": 383570.0,
+        "high_price": 383570.0,
+        "low_price": 383570.0,
+        "close_price": 383570.0,
+        "volume": 1711866.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251217,
+        "open_price": 362990.0,
+        "high_price": 380480.0,
+        "low_price": 358400.0,
+        "close_price": 372400.0,
+        "volume": 3655247.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251216,
+        "open_price": 374000.0,
+        "high_price": 374010.0,
+        "low_price": 355870.0,
+        "close_price": 369400.0,
+        "volume": 4313564.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251215,
+        "open_price": 359970.0,
+        "high_price": 366000.0,
+        "low_price": 359970.0,
+        "close_price": 363120.0,
+        "volume": 1617221.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251214,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 348580.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251213,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 359580.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251210,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 359580.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251209,
+        "open_price": 360300.0,
+        "high_price": 362600.0,
+        "low_price": 348620.0,
+        "close_price": 359580.0,
+        "volume": 3249052.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251208,
+        "open_price": 353890.0,
+        "high_price": 358000.0,
+        "low_price": 346000.0,
+        "close_price": 352130.0,
+        "volume": 2584712.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251207,
+        "open_price": 366000.0,
+        "high_price": 367000.0,
+        "low_price": 351640.0,
+        "close_price": 353890.0,
+        "volume": 4941999.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251206,
+        "open_price": 364500.0,
+        "high_price": 368000.0,
+        "low_price": 360000.0,
+        "close_price": 362510.0,
+        "volume": 2645600.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251203,
+        "open_price": 357400.0,
+        "high_price": 357550.0,
+        "low_price": 352000.0,
+        "close_price": 357540.0,
+        "volume": 3408193.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251202,
+        "open_price": 342150.0,
+        "high_price": 350290.0,
+        "low_price": 339650.0,
+        "close_price": 347140.0,
+        "volume": 1988379.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251201,
+        "open_price": 341800.0,
+        "high_price": 342150.0,
+        "low_price": 333650.0,
+        "close_price": 340090.0,
+        "volume": 1984355.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251130,
+        "open_price": 330000.0,
+        "high_price": 333230.0,
+        "low_price": 320000.0,
+        "close_price": 332190.0,
+        "volume": 3200912.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251129,
+        "open_price": 336000.0,
+        "high_price": 336000.0,
+        "low_price": 320220.0,
+        "close_price": 323530.0,
+        "volume": 2464730.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251126,
+        "open_price": 330790.0,
+        "high_price": 330790.0,
+        "low_price": 323200.0,
+        "close_price": 330120.0,
+        "volume": 12535138.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251125,
+        "open_price": 321160.0,
+        "high_price": 321160.0,
+        "low_price": 321160.0,
+        "close_price": 321160.0,
+        "volume": 3297741.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251123,
+        "open_price": 311810.0,
+        "high_price": 311810.0,
+        "low_price": 311810.0,
+        "close_price": 311810.0,
+        "volume": 3899861.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251122,
+        "open_price": 303970.0,
+        "high_price": 307400.0,
+        "low_price": 299410.0,
+        "close_price": 302730.0,
+        "volume": 934326.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251119,
+        "open_price": 300900.0,
+        "high_price": 300900.0,
+        "low_price": 297210.0,
+        "close_price": 298870.0,
+        "volume": 547447.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251118,
+        "open_price": 292910.0,
+        "high_price": 303700.0,
+        "low_price": 292910.0,
+        "close_price": 300210.0,
+        "volume": 682768.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251117,
+        "open_price": 304560.0,
+        "high_price": 307000.0,
+        "low_price": 298580.0,
+        "close_price": 301930.0,
+        "volume": 982032.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251116,
+        "open_price": 299990.0,
+        "high_price": 304500.0,
+        "low_price": 296000.0,
+        "close_price": 301420.0,
+        "volume": 830117.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251115,
+        "open_price": 295440.0,
+        "high_price": 299990.0,
+        "low_price": 294500.0,
+        "close_price": 297260.0,
+        "volume": 658585.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251112,
+        "open_price": 301710.0,
+        "high_price": 301710.0,
+        "low_price": 294830.0,
+        "close_price": 295440.0,
+        "volume": 826088.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251111,
+        "open_price": 300000.0,
+        "high_price": 303870.0,
+        "low_price": 294700.0,
+        "close_price": 295640.0,
+        "volume": 1062578.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251110,
+        "open_price": 295380.0,
+        "high_price": 300000.0,
+        "low_price": 295380.0,
+        "close_price": 295670.0,
+        "volume": 3350812.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251109,
+        "open_price": 308000.0,
+        "high_price": 310990.0,
+        "low_price": 304400.0,
+        "close_price": 304510.0,
+        "volume": 1921824.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251108,
+        "open_price": 319500.0,
+        "high_price": 321000.0,
+        "low_price": 306930.0,
+        "close_price": 313810.0,
+        "volume": 1033177.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251105,
+        "open_price": 306920.0,
+        "high_price": 316430.0,
+        "low_price": 306240.0,
+        "close_price": 311660.0,
+        "volume": 1194564.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251104,
+        "open_price": 316550.0,
+        "high_price": 321300.0,
+        "low_price": 309560.0,
+        "close_price": 313420.0,
+        "volume": 1820237.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251103,
+        "open_price": 317400.0,
+        "high_price": 321420.0,
+        "low_price": 311160.0,
+        "close_price": 319130.0,
+        "volume": 3114927.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251102,
+        "open_price": 302600.0,
+        "high_price": 319970.0,
+        "low_price": 302550.0,
+        "close_price": 312060.0,
+        "volume": 1882115.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251101,
+        "open_price": 319000.0,
+        "high_price": 321000.0,
+        "low_price": 303000.0,
+        "close_price": 311900.0,
+        "volume": 1715446.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251029,
+        "open_price": 311000.0,
+        "high_price": 314790.0,
+        "low_price": 305820.0,
+        "close_price": 311810.0,
+        "volume": 2681900.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251028,
+        "open_price": 305640.0,
+        "high_price": 305640.0,
+        "low_price": 303700.0,
+        "close_price": 305630.0,
+        "volume": 7940114.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251027,
+        "open_price": 296780.0,
+        "high_price": 296780.0,
+        "low_price": 293120.0,
+        "close_price": 296740.0,
+        "volume": 4290258.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251026,
+        "open_price": 288140.0,
+        "high_price": 288140.0,
+        "low_price": 288140.0,
+        "close_price": 288140.0,
+        "volume": 814662.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251025,
+        "open_price": 288900.0,
+        "high_price": 288900.0,
+        "low_price": 276100.0,
+        "close_price": 279750.0,
+        "volume": 1070338.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251022,
+        "open_price": 283900.0,
+        "high_price": 284910.0,
+        "low_price": 275900.0,
+        "close_price": 282400.0,
+        "volume": 2191102.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251021,
+        "open_price": 282990.0,
+        "high_price": 282990.0,
+        "low_price": 273680.0,
+        "close_price": 276620.0,
+        "volume": 585456.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251020,
+        "open_price": 278030.0,
+        "high_price": 283700.0,
+        "low_price": 278030.0,
+        "close_price": 278960.0,
+        "volume": 1621965.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251019,
+        "open_price": 293590.0,
+        "high_price": 299000.0,
+        "low_price": 283420.0,
+        "close_price": 286620.0,
+        "volume": 1301899.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251018,
+        "open_price": 292380.0,
+        "high_price": 292380.0,
+        "low_price": 287900.0,
+        "close_price": 292180.0,
+        "volume": 4474367.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251015,
+        "open_price": 283780.0,
+        "high_price": 288900.0,
+        "low_price": 283780.0,
+        "close_price": 283870.0,
+        "volume": 1423768.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251014,
+        "open_price": 295000.0,
+        "high_price": 297420.0,
+        "low_price": 281700.0,
+        "close_price": 292550.0,
+        "volume": 1715517.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251013,
+        "open_price": 297160.0,
+        "high_price": 297160.0,
+        "low_price": 286800.0,
+        "close_price": 288760.0,
+        "volume": 1776519.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251012,
+        "open_price": 282600.0,
+        "high_price": 290600.0,
+        "low_price": 282000.0,
+        "close_price": 290360.0,
+        "volume": 2635475.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251011,
+        "open_price": 284100.0,
+        "high_price": 289990.0,
+        "low_price": 275800.0,
+        "close_price": 282140.0,
+        "volume": 1177292.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251008,
+        "open_price": 289900.0,
+        "high_price": 294900.0,
+        "low_price": 284050.0,
+        "close_price": 284310.0,
+        "volume": 2651437.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251007,
+        "open_price": 286100.0,
+        "high_price": 297480.0,
+        "low_price": 286100.0,
+        "close_price": 292830.0,
+        "volume": 2001363.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251006,
+        "open_price": 304370.0,
+        "high_price": 304370.0,
+        "low_price": 292760.0,
+        "close_price": 294310.0,
+        "volume": 4752552.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251005,
+        "open_price": 302620.0,
+        "high_price": 302620.0,
+        "low_price": 296800.0,
+        "close_price": 301810.0,
+        "volume": 7872289.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251004,
+        "open_price": 293810.0,
+        "high_price": 293810.0,
+        "low_price": 293810.0,
+        "close_price": 293810.0,
+        "volume": 1241698.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20251001,
+        "open_price": 288640.0,
+        "high_price": 288640.0,
+        "low_price": 278400.0,
+        "close_price": 285260.0,
+        "volume": 2954603.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250930,
+        "open_price": 281040.0,
+        "high_price": 281040.0,
+        "low_price": 278530.0,
+        "close_price": 281030.0,
+        "volume": 14206349.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250929,
+        "open_price": 272860.0,
+        "high_price": 272860.0,
+        "low_price": 272860.0,
+        "close_price": 272860.0,
+        "volume": 2177119.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250928,
+        "open_price": 264920.0,
+        "high_price": 264920.0,
+        "low_price": 264920.0,
+        "close_price": 264920.0,
+        "volume": 5567802.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250927,
+        "open_price": 249730.0,
+        "high_price": 257220.0,
+        "low_price": 249730.0,
+        "close_price": 257210.0,
+        "volume": 5225401.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250924,
+        "open_price": 249890.0,
+        "high_price": 254990.0,
+        "low_price": 247610.0,
+        "close_price": 249730.0,
+        "volume": 853831.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250923,
+        "open_price": 258150.0,
+        "high_price": 258150.0,
+        "low_price": 248010.0,
+        "close_price": 251540.0,
+        "volume": 375121.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250922,
+        "open_price": 252000.0,
+        "high_price": 252200.0,
+        "low_price": 245610.0,
+        "close_price": 250640.0,
+        "volume": 1412082.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250921,
+        "open_price": 244630.0,
+        "high_price": 259000.0,
+        "low_price": 244630.0,
+        "close_price": 244860.0,
+        "volume": 3276592.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250920,
+        "open_price": 252190.0,
+        "high_price": 252190.0,
+        "low_price": 252190.0,
+        "close_price": 252190.0,
+        "volume": 513737.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250917,
+        "open_price": 259970.0,
+        "high_price": 263930.0,
+        "low_price": 259970.0,
+        "close_price": 259980.0,
+        "volume": 2298987.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250916,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 268010.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250915,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 268010.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250914,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 306010.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250913,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 306010.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250909,
+        "open_price": 316900.0,
+        "high_price": 316900.0,
+        "low_price": 305900.0,
+        "close_price": 306010.0,
+        "volume": 2410988.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250908,
+        "open_price": 311000.0,
+        "high_price": 316930.0,
+        "low_price": 307450.0,
+        "close_price": 315360.0,
+        "volume": 1509955.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250907,
+        "open_price": 302900.0,
+        "high_price": 312330.0,
+        "low_price": 296200.0,
+        "close_price": 308000.0,
+        "volume": 2076744.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250906,
+        "open_price": 303520.0,
+        "high_price": 303520.0,
+        "low_price": 298020.0,
+        "close_price": 303240.0,
+        "volume": 8708375.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250903,
+        "open_price": 294690.0,
+        "high_price": 294690.0,
+        "low_price": 294000.0,
+        "close_price": 294680.0,
+        "volume": 3900637.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250902,
+        "open_price": 286110.0,
+        "high_price": 286110.0,
+        "low_price": 286000.0,
+        "close_price": 286110.0,
+        "volume": 1037550.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250831,
+        "open_price": 278500.0,
+        "high_price": 278760.0,
+        "low_price": 271050.0,
+        "close_price": 277780.0,
+        "volume": 869242.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250830,
+        "open_price": 270090.0,
+        "high_price": 282000.0,
+        "low_price": 270090.0,
+        "close_price": 270650.0,
+        "volume": 1196685.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250827,
+        "open_price": 278660.0,
+        "high_price": 282420.0,
+        "low_price": 270150.0,
+        "close_price": 278440.0,
+        "volume": 346464.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250826,
+        "open_price": 267310.0,
+        "high_price": 278650.0,
+        "low_price": 267310.0,
+        "close_price": 274200.0,
+        "volume": 643683.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250825,
+        "open_price": 282200.0,
+        "high_price": 282200.0,
+        "low_price": 271510.0,
+        "close_price": 275300.0,
+        "volume": 471612.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250823,
+        "open_price": 269000.0,
+        "high_price": 277140.0,
+        "low_price": 265000.0,
+        "close_price": 274130.0,
+        "volume": 669012.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250820,
+        "open_price": 273700.0,
+        "high_price": 273800.0,
+        "low_price": 267860.0,
+        "close_price": 269070.0,
+        "volume": 264829.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250819,
+        "open_price": 263700.0,
+        "high_price": 274000.0,
+        "low_price": 263700.0,
+        "close_price": 269270.0,
+        "volume": 478572.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250818,
+        "open_price": 265000.0,
+        "high_price": 268840.0,
+        "low_price": 262320.0,
+        "close_price": 267030.0,
+        "volume": 1820424.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250817,
+        "open_price": 261000.0,
+        "high_price": 261010.0,
+        "low_price": 261000.0,
+        "close_price": 261010.0,
+        "volume": 607937.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250816,
+        "open_price": 251050.0,
+        "high_price": 259200.0,
+        "low_price": 249200.0,
+        "close_price": 253410.0,
+        "volume": 1276315.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250813,
+        "open_price": 251500.0,
+        "high_price": 255880.0,
+        "low_price": 251450.0,
+        "close_price": 251660.0,
+        "volume": 1106100.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250812,
+        "open_price": 261060.0,
+        "high_price": 263500.0,
+        "low_price": 257280.0,
+        "close_price": 259220.0,
+        "volume": 737314.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250811,
+        "open_price": 266000.0,
+        "high_price": 266000.0,
+        "low_price": 257850.0,
+        "close_price": 261620.0,
+        "volume": 655782.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250810,
+        "open_price": 259720.0,
+        "high_price": 261190.0,
+        "low_price": 254000.0,
+        "close_price": 260520.0,
+        "volume": 1280180.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250809,
+        "open_price": 243000.0,
+        "high_price": 254170.0,
+        "low_price": 243000.0,
+        "close_price": 253590.0,
+        "volume": 839976.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250806,
+        "open_price": 249450.0,
+        "high_price": 250980.0,
+        "low_price": 244370.0,
+        "close_price": 246770.0,
+        "volume": 952216.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250805,
+        "open_price": 247600.0,
+        "high_price": 252990.0,
+        "low_price": 245180.0,
+        "close_price": 249450.0,
+        "volume": 1135122.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250804,
+        "open_price": 250000.0,
+        "high_price": 253500.0,
+        "low_price": 247240.0,
+        "close_price": 252760.0,
+        "volume": 912922.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250803,
+        "open_price": 256470.0,
+        "high_price": 256690.0,
+        "low_price": 251390.0,
+        "close_price": 253140.0,
+        "volume": 1187427.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250802,
+        "open_price": 253490.0,
+        "high_price": 261790.0,
+        "low_price": 251390.0,
+        "close_price": 254440.0,
+        "volume": 3695113.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250730,
+        "open_price": 253940.0,
+        "high_price": 253940.0,
+        "low_price": 253940.0,
+        "close_price": 258730.0,
+        "volume": 144539.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250729,
+        "open_price": 256320.0,
+        "high_price": 256320.0,
+        "low_price": 256320.0,
+        "close_price": 261790.0,
+        "volume": 114732.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250728,
+        "open_price": 271400.0,
+        "high_price": 271400.0,
+        "low_price": 261800.0,
+        "close_price": 264240.0,
+        "volume": 1469442.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250727,
+        "open_price": 267540.0,
+        "high_price": 271980.0,
+        "low_price": 267440.0,
+        "close_price": 269890.0,
+        "volume": 1850497.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250726,
+        "open_price": 269200.0,
+        "high_price": 269300.0,
+        "low_price": 268670.0,
+        "close_price": 268900.0,
+        "volume": 932248.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250723,
+        "open_price": 269730.0,
+        "high_price": 272000.0,
+        "low_price": 268480.0,
+        "close_price": 269260.0,
+        "volume": 2759763.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250722,
+        "open_price": 278650.0,
+        "high_price": 278650.0,
+        "low_price": 268140.0,
+        "close_price": 269840.0,
+        "volume": 2142008.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250721,
+        "open_price": 276500.0,
+        "high_price": 276500.0,
+        "low_price": 267700.0,
+        "close_price": 270550.0,
+        "volume": 693498.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250720,
+        "open_price": 271510.0,
+        "high_price": 271510.0,
+        "low_price": 265470.0,
+        "close_price": 268620.0,
+        "volume": 915998.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250719,
+        "open_price": 262370.0,
+        "high_price": 265350.0,
+        "low_price": 259100.0,
+        "close_price": 263610.0,
+        "volume": 654181.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250716,
+        "open_price": 255650.0,
+        "high_price": 259850.0,
+        "low_price": 253400.0,
+        "close_price": 257710.0,
+        "volume": 1816069.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250715,
+        "open_price": 253170.0,
+        "high_price": 255560.0,
+        "low_price": 251170.0,
+        "close_price": 252290.0,
+        "volume": 1301016.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250714,
+        "open_price": 251180.0,
+        "high_price": 251180.0,
+        "low_price": 245910.0,
+        "close_price": 248210.0,
+        "volume": 1098142.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250713,
+        "open_price": 243940.0,
+        "high_price": 243940.0,
+        "low_price": 241290.0,
+        "close_price": 243870.0,
+        "volume": 1203908.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250712,
+        "open_price": 236840.0,
+        "high_price": 236840.0,
+        "low_price": 236840.0,
+        "close_price": 236840.0,
+        "volume": 575493.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250709,
+        "open_price": 226900.0,
+        "high_price": 239690.0,
+        "low_price": 226750.0,
+        "close_price": 229950.0,
+        "volume": 1190116.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250708,
+        "open_price": 233750.0,
+        "high_price": 241390.0,
+        "low_price": 232550.0,
+        "close_price": 232710.0,
+        "volume": 1512258.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250707,
+        "open_price": 242990.0,
+        "high_price": 242990.0,
+        "low_price": 233330.0,
+        "close_price": 239740.0,
+        "volume": 1373364.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250702,
+        "open_price": 235420.0,
+        "high_price": 248000.0,
+        "low_price": 235420.0,
+        "close_price": 235920.0,
+        "volume": 11476779.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250701,
+        "open_price": 242700.0,
+        "high_price": 242700.0,
+        "low_price": 242700.0,
+        "close_price": 242700.0,
+        "volume": 3537933.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250630,
+        "open_price": 250200.0,
+        "high_price": 250200.0,
+        "low_price": 250200.0,
+        "close_price": 250200.0,
+        "volume": 593429.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250629,
+        "open_price": 257930.0,
+        "high_price": 257930.0,
+        "low_price": 257930.0,
+        "close_price": 257930.0,
+        "volume": 379231.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250628,
+        "open_price": 259710.0,
+        "high_price": 259710.0,
+        "low_price": 259710.0,
+        "close_price": 265900.0,
+        "volume": 85553.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 267740.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 267740.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 267740.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 267740.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 267740.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 267740.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 267740.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 267740.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250611,
+        "open_price": 269990.0,
+        "high_price": 273950.0,
+        "low_price": 266950.0,
+        "close_price": 267740.0,
+        "volume": 185966.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250610,
+        "open_price": 266880.0,
+        "high_price": 269700.0,
+        "low_price": 266530.0,
+        "close_price": 266950.0,
+        "volume": 274429.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250609,
+        "open_price": 268790.0,
+        "high_price": 269990.0,
+        "low_price": 263340.0,
+        "close_price": 266880.0,
+        "volume": 754410.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250608,
+        "open_price": 266630.0,
+        "high_price": 272990.0,
+        "low_price": 266450.0,
+        "close_price": 268800.0,
+        "volume": 276006.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250607,
+        "open_price": 268950.0,
+        "high_price": 276500.0,
+        "low_price": 268250.0,
+        "close_price": 269300.0,
+        "volume": 1160951.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250603,
+        "open_price": 277500.0,
+        "high_price": 278750.0,
+        "low_price": 275910.0,
+        "close_price": 276540.0,
+        "volume": 408060.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250602,
+        "open_price": 276950.0,
+        "high_price": 279890.0,
+        "low_price": 276510.0,
+        "close_price": 277410.0,
+        "volume": 332506.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250601,
+        "open_price": 283890.0,
+        "high_price": 283890.0,
+        "low_price": 275940.0,
+        "close_price": 276950.0,
+        "volume": 495503.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250531,
+        "open_price": 283000.0,
+        "high_price": 283000.0,
+        "low_price": 276250.0,
+        "close_price": 277150.0,
+        "volume": 443618.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250528,
+        "open_price": 284390.0,
+        "high_price": 284390.0,
+        "low_price": 275680.0,
+        "close_price": 276520.0,
+        "volume": 275642.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250527,
+        "open_price": 284000.0,
+        "high_price": 284000.0,
+        "low_price": 274580.0,
+        "close_price": 276360.0,
+        "volume": 371637.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250526,
+        "open_price": 277390.0,
+        "high_price": 285000.0,
+        "low_price": 273260.0,
+        "close_price": 275910.0,
+        "volume": 532754.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250525,
+        "open_price": 282000.0,
+        "high_price": 286990.0,
+        "low_price": 271980.0,
+        "close_price": 277400.0,
+        "volume": 523831.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250524,
+        "open_price": 288610.0,
+        "high_price": 289530.0,
+        "low_price": 272680.0,
+        "close_price": 280390.0,
+        "volume": 266299.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250521,
+        "open_price": 278420.0,
+        "high_price": 287560.0,
+        "low_price": 278420.0,
+        "close_price": 281110.0,
+        "volume": 453256.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250520,
+        "open_price": 293900.0,
+        "high_price": 293990.0,
+        "low_price": 285170.0,
+        "close_price": 287030.0,
+        "volume": 1964967.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250519,
+        "open_price": 294080.0,
+        "high_price": 298000.0,
+        "low_price": 291300.0,
+        "close_price": 293980.0,
+        "volume": 1392753.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250518,
+        "open_price": 295770.0,
+        "high_price": 298920.0,
+        "low_price": 291990.0,
+        "close_price": 294260.0,
+        "volume": 524629.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250517,
+        "open_price": 296540.0,
+        "high_price": 300000.0,
+        "low_price": 295450.0,
+        "close_price": 295820.0,
+        "volume": 927151.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250514,
+        "open_price": 295900.0,
+        "high_price": 301170.0,
+        "low_price": 294920.0,
+        "close_price": 296580.0,
+        "volume": 964641.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250513,
+        "open_price": 301290.0,
+        "high_price": 301290.0,
+        "low_price": 289760.0,
+        "close_price": 296130.0,
+        "volume": 920207.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250512,
+        "open_price": 292530.0,
+        "high_price": 292530.0,
+        "low_price": 290000.0,
+        "close_price": 292530.0,
+        "volume": 1926015.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250511,
+        "open_price": 278350.0,
+        "high_price": 289100.0,
+        "low_price": 278350.0,
+        "close_price": 284010.0,
+        "volume": 735900.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250510,
+        "open_price": 290010.0,
+        "high_price": 290010.0,
+        "low_price": 278350.0,
+        "close_price": 281840.0,
+        "volume": 984196.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250507,
+        "open_price": 286940.0,
+        "high_price": 286940.0,
+        "low_price": 285000.0,
+        "close_price": 286940.0,
+        "volume": 1607400.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250506,
+        "open_price": 265000.0,
+        "high_price": 279180.0,
+        "low_price": 265000.0,
+        "close_price": 278590.0,
+        "volume": 807476.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250505,
+        "open_price": 270000.0,
+        "high_price": 273990.0,
+        "low_price": 268160.0,
+        "close_price": 271050.0,
+        "volume": 1176997.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250504,
+        "open_price": 261910.0,
+        "high_price": 271000.0,
+        "low_price": 261910.0,
+        "close_price": 268590.0,
+        "volume": 825133.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250503,
+        "open_price": 269960.0,
+        "high_price": 269960.0,
+        "low_price": 269960.0,
+        "close_price": 269960.0,
+        "volume": 1201922.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250430,
+        "open_price": 277750.0,
+        "high_price": 280000.0,
+        "low_price": 272140.0,
+        "close_price": 278300.0,
+        "volume": 590460.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250429,
+        "open_price": 278780.0,
+        "high_price": 278780.0,
+        "low_price": 269860.0,
+        "close_price": 272130.0,
+        "volume": 802011.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250428,
+        "open_price": 273990.0,
+        "high_price": 279000.0,
+        "low_price": 272710.0,
+        "close_price": 273550.0,
+        "volume": 1556881.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250427,
+        "open_price": 274970.0,
+        "high_price": 277300.0,
+        "low_price": 274970.0,
+        "close_price": 275040.0,
+        "volume": 3502795.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250426,
+        "open_price": 283410.0,
+        "high_price": 287980.0,
+        "low_price": 283410.0,
+        "close_price": 283470.0,
+        "volume": 3053651.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250423,
+        "open_price": 289950.0,
+        "high_price": 289950.0,
+        "low_price": 289950.0,
+        "close_price": 292170.0,
+        "volume": 266055.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250422,
+        "open_price": 307000.0,
+        "high_price": 307000.0,
+        "low_price": 298420.0,
+        "close_price": 298910.0,
+        "volume": 745558.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250421,
+        "open_price": 308660.0,
+        "high_price": 308660.0,
+        "low_price": 300000.0,
+        "close_price": 307640.0,
+        "volume": 2921153.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250420,
+        "open_price": 299670.0,
+        "high_price": 299670.0,
+        "low_price": 299670.0,
+        "close_price": 299670.0,
+        "volume": 1042208.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250419,
+        "open_price": 290900.0,
+        "high_price": 291040.0,
+        "low_price": 285000.0,
+        "close_price": 290950.0,
+        "volume": 1059807.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250416,
+        "open_price": 275000.0,
+        "high_price": 285810.0,
+        "low_price": 271000.0,
+        "close_price": 282570.0,
+        "volume": 628703.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250415,
+        "open_price": 288500.0,
+        "high_price": 288500.0,
+        "low_price": 274810.0,
+        "close_price": 277490.0,
+        "volume": 1827665.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250414,
+        "open_price": 283360.0,
+        "high_price": 283360.0,
+        "low_price": 279200.0,
+        "close_price": 283300.0,
+        "volume": 2395603.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250413,
+        "open_price": 275120.0,
+        "high_price": 275120.0,
+        "low_price": 271000.0,
+        "close_price": 275110.0,
+        "volume": 1570315.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250412,
+        "open_price": 270090.0,
+        "high_price": 274000.0,
+        "low_price": 266130.0,
+        "close_price": 267110.0,
+        "volume": 809346.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250409,
+        "open_price": 270100.0,
+        "high_price": 270100.0,
+        "low_price": 261940.0,
+        "close_price": 266250.0,
+        "volume": 793008.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250408,
+        "open_price": 263510.0,
+        "high_price": 263510.0,
+        "low_price": 263510.0,
+        "close_price": 262240.0,
+        "volume": 315246.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250407,
+        "open_price": 259000.0,
+        "high_price": 259000.0,
+        "low_price": 253600.0,
+        "close_price": 255840.0,
+        "volume": 517633.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250406,
+        "open_price": 254410.0,
+        "high_price": 261580.0,
+        "low_price": 254410.0,
+        "close_price": 258970.0,
+        "volume": 466441.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250405,
+        "open_price": 256850.0,
+        "high_price": 264000.0,
+        "low_price": 256850.0,
+        "close_price": 261150.0,
+        "volume": 1529767.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250330,
+        "open_price": 269000.0,
+        "high_price": 269000.0,
+        "low_price": 261000.0,
+        "close_price": 264790.0,
+        "volume": 688171.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250329,
+        "open_price": 266400.0,
+        "high_price": 268200.0,
+        "low_price": 258650.0,
+        "close_price": 265370.0,
+        "volume": 1042814.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250326,
+        "open_price": 268800.0,
+        "high_price": 268800.0,
+        "low_price": 259210.0,
+        "close_price": 266000.0,
+        "volume": 1123749.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250325,
+        "open_price": 260980.0,
+        "high_price": 260980.0,
+        "low_price": 260800.0,
+        "close_price": 260980.0,
+        "volume": 879881.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250318,
+        "open_price": 252860.0,
+        "high_price": 259290.0,
+        "low_price": 252860.0,
+        "close_price": 253380.0,
+        "volume": 1366066.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250317,
+        "open_price": 259170.0,
+        "high_price": 264590.0,
+        "low_price": 258390.0,
+        "close_price": 260680.0,
+        "volume": 1157279.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250316,
+        "open_price": 259920.0,
+        "high_price": 259920.0,
+        "low_price": 256510.0,
+        "close_price": 259170.0,
+        "volume": 983653.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 252350.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250312,
+        "open_price": 242010.0,
+        "high_price": 253250.0,
+        "low_price": 242010.0,
+        "close_price": 252350.0,
+        "volume": 1814162.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250311,
+        "open_price": 248010.0,
+        "high_price": 251000.0,
+        "low_price": 243010.0,
+        "close_price": 245880.0,
+        "volume": 1230340.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250310,
+        "open_price": 244760.0,
+        "high_price": 252230.0,
+        "low_price": 244750.0,
+        "close_price": 248000.0,
+        "volume": 2000742.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250309,
+        "open_price": 247900.0,
+        "high_price": 250000.0,
+        "low_price": 241700.0,
+        "close_price": 244890.0,
+        "volume": 1766814.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250308,
+        "open_price": 250430.0,
+        "high_price": 250690.0,
+        "low_price": 245000.0,
+        "close_price": 249170.0,
+        "volume": 1526073.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250305,
+        "open_price": 245860.0,
+        "high_price": 257220.0,
+        "low_price": 245840.0,
+        "close_price": 250690.0,
+        "volume": 1959404.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250304,
+        "open_price": 252750.0,
+        "high_price": 262970.0,
+        "low_price": 250590.0,
+        "close_price": 253430.0,
+        "volume": 2259388.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250303,
+        "open_price": 258340.0,
+        "high_price": 258340.0,
+        "low_price": 258340.0,
+        "close_price": 258340.0,
+        "volume": 2934047.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250302,
+        "open_price": 268830.0,
+        "high_price": 269150.0,
+        "low_price": 264430.0,
+        "close_price": 266320.0,
+        "volume": 1811370.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250301,
+        "open_price": 269600.0,
+        "high_price": 273080.0,
+        "low_price": 258800.0,
+        "close_price": 268890.0,
+        "volume": 1746725.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250226,
+        "open_price": 267610.0,
+        "high_price": 269600.0,
+        "low_price": 259590.0,
+        "close_price": 265130.0,
+        "volume": 2003843.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250225,
+        "open_price": 268000.0,
+        "high_price": 269650.0,
+        "low_price": 261990.0,
+        "close_price": 267610.0,
+        "volume": 5226735.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250224,
+        "open_price": 255510.0,
+        "high_price": 261840.0,
+        "low_price": 255510.0,
+        "close_price": 261800.0,
+        "volume": 4702535.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250223,
+        "open_price": 254000.0,
+        "high_price": 260250.0,
+        "low_price": 248710.0,
+        "close_price": 254220.0,
+        "volume": 3880677.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250222,
+        "open_price": 259110.0,
+        "high_price": 259110.0,
+        "low_price": 252020.0,
+        "close_price": 256310.0,
+        "volume": 8277553.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250219,
+        "open_price": 251570.0,
+        "high_price": 251570.0,
+        "low_price": 251570.0,
+        "close_price": 251570.0,
+        "volume": 2382384.0
+    },
+    {
+        "symbol": "شپدیس",
+        "trade_date": 20250218,
+        "open_price": 244250.0,
+        "high_price": 244250.0,
+        "low_price": 244250.0,
+        "close_price": 244250.0,
+        "volume": 1342941.0
+    }
+]

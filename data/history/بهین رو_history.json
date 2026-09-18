@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260901,
+        "open_price": 19000.0,
+        "high_price": 19000.0,
+        "low_price": 17981.0,
+        "close_price": 18670.0,
+        "volume": 9684061.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260831,
+        "open_price": 18700.0,
+        "high_price": 19115.0,
+        "low_price": 18010.0,
+        "close_price": 18537.0,
+        "volume": 9334692.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260829,
+        "open_price": 18401.0,
+        "high_price": 18750.0,
+        "low_price": 18300.0,
+        "close_price": 18561.0,
+        "volume": 4707068.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260826,
+        "open_price": 18158.0,
+        "high_price": 18254.0,
+        "low_price": 17950.0,
+        "close_price": 18204.0,
+        "volume": 5582247.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260825,
+        "open_price": 17300.0,
+        "high_price": 17828.0,
+        "low_price": 16841.0,
+        "close_price": 17723.0,
+        "volume": 20952613.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260824,
+        "open_price": 17150.0,
+        "high_price": 17366.0,
+        "low_price": 16862.0,
+        "close_price": 17310.0,
+        "volume": 8812225.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260823,
+        "open_price": 16850.0,
+        "high_price": 16889.0,
+        "low_price": 16591.0,
+        "close_price": 16861.0,
+        "volume": 25115726.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260822,
+        "open_price": 16200.0,
+        "high_price": 16461.0,
+        "low_price": 16011.0,
+        "close_price": 16398.0,
+        "volume": 17589732.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260819,
+        "open_price": 15770.0,
+        "high_price": 16132.0,
+        "low_price": 15740.0,
+        "close_price": 15982.0,
+        "volume": 14280426.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260818,
+        "open_price": 16423.0,
+        "high_price": 16454.0,
+        "low_price": 15710.0,
+        "close_price": 16103.0,
+        "volume": 20321476.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260817,
+        "open_price": 16110.0,
+        "high_price": 16458.0,
+        "low_price": 16000.0,
+        "close_price": 16195.0,
+        "volume": 26352681.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260816,
+        "open_price": 15480.0,
+        "high_price": 15980.0,
+        "low_price": 15480.0,
+        "close_price": 15979.0,
+        "volume": 15958735.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260815,
+        "open_price": 15550.0,
+        "high_price": 15965.0,
+        "low_price": 15116.0,
+        "close_price": 15515.0,
+        "volume": 5087542.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260811,
+        "open_price": 15754.0,
+        "high_price": 15900.0,
+        "low_price": 15400.0,
+        "close_price": 15583.0,
+        "volume": 4236819.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260810,
+        "open_price": 15000.0,
+        "high_price": 15783.0,
+        "low_price": 14890.0,
+        "close_price": 15731.0,
+        "volume": 14868881.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260809,
+        "open_price": 15740.0,
+        "high_price": 15740.0,
+        "low_price": 14977.0,
+        "close_price": 15324.0,
+        "volume": 6439902.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260808,
+        "open_price": 15440.0,
+        "high_price": 15440.0,
+        "low_price": 15440.0,
+        "close_price": 15440.0,
+        "volume": 5967627.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260805,
+        "open_price": 14988.0,
+        "high_price": 14992.0,
+        "low_price": 14901.0,
+        "close_price": 14991.0,
+        "volume": 10921664.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260803,
+        "open_price": 14250.0,
+        "high_price": 14584.0,
+        "low_price": 14250.0,
+        "close_price": 14556.0,
+        "volume": 3095065.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260802,
+        "open_price": 14250.0,
+        "high_price": 14250.0,
+        "low_price": 14070.0,
+        "close_price": 14160.0,
+        "volume": 2390725.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260801,
+        "open_price": 13600.0,
+        "high_price": 13943.0,
+        "low_price": 13499.0,
+        "close_price": 13835.0,
+        "volume": 8657382.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260729,
+        "open_price": 13394.0,
+        "high_price": 13750.0,
+        "low_price": 13150.0,
+        "close_price": 13537.0,
+        "volume": 9484171.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260728,
+        "open_price": 13310.0,
+        "high_price": 13705.0,
+        "low_price": 13220.0,
+        "close_price": 13425.0,
+        "volume": 7492191.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260727,
+        "open_price": 13395.0,
+        "high_price": 13600.0,
+        "low_price": 13062.0,
+        "close_price": 13310.0,
+        "volume": 16723518.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260726,
+        "open_price": 13398.0,
+        "high_price": 13398.0,
+        "low_price": 13265.0,
+        "close_price": 13395.0,
+        "volume": 22615774.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260725,
+        "open_price": 13240.0,
+        "high_price": 13308.0,
+        "low_price": 12850.0,
+        "close_price": 13008.0,
+        "volume": 4823714.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260722,
+        "open_price": 12978.0,
+        "high_price": 13250.0,
+        "low_price": 12590.0,
+        "close_price": 12942.0,
+        "volume": 2252829.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260721,
+        "open_price": 12710.0,
+        "high_price": 13064.0,
+        "low_price": 12710.0,
+        "close_price": 12979.0,
+        "volume": 2954269.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260720,
+        "open_price": 12960.0,
+        "high_price": 12962.0,
+        "low_price": 12450.0,
+        "close_price": 12684.0,
+        "volume": 2925262.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260719,
+        "open_price": 11950.0,
+        "high_price": 12678.0,
+        "low_price": 11950.0,
+        "close_price": 12585.0,
+        "volume": 6253208.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260718,
+        "open_price": 12308.0,
+        "high_price": 12496.0,
+        "low_price": 12308.0,
+        "close_price": 12309.0,
+        "volume": 4060408.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260715,
+        "open_price": 12720.0,
+        "high_price": 12979.0,
+        "low_price": 12589.0,
+        "close_price": 12688.0,
+        "volume": 3708453.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260714,
+        "open_price": 12579.0,
+        "high_price": 13300.0,
+        "low_price": 12562.0,
+        "close_price": 12978.0,
+        "volume": 7174042.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260713,
+        "open_price": 12946.0,
+        "high_price": 13239.0,
+        "low_price": 12946.0,
+        "close_price": 12950.0,
+        "volume": 7819849.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260712,
+        "open_price": 13346.0,
+        "high_price": 13346.0,
+        "low_price": 13346.0,
+        "close_price": 13346.0,
+        "volume": 9404650.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260711,
+        "open_price": 13758.0,
+        "high_price": 13873.0,
+        "low_price": 13758.0,
+        "close_price": 13758.0,
+        "volume": 11213296.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260708,
+        "open_price": 14175.0,
+        "high_price": 14611.0,
+        "low_price": 13764.0,
+        "close_price": 14183.0,
+        "volume": 11823929.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260707,
+        "open_price": 14189.0,
+        "high_price": 14189.0,
+        "low_price": 14189.0,
+        "close_price": 14189.0,
+        "volume": 638277.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260701,
+        "open_price": 13800.0,
+        "high_price": 13805.0,
+        "low_price": 13450.0,
+        "close_price": 13776.0,
+        "volume": 15723450.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260630,
+        "open_price": 13650.0,
+        "high_price": 13706.0,
+        "low_price": 12908.0,
+        "close_price": 13403.0,
+        "volume": 20368814.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260629,
+        "open_price": 13117.0,
+        "high_price": 13799.0,
+        "low_price": 13103.0,
+        "close_price": 13307.0,
+        "volume": 9939417.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260628,
+        "open_price": 13508.0,
+        "high_price": 13508.0,
+        "low_price": 13508.0,
+        "close_price": 13508.0,
+        "volume": 8535411.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260627,
+        "open_price": 14154.0,
+        "high_price": 14322.0,
+        "low_price": 13919.0,
+        "close_price": 13925.0,
+        "volume": 10679039.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260623,
+        "open_price": 14489.0,
+        "high_price": 14650.0,
+        "low_price": 14000.0,
+        "close_price": 14349.0,
+        "volume": 10479724.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260622,
+        "open_price": 14205.0,
+        "high_price": 14449.0,
+        "low_price": 14203.0,
+        "close_price": 14231.0,
+        "volume": 22409544.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260621,
+        "open_price": 14751.0,
+        "high_price": 15086.0,
+        "low_price": 14208.0,
+        "close_price": 14642.0,
+        "volume": 24769358.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260620,
+        "open_price": 14884.0,
+        "high_price": 14912.0,
+        "low_price": 14142.0,
+        "close_price": 14647.0,
+        "volume": 24748850.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260617,
+        "open_price": 14248.0,
+        "high_price": 14990.0,
+        "low_price": 14127.0,
+        "close_price": 14478.0,
+        "volume": 35362689.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260616,
+        "open_price": 14901.0,
+        "high_price": 14901.0,
+        "low_price": 14033.0,
+        "close_price": 14563.0,
+        "volume": 83083914.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260615,
+        "open_price": 14467.0,
+        "high_price": 14467.0,
+        "low_price": 14467.0,
+        "close_price": 14467.0,
+        "volume": 69265276.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260614,
+        "open_price": 14048.0,
+        "high_price": 14048.0,
+        "low_price": 13934.0,
+        "close_price": 14046.0,
+        "volume": 36341483.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260613,
+        "open_price": 13639.0,
+        "high_price": 13639.0,
+        "low_price": 13639.0,
+        "close_price": 13639.0,
+        "volume": 12315302.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260610,
+        "open_price": 12990.0,
+        "high_price": 13583.0,
+        "low_price": 12794.0,
+        "close_price": 13242.0,
+        "volume": 15922401.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260609,
+        "open_price": 13189.0,
+        "high_price": 13195.0,
+        "low_price": 13055.0,
+        "close_price": 13188.0,
+        "volume": 4320887.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260608,
+        "open_price": 12811.0,
+        "high_price": 12811.0,
+        "low_price": 12811.0,
+        "close_price": 12811.0,
+        "volume": 1004518.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260607,
+        "open_price": 12998.0,
+        "high_price": 13226.0,
+        "low_price": 12998.0,
+        "close_price": 13207.0,
+        "volume": 5718148.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260606,
+        "open_price": 12654.0,
+        "high_price": 12991.0,
+        "low_price": 12490.0,
+        "close_price": 12841.0,
+        "volume": 5265006.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260603,
+        "open_price": 12700.0,
+        "high_price": 12830.0,
+        "low_price": 12452.0,
+        "close_price": 12613.0,
+        "volume": 9750408.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260602,
+        "open_price": 12806.0,
+        "high_price": 13200.0,
+        "low_price": 12644.0,
+        "close_price": 12837.0,
+        "volume": 15405073.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260601,
+        "open_price": 13197.0,
+        "high_price": 13496.0,
+        "low_price": 12765.0,
+        "close_price": 13035.0,
+        "volume": 18611059.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260531,
+        "open_price": 13193.0,
+        "high_price": 13197.0,
+        "low_price": 12970.0,
+        "close_price": 13159.0,
+        "volume": 47578621.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260530,
+        "open_price": 12700.0,
+        "high_price": 12815.0,
+        "low_price": 12700.0,
+        "close_price": 12813.0,
+        "volume": 14525202.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260526,
+        "open_price": 11880.0,
+        "high_price": 12509.0,
+        "low_price": 11880.0,
+        "close_price": 12442.0,
+        "volume": 12679962.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260525,
+        "open_price": 12300.0,
+        "high_price": 12497.0,
+        "low_price": 11925.0,
+        "close_price": 12145.0,
+        "volume": 64819623.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260524,
+        "open_price": 12293.0,
+        "high_price": 12293.0,
+        "low_price": 12293.0,
+        "close_price": 12293.0,
+        "volume": 24778214.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260523,
+        "open_price": 11900.0,
+        "high_price": 11935.0,
+        "low_price": 11900.0,
+        "close_price": 11935.0,
+        "volume": 34335343.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260520,
+        "open_price": 11586.0,
+        "high_price": 11800.0,
+        "low_price": 11586.0,
+        "close_price": 11588.0,
+        "volume": 24672430.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260519,
+        "open_price": 11932.0,
+        "high_price": 12147.0,
+        "low_price": 11932.0,
+        "close_price": 11944.0,
+        "volume": 11162855.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12301.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260225,
+        "open_price": 12299.0,
+        "high_price": 12500.0,
+        "low_price": 12150.0,
+        "close_price": 12301.0,
+        "volume": 72134.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260224,
+        "open_price": 12250.0,
+        "high_price": 12250.0,
+        "low_price": 11900.0,
+        "close_price": 12151.0,
+        "volume": 729319.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260223,
+        "open_price": 12160.0,
+        "high_price": 12301.0,
+        "low_price": 11940.0,
+        "close_price": 12205.0,
+        "volume": 1265649.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260222,
+        "open_price": 11912.0,
+        "high_price": 12238.0,
+        "low_price": 11912.0,
+        "close_price": 11944.0,
+        "volume": 1334085.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260221,
+        "open_price": 12280.0,
+        "high_price": 12280.0,
+        "low_price": 12280.0,
+        "close_price": 12280.0,
+        "volume": 1795358.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260218,
+        "open_price": 12990.0,
+        "high_price": 13000.0,
+        "low_price": 12590.0,
+        "close_price": 12650.0,
+        "volume": 4925703.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260217,
+        "open_price": 12880.0,
+        "high_price": 13050.0,
+        "low_price": 12800.0,
+        "close_price": 12970.0,
+        "volume": 19996041.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260216,
+        "open_price": 12930.0,
+        "high_price": 13470.0,
+        "low_price": 12930.0,
+        "close_price": 12970.0,
+        "volume": 8708783.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260215,
+        "open_price": 13320.0,
+        "high_price": 13320.0,
+        "low_price": 13320.0,
+        "close_price": 13320.0,
+        "volume": 8834008.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260214,
+        "open_price": 13820.0,
+        "high_price": 13820.0,
+        "low_price": 13060.0,
+        "close_price": 13730.0,
+        "volume": 15044589.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260210,
+        "open_price": 13420.0,
+        "high_price": 13420.0,
+        "low_price": 13420.0,
+        "close_price": 13420.0,
+        "volume": 10728419.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260209,
+        "open_price": 13200.0,
+        "high_price": 13200.0,
+        "low_price": 12990.0,
+        "close_price": 13030.0,
+        "volume": 483796.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260208,
+        "open_price": 13690.0,
+        "high_price": 13690.0,
+        "low_price": 13220.0,
+        "close_price": 13390.0,
+        "volume": 398128.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260207,
+        "open_price": 13460.0,
+        "high_price": 13700.0,
+        "low_price": 13460.0,
+        "close_price": 13590.0,
+        "volume": 1739406.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260203,
+        "open_price": 13440.0,
+        "high_price": 13490.0,
+        "low_price": 13230.0,
+        "close_price": 13370.0,
+        "volume": 101056.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260202,
+        "open_price": 13750.0,
+        "high_price": 13750.0,
+        "low_price": 13430.0,
+        "close_price": 13490.0,
+        "volume": 169452.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260201,
+        "open_price": 13350.0,
+        "high_price": 13590.0,
+        "low_price": 13280.0,
+        "close_price": 13360.0,
+        "volume": 113879.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260131,
+        "open_price": 13640.0,
+        "high_price": 13670.0,
+        "low_price": 13580.0,
+        "close_price": 13590.0,
+        "volume": 609049.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260128,
+        "open_price": 13950.0,
+        "high_price": 14630.0,
+        "low_price": 13890.0,
+        "close_price": 13990.0,
+        "volume": 617805.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260127,
+        "open_price": 13780.0,
+        "high_price": 14480.0,
+        "low_price": 13770.0,
+        "close_price": 14300.0,
+        "volume": 382658.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260126,
+        "open_price": 14190.0,
+        "high_price": 14190.0,
+        "low_price": 14190.0,
+        "close_price": 14190.0,
+        "volume": 1514644.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260125,
+        "open_price": 14620.0,
+        "high_price": 14620.0,
+        "low_price": 14620.0,
+        "close_price": 14620.0,
+        "volume": 8864172.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260124,
+        "open_price": 15300.0,
+        "high_price": 15300.0,
+        "low_price": 15070.0,
+        "close_price": 15070.0,
+        "volume": 16564134.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260121,
+        "open_price": 15290.0,
+        "high_price": 15620.0,
+        "low_price": 15200.0,
+        "close_price": 15530.0,
+        "volume": 3355999.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260120,
+        "open_price": 14760.0,
+        "high_price": 15280.0,
+        "low_price": 14550.0,
+        "close_price": 15170.0,
+        "volume": 2815332.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260119,
+        "open_price": 14970.0,
+        "high_price": 15180.0,
+        "low_price": 14380.0,
+        "close_price": 14840.0,
+        "volume": 32455142.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260118,
+        "open_price": 14500.0,
+        "high_price": 14860.0,
+        "low_price": 14480.0,
+        "close_price": 14820.0,
+        "volume": 13515169.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260114,
+        "open_price": 14430.0,
+        "high_price": 14560.0,
+        "low_price": 14430.0,
+        "close_price": 14430.0,
+        "volume": 9452802.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260113,
+        "open_price": 14680.0,
+        "high_price": 15020.0,
+        "low_price": 14300.0,
+        "close_price": 14870.0,
+        "volume": 36981295.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260112,
+        "open_price": 14550.0,
+        "high_price": 14590.0,
+        "low_price": 14370.0,
+        "close_price": 14590.0,
+        "volume": 17555345.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260111,
+        "open_price": 13990.0,
+        "high_price": 14400.0,
+        "low_price": 13990.0,
+        "close_price": 14170.0,
+        "volume": 224771.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260110,
+        "open_price": 14410.0,
+        "high_price": 14690.0,
+        "low_price": 14400.0,
+        "close_price": 14400.0,
+        "volume": 4121472.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260107,
+        "open_price": 15430.0,
+        "high_price": 15430.0,
+        "low_price": 14820.0,
+        "close_price": 14840.0,
+        "volume": 2235397.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260106,
+        "open_price": 15230.0,
+        "high_price": 15420.0,
+        "low_price": 15210.0,
+        "close_price": 15270.0,
+        "volume": 2867613.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260105,
+        "open_price": 15400.0,
+        "high_price": 15420.0,
+        "low_price": 14990.0,
+        "close_price": 15110.0,
+        "volume": 5226511.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20260104,
+        "open_price": 15320.0,
+        "high_price": 15320.0,
+        "low_price": 14510.0,
+        "close_price": 14990.0,
+        "volume": 1135558.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251231,
+        "open_price": 14530.0,
+        "high_price": 15320.0,
+        "low_price": 14470.0,
+        "close_price": 14910.0,
+        "volume": 1546355.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251230,
+        "open_price": 14910.0,
+        "high_price": 15360.0,
+        "low_price": 14910.0,
+        "close_price": 14910.0,
+        "volume": 8823643.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251229,
+        "open_price": 15790.0,
+        "high_price": 15790.0,
+        "low_price": 15340.0,
+        "close_price": 15370.0,
+        "volume": 3447950.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251228,
+        "open_price": 15700.0,
+        "high_price": 16100.0,
+        "low_price": 15620.0,
+        "close_price": 15810.0,
+        "volume": 2218719.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251227,
+        "open_price": 15800.0,
+        "high_price": 15890.0,
+        "low_price": 15500.0,
+        "close_price": 15690.0,
+        "volume": 5768144.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251224,
+        "open_price": 15230.0,
+        "high_price": 15560.0,
+        "low_price": 15150.0,
+        "close_price": 15470.0,
+        "volume": 9172964.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251223,
+        "open_price": 15240.0,
+        "high_price": 15240.0,
+        "low_price": 14920.0,
+        "close_price": 15110.0,
+        "volume": 5299028.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251222,
+        "open_price": 15090.0,
+        "high_price": 15100.0,
+        "low_price": 14500.0,
+        "close_price": 14950.0,
+        "volume": 3067626.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251221,
+        "open_price": 14740.0,
+        "high_price": 15020.0,
+        "low_price": 14600.0,
+        "close_price": 14810.0,
+        "volume": 5356475.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251220,
+        "open_price": 14700.0,
+        "high_price": 14770.0,
+        "low_price": 14440.0,
+        "close_price": 14710.0,
+        "volume": 7034021.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251217,
+        "open_price": 14990.0,
+        "high_price": 14990.0,
+        "low_price": 14160.0,
+        "close_price": 14340.0,
+        "volume": 3743067.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251216,
+        "open_price": 14660.0,
+        "high_price": 14920.0,
+        "low_price": 14110.0,
+        "close_price": 14590.0,
+        "volume": 3178702.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251215,
+        "open_price": 14230.0,
+        "high_price": 14720.0,
+        "low_price": 14200.0,
+        "close_price": 14540.0,
+        "volume": 5543208.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251214,
+        "open_price": 14700.0,
+        "high_price": 14700.0,
+        "low_price": 14060.0,
+        "close_price": 14310.0,
+        "volume": 1575034.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251213,
+        "open_price": 14110.0,
+        "high_price": 14390.0,
+        "low_price": 14110.0,
+        "close_price": 14370.0,
+        "volume": 17377944.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251210,
+        "open_price": 13720.0,
+        "high_price": 14120.0,
+        "low_price": 13620.0,
+        "close_price": 13980.0,
+        "volume": 4708383.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251209,
+        "open_price": 13600.0,
+        "high_price": 13860.0,
+        "low_price": 13600.0,
+        "close_price": 13730.0,
+        "volume": 7285610.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251208,
+        "open_price": 13310.0,
+        "high_price": 13690.0,
+        "low_price": 13180.0,
+        "close_price": 13470.0,
+        "volume": 5025371.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251207,
+        "open_price": 13850.0,
+        "high_price": 13850.0,
+        "low_price": 13130.0,
+        "close_price": 13310.0,
+        "volume": 1284008.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251206,
+        "open_price": 13490.0,
+        "high_price": 13610.0,
+        "low_price": 13300.0,
+        "close_price": 13530.0,
+        "volume": 3335859.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251203,
+        "open_price": 13160.0,
+        "high_price": 13360.0,
+        "low_price": 13120.0,
+        "close_price": 13230.0,
+        "volume": 1433565.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251202,
+        "open_price": 12850.0,
+        "high_price": 13420.0,
+        "low_price": 12850.0,
+        "close_price": 13190.0,
+        "volume": 1071037.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251201,
+        "open_price": 13080.0,
+        "high_price": 13200.0,
+        "low_price": 12970.0,
+        "close_price": 13100.0,
+        "volume": 19456855.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251130,
+        "open_price": 13140.0,
+        "high_price": 13140.0,
+        "low_price": 12730.0,
+        "close_price": 12910.0,
+        "volume": 32946.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251129,
+        "open_price": 12980.0,
+        "high_price": 13040.0,
+        "low_price": 12750.0,
+        "close_price": 12900.0,
+        "volume": 8105087.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251126,
+        "open_price": 13230.0,
+        "high_price": 13600.0,
+        "low_price": 12840.0,
+        "close_price": 12980.0,
+        "volume": 4189400.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251125,
+        "open_price": 13180.0,
+        "high_price": 13240.0,
+        "low_price": 13170.0,
+        "close_price": 13230.0,
+        "volume": 3386469.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251123,
+        "open_price": 12800.0,
+        "high_price": 13040.0,
+        "low_price": 12750.0,
+        "close_price": 12860.0,
+        "volume": 3856864.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251122,
+        "open_price": 12700.0,
+        "high_price": 12780.0,
+        "low_price": 12630.0,
+        "close_price": 12680.0,
+        "volume": 453348.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251119,
+        "open_price": 12600.0,
+        "high_price": 12700.0,
+        "low_price": 12480.0,
+        "close_price": 12610.0,
+        "volume": 782464.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251118,
+        "open_price": 12700.0,
+        "high_price": 12720.0,
+        "low_price": 12530.0,
+        "close_price": 12560.0,
+        "volume": 1205892.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251117,
+        "open_price": 12950.0,
+        "high_price": 13150.0,
+        "low_price": 12590.0,
+        "close_price": 12910.0,
+        "volume": 1330895.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251116,
+        "open_price": 12860.0,
+        "high_price": 12990.0,
+        "low_price": 12690.0,
+        "close_price": 12820.0,
+        "volume": 847727.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251115,
+        "open_price": 12530.0,
+        "high_price": 12740.0,
+        "low_price": 12520.0,
+        "close_price": 12650.0,
+        "volume": 205071.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251112,
+        "open_price": 12410.0,
+        "high_price": 12840.0,
+        "low_price": 12320.0,
+        "close_price": 12520.0,
+        "volume": 283984.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251111,
+        "open_price": 12830.0,
+        "high_price": 12880.0,
+        "low_price": 12440.0,
+        "close_price": 12610.0,
+        "volume": 412911.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251110,
+        "open_price": 12810.0,
+        "high_price": 13050.0,
+        "low_price": 12790.0,
+        "close_price": 12800.0,
+        "volume": 2590331.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251109,
+        "open_price": 13250.0,
+        "high_price": 13400.0,
+        "low_price": 13180.0,
+        "close_price": 13180.0,
+        "volume": 2131130.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251108,
+        "open_price": 13700.0,
+        "high_price": 13770.0,
+        "low_price": 13190.0,
+        "close_price": 13580.0,
+        "volume": 6090743.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251105,
+        "open_price": 13340.0,
+        "high_price": 13700.0,
+        "low_price": 13050.0,
+        "close_price": 13370.0,
+        "volume": 1508356.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251104,
+        "open_price": 13750.0,
+        "high_price": 13750.0,
+        "low_price": 13240.0,
+        "close_price": 13360.0,
+        "volume": 3697135.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251103,
+        "open_price": 13650.0,
+        "high_price": 13680.0,
+        "low_price": 13500.0,
+        "close_price": 13640.0,
+        "volume": 4000937.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251102,
+        "open_price": 13300.0,
+        "high_price": 13720.0,
+        "low_price": 12950.0,
+        "close_price": 13290.0,
+        "volume": 8702836.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251101,
+        "open_price": 13230.0,
+        "high_price": 13470.0,
+        "low_price": 13020.0,
+        "close_price": 13350.0,
+        "volume": 12090024.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251029,
+        "open_price": 12870.0,
+        "high_price": 13200.0,
+        "low_price": 12650.0,
+        "close_price": 13080.0,
+        "volume": 9838998.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251028,
+        "open_price": 13100.0,
+        "high_price": 13100.0,
+        "low_price": 12580.0,
+        "close_price": 12820.0,
+        "volume": 9737590.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251027,
+        "open_price": 12520.0,
+        "high_price": 12870.0,
+        "low_price": 12490.0,
+        "close_price": 12800.0,
+        "volume": 12024374.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251026,
+        "open_price": 12490.0,
+        "high_price": 12560.0,
+        "low_price": 12340.0,
+        "close_price": 12500.0,
+        "volume": 7449992.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251025,
+        "open_price": 12600.0,
+        "high_price": 12600.0,
+        "low_price": 12100.0,
+        "close_price": 12200.0,
+        "volume": 7478567.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251022,
+        "open_price": 12350.0,
+        "high_price": 12640.0,
+        "low_price": 12200.0,
+        "close_price": 12470.0,
+        "volume": 9278253.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251021,
+        "open_price": 12410.0,
+        "high_price": 12730.0,
+        "low_price": 12180.0,
+        "close_price": 12280.0,
+        "volume": 8539301.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251020,
+        "open_price": 12600.0,
+        "high_price": 12990.0,
+        "low_price": 12470.0,
+        "close_price": 12550.0,
+        "volume": 20221954.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251019,
+        "open_price": 13140.0,
+        "high_price": 13140.0,
+        "low_price": 12500.0,
+        "close_price": 12850.0,
+        "volume": 14509158.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251018,
+        "open_price": 12670.0,
+        "high_price": 12780.0,
+        "low_price": 12650.0,
+        "close_price": 12760.0,
+        "volume": 13771587.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251015,
+        "open_price": 12390.0,
+        "high_price": 12750.0,
+        "low_price": 12360.0,
+        "close_price": 12410.0,
+        "volume": 24140830.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251014,
+        "open_price": 12740.0,
+        "high_price": 13150.0,
+        "low_price": 12390.0,
+        "close_price": 12740.0,
+        "volume": 67057126.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251013,
+        "open_price": 12840.0,
+        "high_price": 12840.0,
+        "low_price": 12400.0,
+        "close_price": 12770.0,
+        "volume": 46006687.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251012,
+        "open_price": 12490.0,
+        "high_price": 12490.0,
+        "low_price": 12170.0,
+        "close_price": 12470.0,
+        "volume": 13014393.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251011,
+        "open_price": 11910.0,
+        "high_price": 12210.0,
+        "low_price": 11870.0,
+        "close_price": 12130.0,
+        "volume": 4622165.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251008,
+        "open_price": 11880.0,
+        "high_price": 11880.0,
+        "low_price": 11600.0,
+        "close_price": 11860.0,
+        "volume": 22971743.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251007,
+        "open_price": 11100.0,
+        "high_price": 11590.0,
+        "low_price": 11060.0,
+        "close_price": 11540.0,
+        "volume": 13562300.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251006,
+        "open_price": 11170.0,
+        "high_price": 11360.0,
+        "low_price": 10940.0,
+        "close_price": 11260.0,
+        "volume": 19360183.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251005,
+        "open_price": 11100.0,
+        "high_price": 11210.0,
+        "low_price": 10880.0,
+        "close_price": 11030.0,
+        "volume": 28230589.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251004,
+        "open_price": 10930.0,
+        "high_price": 10940.0,
+        "low_price": 10930.0,
+        "close_price": 10940.0,
+        "volume": 9014257.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20251001,
+        "open_price": 10490.0,
+        "high_price": 10870.0,
+        "low_price": 10430.0,
+        "close_price": 10630.0,
+        "volume": 4630702.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250930,
+        "open_price": 10780.0,
+        "high_price": 11050.0,
+        "low_price": 10620.0,
+        "close_price": 10710.0,
+        "volume": 14645786.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250929,
+        "open_price": 11000.0,
+        "high_price": 11180.0,
+        "low_price": 10750.0,
+        "close_price": 10940.0,
+        "volume": 9173608.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250928,
+        "open_price": 10910.0,
+        "high_price": 10910.0,
+        "low_price": 10910.0,
+        "close_price": 10910.0,
+        "volume": 10434919.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250927,
+        "open_price": 10400.0,
+        "high_price": 10600.0,
+        "low_price": 10400.0,
+        "close_price": 10600.0,
+        "volume": 6460066.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250924,
+        "open_price": 10070.0,
+        "high_price": 10480.0,
+        "low_price": 10050.0,
+        "close_price": 10300.0,
+        "volume": 3843941.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250923,
+        "open_price": 10550.0,
+        "high_price": 10690.0,
+        "low_price": 10160.0,
+        "close_price": 10300.0,
+        "volume": 4638799.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250922,
+        "open_price": 10430.0,
+        "high_price": 10540.0,
+        "low_price": 10400.0,
+        "close_price": 10470.0,
+        "volume": 2623945.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250921,
+        "open_price": 10150.0,
+        "high_price": 10530.0,
+        "low_price": 10140.0,
+        "close_price": 10240.0,
+        "volume": 5244311.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250920,
+        "open_price": 10450.0,
+        "high_price": 10450.0,
+        "low_price": 10450.0,
+        "close_price": 10450.0,
+        "volume": 8411682.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250917,
+        "open_price": 11000.0,
+        "high_price": 11010.0,
+        "low_price": 10690.0,
+        "close_price": 10770.0,
+        "volume": 167654.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250916,
+        "open_price": 11000.0,
+        "high_price": 11260.0,
+        "low_price": 10820.0,
+        "close_price": 10880.0,
+        "volume": 2293295.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250915,
+        "open_price": 11100.0,
+        "high_price": 11340.0,
+        "low_price": 10910.0,
+        "close_price": 11150.0,
+        "volume": 10292817.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250914,
+        "open_price": 10880.0,
+        "high_price": 11070.0,
+        "low_price": 10870.0,
+        "close_price": 11070.0,
+        "volume": 15360552.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250913,
+        "open_price": 10400.0,
+        "high_price": 11000.0,
+        "low_price": 10400.0,
+        "close_price": 10750.0,
+        "volume": 11655442.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250909,
+        "open_price": 10740.0,
+        "high_price": 11040.0,
+        "low_price": 10500.0,
+        "close_price": 10720.0,
+        "volume": 31273291.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250908,
+        "open_price": 10750.0,
+        "high_price": 10750.0,
+        "low_price": 10750.0,
+        "close_price": 10750.0,
+        "volume": 23400843.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250907,
+        "open_price": 10010.0,
+        "high_price": 10460.0,
+        "low_price": 10010.0,
+        "close_price": 10440.0,
+        "volume": 2108644.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250906,
+        "open_price": 10300.0,
+        "high_price": 10580.0,
+        "low_price": 10000.0,
+        "close_price": 10160.0,
+        "volume": 3248615.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250903,
+        "open_price": 10180.0,
+        "high_price": 10390.0,
+        "low_price": 10170.0,
+        "close_price": 10300.0,
+        "volume": 5401064.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250902,
+        "open_price": 10020.0,
+        "high_price": 10140.0,
+        "low_price": 10020.0,
+        "close_price": 10140.0,
+        "volume": 1518813.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250831,
+        "open_price": 9690.0,
+        "high_price": 9860.0,
+        "low_price": 9690.0,
+        "close_price": 9850.0,
+        "volume": 2380977.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250830,
+        "open_price": 9820.0,
+        "high_price": 9820.0,
+        "low_price": 9580.0,
+        "close_price": 9580.0,
+        "volume": 4829137.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250827,
+        "open_price": 9800.0,
+        "high_price": 9980.0,
+        "low_price": 9760.0,
+        "close_price": 9870.0,
+        "volume": 1389121.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250826,
+        "open_price": 9730.0,
+        "high_price": 9890.0,
+        "low_price": 9640.0,
+        "close_price": 9740.0,
+        "volume": 909645.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250825,
+        "open_price": 9700.0,
+        "high_price": 9980.0,
+        "low_price": 9530.0,
+        "close_price": 9720.0,
+        "volume": 1890029.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250823,
+        "open_price": 9820.0,
+        "high_price": 9950.0,
+        "low_price": 9750.0,
+        "close_price": 9810.0,
+        "volume": 783637.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250820,
+        "open_price": 9810.0,
+        "high_price": 9980.0,
+        "low_price": 9770.0,
+        "close_price": 9810.0,
+        "volume": 1949087.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250819,
+        "open_price": 10000.0,
+        "high_price": 10250.0,
+        "low_price": 9950.0,
+        "close_price": 10070.0,
+        "volume": 598911.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250818,
+        "open_price": 10190.0,
+        "high_price": 10190.0,
+        "low_price": 10000.0,
+        "close_price": 10160.0,
+        "volume": 927980.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250817,
+        "open_price": 9900.0,
+        "high_price": 9900.0,
+        "low_price": 9820.0,
+        "close_price": 9900.0,
+        "volume": 454313.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250816,
+        "open_price": 9380.0,
+        "high_price": 9930.0,
+        "low_price": 9380.0,
+        "close_price": 9620.0,
+        "volume": 489651.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250813,
+        "open_price": 9810.0,
+        "high_price": 9810.0,
+        "low_price": 9640.0,
+        "close_price": 9660.0,
+        "volume": 1763843.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250812,
+        "open_price": 10140.0,
+        "high_price": 10140.0,
+        "low_price": 9870.0,
+        "close_price": 9930.0,
+        "volume": 264623.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250811,
+        "open_price": 10370.0,
+        "high_price": 10380.0,
+        "low_price": 10030.0,
+        "close_price": 10070.0,
+        "volume": 843556.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250810,
+        "open_price": 10850.0,
+        "high_price": 10860.0,
+        "low_price": 10240.0,
+        "close_price": 10330.0,
+        "volume": 1199570.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250809,
+        "open_price": 10490.0,
+        "high_price": 10550.0,
+        "low_price": 10490.0,
+        "close_price": 10550.0,
+        "volume": 202690.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250806,
+        "open_price": 10130.0,
+        "high_price": 10470.0,
+        "low_price": 10000.0,
+        "close_price": 10250.0,
+        "volume": 1200677.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250805,
+        "open_price": 10500.0,
+        "high_price": 10520.0,
+        "low_price": 10160.0,
+        "close_price": 10190.0,
+        "volume": 8962030.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250804,
+        "open_price": 10220.0,
+        "high_price": 10490.0,
+        "low_price": 10190.0,
+        "close_price": 10470.0,
+        "volume": 8427549.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250803,
+        "open_price": 10230.0,
+        "high_price": 10240.0,
+        "low_price": 9990.0,
+        "close_price": 10190.0,
+        "volume": 6289656.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250802,
+        "open_price": 9960.0,
+        "high_price": 10330.0,
+        "low_price": 9900.0,
+        "close_price": 9950.0,
+        "volume": 2033293.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250730,
+        "open_price": 10700.0,
+        "high_price": 10700.0,
+        "low_price": 10160.0,
+        "close_price": 10200.0,
+        "volume": 1484482.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250729,
+        "open_price": 10470.0,
+        "high_price": 10520.0,
+        "low_price": 10470.0,
+        "close_price": 10470.0,
+        "volume": 2843078.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250728,
+        "open_price": 11200.0,
+        "high_price": 11410.0,
+        "low_price": 10770.0,
+        "close_price": 10790.0,
+        "volume": 6255009.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250727,
+        "open_price": 11300.0,
+        "high_price": 11380.0,
+        "low_price": 11040.0,
+        "close_price": 11100.0,
+        "volume": 8871799.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250726,
+        "open_price": 11660.0,
+        "high_price": 11660.0,
+        "low_price": 11200.0,
+        "close_price": 11380.0,
+        "volume": 4229513.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250723,
+        "open_price": 11270.0,
+        "high_price": 11770.0,
+        "low_price": 11190.0,
+        "close_price": 11330.0,
+        "volume": 4805341.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250722,
+        "open_price": 11680.0,
+        "high_price": 11880.0,
+        "low_price": 11270.0,
+        "close_price": 11530.0,
+        "volume": 9872035.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250721,
+        "open_price": 11250.0,
+        "high_price": 11580.0,
+        "low_price": 11240.0,
+        "close_price": 11550.0,
+        "volume": 5577576.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250720,
+        "open_price": 11140.0,
+        "high_price": 11320.0,
+        "low_price": 10970.0,
+        "close_price": 11250.0,
+        "volume": 6835942.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250719,
+        "open_price": 10930.0,
+        "high_price": 11010.0,
+        "low_price": 10870.0,
+        "close_price": 11000.0,
+        "volume": 2076032.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250716,
+        "open_price": 10490.0,
+        "high_price": 10720.0,
+        "low_price": 10450.0,
+        "close_price": 10690.0,
+        "volume": 5436718.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250715,
+        "open_price": 10130.0,
+        "high_price": 10550.0,
+        "low_price": 10110.0,
+        "close_price": 10410.0,
+        "volume": 8173098.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250714,
+        "open_price": 10320.0,
+        "high_price": 10320.0,
+        "low_price": 10100.0,
+        "close_price": 10260.0,
+        "volume": 9278420.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250713,
+        "open_price": 10100.0,
+        "high_price": 10400.0,
+        "low_price": 9910.0,
+        "close_price": 10020.0,
+        "volume": 22393407.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250712,
+        "open_price": 10150.0,
+        "high_price": 10490.0,
+        "low_price": 10090.0,
+        "close_price": 10210.0,
+        "volume": 16398976.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250709,
+        "open_price": 10330.0,
+        "high_price": 10330.0,
+        "low_price": 10330.0,
+        "close_price": 10330.0,
+        "volume": 8375019.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250708,
+        "open_price": 10640.0,
+        "high_price": 10720.0,
+        "low_price": 10640.0,
+        "close_price": 10640.0,
+        "volume": 10321954.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250707,
+        "open_price": 10960.0,
+        "high_price": 11080.0,
+        "low_price": 10960.0,
+        "close_price": 10960.0,
+        "volume": 50016137.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250702,
+        "open_price": 11290.0,
+        "high_price": 11290.0,
+        "low_price": 11290.0,
+        "close_price": 11290.0,
+        "volume": 10019687.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250701,
+        "open_price": 11630.0,
+        "high_price": 11630.0,
+        "low_price": 11630.0,
+        "close_price": 11630.0,
+        "volume": 1001470.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250630,
+        "open_price": 11980.0,
+        "high_price": 11980.0,
+        "low_price": 11980.0,
+        "close_price": 11980.0,
+        "volume": 1000254.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250629,
+        "open_price": 12350.0,
+        "high_price": 12350.0,
+        "low_price": 12350.0,
+        "close_price": 12350.0,
+        "volume": 1835.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250628,
+        "open_price": 12730.0,
+        "high_price": 12730.0,
+        "low_price": 12730.0,
+        "close_price": 12730.0,
+        "volume": 8002653.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13120.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13120.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13120.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13120.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13120.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13120.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13120.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13120.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250611,
+        "open_price": 13150.0,
+        "high_price": 13150.0,
+        "low_price": 12850.0,
+        "close_price": 13120.0,
+        "volume": 76374049.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250610,
+        "open_price": 12500.0,
+        "high_price": 12790.0,
+        "low_price": 12380.0,
+        "close_price": 12770.0,
+        "volume": 71745431.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250609,
+        "open_price": 12610.0,
+        "high_price": 12750.0,
+        "low_price": 12240.0,
+        "close_price": 12420.0,
+        "volume": 5410082.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250608,
+        "open_price": 12250.0,
+        "high_price": 12810.0,
+        "low_price": 12250.0,
+        "close_price": 12610.0,
+        "volume": 6918574.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250607,
+        "open_price": 12580.0,
+        "high_price": 12600.0,
+        "low_price": 12520.0,
+        "close_price": 12520.0,
+        "volume": 9247508.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250603,
+        "open_price": 12900.0,
+        "high_price": 13360.0,
+        "low_price": 12790.0,
+        "close_price": 12900.0,
+        "volume": 21257953.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250602,
+        "open_price": 13030.0,
+        "high_price": 13210.0,
+        "low_price": 12870.0,
+        "close_price": 13180.0,
+        "volume": 45029587.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250601,
+        "open_price": 13130.0,
+        "high_price": 13130.0,
+        "low_price": 12790.0,
+        "close_price": 12830.0,
+        "volume": 32698457.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250531,
+        "open_price": 13390.0,
+        "high_price": 13550.0,
+        "low_price": 12780.0,
+        "close_price": 13180.0,
+        "volume": 19918945.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250528,
+        "open_price": 13000.0,
+        "high_price": 13400.0,
+        "low_price": 12780.0,
+        "close_price": 13170.0,
+        "volume": 38350719.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250527,
+        "open_price": 13250.0,
+        "high_price": 13390.0,
+        "low_price": 12790.0,
+        "close_price": 13150.0,
+        "volume": 41938045.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250526,
+        "open_price": 13540.0,
+        "high_price": 13720.0,
+        "low_price": 13140.0,
+        "close_price": 13180.0,
+        "volume": 75792696.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250525,
+        "open_price": 13540.0,
+        "high_price": 13580.0,
+        "low_price": 13540.0,
+        "close_price": 13540.0,
+        "volume": 9029290.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250524,
+        "open_price": 13960.0,
+        "high_price": 14090.0,
+        "low_price": 13480.0,
+        "close_price": 13950.0,
+        "volume": 14324094.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250521,
+        "open_price": 13680.0,
+        "high_price": 13980.0,
+        "low_price": 13680.0,
+        "close_price": 13680.0,
+        "volume": 36721246.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250520,
+        "open_price": 14250.0,
+        "high_price": 14540.0,
+        "low_price": 14080.0,
+        "close_price": 14100.0,
+        "volume": 12151894.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250519,
+        "open_price": 14760.0,
+        "high_price": 14900.0,
+        "low_price": 14470.0,
+        "close_price": 14510.0,
+        "volume": 26821452.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250518,
+        "open_price": 14740.0,
+        "high_price": 15080.0,
+        "low_price": 14640.0,
+        "close_price": 14910.0,
+        "volume": 19353467.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250517,
+        "open_price": 14800.0,
+        "high_price": 15250.0,
+        "low_price": 14490.0,
+        "close_price": 14760.0,
+        "volume": 28962257.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250514,
+        "open_price": 14830.0,
+        "high_price": 15210.0,
+        "low_price": 14570.0,
+        "close_price": 14930.0,
+        "volume": 50534966.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250513,
+        "open_price": 15120.0,
+        "high_price": 15190.0,
+        "low_price": 14640.0,
+        "close_price": 15010.0,
+        "volume": 38948909.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250512,
+        "open_price": 14770.0,
+        "high_price": 14770.0,
+        "low_price": 14770.0,
+        "close_price": 14770.0,
+        "volume": 3760700.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250511,
+        "open_price": 14600.0,
+        "high_price": 14670.0,
+        "low_price": 14060.0,
+        "close_price": 14340.0,
+        "volume": 33746360.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250510,
+        "open_price": 14600.0,
+        "high_price": 14770.0,
+        "low_price": 14430.0,
+        "close_price": 14480.0,
+        "volume": 105374669.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250507,
+        "open_price": 14880.0,
+        "high_price": 14880.0,
+        "low_price": 14680.0,
+        "close_price": 14870.0,
+        "volume": 130265024.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250506,
+        "open_price": 14450.0,
+        "high_price": 14450.0,
+        "low_price": 14450.0,
+        "close_price": 14450.0,
+        "volume": 5177054.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250505,
+        "open_price": 14030.0,
+        "high_price": 14030.0,
+        "low_price": 14030.0,
+        "close_price": 14030.0,
+        "volume": 4227413.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250504,
+        "open_price": 13280.0,
+        "high_price": 13960.0,
+        "low_price": 13170.0,
+        "close_price": 13630.0,
+        "volume": 64436240.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250503,
+        "open_price": 13560.0,
+        "high_price": 13560.0,
+        "low_price": 13560.0,
+        "close_price": 13560.0,
+        "volume": 16298697.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250430,
+        "open_price": 13950.0,
+        "high_price": 13990.0,
+        "low_price": 13750.0,
+        "close_price": 13970.0,
+        "volume": 26417191.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250429,
+        "open_price": 13590.0,
+        "high_price": 13760.0,
+        "low_price": 12960.0,
+        "close_price": 13590.0,
+        "volume": 60861712.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250428,
+        "open_price": 13190.0,
+        "high_price": 13460.0,
+        "low_price": 12680.0,
+        "close_price": 13360.0,
+        "volume": 58356094.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250427,
+        "open_price": 13070.0,
+        "high_price": 13070.0,
+        "low_price": 13070.0,
+        "close_price": 13070.0,
+        "volume": 20104455.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250426,
+        "open_price": 13920.0,
+        "high_price": 14060.0,
+        "low_price": 13350.0,
+        "close_price": 13470.0,
+        "volume": 71486587.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250423,
+        "open_price": 13730.0,
+        "high_price": 14160.0,
+        "low_price": 13710.0,
+        "close_price": 13760.0,
+        "volume": 127365694.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250422,
+        "open_price": 14210.0,
+        "high_price": 14210.0,
+        "low_price": 13630.0,
+        "close_price": 14130.0,
+        "volume": 304995473.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250421,
+        "open_price": 13800.0,
+        "high_price": 13800.0,
+        "low_price": 13800.0,
+        "close_price": 13800.0,
+        "volume": 78999287.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250420,
+        "open_price": 13400.0,
+        "high_price": 13400.0,
+        "low_price": 13400.0,
+        "close_price": 13400.0,
+        "volume": 3120081.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250419,
+        "open_price": 13010.0,
+        "high_price": 13010.0,
+        "low_price": 13010.0,
+        "close_price": 13010.0,
+        "volume": 14228265.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250416,
+        "open_price": 12640.0,
+        "high_price": 12640.0,
+        "low_price": 12640.0,
+        "close_price": 12640.0,
+        "volume": 66344355.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250415,
+        "open_price": 12090.0,
+        "high_price": 12390.0,
+        "low_price": 11750.0,
+        "close_price": 12280.0,
+        "volume": 53999261.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250414,
+        "open_price": 12030.0,
+        "high_price": 12030.0,
+        "low_price": 12030.0,
+        "close_price": 12030.0,
+        "volume": 43755179.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250413,
+        "open_price": 11680.0,
+        "high_price": 11680.0,
+        "low_price": 11680.0,
+        "close_price": 11680.0,
+        "volume": 56119531.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250412,
+        "open_price": 11090.0,
+        "high_price": 11420.0,
+        "low_price": 11090.0,
+        "close_price": 11340.0,
+        "volume": 21110215.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250409,
+        "open_price": 11160.0,
+        "high_price": 11230.0,
+        "low_price": 10940.0,
+        "close_price": 11090.0,
+        "volume": 3988338.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250408,
+        "open_price": 11070.0,
+        "high_price": 11070.0,
+        "low_price": 11070.0,
+        "close_price": 11070.0,
+        "volume": 5404782.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250407,
+        "open_price": 10980.0,
+        "high_price": 10980.0,
+        "low_price": 10690.0,
+        "close_price": 10750.0,
+        "volume": 9005319.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250406,
+        "open_price": 11180.0,
+        "high_price": 11180.0,
+        "low_price": 10850.0,
+        "close_price": 11020.0,
+        "volume": 1589285.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250405,
+        "open_price": 11080.0,
+        "high_price": 11300.0,
+        "low_price": 10860.0,
+        "close_price": 11160.0,
+        "volume": 2970874.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250330,
+        "open_price": 10970.0,
+        "high_price": 11130.0,
+        "low_price": 10880.0,
+        "close_price": 10980.0,
+        "volume": 2704589.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250329,
+        "open_price": 10720.0,
+        "high_price": 11080.0,
+        "low_price": 10620.0,
+        "close_price": 10910.0,
+        "volume": 1216585.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250326,
+        "open_price": 11100.0,
+        "high_price": 11130.0,
+        "low_price": 10710.0,
+        "close_price": 10930.0,
+        "volume": 3793873.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250325,
+        "open_price": 10750.0,
+        "high_price": 10850.0,
+        "low_price": 10720.0,
+        "close_price": 10810.0,
+        "volume": 1697631.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250318,
+        "open_price": 10880.0,
+        "high_price": 10880.0,
+        "low_price": 10500.0,
+        "close_price": 10540.0,
+        "volume": 3830921.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250317,
+        "open_price": 10990.0,
+        "high_price": 10990.0,
+        "low_price": 10710.0,
+        "close_price": 10820.0,
+        "volume": 3223675.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250316,
+        "open_price": 11030.0,
+        "high_price": 11170.0,
+        "low_price": 10640.0,
+        "close_price": 10840.0,
+        "volume": 15841894.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250315,
+        "open_price": 10890.0,
+        "high_price": 11020.0,
+        "low_price": 10720.0,
+        "close_price": 10960.0,
+        "volume": 11432689.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250312,
+        "open_price": 10700.0,
+        "high_price": 10700.0,
+        "low_price": 10700.0,
+        "close_price": 10700.0,
+        "volume": 11245980.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250311,
+        "open_price": 11380.0,
+        "high_price": 11380.0,
+        "low_price": 11000.0,
+        "close_price": 11030.0,
+        "volume": 4529158.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250310,
+        "open_price": 11210.0,
+        "high_price": 11410.0,
+        "low_price": 11210.0,
+        "close_price": 11330.0,
+        "volume": 9144286.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250309,
+        "open_price": 11100.0,
+        "high_price": 11240.0,
+        "low_price": 11060.0,
+        "close_price": 11080.0,
+        "volume": 18961306.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250308,
+        "open_price": 11500.0,
+        "high_price": 11630.0,
+        "low_price": 10990.0,
+        "close_price": 11400.0,
+        "volume": 14660498.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250305,
+        "open_price": 11100.0,
+        "high_price": 11480.0,
+        "low_price": 11100.0,
+        "close_price": 11300.0,
+        "volume": 13409929.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250304,
+        "open_price": 11030.0,
+        "high_price": 11390.0,
+        "low_price": 10770.0,
+        "close_price": 11150.0,
+        "volume": 18976934.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250303,
+        "open_price": 11060.0,
+        "high_price": 11060.0,
+        "low_price": 11060.0,
+        "close_price": 11060.0,
+        "volume": 10095197.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250302,
+        "open_price": 11010.0,
+        "high_price": 11550.0,
+        "low_price": 11010.0,
+        "close_price": 11400.0,
+        "volume": 33679184.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250301,
+        "open_price": 11060.0,
+        "high_price": 11400.0,
+        "low_price": 11020.0,
+        "close_price": 11220.0,
+        "volume": 46296976.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250226,
+        "open_price": 11470.0,
+        "high_price": 11470.0,
+        "low_price": 11090.0,
+        "close_price": 11330.0,
+        "volume": 75766314.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250225,
+        "open_price": 11450.0,
+        "high_price": 11450.0,
+        "low_price": 11030.0,
+        "close_price": 11400.0,
+        "volume": 222410181.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250224,
+        "open_price": 11120.0,
+        "high_price": 11120.0,
+        "low_price": 11120.0,
+        "close_price": 11120.0,
+        "volume": 111222133.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250223,
+        "open_price": 10800.0,
+        "high_price": 10800.0,
+        "low_price": 10800.0,
+        "close_price": 10800.0,
+        "volume": 10040018.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250222,
+        "open_price": 10720.0,
+        "high_price": 10730.0,
+        "low_price": 10430.0,
+        "close_price": 10490.0,
+        "volume": 1677643.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250219,
+        "open_price": 10660.0,
+        "high_price": 10950.0,
+        "low_price": 10660.0,
+        "close_price": 10750.0,
+        "volume": 1284649.0
+    },
+    {
+        "symbol": "بهین رو",
+        "trade_date": 20250218,
+        "open_price": 10520.0,
+        "high_price": 10870.0,
+        "low_price": 10520.0,
+        "close_price": 10660.0,
+        "volume": 1639668.0
+    }
+]

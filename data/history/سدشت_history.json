@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260901,
+        "open_price": 41780.0,
+        "high_price": 41780.0,
+        "low_price": 39360.0,
+        "close_price": 41340.0,
+        "volume": 895795.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260831,
+        "open_price": 38370.0,
+        "high_price": 40700.0,
+        "low_price": 38370.0,
+        "close_price": 40570.0,
+        "volume": 755317.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260829,
+        "open_price": 39470.0,
+        "high_price": 39580.0,
+        "low_price": 38500.0,
+        "close_price": 39520.0,
+        "volume": 623059.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260826,
+        "open_price": 37120.0,
+        "high_price": 39000.0,
+        "low_price": 37120.0,
+        "close_price": 38430.0,
+        "volume": 270849.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260825,
+        "open_price": 37000.0,
+        "high_price": 38530.0,
+        "low_price": 36360.0,
+        "close_price": 38020.0,
+        "volume": 616210.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260824,
+        "open_price": 37010.0,
+        "high_price": 38500.0,
+        "low_price": 36720.0,
+        "close_price": 37460.0,
+        "volume": 275456.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260823,
+        "open_price": 39200.0,
+        "high_price": 39200.0,
+        "low_price": 36970.0,
+        "close_price": 37830.0,
+        "volume": 437158.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260822,
+        "open_price": 38350.0,
+        "high_price": 38380.0,
+        "low_price": 37150.0,
+        "close_price": 38110.0,
+        "volume": 335335.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260819,
+        "open_price": 37810.0,
+        "high_price": 37810.0,
+        "low_price": 37270.0,
+        "close_price": 37270.0,
+        "volume": 649340.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260818,
+        "open_price": 38400.0,
+        "high_price": 39170.0,
+        "low_price": 38130.0,
+        "close_price": 38420.0,
+        "volume": 553095.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260817,
+        "open_price": 40040.0,
+        "high_price": 40040.0,
+        "low_price": 37820.0,
+        "close_price": 39300.0,
+        "volume": 287998.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260816,
+        "open_price": 38970.0,
+        "high_price": 38980.0,
+        "low_price": 38890.0,
+        "close_price": 38970.0,
+        "volume": 368302.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260815,
+        "open_price": 37510.0,
+        "high_price": 38350.0,
+        "low_price": 36130.0,
+        "close_price": 37850.0,
+        "volume": 750855.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260811,
+        "open_price": 37000.0,
+        "high_price": 37520.0,
+        "low_price": 37000.0,
+        "close_price": 37240.0,
+        "volume": 471931.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260810,
+        "open_price": 34700.0,
+        "high_price": 36840.0,
+        "low_price": 34700.0,
+        "close_price": 36430.0,
+        "volume": 698843.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260809,
+        "open_price": 37450.0,
+        "high_price": 37450.0,
+        "low_price": 35530.0,
+        "close_price": 35770.0,
+        "volume": 270551.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260808,
+        "open_price": 36630.0,
+        "high_price": 36630.0,
+        "low_price": 36170.0,
+        "close_price": 36620.0,
+        "volume": 604893.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260805,
+        "open_price": 34570.0,
+        "high_price": 35600.0,
+        "low_price": 34570.0,
+        "close_price": 35570.0,
+        "volume": 560852.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260803,
+        "open_price": 34030.0,
+        "high_price": 35040.0,
+        "low_price": 34030.0,
+        "close_price": 34570.0,
+        "volume": 375995.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260802,
+        "open_price": 34640.0,
+        "high_price": 34640.0,
+        "low_price": 32900.0,
+        "close_price": 34030.0,
+        "volume": 328133.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260801,
+        "open_price": 33700.0,
+        "high_price": 33700.0,
+        "low_price": 32640.0,
+        "close_price": 33670.0,
+        "volume": 398894.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260729,
+        "open_price": 34290.0,
+        "high_price": 34290.0,
+        "low_price": 32640.0,
+        "close_price": 32720.0,
+        "volume": 438734.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260728,
+        "open_price": 33290.0,
+        "high_price": 34380.0,
+        "low_price": 33290.0,
+        "close_price": 33640.0,
+        "volume": 624339.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260727,
+        "open_price": 34200.0,
+        "high_price": 36250.0,
+        "low_price": 34200.0,
+        "close_price": 34310.0,
+        "volume": 494102.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260726,
+        "open_price": 35220.0,
+        "high_price": 35260.0,
+        "low_price": 35130.0,
+        "close_price": 35250.0,
+        "volume": 315941.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260725,
+        "open_price": 34390.0,
+        "high_price": 34390.0,
+        "low_price": 33810.0,
+        "close_price": 34240.0,
+        "volume": 447199.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260722,
+        "open_price": 33510.0,
+        "high_price": 33510.0,
+        "low_price": 31600.0,
+        "close_price": 33390.0,
+        "volume": 535610.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260721,
+        "open_price": 32450.0,
+        "high_price": 32540.0,
+        "low_price": 32450.0,
+        "close_price": 32540.0,
+        "volume": 380207.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260720,
+        "open_price": 30650.0,
+        "high_price": 31660.0,
+        "low_price": 30650.0,
+        "close_price": 31600.0,
+        "volume": 388719.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260719,
+        "open_price": 30600.0,
+        "high_price": 32250.0,
+        "low_price": 30570.0,
+        "close_price": 30740.0,
+        "volume": 483174.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260718,
+        "open_price": 32580.0,
+        "high_price": 32580.0,
+        "low_price": 30700.0,
+        "close_price": 31510.0,
+        "volume": 867341.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260715,
+        "open_price": 31640.0,
+        "high_price": 31640.0,
+        "low_price": 31640.0,
+        "close_price": 31640.0,
+        "volume": 77094.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260714,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 30720.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260713,
+        "open_price": 30720.0,
+        "high_price": 30720.0,
+        "low_price": 30720.0,
+        "close_price": 30720.0,
+        "volume": 763.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260712,
+        "open_price": 31660.0,
+        "high_price": 31660.0,
+        "low_price": 31660.0,
+        "close_price": 31660.0,
+        "volume": 22315.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260711,
+        "open_price": 32630.0,
+        "high_price": 32630.0,
+        "low_price": 32630.0,
+        "close_price": 32630.0,
+        "volume": 114856.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260708,
+        "open_price": 33600.0,
+        "high_price": 35300.0,
+        "low_price": 33490.0,
+        "close_price": 33630.0,
+        "volume": 809675.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260707,
+        "open_price": 34650.0,
+        "high_price": 34650.0,
+        "low_price": 33600.0,
+        "close_price": 34520.0,
+        "volume": 692136.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260701,
+        "open_price": 35000.0,
+        "high_price": 35000.0,
+        "low_price": 33600.0,
+        "close_price": 33650.0,
+        "volume": 969554.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260630,
+        "open_price": 34490.0,
+        "high_price": 36200.0,
+        "low_price": 34490.0,
+        "close_price": 34630.0,
+        "volume": 1063507.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260629,
+        "open_price": 35550.0,
+        "high_price": 35550.0,
+        "low_price": 35550.0,
+        "close_price": 35550.0,
+        "volume": 85963.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260628,
+        "open_price": 37650.0,
+        "high_price": 37650.0,
+        "low_price": 36510.0,
+        "close_price": 36640.0,
+        "volume": 122499.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260627,
+        "open_price": 37380.0,
+        "high_price": 39680.0,
+        "low_price": 37380.0,
+        "close_price": 37630.0,
+        "volume": 421801.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260623,
+        "open_price": 38480.0,
+        "high_price": 40360.0,
+        "low_price": 38480.0,
+        "close_price": 38530.0,
+        "volume": 1249899.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260622,
+        "open_price": 39670.0,
+        "high_price": 39670.0,
+        "low_price": 39670.0,
+        "close_price": 39670.0,
+        "volume": 24139.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260621,
+        "open_price": 40890.0,
+        "high_price": 40890.0,
+        "low_price": 40890.0,
+        "close_price": 40890.0,
+        "volume": 41517.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260620,
+        "open_price": 42150.0,
+        "high_price": 42150.0,
+        "low_price": 42150.0,
+        "close_price": 42150.0,
+        "volume": 86375.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260617,
+        "open_price": 43450.0,
+        "high_price": 43450.0,
+        "low_price": 43450.0,
+        "close_price": 43450.0,
+        "volume": 81900.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260616,
+        "open_price": 46300.0,
+        "high_price": 46300.0,
+        "low_price": 43620.0,
+        "close_price": 44790.0,
+        "volume": 847089.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260615,
+        "open_price": 44960.0,
+        "high_price": 44960.0,
+        "low_price": 44960.0,
+        "close_price": 44960.0,
+        "volume": 69540.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260614,
+        "open_price": 43660.0,
+        "high_price": 43660.0,
+        "low_price": 43660.0,
+        "close_price": 43660.0,
+        "volume": 147169.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260613,
+        "open_price": 42390.0,
+        "high_price": 42390.0,
+        "low_price": 42390.0,
+        "close_price": 42390.0,
+        "volume": 86686.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260610,
+        "open_price": 41170.0,
+        "high_price": 41170.0,
+        "low_price": 40550.0,
+        "close_price": 41160.0,
+        "volume": 958656.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260609,
+        "open_price": 39980.0,
+        "high_price": 39980.0,
+        "low_price": 39980.0,
+        "close_price": 39980.0,
+        "volume": 97304.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260608,
+        "open_price": 38730.0,
+        "high_price": 40000.0,
+        "low_price": 38730.0,
+        "close_price": 38820.0,
+        "volume": 607058.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260607,
+        "open_price": 39920.0,
+        "high_price": 39920.0,
+        "low_price": 39920.0,
+        "close_price": 39920.0,
+        "volume": 111074.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260606,
+        "open_price": 38770.0,
+        "high_price": 38770.0,
+        "low_price": 38000.0,
+        "close_price": 38760.0,
+        "volume": 154984.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260603,
+        "open_price": 37730.0,
+        "high_price": 37730.0,
+        "low_price": 36840.0,
+        "close_price": 37650.0,
+        "volume": 594067.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260602,
+        "open_price": 35870.0,
+        "high_price": 36830.0,
+        "low_price": 35870.0,
+        "close_price": 36640.0,
+        "volume": 612083.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260601,
+        "open_price": 35870.0,
+        "high_price": 35870.0,
+        "low_price": 34890.0,
+        "close_price": 35760.0,
+        "volume": 972087.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260531,
+        "open_price": 34830.0,
+        "high_price": 34830.0,
+        "low_price": 34830.0,
+        "close_price": 34830.0,
+        "volume": 144963.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260530,
+        "open_price": 33820.0,
+        "high_price": 33820.0,
+        "low_price": 33820.0,
+        "close_price": 33820.0,
+        "volume": 151624.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260526,
+        "open_price": 32840.0,
+        "high_price": 32840.0,
+        "low_price": 32840.0,
+        "close_price": 32840.0,
+        "volume": 133663.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260525,
+        "open_price": 31890.0,
+        "high_price": 31890.0,
+        "low_price": 31890.0,
+        "close_price": 31890.0,
+        "volume": 52672.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260524,
+        "open_price": 30970.0,
+        "high_price": 30970.0,
+        "low_price": 30970.0,
+        "close_price": 30970.0,
+        "volume": 3895.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260523,
+        "open_price": 30070.0,
+        "high_price": 30070.0,
+        "low_price": 30070.0,
+        "close_price": 30070.0,
+        "volume": 417973.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260520,
+        "open_price": 29200.0,
+        "high_price": 29200.0,
+        "low_price": 29200.0,
+        "close_price": 29200.0,
+        "volume": 47169.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260519,
+        "open_price": 26920.0,
+        "high_price": 28580.0,
+        "low_price": 26920.0,
+        "close_price": 28350.0,
+        "volume": 920504.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260225,
+        "open_price": 26990.0,
+        "high_price": 28640.0,
+        "low_price": 26980.0,
+        "close_price": 27750.0,
+        "volume": 393335.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260224,
+        "open_price": 29300.0,
+        "high_price": 29300.0,
+        "low_price": 27720.0,
+        "close_price": 27810.0,
+        "volume": 99274.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260223,
+        "open_price": 28500.0,
+        "high_price": 29500.0,
+        "low_price": 28500.0,
+        "close_price": 28570.0,
+        "volume": 302178.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260222,
+        "open_price": 29380.0,
+        "high_price": 29380.0,
+        "low_price": 29380.0,
+        "close_price": 29380.0,
+        "volume": 15509.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260221,
+        "open_price": 30280.0,
+        "high_price": 30280.0,
+        "low_price": 30280.0,
+        "close_price": 30280.0,
+        "volume": 22285.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260218,
+        "open_price": 32000.0,
+        "high_price": 32000.0,
+        "low_price": 31180.0,
+        "close_price": 31210.0,
+        "volume": 401045.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260217,
+        "open_price": 32130.0,
+        "high_price": 33110.0,
+        "low_price": 32130.0,
+        "close_price": 32140.0,
+        "volume": 1878328.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260216,
+        "open_price": 34300.0,
+        "high_price": 34300.0,
+        "low_price": 32320.0,
+        "close_price": 33120.0,
+        "volume": 530749.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260215,
+        "open_price": 33310.0,
+        "high_price": 33310.0,
+        "low_price": 33310.0,
+        "close_price": 33310.0,
+        "volume": 632955.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260214,
+        "open_price": 32340.0,
+        "high_price": 32340.0,
+        "low_price": 32340.0,
+        "close_price": 32340.0,
+        "volume": 235311.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260210,
+        "open_price": 31400.0,
+        "high_price": 31410.0,
+        "low_price": 31310.0,
+        "close_price": 31400.0,
+        "volume": 550690.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260209,
+        "open_price": 30510.0,
+        "high_price": 30510.0,
+        "low_price": 29750.0,
+        "close_price": 30500.0,
+        "volume": 319476.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260208,
+        "open_price": 29720.0,
+        "high_price": 29720.0,
+        "low_price": 28860.0,
+        "close_price": 29630.0,
+        "volume": 369288.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260207,
+        "open_price": 28860.0,
+        "high_price": 28860.0,
+        "low_price": 28860.0,
+        "close_price": 28860.0,
+        "volume": 34719.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260203,
+        "open_price": 28220.0,
+        "high_price": 28230.0,
+        "low_price": 27510.0,
+        "close_price": 28020.0,
+        "volume": 103911.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260202,
+        "open_price": 26100.0,
+        "high_price": 27600.0,
+        "low_price": 26100.0,
+        "close_price": 27410.0,
+        "volume": 353894.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260201,
+        "open_price": 26800.0,
+        "high_price": 26800.0,
+        "low_price": 26800.0,
+        "close_price": 26800.0,
+        "volume": 419790.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260131,
+        "open_price": 27370.0,
+        "high_price": 29050.0,
+        "low_price": 27370.0,
+        "close_price": 27620.0,
+        "volume": 535629.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260128,
+        "open_price": 28210.0,
+        "high_price": 28210.0,
+        "low_price": 28210.0,
+        "close_price": 28210.0,
+        "volume": 65531.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260127,
+        "open_price": 29080.0,
+        "high_price": 29080.0,
+        "low_price": 29080.0,
+        "close_price": 29080.0,
+        "volume": 20687.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260126,
+        "open_price": 29970.0,
+        "high_price": 29970.0,
+        "low_price": 29970.0,
+        "close_price": 29970.0,
+        "volume": 9346.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260125,
+        "open_price": 30890.0,
+        "high_price": 30890.0,
+        "low_price": 30890.0,
+        "close_price": 30890.0,
+        "volume": 44311.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260124,
+        "open_price": 31740.0,
+        "high_price": 33480.0,
+        "low_price": 31680.0,
+        "close_price": 31840.0,
+        "volume": 231583.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260121,
+        "open_price": 31940.0,
+        "high_price": 33390.0,
+        "low_price": 31930.0,
+        "close_price": 32650.0,
+        "volume": 168747.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260120,
+        "open_price": 32590.0,
+        "high_price": 33860.0,
+        "low_price": 32580.0,
+        "close_price": 32900.0,
+        "volume": 316422.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260119,
+        "open_price": 33460.0,
+        "high_price": 34600.0,
+        "low_price": 33460.0,
+        "close_price": 33580.0,
+        "volume": 1053699.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260118,
+        "open_price": 34460.0,
+        "high_price": 35110.0,
+        "low_price": 34430.0,
+        "close_price": 34490.0,
+        "volume": 1299802.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260114,
+        "open_price": 36880.0,
+        "high_price": 36880.0,
+        "low_price": 35080.0,
+        "close_price": 35490.0,
+        "volume": 310568.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260113,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 36160.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260112,
+        "open_price": 36160.0,
+        "high_price": 36160.0,
+        "low_price": 36160.0,
+        "close_price": 36160.0,
+        "volume": 1040.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260111,
+        "open_price": 33460.0,
+        "high_price": 35490.0,
+        "low_price": 33460.0,
+        "close_price": 35110.0,
+        "volume": 1223316.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260110,
+        "open_price": 33070.0,
+        "high_price": 35110.0,
+        "low_price": 33070.0,
+        "close_price": 34460.0,
+        "volume": 2199664.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260107,
+        "open_price": 34090.0,
+        "high_price": 34090.0,
+        "low_price": 34090.0,
+        "close_price": 34090.0,
+        "volume": 160871.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260106,
+        "open_price": 33100.0,
+        "high_price": 33100.0,
+        "low_price": 33100.0,
+        "close_price": 33100.0,
+        "volume": 60293.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260105,
+        "open_price": 32140.0,
+        "high_price": 32140.0,
+        "low_price": 32140.0,
+        "close_price": 32140.0,
+        "volume": 15660.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20260104,
+        "open_price": 31210.0,
+        "high_price": 31210.0,
+        "low_price": 31210.0,
+        "close_price": 31210.0,
+        "volume": 40950.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251231,
+        "open_price": 30310.0,
+        "high_price": 30310.0,
+        "low_price": 30310.0,
+        "close_price": 30310.0,
+        "volume": 50925.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251230,
+        "open_price": 29480.0,
+        "high_price": 29480.0,
+        "low_price": 28810.0,
+        "close_price": 29430.0,
+        "volume": 1227375.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251229,
+        "open_price": 28690.0,
+        "high_price": 28690.0,
+        "low_price": 27880.0,
+        "close_price": 28630.0,
+        "volume": 2059687.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251228,
+        "open_price": 27860.0,
+        "high_price": 27860.0,
+        "low_price": 27860.0,
+        "close_price": 27860.0,
+        "volume": 11347.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251227,
+        "open_price": 27050.0,
+        "high_price": 27050.0,
+        "low_price": 27050.0,
+        "close_price": 27050.0,
+        "volume": 14132.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251224,
+        "open_price": 26270.0,
+        "high_price": 26270.0,
+        "low_price": 26270.0,
+        "close_price": 26270.0,
+        "volume": 351102.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251223,
+        "open_price": 25510.0,
+        "high_price": 25510.0,
+        "low_price": 25510.0,
+        "close_price": 25510.0,
+        "volume": 206791.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251222,
+        "open_price": 24770.0,
+        "high_price": 24770.0,
+        "low_price": 24770.0,
+        "close_price": 24770.0,
+        "volume": 27848.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251221,
+        "open_price": 24750.0,
+        "high_price": 24750.0,
+        "low_price": 24750.0,
+        "close_price": 24050.0,
+        "volume": 28441.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251220,
+        "open_price": 24730.0,
+        "high_price": 24730.0,
+        "low_price": 24730.0,
+        "close_price": 24030.0,
+        "volume": 46929.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251217,
+        "open_price": 24680.0,
+        "high_price": 24680.0,
+        "low_price": 24680.0,
+        "close_price": 24010.0,
+        "volume": 77169.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251216,
+        "open_price": 24520.0,
+        "high_price": 24520.0,
+        "low_price": 24520.0,
+        "close_price": 23970.0,
+        "volume": 309427.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251215,
+        "open_price": 24490.0,
+        "high_price": 24490.0,
+        "low_price": 24490.0,
+        "close_price": 23810.0,
+        "volume": 60116.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251214,
+        "open_price": 24450.0,
+        "high_price": 24450.0,
+        "low_price": 24450.0,
+        "close_price": 23780.0,
+        "volume": 77497.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251213,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 23740.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251210,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 23740.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251209,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 32290.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251208,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251207,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251206,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251203,
+        "open_price": 34510.0,
+        "high_price": 35390.0,
+        "low_price": 34510.0,
+        "close_price": 34750.0,
+        "volume": 391039.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251202,
+        "open_price": 34400.0,
+        "high_price": 35050.0,
+        "low_price": 34380.0,
+        "close_price": 34360.0,
+        "volume": 321364.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251201,
+        "open_price": 34480.0,
+        "high_price": 34480.0,
+        "low_price": 33690.0,
+        "close_price": 34090.0,
+        "volume": 24034.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251130,
+        "open_price": 34260.0,
+        "high_price": 34260.0,
+        "low_price": 33650.0,
+        "close_price": 34090.0,
+        "volume": 39911.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251129,
+        "open_price": 33900.0,
+        "high_price": 34560.0,
+        "low_price": 33450.0,
+        "close_price": 34090.0,
+        "volume": 193230.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251126,
+        "open_price": 34000.0,
+        "high_price": 34480.0,
+        "low_price": 33600.0,
+        "close_price": 34050.0,
+        "volume": 133237.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251125,
+        "open_price": 34540.0,
+        "high_price": 34550.0,
+        "low_price": 33630.0,
+        "close_price": 34100.0,
+        "volume": 167861.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251123,
+        "open_price": 33770.0,
+        "high_price": 34410.0,
+        "low_price": 33600.0,
+        "close_price": 34110.0,
+        "volume": 154965.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251122,
+        "open_price": 34550.0,
+        "high_price": 34550.0,
+        "low_price": 33800.0,
+        "close_price": 34110.0,
+        "volume": 50975.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251119,
+        "open_price": 34200.0,
+        "high_price": 34330.0,
+        "low_price": 33600.0,
+        "close_price": 34120.0,
+        "volume": 117686.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251118,
+        "open_price": 34190.0,
+        "high_price": 34190.0,
+        "low_price": 33810.0,
+        "close_price": 34170.0,
+        "volume": 24107.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251117,
+        "open_price": 34650.0,
+        "high_price": 34960.0,
+        "low_price": 33510.0,
+        "close_price": 34180.0,
+        "volume": 90290.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251116,
+        "open_price": 35180.0,
+        "high_price": 35180.0,
+        "low_price": 33450.0,
+        "close_price": 34200.0,
+        "volume": 79219.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251115,
+        "open_price": 34000.0,
+        "high_price": 34000.0,
+        "low_price": 33250.0,
+        "close_price": 34210.0,
+        "volume": 69817.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251112,
+        "open_price": 34470.0,
+        "high_price": 34470.0,
+        "low_price": 33410.0,
+        "close_price": 34260.0,
+        "volume": 23250.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251111,
+        "open_price": 34900.0,
+        "high_price": 34900.0,
+        "low_price": 33400.0,
+        "close_price": 34270.0,
+        "volume": 28788.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251110,
+        "open_price": 34700.0,
+        "high_price": 34700.0,
+        "low_price": 33460.0,
+        "close_price": 34290.0,
+        "volume": 30515.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251109,
+        "open_price": 34100.0,
+        "high_price": 34950.0,
+        "low_price": 33430.0,
+        "close_price": 34310.0,
+        "volume": 21540.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251108,
+        "open_price": 34290.0,
+        "high_price": 34800.0,
+        "low_price": 33510.0,
+        "close_price": 34320.0,
+        "volume": 39284.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251105,
+        "open_price": 35080.0,
+        "high_price": 35080.0,
+        "low_price": 33570.0,
+        "close_price": 34310.0,
+        "volume": 40229.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251104,
+        "open_price": 34000.0,
+        "high_price": 34710.0,
+        "low_price": 33810.0,
+        "close_price": 34320.0,
+        "volume": 27590.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251103,
+        "open_price": 34340.0,
+        "high_price": 34890.0,
+        "low_price": 33600.0,
+        "close_price": 34320.0,
+        "volume": 197669.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251102,
+        "open_price": 34400.0,
+        "high_price": 35000.0,
+        "low_price": 34010.0,
+        "close_price": 34430.0,
+        "volume": 57503.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251101,
+        "open_price": 33420.0,
+        "high_price": 35080.0,
+        "low_price": 33420.0,
+        "close_price": 34430.0,
+        "volume": 130540.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251029,
+        "open_price": 35370.0,
+        "high_price": 35370.0,
+        "low_price": 33700.0,
+        "close_price": 34410.0,
+        "volume": 127328.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251028,
+        "open_price": 35230.0,
+        "high_price": 35230.0,
+        "low_price": 34000.0,
+        "close_price": 34440.0,
+        "volume": 68164.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251027,
+        "open_price": 34990.0,
+        "high_price": 35430.0,
+        "low_price": 34090.0,
+        "close_price": 34450.0,
+        "volume": 97355.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251026,
+        "open_price": 34900.0,
+        "high_price": 34900.0,
+        "low_price": 33620.0,
+        "close_price": 34400.0,
+        "volume": 129479.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251025,
+        "open_price": 35000.0,
+        "high_price": 35000.0,
+        "low_price": 33410.0,
+        "close_price": 34370.0,
+        "volume": 98336.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251022,
+        "open_price": 35100.0,
+        "high_price": 35100.0,
+        "low_price": 33440.0,
+        "close_price": 34430.0,
+        "volume": 84698.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251021,
+        "open_price": 35440.0,
+        "high_price": 35440.0,
+        "low_price": 33410.0,
+        "close_price": 34450.0,
+        "volume": 158330.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251020,
+        "open_price": 34850.0,
+        "high_price": 35390.0,
+        "low_price": 34250.0,
+        "close_price": 34430.0,
+        "volume": 126284.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251019,
+        "open_price": 35000.0,
+        "high_price": 35000.0,
+        "low_price": 34900.0,
+        "close_price": 34360.0,
+        "volume": 366472.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251018,
+        "open_price": 34200.0,
+        "high_price": 34400.0,
+        "low_price": 33610.0,
+        "close_price": 33990.0,
+        "volume": 643387.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251015,
+        "open_price": 32560.0,
+        "high_price": 33500.0,
+        "low_price": 32560.0,
+        "close_price": 33400.0,
+        "volume": 33627.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251014,
+        "open_price": 34360.0,
+        "high_price": 34360.0,
+        "low_price": 32520.0,
+        "close_price": 33410.0,
+        "volume": 201826.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251013,
+        "open_price": 34300.0,
+        "high_price": 34300.0,
+        "low_price": 33450.0,
+        "close_price": 33450.0,
+        "volume": 74745.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251012,
+        "open_price": 33890.0,
+        "high_price": 33890.0,
+        "low_price": 33400.0,
+        "close_price": 33430.0,
+        "volume": 238398.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251011,
+        "open_price": 33520.0,
+        "high_price": 33530.0,
+        "low_price": 32660.0,
+        "close_price": 33370.0,
+        "volume": 344104.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251008,
+        "open_price": 33950.0,
+        "high_price": 33950.0,
+        "low_price": 32780.0,
+        "close_price": 33620.0,
+        "volume": 172918.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251007,
+        "open_price": 34380.0,
+        "high_price": 34380.0,
+        "low_price": 33030.0,
+        "close_price": 33790.0,
+        "volume": 55034.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251006,
+        "open_price": 32990.0,
+        "high_price": 33950.0,
+        "low_price": 32980.0,
+        "close_price": 33790.0,
+        "volume": 226637.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251005,
+        "open_price": 33700.0,
+        "high_price": 34540.0,
+        "low_price": 33140.0,
+        "close_price": 33990.0,
+        "volume": 189675.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251004,
+        "open_price": 33900.0,
+        "high_price": 35000.0,
+        "low_price": 33250.0,
+        "close_price": 34160.0,
+        "volume": 279110.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20251001,
+        "open_price": 33320.0,
+        "high_price": 33320.0,
+        "low_price": 33320.0,
+        "close_price": 34270.0,
+        "volume": 74075.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250930,
+        "open_price": 33480.0,
+        "high_price": 34730.0,
+        "low_price": 33440.0,
+        "close_price": 34350.0,
+        "volume": 115183.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250929,
+        "open_price": 35100.0,
+        "high_price": 35100.0,
+        "low_price": 34240.0,
+        "close_price": 34470.0,
+        "volume": 160691.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250928,
+        "open_price": 34060.0,
+        "high_price": 35230.0,
+        "low_price": 34060.0,
+        "close_price": 34450.0,
+        "volume": 333282.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250927,
+        "open_price": 33340.0,
+        "high_price": 35170.0,
+        "low_price": 33340.0,
+        "close_price": 34270.0,
+        "volume": 134154.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250924,
+        "open_price": 33390.0,
+        "high_price": 33400.0,
+        "low_price": 33390.0,
+        "close_price": 34370.0,
+        "volume": 47707.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250923,
+        "open_price": 33450.0,
+        "high_price": 34080.0,
+        "low_price": 33450.0,
+        "close_price": 34420.0,
+        "volume": 56629.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250922,
+        "open_price": 33640.0,
+        "high_price": 33920.0,
+        "low_price": 33640.0,
+        "close_price": 34480.0,
+        "volume": 201643.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250921,
+        "open_price": 33680.0,
+        "high_price": 33850.0,
+        "low_price": 33680.0,
+        "close_price": 34680.0,
+        "volume": 37004.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250920,
+        "open_price": 33680.0,
+        "high_price": 33680.0,
+        "low_price": 33680.0,
+        "close_price": 34720.0,
+        "volume": 2216.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250917,
+        "open_price": 33790.0,
+        "high_price": 33980.0,
+        "low_price": 33710.0,
+        "close_price": 34720.0,
+        "volume": 27714.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250916,
+        "open_price": 33900.0,
+        "high_price": 33900.0,
+        "low_price": 33780.0,
+        "close_price": 34750.0,
+        "volume": 67387.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250915,
+        "open_price": 34600.0,
+        "high_price": 34700.0,
+        "low_price": 33840.0,
+        "close_price": 34820.0,
+        "volume": 63873.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250914,
+        "open_price": 33860.0,
+        "high_price": 35400.0,
+        "low_price": 33860.0,
+        "close_price": 34880.0,
+        "volume": 95367.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250913,
+        "open_price": 34800.0,
+        "high_price": 34800.0,
+        "low_price": 33880.0,
+        "close_price": 34900.0,
+        "volume": 20288.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250909,
+        "open_price": 35000.0,
+        "high_price": 35000.0,
+        "low_price": 34050.0,
+        "close_price": 34920.0,
+        "volume": 172780.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250908,
+        "open_price": 34530.0,
+        "high_price": 35790.0,
+        "low_price": 34100.0,
+        "close_price": 35100.0,
+        "volume": 84793.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250907,
+        "open_price": 34200.0,
+        "high_price": 34600.0,
+        "low_price": 34170.0,
+        "close_price": 35150.0,
+        "volume": 77063.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250906,
+        "open_price": 34400.0,
+        "high_price": 35000.0,
+        "low_price": 34210.0,
+        "close_price": 35220.0,
+        "volume": 50928.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250903,
+        "open_price": 34400.0,
+        "high_price": 35320.0,
+        "low_price": 34400.0,
+        "close_price": 35260.0,
+        "volume": 201482.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250902,
+        "open_price": 34510.0,
+        "high_price": 35760.0,
+        "low_price": 34390.0,
+        "close_price": 35330.0,
+        "volume": 179781.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250831,
+        "open_price": 34510.0,
+        "high_price": 35020.0,
+        "low_price": 34510.0,
+        "close_price": 35450.0,
+        "volume": 119374.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250830,
+        "open_price": 34510.0,
+        "high_price": 34510.0,
+        "low_price": 34510.0,
+        "close_price": 35570.0,
+        "volume": 3292.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250827,
+        "open_price": 34540.0,
+        "high_price": 34540.0,
+        "low_price": 34540.0,
+        "close_price": 35570.0,
+        "volume": 32369.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250826,
+        "open_price": 34580.0,
+        "high_price": 34580.0,
+        "low_price": 34580.0,
+        "close_price": 35600.0,
+        "volume": 38798.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250825,
+        "open_price": 34610.0,
+        "high_price": 34750.0,
+        "low_price": 34610.0,
+        "close_price": 35640.0,
+        "volume": 41919.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250823,
+        "open_price": 34750.0,
+        "high_price": 34780.0,
+        "low_price": 34750.0,
+        "close_price": 35680.0,
+        "volume": 126883.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250820,
+        "open_price": 34780.0,
+        "high_price": 34780.0,
+        "low_price": 34780.0,
+        "close_price": 35820.0,
+        "volume": 31652.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250819,
+        "open_price": 34820.0,
+        "high_price": 34820.0,
+        "low_price": 34820.0,
+        "close_price": 35850.0,
+        "volume": 41007.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250818,
+        "open_price": 35330.0,
+        "high_price": 36490.0,
+        "low_price": 35040.0,
+        "close_price": 35890.0,
+        "volume": 235010.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250817,
+        "open_price": 35010.0,
+        "high_price": 37170.0,
+        "low_price": 35010.0,
+        "close_price": 36120.0,
+        "volume": 1112893.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250816,
+        "open_price": 35010.0,
+        "high_price": 35010.0,
+        "low_price": 35010.0,
+        "close_price": 36090.0,
+        "volume": 827.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250813,
+        "open_price": 35010.0,
+        "high_price": 35010.0,
+        "low_price": 35010.0,
+        "close_price": 36090.0,
+        "volume": 737.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250812,
+        "open_price": 35010.0,
+        "high_price": 35010.0,
+        "low_price": 35010.0,
+        "close_price": 36090.0,
+        "volume": 3550.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250811,
+        "open_price": 35020.0,
+        "high_price": 35020.0,
+        "low_price": 35020.0,
+        "close_price": 36090.0,
+        "volume": 9563.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250810,
+        "open_price": 35020.0,
+        "high_price": 35020.0,
+        "low_price": 35020.0,
+        "close_price": 36100.0,
+        "volume": 4363.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250809,
+        "open_price": 35120.0,
+        "high_price": 35860.0,
+        "low_price": 35120.0,
+        "close_price": 36100.0,
+        "volume": 95393.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250806,
+        "open_price": 35120.0,
+        "high_price": 35120.0,
+        "low_price": 35120.0,
+        "close_price": 36200.0,
+        "volume": 3788.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250805,
+        "open_price": 35200.0,
+        "high_price": 35200.0,
+        "low_price": 35160.0,
+        "close_price": 36200.0,
+        "volume": 41222.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250804,
+        "open_price": 35260.0,
+        "high_price": 35940.0,
+        "low_price": 35260.0,
+        "close_price": 36240.0,
+        "volume": 101810.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250803,
+        "open_price": 35310.0,
+        "high_price": 36100.0,
+        "low_price": 35310.0,
+        "close_price": 36350.0,
+        "volume": 42683.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250802,
+        "open_price": 35340.0,
+        "high_price": 35340.0,
+        "low_price": 35340.0,
+        "close_price": 36400.0,
+        "volume": 25157.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250730,
+        "open_price": 35360.0,
+        "high_price": 35360.0,
+        "low_price": 35360.0,
+        "close_price": 36430.0,
+        "volume": 17999.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250729,
+        "open_price": 35390.0,
+        "high_price": 36150.0,
+        "low_price": 35390.0,
+        "close_price": 36450.0,
+        "volume": 32371.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250728,
+        "open_price": 36500.0,
+        "high_price": 36500.0,
+        "low_price": 35460.0,
+        "close_price": 36480.0,
+        "volume": 65195.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250727,
+        "open_price": 35660.0,
+        "high_price": 36370.0,
+        "low_price": 35640.0,
+        "close_price": 36550.0,
+        "volume": 177345.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250726,
+        "open_price": 36500.0,
+        "high_price": 36500.0,
+        "low_price": 35710.0,
+        "close_price": 36740.0,
+        "volume": 69860.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250723,
+        "open_price": 37940.0,
+        "high_price": 37940.0,
+        "low_price": 35740.0,
+        "close_price": 36810.0,
+        "volume": 164307.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250722,
+        "open_price": 37240.0,
+        "high_price": 37240.0,
+        "low_price": 37240.0,
+        "close_price": 36840.0,
+        "volume": 628676.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250721,
+        "open_price": 36130.0,
+        "high_price": 36920.0,
+        "low_price": 35680.0,
+        "close_price": 36160.0,
+        "volume": 318550.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250720,
+        "open_price": 36360.0,
+        "high_price": 36360.0,
+        "low_price": 35070.0,
+        "close_price": 35850.0,
+        "volume": 89792.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250719,
+        "open_price": 35250.0,
+        "high_price": 36540.0,
+        "low_price": 34880.0,
+        "close_price": 35870.0,
+        "volume": 44000.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250716,
+        "open_price": 34930.0,
+        "high_price": 35850.0,
+        "low_price": 34920.0,
+        "close_price": 35870.0,
+        "volume": 149612.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250715,
+        "open_price": 35850.0,
+        "high_price": 36600.0,
+        "low_price": 35010.0,
+        "close_price": 35990.0,
+        "volume": 99415.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250714,
+        "open_price": 36040.0,
+        "high_price": 36040.0,
+        "low_price": 35350.0,
+        "close_price": 36090.0,
+        "volume": 212142.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250713,
+        "open_price": 35260.0,
+        "high_price": 35600.0,
+        "low_price": 35200.0,
+        "close_price": 36220.0,
+        "volume": 69046.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250712,
+        "open_price": 35390.0,
+        "high_price": 36670.0,
+        "low_price": 35250.0,
+        "close_price": 36280.0,
+        "volume": 55425.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250709,
+        "open_price": 35250.0,
+        "high_price": 35250.0,
+        "low_price": 35250.0,
+        "close_price": 36330.0,
+        "volume": 7941.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250708,
+        "open_price": 35370.0,
+        "high_price": 35380.0,
+        "low_price": 35370.0,
+        "close_price": 36340.0,
+        "volume": 109154.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250707,
+        "open_price": 36030.0,
+        "high_price": 36600.0,
+        "low_price": 35510.0,
+        "close_price": 36460.0,
+        "volume": 190990.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250702,
+        "open_price": 35660.0,
+        "high_price": 36990.0,
+        "low_price": 35660.0,
+        "close_price": 36600.0,
+        "volume": 151476.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250701,
+        "open_price": 35690.0,
+        "high_price": 35690.0,
+        "low_price": 35690.0,
+        "close_price": 36760.0,
+        "volume": 31450.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250630,
+        "open_price": 35960.0,
+        "high_price": 38160.0,
+        "low_price": 35960.0,
+        "close_price": 36790.0,
+        "volume": 263934.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250629,
+        "open_price": 36770.0,
+        "high_price": 37700.0,
+        "low_price": 36770.0,
+        "close_price": 37070.0,
+        "volume": 736457.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250628,
+        "open_price": 37640.0,
+        "high_price": 37640.0,
+        "low_price": 37640.0,
+        "close_price": 37900.0,
+        "volume": 779703.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 38800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 38800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 38800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 38800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 38800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 38800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 38800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 38800.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250611,
+        "open_price": 38890.0,
+        "high_price": 39700.0,
+        "low_price": 37750.0,
+        "close_price": 38800.0,
+        "volume": 115540.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250610,
+        "open_price": 39880.0,
+        "high_price": 39880.0,
+        "low_price": 37940.0,
+        "close_price": 38910.0,
+        "volume": 177760.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250609,
+        "open_price": 38890.0,
+        "high_price": 40000.0,
+        "low_price": 38890.0,
+        "close_price": 39110.0,
+        "volume": 818318.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250608,
+        "open_price": 39150.0,
+        "high_price": 39150.0,
+        "low_price": 39150.0,
+        "close_price": 40090.0,
+        "volume": 221717.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250607,
+        "open_price": 39220.0,
+        "high_price": 39220.0,
+        "low_price": 39220.0,
+        "close_price": 40360.0,
+        "volume": 59294.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250603,
+        "open_price": 41980.0,
+        "high_price": 41980.0,
+        "low_price": 39570.0,
+        "close_price": 40430.0,
+        "volume": 945020.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250602,
+        "open_price": 40990.0,
+        "high_price": 40990.0,
+        "low_price": 39490.0,
+        "close_price": 40790.0,
+        "volume": 871856.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250601,
+        "open_price": 40460.0,
+        "high_price": 40460.0,
+        "low_price": 40460.0,
+        "close_price": 39800.0,
+        "volume": 438857.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250531,
+        "open_price": 40300.0,
+        "high_price": 40300.0,
+        "low_price": 40300.0,
+        "close_price": 39290.0,
+        "volume": 137556.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250528,
+        "open_price": 40180.0,
+        "high_price": 40180.0,
+        "low_price": 40180.0,
+        "close_price": 39130.0,
+        "volume": 99179.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250527,
+        "open_price": 40060.0,
+        "high_price": 40060.0,
+        "low_price": 40060.0,
+        "close_price": 39010.0,
+        "volume": 95113.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250526,
+        "open_price": 39960.0,
+        "high_price": 39960.0,
+        "low_price": 39960.0,
+        "close_price": 38900.0,
+        "volume": 85240.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250525,
+        "open_price": 39910.0,
+        "high_price": 39910.0,
+        "low_price": 39910.0,
+        "close_price": 38800.0,
+        "volume": 46200.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250524,
+        "open_price": 39840.0,
+        "high_price": 39840.0,
+        "low_price": 39840.0,
+        "close_price": 38750.0,
+        "volume": 64087.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250521,
+        "open_price": 39510.0,
+        "high_price": 39510.0,
+        "low_price": 39300.0,
+        "close_price": 38680.0,
+        "volume": 277636.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250520,
+        "open_price": 39300.0,
+        "high_price": 39300.0,
+        "low_price": 39300.0,
+        "close_price": 38360.0,
+        "volume": 178189.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250519,
+        "open_price": 38820.0,
+        "high_price": 38820.0,
+        "low_price": 36560.0,
+        "close_price": 38160.0,
+        "volume": 433482.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250518,
+        "open_price": 38650.0,
+        "high_price": 38650.0,
+        "low_price": 38650.0,
+        "close_price": 37690.0,
+        "volume": 144610.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250517,
+        "open_price": 38050.0,
+        "high_price": 38050.0,
+        "low_price": 37300.0,
+        "close_price": 37530.0,
+        "volume": 555728.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250514,
+        "open_price": 37920.0,
+        "high_price": 37920.0,
+        "low_price": 37920.0,
+        "close_price": 36950.0,
+        "volume": 117373.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250513,
+        "open_price": 37860.0,
+        "high_price": 37860.0,
+        "low_price": 37860.0,
+        "close_price": 36820.0,
+        "volume": 55028.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250512,
+        "open_price": 37770.0,
+        "high_price": 37770.0,
+        "low_price": 37770.0,
+        "close_price": 36760.0,
+        "volume": 78221.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250511,
+        "open_price": 37660.0,
+        "high_price": 37660.0,
+        "low_price": 37660.0,
+        "close_price": 36670.0,
+        "volume": 91367.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250510,
+        "open_price": 37440.0,
+        "high_price": 37440.0,
+        "low_price": 37440.0,
+        "close_price": 36570.0,
+        "volume": 203708.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250507,
+        "open_price": 37350.0,
+        "high_price": 37350.0,
+        "low_price": 37350.0,
+        "close_price": 36350.0,
+        "volume": 70779.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250506,
+        "open_price": 37150.0,
+        "high_price": 37150.0,
+        "low_price": 37150.0,
+        "close_price": 36270.0,
+        "volume": 181137.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250505,
+        "open_price": 37060.0,
+        "high_price": 37060.0,
+        "low_price": 37060.0,
+        "close_price": 36070.0,
+        "volume": 75716.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250504,
+        "open_price": 36940.0,
+        "high_price": 36940.0,
+        "low_price": 36940.0,
+        "close_price": 35990.0,
+        "volume": 114513.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250503,
+        "open_price": 36480.0,
+        "high_price": 36500.0,
+        "low_price": 34640.0,
+        "close_price": 35870.0,
+        "volume": 429116.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250430,
+        "open_price": 36380.0,
+        "high_price": 36380.0,
+        "low_price": 36380.0,
+        "close_price": 35440.0,
+        "volume": 102034.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250429,
+        "open_price": 35280.0,
+        "high_price": 36050.0,
+        "low_price": 34150.0,
+        "close_price": 35330.0,
+        "volume": 627607.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250428,
+        "open_price": 35350.0,
+        "high_price": 35370.0,
+        "low_price": 34300.0,
+        "close_price": 35000.0,
+        "volume": 153711.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250427,
+        "open_price": 34020.0,
+        "high_price": 34850.0,
+        "low_price": 34020.0,
+        "close_price": 35030.0,
+        "volume": 52433.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250426,
+        "open_price": 34400.0,
+        "high_price": 35500.0,
+        "low_price": 34140.0,
+        "close_price": 35070.0,
+        "volume": 190793.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250423,
+        "open_price": 35840.0,
+        "high_price": 35840.0,
+        "low_price": 34240.0,
+        "close_price": 35190.0,
+        "volume": 83219.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250422,
+        "open_price": 35530.0,
+        "high_price": 35990.0,
+        "low_price": 34450.0,
+        "close_price": 35250.0,
+        "volume": 423940.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250421,
+        "open_price": 36510.0,
+        "high_price": 36520.0,
+        "low_price": 35400.0,
+        "close_price": 35510.0,
+        "volume": 57281.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 35480.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 35480.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250416,
+        "open_price": 35000.0,
+        "high_price": 35000.0,
+        "low_price": 34580.0,
+        "close_price": 35480.0,
+        "volume": 171899.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250415,
+        "open_price": 36490.0,
+        "high_price": 36490.0,
+        "low_price": 34890.0,
+        "close_price": 35640.0,
+        "volume": 330087.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250414,
+        "open_price": 36980.0,
+        "high_price": 36980.0,
+        "low_price": 35000.0,
+        "close_price": 35960.0,
+        "volume": 324365.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250413,
+        "open_price": 35930.0,
+        "high_price": 36990.0,
+        "low_price": 35270.0,
+        "close_price": 36050.0,
+        "volume": 482744.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250412,
+        "open_price": 35020.0,
+        "high_price": 35970.0,
+        "low_price": 35020.0,
+        "close_price": 36020.0,
+        "volume": 79041.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250409,
+        "open_price": 36450.0,
+        "high_price": 36450.0,
+        "low_price": 35220.0,
+        "close_price": 36100.0,
+        "volume": 193398.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250408,
+        "open_price": 36420.0,
+        "high_price": 36700.0,
+        "low_price": 35710.0,
+        "close_price": 36300.0,
+        "volume": 285013.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250407,
+        "open_price": 35390.0,
+        "high_price": 35410.0,
+        "low_price": 35390.0,
+        "close_price": 36320.0,
+        "volume": 146582.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250406,
+        "open_price": 35620.0,
+        "high_price": 36330.0,
+        "low_price": 35420.0,
+        "close_price": 36480.0,
+        "volume": 53194.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250405,
+        "open_price": 35620.0,
+        "high_price": 36200.0,
+        "low_price": 35620.0,
+        "close_price": 36510.0,
+        "volume": 85800.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250330,
+        "open_price": 35800.0,
+        "high_price": 36400.0,
+        "low_price": 35610.0,
+        "close_price": 36580.0,
+        "volume": 156797.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250329,
+        "open_price": 35800.0,
+        "high_price": 36500.0,
+        "low_price": 35800.0,
+        "close_price": 36710.0,
+        "volume": 192136.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250326,
+        "open_price": 36000.0,
+        "high_price": 36200.0,
+        "low_price": 35910.0,
+        "close_price": 36900.0,
+        "volume": 109068.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250325,
+        "open_price": 37150.0,
+        "high_price": 37240.0,
+        "low_price": 36000.0,
+        "close_price": 37020.0,
+        "volume": 102953.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250318,
+        "open_price": 36100.0,
+        "high_price": 36100.0,
+        "low_price": 36100.0,
+        "close_price": 37110.0,
+        "volume": 85736.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250317,
+        "open_price": 36360.0,
+        "high_price": 36360.0,
+        "low_price": 36340.0,
+        "close_price": 37210.0,
+        "volume": 219371.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250316,
+        "open_price": 36610.0,
+        "high_price": 37080.0,
+        "low_price": 36560.0,
+        "close_price": 37460.0,
+        "volume": 209037.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250315,
+        "open_price": 37950.0,
+        "high_price": 38900.0,
+        "low_price": 36700.0,
+        "close_price": 37690.0,
+        "volume": 279104.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250312,
+        "open_price": 36860.0,
+        "high_price": 37400.0,
+        "low_price": 36860.0,
+        "close_price": 37830.0,
+        "volume": 150446.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250311,
+        "open_price": 36910.0,
+        "high_price": 36910.0,
+        "low_price": 36910.0,
+        "close_price": 38000.0,
+        "volume": 44609.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250310,
+        "open_price": 36960.0,
+        "high_price": 36960.0,
+        "low_price": 36960.0,
+        "close_price": 38050.0,
+        "volume": 47776.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250309,
+        "open_price": 37000.0,
+        "high_price": 37000.0,
+        "low_price": 37000.0,
+        "close_price": 38100.0,
+        "volume": 35828.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250308,
+        "open_price": 37030.0,
+        "high_price": 37030.0,
+        "low_price": 37030.0,
+        "close_price": 38140.0,
+        "volume": 26261.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250305,
+        "open_price": 37270.0,
+        "high_price": 37270.0,
+        "low_price": 37050.0,
+        "close_price": 38170.0,
+        "volume": 17041.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250304,
+        "open_price": 37270.0,
+        "high_price": 37310.0,
+        "low_price": 37270.0,
+        "close_price": 38190.0,
+        "volume": 201267.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250303,
+        "open_price": 37310.0,
+        "high_price": 37310.0,
+        "low_price": 37310.0,
+        "close_price": 38420.0,
+        "volume": 33585.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250302,
+        "open_price": 37460.0,
+        "high_price": 37510.0,
+        "low_price": 37460.0,
+        "close_price": 38460.0,
+        "volume": 132381.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250301,
+        "open_price": 37950.0,
+        "high_price": 38500.0,
+        "low_price": 37840.0,
+        "close_price": 38610.0,
+        "volume": 349675.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250226,
+        "open_price": 39000.0,
+        "high_price": 39000.0,
+        "low_price": 38040.0,
+        "close_price": 39010.0,
+        "volume": 199567.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250225,
+        "open_price": 40300.0,
+        "high_price": 40300.0,
+        "low_price": 38240.0,
+        "close_price": 39210.0,
+        "volume": 109645.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250224,
+        "open_price": 38500.0,
+        "high_price": 40100.0,
+        "low_price": 38500.0,
+        "close_price": 39160.0,
+        "volume": 209252.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250223,
+        "open_price": 38170.0,
+        "high_price": 38920.0,
+        "low_price": 38160.0,
+        "close_price": 39030.0,
+        "volume": 293767.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250222,
+        "open_price": 38500.0,
+        "high_price": 38500.0,
+        "low_price": 38280.0,
+        "close_price": 39340.0,
+        "volume": 99620.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250219,
+        "open_price": 38770.0,
+        "high_price": 39240.0,
+        "low_price": 38380.0,
+        "close_price": 39460.0,
+        "volume": 131963.0
+    },
+    {
+        "symbol": "سدشت",
+        "trade_date": 20250218,
+        "open_price": 39500.0,
+        "high_price": 39500.0,
+        "low_price": 38770.0,
+        "close_price": 39560.0,
+        "volume": 340445.0
+    }
+]

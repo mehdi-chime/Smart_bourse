@@ -1,0 +1,650 @@
+[
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260901,
+        "open_price": 14081.0,
+        "high_price": 14081.0,
+        "low_price": 14000.0,
+        "close_price": 14009.0,
+        "volume": 2159686.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260831,
+        "open_price": 14000.0,
+        "high_price": 14017.0,
+        "low_price": 13964.0,
+        "close_price": 13997.0,
+        "volume": 3360874.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260829,
+        "open_price": 14074.0,
+        "high_price": 14088.0,
+        "low_price": 13900.0,
+        "close_price": 14006.0,
+        "volume": 4687277.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260826,
+        "open_price": 14125.0,
+        "high_price": 14125.0,
+        "low_price": 14029.0,
+        "close_price": 14075.0,
+        "volume": 16853681.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260825,
+        "open_price": 14145.0,
+        "high_price": 14214.0,
+        "low_price": 14035.0,
+        "close_price": 14073.0,
+        "volume": 7568783.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260824,
+        "open_price": 14348.0,
+        "high_price": 14348.0,
+        "low_price": 14000.0,
+        "close_price": 14130.0,
+        "volume": 8688483.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260823,
+        "open_price": 14089.0,
+        "high_price": 14488.0,
+        "low_price": 14080.0,
+        "close_price": 14163.0,
+        "volume": 12658340.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260822,
+        "open_price": 14065.0,
+        "high_price": 14364.0,
+        "low_price": 14050.0,
+        "close_price": 14077.0,
+        "volume": 1043573.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260819,
+        "open_price": 14398.0,
+        "high_price": 14398.0,
+        "low_price": 13981.0,
+        "close_price": 14034.0,
+        "volume": 7601544.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260818,
+        "open_price": 13987.0,
+        "high_price": 13987.0,
+        "low_price": 13854.0,
+        "close_price": 13981.0,
+        "volume": 4131084.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260817,
+        "open_price": 13489.0,
+        "high_price": 13843.0,
+        "low_price": 13430.0,
+        "close_price": 13580.0,
+        "volume": 10140064.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260816,
+        "open_price": 13421.0,
+        "high_price": 13514.0,
+        "low_price": 13415.0,
+        "close_price": 13440.0,
+        "volume": 6010690.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260815,
+        "open_price": 13410.0,
+        "high_price": 13453.0,
+        "low_price": 13170.0,
+        "close_price": 13404.0,
+        "volume": 6292766.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260811,
+        "open_price": 13580.0,
+        "high_price": 13580.0,
+        "low_price": 13083.0,
+        "close_price": 13397.0,
+        "volume": 3412225.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260810,
+        "open_price": 13445.0,
+        "high_price": 13520.0,
+        "low_price": 13350.0,
+        "close_price": 13399.0,
+        "volume": 5301712.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260809,
+        "open_price": 13482.0,
+        "high_price": 13482.0,
+        "low_price": 13064.0,
+        "close_price": 13346.0,
+        "volume": 10279006.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260808,
+        "open_price": 13428.0,
+        "high_price": 13610.0,
+        "low_price": 13300.0,
+        "close_price": 13468.0,
+        "volume": 11560444.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260805,
+        "open_price": 13180.0,
+        "high_price": 13418.0,
+        "low_price": 13120.0,
+        "close_price": 13248.0,
+        "volume": 25432774.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260803,
+        "open_price": 13200.0,
+        "high_price": 13288.0,
+        "low_price": 12951.0,
+        "close_price": 13048.0,
+        "volume": 17142041.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260802,
+        "open_price": 12920.0,
+        "high_price": 12930.0,
+        "low_price": 12756.0,
+        "close_price": 12909.0,
+        "volume": 4111741.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260801,
+        "open_price": 12537.0,
+        "high_price": 12849.0,
+        "low_price": 12400.0,
+        "close_price": 12554.0,
+        "volume": 4366927.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260729,
+        "open_price": 12531.0,
+        "high_price": 12537.0,
+        "low_price": 12500.0,
+        "close_price": 12524.0,
+        "volume": 29278551.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260728,
+        "open_price": 12547.0,
+        "high_price": 12547.0,
+        "low_price": 12490.0,
+        "close_price": 12519.0,
+        "volume": 18617310.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260727,
+        "open_price": 12534.0,
+        "high_price": 12538.0,
+        "low_price": 12370.0,
+        "close_price": 12499.0,
+        "volume": 26211025.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260726,
+        "open_price": 12496.0,
+        "high_price": 12649.0,
+        "low_price": 12470.0,
+        "close_price": 12513.0,
+        "volume": 20540660.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260725,
+        "open_price": 12499.0,
+        "high_price": 12499.0,
+        "low_price": 12396.0,
+        "close_price": 12407.0,
+        "volume": 9853252.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260722,
+        "open_price": 12450.0,
+        "high_price": 12490.0,
+        "low_price": 12050.0,
+        "close_price": 12396.0,
+        "volume": 49106455.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260721,
+        "open_price": 12427.0,
+        "high_price": 12638.0,
+        "low_price": 12196.0,
+        "close_price": 12368.0,
+        "volume": 31208452.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260720,
+        "open_price": 12550.0,
+        "high_price": 12590.0,
+        "low_price": 12174.0,
+        "close_price": 12338.0,
+        "volume": 122501670.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260719,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260718,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260715,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260714,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260713,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260712,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260711,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260708,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260707,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260701,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260630,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260629,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260628,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260627,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260620,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260617,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260614,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260613,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260610,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260609,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260608,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260607,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260606,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260603,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260602,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260601,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260531,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260530,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260526,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260525,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260524,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260523,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260520,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260519,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "عمارت دی",
+        "trade_date": 20260513,
+        "open_price": 10000.0,
+        "high_price": 10000.0,
+        "low_price": 10000.0,
+        "close_price": 10000.0,
+        "volume": 776597000.0
+    }
+]

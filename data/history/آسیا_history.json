@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260901,
+        "open_price": 4040.0,
+        "high_price": 4040.0,
+        "low_price": 3820.0,
+        "close_price": 3980.0,
+        "volume": 87247894.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260831,
+        "open_price": 3930.0,
+        "high_price": 3930.0,
+        "low_price": 3850.0,
+        "close_price": 3930.0,
+        "volume": 45428786.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260829,
+        "open_price": 3820.0,
+        "high_price": 3820.0,
+        "low_price": 3820.0,
+        "close_price": 3820.0,
+        "volume": 3413048.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260826,
+        "open_price": 3700.0,
+        "high_price": 3720.0,
+        "low_price": 3630.0,
+        "close_price": 3710.0,
+        "volume": 19146720.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260825,
+        "open_price": 3620.0,
+        "high_price": 3620.0,
+        "low_price": 3580.0,
+        "close_price": 3620.0,
+        "volume": 46785946.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260824,
+        "open_price": 3400.0,
+        "high_price": 3560.0,
+        "low_price": 3380.0,
+        "close_price": 3520.0,
+        "volume": 86942231.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260823,
+        "open_price": 3550.0,
+        "high_price": 3550.0,
+        "low_price": 3360.0,
+        "close_price": 3460.0,
+        "volume": 81587402.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260822,
+        "open_price": 3440.0,
+        "high_price": 3460.0,
+        "low_price": 3400.0,
+        "close_price": 3450.0,
+        "volume": 63868355.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260819,
+        "open_price": 3290.0,
+        "high_price": 3390.0,
+        "low_price": 3210.0,
+        "close_price": 3360.0,
+        "volume": 78193542.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260818,
+        "open_price": 3400.0,
+        "high_price": 3400.0,
+        "low_price": 3290.0,
+        "close_price": 3300.0,
+        "volume": 126147376.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260817,
+        "open_price": 3370.0,
+        "high_price": 3390.0,
+        "low_price": 3330.0,
+        "close_price": 3390.0,
+        "volume": 166299370.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260816,
+        "open_price": 3290.0,
+        "high_price": 3360.0,
+        "low_price": 3290.0,
+        "close_price": 3300.0,
+        "volume": 149715238.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260815,
+        "open_price": 3420.0,
+        "high_price": 3500.0,
+        "low_price": 3370.0,
+        "close_price": 3390.0,
+        "volume": 14092661.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260811,
+        "open_price": 3520.0,
+        "high_price": 3540.0,
+        "low_price": 3380.0,
+        "close_price": 3470.0,
+        "volume": 120670849.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260810,
+        "open_price": 3310.0,
+        "high_price": 3460.0,
+        "low_price": 3280.0,
+        "close_price": 3440.0,
+        "volume": 166944976.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260809,
+        "open_price": 3460.0,
+        "high_price": 3460.0,
+        "low_price": 3260.0,
+        "close_price": 3360.0,
+        "volume": 441190403.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260808,
+        "open_price": 3360.0,
+        "high_price": 3360.0,
+        "low_price": 3360.0,
+        "close_price": 3360.0,
+        "volume": 27712319.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260805,
+        "open_price": 3266.0,
+        "high_price": 3266.0,
+        "low_price": 3266.0,
+        "close_price": 3266.0,
+        "volume": 61441505.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260803,
+        "open_price": 3171.0,
+        "high_price": 3171.0,
+        "low_price": 3171.0,
+        "close_price": 3171.0,
+        "volume": 70405734.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260802,
+        "open_price": 3079.0,
+        "high_price": 3079.0,
+        "low_price": 3079.0,
+        "close_price": 3079.0,
+        "volume": 43204123.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260801,
+        "open_price": 2990.0,
+        "high_price": 2990.0,
+        "low_price": 2990.0,
+        "close_price": 2990.0,
+        "volume": 37455367.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260729,
+        "open_price": 2903.0,
+        "high_price": 2903.0,
+        "low_price": 2903.0,
+        "close_price": 2903.0,
+        "volume": 66826518.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260728,
+        "open_price": 2819.0,
+        "high_price": 2819.0,
+        "low_price": 2819.0,
+        "close_price": 2819.0,
+        "volume": 51082882.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260727,
+        "open_price": 2737.0,
+        "high_price": 2737.0,
+        "low_price": 2737.0,
+        "close_price": 2737.0,
+        "volume": 62937216.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260726,
+        "open_price": 2658.0,
+        "high_price": 2658.0,
+        "low_price": 2658.0,
+        "close_price": 2658.0,
+        "volume": 2993436.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260725,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2581.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260722,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2950.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260721,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2950.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260720,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2950.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260719,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260718,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260715,
+        "open_price": 3110.0,
+        "high_price": 3190.0,
+        "low_price": 3110.0,
+        "close_price": 3110.0,
+        "volume": 82965058.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260714,
+        "open_price": 3200.0,
+        "high_price": 3200.0,
+        "low_price": 3200.0,
+        "close_price": 3200.0,
+        "volume": 8676329.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260713,
+        "open_price": 3290.0,
+        "high_price": 3290.0,
+        "low_price": 3290.0,
+        "close_price": 3290.0,
+        "volume": 2987367.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260712,
+        "open_price": 3390.0,
+        "high_price": 3390.0,
+        "low_price": 3390.0,
+        "close_price": 3390.0,
+        "volume": 690644.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260711,
+        "open_price": 3490.0,
+        "high_price": 3500.0,
+        "low_price": 3490.0,
+        "close_price": 3490.0,
+        "volume": 37975204.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260708,
+        "open_price": 3630.0,
+        "high_price": 3640.0,
+        "low_price": 3440.0,
+        "close_price": 3590.0,
+        "volume": 130429821.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260707,
+        "open_price": 3540.0,
+        "high_price": 3540.0,
+        "low_price": 3540.0,
+        "close_price": 3540.0,
+        "volume": 17334697.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260701,
+        "open_price": 3440.0,
+        "high_price": 3440.0,
+        "low_price": 3300.0,
+        "close_price": 3440.0,
+        "volume": 36528220.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260630,
+        "open_price": 3340.0,
+        "high_price": 3340.0,
+        "low_price": 3180.0,
+        "close_price": 3340.0,
+        "volume": 29334779.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260629,
+        "open_price": 3090.0,
+        "high_price": 3260.0,
+        "low_price": 3090.0,
+        "close_price": 3250.0,
+        "volume": 58185243.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260628,
+        "open_price": 3170.0,
+        "high_price": 3290.0,
+        "low_price": 3150.0,
+        "close_price": 3170.0,
+        "volume": 45435293.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260627,
+        "open_price": 3240.0,
+        "high_price": 3240.0,
+        "low_price": 3160.0,
+        "close_price": 3240.0,
+        "volume": 77605833.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260623,
+        "open_price": 3151.0,
+        "high_price": 3151.0,
+        "low_price": 3120.0,
+        "close_price": 3151.0,
+        "volume": 87422800.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260622,
+        "open_price": 3050.0,
+        "high_price": 3119.0,
+        "low_price": 2939.0,
+        "close_price": 3060.0,
+        "volume": 90780232.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260621,
+        "open_price": 3050.0,
+        "high_price": 3050.0,
+        "low_price": 2874.0,
+        "close_price": 3029.0,
+        "volume": 176048501.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260620,
+        "open_price": 2962.0,
+        "high_price": 2962.0,
+        "low_price": 2962.0,
+        "close_price": 2962.0,
+        "volume": 26604213.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260617,
+        "open_price": 2860.0,
+        "high_price": 2996.0,
+        "low_price": 2860.0,
+        "close_price": 2876.0,
+        "volume": 126965175.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260616,
+        "open_price": 3043.0,
+        "high_price": 3043.0,
+        "low_price": 2867.0,
+        "close_price": 2948.0,
+        "volume": 147224196.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260615,
+        "open_price": 2955.0,
+        "high_price": 2955.0,
+        "low_price": 2955.0,
+        "close_price": 2955.0,
+        "volume": 16416823.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260614,
+        "open_price": 2869.0,
+        "high_price": 2869.0,
+        "low_price": 2869.0,
+        "close_price": 2869.0,
+        "volume": 8259864.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260613,
+        "open_price": 2786.0,
+        "high_price": 2786.0,
+        "low_price": 2786.0,
+        "close_price": 2786.0,
+        "volume": 8319810.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260610,
+        "open_price": 2706.0,
+        "high_price": 2706.0,
+        "low_price": 2661.0,
+        "close_price": 2705.0,
+        "volume": 71196487.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260609,
+        "open_price": 2628.0,
+        "high_price": 2628.0,
+        "low_price": 2628.0,
+        "close_price": 2628.0,
+        "volume": 25765883.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260608,
+        "open_price": 2552.0,
+        "high_price": 2552.0,
+        "low_price": 2552.0,
+        "close_price": 2552.0,
+        "volume": 15577610.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260607,
+        "open_price": 2630.0,
+        "high_price": 2630.0,
+        "low_price": 2630.0,
+        "close_price": 2630.0,
+        "volume": 8837760.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260606,
+        "open_price": 2545.0,
+        "high_price": 2555.0,
+        "low_price": 2510.0,
+        "close_price": 2554.0,
+        "volume": 39426295.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260603,
+        "open_price": 2464.0,
+        "high_price": 2505.0,
+        "low_price": 2400.0,
+        "close_price": 2481.0,
+        "volume": 84642521.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260602,
+        "open_price": 2433.0,
+        "high_price": 2433.0,
+        "low_price": 2380.0,
+        "close_price": 2433.0,
+        "volume": 292866468.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260601,
+        "open_price": 2363.0,
+        "high_price": 2363.0,
+        "low_price": 2363.0,
+        "close_price": 2363.0,
+        "volume": 27194455.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260531,
+        "open_price": 2295.0,
+        "high_price": 2295.0,
+        "low_price": 2295.0,
+        "close_price": 2295.0,
+        "volume": 8121228.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260530,
+        "open_price": 2229.0,
+        "high_price": 2229.0,
+        "low_price": 2229.0,
+        "close_price": 2229.0,
+        "volume": 6873126.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260526,
+        "open_price": 2165.0,
+        "high_price": 2165.0,
+        "low_price": 2165.0,
+        "close_price": 2165.0,
+        "volume": 31612695.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260525,
+        "open_price": 2102.0,
+        "high_price": 2102.0,
+        "low_price": 2102.0,
+        "close_price": 2102.0,
+        "volume": 19851581.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260524,
+        "open_price": 2041.0,
+        "high_price": 2041.0,
+        "low_price": 2041.0,
+        "close_price": 2041.0,
+        "volume": 14517681.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260523,
+        "open_price": 1982.0,
+        "high_price": 1982.0,
+        "low_price": 1982.0,
+        "close_price": 1982.0,
+        "volume": 9923598.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260520,
+        "open_price": 1925.0,
+        "high_price": 1925.0,
+        "low_price": 1925.0,
+        "close_price": 1925.0,
+        "volume": 33946267.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260519,
+        "open_price": 1869.0,
+        "high_price": 1869.0,
+        "low_price": 1869.0,
+        "close_price": 1869.0,
+        "volume": 12387130.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1926.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260225,
+        "open_price": 1941.0,
+        "high_price": 1984.0,
+        "low_price": 1910.0,
+        "close_price": 1926.0,
+        "volume": 4079353.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260224,
+        "open_price": 1948.0,
+        "high_price": 1963.0,
+        "low_price": 1900.0,
+        "close_price": 1928.0,
+        "volume": 8981355.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260223,
+        "open_price": 1906.0,
+        "high_price": 1963.0,
+        "low_price": 1901.0,
+        "close_price": 1929.0,
+        "volume": 4684969.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260222,
+        "open_price": 1902.0,
+        "high_price": 1944.0,
+        "low_price": 1901.0,
+        "close_price": 1906.0,
+        "volume": 3507339.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260221,
+        "open_price": 2007.0,
+        "high_price": 2007.0,
+        "low_price": 1959.0,
+        "close_price": 1959.0,
+        "volume": 2126465.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260218,
+        "open_price": 1975.0,
+        "high_price": 2027.0,
+        "low_price": 1964.0,
+        "close_price": 2019.0,
+        "volume": 11964838.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260217,
+        "open_price": 2049.0,
+        "high_price": 2061.0,
+        "low_price": 1941.0,
+        "close_price": 1968.0,
+        "volume": 11705418.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260216,
+        "open_price": 2020.0,
+        "high_price": 2049.0,
+        "low_price": 1986.0,
+        "close_price": 2001.0,
+        "volume": 3708732.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260215,
+        "open_price": 2051.0,
+        "high_price": 2051.0,
+        "low_price": 1993.0,
+        "close_price": 2010.0,
+        "volume": 5259698.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260214,
+        "open_price": 2089.0,
+        "high_price": 2089.0,
+        "low_price": 2028.0,
+        "close_price": 2042.0,
+        "volume": 3306375.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260210,
+        "open_price": 2040.0,
+        "high_price": 2078.0,
+        "low_price": 2023.0,
+        "close_price": 2032.0,
+        "volume": 8065568.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260209,
+        "open_price": 2073.0,
+        "high_price": 2080.0,
+        "low_price": 2009.0,
+        "close_price": 2029.0,
+        "volume": 9279358.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260208,
+        "open_price": 2134.0,
+        "high_price": 2134.0,
+        "low_price": 2020.0,
+        "close_price": 2064.0,
+        "volume": 20132559.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260207,
+        "open_price": 2072.0,
+        "high_price": 2072.0,
+        "low_price": 2072.0,
+        "close_price": 2072.0,
+        "volume": 5462594.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260203,
+        "open_price": 2015.0,
+        "high_price": 2015.0,
+        "low_price": 1967.0,
+        "close_price": 2012.0,
+        "volume": 22164810.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260202,
+        "open_price": 1871.0,
+        "high_price": 1960.0,
+        "low_price": 1871.0,
+        "close_price": 1957.0,
+        "volume": 2467662.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260201,
+        "open_price": 1869.0,
+        "high_price": 1914.0,
+        "low_price": 1868.0,
+        "close_price": 1903.0,
+        "volume": 5115059.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260131,
+        "open_price": 1891.0,
+        "high_price": 1900.0,
+        "low_price": 1827.0,
+        "close_price": 1859.0,
+        "volume": 9798562.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260128,
+        "open_price": 1879.0,
+        "high_price": 1945.0,
+        "low_price": 1879.0,
+        "close_price": 1882.0,
+        "volume": 46652046.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260127,
+        "open_price": 1937.0,
+        "high_price": 1937.0,
+        "low_price": 1937.0,
+        "close_price": 1937.0,
+        "volume": 45502189.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260126,
+        "open_price": 1996.0,
+        "high_price": 1996.0,
+        "low_price": 1996.0,
+        "close_price": 1996.0,
+        "volume": 8296580.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260125,
+        "open_price": 2061.0,
+        "high_price": 2061.0,
+        "low_price": 2057.0,
+        "close_price": 2057.0,
+        "volume": 36094406.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260124,
+        "open_price": 2188.0,
+        "high_price": 2188.0,
+        "low_price": 2119.0,
+        "close_price": 2120.0,
+        "volume": 6847944.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260121,
+        "open_price": 2170.0,
+        "high_price": 2185.0,
+        "low_price": 2140.0,
+        "close_price": 2184.0,
+        "volume": 40221883.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260120,
+        "open_price": 2090.0,
+        "high_price": 2141.0,
+        "low_price": 2077.0,
+        "close_price": 2122.0,
+        "volume": 11873455.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260119,
+        "open_price": 2130.0,
+        "high_price": 2135.0,
+        "low_price": 2058.0,
+        "close_price": 2079.0,
+        "volume": 23749546.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260118,
+        "open_price": 2164.0,
+        "high_price": 2166.0,
+        "low_price": 2090.0,
+        "close_price": 2113.0,
+        "volume": 6090597.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260114,
+        "open_price": 2137.0,
+        "high_price": 2137.0,
+        "low_price": 2091.0,
+        "close_price": 2103.0,
+        "volume": 45058819.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260113,
+        "open_price": 2213.0,
+        "high_price": 2213.0,
+        "low_price": 2105.0,
+        "close_price": 2155.0,
+        "volume": 19300581.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260112,
+        "open_price": 2150.0,
+        "high_price": 2150.0,
+        "low_price": 2149.0,
+        "close_price": 2150.0,
+        "volume": 69592537.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260111,
+        "open_price": 2100.0,
+        "high_price": 2130.0,
+        "low_price": 2067.0,
+        "close_price": 2088.0,
+        "volume": 23978066.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260110,
+        "open_price": 2130.0,
+        "high_price": 2130.0,
+        "low_price": 2130.0,
+        "close_price": 2130.0,
+        "volume": 38571847.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260107,
+        "open_price": 2250.0,
+        "high_price": 2268.0,
+        "low_price": 2183.0,
+        "close_price": 2195.0,
+        "volume": 14020640.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260106,
+        "open_price": 2259.0,
+        "high_price": 2264.0,
+        "low_price": 2201.0,
+        "close_price": 2250.0,
+        "volume": 21758094.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260105,
+        "open_price": 2152.0,
+        "high_price": 2200.0,
+        "low_price": 2152.0,
+        "close_price": 2199.0,
+        "volume": 64320226.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20260104,
+        "open_price": 2136.0,
+        "high_price": 2176.0,
+        "low_price": 2136.0,
+        "close_price": 2136.0,
+        "volume": 64282620.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251231,
+        "open_price": 2181.0,
+        "high_price": 2273.0,
+        "low_price": 2181.0,
+        "close_price": 2202.0,
+        "volume": 18244716.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251230,
+        "open_price": 2248.0,
+        "high_price": 2248.0,
+        "low_price": 2248.0,
+        "close_price": 2248.0,
+        "volume": 50666655.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251229,
+        "open_price": 2335.0,
+        "high_price": 2388.0,
+        "low_price": 2307.0,
+        "close_price": 2317.0,
+        "volume": 31173943.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251228,
+        "open_price": 2349.0,
+        "high_price": 2418.0,
+        "low_price": 2332.0,
+        "close_price": 2378.0,
+        "volume": 22924626.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251227,
+        "open_price": 2351.0,
+        "high_price": 2352.0,
+        "low_price": 2310.0,
+        "close_price": 2348.0,
+        "volume": 23482129.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251224,
+        "open_price": 2227.0,
+        "high_price": 2284.0,
+        "low_price": 2227.0,
+        "close_price": 2284.0,
+        "volume": 31440613.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251223,
+        "open_price": 2196.0,
+        "high_price": 2228.0,
+        "low_price": 2194.0,
+        "close_price": 2218.0,
+        "volume": 19766822.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251222,
+        "open_price": 2178.0,
+        "high_price": 2204.0,
+        "low_price": 2134.0,
+        "close_price": 2164.0,
+        "volume": 25073914.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251221,
+        "open_price": 2150.0,
+        "high_price": 2199.0,
+        "low_price": 2133.0,
+        "close_price": 2140.0,
+        "volume": 5021338.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251220,
+        "open_price": 2097.0,
+        "high_price": 2141.0,
+        "low_price": 2090.0,
+        "close_price": 2135.0,
+        "volume": 21683644.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251217,
+        "open_price": 2104.0,
+        "high_price": 2104.0,
+        "low_price": 2051.0,
+        "close_price": 2079.0,
+        "volume": 7793767.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251216,
+        "open_price": 2120.0,
+        "high_price": 2154.0,
+        "low_price": 2030.0,
+        "close_price": 2092.0,
+        "volume": 24814956.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251215,
+        "open_price": 2099.0,
+        "high_price": 2140.0,
+        "low_price": 2064.0,
+        "close_price": 2092.0,
+        "volume": 32178801.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251214,
+        "open_price": 2090.0,
+        "high_price": 2130.0,
+        "low_price": 2075.0,
+        "close_price": 2092.0,
+        "volume": 9246036.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251213,
+        "open_price": 2110.0,
+        "high_price": 2110.0,
+        "low_price": 2059.0,
+        "close_price": 2102.0,
+        "volume": 15955543.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251210,
+        "open_price": 2015.0,
+        "high_price": 2057.0,
+        "low_price": 2000.0,
+        "close_price": 2049.0,
+        "volume": 25380279.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251209,
+        "open_price": 2047.0,
+        "high_price": 2047.0,
+        "low_price": 1989.0,
+        "close_price": 1998.0,
+        "volume": 18759252.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251208,
+        "open_price": 2066.0,
+        "high_price": 2066.0,
+        "low_price": 2001.0,
+        "close_price": 2021.0,
+        "volume": 23758946.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251207,
+        "open_price": 2071.0,
+        "high_price": 2071.0,
+        "low_price": 1982.0,
+        "close_price": 2047.0,
+        "volume": 31811996.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251206,
+        "open_price": 2009.0,
+        "high_price": 2013.0,
+        "low_price": 1981.0,
+        "close_price": 2011.0,
+        "volume": 21313585.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251203,
+        "open_price": 1955.0,
+        "high_price": 1955.0,
+        "low_price": 1942.0,
+        "close_price": 1955.0,
+        "volume": 57172377.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251202,
+        "open_price": 1856.0,
+        "high_price": 1900.0,
+        "low_price": 1854.0,
+        "close_price": 1899.0,
+        "volume": 35201048.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251201,
+        "open_price": 1818.0,
+        "high_price": 1848.0,
+        "low_price": 1795.0,
+        "close_price": 1845.0,
+        "volume": 22672329.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251130,
+        "open_price": 1794.0,
+        "high_price": 1819.0,
+        "low_price": 1786.0,
+        "close_price": 1795.0,
+        "volume": 8714685.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251129,
+        "open_price": 1839.0,
+        "high_price": 1844.0,
+        "low_price": 1767.0,
+        "close_price": 1795.0,
+        "volume": 18387715.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251126,
+        "open_price": 1830.0,
+        "high_price": 1845.0,
+        "low_price": 1796.0,
+        "close_price": 1821.0,
+        "volume": 23182823.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251125,
+        "open_price": 1858.0,
+        "high_price": 1882.0,
+        "low_price": 1798.0,
+        "close_price": 1830.0,
+        "volume": 16980462.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251123,
+        "open_price": 1907.0,
+        "high_price": 1907.0,
+        "low_price": 1819.0,
+        "close_price": 1828.0,
+        "volume": 33504661.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251122,
+        "open_price": 1903.0,
+        "high_price": 1903.0,
+        "low_price": 1840.0,
+        "close_price": 1875.0,
+        "volume": 13773809.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251119,
+        "open_price": 1898.0,
+        "high_price": 1910.0,
+        "low_price": 1855.0,
+        "close_price": 1870.0,
+        "volume": 7645366.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251118,
+        "open_price": 1835.0,
+        "high_price": 1870.0,
+        "low_price": 1835.0,
+        "close_price": 1867.0,
+        "volume": 33585138.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251117,
+        "open_price": 1818.0,
+        "high_price": 1818.0,
+        "low_price": 1780.0,
+        "close_price": 1816.0,
+        "volume": 36193239.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251116,
+        "open_price": 1761.0,
+        "high_price": 1767.0,
+        "low_price": 1740.0,
+        "close_price": 1766.0,
+        "volume": 18203698.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251115,
+        "open_price": 1680.0,
+        "high_price": 1717.0,
+        "low_price": 1680.0,
+        "close_price": 1716.0,
+        "volume": 26639923.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251112,
+        "open_price": 1640.0,
+        "high_price": 1680.0,
+        "low_price": 1606.0,
+        "close_price": 1667.0,
+        "volume": 16653140.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251111,
+        "open_price": 1619.0,
+        "high_price": 1658.0,
+        "low_price": 1594.0,
+        "close_price": 1632.0,
+        "volume": 10382413.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251110,
+        "open_price": 1636.0,
+        "high_price": 1636.0,
+        "low_price": 1589.0,
+        "close_price": 1610.0,
+        "volume": 13264422.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251109,
+        "open_price": 1695.0,
+        "high_price": 1695.0,
+        "low_price": 1635.0,
+        "close_price": 1637.0,
+        "volume": 15666336.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251108,
+        "open_price": 1713.0,
+        "high_price": 1714.0,
+        "low_price": 1660.0,
+        "close_price": 1685.0,
+        "volume": 11846450.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251105,
+        "open_price": 1728.0,
+        "high_price": 1740.0,
+        "low_price": 1676.0,
+        "close_price": 1704.0,
+        "volume": 19368911.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251104,
+        "open_price": 1705.0,
+        "high_price": 1759.0,
+        "low_price": 1685.0,
+        "close_price": 1719.0,
+        "volume": 53918797.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251103,
+        "open_price": 1730.0,
+        "high_price": 1762.0,
+        "low_price": 1678.0,
+        "close_price": 1712.0,
+        "volume": 17347146.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251102,
+        "open_price": 1720.0,
+        "high_price": 1732.0,
+        "low_price": 1692.0,
+        "close_price": 1711.0,
+        "volume": 10794937.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251101,
+        "open_price": 1690.0,
+        "high_price": 1741.0,
+        "low_price": 1676.0,
+        "close_price": 1720.0,
+        "volume": 16090006.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251029,
+        "open_price": 1693.0,
+        "high_price": 1740.0,
+        "low_price": 1643.0,
+        "close_price": 1691.0,
+        "volume": 7492194.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251028,
+        "open_price": 1696.0,
+        "high_price": 1696.0,
+        "low_price": 1653.0,
+        "close_price": 1693.0,
+        "volume": 32109177.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251027,
+        "open_price": 1640.0,
+        "high_price": 1649.0,
+        "low_price": 1622.0,
+        "close_price": 1647.0,
+        "volume": 15634885.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251026,
+        "open_price": 1570.0,
+        "high_price": 1602.0,
+        "low_price": 1560.0,
+        "close_price": 1601.0,
+        "volume": 22725316.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251025,
+        "open_price": 1563.0,
+        "high_price": 1563.0,
+        "low_price": 1533.0,
+        "close_price": 1556.0,
+        "volume": 44139365.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251022,
+        "open_price": 1539.0,
+        "high_price": 1555.0,
+        "low_price": 1493.0,
+        "close_price": 1518.0,
+        "volume": 9491669.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251021,
+        "open_price": 1545.0,
+        "high_price": 1569.0,
+        "low_price": 1495.0,
+        "close_price": 1526.0,
+        "volume": 5774331.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251020,
+        "open_price": 1551.0,
+        "high_price": 1560.0,
+        "low_price": 1507.0,
+        "close_price": 1530.0,
+        "volume": 13201244.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251019,
+        "open_price": 1550.0,
+        "high_price": 1578.0,
+        "low_price": 1515.0,
+        "close_price": 1537.0,
+        "volume": 16235996.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251018,
+        "open_price": 1530.0,
+        "high_price": 1540.0,
+        "low_price": 1520.0,
+        "close_price": 1533.0,
+        "volume": 11975673.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251015,
+        "open_price": 1531.0,
+        "high_price": 1534.0,
+        "low_price": 1463.0,
+        "close_price": 1496.0,
+        "volume": 26253816.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251014,
+        "open_price": 1446.0,
+        "high_price": 1490.0,
+        "low_price": 1444.0,
+        "close_price": 1490.0,
+        "volume": 89159963.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251013,
+        "open_price": 1456.0,
+        "high_price": 1456.0,
+        "low_price": 1420.0,
+        "close_price": 1447.0,
+        "volume": 12802185.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251012,
+        "open_price": 1418.0,
+        "high_price": 1426.0,
+        "low_price": 1388.0,
+        "close_price": 1414.0,
+        "volume": 11270803.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251011,
+        "open_price": 1414.0,
+        "high_price": 1414.0,
+        "low_price": 1380.0,
+        "close_price": 1385.0,
+        "volume": 4638984.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251008,
+        "open_price": 1342.0,
+        "high_price": 1375.0,
+        "low_price": 1342.0,
+        "close_price": 1373.0,
+        "volume": 18065615.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251007,
+        "open_price": 1325.0,
+        "high_price": 1358.0,
+        "low_price": 1322.0,
+        "close_price": 1335.0,
+        "volume": 8510685.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251006,
+        "open_price": 1354.0,
+        "high_price": 1354.0,
+        "low_price": 1313.0,
+        "close_price": 1319.0,
+        "volume": 2753332.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251005,
+        "open_price": 1332.0,
+        "high_price": 1332.0,
+        "low_price": 1305.0,
+        "close_price": 1315.0,
+        "volume": 8307492.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251004,
+        "open_price": 1281.0,
+        "high_price": 1322.0,
+        "low_price": 1281.0,
+        "close_price": 1294.0,
+        "volume": 4425607.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20251001,
+        "open_price": 1288.0,
+        "high_price": 1300.0,
+        "low_price": 1263.0,
+        "close_price": 1284.0,
+        "volume": 7971049.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250930,
+        "open_price": 1340.0,
+        "high_price": 1340.0,
+        "low_price": 1273.0,
+        "close_price": 1288.0,
+        "volume": 22551316.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250929,
+        "open_price": 1339.0,
+        "high_price": 1339.0,
+        "low_price": 1339.0,
+        "close_price": 1312.0,
+        "volume": 4479505.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250928,
+        "open_price": 1300.0,
+        "high_price": 1300.0,
+        "low_price": 1300.0,
+        "close_price": 1300.0,
+        "volume": 15793384.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250927,
+        "open_price": 1243.0,
+        "high_price": 1280.0,
+        "low_price": 1240.0,
+        "close_price": 1263.0,
+        "volume": 7957305.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250924,
+        "open_price": 1219.0,
+        "high_price": 1250.0,
+        "low_price": 1215.0,
+        "close_price": 1243.0,
+        "volume": 4770651.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250923,
+        "open_price": 1261.0,
+        "high_price": 1265.0,
+        "low_price": 1239.0,
+        "close_price": 1252.0,
+        "volume": 4004808.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250922,
+        "open_price": 1253.0,
+        "high_price": 1280.0,
+        "low_price": 1237.0,
+        "close_price": 1255.0,
+        "volume": 5198131.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250921,
+        "open_price": 1269.0,
+        "high_price": 1296.0,
+        "low_price": 1253.0,
+        "close_price": 1256.0,
+        "volume": 33798379.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250920,
+        "open_price": 1270.0,
+        "high_price": 1270.0,
+        "low_price": 1270.0,
+        "close_price": 1291.0,
+        "volume": 6567661.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250917,
+        "open_price": 1320.0,
+        "high_price": 1320.0,
+        "low_price": 1284.0,
+        "close_price": 1309.0,
+        "volume": 6282082.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250916,
+        "open_price": 1332.0,
+        "high_price": 1332.0,
+        "low_price": 1294.0,
+        "close_price": 1323.0,
+        "volume": 5647810.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250915,
+        "open_price": 1312.0,
+        "high_price": 1354.0,
+        "low_price": 1300.0,
+        "close_price": 1334.0,
+        "volume": 1690007.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250914,
+        "open_price": 1329.0,
+        "high_price": 1349.0,
+        "low_price": 1327.0,
+        "close_price": 1336.0,
+        "volume": 10094029.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250913,
+        "open_price": 1311.0,
+        "high_price": 1368.0,
+        "low_price": 1293.0,
+        "close_price": 1330.0,
+        "volume": 1643008.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250909,
+        "open_price": 1344.0,
+        "high_price": 1356.0,
+        "low_price": 1314.0,
+        "close_price": 1330.0,
+        "volume": 7705201.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250908,
+        "open_price": 1293.0,
+        "high_price": 1339.0,
+        "low_price": 1293.0,
+        "close_price": 1338.0,
+        "volume": 27944985.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250907,
+        "open_price": 1301.0,
+        "high_price": 1317.0,
+        "low_price": 1293.0,
+        "close_price": 1300.0,
+        "volume": 11505265.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250906,
+        "open_price": 1330.0,
+        "high_price": 1330.0,
+        "low_price": 1292.0,
+        "close_price": 1302.0,
+        "volume": 4652750.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250903,
+        "open_price": 1297.0,
+        "high_price": 1324.0,
+        "low_price": 1297.0,
+        "close_price": 1303.0,
+        "volume": 11375023.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250902,
+        "open_price": 1253.0,
+        "high_price": 1309.0,
+        "low_price": 1253.0,
+        "close_price": 1298.0,
+        "volume": 10639763.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250831,
+        "open_price": 1253.0,
+        "high_price": 1290.0,
+        "low_price": 1253.0,
+        "close_price": 1271.0,
+        "volume": 12007569.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250830,
+        "open_price": 1257.0,
+        "high_price": 1270.0,
+        "low_price": 1256.0,
+        "close_price": 1291.0,
+        "volume": 1102642.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250827,
+        "open_price": 1280.0,
+        "high_price": 1310.0,
+        "low_price": 1259.0,
+        "close_price": 1294.0,
+        "volume": 1658059.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250826,
+        "open_price": 1306.0,
+        "high_price": 1314.0,
+        "low_price": 1284.0,
+        "close_price": 1297.0,
+        "volume": 5853243.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250825,
+        "open_price": 1311.0,
+        "high_price": 1311.0,
+        "low_price": 1287.0,
+        "close_price": 1301.0,
+        "volume": 7025119.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250823,
+        "open_price": 1269.0,
+        "high_price": 1302.0,
+        "low_price": 1268.0,
+        "close_price": 1306.0,
+        "volume": 402091.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250820,
+        "open_price": 1322.0,
+        "high_price": 1335.0,
+        "low_price": 1294.0,
+        "close_price": 1307.0,
+        "volume": 13906643.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250819,
+        "open_price": 1327.0,
+        "high_price": 1330.0,
+        "low_price": 1301.0,
+        "close_price": 1311.0,
+        "volume": 10213652.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250818,
+        "open_price": 1322.0,
+        "high_price": 1333.0,
+        "low_price": 1307.0,
+        "close_price": 1316.0,
+        "volume": 2239955.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250817,
+        "open_price": 1320.0,
+        "high_price": 1341.0,
+        "low_price": 1319.0,
+        "close_price": 1316.0,
+        "volume": 1828679.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250816,
+        "open_price": 1277.0,
+        "high_price": 1337.0,
+        "low_price": 1277.0,
+        "close_price": 1315.0,
+        "volume": 9754053.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250813,
+        "open_price": 1280.0,
+        "high_price": 1280.0,
+        "low_price": 1279.0,
+        "close_price": 1316.0,
+        "volume": 829104.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250812,
+        "open_price": 1282.0,
+        "high_price": 1317.0,
+        "low_price": 1280.0,
+        "close_price": 1318.0,
+        "volume": 378888.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250811,
+        "open_price": 1298.0,
+        "high_price": 1298.0,
+        "low_price": 1283.0,
+        "close_price": 1319.0,
+        "volume": 1015767.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250810,
+        "open_price": 1302.0,
+        "high_price": 1310.0,
+        "low_price": 1294.0,
+        "close_price": 1322.0,
+        "volume": 3965304.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250809,
+        "open_price": 1344.0,
+        "high_price": 1344.0,
+        "low_price": 1310.0,
+        "close_price": 1333.0,
+        "volume": 1248529.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250806,
+        "open_price": 1321.0,
+        "high_price": 1321.0,
+        "low_price": 1304.0,
+        "close_price": 1334.0,
+        "volume": 3568279.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250805,
+        "open_price": 1355.0,
+        "high_price": 1358.0,
+        "low_price": 1326.0,
+        "close_price": 1344.0,
+        "volume": 8189080.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250804,
+        "open_price": 1394.0,
+        "high_price": 1394.0,
+        "low_price": 1341.0,
+        "close_price": 1355.0,
+        "volume": 4962415.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250803,
+        "open_price": 1359.0,
+        "high_price": 1359.0,
+        "low_price": 1354.0,
+        "close_price": 1359.0,
+        "volume": 1937430.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250802,
+        "open_price": 1357.0,
+        "high_price": 1401.0,
+        "low_price": 1341.0,
+        "close_price": 1359.0,
+        "volume": 9762446.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250730,
+        "open_price": 1335.0,
+        "high_price": 1336.0,
+        "low_price": 1335.0,
+        "close_price": 1361.0,
+        "volume": 5188107.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250729,
+        "open_price": 1376.0,
+        "high_price": 1376.0,
+        "low_price": 1376.0,
+        "close_price": 1376.0,
+        "volume": 53371448.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250728,
+        "open_price": 1418.0,
+        "high_price": 1425.0,
+        "low_price": 1418.0,
+        "close_price": 1418.0,
+        "volume": 68310789.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250727,
+        "open_price": 1482.0,
+        "high_price": 1482.0,
+        "low_price": 1433.0,
+        "close_price": 1461.0,
+        "volume": 10589227.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250726,
+        "open_price": 1520.0,
+        "high_price": 1520.0,
+        "low_price": 1442.0,
+        "close_price": 1477.0,
+        "volume": 11435225.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250723,
+        "open_price": 1490.0,
+        "high_price": 1490.0,
+        "low_price": 1446.0,
+        "close_price": 1486.0,
+        "volume": 2234288.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250722,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1522.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250721,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1522.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250720,
+        "open_price": 1530.0,
+        "high_price": 1541.0,
+        "low_price": 1499.0,
+        "close_price": 1522.0,
+        "volume": 14473442.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250719,
+        "open_price": 1498.0,
+        "high_price": 1500.0,
+        "low_price": 1462.0,
+        "close_price": 1497.0,
+        "volume": 17713947.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250716,
+        "open_price": 1444.0,
+        "high_price": 1458.0,
+        "low_price": 1431.0,
+        "close_price": 1457.0,
+        "volume": 15521148.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250715,
+        "open_price": 1416.0,
+        "high_price": 1444.0,
+        "low_price": 1394.0,
+        "close_price": 1416.0,
+        "volume": 38292704.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250714,
+        "open_price": 1390.0,
+        "high_price": 1403.0,
+        "low_price": 1383.0,
+        "close_price": 1402.0,
+        "volume": 24973877.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250713,
+        "open_price": 1367.0,
+        "high_price": 1368.0,
+        "low_price": 1340.0,
+        "close_price": 1363.0,
+        "volume": 31880045.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250712,
+        "open_price": 1345.0,
+        "high_price": 1346.0,
+        "low_price": 1312.0,
+        "close_price": 1329.0,
+        "volume": 18992095.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250709,
+        "open_price": 1292.0,
+        "high_price": 1299.0,
+        "low_price": 1292.0,
+        "close_price": 1307.0,
+        "volume": 8759176.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250708,
+        "open_price": 1326.0,
+        "high_price": 1326.0,
+        "low_price": 1303.0,
+        "close_price": 1331.0,
+        "volume": 4334009.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250707,
+        "open_price": 1371.0,
+        "high_price": 1371.0,
+        "low_price": 1326.0,
+        "close_price": 1343.0,
+        "volume": 11364773.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250702,
+        "open_price": 1325.0,
+        "high_price": 1391.0,
+        "low_price": 1325.0,
+        "close_price": 1358.0,
+        "volume": 12278608.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250701,
+        "open_price": 1363.0,
+        "high_price": 1398.0,
+        "low_price": 1331.0,
+        "close_price": 1352.0,
+        "volume": 35790681.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250630,
+        "open_price": 1369.0,
+        "high_price": 1400.0,
+        "low_price": 1369.0,
+        "close_price": 1372.0,
+        "volume": 29143727.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250629,
+        "open_price": 1409.0,
+        "high_price": 1409.0,
+        "low_price": 1409.0,
+        "close_price": 1411.0,
+        "volume": 13408667.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250628,
+        "open_price": 1422.0,
+        "high_price": 1422.0,
+        "low_price": 1422.0,
+        "close_price": 1452.0,
+        "volume": 4364866.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1465.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1465.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1465.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1465.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1465.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1465.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1465.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1465.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250611,
+        "open_price": 1473.0,
+        "high_price": 1473.0,
+        "low_price": 1431.0,
+        "close_price": 1465.0,
+        "volume": 5588170.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250610,
+        "open_price": 1474.0,
+        "high_price": 1493.0,
+        "low_price": 1443.0,
+        "close_price": 1473.0,
+        "volume": 5837069.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250609,
+        "open_price": 1443.0,
+        "high_price": 1443.0,
+        "low_price": 1443.0,
+        "close_price": 1481.0,
+        "volume": 1895681.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250608,
+        "open_price": 1466.0,
+        "high_price": 1500.0,
+        "low_price": 1448.0,
+        "close_price": 1487.0,
+        "volume": 2653733.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250607,
+        "open_price": 1547.0,
+        "high_price": 1547.0,
+        "low_price": 1474.0,
+        "close_price": 1492.0,
+        "volume": 14341819.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250603,
+        "open_price": 1515.0,
+        "high_price": 1566.0,
+        "low_price": 1500.0,
+        "close_price": 1519.0,
+        "volume": 16692717.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250602,
+        "open_price": 1540.0,
+        "high_price": 1549.0,
+        "low_price": 1505.0,
+        "close_price": 1533.0,
+        "volume": 15592633.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250601,
+        "open_price": 1579.0,
+        "high_price": 1579.0,
+        "low_price": 1537.0,
+        "close_price": 1537.0,
+        "volume": 25597161.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250531,
+        "open_price": 1600.0,
+        "high_price": 1627.0,
+        "low_price": 1550.0,
+        "close_price": 1584.0,
+        "volume": 9713909.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250528,
+        "open_price": 1586.0,
+        "high_price": 1626.0,
+        "low_price": 1586.0,
+        "close_price": 1589.0,
+        "volume": 63599178.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250527,
+        "open_price": 1605.0,
+        "high_price": 1605.0,
+        "low_price": 1605.0,
+        "close_price": 1635.0,
+        "volume": 5483054.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250526,
+        "open_price": 1640.0,
+        "high_price": 1640.0,
+        "low_price": 1640.0,
+        "close_price": 1654.0,
+        "volume": 10181127.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250525,
+        "open_price": 1649.0,
+        "high_price": 1649.0,
+        "low_price": 1649.0,
+        "close_price": 1690.0,
+        "volume": 2878853.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250524,
+        "open_price": 1700.0,
+        "high_price": 1720.0,
+        "low_price": 1700.0,
+        "close_price": 1700.0,
+        "volume": 46965324.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250521,
+        "open_price": 1704.0,
+        "high_price": 1704.0,
+        "low_price": 1704.0,
+        "close_price": 1752.0,
+        "volume": 1139755.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250520,
+        "open_price": 1727.0,
+        "high_price": 1727.0,
+        "low_price": 1727.0,
+        "close_price": 1756.0,
+        "volume": 6339575.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250519,
+        "open_price": 1730.0,
+        "high_price": 1800.0,
+        "low_price": 1724.0,
+        "close_price": 1780.0,
+        "volume": 8021154.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250518,
+        "open_price": 1754.0,
+        "high_price": 1819.0,
+        "low_price": 1746.0,
+        "close_price": 1777.0,
+        "volume": 10233052.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250517,
+        "open_price": 1850.0,
+        "high_price": 1850.0,
+        "low_price": 1748.0,
+        "close_price": 1799.0,
+        "volume": 8887776.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250514,
+        "open_price": 1798.0,
+        "high_price": 1798.0,
+        "low_price": 1768.0,
+        "close_price": 1797.0,
+        "volume": 32887126.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250513,
+        "open_price": 1760.0,
+        "high_price": 1760.0,
+        "low_price": 1720.0,
+        "close_price": 1746.0,
+        "volume": 10441074.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250512,
+        "open_price": 1749.0,
+        "high_price": 1749.0,
+        "low_price": 1749.0,
+        "close_price": 1709.0,
+        "volume": 2840167.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250511,
+        "open_price": 1710.0,
+        "high_price": 1748.0,
+        "low_price": 1680.0,
+        "close_price": 1699.0,
+        "volume": 4796880.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250510,
+        "open_price": 1795.0,
+        "high_price": 1795.0,
+        "low_price": 1701.0,
+        "close_price": 1703.0,
+        "volume": 15797767.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250507,
+        "open_price": 1699.0,
+        "high_price": 1758.0,
+        "low_price": 1699.0,
+        "close_price": 1753.0,
+        "volume": 13334507.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250506,
+        "open_price": 1707.0,
+        "high_price": 1740.0,
+        "low_price": 1686.0,
+        "close_price": 1707.0,
+        "volume": 11675718.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250505,
+        "open_price": 1692.0,
+        "high_price": 1728.0,
+        "low_price": 1690.0,
+        "close_price": 1705.0,
+        "volume": 7964308.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250504,
+        "open_price": 1699.0,
+        "high_price": 1719.0,
+        "low_price": 1675.0,
+        "close_price": 1692.0,
+        "volume": 8228351.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250503,
+        "open_price": 1699.0,
+        "high_price": 1730.0,
+        "low_price": 1699.0,
+        "close_price": 1699.0,
+        "volume": 45636254.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250430,
+        "open_price": 1755.0,
+        "high_price": 1788.0,
+        "low_price": 1706.0,
+        "close_price": 1751.0,
+        "volume": 29678785.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250429,
+        "open_price": 1777.0,
+        "high_price": 1777.0,
+        "low_price": 1695.0,
+        "close_price": 1751.0,
+        "volume": 12654527.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250428,
+        "open_price": 1737.0,
+        "high_price": 1775.0,
+        "low_price": 1737.0,
+        "close_price": 1738.0,
+        "volume": 47310124.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250427,
+        "open_price": 1790.0,
+        "high_price": 1829.0,
+        "low_price": 1790.0,
+        "close_price": 1790.0,
+        "volume": 33285232.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250426,
+        "open_price": 1948.0,
+        "high_price": 1948.0,
+        "low_price": 1836.0,
+        "close_price": 1845.0,
+        "volume": 69459519.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250423,
+        "open_price": 1890.0,
+        "high_price": 1904.0,
+        "low_price": 1818.0,
+        "close_price": 1892.0,
+        "volume": 22812787.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250422,
+        "open_price": 1802.0,
+        "high_price": 1875.0,
+        "low_price": 1802.0,
+        "close_price": 1849.0,
+        "volume": 35442780.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250421,
+        "open_price": 1854.0,
+        "high_price": 1854.0,
+        "low_price": 1780.0,
+        "close_price": 1849.0,
+        "volume": 28188205.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250420,
+        "open_price": 1800.0,
+        "high_price": 1800.0,
+        "low_price": 1800.0,
+        "close_price": 1800.0,
+        "volume": 17039996.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250419,
+        "open_price": 1719.0,
+        "high_price": 1754.0,
+        "low_price": 1703.0,
+        "close_price": 1748.0,
+        "volume": 27102841.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250416,
+        "open_price": 1624.0,
+        "high_price": 1719.0,
+        "low_price": 1624.0,
+        "close_price": 1703.0,
+        "volume": 20948590.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250415,
+        "open_price": 1750.0,
+        "high_price": 1750.0,
+        "low_price": 1666.0,
+        "close_price": 1669.0,
+        "volume": 45259656.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250414,
+        "open_price": 1718.0,
+        "high_price": 1718.0,
+        "low_price": 1676.0,
+        "close_price": 1717.0,
+        "volume": 28865885.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250413,
+        "open_price": 1675.0,
+        "high_price": 1675.0,
+        "low_price": 1675.0,
+        "close_price": 1668.0,
+        "volume": 12085217.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250412,
+        "open_price": 1646.0,
+        "high_price": 1646.0,
+        "low_price": 1600.0,
+        "close_price": 1627.0,
+        "volume": 8347816.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250409,
+        "open_price": 1601.0,
+        "high_price": 1601.0,
+        "low_price": 1556.0,
+        "close_price": 1599.0,
+        "volume": 21423624.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250408,
+        "open_price": 1597.0,
+        "high_price": 1597.0,
+        "low_price": 1597.0,
+        "close_price": 1555.0,
+        "volume": 1144036.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250407,
+        "open_price": 1553.0,
+        "high_price": 1553.0,
+        "low_price": 1508.0,
+        "close_price": 1551.0,
+        "volume": 18387094.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250406,
+        "open_price": 1500.0,
+        "high_price": 1520.0,
+        "low_price": 1500.0,
+        "close_price": 1508.0,
+        "volume": 10195143.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250405,
+        "open_price": 1486.0,
+        "high_price": 1499.0,
+        "low_price": 1457.0,
+        "close_price": 1476.0,
+        "volume": 7573962.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250330,
+        "open_price": 1413.0,
+        "high_price": 1486.0,
+        "low_price": 1413.0,
+        "close_price": 1456.0,
+        "volume": 5888110.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250329,
+        "open_price": 1410.0,
+        "high_price": 1446.0,
+        "low_price": 1405.0,
+        "close_price": 1443.0,
+        "volume": 3827695.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250326,
+        "open_price": 1490.0,
+        "high_price": 1490.0,
+        "low_price": 1410.0,
+        "close_price": 1448.0,
+        "volume": 987858.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250325,
+        "open_price": 1411.0,
+        "high_price": 1491.0,
+        "low_price": 1411.0,
+        "close_price": 1450.0,
+        "volume": 677500.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250318,
+        "open_price": 1458.0,
+        "high_price": 1458.0,
+        "low_price": 1413.0,
+        "close_price": 1450.0,
+        "volume": 2330603.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250317,
+        "open_price": 1467.0,
+        "high_price": 1485.0,
+        "low_price": 1423.0,
+        "close_price": 1456.0,
+        "volume": 2513908.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250316,
+        "open_price": 1480.0,
+        "high_price": 1481.0,
+        "low_price": 1451.0,
+        "close_price": 1457.0,
+        "volume": 6098482.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250315,
+        "open_price": 1450.0,
+        "high_price": 1463.0,
+        "low_price": 1415.0,
+        "close_price": 1438.0,
+        "volume": 5942432.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250312,
+        "open_price": 1386.0,
+        "high_price": 1439.0,
+        "low_price": 1384.0,
+        "close_price": 1421.0,
+        "volume": 2887723.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250311,
+        "open_price": 1408.0,
+        "high_price": 1420.0,
+        "low_price": 1406.0,
+        "close_price": 1426.0,
+        "volume": 7841392.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250310,
+        "open_price": 1446.0,
+        "high_price": 1479.0,
+        "low_price": 1436.0,
+        "close_price": 1449.0,
+        "volume": 7399645.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250309,
+        "open_price": 1446.0,
+        "high_price": 1476.0,
+        "low_price": 1446.0,
+        "close_price": 1446.0,
+        "volume": 34649719.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250308,
+        "open_price": 1482.0,
+        "high_price": 1500.0,
+        "low_price": 1467.0,
+        "close_price": 1490.0,
+        "volume": 6994584.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250305,
+        "open_price": 1491.0,
+        "high_price": 1517.0,
+        "low_price": 1482.0,
+        "close_price": 1512.0,
+        "volume": 5280390.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250304,
+        "open_price": 1506.0,
+        "high_price": 1596.0,
+        "low_price": 1504.0,
+        "close_price": 1527.0,
+        "volume": 9065624.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250303,
+        "open_price": 1549.0,
+        "high_price": 1600.0,
+        "low_price": 1549.0,
+        "close_price": 1550.0,
+        "volume": 19284807.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250302,
+        "open_price": 1554.0,
+        "high_price": 1620.0,
+        "low_price": 1554.0,
+        "close_price": 1596.0,
+        "volume": 6077904.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250301,
+        "open_price": 1600.0,
+        "high_price": 1640.0,
+        "low_price": 1587.0,
+        "close_price": 1598.0,
+        "volume": 16146104.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250226,
+        "open_price": 1670.0,
+        "high_price": 1670.0,
+        "low_price": 1591.0,
+        "close_price": 1636.0,
+        "volume": 22965722.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250225,
+        "open_price": 1643.0,
+        "high_price": 1643.0,
+        "low_price": 1643.0,
+        "close_price": 1629.0,
+        "volume": 9954691.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250224,
+        "open_price": 1607.0,
+        "high_price": 1607.0,
+        "low_price": 1607.0,
+        "close_price": 1596.0,
+        "volume": 10685623.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250223,
+        "open_price": 1599.0,
+        "high_price": 1599.0,
+        "low_price": 1599.0,
+        "close_price": 1561.0,
+        "volume": 2527477.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250222,
+        "open_price": 1571.0,
+        "high_price": 1571.0,
+        "low_price": 1571.0,
+        "close_price": 1553.0,
+        "volume": 8256818.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250219,
+        "open_price": 1555.0,
+        "high_price": 1562.0,
+        "low_price": 1530.0,
+        "close_price": 1526.0,
+        "volume": 3277135.0
+    },
+    {
+        "symbol": "آسیا",
+        "trade_date": 20250218,
+        "open_price": 1519.0,
+        "high_price": 1534.0,
+        "low_price": 1471.0,
+        "close_price": 1517.0,
+        "volume": 10158927.0
+    }
+]

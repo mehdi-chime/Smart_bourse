@@ -1,0 +1,1667 @@
+[
+    {
+        "symbol": "رادان",
+        "trade_date": 20260901,
+        "open_price": 19000.0,
+        "high_price": 19329.0,
+        "low_price": 18700.0,
+        "close_price": 19167.0,
+        "volume": 5094539.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260831,
+        "open_price": 18700.0,
+        "high_price": 18910.0,
+        "low_price": 18610.0,
+        "close_price": 18776.0,
+        "volume": 299236.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260829,
+        "open_price": 18600.0,
+        "high_price": 19060.0,
+        "low_price": 18600.0,
+        "close_price": 18909.0,
+        "volume": 143001.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260826,
+        "open_price": 18411.0,
+        "high_price": 18617.0,
+        "low_price": 18411.0,
+        "close_price": 18515.0,
+        "volume": 7308336.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260825,
+        "open_price": 18200.0,
+        "high_price": 18200.0,
+        "low_price": 17990.0,
+        "close_price": 18123.0,
+        "volume": 6760877.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260824,
+        "open_price": 17801.0,
+        "high_price": 17929.0,
+        "low_price": 17680.0,
+        "close_price": 17825.0,
+        "volume": 1060089.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260823,
+        "open_price": 18142.0,
+        "high_price": 18142.0,
+        "low_price": 17770.0,
+        "close_price": 17882.0,
+        "volume": 664254.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260822,
+        "open_price": 17606.0,
+        "high_price": 17632.0,
+        "low_price": 17110.0,
+        "close_price": 17614.0,
+        "volume": 1353245.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260819,
+        "open_price": 17101.0,
+        "high_price": 17136.0,
+        "low_price": 17070.0,
+        "close_price": 17119.0,
+        "volume": 444519.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260818,
+        "open_price": 17151.0,
+        "high_price": 17229.0,
+        "low_price": 17000.0,
+        "close_price": 17094.0,
+        "volume": 745468.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260817,
+        "open_price": 17069.0,
+        "high_price": 17069.0,
+        "low_price": 17001.0,
+        "close_price": 17069.0,
+        "volume": 689108.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260816,
+        "open_price": 16160.0,
+        "high_price": 16899.0,
+        "low_price": 16160.0,
+        "close_price": 16572.0,
+        "volume": 632602.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260815,
+        "open_price": 16990.0,
+        "high_price": 17300.0,
+        "low_price": 16592.0,
+        "close_price": 16659.0,
+        "volume": 2731256.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260811,
+        "open_price": 17319.0,
+        "high_price": 17319.0,
+        "low_price": 16900.0,
+        "close_price": 17105.0,
+        "volume": 746968.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260810,
+        "open_price": 16789.0,
+        "high_price": 17030.0,
+        "low_price": 16720.0,
+        "close_price": 16815.0,
+        "volume": 911014.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260809,
+        "open_price": 16924.0,
+        "high_price": 16924.0,
+        "low_price": 16599.0,
+        "close_price": 16789.0,
+        "volume": 665627.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260808,
+        "open_price": 16432.0,
+        "high_price": 16432.0,
+        "low_price": 16432.0,
+        "close_price": 16432.0,
+        "volume": 4711367.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260805,
+        "open_price": 15954.0,
+        "high_price": 15954.0,
+        "low_price": 15712.0,
+        "close_price": 15954.0,
+        "volume": 5580826.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260803,
+        "open_price": 15497.0,
+        "high_price": 15497.0,
+        "low_price": 15049.0,
+        "close_price": 15490.0,
+        "volume": 861585.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260802,
+        "open_price": 15133.0,
+        "high_price": 15133.0,
+        "low_price": 15000.0,
+        "close_price": 15046.0,
+        "volume": 759061.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260801,
+        "open_price": 14750.0,
+        "high_price": 14750.0,
+        "low_price": 14610.0,
+        "close_price": 14693.0,
+        "volume": 698851.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260729,
+        "open_price": 14598.0,
+        "high_price": 14699.0,
+        "low_price": 14400.0,
+        "close_price": 14641.0,
+        "volume": 727840.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260728,
+        "open_price": 14560.0,
+        "high_price": 14707.0,
+        "low_price": 14300.0,
+        "close_price": 14598.0,
+        "volume": 8216523.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260727,
+        "open_price": 14183.0,
+        "high_price": 14500.0,
+        "low_price": 14183.0,
+        "close_price": 14279.0,
+        "volume": 130685.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260726,
+        "open_price": 14224.0,
+        "high_price": 14224.0,
+        "low_price": 14150.0,
+        "close_price": 14183.0,
+        "volume": 1816377.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260725,
+        "open_price": 13927.0,
+        "high_price": 13927.0,
+        "low_price": 13701.0,
+        "close_price": 13810.0,
+        "volume": 575292.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260722,
+        "open_price": 14172.0,
+        "high_price": 14172.0,
+        "low_price": 13750.0,
+        "close_price": 13916.0,
+        "volume": 742478.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260721,
+        "open_price": 13524.0,
+        "high_price": 13772.0,
+        "low_price": 13524.0,
+        "close_price": 13760.0,
+        "volume": 2417072.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260720,
+        "open_price": 13514.0,
+        "high_price": 13524.0,
+        "low_price": 13131.0,
+        "close_price": 13371.0,
+        "volume": 3840305.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260719,
+        "open_price": 12709.0,
+        "high_price": 13495.0,
+        "low_price": 12709.0,
+        "close_price": 13131.0,
+        "volume": 5840662.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260718,
+        "open_price": 13102.0,
+        "high_price": 13102.0,
+        "low_price": 13102.0,
+        "close_price": 13102.0,
+        "volume": 4778151.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260715,
+        "open_price": 12958.0,
+        "high_price": 13758.0,
+        "low_price": 12958.0,
+        "close_price": 13507.0,
+        "volume": 432476.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260714,
+        "open_price": 12892.0,
+        "high_price": 13520.0,
+        "low_price": 12892.0,
+        "close_price": 13358.0,
+        "volume": 948512.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260713,
+        "open_price": 13125.0,
+        "high_price": 13390.0,
+        "low_price": 13125.0,
+        "close_price": 13290.0,
+        "volume": 6378073.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260712,
+        "open_price": 13530.0,
+        "high_price": 13530.0,
+        "low_price": 13530.0,
+        "close_price": 13530.0,
+        "volume": 614903.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260711,
+        "open_price": 13807.0,
+        "high_price": 14010.0,
+        "low_price": 13807.0,
+        "close_price": 13948.0,
+        "volume": 390185.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260708,
+        "open_price": 14705.0,
+        "high_price": 14705.0,
+        "low_price": 13849.0,
+        "close_price": 14234.0,
+        "volume": 1970980.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260707,
+        "open_price": 14279.0,
+        "high_price": 14279.0,
+        "low_price": 14250.0,
+        "close_price": 14277.0,
+        "volume": 912613.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260701,
+        "open_price": 13472.0,
+        "high_price": 13865.0,
+        "low_price": 13472.0,
+        "close_price": 13864.0,
+        "volume": 3057776.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260630,
+        "open_price": 13333.0,
+        "high_price": 13559.0,
+        "low_price": 13333.0,
+        "close_price": 13462.0,
+        "volume": 1139843.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260629,
+        "open_price": 13080.0,
+        "high_price": 13342.0,
+        "low_price": 13080.0,
+        "close_price": 13165.0,
+        "volume": 627363.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260628,
+        "open_price": 13116.0,
+        "high_price": 13126.0,
+        "low_price": 13116.0,
+        "close_price": 13116.0,
+        "volume": 626564.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260627,
+        "open_price": 13590.0,
+        "high_price": 13590.0,
+        "low_price": 13370.0,
+        "close_price": 13521.0,
+        "volume": 712870.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260623,
+        "open_price": 13196.0,
+        "high_price": 13196.0,
+        "low_price": 13100.0,
+        "close_price": 13195.0,
+        "volume": 1490434.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260622,
+        "open_price": 12791.0,
+        "high_price": 13555.0,
+        "low_price": 12791.0,
+        "close_price": 12812.0,
+        "volume": 1855971.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260621,
+        "open_price": 13476.0,
+        "high_price": 13476.0,
+        "low_price": 13170.0,
+        "close_price": 13186.0,
+        "volume": 2789175.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260620,
+        "open_price": 14050.0,
+        "high_price": 14244.0,
+        "low_price": 13455.0,
+        "close_price": 13577.0,
+        "volume": 2881070.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260617,
+        "open_price": 13700.0,
+        "high_price": 14250.0,
+        "low_price": 13510.0,
+        "close_price": 13832.0,
+        "volume": 18117166.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260616,
+        "open_price": 13858.0,
+        "high_price": 13858.0,
+        "low_price": 13570.0,
+        "close_price": 13858.0,
+        "volume": 16132213.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260615,
+        "open_price": 13455.0,
+        "high_price": 13455.0,
+        "low_price": 13455.0,
+        "close_price": 13455.0,
+        "volume": 6013176.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260614,
+        "open_price": 13064.0,
+        "high_price": 13064.0,
+        "low_price": 13064.0,
+        "close_price": 13064.0,
+        "volume": 5001400.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260613,
+        "open_price": 12684.0,
+        "high_price": 12684.0,
+        "low_price": 12684.0,
+        "close_price": 12684.0,
+        "volume": 9239442.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260610,
+        "open_price": 12315.0,
+        "high_price": 12315.0,
+        "low_price": 12315.0,
+        "close_price": 12315.0,
+        "volume": 10055000.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260609,
+        "open_price": 11930.0,
+        "high_price": 11957.0,
+        "low_price": 11930.0,
+        "close_price": 11957.0,
+        "volume": 14486731.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260608,
+        "open_price": 11300.0,
+        "high_price": 11900.0,
+        "low_price": 11287.0,
+        "close_price": 11609.0,
+        "volume": 11280866.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260607,
+        "open_price": 11638.0,
+        "high_price": 11649.0,
+        "low_price": 11600.0,
+        "close_price": 11636.0,
+        "volume": 499332.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260606,
+        "open_price": 11200.0,
+        "high_price": 11401.0,
+        "low_price": 11200.0,
+        "close_price": 11310.0,
+        "volume": 1893799.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260603,
+        "open_price": 11421.0,
+        "high_price": 11421.0,
+        "low_price": 11018.0,
+        "close_price": 11105.0,
+        "volume": 8172093.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260602,
+        "open_price": 11093.0,
+        "high_price": 11093.0,
+        "low_price": 11070.0,
+        "close_price": 11089.0,
+        "volume": 15276857.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260601,
+        "open_price": 10774.0,
+        "high_price": 10774.0,
+        "low_price": 10750.0,
+        "close_price": 10770.0,
+        "volume": 2989691.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260531,
+        "open_price": 10461.0,
+        "high_price": 10461.0,
+        "low_price": 10461.0,
+        "close_price": 10461.0,
+        "volume": 5001688.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260530,
+        "open_price": 10157.0,
+        "high_price": 10157.0,
+        "low_price": 10157.0,
+        "close_price": 10157.0,
+        "volume": 1190426.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260526,
+        "open_price": 9750.0,
+        "high_price": 9886.0,
+        "low_price": 9750.0,
+        "close_price": 9862.0,
+        "volume": 23911.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260525,
+        "open_price": 9603.0,
+        "high_price": 9603.0,
+        "low_price": 9580.0,
+        "close_price": 9599.0,
+        "volume": 588356.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260524,
+        "open_price": 9324.0,
+        "high_price": 9324.0,
+        "low_price": 9324.0,
+        "close_price": 9324.0,
+        "volume": 4755310.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260523,
+        "open_price": 8830.0,
+        "high_price": 9056.0,
+        "low_price": 8830.0,
+        "close_price": 9053.0,
+        "volume": 354181.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260520,
+        "open_price": 8360.0,
+        "high_price": 8795.0,
+        "low_price": 8360.0,
+        "close_price": 8793.0,
+        "volume": 2126650.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260519,
+        "open_price": 8458.0,
+        "high_price": 8950.0,
+        "low_price": 8458.0,
+        "close_price": 8539.0,
+        "volume": 624339.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8719.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260225,
+        "open_price": 8410.0,
+        "high_price": 8750.0,
+        "low_price": 8410.0,
+        "close_price": 8719.0,
+        "volume": 4375842.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260224,
+        "open_price": 8410.0,
+        "high_price": 8720.0,
+        "low_price": 8410.0,
+        "close_price": 8633.0,
+        "volume": 4095.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260223,
+        "open_price": 8503.0,
+        "high_price": 8670.0,
+        "low_price": 8503.0,
+        "close_price": 8603.0,
+        "volume": 44033.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260222,
+        "open_price": 8700.0,
+        "high_price": 9010.0,
+        "low_price": 8576.0,
+        "close_price": 8661.0,
+        "volume": 86593.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260221,
+        "open_price": 8860.0,
+        "high_price": 9120.0,
+        "low_price": 8840.0,
+        "close_price": 8840.0,
+        "volume": 294356.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260218,
+        "open_price": 9430.0,
+        "high_price": 9430.0,
+        "low_price": 9010.0,
+        "close_price": 9110.0,
+        "volume": 53698.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260217,
+        "open_price": 9190.0,
+        "high_price": 9190.0,
+        "low_price": 8990.0,
+        "close_price": 9180.0,
+        "volume": 6456451.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260216,
+        "open_price": 9030.0,
+        "high_price": 9400.0,
+        "low_price": 9030.0,
+        "close_price": 9190.0,
+        "volume": 4965.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260215,
+        "open_price": 9350.0,
+        "high_price": 9510.0,
+        "low_price": 9200.0,
+        "close_price": 9230.0,
+        "volume": 281102.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260214,
+        "open_price": 9610.0,
+        "high_price": 9610.0,
+        "low_price": 9380.0,
+        "close_price": 9480.0,
+        "volume": 34683.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260210,
+        "open_price": 9330.0,
+        "high_price": 9580.0,
+        "low_price": 9330.0,
+        "close_price": 9470.0,
+        "volume": 87073.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260209,
+        "open_price": 9480.0,
+        "high_price": 9690.0,
+        "low_price": 9370.0,
+        "close_price": 9440.0,
+        "volume": 85177.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260208,
+        "open_price": 9710.0,
+        "high_price": 9860.0,
+        "low_price": 9540.0,
+        "close_price": 9610.0,
+        "volume": 5749497.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260207,
+        "open_price": 9700.0,
+        "high_price": 9760.0,
+        "low_price": 9610.0,
+        "close_price": 9750.0,
+        "volume": 303766.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260203,
+        "open_price": 9590.0,
+        "high_price": 9590.0,
+        "low_price": 9460.0,
+        "close_price": 9480.0,
+        "volume": 3751321.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260202,
+        "open_price": 9430.0,
+        "high_price": 9680.0,
+        "low_price": 9430.0,
+        "close_price": 9580.0,
+        "volume": 96894.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260201,
+        "open_price": 9360.0,
+        "high_price": 9690.0,
+        "low_price": 9360.0,
+        "close_price": 9530.0,
+        "volume": 315147.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260131,
+        "open_price": 9660.0,
+        "high_price": 9760.0,
+        "low_price": 9420.0,
+        "close_price": 9520.0,
+        "volume": 260609.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260128,
+        "open_price": 9650.0,
+        "high_price": 9790.0,
+        "low_price": 9650.0,
+        "close_price": 9700.0,
+        "volume": 276422.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260127,
+        "open_price": 9760.0,
+        "high_price": 9790.0,
+        "low_price": 9650.0,
+        "close_price": 9710.0,
+        "volume": 298538.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260126,
+        "open_price": 10300.0,
+        "high_price": 10300.0,
+        "low_price": 9830.0,
+        "close_price": 9900.0,
+        "volume": 417304.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260125,
+        "open_price": 10220.0,
+        "high_price": 10230.0,
+        "low_price": 10090.0,
+        "close_price": 10110.0,
+        "volume": 1441303.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260124,
+        "open_price": 10520.0,
+        "high_price": 10520.0,
+        "low_price": 10360.0,
+        "close_price": 10400.0,
+        "volume": 295604.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260121,
+        "open_price": 10430.0,
+        "high_price": 10500.0,
+        "low_price": 10360.0,
+        "close_price": 10410.0,
+        "volume": 681893.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260120,
+        "open_price": 10340.0,
+        "high_price": 10360.0,
+        "low_price": 10270.0,
+        "close_price": 10310.0,
+        "volume": 345827.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260119,
+        "open_price": 10400.0,
+        "high_price": 10530.0,
+        "low_price": 10210.0,
+        "close_price": 10330.0,
+        "volume": 1233761.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260118,
+        "open_price": 10220.0,
+        "high_price": 10570.0,
+        "low_price": 10220.0,
+        "close_price": 10470.0,
+        "volume": 496042.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260114,
+        "open_price": 10650.0,
+        "high_price": 10650.0,
+        "low_price": 10350.0,
+        "close_price": 10430.0,
+        "volume": 147479.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260113,
+        "open_price": 10550.0,
+        "high_price": 10590.0,
+        "low_price": 10370.0,
+        "close_price": 10450.0,
+        "volume": 1206179.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260112,
+        "open_price": 10400.0,
+        "high_price": 10510.0,
+        "low_price": 10390.0,
+        "close_price": 10470.0,
+        "volume": 495766.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260111,
+        "open_price": 10280.0,
+        "high_price": 10500.0,
+        "low_price": 10280.0,
+        "close_price": 10360.0,
+        "volume": 1321876.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260110,
+        "open_price": 10400.0,
+        "high_price": 10540.0,
+        "low_price": 10210.0,
+        "close_price": 10420.0,
+        "volume": 735158.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260107,
+        "open_price": 10450.0,
+        "high_price": 10550.0,
+        "low_price": 10410.0,
+        "close_price": 10460.0,
+        "volume": 5241668.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260106,
+        "open_price": 10380.0,
+        "high_price": 10430.0,
+        "low_price": 10320.0,
+        "close_price": 10390.0,
+        "volume": 4848932.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260105,
+        "open_price": 10290.0,
+        "high_price": 10380.0,
+        "low_price": 10210.0,
+        "close_price": 10270.0,
+        "volume": 3388949.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20260104,
+        "open_price": 10250.0,
+        "high_price": 10250.0,
+        "low_price": 10030.0,
+        "close_price": 10150.0,
+        "volume": 18240043.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20251231,
+        "open_price": 10070.0,
+        "high_price": 10250.0,
+        "low_price": 10070.0,
+        "close_price": 10210.0,
+        "volume": 1272596.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20251230,
+        "open_price": 10080.0,
+        "high_price": 10200.0,
+        "low_price": 10080.0,
+        "close_price": 10130.0,
+        "volume": 3079374.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20251229,
+        "open_price": 10480.0,
+        "high_price": 10480.0,
+        "low_price": 10230.0,
+        "close_price": 10320.0,
+        "volume": 497901.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20251228,
+        "open_price": 10330.0,
+        "high_price": 10400.0,
+        "low_price": 10320.0,
+        "close_price": 10370.0,
+        "volume": 1733985.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20251227,
+        "open_price": 10360.0,
+        "high_price": 10470.0,
+        "low_price": 10360.0,
+        "close_price": 10410.0,
+        "volume": 1965270.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20251224,
+        "open_price": 10300.0,
+        "high_price": 10450.0,
+        "low_price": 10300.0,
+        "close_price": 10350.0,
+        "volume": 7943015.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20251223,
+        "open_price": 10300.0,
+        "high_price": 10330.0,
+        "low_price": 10230.0,
+        "close_price": 10270.0,
+        "volume": 1648708.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20251222,
+        "open_price": 10350.0,
+        "high_price": 10360.0,
+        "low_price": 10210.0,
+        "close_price": 10290.0,
+        "volume": 3885864.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20251221,
+        "open_price": 10430.0,
+        "high_price": 10430.0,
+        "low_price": 10300.0,
+        "close_price": 10340.0,
+        "volume": 12515479.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20251220,
+        "open_price": 10400.0,
+        "high_price": 10520.0,
+        "low_price": 10210.0,
+        "close_price": 10340.0,
+        "volume": 13276931.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20251217,
+        "open_price": 10210.0,
+        "high_price": 10300.0,
+        "low_price": 10190.0,
+        "close_price": 10220.0,
+        "volume": 16358835.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20251216,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20251215,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20251214,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20251213,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20251210,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20251209,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20251208,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20251207,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20251206,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20251203,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20251202,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20251201,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20251130,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20251129,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20251126,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20251125,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20251123,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20251122,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20251119,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "رادان",
+        "trade_date": 20251118,
+        "open_price": 10000.0,
+        "high_price": 10000.0,
+        "low_price": 10000.0,
+        "close_price": 10000.0,
+        "volume": 198000000.0
+    }
+]

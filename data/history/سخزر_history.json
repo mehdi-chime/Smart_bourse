@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260901,
+        "open_price": 6250.0,
+        "high_price": 6250.0,
+        "low_price": 5890.0,
+        "close_price": 6170.0,
+        "volume": 90376632.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260831,
+        "open_price": 6070.0,
+        "high_price": 6070.0,
+        "low_price": 6040.0,
+        "close_price": 6070.0,
+        "volume": 39666647.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260829,
+        "open_price": 5900.0,
+        "high_price": 5900.0,
+        "low_price": 5800.0,
+        "close_price": 5900.0,
+        "volume": 19592979.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260826,
+        "open_price": 5700.0,
+        "high_price": 5740.0,
+        "low_price": 5610.0,
+        "close_price": 5730.0,
+        "volume": 19549834.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260825,
+        "open_price": 5440.0,
+        "high_price": 5600.0,
+        "low_price": 5440.0,
+        "close_price": 5580.0,
+        "volume": 31070909.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260824,
+        "open_price": 5600.0,
+        "high_price": 5650.0,
+        "low_price": 5390.0,
+        "close_price": 5440.0,
+        "volume": 36052627.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260823,
+        "open_price": 5570.0,
+        "high_price": 5580.0,
+        "low_price": 5310.0,
+        "close_price": 5550.0,
+        "volume": 49210708.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260822,
+        "open_price": 5430.0,
+        "high_price": 5510.0,
+        "low_price": 5350.0,
+        "close_price": 5420.0,
+        "volume": 21270728.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260819,
+        "open_price": 5280.0,
+        "high_price": 5430.0,
+        "low_price": 5150.0,
+        "close_price": 5350.0,
+        "volume": 17614020.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260818,
+        "open_price": 5400.0,
+        "high_price": 5410.0,
+        "low_price": 5240.0,
+        "close_price": 5280.0,
+        "volume": 40730532.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260817,
+        "open_price": 5240.0,
+        "high_price": 5430.0,
+        "low_price": 5230.0,
+        "close_price": 5400.0,
+        "volume": 31963292.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260816,
+        "open_price": 5100.0,
+        "high_price": 5360.0,
+        "low_price": 5100.0,
+        "close_price": 5280.0,
+        "volume": 24718182.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260815,
+        "open_price": 5270.0,
+        "high_price": 5340.0,
+        "low_price": 5200.0,
+        "close_price": 5210.0,
+        "volume": 43012377.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260811,
+        "open_price": 5590.0,
+        "high_price": 5610.0,
+        "low_price": 5330.0,
+        "close_price": 5360.0,
+        "volume": 58799992.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260810,
+        "open_price": 5470.0,
+        "high_price": 5670.0,
+        "low_price": 5470.0,
+        "close_price": 5490.0,
+        "volume": 92819170.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260809,
+        "open_price": 5860.0,
+        "high_price": 5860.0,
+        "low_price": 5520.0,
+        "close_price": 5630.0,
+        "volume": 69692688.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260808,
+        "open_price": 5690.0,
+        "high_price": 5690.0,
+        "low_price": 5690.0,
+        "close_price": 5690.0,
+        "volume": 17783480.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260805,
+        "open_price": 5530.0,
+        "high_price": 5530.0,
+        "low_price": 5530.0,
+        "close_price": 5530.0,
+        "volume": 29645875.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260803,
+        "open_price": 5370.0,
+        "high_price": 5370.0,
+        "low_price": 5370.0,
+        "close_price": 5370.0,
+        "volume": 23709380.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260802,
+        "open_price": 5220.0,
+        "high_price": 5220.0,
+        "low_price": 5220.0,
+        "close_price": 5220.0,
+        "volume": 13252410.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260801,
+        "open_price": 5070.0,
+        "high_price": 5070.0,
+        "low_price": 5010.0,
+        "close_price": 5070.0,
+        "volume": 45594723.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260729,
+        "open_price": 4860.0,
+        "high_price": 5090.0,
+        "low_price": 4810.0,
+        "close_price": 4930.0,
+        "volume": 50279956.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260728,
+        "open_price": 4980.0,
+        "high_price": 5000.0,
+        "low_price": 4790.0,
+        "close_price": 4950.0,
+        "volume": 30986457.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260727,
+        "open_price": 5020.0,
+        "high_price": 5020.0,
+        "low_price": 4740.0,
+        "close_price": 4860.0,
+        "volume": 52367820.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260726,
+        "open_price": 4880.0,
+        "high_price": 4880.0,
+        "low_price": 4830.0,
+        "close_price": 4880.0,
+        "volume": 33317289.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260725,
+        "open_price": 4700.0,
+        "high_price": 4750.0,
+        "low_price": 4600.0,
+        "close_price": 4740.0,
+        "volume": 89936393.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260722,
+        "open_price": 4640.0,
+        "high_price": 4640.0,
+        "low_price": 4510.0,
+        "close_price": 4620.0,
+        "volume": 76246540.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260721,
+        "open_price": 4510.0,
+        "high_price": 4510.0,
+        "low_price": 4510.0,
+        "close_price": 4510.0,
+        "volume": 10505164.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260720,
+        "open_price": 4380.0,
+        "high_price": 4380.0,
+        "low_price": 4380.0,
+        "close_price": 4380.0,
+        "volume": 5065108.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260719,
+        "open_price": 4210.0,
+        "high_price": 4390.0,
+        "low_price": 4210.0,
+        "close_price": 4260.0,
+        "volume": 37504142.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260718,
+        "open_price": 4440.0,
+        "high_price": 4440.0,
+        "low_price": 4320.0,
+        "close_price": 4330.0,
+        "volume": 13489159.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260715,
+        "open_price": 4450.0,
+        "high_price": 4450.0,
+        "low_price": 4450.0,
+        "close_price": 4450.0,
+        "volume": 18654846.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260714,
+        "open_price": 4220.0,
+        "high_price": 4480.0,
+        "low_price": 4220.0,
+        "close_price": 4330.0,
+        "volume": 75006582.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260713,
+        "open_price": 4350.0,
+        "high_price": 4350.0,
+        "low_price": 4350.0,
+        "close_price": 4350.0,
+        "volume": 5297023.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260712,
+        "open_price": 4480.0,
+        "high_price": 4480.0,
+        "low_price": 4480.0,
+        "close_price": 4480.0,
+        "volume": 3328492.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260711,
+        "open_price": 4610.0,
+        "high_price": 4620.0,
+        "low_price": 4610.0,
+        "close_price": 4610.0,
+        "volume": 11271769.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260708,
+        "open_price": 4750.0,
+        "high_price": 4810.0,
+        "low_price": 4750.0,
+        "close_price": 4750.0,
+        "volume": 39088161.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260707,
+        "open_price": 4930.0,
+        "high_price": 4950.0,
+        "low_price": 4710.0,
+        "close_price": 4890.0,
+        "volume": 36528334.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260701,
+        "open_price": 4800.0,
+        "high_price": 4880.0,
+        "low_price": 4630.0,
+        "close_price": 4810.0,
+        "volume": 49895099.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260630,
+        "open_price": 4600.0,
+        "high_price": 4760.0,
+        "low_price": 4600.0,
+        "close_price": 4740.0,
+        "volume": 78595810.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260629,
+        "open_price": 4600.0,
+        "high_price": 4790.0,
+        "low_price": 4600.0,
+        "close_price": 4630.0,
+        "volume": 205600476.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260628,
+        "open_price": 4740.0,
+        "high_price": 4740.0,
+        "low_price": 4740.0,
+        "close_price": 4740.0,
+        "volume": 4455886.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260627,
+        "open_price": 4880.0,
+        "high_price": 4880.0,
+        "low_price": 4880.0,
+        "close_price": 4880.0,
+        "volume": 9728465.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260623,
+        "open_price": 5030.0,
+        "high_price": 5030.0,
+        "low_price": 5030.0,
+        "close_price": 5030.0,
+        "volume": 11146705.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260622,
+        "open_price": 5180.0,
+        "high_price": 5180.0,
+        "low_price": 5180.0,
+        "close_price": 5180.0,
+        "volume": 2854714.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260621,
+        "open_price": 5340.0,
+        "high_price": 5340.0,
+        "low_price": 5340.0,
+        "close_price": 5340.0,
+        "volume": 2828531.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260620,
+        "open_price": 5500.0,
+        "high_price": 5500.0,
+        "low_price": 5500.0,
+        "close_price": 5500.0,
+        "volume": 6288570.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260617,
+        "open_price": 5670.0,
+        "high_price": 5670.0,
+        "low_price": 5670.0,
+        "close_price": 5670.0,
+        "volume": 7583143.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260616,
+        "open_price": 6100.0,
+        "high_price": 6100.0,
+        "low_price": 5760.0,
+        "close_price": 5840.0,
+        "volume": 125941634.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260615,
+        "open_price": 5930.0,
+        "high_price": 5930.0,
+        "low_price": 5930.0,
+        "close_price": 5930.0,
+        "volume": 6936726.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260614,
+        "open_price": 5760.0,
+        "high_price": 5760.0,
+        "low_price": 5760.0,
+        "close_price": 5760.0,
+        "volume": 7641013.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260613,
+        "open_price": 5600.0,
+        "high_price": 5600.0,
+        "low_price": 5600.0,
+        "close_price": 5600.0,
+        "volume": 18615620.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260610,
+        "open_price": 5440.0,
+        "high_price": 5440.0,
+        "low_price": 5360.0,
+        "close_price": 5440.0,
+        "volume": 58155876.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260609,
+        "open_price": 5290.0,
+        "high_price": 5290.0,
+        "low_price": 5180.0,
+        "close_price": 5290.0,
+        "volume": 22865629.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260608,
+        "open_price": 5140.0,
+        "high_price": 5220.0,
+        "low_price": 5140.0,
+        "close_price": 5140.0,
+        "volume": 50161527.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260607,
+        "open_price": 5240.0,
+        "high_price": 5290.0,
+        "low_price": 5220.0,
+        "close_price": 5290.0,
+        "volume": 35412049.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260606,
+        "open_price": 5260.0,
+        "high_price": 5280.0,
+        "low_price": 5020.0,
+        "close_price": 5140.0,
+        "volume": 63832504.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260603,
+        "open_price": 5120.0,
+        "high_price": 5295.0,
+        "low_price": 4990.0,
+        "close_price": 5171.0,
+        "volume": 93868442.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260602,
+        "open_price": 5187.0,
+        "high_price": 5187.0,
+        "low_price": 4910.0,
+        "close_price": 5144.0,
+        "volume": 60826742.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260601,
+        "open_price": 5057.0,
+        "high_price": 5057.0,
+        "low_price": 4767.0,
+        "close_price": 5036.0,
+        "volume": 119902082.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260531,
+        "open_price": 4910.0,
+        "high_price": 4910.0,
+        "low_price": 4910.0,
+        "close_price": 4910.0,
+        "volume": 6977742.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260530,
+        "open_price": 4767.0,
+        "high_price": 4767.0,
+        "low_price": 4767.0,
+        "close_price": 4767.0,
+        "volume": 21300729.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260526,
+        "open_price": 4650.0,
+        "high_price": 4704.0,
+        "low_price": 4430.0,
+        "close_price": 4629.0,
+        "volume": 105734576.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260525,
+        "open_price": 4573.0,
+        "high_price": 4573.0,
+        "low_price": 4441.0,
+        "close_price": 4567.0,
+        "volume": 120857782.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260524,
+        "open_price": 4440.0,
+        "high_price": 4440.0,
+        "low_price": 4440.0,
+        "close_price": 4440.0,
+        "volume": 27043469.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260523,
+        "open_price": 4271.0,
+        "high_price": 4399.0,
+        "low_price": 4271.0,
+        "close_price": 4311.0,
+        "volume": 159192398.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260520,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3384.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260519,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3384.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4079.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260225,
+        "open_price": 4070.0,
+        "high_price": 4089.0,
+        "low_price": 3990.0,
+        "close_price": 4079.0,
+        "volume": 5420997.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260224,
+        "open_price": 3946.0,
+        "high_price": 4024.0,
+        "low_price": 3874.0,
+        "close_price": 3970.0,
+        "volume": 7574131.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260223,
+        "open_price": 3930.0,
+        "high_price": 3932.0,
+        "low_price": 3830.0,
+        "close_price": 3907.0,
+        "volume": 6998395.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260222,
+        "open_price": 3794.0,
+        "high_price": 4027.0,
+        "low_price": 3794.0,
+        "close_price": 3818.0,
+        "volume": 14185988.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260221,
+        "open_price": 4112.0,
+        "high_price": 4112.0,
+        "low_price": 3908.0,
+        "close_price": 3911.0,
+        "volume": 4279385.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260218,
+        "open_price": 4100.0,
+        "high_price": 4114.0,
+        "low_price": 3978.0,
+        "close_price": 4028.0,
+        "volume": 9649391.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260217,
+        "open_price": 4060.0,
+        "high_price": 4088.0,
+        "low_price": 3981.0,
+        "close_price": 4041.0,
+        "volume": 3293279.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260216,
+        "open_price": 3941.0,
+        "high_price": 4000.0,
+        "low_price": 3926.0,
+        "close_price": 3970.0,
+        "volume": 3756493.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260215,
+        "open_price": 4052.0,
+        "high_price": 4052.0,
+        "low_price": 3912.0,
+        "close_price": 3939.0,
+        "volume": 15084805.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260214,
+        "open_price": 4034.0,
+        "high_price": 4123.0,
+        "low_price": 3961.0,
+        "close_price": 4032.0,
+        "volume": 15025155.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260210,
+        "open_price": 4026.0,
+        "high_price": 4132.0,
+        "low_price": 3946.0,
+        "close_price": 4003.0,
+        "volume": 25257843.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260209,
+        "open_price": 4131.0,
+        "high_price": 4131.0,
+        "low_price": 4007.0,
+        "close_price": 4030.0,
+        "volume": 22246542.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260208,
+        "open_price": 4263.0,
+        "high_price": 4263.0,
+        "low_price": 4055.0,
+        "close_price": 4130.0,
+        "volume": 27835779.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260207,
+        "open_price": 4138.0,
+        "high_price": 4140.0,
+        "low_price": 4062.0,
+        "close_price": 4139.0,
+        "volume": 5007285.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260203,
+        "open_price": 4191.0,
+        "high_price": 4191.0,
+        "low_price": 4008.0,
+        "close_price": 4020.0,
+        "volume": 32559582.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260202,
+        "open_price": 4074.0,
+        "high_price": 4133.0,
+        "low_price": 4074.0,
+        "close_price": 4131.0,
+        "volume": 14356868.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260201,
+        "open_price": 3880.0,
+        "high_price": 4050.0,
+        "low_price": 3880.0,
+        "close_price": 4013.0,
+        "volume": 16272960.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260131,
+        "open_price": 4071.0,
+        "high_price": 4163.0,
+        "low_price": 3949.0,
+        "close_price": 3968.0,
+        "volume": 21410098.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260128,
+        "open_price": 4045.0,
+        "high_price": 4170.0,
+        "low_price": 4045.0,
+        "close_price": 4071.0,
+        "volume": 46712288.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260127,
+        "open_price": 4170.0,
+        "high_price": 4170.0,
+        "low_price": 4170.0,
+        "close_price": 4170.0,
+        "volume": 10221285.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260126,
+        "open_price": 4298.0,
+        "high_price": 4298.0,
+        "low_price": 4298.0,
+        "close_price": 4298.0,
+        "volume": 3640476.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260125,
+        "open_price": 4430.0,
+        "high_price": 4430.0,
+        "low_price": 4430.0,
+        "close_price": 4430.0,
+        "volume": 6121344.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260124,
+        "open_price": 4750.0,
+        "high_price": 4750.0,
+        "low_price": 4488.0,
+        "close_price": 4567.0,
+        "volume": 36387321.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260121,
+        "open_price": 4626.0,
+        "high_price": 4626.0,
+        "low_price": 4626.0,
+        "close_price": 4626.0,
+        "volume": 21733179.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260120,
+        "open_price": 4537.0,
+        "high_price": 4541.0,
+        "low_price": 4358.0,
+        "close_price": 4492.0,
+        "volume": 17971191.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260119,
+        "open_price": 4494.0,
+        "high_price": 4570.0,
+        "low_price": 4347.0,
+        "close_price": 4409.0,
+        "volume": 24355544.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260118,
+        "open_price": 4450.0,
+        "high_price": 4503.0,
+        "low_price": 4390.0,
+        "close_price": 4481.0,
+        "volume": 19969520.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260114,
+        "open_price": 4399.0,
+        "high_price": 4446.0,
+        "low_price": 4332.0,
+        "close_price": 4372.0,
+        "volume": 47043262.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260113,
+        "open_price": 4559.0,
+        "high_price": 4570.0,
+        "low_price": 4450.0,
+        "close_price": 4465.0,
+        "volume": 23895582.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260112,
+        "open_price": 4530.0,
+        "high_price": 4671.0,
+        "low_price": 4460.0,
+        "close_price": 4587.0,
+        "volume": 25636443.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260111,
+        "open_price": 4526.0,
+        "high_price": 4703.0,
+        "low_price": 4526.0,
+        "close_price": 4535.0,
+        "volume": 93718020.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260110,
+        "open_price": 4665.0,
+        "high_price": 4665.0,
+        "low_price": 4665.0,
+        "close_price": 4665.0,
+        "volume": 4732432.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260107,
+        "open_price": 5000.0,
+        "high_price": 5047.0,
+        "low_price": 4757.0,
+        "close_price": 4809.0,
+        "volume": 16375811.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260106,
+        "open_price": 4826.0,
+        "high_price": 4933.0,
+        "low_price": 4826.0,
+        "close_price": 4904.0,
+        "volume": 46274943.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260105,
+        "open_price": 4640.0,
+        "high_price": 4826.0,
+        "low_price": 4640.0,
+        "close_price": 4790.0,
+        "volume": 36967179.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20260104,
+        "open_price": 4686.0,
+        "high_price": 4691.0,
+        "low_price": 4686.0,
+        "close_price": 4686.0,
+        "volume": 45192236.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251231,
+        "open_price": 4820.0,
+        "high_price": 4930.0,
+        "low_price": 4820.0,
+        "close_price": 4830.0,
+        "volume": 76332441.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251230,
+        "open_price": 4960.0,
+        "high_price": 4960.0,
+        "low_price": 4960.0,
+        "close_price": 4960.0,
+        "volume": 19235348.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251229,
+        "open_price": 5110.0,
+        "high_price": 5190.0,
+        "low_price": 5110.0,
+        "close_price": 5110.0,
+        "volume": 15368320.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251228,
+        "open_price": 5400.0,
+        "high_price": 5400.0,
+        "low_price": 5260.0,
+        "close_price": 5260.0,
+        "volume": 52123346.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251227,
+        "open_price": 5480.0,
+        "high_price": 5480.0,
+        "low_price": 5250.0,
+        "close_price": 5420.0,
+        "volume": 76045842.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251224,
+        "open_price": 5326.0,
+        "high_price": 5326.0,
+        "low_price": 5326.0,
+        "close_price": 5326.0,
+        "volume": 11819048.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251223,
+        "open_price": 5171.0,
+        "high_price": 5171.0,
+        "low_price": 5171.0,
+        "close_price": 5171.0,
+        "volume": 6560379.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251222,
+        "open_price": 5021.0,
+        "high_price": 5021.0,
+        "low_price": 5021.0,
+        "close_price": 5021.0,
+        "volume": 18742354.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251221,
+        "open_price": 4855.0,
+        "high_price": 4908.0,
+        "low_price": 4738.0,
+        "close_price": 4875.0,
+        "volume": 39197353.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251220,
+        "open_price": 4681.0,
+        "high_price": 4779.0,
+        "low_price": 4681.0,
+        "close_price": 4766.0,
+        "volume": 31283751.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251217,
+        "open_price": 4764.0,
+        "high_price": 4764.0,
+        "low_price": 4592.0,
+        "close_price": 4640.0,
+        "volume": 28375518.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251216,
+        "open_price": 4822.0,
+        "high_price": 4822.0,
+        "low_price": 4605.0,
+        "close_price": 4733.0,
+        "volume": 109458683.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251215,
+        "open_price": 4721.0,
+        "high_price": 4721.0,
+        "low_price": 4721.0,
+        "close_price": 4721.0,
+        "volume": 38764117.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251214,
+        "open_price": 4584.0,
+        "high_price": 4584.0,
+        "low_price": 4584.0,
+        "close_price": 4584.0,
+        "volume": 40212269.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251213,
+        "open_price": 4370.0,
+        "high_price": 4454.0,
+        "low_price": 4361.0,
+        "close_price": 4451.0,
+        "volume": 49581334.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251210,
+        "open_price": 4310.0,
+        "high_price": 4396.0,
+        "low_price": 4267.0,
+        "close_price": 4325.0,
+        "volume": 15247813.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251209,
+        "open_price": 4313.0,
+        "high_price": 4313.0,
+        "low_price": 4255.0,
+        "close_price": 4284.0,
+        "volume": 10868716.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251208,
+        "open_price": 4326.0,
+        "high_price": 4343.0,
+        "low_price": 4279.0,
+        "close_price": 4310.0,
+        "volume": 12910552.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251207,
+        "open_price": 4334.0,
+        "high_price": 4360.0,
+        "low_price": 4256.0,
+        "close_price": 4299.0,
+        "volume": 14423541.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251206,
+        "open_price": 4350.0,
+        "high_price": 4353.0,
+        "low_price": 4251.0,
+        "close_price": 4313.0,
+        "volume": 29439494.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251203,
+        "open_price": 4329.0,
+        "high_price": 4344.0,
+        "low_price": 4281.0,
+        "close_price": 4308.0,
+        "volume": 14901010.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251202,
+        "open_price": 4339.0,
+        "high_price": 4339.0,
+        "low_price": 4262.0,
+        "close_price": 4289.0,
+        "volume": 19897634.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251201,
+        "open_price": 4332.0,
+        "high_price": 4360.0,
+        "low_price": 4287.0,
+        "close_price": 4313.0,
+        "volume": 18658194.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251130,
+        "open_price": 4349.0,
+        "high_price": 4349.0,
+        "low_price": 4267.0,
+        "close_price": 4305.0,
+        "volume": 11258016.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251129,
+        "open_price": 4270.0,
+        "high_price": 4340.0,
+        "low_price": 4220.0,
+        "close_price": 4300.0,
+        "volume": 17840491.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251126,
+        "open_price": 4295.0,
+        "high_price": 4350.0,
+        "low_price": 4232.0,
+        "close_price": 4270.0,
+        "volume": 19362214.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251125,
+        "open_price": 4300.0,
+        "high_price": 4308.0,
+        "low_price": 4250.0,
+        "close_price": 4270.0,
+        "volume": 20215959.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251123,
+        "open_price": 4350.0,
+        "high_price": 4350.0,
+        "low_price": 4254.0,
+        "close_price": 4293.0,
+        "volume": 13758551.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251122,
+        "open_price": 4350.0,
+        "high_price": 4350.0,
+        "low_price": 4259.0,
+        "close_price": 4302.0,
+        "volume": 14048807.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251119,
+        "open_price": 4387.0,
+        "high_price": 4387.0,
+        "low_price": 4250.0,
+        "close_price": 4283.0,
+        "volume": 14518786.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251118,
+        "open_price": 4374.0,
+        "high_price": 4440.0,
+        "low_price": 4315.0,
+        "close_price": 4374.0,
+        "volume": 16303041.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251117,
+        "open_price": 4370.0,
+        "high_price": 4424.0,
+        "low_price": 4295.0,
+        "close_price": 4361.0,
+        "volume": 30854039.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251116,
+        "open_price": 4222.0,
+        "high_price": 4329.0,
+        "low_price": 4203.0,
+        "close_price": 4300.0,
+        "volume": 16629508.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251115,
+        "open_price": 4168.0,
+        "high_price": 4229.0,
+        "low_price": 4163.0,
+        "close_price": 4203.0,
+        "volume": 11240683.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251112,
+        "open_price": 4150.0,
+        "high_price": 4198.0,
+        "low_price": 4060.0,
+        "close_price": 4142.0,
+        "volume": 12200376.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251111,
+        "open_price": 4057.0,
+        "high_price": 4140.0,
+        "low_price": 4057.0,
+        "close_price": 4110.0,
+        "volume": 20694435.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251110,
+        "open_price": 4068.0,
+        "high_price": 4122.0,
+        "low_price": 3999.0,
+        "close_price": 4030.0,
+        "volume": 32185110.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251109,
+        "open_price": 4270.0,
+        "high_price": 4270.0,
+        "low_price": 4116.0,
+        "close_price": 4122.0,
+        "volume": 21776515.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251108,
+        "open_price": 4284.0,
+        "high_price": 4310.0,
+        "low_price": 4189.0,
+        "close_price": 4243.0,
+        "volume": 13454709.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251105,
+        "open_price": 4152.0,
+        "high_price": 4280.0,
+        "low_price": 4100.0,
+        "close_price": 4195.0,
+        "volume": 23325704.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251104,
+        "open_price": 4234.0,
+        "high_price": 4290.0,
+        "low_price": 4164.0,
+        "close_price": 4193.0,
+        "volume": 38496461.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251103,
+        "open_price": 4399.0,
+        "high_price": 4399.0,
+        "low_price": 4231.0,
+        "close_price": 4292.0,
+        "volume": 17743841.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251102,
+        "open_price": 4290.0,
+        "high_price": 4400.0,
+        "low_price": 4250.0,
+        "close_price": 4318.0,
+        "volume": 15957432.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251101,
+        "open_price": 4490.0,
+        "high_price": 4509.0,
+        "low_price": 4324.0,
+        "close_price": 4350.0,
+        "volume": 29615495.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251029,
+        "open_price": 4420.0,
+        "high_price": 4506.0,
+        "low_price": 4381.0,
+        "close_price": 4457.0,
+        "volume": 18295292.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251028,
+        "open_price": 4485.0,
+        "high_price": 4610.0,
+        "low_price": 4388.0,
+        "close_price": 4432.0,
+        "volume": 19303618.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251027,
+        "open_price": 4590.0,
+        "high_price": 4641.0,
+        "low_price": 4455.0,
+        "close_price": 4515.0,
+        "volume": 19737917.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251026,
+        "open_price": 4559.0,
+        "high_price": 4681.0,
+        "low_price": 4506.0,
+        "close_price": 4589.0,
+        "volume": 31169530.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251025,
+        "open_price": 4666.0,
+        "high_price": 4690.0,
+        "low_price": 4525.0,
+        "close_price": 4566.0,
+        "volume": 30770687.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251022,
+        "open_price": 4664.0,
+        "high_price": 4664.0,
+        "low_price": 4600.0,
+        "close_price": 4664.0,
+        "volume": 35718060.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251021,
+        "open_price": 4470.0,
+        "high_price": 4547.0,
+        "low_price": 4415.0,
+        "close_price": 4529.0,
+        "volume": 32560493.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251020,
+        "open_price": 4308.0,
+        "high_price": 4466.0,
+        "low_price": 4308.0,
+        "close_price": 4415.0,
+        "volume": 13345912.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251019,
+        "open_price": 4500.0,
+        "high_price": 4509.0,
+        "low_price": 4310.0,
+        "close_price": 4392.0,
+        "volume": 16379371.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251018,
+        "open_price": 4352.0,
+        "high_price": 4429.0,
+        "low_price": 4352.0,
+        "close_price": 4428.0,
+        "volume": 16733663.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251015,
+        "open_price": 4248.0,
+        "high_price": 4350.0,
+        "low_price": 4236.0,
+        "close_price": 4300.0,
+        "volume": 10401938.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251014,
+        "open_price": 4450.0,
+        "high_price": 4489.0,
+        "low_price": 4343.0,
+        "close_price": 4365.0,
+        "volume": 23654332.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251013,
+        "open_price": 4542.0,
+        "high_price": 4542.0,
+        "low_price": 4368.0,
+        "close_price": 4477.0,
+        "volume": 19193033.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251012,
+        "open_price": 4378.0,
+        "high_price": 4438.0,
+        "low_price": 4309.0,
+        "close_price": 4410.0,
+        "volume": 17894973.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251011,
+        "open_price": 4160.0,
+        "high_price": 4316.0,
+        "low_price": 4160.0,
+        "close_price": 4309.0,
+        "volume": 24659987.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251008,
+        "open_price": 4270.0,
+        "high_price": 4353.0,
+        "low_price": 4171.0,
+        "close_price": 4191.0,
+        "volume": 33937152.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251007,
+        "open_price": 4270.0,
+        "high_price": 4402.0,
+        "low_price": 4249.0,
+        "close_price": 4299.0,
+        "volume": 33443314.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251006,
+        "open_price": 4400.0,
+        "high_price": 4471.0,
+        "low_price": 4353.0,
+        "close_price": 4380.0,
+        "volume": 24540115.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251005,
+        "open_price": 4495.0,
+        "high_price": 4532.0,
+        "low_price": 4410.0,
+        "close_price": 4487.0,
+        "volume": 31678197.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251004,
+        "open_price": 4320.0,
+        "high_price": 4408.0,
+        "low_price": 4320.0,
+        "close_price": 4400.0,
+        "volume": 35918194.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20251001,
+        "open_price": 4276.0,
+        "high_price": 4361.0,
+        "low_price": 4276.0,
+        "close_price": 4280.0,
+        "volume": 30742541.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250930,
+        "open_price": 4620.0,
+        "high_price": 4620.0,
+        "low_price": 4375.0,
+        "close_price": 4408.0,
+        "volume": 55156749.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250929,
+        "open_price": 4514.0,
+        "high_price": 4514.0,
+        "low_price": 4469.0,
+        "close_price": 4510.0,
+        "volume": 79331562.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250928,
+        "open_price": 4383.0,
+        "high_price": 4383.0,
+        "low_price": 4383.0,
+        "close_price": 4383.0,
+        "volume": 23098706.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250927,
+        "open_price": 4080.0,
+        "high_price": 4297.0,
+        "low_price": 4080.0,
+        "close_price": 4256.0,
+        "volume": 13380025.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250924,
+        "open_price": 4156.0,
+        "high_price": 4244.0,
+        "low_price": 4156.0,
+        "close_price": 4172.0,
+        "volume": 24559782.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250923,
+        "open_price": 4408.0,
+        "high_price": 4408.0,
+        "low_price": 4240.0,
+        "close_price": 4284.0,
+        "volume": 19854960.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250922,
+        "open_price": 4335.0,
+        "high_price": 4456.0,
+        "low_price": 4280.0,
+        "close_price": 4368.0,
+        "volume": 30608634.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250921,
+        "open_price": 4327.0,
+        "high_price": 4327.0,
+        "low_price": 4327.0,
+        "close_price": 4327.0,
+        "volume": 14411833.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250920,
+        "open_price": 4339.0,
+        "high_price": 4339.0,
+        "low_price": 4339.0,
+        "close_price": 4460.0,
+        "volume": 355810.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250917,
+        "open_price": 4570.0,
+        "high_price": 4590.0,
+        "low_price": 4463.0,
+        "close_price": 4473.0,
+        "volume": 21674897.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250916,
+        "open_price": 4689.0,
+        "high_price": 4689.0,
+        "low_price": 4590.0,
+        "close_price": 4601.0,
+        "volume": 17654798.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250915,
+        "open_price": 4856.0,
+        "high_price": 4896.0,
+        "low_price": 4639.0,
+        "close_price": 4731.0,
+        "volume": 25612048.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250914,
+        "open_price": 4710.0,
+        "high_price": 4792.0,
+        "low_price": 4708.0,
+        "close_price": 4774.0,
+        "volume": 35094414.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250913,
+        "open_price": 4700.0,
+        "high_price": 4700.0,
+        "low_price": 4570.0,
+        "close_price": 4653.0,
+        "volume": 20355876.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250909,
+        "open_price": 4650.0,
+        "high_price": 4700.0,
+        "low_price": 4526.0,
+        "close_price": 4587.0,
+        "volume": 17588491.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250908,
+        "open_price": 4520.0,
+        "high_price": 4603.0,
+        "low_price": 4493.0,
+        "close_price": 4570.0,
+        "volume": 33909268.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250907,
+        "open_price": 4490.0,
+        "high_price": 4512.0,
+        "low_price": 4368.0,
+        "close_price": 4469.0,
+        "volume": 18427496.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250906,
+        "open_price": 4527.0,
+        "high_price": 4527.0,
+        "low_price": 4396.0,
+        "close_price": 4437.0,
+        "volume": 30120568.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250903,
+        "open_price": 4451.0,
+        "high_price": 4606.0,
+        "low_price": 4408.0,
+        "close_price": 4474.0,
+        "volume": 23174161.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250902,
+        "open_price": 4500.0,
+        "high_price": 4530.0,
+        "low_price": 4398.0,
+        "close_price": 4491.0,
+        "volume": 21583677.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250831,
+        "open_price": 4289.0,
+        "high_price": 4500.0,
+        "low_price": 4289.0,
+        "close_price": 4399.0,
+        "volume": 31568433.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250830,
+        "open_price": 4421.0,
+        "high_price": 4421.0,
+        "low_price": 4421.0,
+        "close_price": 4421.0,
+        "volume": 4057311.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250827,
+        "open_price": 4528.0,
+        "high_price": 4571.0,
+        "low_price": 4450.0,
+        "close_price": 4557.0,
+        "volume": 20530659.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250826,
+        "open_price": 4463.0,
+        "high_price": 4539.0,
+        "low_price": 4367.0,
+        "close_price": 4438.0,
+        "volume": 21081054.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250825,
+        "open_price": 4526.0,
+        "high_price": 4636.0,
+        "low_price": 4369.0,
+        "close_price": 4443.0,
+        "volume": 30419792.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250823,
+        "open_price": 4475.0,
+        "high_price": 4512.0,
+        "low_price": 4425.0,
+        "close_price": 4504.0,
+        "volume": 12247403.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250820,
+        "open_price": 4419.0,
+        "high_price": 4419.0,
+        "low_price": 4355.0,
+        "close_price": 4381.0,
+        "volume": 10545273.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250819,
+        "open_price": 4256.0,
+        "high_price": 4430.0,
+        "low_price": 4256.0,
+        "close_price": 4365.0,
+        "volume": 20783450.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250818,
+        "open_price": 4414.0,
+        "high_price": 4414.0,
+        "low_price": 4300.0,
+        "close_price": 4387.0,
+        "volume": 31816545.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250817,
+        "open_price": 4285.0,
+        "high_price": 4286.0,
+        "low_price": 4284.0,
+        "close_price": 4286.0,
+        "volume": 3777893.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250816,
+        "open_price": 4091.0,
+        "high_price": 4297.0,
+        "low_price": 4091.0,
+        "close_price": 4162.0,
+        "volume": 24455960.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250813,
+        "open_price": 4217.0,
+        "high_price": 4217.0,
+        "low_price": 4217.0,
+        "close_price": 4217.0,
+        "volume": 5053611.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250812,
+        "open_price": 4395.0,
+        "high_price": 4485.0,
+        "low_price": 4342.0,
+        "close_price": 4347.0,
+        "volume": 8890783.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250811,
+        "open_price": 4502.0,
+        "high_price": 4600.0,
+        "low_price": 4427.0,
+        "close_price": 4476.0,
+        "volume": 13283563.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250810,
+        "open_price": 4650.0,
+        "high_price": 4658.0,
+        "low_price": 4393.0,
+        "close_price": 4563.0,
+        "volume": 25087319.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250809,
+        "open_price": 4393.0,
+        "high_price": 4525.0,
+        "low_price": 4393.0,
+        "close_price": 4524.0,
+        "volume": 25897101.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250806,
+        "open_price": 4340.0,
+        "high_price": 4458.0,
+        "low_price": 4200.0,
+        "close_price": 4394.0,
+        "volume": 49261096.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250805,
+        "open_price": 4355.0,
+        "high_price": 4355.0,
+        "low_price": 4250.0,
+        "close_price": 4329.0,
+        "volume": 37653610.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250804,
+        "open_price": 4120.0,
+        "high_price": 4249.0,
+        "low_price": 4120.0,
+        "close_price": 4229.0,
+        "volume": 19824954.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250803,
+        "open_price": 4080.0,
+        "high_price": 4208.0,
+        "low_price": 4080.0,
+        "close_price": 4126.0,
+        "volume": 35694743.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250802,
+        "open_price": 4330.0,
+        "high_price": 4330.0,
+        "low_price": 4147.0,
+        "close_price": 4181.0,
+        "volume": 33663538.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250730,
+        "open_price": 4270.0,
+        "high_price": 4388.0,
+        "low_price": 4270.0,
+        "close_price": 4275.0,
+        "volume": 66237832.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250729,
+        "open_price": 4402.0,
+        "high_price": 4402.0,
+        "low_price": 4402.0,
+        "close_price": 4402.0,
+        "volume": 4041501.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250728,
+        "open_price": 4560.0,
+        "high_price": 4570.0,
+        "low_price": 4537.0,
+        "close_price": 4538.0,
+        "volume": 6132582.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250727,
+        "open_price": 4750.0,
+        "high_price": 4833.0,
+        "low_price": 4574.0,
+        "close_price": 4677.0,
+        "volume": 51444122.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250726,
+        "open_price": 4721.0,
+        "high_price": 4721.0,
+        "low_price": 4641.0,
+        "close_price": 4715.0,
+        "volume": 101383371.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250723,
+        "open_price": 4599.0,
+        "high_price": 4669.0,
+        "low_price": 4411.0,
+        "close_price": 4584.0,
+        "volume": 108267933.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250722,
+        "open_price": 4539.0,
+        "high_price": 4539.0,
+        "low_price": 4539.0,
+        "close_price": 4539.0,
+        "volume": 94012974.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250721,
+        "open_price": 4407.0,
+        "high_price": 4407.0,
+        "low_price": 4407.0,
+        "close_price": 4407.0,
+        "volume": 23103816.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250720,
+        "open_price": 4279.0,
+        "high_price": 4279.0,
+        "low_price": 4279.0,
+        "close_price": 4279.0,
+        "volume": 4239444.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250719,
+        "open_price": 4134.0,
+        "high_price": 4157.0,
+        "low_price": 4050.0,
+        "close_price": 4155.0,
+        "volume": 9174357.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250716,
+        "open_price": 4055.0,
+        "high_price": 4098.0,
+        "low_price": 3979.0,
+        "close_price": 4036.0,
+        "volume": 34115846.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250715,
+        "open_price": 4033.0,
+        "high_price": 4087.0,
+        "low_price": 3960.0,
+        "close_price": 4015.0,
+        "volume": 38141530.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250714,
+        "open_price": 4160.0,
+        "high_price": 4160.0,
+        "low_price": 3988.0,
+        "close_price": 4032.0,
+        "volume": 20370894.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250713,
+        "open_price": 4180.0,
+        "high_price": 4180.0,
+        "low_price": 3992.0,
+        "close_price": 4044.0,
+        "volume": 39346193.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250712,
+        "open_price": 4126.0,
+        "high_price": 4126.0,
+        "low_price": 4063.0,
+        "close_price": 4115.0,
+        "volume": 9851419.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250709,
+        "open_price": 4012.0,
+        "high_price": 4100.0,
+        "low_price": 4005.0,
+        "close_price": 4006.0,
+        "volume": 27275818.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250708,
+        "open_price": 4234.0,
+        "high_price": 4234.0,
+        "low_price": 3991.0,
+        "close_price": 4128.0,
+        "volume": 14172557.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250707,
+        "open_price": 4111.0,
+        "high_price": 4111.0,
+        "low_price": 4111.0,
+        "close_price": 4111.0,
+        "volume": 12490496.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250702,
+        "open_price": 3962.0,
+        "high_price": 4180.0,
+        "low_price": 3962.0,
+        "close_price": 3992.0,
+        "volume": 77852801.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250701,
+        "open_price": 4026.0,
+        "high_price": 4026.0,
+        "low_price": 4026.0,
+        "close_price": 4084.0,
+        "volume": 1978289.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250630,
+        "open_price": 4089.0,
+        "high_price": 4089.0,
+        "low_price": 4089.0,
+        "close_price": 4150.0,
+        "volume": 1916828.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250629,
+        "open_price": 4215.0,
+        "high_price": 4215.0,
+        "low_price": 4215.0,
+        "close_price": 4215.0,
+        "volume": 5664940.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250628,
+        "open_price": 4345.0,
+        "high_price": 4345.0,
+        "low_price": 4345.0,
+        "close_price": 4345.0,
+        "volume": 4523888.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4479.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4479.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4479.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4479.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4479.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4479.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4479.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4479.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250611,
+        "open_price": 4462.0,
+        "high_price": 4590.0,
+        "low_price": 4424.0,
+        "close_price": 4479.0,
+        "volume": 9803716.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250610,
+        "open_price": 4445.0,
+        "high_price": 4549.0,
+        "low_price": 4421.0,
+        "close_price": 4461.0,
+        "volume": 22585045.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250609,
+        "open_price": 4630.0,
+        "high_price": 4770.0,
+        "low_price": 4536.0,
+        "close_price": 4549.0,
+        "volume": 23792263.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250608,
+        "open_price": 4790.0,
+        "high_price": 4880.0,
+        "low_price": 4630.0,
+        "close_price": 4676.0,
+        "volume": 42489583.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250607,
+        "open_price": 4781.0,
+        "high_price": 4781.0,
+        "low_price": 4700.0,
+        "close_price": 4773.0,
+        "volume": 83061184.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250603,
+        "open_price": 4579.0,
+        "high_price": 4723.0,
+        "low_price": 4468.0,
+        "close_price": 4642.0,
+        "volume": 32400120.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250602,
+        "open_price": 4533.0,
+        "high_price": 4779.0,
+        "low_price": 4533.0,
+        "close_price": 4586.0,
+        "volume": 46546291.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250601,
+        "open_price": 4673.0,
+        "high_price": 4673.0,
+        "low_price": 4673.0,
+        "close_price": 4673.0,
+        "volume": 7664774.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250531,
+        "open_price": 4941.0,
+        "high_price": 4941.0,
+        "low_price": 4807.0,
+        "close_price": 4817.0,
+        "volume": 15383643.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250528,
+        "open_price": 5037.0,
+        "high_price": 5037.0,
+        "low_price": 4825.0,
+        "close_price": 4955.0,
+        "volume": 119970053.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250527,
+        "open_price": 4891.0,
+        "high_price": 4891.0,
+        "low_price": 4891.0,
+        "close_price": 4891.0,
+        "volume": 17113615.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250526,
+        "open_price": 4749.0,
+        "high_price": 4749.0,
+        "low_price": 4749.0,
+        "close_price": 4749.0,
+        "volume": 13643069.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250525,
+        "open_price": 4611.0,
+        "high_price": 4611.0,
+        "low_price": 4611.0,
+        "close_price": 4611.0,
+        "volume": 10069301.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250524,
+        "open_price": 4477.0,
+        "high_price": 4477.0,
+        "low_price": 4477.0,
+        "close_price": 4477.0,
+        "volume": 13152193.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250521,
+        "open_price": 4148.0,
+        "high_price": 4404.0,
+        "low_price": 4148.0,
+        "close_price": 4347.0,
+        "volume": 77369407.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250520,
+        "open_price": 4305.0,
+        "high_price": 4308.0,
+        "low_price": 4112.0,
+        "close_price": 4276.0,
+        "volume": 99381324.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250519,
+        "open_price": 4183.0,
+        "high_price": 4183.0,
+        "low_price": 4121.0,
+        "close_price": 4183.0,
+        "volume": 195493456.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250518,
+        "open_price": 4062.0,
+        "high_price": 4062.0,
+        "low_price": 4062.0,
+        "close_price": 4062.0,
+        "volume": 21039195.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250517,
+        "open_price": 3944.0,
+        "high_price": 3944.0,
+        "low_price": 3944.0,
+        "close_price": 3944.0,
+        "volume": 18460563.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250514,
+        "open_price": 3755.0,
+        "high_price": 3867.0,
+        "low_price": 3755.0,
+        "close_price": 3830.0,
+        "volume": 60687487.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4165.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4165.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4165.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250510,
+        "open_price": 4380.0,
+        "high_price": 4380.0,
+        "low_price": 4147.0,
+        "close_price": 4165.0,
+        "volume": 10408168.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250507,
+        "open_price": 4444.0,
+        "high_price": 4444.0,
+        "low_price": 4201.0,
+        "close_price": 4275.0,
+        "volume": 14117572.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250506,
+        "open_price": 4299.0,
+        "high_price": 4363.0,
+        "low_price": 4260.0,
+        "close_price": 4330.0,
+        "volume": 7106270.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250505,
+        "open_price": 4237.0,
+        "high_price": 4359.0,
+        "low_price": 4178.0,
+        "close_price": 4238.0,
+        "volume": 12657784.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250504,
+        "open_price": 4372.0,
+        "high_price": 4380.0,
+        "low_price": 4251.0,
+        "close_price": 4259.0,
+        "volume": 23781537.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250503,
+        "open_price": 4500.0,
+        "high_price": 4510.0,
+        "low_price": 4263.0,
+        "close_price": 4382.0,
+        "volume": 18942749.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250430,
+        "open_price": 4386.0,
+        "high_price": 4386.0,
+        "low_price": 4315.0,
+        "close_price": 4386.0,
+        "volume": 8742930.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250429,
+        "open_price": 4260.0,
+        "high_price": 4260.0,
+        "low_price": 4220.0,
+        "close_price": 4259.0,
+        "volume": 12981149.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250428,
+        "open_price": 4001.0,
+        "high_price": 4137.0,
+        "low_price": 4001.0,
+        "close_price": 4136.0,
+        "volume": 13600397.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250427,
+        "open_price": 4000.0,
+        "high_price": 4031.0,
+        "low_price": 3891.0,
+        "close_price": 4017.0,
+        "volume": 13911752.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250426,
+        "open_price": 3915.0,
+        "high_price": 3915.0,
+        "low_price": 3863.0,
+        "close_price": 3914.0,
+        "volume": 9698319.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250423,
+        "open_price": 3780.0,
+        "high_price": 3829.0,
+        "low_price": 3698.0,
+        "close_price": 3801.0,
+        "volume": 11238838.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250422,
+        "open_price": 3800.0,
+        "high_price": 3880.0,
+        "low_price": 3673.0,
+        "close_price": 3718.0,
+        "volume": 19370260.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250421,
+        "open_price": 3793.0,
+        "high_price": 3793.0,
+        "low_price": 3700.0,
+        "close_price": 3786.0,
+        "volume": 36471486.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250420,
+        "open_price": 3657.0,
+        "high_price": 3687.0,
+        "low_price": 3650.0,
+        "close_price": 3683.0,
+        "volume": 19839678.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250419,
+        "open_price": 3650.0,
+        "high_price": 3650.0,
+        "low_price": 3502.0,
+        "close_price": 3580.0,
+        "volume": 23346644.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250416,
+        "open_price": 3611.0,
+        "high_price": 3611.0,
+        "low_price": 3570.0,
+        "close_price": 3610.0,
+        "volume": 50081841.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250415,
+        "open_price": 3450.0,
+        "high_price": 3553.0,
+        "low_price": 3450.0,
+        "close_price": 3506.0,
+        "volume": 21988489.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250414,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3151.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3151.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3151.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250409,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3151.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3151.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3151.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3151.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3151.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3151.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3151.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250326,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3151.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3151.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 58610.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 58610.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 58610.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 58610.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250312,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 58610.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250311,
+        "open_price": 59960.0,
+        "high_price": 59980.0,
+        "low_price": 58010.0,
+        "close_price": 58610.0,
+        "volume": 696237.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250310,
+        "open_price": 58120.0,
+        "high_price": 60000.0,
+        "low_price": 58000.0,
+        "close_price": 58520.0,
+        "volume": 232366.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250309,
+        "open_price": 58610.0,
+        "high_price": 60980.0,
+        "low_price": 58610.0,
+        "close_price": 58980.0,
+        "volume": 2537178.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250308,
+        "open_price": 63190.0,
+        "high_price": 63220.0,
+        "low_price": 60130.0,
+        "close_price": 60420.0,
+        "volume": 686540.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250305,
+        "open_price": 63090.0,
+        "high_price": 64670.0,
+        "low_price": 60910.0,
+        "close_price": 61980.0,
+        "volume": 1566021.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250304,
+        "open_price": 63040.0,
+        "high_price": 63050.0,
+        "low_price": 61830.0,
+        "close_price": 62790.0,
+        "volume": 898360.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250303,
+        "open_price": 62920.0,
+        "high_price": 62930.0,
+        "low_price": 61170.0,
+        "close_price": 61220.0,
+        "volume": 403088.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250302,
+        "open_price": 61300.0,
+        "high_price": 63120.0,
+        "low_price": 61300.0,
+        "close_price": 63060.0,
+        "volume": 1815593.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250301,
+        "open_price": 61950.0,
+        "high_price": 62000.0,
+        "low_price": 61010.0,
+        "close_price": 61290.0,
+        "volume": 281200.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250226,
+        "open_price": 61050.0,
+        "high_price": 61400.0,
+        "low_price": 60970.0,
+        "close_price": 61010.0,
+        "volume": 622662.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250225,
+        "open_price": 62500.0,
+        "high_price": 62500.0,
+        "low_price": 60500.0,
+        "close_price": 61080.0,
+        "volume": 644771.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250224,
+        "open_price": 61580.0,
+        "high_price": 63160.0,
+        "low_price": 61580.0,
+        "close_price": 61860.0,
+        "volume": 1359198.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250223,
+        "open_price": 61700.0,
+        "high_price": 63000.0,
+        "low_price": 61430.0,
+        "close_price": 61590.0,
+        "volume": 67460.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250222,
+        "open_price": 63140.0,
+        "high_price": 63140.0,
+        "low_price": 60220.0,
+        "close_price": 61440.0,
+        "volume": 353927.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250219,
+        "open_price": 63170.0,
+        "high_price": 63180.0,
+        "low_price": 61280.0,
+        "close_price": 61560.0,
+        "volume": 65172.0
+    },
+    {
+        "symbol": "سخزر",
+        "trade_date": 20250218,
+        "open_price": 60100.0,
+        "high_price": 61420.0,
+        "low_price": 57910.0,
+        "close_price": 61340.0,
+        "volume": 557504.0
+    }
+]

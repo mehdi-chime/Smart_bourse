@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "دلر",
+        "trade_date": 20260901,
+        "open_price": 25120.0,
+        "high_price": 25880.0,
+        "low_price": 24400.0,
+        "close_price": 24860.0,
+        "volume": 17935876.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260831,
+        "open_price": 25120.0,
+        "high_price": 25620.0,
+        "low_price": 25120.0,
+        "close_price": 25150.0,
+        "volume": 20087126.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260829,
+        "open_price": 26420.0,
+        "high_price": 26420.0,
+        "low_price": 25220.0,
+        "close_price": 25890.0,
+        "volume": 17547443.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260826,
+        "open_price": 25050.0,
+        "high_price": 26250.0,
+        "low_price": 25050.0,
+        "close_price": 25660.0,
+        "volume": 19817089.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260825,
+        "open_price": 25760.0,
+        "high_price": 26380.0,
+        "low_price": 25760.0,
+        "close_price": 25760.0,
+        "volume": 28640575.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260824,
+        "open_price": 26500.0,
+        "high_price": 27190.0,
+        "low_price": 26500.0,
+        "close_price": 26550.0,
+        "volume": 13953816.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260823,
+        "open_price": 28330.0,
+        "high_price": 28330.0,
+        "low_price": 26690.0,
+        "close_price": 27310.0,
+        "volume": 42659483.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260822,
+        "open_price": 27510.0,
+        "high_price": 27510.0,
+        "low_price": 27300.0,
+        "close_price": 27510.0,
+        "volume": 12051278.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260819,
+        "open_price": 26700.0,
+        "high_price": 26740.0,
+        "low_price": 25400.0,
+        "close_price": 26710.0,
+        "volume": 20832769.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260818,
+        "open_price": 25790.0,
+        "high_price": 26100.0,
+        "low_price": 25050.0,
+        "close_price": 25970.0,
+        "volume": 28835833.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260817,
+        "open_price": 25560.0,
+        "high_price": 25560.0,
+        "low_price": 24720.0,
+        "close_price": 25340.0,
+        "volume": 44188394.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260816,
+        "open_price": 24710.0,
+        "high_price": 24830.0,
+        "low_price": 24690.0,
+        "close_price": 24820.0,
+        "volume": 5234702.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260815,
+        "open_price": 24730.0,
+        "high_price": 24930.0,
+        "low_price": 23990.0,
+        "close_price": 24110.0,
+        "volume": 16682768.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260811,
+        "open_price": 25950.0,
+        "high_price": 26000.0,
+        "low_price": 24630.0,
+        "close_price": 24730.0,
+        "volume": 27477153.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260810,
+        "open_price": 24900.0,
+        "high_price": 25490.0,
+        "low_price": 24030.0,
+        "close_price": 25390.0,
+        "volume": 32857260.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260809,
+        "open_price": 25480.0,
+        "high_price": 25480.0,
+        "low_price": 24710.0,
+        "close_price": 24750.0,
+        "volume": 42093277.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260808,
+        "open_price": 25470.0,
+        "high_price": 25470.0,
+        "low_price": 25070.0,
+        "close_price": 25470.0,
+        "volume": 43418189.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260805,
+        "open_price": 24730.0,
+        "high_price": 24730.0,
+        "low_price": 24730.0,
+        "close_price": 24730.0,
+        "volume": 3831442.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260803,
+        "open_price": 24020.0,
+        "high_price": 24020.0,
+        "low_price": 23500.0,
+        "close_price": 24010.0,
+        "volume": 3338076.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260802,
+        "open_price": 23500.0,
+        "high_price": 23500.0,
+        "low_price": 22510.0,
+        "close_price": 23330.0,
+        "volume": 39219252.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260801,
+        "open_price": 22700.0,
+        "high_price": 23390.0,
+        "low_price": 22050.0,
+        "close_price": 22820.0,
+        "volume": 39316794.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260729,
+        "open_price": 22600.0,
+        "high_price": 22900.0,
+        "low_price": 21580.0,
+        "close_price": 22710.0,
+        "volume": 44729297.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260728,
+        "open_price": 22110.0,
+        "high_price": 22350.0,
+        "low_price": 21160.0,
+        "close_price": 22240.0,
+        "volume": 38455180.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260727,
+        "open_price": 21700.0,
+        "high_price": 22000.0,
+        "low_price": 21700.0,
+        "close_price": 21700.0,
+        "volume": 60025654.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260726,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 22370.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260725,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 22370.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260722,
+        "open_price": 22370.0,
+        "high_price": 22370.0,
+        "low_price": 22370.0,
+        "close_price": 22370.0,
+        "volume": 185175.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260721,
+        "open_price": 21720.0,
+        "high_price": 21720.0,
+        "low_price": 21720.0,
+        "close_price": 21720.0,
+        "volume": 782958.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260720,
+        "open_price": 21090.0,
+        "high_price": 21090.0,
+        "low_price": 21090.0,
+        "close_price": 21090.0,
+        "volume": 6427689.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260719,
+        "open_price": 20490.0,
+        "high_price": 20520.0,
+        "low_price": 20020.0,
+        "close_price": 20480.0,
+        "volume": 33798123.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260718,
+        "open_price": 19950.0,
+        "high_price": 19950.0,
+        "low_price": 19370.0,
+        "close_price": 19930.0,
+        "volume": 128613870.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260715,
+        "open_price": 19370.0,
+        "high_price": 19370.0,
+        "low_price": 19370.0,
+        "close_price": 19370.0,
+        "volume": 773572.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260714,
+        "open_price": 18810.0,
+        "high_price": 18810.0,
+        "low_price": 18810.0,
+        "close_price": 18810.0,
+        "volume": 759574.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260713,
+        "open_price": 18270.0,
+        "high_price": 18270.0,
+        "low_price": 18270.0,
+        "close_price": 18270.0,
+        "volume": 3085164.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260712,
+        "open_price": 17740.0,
+        "high_price": 17740.0,
+        "low_price": 17740.0,
+        "close_price": 17740.0,
+        "volume": 7045591.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260711,
+        "open_price": 17230.0,
+        "high_price": 17230.0,
+        "low_price": 17230.0,
+        "close_price": 17230.0,
+        "volume": 820464.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260708,
+        "open_price": 16730.0,
+        "high_price": 16730.0,
+        "low_price": 16730.0,
+        "close_price": 16730.0,
+        "volume": 3968529.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260707,
+        "open_price": 16250.0,
+        "high_price": 16250.0,
+        "low_price": 16250.0,
+        "close_price": 16250.0,
+        "volume": 731764.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260701,
+        "open_price": 15780.0,
+        "high_price": 15780.0,
+        "low_price": 15780.0,
+        "close_price": 15780.0,
+        "volume": 1781180.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260630,
+        "open_price": 15330.0,
+        "high_price": 15330.0,
+        "low_price": 15330.0,
+        "close_price": 15330.0,
+        "volume": 1037156.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260629,
+        "open_price": 14890.0,
+        "high_price": 14890.0,
+        "low_price": 14890.0,
+        "close_price": 14890.0,
+        "volume": 387519.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260628,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 15400.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260627,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 15400.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260623,
+        "open_price": 15400.0,
+        "high_price": 15400.0,
+        "low_price": 15400.0,
+        "close_price": 15400.0,
+        "volume": 3220039.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260622,
+        "open_price": 15220.0,
+        "high_price": 15220.0,
+        "low_price": 14340.0,
+        "close_price": 14960.0,
+        "volume": 59329986.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260621,
+        "open_price": 14780.0,
+        "high_price": 14780.0,
+        "low_price": 14780.0,
+        "close_price": 14780.0,
+        "volume": 13165198.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260620,
+        "open_price": 14350.0,
+        "high_price": 14350.0,
+        "low_price": 14350.0,
+        "close_price": 14350.0,
+        "volume": 1404503.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260617,
+        "open_price": 13940.0,
+        "high_price": 13940.0,
+        "low_price": 13940.0,
+        "close_price": 13940.0,
+        "volume": 983918.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260616,
+        "open_price": 13540.0,
+        "high_price": 13540.0,
+        "low_price": 13540.0,
+        "close_price": 13540.0,
+        "volume": 1417893.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260615,
+        "open_price": 13150.0,
+        "high_price": 13150.0,
+        "low_price": 13150.0,
+        "close_price": 13150.0,
+        "volume": 707901.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260614,
+        "open_price": 12770.0,
+        "high_price": 12770.0,
+        "low_price": 12770.0,
+        "close_price": 12770.0,
+        "volume": 10442546.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260613,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12400.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260610,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12400.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260609,
+        "open_price": 12400.0,
+        "high_price": 12400.0,
+        "low_price": 12400.0,
+        "close_price": 12400.0,
+        "volume": 263156.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260608,
+        "open_price": 12040.0,
+        "high_price": 12040.0,
+        "low_price": 12040.0,
+        "close_price": 12040.0,
+        "volume": 11388966.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260607,
+        "open_price": 11690.0,
+        "high_price": 11690.0,
+        "low_price": 11690.0,
+        "close_price": 11690.0,
+        "volume": 7605975.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260606,
+        "open_price": 11350.0,
+        "high_price": 11350.0,
+        "low_price": 11350.0,
+        "close_price": 11350.0,
+        "volume": 7952729.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260603,
+        "open_price": 11020.0,
+        "high_price": 11020.0,
+        "low_price": 11020.0,
+        "close_price": 11020.0,
+        "volume": 2550681.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260602,
+        "open_price": 10700.0,
+        "high_price": 10700.0,
+        "low_price": 10700.0,
+        "close_price": 10700.0,
+        "volume": 5733409.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260601,
+        "open_price": 10390.0,
+        "high_price": 10390.0,
+        "low_price": 10390.0,
+        "close_price": 10390.0,
+        "volume": 9528288.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260531,
+        "open_price": 10090.0,
+        "high_price": 10090.0,
+        "low_price": 10090.0,
+        "close_price": 10090.0,
+        "volume": 4758937.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260530,
+        "open_price": 9800.0,
+        "high_price": 9800.0,
+        "low_price": 9800.0,
+        "close_price": 9800.0,
+        "volume": 6752657.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260526,
+        "open_price": 9520.0,
+        "high_price": 9520.0,
+        "low_price": 9520.0,
+        "close_price": 9520.0,
+        "volume": 5114572.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260525,
+        "open_price": 9250.0,
+        "high_price": 9250.0,
+        "low_price": 9250.0,
+        "close_price": 9250.0,
+        "volume": 8127000.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260524,
+        "open_price": 8990.0,
+        "high_price": 8990.0,
+        "low_price": 8990.0,
+        "close_price": 8990.0,
+        "volume": 6080733.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260523,
+        "open_price": 8730.0,
+        "high_price": 8730.0,
+        "low_price": 8730.0,
+        "close_price": 8730.0,
+        "volume": 2098476.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260520,
+        "open_price": 8480.0,
+        "high_price": 8480.0,
+        "low_price": 8480.0,
+        "close_price": 8480.0,
+        "volume": 4118845.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260519,
+        "open_price": 8240.0,
+        "high_price": 8240.0,
+        "low_price": 8240.0,
+        "close_price": 8240.0,
+        "volume": 148849.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260225,
+        "open_price": 7990.0,
+        "high_price": 8390.0,
+        "low_price": 7920.0,
+        "close_price": 8000.0,
+        "volume": 1715399.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260224,
+        "open_price": 8010.0,
+        "high_price": 8250.0,
+        "low_price": 8000.0,
+        "close_price": 8160.0,
+        "volume": 1424895.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260223,
+        "open_price": 8400.0,
+        "high_price": 8400.0,
+        "low_price": 8000.0,
+        "close_price": 8180.0,
+        "volume": 1832821.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260222,
+        "open_price": 8140.0,
+        "high_price": 8470.0,
+        "low_price": 8080.0,
+        "close_price": 8180.0,
+        "volume": 1840545.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260221,
+        "open_price": 8140.0,
+        "high_price": 8390.0,
+        "low_price": 8140.0,
+        "close_price": 8230.0,
+        "volume": 2777759.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260218,
+        "open_price": 8780.0,
+        "high_price": 8780.0,
+        "low_price": 8360.0,
+        "close_price": 8390.0,
+        "volume": 1170091.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260217,
+        "open_price": 8790.0,
+        "high_price": 8790.0,
+        "low_price": 8540.0,
+        "close_price": 8610.0,
+        "volume": 439322.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260216,
+        "open_price": 8300.0,
+        "high_price": 8800.0,
+        "low_price": 8300.0,
+        "close_price": 8540.0,
+        "volume": 1206098.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260215,
+        "open_price": 8560.0,
+        "high_price": 8570.0,
+        "low_price": 8550.0,
+        "close_price": 8550.0,
+        "volume": 1807307.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260214,
+        "open_price": 9320.0,
+        "high_price": 9320.0,
+        "low_price": 8780.0,
+        "close_price": 8810.0,
+        "volume": 5096967.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260210,
+        "open_price": 9280.0,
+        "high_price": 9280.0,
+        "low_price": 9040.0,
+        "close_price": 9050.0,
+        "volume": 1658940.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260209,
+        "open_price": 9320.0,
+        "high_price": 9550.0,
+        "low_price": 9310.0,
+        "close_price": 9310.0,
+        "volume": 2338198.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260208,
+        "open_price": 10120.0,
+        "high_price": 10120.0,
+        "low_price": 9540.0,
+        "close_price": 9590.0,
+        "volume": 2051610.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260207,
+        "open_price": 9820.0,
+        "high_price": 9840.0,
+        "low_price": 9570.0,
+        "close_price": 9830.0,
+        "volume": 2931964.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260203,
+        "open_price": 9710.0,
+        "high_price": 9710.0,
+        "low_price": 9270.0,
+        "close_price": 9560.0,
+        "volume": 2195583.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260202,
+        "open_price": 8960.0,
+        "high_price": 9450.0,
+        "low_price": 8960.0,
+        "close_price": 9430.0,
+        "volume": 2109791.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260201,
+        "open_price": 9120.0,
+        "high_price": 9520.0,
+        "low_price": 9120.0,
+        "close_price": 9180.0,
+        "volume": 3860697.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260131,
+        "open_price": 9830.0,
+        "high_price": 9830.0,
+        "low_price": 9300.0,
+        "close_price": 9400.0,
+        "volume": 683636.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260128,
+        "open_price": 9500.0,
+        "high_price": 9900.0,
+        "low_price": 9500.0,
+        "close_price": 9580.0,
+        "volume": 2965165.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260127,
+        "open_price": 9770.0,
+        "high_price": 10300.0,
+        "low_price": 9770.0,
+        "close_price": 9790.0,
+        "volume": 4486168.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260126,
+        "open_price": 10070.0,
+        "high_price": 10070.0,
+        "low_price": 10070.0,
+        "close_price": 10070.0,
+        "volume": 1442303.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260125,
+        "open_price": 10350.0,
+        "high_price": 10940.0,
+        "low_price": 10350.0,
+        "close_price": 10380.0,
+        "volume": 3733769.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260124,
+        "open_price": 11050.0,
+        "high_price": 11050.0,
+        "low_price": 10410.0,
+        "close_price": 10660.0,
+        "volume": 4256543.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260121,
+        "open_price": 10730.0,
+        "high_price": 10730.0,
+        "low_price": 10640.0,
+        "close_price": 10730.0,
+        "volume": 20170568.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260120,
+        "open_price": 9920.0,
+        "high_price": 10430.0,
+        "low_price": 9920.0,
+        "close_price": 10420.0,
+        "volume": 10598353.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260119,
+        "open_price": 10410.0,
+        "high_price": 10410.0,
+        "low_price": 10000.0,
+        "close_price": 10130.0,
+        "volume": 5256217.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260118,
+        "open_price": 9840.0,
+        "high_price": 10400.0,
+        "low_price": 9840.0,
+        "close_price": 10120.0,
+        "volume": 8286488.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260114,
+        "open_price": 10110.0,
+        "high_price": 10120.0,
+        "low_price": 10110.0,
+        "close_price": 10110.0,
+        "volume": 1443481.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260113,
+        "open_price": 10430.0,
+        "high_price": 10430.0,
+        "low_price": 10420.0,
+        "close_price": 10420.0,
+        "volume": 2265163.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260112,
+        "open_price": 10610.0,
+        "high_price": 11000.0,
+        "low_price": 10610.0,
+        "close_price": 10740.0,
+        "volume": 4247183.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260111,
+        "open_price": 11100.0,
+        "high_price": 11190.0,
+        "low_price": 10920.0,
+        "close_price": 10930.0,
+        "volume": 11353523.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260110,
+        "open_price": 11250.0,
+        "high_price": 11260.0,
+        "low_price": 11250.0,
+        "close_price": 11250.0,
+        "volume": 12642372.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260107,
+        "open_price": 12240.0,
+        "high_price": 12240.0,
+        "low_price": 11560.0,
+        "close_price": 11590.0,
+        "volume": 1232757.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260106,
+        "open_price": 11710.0,
+        "high_price": 12290.0,
+        "low_price": 11710.0,
+        "close_price": 11910.0,
+        "volume": 11590800.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260105,
+        "open_price": 12280.0,
+        "high_price": 12380.0,
+        "low_price": 11910.0,
+        "close_price": 12070.0,
+        "volume": 4314005.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20260104,
+        "open_price": 11720.0,
+        "high_price": 12440.0,
+        "low_price": 11720.0,
+        "close_price": 12270.0,
+        "volume": 8401187.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251231,
+        "open_price": 12080.0,
+        "high_price": 12080.0,
+        "low_price": 12070.0,
+        "close_price": 12080.0,
+        "volume": 15890451.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251230,
+        "open_price": 11730.0,
+        "high_price": 11730.0,
+        "low_price": 11730.0,
+        "close_price": 11730.0,
+        "volume": 4049728.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251229,
+        "open_price": 12630.0,
+        "high_price": 12630.0,
+        "low_price": 11910.0,
+        "close_price": 12090.0,
+        "volume": 3818357.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251228,
+        "open_price": 12270.0,
+        "high_price": 12270.0,
+        "low_price": 12190.0,
+        "close_price": 12270.0,
+        "volume": 6336319.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251227,
+        "open_price": 11920.0,
+        "high_price": 11920.0,
+        "low_price": 11680.0,
+        "close_price": 11920.0,
+        "volume": 9790507.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251224,
+        "open_price": 11580.0,
+        "high_price": 11580.0,
+        "low_price": 11580.0,
+        "close_price": 11580.0,
+        "volume": 2240966.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251223,
+        "open_price": 11300.0,
+        "high_price": 11580.0,
+        "low_price": 10940.0,
+        "close_price": 11250.0,
+        "volume": 1292241.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251222,
+        "open_price": 11240.0,
+        "high_price": 11310.0,
+        "low_price": 10840.0,
+        "close_price": 11260.0,
+        "volume": 3123709.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251221,
+        "open_price": 11150.0,
+        "high_price": 11260.0,
+        "low_price": 10960.0,
+        "close_price": 10990.0,
+        "volume": 1177288.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251220,
+        "open_price": 11000.0,
+        "high_price": 11030.0,
+        "low_price": 10870.0,
+        "close_price": 10950.0,
+        "volume": 3127884.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251217,
+        "open_price": 10510.0,
+        "high_price": 10820.0,
+        "low_price": 10230.0,
+        "close_price": 10710.0,
+        "volume": 3277393.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251216,
+        "open_price": 10610.0,
+        "high_price": 10610.0,
+        "low_price": 10150.0,
+        "close_price": 10510.0,
+        "volume": 2725134.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251215,
+        "open_price": 10400.0,
+        "high_price": 10450.0,
+        "low_price": 9900.0,
+        "close_price": 10310.0,
+        "volume": 2493242.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251214,
+        "open_price": 10340.0,
+        "high_price": 10430.0,
+        "low_price": 9990.0,
+        "close_price": 10150.0,
+        "volume": 3892106.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251213,
+        "open_price": 10130.0,
+        "high_price": 10130.0,
+        "low_price": 10130.0,
+        "close_price": 10130.0,
+        "volume": 8551168.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251210,
+        "open_price": 9700.0,
+        "high_price": 9850.0,
+        "low_price": 9680.0,
+        "close_price": 9840.0,
+        "volume": 5368072.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251209,
+        "open_price": 9280.0,
+        "high_price": 9700.0,
+        "low_price": 9280.0,
+        "close_price": 9570.0,
+        "volume": 2370788.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251208,
+        "open_price": 9630.0,
+        "high_price": 9650.0,
+        "low_price": 9290.0,
+        "close_price": 9500.0,
+        "volume": 2742746.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251207,
+        "open_price": 9520.0,
+        "high_price": 9520.0,
+        "low_price": 9400.0,
+        "close_price": 9520.0,
+        "volume": 24687195.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251206,
+        "open_price": 9300.0,
+        "high_price": 9300.0,
+        "low_price": 9300.0,
+        "close_price": 9250.0,
+        "volume": 3016606.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251203,
+        "open_price": 8530.0,
+        "high_price": 9040.0,
+        "low_price": 8530.0,
+        "close_price": 9030.0,
+        "volume": 6761109.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251202,
+        "open_price": 8960.0,
+        "high_price": 8960.0,
+        "low_price": 8690.0,
+        "close_price": 8780.0,
+        "volume": 3949943.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251201,
+        "open_price": 8610.0,
+        "high_price": 8910.0,
+        "low_price": 8500.0,
+        "close_price": 8700.0,
+        "volume": 2202689.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251130,
+        "open_price": 8700.0,
+        "high_price": 8740.0,
+        "low_price": 8600.0,
+        "close_price": 8660.0,
+        "volume": 1496612.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251129,
+        "open_price": 8510.0,
+        "high_price": 8800.0,
+        "low_price": 8500.0,
+        "close_price": 8630.0,
+        "volume": 2148442.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251126,
+        "open_price": 8700.0,
+        "high_price": 8860.0,
+        "low_price": 8610.0,
+        "close_price": 8620.0,
+        "volume": 4624702.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251125,
+        "open_price": 9100.0,
+        "high_price": 9120.0,
+        "low_price": 8630.0,
+        "close_price": 8870.0,
+        "volume": 2446937.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251123,
+        "open_price": 8990.0,
+        "high_price": 9040.0,
+        "low_price": 8520.0,
+        "close_price": 8870.0,
+        "volume": 2260269.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251122,
+        "open_price": 8850.0,
+        "high_price": 9000.0,
+        "low_price": 8620.0,
+        "close_price": 8780.0,
+        "volume": 5806118.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251119,
+        "open_price": 8900.0,
+        "high_price": 8970.0,
+        "low_price": 8650.0,
+        "close_price": 8740.0,
+        "volume": 3648903.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251118,
+        "open_price": 8860.0,
+        "high_price": 8860.0,
+        "low_price": 8620.0,
+        "close_price": 8730.0,
+        "volume": 4323602.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251117,
+        "open_price": 8600.0,
+        "high_price": 8610.0,
+        "low_price": 8410.0,
+        "close_price": 8610.0,
+        "volume": 6644151.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251116,
+        "open_price": 8320.0,
+        "high_price": 8470.0,
+        "low_price": 8060.0,
+        "close_price": 8360.0,
+        "volume": 2165239.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251115,
+        "open_price": 8470.0,
+        "high_price": 8470.0,
+        "low_price": 8020.0,
+        "close_price": 8230.0,
+        "volume": 1439946.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251112,
+        "open_price": 8010.0,
+        "high_price": 8480.0,
+        "low_price": 8010.0,
+        "close_price": 8230.0,
+        "volume": 1149559.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251111,
+        "open_price": 8600.0,
+        "high_price": 8600.0,
+        "low_price": 8210.0,
+        "close_price": 8250.0,
+        "volume": 9052691.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251110,
+        "open_price": 8620.0,
+        "high_price": 8710.0,
+        "low_price": 8390.0,
+        "close_price": 8460.0,
+        "volume": 3384905.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251109,
+        "open_price": 9000.0,
+        "high_price": 9000.0,
+        "low_price": 8620.0,
+        "close_price": 8640.0,
+        "volume": 7609171.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251108,
+        "open_price": 8600.0,
+        "high_price": 9010.0,
+        "low_price": 8600.0,
+        "close_price": 8880.0,
+        "volume": 4106420.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251105,
+        "open_price": 8530.0,
+        "high_price": 8990.0,
+        "low_price": 8510.0,
+        "close_price": 8750.0,
+        "volume": 4390489.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251104,
+        "open_price": 8700.0,
+        "high_price": 8780.0,
+        "low_price": 8600.0,
+        "close_price": 8770.0,
+        "volume": 14057034.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251103,
+        "open_price": 8490.0,
+        "high_price": 8570.0,
+        "low_price": 8400.0,
+        "close_price": 8530.0,
+        "volume": 13164749.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251102,
+        "open_price": 8280.0,
+        "high_price": 8340.0,
+        "low_price": 7880.0,
+        "close_price": 8330.0,
+        "volume": 15375441.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251101,
+        "open_price": 8100.0,
+        "high_price": 8100.0,
+        "low_price": 8000.0,
+        "close_price": 8100.0,
+        "volume": 19540933.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251029,
+        "open_price": 7960.0,
+        "high_price": 7960.0,
+        "low_price": 7730.0,
+        "close_price": 7870.0,
+        "volume": 4074332.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251028,
+        "open_price": 7760.0,
+        "high_price": 7780.0,
+        "low_price": 7560.0,
+        "close_price": 7730.0,
+        "volume": 11124863.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251027,
+        "open_price": 7560.0,
+        "high_price": 7560.0,
+        "low_price": 7460.0,
+        "close_price": 7560.0,
+        "volume": 11587260.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251026,
+        "open_price": 7340.0,
+        "high_price": 7340.0,
+        "low_price": 7340.0,
+        "close_price": 7340.0,
+        "volume": 10501047.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251025,
+        "open_price": 7130.0,
+        "high_price": 7130.0,
+        "low_price": 7130.0,
+        "close_price": 7130.0,
+        "volume": 12156657.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251022,
+        "open_price": 6860.0,
+        "high_price": 6960.0,
+        "low_price": 6620.0,
+        "close_price": 6930.0,
+        "volume": 5816866.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251021,
+        "open_price": 6930.0,
+        "high_price": 6930.0,
+        "low_price": 6600.0,
+        "close_price": 6760.0,
+        "volume": 1531803.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251020,
+        "open_price": 6710.0,
+        "high_price": 6960.0,
+        "low_price": 6690.0,
+        "close_price": 6790.0,
+        "volume": 3499604.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251019,
+        "open_price": 6990.0,
+        "high_price": 6990.0,
+        "low_price": 6720.0,
+        "close_price": 6890.0,
+        "volume": 7267228.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251018,
+        "open_price": 6740.0,
+        "high_price": 6790.0,
+        "low_price": 6680.0,
+        "close_price": 6790.0,
+        "volume": 25117860.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251015,
+        "open_price": 6460.0,
+        "high_price": 6600.0,
+        "low_price": 6220.0,
+        "close_price": 6600.0,
+        "volume": 33728617.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251014,
+        "open_price": 6390.0,
+        "high_price": 6660.0,
+        "low_price": 6350.0,
+        "close_price": 6410.0,
+        "volume": 13397299.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251013,
+        "open_price": 6540.0,
+        "high_price": 6540.0,
+        "low_price": 6500.0,
+        "close_price": 6540.0,
+        "volume": 21424812.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251012,
+        "open_price": 6300.0,
+        "high_price": 6360.0,
+        "low_price": 6240.0,
+        "close_price": 6350.0,
+        "volume": 5297313.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251011,
+        "open_price": 6270.0,
+        "high_price": 6270.0,
+        "low_price": 6080.0,
+        "close_price": 6180.0,
+        "volume": 468832.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251008,
+        "open_price": 6350.0,
+        "high_price": 6350.0,
+        "low_price": 6070.0,
+        "close_price": 6180.0,
+        "volume": 1689846.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251007,
+        "open_price": 6270.0,
+        "high_price": 6350.0,
+        "low_price": 6200.0,
+        "close_price": 6250.0,
+        "volume": 3265659.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251006,
+        "open_price": 6280.0,
+        "high_price": 6320.0,
+        "low_price": 6090.0,
+        "close_price": 6180.0,
+        "volume": 2774968.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251005,
+        "open_price": 6260.0,
+        "high_price": 6260.0,
+        "low_price": 6130.0,
+        "close_price": 6160.0,
+        "volume": 5470835.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251004,
+        "open_price": 6120.0,
+        "high_price": 6150.0,
+        "low_price": 5990.0,
+        "close_price": 6100.0,
+        "volume": 3459358.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20251001,
+        "open_price": 5890.0,
+        "high_price": 6100.0,
+        "low_price": 5890.0,
+        "close_price": 5980.0,
+        "volume": 4277457.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250930,
+        "open_price": 6200.0,
+        "high_price": 6210.0,
+        "low_price": 6030.0,
+        "close_price": 6070.0,
+        "volume": 4005048.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250929,
+        "open_price": 6240.0,
+        "high_price": 6240.0,
+        "low_price": 6110.0,
+        "close_price": 6210.0,
+        "volume": 4416262.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250928,
+        "open_price": 6000.0,
+        "high_price": 6060.0,
+        "low_price": 6000.0,
+        "close_price": 6060.0,
+        "volume": 9093645.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250927,
+        "open_price": 5860.0,
+        "high_price": 5900.0,
+        "low_price": 5820.0,
+        "close_price": 5890.0,
+        "volume": 5973227.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250924,
+        "open_price": 5770.0,
+        "high_price": 5770.0,
+        "low_price": 5610.0,
+        "close_price": 5730.0,
+        "volume": 1343749.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250923,
+        "open_price": 5790.0,
+        "high_price": 5920.0,
+        "low_price": 5750.0,
+        "close_price": 5770.0,
+        "volume": 201120.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250922,
+        "open_price": 5800.0,
+        "high_price": 5900.0,
+        "low_price": 5790.0,
+        "close_price": 5770.0,
+        "volume": 367110.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250921,
+        "open_price": 5760.0,
+        "high_price": 5870.0,
+        "low_price": 5730.0,
+        "close_price": 5760.0,
+        "volume": 4368337.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250920,
+        "open_price": 5830.0,
+        "high_price": 5830.0,
+        "low_price": 5800.0,
+        "close_price": 5900.0,
+        "volume": 1515346.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250917,
+        "open_price": 6020.0,
+        "high_price": 6020.0,
+        "low_price": 5840.0,
+        "close_price": 5970.0,
+        "volume": 1365269.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250916,
+        "open_price": 6150.0,
+        "high_price": 6240.0,
+        "low_price": 5980.0,
+        "close_price": 6020.0,
+        "volume": 3496935.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250915,
+        "open_price": 6200.0,
+        "high_price": 6200.0,
+        "low_price": 6090.0,
+        "close_price": 6160.0,
+        "volume": 4594388.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250914,
+        "open_price": 6110.0,
+        "high_price": 6260.0,
+        "low_price": 6110.0,
+        "close_price": 6160.0,
+        "volume": 1952231.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250913,
+        "open_price": 6130.0,
+        "high_price": 6130.0,
+        "low_price": 6030.0,
+        "close_price": 6080.0,
+        "volume": 112431.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250909,
+        "open_price": 6110.0,
+        "high_price": 6200.0,
+        "low_price": 6040.0,
+        "close_price": 6080.0,
+        "volume": 365473.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250908,
+        "open_price": 6110.0,
+        "high_price": 6120.0,
+        "low_price": 5950.0,
+        "close_price": 6080.0,
+        "volume": 6190069.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250907,
+        "open_price": 5930.0,
+        "high_price": 6090.0,
+        "low_price": 5900.0,
+        "close_price": 5950.0,
+        "volume": 890143.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250906,
+        "open_price": 6050.0,
+        "high_price": 6060.0,
+        "low_price": 5870.0,
+        "close_price": 5940.0,
+        "volume": 4433761.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250903,
+        "open_price": 6150.0,
+        "high_price": 6150.0,
+        "low_price": 5980.0,
+        "close_price": 6050.0,
+        "volume": 2671576.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250902,
+        "open_price": 5990.0,
+        "high_price": 5990.0,
+        "low_price": 5900.0,
+        "close_price": 5980.0,
+        "volume": 4725935.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250831,
+        "open_price": 5810.0,
+        "high_price": 5950.0,
+        "low_price": 5800.0,
+        "close_price": 5820.0,
+        "volume": 1134902.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250830,
+        "open_price": 5660.0,
+        "high_price": 5730.0,
+        "low_price": 5660.0,
+        "close_price": 5810.0,
+        "volume": 445381.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250827,
+        "open_price": 5950.0,
+        "high_price": 5960.0,
+        "low_price": 5750.0,
+        "close_price": 5830.0,
+        "volume": 1754362.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250826,
+        "open_price": 5810.0,
+        "high_price": 5900.0,
+        "low_price": 5760.0,
+        "close_price": 5790.0,
+        "volume": 412611.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250825,
+        "open_price": 5900.0,
+        "high_price": 5900.0,
+        "low_price": 5760.0,
+        "close_price": 5790.0,
+        "volume": 4883701.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250823,
+        "open_price": 6050.0,
+        "high_price": 6050.0,
+        "low_price": 5880.0,
+        "close_price": 5930.0,
+        "volume": 1067072.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250820,
+        "open_price": 5970.0,
+        "high_price": 6000.0,
+        "low_price": 5860.0,
+        "close_price": 5920.0,
+        "volume": 624142.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250819,
+        "open_price": 5820.0,
+        "high_price": 6020.0,
+        "low_price": 5820.0,
+        "close_price": 5920.0,
+        "volume": 297754.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250818,
+        "open_price": 6040.0,
+        "high_price": 6040.0,
+        "low_price": 5850.0,
+        "close_price": 5920.0,
+        "volume": 321592.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250817,
+        "open_price": 5850.0,
+        "high_price": 5960.0,
+        "low_price": 5850.0,
+        "close_price": 5920.0,
+        "volume": 2807690.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250816,
+        "open_price": 5750.0,
+        "high_price": 5970.0,
+        "low_price": 5750.0,
+        "close_price": 5790.0,
+        "volume": 5525181.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250813,
+        "open_price": 5900.0,
+        "high_price": 5960.0,
+        "low_price": 5840.0,
+        "close_price": 5920.0,
+        "volume": 2166204.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250812,
+        "open_price": 5950.0,
+        "high_price": 6060.0,
+        "low_price": 5920.0,
+        "close_price": 6020.0,
+        "volume": 335968.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250811,
+        "open_price": 5990.0,
+        "high_price": 5990.0,
+        "low_price": 5920.0,
+        "close_price": 6030.0,
+        "volume": 1492948.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250810,
+        "open_price": 6000.0,
+        "high_price": 6000.0,
+        "low_price": 5980.0,
+        "close_price": 6100.0,
+        "volume": 489729.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250809,
+        "open_price": 6060.0,
+        "high_price": 6240.0,
+        "low_price": 6060.0,
+        "close_price": 6120.0,
+        "volume": 2672470.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250806,
+        "open_price": 6100.0,
+        "high_price": 6100.0,
+        "low_price": 6100.0,
+        "close_price": 6240.0,
+        "volume": 909547.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250805,
+        "open_price": 6450.0,
+        "high_price": 6450.0,
+        "low_price": 6230.0,
+        "close_price": 6280.0,
+        "volume": 4945767.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250804,
+        "open_price": 6400.0,
+        "high_price": 6600.0,
+        "low_price": 6400.0,
+        "close_price": 6420.0,
+        "volume": 5185160.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250803,
+        "open_price": 6600.0,
+        "high_price": 6600.0,
+        "low_price": 6410.0,
+        "close_price": 6590.0,
+        "volume": 330207.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250802,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6600.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250730,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6600.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250729,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6600.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250728,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6600.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250727,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6600.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250726,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6600.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250723,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6600.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250722,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6600.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250721,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6600.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250720,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6600.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250719,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250716,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250715,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250714,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 27050.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250713,
+        "open_price": 27100.0,
+        "high_price": 27560.0,
+        "low_price": 26750.0,
+        "close_price": 27050.0,
+        "volume": 828601.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250712,
+        "open_price": 27550.0,
+        "high_price": 27550.0,
+        "low_price": 26900.0,
+        "close_price": 26840.0,
+        "volume": 172266.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250709,
+        "open_price": 26710.0,
+        "high_price": 28000.0,
+        "low_price": 26710.0,
+        "close_price": 26750.0,
+        "volume": 1678418.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250708,
+        "open_price": 27500.0,
+        "high_price": 28000.0,
+        "low_price": 27020.0,
+        "close_price": 27530.0,
+        "volume": 369942.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250707,
+        "open_price": 28690.0,
+        "high_price": 28690.0,
+        "low_price": 27580.0,
+        "close_price": 27850.0,
+        "volume": 149327.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250702,
+        "open_price": 27840.0,
+        "high_price": 29550.0,
+        "low_price": 27840.0,
+        "close_price": 27860.0,
+        "volume": 8866987.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250701,
+        "open_price": 28010.0,
+        "high_price": 28010.0,
+        "low_price": 28010.0,
+        "close_price": 28700.0,
+        "volume": 175881.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250630,
+        "open_price": 28840.0,
+        "high_price": 28840.0,
+        "low_price": 28840.0,
+        "close_price": 28870.0,
+        "volume": 870490.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250629,
+        "open_price": 29600.0,
+        "high_price": 29600.0,
+        "low_price": 29600.0,
+        "close_price": 29730.0,
+        "volume": 769641.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250628,
+        "open_price": 30130.0,
+        "high_price": 30130.0,
+        "low_price": 30130.0,
+        "close_price": 30510.0,
+        "volume": 535635.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 31060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250611,
+        "open_price": 31970.0,
+        "high_price": 31970.0,
+        "low_price": 30420.0,
+        "close_price": 31060.0,
+        "volume": 627595.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250610,
+        "open_price": 31850.0,
+        "high_price": 32000.0,
+        "low_price": 31340.0,
+        "close_price": 31360.0,
+        "volume": 406963.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250609,
+        "open_price": 31100.0,
+        "high_price": 31100.0,
+        "low_price": 30520.0,
+        "close_price": 31100.0,
+        "volume": 1402370.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250608,
+        "open_price": 30190.0,
+        "high_price": 30250.0,
+        "low_price": 29800.0,
+        "close_price": 30200.0,
+        "volume": 1206235.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250607,
+        "open_price": 29390.0,
+        "high_price": 29650.0,
+        "low_price": 28990.0,
+        "close_price": 29370.0,
+        "volume": 962040.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250603,
+        "open_price": 29570.0,
+        "high_price": 29620.0,
+        "low_price": 28690.0,
+        "close_price": 29470.0,
+        "volume": 223496.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250602,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 29560.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250601,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 29560.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250531,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 33110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250528,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 33110.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250527,
+        "open_price": 33810.0,
+        "high_price": 33810.0,
+        "low_price": 32830.0,
+        "close_price": 33110.0,
+        "volume": 278549.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250526,
+        "open_price": 33750.0,
+        "high_price": 33750.0,
+        "low_price": 32770.0,
+        "close_price": 32830.0,
+        "volume": 94215.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250525,
+        "open_price": 33500.0,
+        "high_price": 33500.0,
+        "low_price": 32400.0,
+        "close_price": 32780.0,
+        "volume": 614675.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250524,
+        "open_price": 32730.0,
+        "high_price": 34290.0,
+        "low_price": 32730.0,
+        "close_price": 33400.0,
+        "volume": 141709.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250521,
+        "open_price": 33560.0,
+        "high_price": 34200.0,
+        "low_price": 32800.0,
+        "close_price": 33450.0,
+        "volume": 223427.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250520,
+        "open_price": 32730.0,
+        "high_price": 34000.0,
+        "low_price": 32730.0,
+        "close_price": 33560.0,
+        "volume": 909262.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250519,
+        "open_price": 34720.0,
+        "high_price": 34780.0,
+        "low_price": 33680.0,
+        "close_price": 33720.0,
+        "volume": 1989220.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250518,
+        "open_price": 34730.0,
+        "high_price": 35000.0,
+        "low_price": 34400.0,
+        "close_price": 34720.0,
+        "volume": 209274.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250517,
+        "open_price": 35000.0,
+        "high_price": 35710.0,
+        "low_price": 34530.0,
+        "close_price": 34730.0,
+        "volume": 141442.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250514,
+        "open_price": 35450.0,
+        "high_price": 35450.0,
+        "low_price": 34400.0,
+        "close_price": 34670.0,
+        "volume": 353782.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250513,
+        "open_price": 34520.0,
+        "high_price": 35480.0,
+        "low_price": 34310.0,
+        "close_price": 34510.0,
+        "volume": 118362.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250512,
+        "open_price": 35490.0,
+        "high_price": 35490.0,
+        "low_price": 34500.0,
+        "close_price": 34500.0,
+        "volume": 200410.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250511,
+        "open_price": 35540.0,
+        "high_price": 35540.0,
+        "low_price": 33880.0,
+        "close_price": 34460.0,
+        "volume": 99967.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250510,
+        "open_price": 35310.0,
+        "high_price": 35310.0,
+        "low_price": 34270.0,
+        "close_price": 34510.0,
+        "volume": 729310.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250507,
+        "open_price": 36530.0,
+        "high_price": 36530.0,
+        "low_price": 34640.0,
+        "close_price": 35320.0,
+        "volume": 491843.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250506,
+        "open_price": 35570.0,
+        "high_price": 35900.0,
+        "low_price": 35310.0,
+        "close_price": 35480.0,
+        "volume": 620878.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250505,
+        "open_price": 36560.0,
+        "high_price": 36560.0,
+        "low_price": 35480.0,
+        "close_price": 35570.0,
+        "volume": 1180919.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250504,
+        "open_price": 36730.0,
+        "high_price": 37410.0,
+        "low_price": 35650.0,
+        "close_price": 36570.0,
+        "volume": 517608.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250503,
+        "open_price": 37270.0,
+        "high_price": 37270.0,
+        "low_price": 36230.0,
+        "close_price": 36730.0,
+        "volume": 718644.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250430,
+        "open_price": 37350.0,
+        "high_price": 37350.0,
+        "low_price": 37340.0,
+        "close_price": 37350.0,
+        "volume": 1433674.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250429,
+        "open_price": 34560.0,
+        "high_price": 36350.0,
+        "low_price": 34560.0,
+        "close_price": 36270.0,
+        "volume": 1941420.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250428,
+        "open_price": 34900.0,
+        "high_price": 36220.0,
+        "low_price": 34260.0,
+        "close_price": 35300.0,
+        "volume": 293147.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250427,
+        "open_price": 34470.0,
+        "high_price": 35580.0,
+        "low_price": 34470.0,
+        "close_price": 35170.0,
+        "volume": 322452.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250426,
+        "open_price": 35140.0,
+        "high_price": 35540.0,
+        "low_price": 34900.0,
+        "close_price": 35530.0,
+        "volume": 963640.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250423,
+        "open_price": 34550.0,
+        "high_price": 34550.0,
+        "low_price": 34020.0,
+        "close_price": 34510.0,
+        "volume": 156880.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250422,
+        "open_price": 34120.0,
+        "high_price": 35140.0,
+        "low_price": 34120.0,
+        "close_price": 34550.0,
+        "volume": 588983.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250421,
+        "open_price": 33400.0,
+        "high_price": 34130.0,
+        "low_price": 33400.0,
+        "close_price": 34120.0,
+        "volume": 1709030.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250420,
+        "open_price": 33160.0,
+        "high_price": 33250.0,
+        "low_price": 32030.0,
+        "close_price": 33140.0,
+        "volume": 2029824.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250419,
+        "open_price": 32450.0,
+        "high_price": 32900.0,
+        "low_price": 31690.0,
+        "close_price": 32290.0,
+        "volume": 578814.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250416,
+        "open_price": 32560.0,
+        "high_price": 32620.0,
+        "low_price": 31840.0,
+        "close_price": 32430.0,
+        "volume": 373166.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250415,
+        "open_price": 32600.0,
+        "high_price": 33490.0,
+        "low_price": 32200.0,
+        "close_price": 32610.0,
+        "volume": 105071.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250414,
+        "open_price": 33170.0,
+        "high_price": 33170.0,
+        "low_price": 32280.0,
+        "close_price": 32610.0,
+        "volume": 731838.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250413,
+        "open_price": 32350.0,
+        "high_price": 32370.0,
+        "low_price": 30990.0,
+        "close_price": 32210.0,
+        "volume": 2252835.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250412,
+        "open_price": 31000.0,
+        "high_price": 31800.0,
+        "low_price": 31000.0,
+        "close_price": 31430.0,
+        "volume": 323240.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250409,
+        "open_price": 32000.0,
+        "high_price": 32000.0,
+        "low_price": 30850.0,
+        "close_price": 31370.0,
+        "volume": 134065.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250408,
+        "open_price": 31970.0,
+        "high_price": 32190.0,
+        "low_price": 30960.0,
+        "close_price": 31430.0,
+        "volume": 352462.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250407,
+        "open_price": 31520.0,
+        "high_price": 31900.0,
+        "low_price": 30640.0,
+        "close_price": 31420.0,
+        "volume": 202336.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250406,
+        "open_price": 30920.0,
+        "high_price": 31550.0,
+        "low_price": 30920.0,
+        "close_price": 31520.0,
+        "volume": 328300.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250405,
+        "open_price": 32370.0,
+        "high_price": 32400.0,
+        "low_price": 31000.0,
+        "close_price": 31570.0,
+        "volume": 229871.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250330,
+        "open_price": 31940.0,
+        "high_price": 32000.0,
+        "low_price": 30940.0,
+        "close_price": 31600.0,
+        "volume": 1141931.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250329,
+        "open_price": 32000.0,
+        "high_price": 32600.0,
+        "low_price": 31190.0,
+        "close_price": 31770.0,
+        "volume": 2077225.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250326,
+        "open_price": 32640.0,
+        "high_price": 32640.0,
+        "low_price": 31980.0,
+        "close_price": 32150.0,
+        "volume": 158765.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250325,
+        "open_price": 32990.0,
+        "high_price": 32990.0,
+        "low_price": 32060.0,
+        "close_price": 32140.0,
+        "volume": 70043.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250318,
+        "open_price": 32530.0,
+        "high_price": 32620.0,
+        "low_price": 31730.0,
+        "close_price": 32120.0,
+        "volume": 596418.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250317,
+        "open_price": 32950.0,
+        "high_price": 32950.0,
+        "low_price": 32100.0,
+        "close_price": 32710.0,
+        "volume": 62330.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250316,
+        "open_price": 32820.0,
+        "high_price": 32920.0,
+        "low_price": 32500.0,
+        "close_price": 32730.0,
+        "volume": 500469.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250315,
+        "open_price": 33100.0,
+        "high_price": 33100.0,
+        "low_price": 31960.0,
+        "close_price": 32820.0,
+        "volume": 216949.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250312,
+        "open_price": 33000.0,
+        "high_price": 33000.0,
+        "low_price": 32620.0,
+        "close_price": 32920.0,
+        "volume": 350472.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250311,
+        "open_price": 32400.0,
+        "high_price": 32990.0,
+        "low_price": 32340.0,
+        "close_price": 32970.0,
+        "volume": 373905.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250310,
+        "open_price": 33500.0,
+        "high_price": 33560.0,
+        "low_price": 32610.0,
+        "close_price": 33330.0,
+        "volume": 363200.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250309,
+        "open_price": 33590.0,
+        "high_price": 33590.0,
+        "low_price": 33560.0,
+        "close_price": 33610.0,
+        "volume": 864594.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250308,
+        "open_price": 34000.0,
+        "high_price": 34780.0,
+        "low_price": 33890.0,
+        "close_price": 34590.0,
+        "volume": 302617.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250305,
+        "open_price": 34040.0,
+        "high_price": 35500.0,
+        "low_price": 34020.0,
+        "close_price": 34930.0,
+        "volume": 263774.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250304,
+        "open_price": 35090.0,
+        "high_price": 35970.0,
+        "low_price": 34760.0,
+        "close_price": 35010.0,
+        "volume": 656641.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250303,
+        "open_price": 35090.0,
+        "high_price": 35160.0,
+        "low_price": 35090.0,
+        "close_price": 35090.0,
+        "volume": 2143290.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250302,
+        "open_price": 36630.0,
+        "high_price": 36630.0,
+        "low_price": 35500.0,
+        "close_price": 36170.0,
+        "volume": 320336.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250301,
+        "open_price": 35560.0,
+        "high_price": 36970.0,
+        "low_price": 35540.0,
+        "close_price": 36440.0,
+        "volume": 250727.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250226,
+        "open_price": 36000.0,
+        "high_price": 37000.0,
+        "low_price": 36000.0,
+        "close_price": 36570.0,
+        "volume": 267470.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250225,
+        "open_price": 37500.0,
+        "high_price": 37650.0,
+        "low_price": 36400.0,
+        "close_price": 36650.0,
+        "volume": 694126.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250224,
+        "open_price": 37200.0,
+        "high_price": 37330.0,
+        "low_price": 36100.0,
+        "close_price": 36960.0,
+        "volume": 439251.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250223,
+        "open_price": 37970.0,
+        "high_price": 37970.0,
+        "low_price": 36690.0,
+        "close_price": 37130.0,
+        "volume": 349836.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250222,
+        "open_price": 36660.0,
+        "high_price": 37780.0,
+        "low_price": 36610.0,
+        "close_price": 37320.0,
+        "volume": 467442.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250219,
+        "open_price": 38340.0,
+        "high_price": 38340.0,
+        "low_price": 37170.0,
+        "close_price": 37620.0,
+        "volume": 416970.0
+    },
+    {
+        "symbol": "دلر",
+        "trade_date": 20250218,
+        "open_price": 37260.0,
+        "high_price": 38140.0,
+        "low_price": 36510.0,
+        "close_price": 37670.0,
+        "volume": 1240938.0
+    }
+]

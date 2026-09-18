@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260901,
+        "open_price": 39600.0,
+        "high_price": 40268.0,
+        "low_price": 37924.0,
+        "close_price": 39662.0,
+        "volume": 30264849.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260831,
+        "open_price": 38390.0,
+        "high_price": 39469.0,
+        "low_price": 38350.0,
+        "close_price": 39096.0,
+        "volume": 33118624.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260829,
+        "open_price": 39290.0,
+        "high_price": 39850.0,
+        "low_price": 38600.0,
+        "close_price": 39509.0,
+        "volume": 37830317.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260826,
+        "open_price": 38968.0,
+        "high_price": 39878.0,
+        "low_price": 38731.0,
+        "close_price": 39296.0,
+        "volume": 33121855.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260825,
+        "open_price": 37200.0,
+        "high_price": 38785.0,
+        "low_price": 37060.0,
+        "close_price": 38731.0,
+        "volume": 37189190.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260824,
+        "open_price": 37798.0,
+        "high_price": 38150.0,
+        "low_price": 37250.0,
+        "close_price": 37656.0,
+        "volume": 21464860.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260823,
+        "open_price": 37729.0,
+        "high_price": 38503.0,
+        "low_price": 37000.0,
+        "close_price": 37798.0,
+        "volume": 14902911.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260822,
+        "open_price": 36390.0,
+        "high_price": 37721.0,
+        "low_price": 36390.0,
+        "close_price": 37384.0,
+        "volume": 8801580.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260819,
+        "open_price": 35992.0,
+        "high_price": 37104.0,
+        "low_price": 35992.0,
+        "close_price": 36762.0,
+        "volume": 14071346.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260818,
+        "open_price": 38600.0,
+        "high_price": 38600.0,
+        "low_price": 36740.0,
+        "close_price": 37105.0,
+        "volume": 24090045.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260817,
+        "open_price": 37500.0,
+        "high_price": 37814.0,
+        "low_price": 36900.0,
+        "close_price": 37594.0,
+        "volume": 14760586.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260816,
+        "open_price": 36263.0,
+        "high_price": 37237.0,
+        "low_price": 36263.0,
+        "close_price": 36713.0,
+        "volume": 26078270.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260815,
+        "open_price": 38122.0,
+        "high_price": 38122.0,
+        "low_price": 37244.0,
+        "close_price": 37272.0,
+        "volume": 11825680.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260811,
+        "open_price": 38657.0,
+        "high_price": 39065.0,
+        "low_price": 37900.0,
+        "close_price": 38395.0,
+        "volume": 13423990.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260810,
+        "open_price": 37401.0,
+        "high_price": 38632.0,
+        "low_price": 37401.0,
+        "close_price": 38230.0,
+        "volume": 15093556.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260809,
+        "open_price": 39912.0,
+        "high_price": 39912.0,
+        "low_price": 37588.0,
+        "close_price": 38336.0,
+        "volume": 32531130.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260808,
+        "open_price": 38750.0,
+        "high_price": 38750.0,
+        "low_price": 38750.0,
+        "close_price": 38750.0,
+        "volume": 12524460.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260805,
+        "open_price": 37622.0,
+        "high_price": 37622.0,
+        "low_price": 37210.0,
+        "close_price": 37622.0,
+        "volume": 15981899.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260803,
+        "open_price": 36570.0,
+        "high_price": 36570.0,
+        "low_price": 36023.0,
+        "close_price": 36527.0,
+        "volume": 9859429.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260802,
+        "open_price": 35561.0,
+        "high_price": 35561.0,
+        "low_price": 35000.0,
+        "close_price": 35505.0,
+        "volume": 9775304.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260801,
+        "open_price": 34827.0,
+        "high_price": 34827.0,
+        "low_price": 33845.0,
+        "close_price": 34526.0,
+        "volume": 13211077.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260729,
+        "open_price": 34000.0,
+        "high_price": 34957.0,
+        "low_price": 33608.0,
+        "close_price": 34653.0,
+        "volume": 9433960.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260728,
+        "open_price": 34450.0,
+        "high_price": 35158.0,
+        "low_price": 33161.0,
+        "close_price": 34626.0,
+        "volume": 22857861.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260727,
+        "open_price": 35195.0,
+        "high_price": 35195.0,
+        "low_price": 34067.0,
+        "close_price": 34150.0,
+        "volume": 40231001.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260726,
+        "open_price": 35197.0,
+        "high_price": 35197.0,
+        "low_price": 34222.0,
+        "close_price": 35120.0,
+        "volume": 35279298.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260725,
+        "open_price": 34773.0,
+        "high_price": 34773.0,
+        "low_price": 33014.0,
+        "close_price": 34172.0,
+        "volume": 41833577.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260722,
+        "open_price": 33801.0,
+        "high_price": 33801.0,
+        "low_price": 33000.0,
+        "close_price": 33761.0,
+        "volume": 73332304.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260721,
+        "open_price": 32817.0,
+        "high_price": 32817.0,
+        "low_price": 32817.0,
+        "close_price": 32817.0,
+        "volume": 10698207.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260720,
+        "open_price": 31862.0,
+        "high_price": 31862.0,
+        "low_price": 31862.0,
+        "close_price": 31862.0,
+        "volume": 4415508.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260719,
+        "open_price": 29827.0,
+        "high_price": 31559.0,
+        "low_price": 29827.0,
+        "close_price": 30934.0,
+        "volume": 37831302.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260718,
+        "open_price": 30813.0,
+        "high_price": 30813.0,
+        "low_price": 30511.0,
+        "close_price": 30640.0,
+        "volume": 9736450.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260715,
+        "open_price": 31454.0,
+        "high_price": 31454.0,
+        "low_price": 31454.0,
+        "close_price": 31454.0,
+        "volume": 14263663.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260714,
+        "open_price": 30000.0,
+        "high_price": 30959.0,
+        "low_price": 29158.0,
+        "close_price": 30538.0,
+        "volume": 17447148.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260713,
+        "open_price": 29979.0,
+        "high_price": 30906.0,
+        "low_price": 29979.0,
+        "close_price": 30058.0,
+        "volume": 18245792.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260712,
+        "open_price": 30906.0,
+        "high_price": 30906.0,
+        "low_price": 30906.0,
+        "close_price": 30906.0,
+        "volume": 2935079.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260711,
+        "open_price": 31861.0,
+        "high_price": 31880.0,
+        "low_price": 31861.0,
+        "close_price": 31861.0,
+        "volume": 4686453.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260708,
+        "open_price": 32770.0,
+        "high_price": 33622.0,
+        "low_price": 32740.0,
+        "close_price": 32846.0,
+        "volume": 18753998.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260707,
+        "open_price": 33829.0,
+        "high_price": 33832.0,
+        "low_price": 33177.0,
+        "close_price": 33752.0,
+        "volume": 17708842.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260701,
+        "open_price": 33190.0,
+        "high_price": 33629.0,
+        "low_price": 32196.0,
+        "close_price": 32847.0,
+        "volume": 31451082.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260630,
+        "open_price": 33099.0,
+        "high_price": 33492.0,
+        "low_price": 32000.0,
+        "close_price": 33191.0,
+        "volume": 45261248.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260629,
+        "open_price": 32464.0,
+        "high_price": 33420.0,
+        "low_price": 32464.0,
+        "close_price": 32517.0,
+        "volume": 35751534.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260628,
+        "open_price": 33468.0,
+        "high_price": 33468.0,
+        "low_price": 33468.0,
+        "close_price": 33468.0,
+        "volume": 3209265.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260627,
+        "open_price": 34820.0,
+        "high_price": 35250.0,
+        "low_price": 34448.0,
+        "close_price": 34503.0,
+        "volume": 16830207.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260623,
+        "open_price": 35440.0,
+        "high_price": 36133.0,
+        "low_price": 35440.0,
+        "close_price": 35513.0,
+        "volume": 67905202.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260622,
+        "open_price": 36536.0,
+        "high_price": 36536.0,
+        "low_price": 36536.0,
+        "close_price": 36536.0,
+        "volume": 4232037.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260621,
+        "open_price": 37665.0,
+        "high_price": 38190.0,
+        "low_price": 37665.0,
+        "close_price": 37665.0,
+        "volume": 19966804.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260620,
+        "open_price": 40490.0,
+        "high_price": 40490.0,
+        "low_price": 38221.0,
+        "close_price": 38829.0,
+        "volume": 45451964.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260617,
+        "open_price": 39750.0,
+        "high_price": 39750.0,
+        "low_price": 37610.0,
+        "close_price": 39403.0,
+        "volume": 112428184.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260616,
+        "open_price": 38593.0,
+        "high_price": 38593.0,
+        "low_price": 38593.0,
+        "close_price": 38593.0,
+        "volume": 54482539.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260615,
+        "open_price": 37469.0,
+        "high_price": 37469.0,
+        "low_price": 37469.0,
+        "close_price": 37469.0,
+        "volume": 2563590.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260614,
+        "open_price": 36378.0,
+        "high_price": 36378.0,
+        "low_price": 36378.0,
+        "close_price": 36378.0,
+        "volume": 2534429.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260613,
+        "open_price": 35319.0,
+        "high_price": 35319.0,
+        "low_price": 35319.0,
+        "close_price": 35319.0,
+        "volume": 2601104.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260610,
+        "open_price": 34291.0,
+        "high_price": 34291.0,
+        "low_price": 34291.0,
+        "close_price": 34291.0,
+        "volume": 2790358.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260609,
+        "open_price": 33293.0,
+        "high_price": 33293.0,
+        "low_price": 33293.0,
+        "close_price": 33293.0,
+        "volume": 3275406.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260608,
+        "open_price": 32409.0,
+        "high_price": 32409.0,
+        "low_price": 31210.0,
+        "close_price": 32324.0,
+        "volume": 161382861.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260607,
+        "open_price": 31466.0,
+        "high_price": 31466.0,
+        "low_price": 31466.0,
+        "close_price": 31466.0,
+        "volume": 2584471.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260606,
+        "open_price": 30550.0,
+        "high_price": 30550.0,
+        "low_price": 30550.0,
+        "close_price": 30550.0,
+        "volume": 3825268.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260603,
+        "open_price": 29661.0,
+        "high_price": 29661.0,
+        "low_price": 29661.0,
+        "close_price": 29661.0,
+        "volume": 7259956.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260602,
+        "open_price": 28798.0,
+        "high_price": 28798.0,
+        "low_price": 28798.0,
+        "close_price": 28798.0,
+        "volume": 8610635.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260601,
+        "open_price": 27960.0,
+        "high_price": 27960.0,
+        "low_price": 27960.0,
+        "close_price": 27960.0,
+        "volume": 9987719.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260531,
+        "open_price": 27146.0,
+        "high_price": 27146.0,
+        "low_price": 27146.0,
+        "close_price": 27146.0,
+        "volume": 2733418.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260530,
+        "open_price": 26356.0,
+        "high_price": 26356.0,
+        "low_price": 26356.0,
+        "close_price": 26356.0,
+        "volume": 2667253.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260526,
+        "open_price": 25589.0,
+        "high_price": 25589.0,
+        "low_price": 25589.0,
+        "close_price": 25589.0,
+        "volume": 3281290.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260525,
+        "open_price": 24844.0,
+        "high_price": 24844.0,
+        "low_price": 24844.0,
+        "close_price": 24844.0,
+        "volume": 2593152.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260524,
+        "open_price": 24121.0,
+        "high_price": 24121.0,
+        "low_price": 24121.0,
+        "close_price": 24121.0,
+        "volume": 2529476.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260523,
+        "open_price": 23419.0,
+        "high_price": 23419.0,
+        "low_price": 23419.0,
+        "close_price": 23419.0,
+        "volume": 2592018.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260520,
+        "open_price": 22737.0,
+        "high_price": 22737.0,
+        "low_price": 22737.0,
+        "close_price": 22737.0,
+        "volume": 2876864.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260519,
+        "open_price": 22075.0,
+        "high_price": 22075.0,
+        "low_price": 22075.0,
+        "close_price": 22075.0,
+        "volume": 21099518.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21433.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260225,
+        "open_price": 20701.0,
+        "high_price": 21691.0,
+        "low_price": 20700.0,
+        "close_price": 21433.0,
+        "volume": 5747243.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260224,
+        "open_price": 21120.0,
+        "high_price": 21350.0,
+        "low_price": 20531.0,
+        "close_price": 21074.0,
+        "volume": 2747487.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260223,
+        "open_price": 20681.0,
+        "high_price": 21090.0,
+        "low_price": 20487.0,
+        "close_price": 20925.0,
+        "volume": 4332882.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260222,
+        "open_price": 20487.0,
+        "high_price": 20760.0,
+        "low_price": 20487.0,
+        "close_price": 20537.0,
+        "volume": 6749456.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260221,
+        "open_price": 21120.0,
+        "high_price": 21140.0,
+        "low_price": 21120.0,
+        "close_price": 21120.0,
+        "volume": 2859830.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260218,
+        "open_price": 21300.0,
+        "high_price": 21980.0,
+        "low_price": 21300.0,
+        "close_price": 21770.0,
+        "volume": 1467687.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260217,
+        "open_price": 21630.0,
+        "high_price": 21960.0,
+        "low_price": 21570.0,
+        "close_price": 21740.0,
+        "volume": 1992117.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260216,
+        "open_price": 20990.0,
+        "high_price": 21640.0,
+        "low_price": 20990.0,
+        "close_price": 21440.0,
+        "volume": 1825392.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260215,
+        "open_price": 21510.0,
+        "high_price": 21520.0,
+        "low_price": 21320.0,
+        "close_price": 21340.0,
+        "volume": 3121915.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260214,
+        "open_price": 22880.0,
+        "high_price": 22920.0,
+        "low_price": 21710.0,
+        "close_price": 21970.0,
+        "volume": 3863795.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260210,
+        "open_price": 22220.0,
+        "high_price": 22600.0,
+        "low_price": 22000.0,
+        "close_price": 22380.0,
+        "volume": 3043854.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260209,
+        "open_price": 22400.0,
+        "high_price": 22630.0,
+        "low_price": 22200.0,
+        "close_price": 22250.0,
+        "volume": 7159841.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260208,
+        "open_price": 23260.0,
+        "high_price": 23260.0,
+        "low_price": 22400.0,
+        "close_price": 22880.0,
+        "volume": 9791790.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260207,
+        "open_price": 22420.0,
+        "high_price": 22590.0,
+        "low_price": 22250.0,
+        "close_price": 22590.0,
+        "volume": 3811579.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260203,
+        "open_price": 22220.0,
+        "high_price": 22220.0,
+        "low_price": 21540.0,
+        "close_price": 21940.0,
+        "volume": 4297024.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260202,
+        "open_price": 21510.0,
+        "high_price": 21610.0,
+        "low_price": 21510.0,
+        "close_price": 21610.0,
+        "volume": 4001660.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260201,
+        "open_price": 20300.0,
+        "high_price": 21410.0,
+        "low_price": 20300.0,
+        "close_price": 20990.0,
+        "volume": 4049518.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260131,
+        "open_price": 21150.0,
+        "high_price": 22030.0,
+        "low_price": 20750.0,
+        "close_price": 20790.0,
+        "volume": 13949088.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260128,
+        "open_price": 21170.0,
+        "high_price": 21890.0,
+        "low_price": 21120.0,
+        "close_price": 21390.0,
+        "volume": 9675284.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260127,
+        "open_price": 21770.0,
+        "high_price": 22000.0,
+        "low_price": 21770.0,
+        "close_price": 21770.0,
+        "volume": 9798501.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260126,
+        "open_price": 22440.0,
+        "high_price": 22440.0,
+        "low_price": 22440.0,
+        "close_price": 22440.0,
+        "volume": 2814372.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260125,
+        "open_price": 23130.0,
+        "high_price": 23500.0,
+        "low_price": 23130.0,
+        "close_price": 23130.0,
+        "volume": 3596870.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260124,
+        "open_price": 24640.0,
+        "high_price": 24640.0,
+        "low_price": 23810.0,
+        "close_price": 23840.0,
+        "volume": 15381760.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260121,
+        "open_price": 24250.0,
+        "high_price": 24640.0,
+        "low_price": 23970.0,
+        "close_price": 24540.0,
+        "volume": 43134298.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260120,
+        "open_price": 23130.0,
+        "high_price": 24000.0,
+        "low_price": 22900.0,
+        "close_price": 23930.0,
+        "volume": 34392332.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260119,
+        "open_price": 23820.0,
+        "high_price": 23820.0,
+        "low_price": 22890.0,
+        "close_price": 23310.0,
+        "volume": 11594945.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260118,
+        "open_price": 22610.0,
+        "high_price": 23500.0,
+        "low_price": 22610.0,
+        "close_price": 23160.0,
+        "volume": 14408408.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260114,
+        "open_price": 22930.0,
+        "high_price": 23240.0,
+        "low_price": 22890.0,
+        "close_price": 22890.0,
+        "volume": 3503617.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260113,
+        "open_price": 24120.0,
+        "high_price": 24570.0,
+        "low_price": 23410.0,
+        "close_price": 23590.0,
+        "volume": 8387502.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260112,
+        "open_price": 23890.0,
+        "high_price": 24210.0,
+        "low_price": 23800.0,
+        "close_price": 24130.0,
+        "volume": 17813689.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260111,
+        "open_price": 23450.0,
+        "high_price": 23950.0,
+        "low_price": 23370.0,
+        "close_price": 23510.0,
+        "volume": 9398244.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260110,
+        "open_price": 24080.0,
+        "high_price": 24680.0,
+        "low_price": 24080.0,
+        "close_price": 24090.0,
+        "volume": 7805001.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260107,
+        "open_price": 25590.0,
+        "high_price": 25590.0,
+        "low_price": 24310.0,
+        "close_price": 24820.0,
+        "volume": 20150129.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260106,
+        "open_price": 24870.0,
+        "high_price": 24900.0,
+        "low_price": 24700.0,
+        "close_price": 24890.0,
+        "volume": 4662619.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260105,
+        "open_price": 23520.0,
+        "high_price": 24920.0,
+        "low_price": 23520.0,
+        "close_price": 24180.0,
+        "volume": 34722967.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20260104,
+        "open_price": 24200.0,
+        "high_price": 24930.0,
+        "low_price": 24100.0,
+        "close_price": 24240.0,
+        "volume": 8946080.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251231,
+        "open_price": 24500.0,
+        "high_price": 25220.0,
+        "low_price": 24450.0,
+        "close_price": 24840.0,
+        "volume": 8638650.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251230,
+        "open_price": 25200.0,
+        "high_price": 25200.0,
+        "low_price": 25200.0,
+        "close_price": 25200.0,
+        "volume": 3290592.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251229,
+        "open_price": 25970.0,
+        "high_price": 26200.0,
+        "low_price": 25970.0,
+        "close_price": 25970.0,
+        "volume": 26267312.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251228,
+        "open_price": 27060.0,
+        "high_price": 27080.0,
+        "low_price": 26660.0,
+        "close_price": 26770.0,
+        "volume": 14657245.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251227,
+        "open_price": 27890.0,
+        "high_price": 27900.0,
+        "low_price": 27010.0,
+        "close_price": 27480.0,
+        "volume": 30421157.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251224,
+        "open_price": 27130.0,
+        "high_price": 27140.0,
+        "low_price": 26820.0,
+        "close_price": 27090.0,
+        "volume": 11521252.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251223,
+        "open_price": 26020.0,
+        "high_price": 26410.0,
+        "low_price": 25880.0,
+        "close_price": 26350.0,
+        "volume": 18886895.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251222,
+        "open_price": 25650.0,
+        "high_price": 25650.0,
+        "low_price": 25560.0,
+        "close_price": 25650.0,
+        "volume": 31205674.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251221,
+        "open_price": 24350.0,
+        "high_price": 25000.0,
+        "low_price": 24350.0,
+        "close_price": 24910.0,
+        "volume": 25530264.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251220,
+        "open_price": 23750.0,
+        "high_price": 24350.0,
+        "low_price": 23750.0,
+        "close_price": 24280.0,
+        "volume": 6815459.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251217,
+        "open_price": 24160.0,
+        "high_price": 24160.0,
+        "low_price": 23600.0,
+        "close_price": 23690.0,
+        "volume": 9418742.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251216,
+        "open_price": 24080.0,
+        "high_price": 24550.0,
+        "low_price": 23700.0,
+        "close_price": 24270.0,
+        "volume": 8070455.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251215,
+        "open_price": 24150.0,
+        "high_price": 24290.0,
+        "low_price": 23840.0,
+        "close_price": 24160.0,
+        "volume": 8371490.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251214,
+        "open_price": 23710.0,
+        "high_price": 24300.0,
+        "low_price": 23520.0,
+        "close_price": 24060.0,
+        "volume": 17832197.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251213,
+        "open_price": 23700.0,
+        "high_price": 23990.0,
+        "low_price": 23610.0,
+        "close_price": 23820.0,
+        "volume": 4238444.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251210,
+        "open_price": 23270.0,
+        "high_price": 23660.0,
+        "low_price": 23270.0,
+        "close_price": 23560.0,
+        "volume": 5788192.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251209,
+        "open_price": 23170.0,
+        "high_price": 23310.0,
+        "low_price": 23100.0,
+        "close_price": 23270.0,
+        "volume": 8443757.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251208,
+        "open_price": 23270.0,
+        "high_price": 23430.0,
+        "low_price": 22970.0,
+        "close_price": 23180.0,
+        "volume": 20978312.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251207,
+        "open_price": 23990.0,
+        "high_price": 23990.0,
+        "low_price": 23060.0,
+        "close_price": 23630.0,
+        "volume": 4101580.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251206,
+        "open_price": 23360.0,
+        "high_price": 23760.0,
+        "low_price": 23360.0,
+        "close_price": 23570.0,
+        "volume": 15088915.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251203,
+        "open_price": 23390.0,
+        "high_price": 23590.0,
+        "low_price": 23270.0,
+        "close_price": 23350.0,
+        "volume": 4063449.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251202,
+        "open_price": 23030.0,
+        "high_price": 23350.0,
+        "low_price": 23030.0,
+        "close_price": 23240.0,
+        "volume": 5223001.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251201,
+        "open_price": 22860.0,
+        "high_price": 23590.0,
+        "low_price": 22860.0,
+        "close_price": 23210.0,
+        "volume": 4058709.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251130,
+        "open_price": 23060.0,
+        "high_price": 23190.0,
+        "low_price": 23040.0,
+        "close_price": 23090.0,
+        "volume": 4361691.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251129,
+        "open_price": 23190.0,
+        "high_price": 23270.0,
+        "low_price": 22820.0,
+        "close_price": 23120.0,
+        "volume": 4912126.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251126,
+        "open_price": 23540.0,
+        "high_price": 23680.0,
+        "low_price": 23040.0,
+        "close_price": 23230.0,
+        "volume": 2827982.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251125,
+        "open_price": 23400.0,
+        "high_price": 23680.0,
+        "low_price": 23250.0,
+        "close_price": 23530.0,
+        "volume": 3412379.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251123,
+        "open_price": 23010.0,
+        "high_price": 23400.0,
+        "low_price": 23010.0,
+        "close_price": 23310.0,
+        "volume": 20385283.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251122,
+        "open_price": 22990.0,
+        "high_price": 23180.0,
+        "low_price": 22920.0,
+        "close_price": 23060.0,
+        "volume": 10831442.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251119,
+        "open_price": 23040.0,
+        "high_price": 23260.0,
+        "low_price": 22800.0,
+        "close_price": 22910.0,
+        "volume": 3106586.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251118,
+        "open_price": 22760.0,
+        "high_price": 23240.0,
+        "low_price": 22760.0,
+        "close_price": 23100.0,
+        "volume": 14825261.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251117,
+        "open_price": 22800.0,
+        "high_price": 22960.0,
+        "low_price": 22600.0,
+        "close_price": 22790.0,
+        "volume": 5304398.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251116,
+        "open_price": 22460.0,
+        "high_price": 22740.0,
+        "low_price": 22460.0,
+        "close_price": 22610.0,
+        "volume": 10564829.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251115,
+        "open_price": 22300.0,
+        "high_price": 22470.0,
+        "low_price": 22300.0,
+        "close_price": 22360.0,
+        "volume": 8002657.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251112,
+        "open_price": 22090.0,
+        "high_price": 22360.0,
+        "low_price": 21840.0,
+        "close_price": 22240.0,
+        "volume": 7200542.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251111,
+        "open_price": 21780.0,
+        "high_price": 22170.0,
+        "low_price": 21780.0,
+        "close_price": 21940.0,
+        "volume": 6195342.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251110,
+        "open_price": 21680.0,
+        "high_price": 21970.0,
+        "low_price": 21460.0,
+        "close_price": 21730.0,
+        "volume": 3315011.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251109,
+        "open_price": 21910.0,
+        "high_price": 22150.0,
+        "low_price": 21560.0,
+        "close_price": 21720.0,
+        "volume": 5195111.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251108,
+        "open_price": 22140.0,
+        "high_price": 22470.0,
+        "low_price": 21990.0,
+        "close_price": 22140.0,
+        "volume": 2955539.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251105,
+        "open_price": 21860.0,
+        "high_price": 22110.0,
+        "low_price": 21860.0,
+        "close_price": 21990.0,
+        "volume": 1933950.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251104,
+        "open_price": 22220.0,
+        "high_price": 22380.0,
+        "low_price": 21940.0,
+        "close_price": 22140.0,
+        "volume": 5557740.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251103,
+        "open_price": 22350.0,
+        "high_price": 22500.0,
+        "low_price": 22030.0,
+        "close_price": 22380.0,
+        "volume": 6251212.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251102,
+        "open_price": 22070.0,
+        "high_price": 22490.0,
+        "low_price": 22070.0,
+        "close_price": 22220.0,
+        "volume": 9354418.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251101,
+        "open_price": 22400.0,
+        "high_price": 22590.0,
+        "low_price": 22040.0,
+        "close_price": 22390.0,
+        "volume": 2654856.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251029,
+        "open_price": 22740.0,
+        "high_price": 22740.0,
+        "low_price": 22280.0,
+        "close_price": 22520.0,
+        "volume": 5739426.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251028,
+        "open_price": 22620.0,
+        "high_price": 22900.0,
+        "low_price": 22350.0,
+        "close_price": 22600.0,
+        "volume": 5806057.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251027,
+        "open_price": 22500.0,
+        "high_price": 22800.0,
+        "low_price": 22500.0,
+        "close_price": 22660.0,
+        "volume": 5909357.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251026,
+        "open_price": 22490.0,
+        "high_price": 22750.0,
+        "low_price": 22360.0,
+        "close_price": 22590.0,
+        "volume": 9580780.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251025,
+        "open_price": 22470.0,
+        "high_price": 22620.0,
+        "low_price": 22100.0,
+        "close_price": 22290.0,
+        "volume": 11452691.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251022,
+        "open_price": 22310.0,
+        "high_price": 22640.0,
+        "low_price": 22310.0,
+        "close_price": 22470.0,
+        "volume": 7893182.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251021,
+        "open_price": 22320.0,
+        "high_price": 22440.0,
+        "low_price": 21740.0,
+        "close_price": 22270.0,
+        "volume": 8119736.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251020,
+        "open_price": 22090.0,
+        "high_price": 22470.0,
+        "low_price": 21990.0,
+        "close_price": 22190.0,
+        "volume": 5350305.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251019,
+        "open_price": 22370.0,
+        "high_price": 22650.0,
+        "low_price": 22210.0,
+        "close_price": 22350.0,
+        "volume": 4706087.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251018,
+        "open_price": 21540.0,
+        "high_price": 22110.0,
+        "low_price": 21540.0,
+        "close_price": 22100.0,
+        "volume": 21115994.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251015,
+        "open_price": 21120.0,
+        "high_price": 21560.0,
+        "low_price": 21120.0,
+        "close_price": 21470.0,
+        "volume": 10927168.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251014,
+        "open_price": 21880.0,
+        "high_price": 21880.0,
+        "low_price": 21380.0,
+        "close_price": 21710.0,
+        "volume": 8713075.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251013,
+        "open_price": 21770.0,
+        "high_price": 22100.0,
+        "low_price": 21460.0,
+        "close_price": 21760.0,
+        "volume": 15755454.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251012,
+        "open_price": 20940.0,
+        "high_price": 21770.0,
+        "low_price": 20940.0,
+        "close_price": 21720.0,
+        "volume": 22567952.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251011,
+        "open_price": 20850.0,
+        "high_price": 21330.0,
+        "low_price": 20850.0,
+        "close_price": 21140.0,
+        "volume": 6339460.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251008,
+        "open_price": 21240.0,
+        "high_price": 21240.0,
+        "low_price": 20540.0,
+        "close_price": 20770.0,
+        "volume": 10384771.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251007,
+        "open_price": 20450.0,
+        "high_price": 21440.0,
+        "low_price": 20420.0,
+        "close_price": 21160.0,
+        "volume": 20105099.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251006,
+        "open_price": 21180.0,
+        "high_price": 21540.0,
+        "low_price": 20360.0,
+        "close_price": 21020.0,
+        "volume": 11056545.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251005,
+        "open_price": 20950.0,
+        "high_price": 20950.0,
+        "low_price": 20800.0,
+        "close_price": 20940.0,
+        "volume": 30594002.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251004,
+        "open_price": 20180.0,
+        "high_price": 20350.0,
+        "low_price": 20180.0,
+        "close_price": 20340.0,
+        "volume": 6600319.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20251001,
+        "open_price": 19530.0,
+        "high_price": 20140.0,
+        "low_price": 19510.0,
+        "close_price": 19760.0,
+        "volume": 12590797.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250930,
+        "open_price": 20600.0,
+        "high_price": 20600.0,
+        "low_price": 19660.0,
+        "close_price": 20100.0,
+        "volume": 10522391.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250929,
+        "open_price": 20200.0,
+        "high_price": 20200.0,
+        "low_price": 20200.0,
+        "close_price": 20200.0,
+        "volume": 5918101.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250928,
+        "open_price": 19620.0,
+        "high_price": 19620.0,
+        "low_price": 19620.0,
+        "close_price": 19620.0,
+        "volume": 1940070.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250927,
+        "open_price": 18270.0,
+        "high_price": 19170.0,
+        "low_price": 18270.0,
+        "close_price": 19050.0,
+        "volume": 5981028.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250924,
+        "open_price": 18490.0,
+        "high_price": 18740.0,
+        "low_price": 18390.0,
+        "close_price": 18620.0,
+        "volume": 6807943.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250923,
+        "open_price": 18980.0,
+        "high_price": 19110.0,
+        "low_price": 18570.0,
+        "close_price": 18920.0,
+        "volume": 5645623.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250922,
+        "open_price": 18620.0,
+        "high_price": 18820.0,
+        "low_price": 18620.0,
+        "close_price": 18760.0,
+        "volume": 5433757.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250921,
+        "open_price": 18250.0,
+        "high_price": 18480.0,
+        "low_price": 18250.0,
+        "close_price": 18280.0,
+        "volume": 10505539.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250920,
+        "open_price": 18810.0,
+        "high_price": 18810.0,
+        "low_price": 18810.0,
+        "close_price": 18810.0,
+        "volume": 10312701.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250917,
+        "open_price": 19460.0,
+        "high_price": 19620.0,
+        "low_price": 19160.0,
+        "close_price": 19390.0,
+        "volume": 5750602.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250916,
+        "open_price": 20130.0,
+        "high_price": 20130.0,
+        "low_price": 19600.0,
+        "close_price": 19700.0,
+        "volume": 6085402.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250915,
+        "open_price": 20410.0,
+        "high_price": 20600.0,
+        "low_price": 19880.0,
+        "close_price": 20200.0,
+        "volume": 14258100.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250914,
+        "open_price": 19860.0,
+        "high_price": 20260.0,
+        "low_price": 19700.0,
+        "close_price": 20230.0,
+        "volume": 8908133.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250913,
+        "open_price": 19700.0,
+        "high_price": 19880.0,
+        "low_price": 19460.0,
+        "close_price": 19670.0,
+        "volume": 8615914.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250909,
+        "open_price": 20100.0,
+        "high_price": 20140.0,
+        "low_price": 19500.0,
+        "close_price": 19740.0,
+        "volume": 10320442.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250908,
+        "open_price": 19700.0,
+        "high_price": 20080.0,
+        "low_price": 19500.0,
+        "close_price": 20030.0,
+        "volume": 14269929.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250907,
+        "open_price": 19000.0,
+        "high_price": 19720.0,
+        "low_price": 19000.0,
+        "close_price": 19500.0,
+        "volume": 4162007.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250906,
+        "open_price": 20000.0,
+        "high_price": 20000.0,
+        "low_price": 19230.0,
+        "close_price": 19370.0,
+        "volume": 9859947.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250903,
+        "open_price": 19760.0,
+        "high_price": 20000.0,
+        "low_price": 19660.0,
+        "close_price": 19820.0,
+        "volume": 7139319.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250902,
+        "open_price": 19350.0,
+        "high_price": 19650.0,
+        "low_price": 19080.0,
+        "close_price": 19590.0,
+        "volume": 11653993.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250831,
+        "open_price": 19000.0,
+        "high_price": 19300.0,
+        "low_price": 18800.0,
+        "close_price": 19080.0,
+        "volume": 6615417.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250830,
+        "open_price": 18900.0,
+        "high_price": 19090.0,
+        "low_price": 18880.0,
+        "close_price": 18900.0,
+        "volume": 3191234.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250827,
+        "open_price": 19130.0,
+        "high_price": 19650.0,
+        "low_price": 19130.0,
+        "close_price": 19460.0,
+        "volume": 5913070.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250826,
+        "open_price": 19000.0,
+        "high_price": 19330.0,
+        "low_price": 18590.0,
+        "close_price": 19130.0,
+        "volume": 4946307.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250825,
+        "open_price": 19110.0,
+        "high_price": 19310.0,
+        "low_price": 18890.0,
+        "close_price": 19120.0,
+        "volume": 4491855.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250823,
+        "open_price": 18750.0,
+        "high_price": 19200.0,
+        "low_price": 18750.0,
+        "close_price": 19080.0,
+        "volume": 2523459.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250820,
+        "open_price": 18350.0,
+        "high_price": 18840.0,
+        "low_price": 18350.0,
+        "close_price": 18720.0,
+        "volume": 3637775.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250819,
+        "open_price": 18910.0,
+        "high_price": 19160.0,
+        "low_price": 18620.0,
+        "close_price": 18710.0,
+        "volume": 8849764.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250818,
+        "open_price": 19230.0,
+        "high_price": 19230.0,
+        "low_price": 19000.0,
+        "close_price": 19190.0,
+        "volume": 16308149.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250817,
+        "open_price": 18670.0,
+        "high_price": 18670.0,
+        "low_price": 18500.0,
+        "close_price": 18670.0,
+        "volume": 4261697.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250816,
+        "open_price": 17920.0,
+        "high_price": 18480.0,
+        "low_price": 17430.0,
+        "close_price": 18130.0,
+        "volume": 10422525.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250813,
+        "open_price": 18180.0,
+        "high_price": 18180.0,
+        "low_price": 17950.0,
+        "close_price": 17950.0,
+        "volume": 6135656.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250812,
+        "open_price": 18610.0,
+        "high_price": 18950.0,
+        "low_price": 18400.0,
+        "close_price": 18500.0,
+        "volume": 9882957.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250811,
+        "open_price": 19010.0,
+        "high_price": 19240.0,
+        "low_price": 18790.0,
+        "close_price": 18960.0,
+        "volume": 10258277.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250810,
+        "open_price": 19600.0,
+        "high_price": 19810.0,
+        "low_price": 19140.0,
+        "close_price": 19370.0,
+        "volume": 6458469.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250809,
+        "open_price": 19450.0,
+        "high_price": 19750.0,
+        "low_price": 19350.0,
+        "close_price": 19720.0,
+        "volume": 8354040.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250806,
+        "open_price": 19440.0,
+        "high_price": 19440.0,
+        "low_price": 19060.0,
+        "close_price": 19180.0,
+        "volume": 6477652.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250805,
+        "open_price": 19440.0,
+        "high_price": 19740.0,
+        "low_price": 19180.0,
+        "close_price": 19630.0,
+        "volume": 14187111.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250804,
+        "open_price": 18870.0,
+        "high_price": 19380.0,
+        "low_price": 18660.0,
+        "close_price": 19170.0,
+        "volume": 9002315.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250803,
+        "open_price": 18810.0,
+        "high_price": 19580.0,
+        "low_price": 18640.0,
+        "close_price": 18890.0,
+        "volume": 12846936.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250802,
+        "open_price": 19260.0,
+        "high_price": 19360.0,
+        "low_price": 19190.0,
+        "close_price": 19210.0,
+        "volume": 9291963.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250730,
+        "open_price": 19760.0,
+        "high_price": 19960.0,
+        "low_price": 19760.0,
+        "close_price": 19780.0,
+        "volume": 6367020.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250729,
+        "open_price": 20370.0,
+        "high_price": 20380.0,
+        "low_price": 20370.0,
+        "close_price": 20370.0,
+        "volume": 5497666.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250728,
+        "open_price": 21200.0,
+        "high_price": 21260.0,
+        "low_price": 20960.0,
+        "close_price": 20990.0,
+        "volume": 11611497.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250727,
+        "open_price": 21460.0,
+        "high_price": 21960.0,
+        "low_price": 21320.0,
+        "close_price": 21600.0,
+        "volume": 7996054.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250726,
+        "open_price": 21910.0,
+        "high_price": 22280.0,
+        "low_price": 21430.0,
+        "close_price": 21960.0,
+        "volume": 14797808.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250723,
+        "open_price": 21990.0,
+        "high_price": 22050.0,
+        "low_price": 21970.0,
+        "close_price": 21980.0,
+        "volume": 12358872.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250722,
+        "open_price": 22960.0,
+        "high_price": 22960.0,
+        "low_price": 22160.0,
+        "close_price": 22640.0,
+        "volume": 50447676.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250721,
+        "open_price": 22300.0,
+        "high_price": 22300.0,
+        "low_price": 22300.0,
+        "close_price": 22300.0,
+        "volume": 11106440.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250720,
+        "open_price": 21290.0,
+        "high_price": 21690.0,
+        "low_price": 21190.0,
+        "close_price": 21660.0,
+        "volume": 25862103.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250719,
+        "open_price": 20980.0,
+        "high_price": 21140.0,
+        "low_price": 20730.0,
+        "close_price": 21060.0,
+        "volume": 20204982.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250716,
+        "open_price": 20280.0,
+        "high_price": 20620.0,
+        "low_price": 20070.0,
+        "close_price": 20530.0,
+        "volume": 8460597.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250715,
+        "open_price": 20250.0,
+        "high_price": 20250.0,
+        "low_price": 19840.0,
+        "close_price": 20020.0,
+        "volume": 1854231.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250714,
+        "open_price": 19770.0,
+        "high_price": 20090.0,
+        "low_price": 19200.0,
+        "close_price": 19690.0,
+        "volume": 6796578.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250713,
+        "open_price": 19660.0,
+        "high_price": 19770.0,
+        "low_price": 19310.0,
+        "close_price": 19520.0,
+        "volume": 7861699.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250712,
+        "open_price": 18810.0,
+        "high_price": 19300.0,
+        "low_price": 18810.0,
+        "close_price": 19290.0,
+        "volume": 13797011.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250709,
+        "open_price": 18400.0,
+        "high_price": 19350.0,
+        "low_price": 18400.0,
+        "close_price": 18740.0,
+        "volume": 4067982.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250708,
+        "open_price": 18990.0,
+        "high_price": 19110.0,
+        "low_price": 18930.0,
+        "close_price": 18960.0,
+        "volume": 8900055.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250707,
+        "open_price": 19970.0,
+        "high_price": 19970.0,
+        "low_price": 18980.0,
+        "close_price": 19510.0,
+        "volume": 3797977.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250702,
+        "open_price": 19380.0,
+        "high_price": 19700.0,
+        "low_price": 19380.0,
+        "close_price": 19390.0,
+        "volume": 22740524.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250701,
+        "open_price": 19970.0,
+        "high_price": 19970.0,
+        "low_price": 19970.0,
+        "close_price": 19970.0,
+        "volume": 10193640.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250630,
+        "open_price": 20580.0,
+        "high_price": 20580.0,
+        "low_price": 20580.0,
+        "close_price": 20580.0,
+        "volume": 10250582.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250629,
+        "open_price": 21210.0,
+        "high_price": 21210.0,
+        "low_price": 21210.0,
+        "close_price": 21210.0,
+        "volume": 10156989.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250628,
+        "open_price": 21860.0,
+        "high_price": 21860.0,
+        "low_price": 21860.0,
+        "close_price": 21860.0,
+        "volume": 1279117.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 22530.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 22530.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 22530.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 22530.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 22530.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 22530.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 22530.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 22530.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250611,
+        "open_price": 22400.0,
+        "high_price": 22700.0,
+        "low_price": 22220.0,
+        "close_price": 22530.0,
+        "volume": 6893393.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250610,
+        "open_price": 23180.0,
+        "high_price": 23180.0,
+        "low_price": 22420.0,
+        "close_price": 22560.0,
+        "volume": 6470201.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250609,
+        "open_price": 23190.0,
+        "high_price": 23190.0,
+        "low_price": 22420.0,
+        "close_price": 22770.0,
+        "volume": 9869607.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250608,
+        "open_price": 22850.0,
+        "high_price": 23240.0,
+        "low_price": 22680.0,
+        "close_price": 22990.0,
+        "volume": 8137244.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250607,
+        "open_price": 22830.0,
+        "high_price": 23300.0,
+        "low_price": 22830.0,
+        "close_price": 23030.0,
+        "volume": 9512829.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250603,
+        "open_price": 23380.0,
+        "high_price": 23560.0,
+        "low_price": 22810.0,
+        "close_price": 23390.0,
+        "volume": 5566432.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250602,
+        "open_price": 23010.0,
+        "high_price": 23760.0,
+        "low_price": 23010.0,
+        "close_price": 23440.0,
+        "volume": 19896224.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250601,
+        "open_price": 23210.0,
+        "high_price": 23410.0,
+        "low_price": 23210.0,
+        "close_price": 23210.0,
+        "volume": 13249362.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250531,
+        "open_price": 24200.0,
+        "high_price": 24440.0,
+        "low_price": 23600.0,
+        "close_price": 23920.0,
+        "volume": 22825013.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250528,
+        "open_price": 24500.0,
+        "high_price": 24650.0,
+        "low_price": 24090.0,
+        "close_price": 24320.0,
+        "volume": 12942626.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250527,
+        "open_price": 24270.0,
+        "high_price": 24550.0,
+        "low_price": 24250.0,
+        "close_price": 24380.0,
+        "volume": 11636709.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250526,
+        "open_price": 24200.0,
+        "high_price": 24500.0,
+        "low_price": 23860.0,
+        "close_price": 24110.0,
+        "volume": 12042489.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250525,
+        "open_price": 24500.0,
+        "high_price": 24500.0,
+        "low_price": 23620.0,
+        "close_price": 24130.0,
+        "volume": 37012500.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250524,
+        "open_price": 24150.0,
+        "high_price": 24150.0,
+        "low_price": 23980.0,
+        "close_price": 24150.0,
+        "volume": 57591152.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250521,
+        "open_price": 22600.0,
+        "high_price": 23620.0,
+        "low_price": 22260.0,
+        "close_price": 23450.0,
+        "volume": 48240165.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250520,
+        "open_price": 22560.0,
+        "high_price": 23200.0,
+        "low_price": 22520.0,
+        "close_price": 22940.0,
+        "volume": 10106420.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250519,
+        "open_price": 22420.0,
+        "high_price": 23200.0,
+        "low_price": 22420.0,
+        "close_price": 22990.0,
+        "volume": 11284361.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250518,
+        "open_price": 22920.0,
+        "high_price": 23100.0,
+        "low_price": 22630.0,
+        "close_price": 22780.0,
+        "volume": 10863004.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250517,
+        "open_price": 22620.0,
+        "high_price": 23410.0,
+        "low_price": 22620.0,
+        "close_price": 23020.0,
+        "volume": 17926911.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250514,
+        "open_price": 22270.0,
+        "high_price": 23240.0,
+        "low_price": 22270.0,
+        "close_price": 23060.0,
+        "volume": 16186076.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250513,
+        "open_price": 22910.0,
+        "high_price": 22910.0,
+        "low_price": 22400.0,
+        "close_price": 22610.0,
+        "volume": 17368034.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250512,
+        "open_price": 22320.0,
+        "high_price": 22320.0,
+        "low_price": 22320.0,
+        "close_price": 22320.0,
+        "volume": 18071049.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250511,
+        "open_price": 21580.0,
+        "high_price": 21940.0,
+        "low_price": 21570.0,
+        "close_price": 21670.0,
+        "volume": 15921606.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250510,
+        "open_price": 22380.0,
+        "high_price": 22430.0,
+        "low_price": 22220.0,
+        "close_price": 22230.0,
+        "volume": 13113960.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250507,
+        "open_price": 23290.0,
+        "high_price": 23380.0,
+        "low_price": 22430.0,
+        "close_price": 22900.0,
+        "volume": 19390412.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250506,
+        "open_price": 23010.0,
+        "high_price": 23370.0,
+        "low_price": 22730.0,
+        "close_price": 23010.0,
+        "volume": 13998675.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250505,
+        "open_price": 23290.0,
+        "high_price": 23390.0,
+        "low_price": 22790.0,
+        "close_price": 23060.0,
+        "volume": 16144313.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250504,
+        "open_price": 22200.0,
+        "high_price": 22960.0,
+        "low_price": 22200.0,
+        "close_price": 22770.0,
+        "volume": 18118390.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250503,
+        "open_price": 22250.0,
+        "high_price": 22500.0,
+        "low_price": 22250.0,
+        "close_price": 22300.0,
+        "volume": 25520521.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250430,
+        "open_price": 22900.0,
+        "high_price": 23060.0,
+        "low_price": 22500.0,
+        "close_price": 22930.0,
+        "volume": 30370914.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250429,
+        "open_price": 22420.0,
+        "high_price": 22420.0,
+        "low_price": 22160.0,
+        "close_price": 22390.0,
+        "volume": 34839733.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250428,
+        "open_price": 21400.0,
+        "high_price": 21770.0,
+        "low_price": 21400.0,
+        "close_price": 21770.0,
+        "volume": 19436302.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250427,
+        "open_price": 20900.0,
+        "high_price": 21340.0,
+        "low_price": 20870.0,
+        "close_price": 21140.0,
+        "volume": 10323881.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250426,
+        "open_price": 20890.0,
+        "high_price": 21140.0,
+        "low_price": 20700.0,
+        "close_price": 20990.0,
+        "volume": 10649970.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250423,
+        "open_price": 20760.0,
+        "high_price": 20820.0,
+        "low_price": 20160.0,
+        "close_price": 20680.0,
+        "volume": 11519017.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250422,
+        "open_price": 20680.0,
+        "high_price": 20910.0,
+        "low_price": 20500.0,
+        "close_price": 20770.0,
+        "volume": 12481920.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250421,
+        "open_price": 20970.0,
+        "high_price": 20970.0,
+        "low_price": 20420.0,
+        "close_price": 20880.0,
+        "volume": 24542433.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250420,
+        "open_price": 20360.0,
+        "high_price": 20360.0,
+        "low_price": 20350.0,
+        "close_price": 20360.0,
+        "volume": 18307131.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250419,
+        "open_price": 19250.0,
+        "high_price": 19930.0,
+        "low_price": 19120.0,
+        "close_price": 19770.0,
+        "volume": 7397091.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250416,
+        "open_price": 19150.0,
+        "high_price": 19650.0,
+        "low_price": 19150.0,
+        "close_price": 19450.0,
+        "volume": 12068537.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250415,
+        "open_price": 20260.0,
+        "high_price": 20260.0,
+        "low_price": 19610.0,
+        "close_price": 19630.0,
+        "volume": 20182904.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250414,
+        "open_price": 20220.0,
+        "high_price": 20220.0,
+        "low_price": 20040.0,
+        "close_price": 20210.0,
+        "volume": 46549192.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250413,
+        "open_price": 19640.0,
+        "high_price": 19640.0,
+        "low_price": 19550.0,
+        "close_price": 19640.0,
+        "volume": 13029429.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250412,
+        "open_price": 19770.0,
+        "high_price": 19770.0,
+        "low_price": 18960.0,
+        "close_price": 19070.0,
+        "volume": 9668380.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250409,
+        "open_price": 19840.0,
+        "high_price": 19840.0,
+        "low_price": 18820.0,
+        "close_price": 19350.0,
+        "volume": 15897581.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250408,
+        "open_price": 19320.0,
+        "high_price": 19320.0,
+        "low_price": 19140.0,
+        "close_price": 19270.0,
+        "volume": 15503685.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250407,
+        "open_price": 18760.0,
+        "high_price": 18980.0,
+        "low_price": 18600.0,
+        "close_price": 18760.0,
+        "volume": 9382110.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250406,
+        "open_price": 18260.0,
+        "high_price": 18900.0,
+        "low_price": 18260.0,
+        "close_price": 18810.0,
+        "volume": 9689641.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250405,
+        "open_price": 18390.0,
+        "high_price": 18730.0,
+        "low_price": 18250.0,
+        "close_price": 18530.0,
+        "volume": 7182504.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250330,
+        "open_price": 18170.0,
+        "high_price": 18340.0,
+        "low_price": 18050.0,
+        "close_price": 18290.0,
+        "volume": 8060481.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250329,
+        "open_price": 17650.0,
+        "high_price": 18040.0,
+        "low_price": 17600.0,
+        "close_price": 17940.0,
+        "volume": 6532836.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250326,
+        "open_price": 17140.0,
+        "high_price": 17630.0,
+        "low_price": 17140.0,
+        "close_price": 17520.0,
+        "volume": 5561137.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250325,
+        "open_price": 17250.0,
+        "high_price": 17310.0,
+        "low_price": 17100.0,
+        "close_price": 17310.0,
+        "volume": 11128962.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250318,
+        "open_price": 16720.0,
+        "high_price": 17070.0,
+        "low_price": 16720.0,
+        "close_price": 16810.0,
+        "volume": 6299557.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250317,
+        "open_price": 17200.0,
+        "high_price": 17340.0,
+        "low_price": 17150.0,
+        "close_price": 17230.0,
+        "volume": 2212126.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250316,
+        "open_price": 17150.0,
+        "high_price": 17300.0,
+        "low_price": 17000.0,
+        "close_price": 17140.0,
+        "volume": 4068406.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250315,
+        "open_price": 16900.0,
+        "high_price": 17160.0,
+        "low_price": 16900.0,
+        "close_price": 17080.0,
+        "volume": 8307817.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250312,
+        "open_price": 16490.0,
+        "high_price": 16920.0,
+        "low_price": 16380.0,
+        "close_price": 16690.0,
+        "volume": 4840408.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250311,
+        "open_price": 16470.0,
+        "high_price": 16690.0,
+        "low_price": 16450.0,
+        "close_price": 16570.0,
+        "volume": 1221180.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250310,
+        "open_price": 16380.0,
+        "high_price": 16750.0,
+        "low_price": 16380.0,
+        "close_price": 16590.0,
+        "volume": 5416891.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250309,
+        "open_price": 16260.0,
+        "high_price": 16630.0,
+        "low_price": 16250.0,
+        "close_price": 16370.0,
+        "volume": 10011932.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250308,
+        "open_price": 17040.0,
+        "high_price": 17040.0,
+        "low_price": 16600.0,
+        "close_price": 16750.0,
+        "volume": 5711728.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250305,
+        "open_price": 16800.0,
+        "high_price": 17140.0,
+        "low_price": 16800.0,
+        "close_price": 16970.0,
+        "volume": 2623585.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250304,
+        "open_price": 17050.0,
+        "high_price": 17390.0,
+        "low_price": 16960.0,
+        "close_price": 17200.0,
+        "volume": 4738491.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250303,
+        "open_price": 17090.0,
+        "high_price": 17380.0,
+        "low_price": 17090.0,
+        "close_price": 17090.0,
+        "volume": 6953900.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250302,
+        "open_price": 17350.0,
+        "high_price": 17670.0,
+        "low_price": 17350.0,
+        "close_price": 17610.0,
+        "volume": 5478358.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250301,
+        "open_price": 17600.0,
+        "high_price": 17780.0,
+        "low_price": 17520.0,
+        "close_price": 17660.0,
+        "volume": 8228584.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250226,
+        "open_price": 17320.0,
+        "high_price": 17740.0,
+        "low_price": 17320.0,
+        "close_price": 17570.0,
+        "volume": 6073289.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250225,
+        "open_price": 18020.0,
+        "high_price": 18050.0,
+        "low_price": 17490.0,
+        "close_price": 17800.0,
+        "volume": 11076145.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250224,
+        "open_price": 17280.0,
+        "high_price": 17680.0,
+        "low_price": 17280.0,
+        "close_price": 17660.0,
+        "volume": 18603506.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250223,
+        "open_price": 17000.0,
+        "high_price": 17380.0,
+        "low_price": 17000.0,
+        "close_price": 17170.0,
+        "volume": 5454667.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250222,
+        "open_price": 17110.0,
+        "high_price": 17540.0,
+        "low_price": 17000.0,
+        "close_price": 17130.0,
+        "volume": 9667141.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250219,
+        "open_price": 17490.0,
+        "high_price": 17500.0,
+        "low_price": 17160.0,
+        "close_price": 17310.0,
+        "volume": 4306738.0
+    },
+    {
+        "symbol": "سیمانو",
+        "trade_date": 20250218,
+        "open_price": 17070.0,
+        "high_price": 17480.0,
+        "low_price": 17070.0,
+        "close_price": 17300.0,
+        "volume": 5556717.0
+    }
+]

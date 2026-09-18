@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260901,
+        "open_price": 25800.0,
+        "high_price": 25801.0,
+        "low_price": 25800.0,
+        "close_price": 25801.0,
+        "volume": 50805.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260831,
+        "open_price": 25765.0,
+        "high_price": 25766.0,
+        "low_price": 25765.0,
+        "close_price": 25765.0,
+        "volume": 182941.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260829,
+        "open_price": 25731.0,
+        "high_price": 25731.0,
+        "low_price": 25730.0,
+        "close_price": 25730.0,
+        "volume": 26225.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260826,
+        "open_price": 25698.0,
+        "high_price": 25699.0,
+        "low_price": 25698.0,
+        "close_price": 25698.0,
+        "volume": 30427.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260825,
+        "open_price": 25670.0,
+        "high_price": 25670.0,
+        "low_price": 25669.0,
+        "close_price": 25669.0,
+        "volume": 44523.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260824,
+        "open_price": 25640.0,
+        "high_price": 25641.0,
+        "low_price": 25640.0,
+        "close_price": 25640.0,
+        "volume": 101822.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260823,
+        "open_price": 25612.0,
+        "high_price": 25612.0,
+        "low_price": 25611.0,
+        "close_price": 25611.0,
+        "volume": 234462.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260822,
+        "open_price": 25582.0,
+        "high_price": 25583.0,
+        "low_price": 25581.0,
+        "close_price": 25582.0,
+        "volume": 3806677.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260819,
+        "open_price": 25551.0,
+        "high_price": 25551.0,
+        "low_price": 25551.0,
+        "close_price": 25551.0,
+        "volume": 44732.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260818,
+        "open_price": 25522.0,
+        "high_price": 25523.0,
+        "low_price": 25522.0,
+        "close_price": 25522.0,
+        "volume": 16317.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260817,
+        "open_price": 25494.0,
+        "high_price": 25494.0,
+        "low_price": 25493.0,
+        "close_price": 25493.0,
+        "volume": 107229.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260816,
+        "open_price": 25464.0,
+        "high_price": 25464.0,
+        "low_price": 25464.0,
+        "close_price": 25464.0,
+        "volume": 94803.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260815,
+        "open_price": 25435.0,
+        "high_price": 25436.0,
+        "low_price": 25435.0,
+        "close_price": 25435.0,
+        "volume": 23701.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260811,
+        "open_price": 25394.0,
+        "high_price": 25395.0,
+        "low_price": 25394.0,
+        "close_price": 25394.0,
+        "volume": 13632.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260810,
+        "open_price": 25359.0,
+        "high_price": 25360.0,
+        "low_price": 25359.0,
+        "close_price": 25360.0,
+        "volume": 322.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260809,
+        "open_price": 25324.0,
+        "high_price": 25325.0,
+        "low_price": 25324.0,
+        "close_price": 25325.0,
+        "volume": 142150.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260808,
+        "open_price": 25290.0,
+        "high_price": 25290.0,
+        "low_price": 25286.0,
+        "close_price": 25289.0,
+        "volume": 8401807.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260805,
+        "open_price": 25250.0,
+        "high_price": 25251.0,
+        "low_price": 25250.0,
+        "close_price": 25251.0,
+        "volume": 6878.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260803,
+        "open_price": 25216.0,
+        "high_price": 25216.0,
+        "low_price": 25215.0,
+        "close_price": 25216.0,
+        "volume": 201.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260802,
+        "open_price": 25181.0,
+        "high_price": 25181.0,
+        "low_price": 25181.0,
+        "close_price": 25181.0,
+        "volume": 1000.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260801,
+        "open_price": 25145.0,
+        "high_price": 25145.0,
+        "low_price": 25141.0,
+        "close_price": 25144.0,
+        "volume": 716213.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260729,
+        "open_price": 25112.0,
+        "high_price": 25113.0,
+        "low_price": 25112.0,
+        "close_price": 25113.0,
+        "volume": 5100.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260728,
+        "open_price": 25084.0,
+        "high_price": 25084.0,
+        "low_price": 25084.0,
+        "close_price": 25084.0,
+        "volume": 202.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260727,
+        "open_price": 25056.0,
+        "high_price": 25056.0,
+        "low_price": 25056.0,
+        "close_price": 25056.0,
+        "volume": 190.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260726,
+        "open_price": 25029.0,
+        "high_price": 25029.0,
+        "low_price": 25029.0,
+        "close_price": 25029.0,
+        "volume": 152.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260725,
+        "open_price": 25000.0,
+        "high_price": 25001.0,
+        "low_price": 25000.0,
+        "close_price": 25001.0,
+        "volume": 20862.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260722,
+        "open_price": 24968.0,
+        "high_price": 24968.0,
+        "low_price": 24968.0,
+        "close_price": 24968.0,
+        "volume": 43834.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260721,
+        "open_price": 24941.0,
+        "high_price": 24941.0,
+        "low_price": 24940.0,
+        "close_price": 24940.0,
+        "volume": 1002260.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260720,
+        "open_price": 24913.0,
+        "high_price": 24913.0,
+        "low_price": 24912.0,
+        "close_price": 24912.0,
+        "volume": 400761.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260719,
+        "open_price": 24884.0,
+        "high_price": 24885.0,
+        "low_price": 24884.0,
+        "close_price": 24884.0,
+        "volume": 756960.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260718,
+        "open_price": 24856.0,
+        "high_price": 24856.0,
+        "low_price": 24856.0,
+        "close_price": 24856.0,
+        "volume": 6007687.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260715,
+        "open_price": 24832.0,
+        "high_price": 24832.0,
+        "low_price": 24832.0,
+        "close_price": 24832.0,
+        "volume": 80734.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260714,
+        "open_price": 24808.0,
+        "high_price": 24809.0,
+        "low_price": 24808.0,
+        "close_price": 24808.0,
+        "volume": 3228564.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260713,
+        "open_price": 24784.0,
+        "high_price": 24784.0,
+        "low_price": 24784.0,
+        "close_price": 24784.0,
+        "volume": 104946.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260712,
+        "open_price": 24761.0,
+        "high_price": 24762.0,
+        "low_price": 24761.0,
+        "close_price": 24761.0,
+        "volume": 3273.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260711,
+        "open_price": 24737.0,
+        "high_price": 24738.0,
+        "low_price": 24737.0,
+        "close_price": 24737.0,
+        "volume": 589849.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260708,
+        "open_price": 24712.0,
+        "high_price": 24713.0,
+        "low_price": 24712.0,
+        "close_price": 24713.0,
+        "volume": 22884351.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260707,
+        "open_price": 24642.0,
+        "high_price": 24643.0,
+        "low_price": 24642.0,
+        "close_price": 24643.0,
+        "volume": 1733081.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260701,
+        "open_price": 24572.0,
+        "high_price": 24573.0,
+        "low_price": 24572.0,
+        "close_price": 24573.0,
+        "volume": 2020632.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260630,
+        "open_price": 24515.0,
+        "high_price": 24516.0,
+        "low_price": 24515.0,
+        "close_price": 24516.0,
+        "volume": 4097807.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260629,
+        "open_price": 24487.0,
+        "high_price": 24488.0,
+        "low_price": 24487.0,
+        "close_price": 24488.0,
+        "volume": 2501000.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260628,
+        "open_price": 24460.0,
+        "high_price": 24460.0,
+        "low_price": 24458.0,
+        "close_price": 24459.0,
+        "volume": 501506.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260627,
+        "open_price": 24432.0,
+        "high_price": 24432.0,
+        "low_price": 24431.0,
+        "close_price": 24431.0,
+        "volume": 6883.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260623,
+        "open_price": 24385.0,
+        "high_price": 24386.0,
+        "low_price": 24383.0,
+        "close_price": 24385.0,
+        "volume": 10691483.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260622,
+        "open_price": 24345.0,
+        "high_price": 24345.0,
+        "low_price": 24344.0,
+        "close_price": 24345.0,
+        "volume": 25463112.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260621,
+        "open_price": 24312.0,
+        "high_price": 24319.0,
+        "low_price": 24312.0,
+        "close_price": 24318.0,
+        "volume": 3168964.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260620,
+        "open_price": 24292.0,
+        "high_price": 24293.0,
+        "low_price": 24291.0,
+        "close_price": 24292.0,
+        "volume": 28100874.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260617,
+        "open_price": 24259.0,
+        "high_price": 24260.0,
+        "low_price": 24259.0,
+        "close_price": 24260.0,
+        "volume": 16870268.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260616,
+        "open_price": 24232.0,
+        "high_price": 24232.0,
+        "low_price": 24232.0,
+        "close_price": 24232.0,
+        "volume": 224.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260615,
+        "open_price": 24205.0,
+        "high_price": 24206.0,
+        "low_price": 24205.0,
+        "close_price": 24205.0,
+        "volume": 852284.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260614,
+        "open_price": 24178.0,
+        "high_price": 24179.0,
+        "low_price": 24178.0,
+        "close_price": 24179.0,
+        "volume": 2991785.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260613,
+        "open_price": 24151.0,
+        "high_price": 24152.0,
+        "low_price": 24151.0,
+        "close_price": 24151.0,
+        "volume": 1351386.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260610,
+        "open_price": 24121.0,
+        "high_price": 24122.0,
+        "low_price": 24121.0,
+        "close_price": 24121.0,
+        "volume": 51780.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260609,
+        "open_price": 24094.0,
+        "high_price": 24095.0,
+        "low_price": 24094.0,
+        "close_price": 24095.0,
+        "volume": 7997.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260608,
+        "open_price": 24067.0,
+        "high_price": 24068.0,
+        "low_price": 24067.0,
+        "close_price": 24068.0,
+        "volume": 615208.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260607,
+        "open_price": 24041.0,
+        "high_price": 24041.0,
+        "low_price": 24041.0,
+        "close_price": 24041.0,
+        "volume": 480330.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260606,
+        "open_price": 24013.0,
+        "high_price": 24014.0,
+        "low_price": 24013.0,
+        "close_price": 24013.0,
+        "volume": 840418.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260603,
+        "open_price": 23981.0,
+        "high_price": 23982.0,
+        "low_price": 23981.0,
+        "close_price": 23981.0,
+        "volume": 63534.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260602,
+        "open_price": 23954.0,
+        "high_price": 23955.0,
+        "low_price": 23954.0,
+        "close_price": 23954.0,
+        "volume": 609975.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260601,
+        "open_price": 23927.0,
+        "high_price": 23928.0,
+        "low_price": 23927.0,
+        "close_price": 23927.0,
+        "volume": 129554.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260531,
+        "open_price": 23901.0,
+        "high_price": 23901.0,
+        "low_price": 23901.0,
+        "close_price": 23901.0,
+        "volume": 111530.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260530,
+        "open_price": 23875.0,
+        "high_price": 23876.0,
+        "low_price": 23875.0,
+        "close_price": 23876.0,
+        "volume": 13992.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260526,
+        "open_price": 23832.0,
+        "high_price": 23833.0,
+        "low_price": 23832.0,
+        "close_price": 23832.0,
+        "volume": 2146105.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260525,
+        "open_price": 23790.0,
+        "high_price": 23791.0,
+        "low_price": 23790.0,
+        "close_price": 23791.0,
+        "volume": 2401.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260524,
+        "open_price": 23764.0,
+        "high_price": 23765.0,
+        "low_price": 23764.0,
+        "close_price": 23765.0,
+        "volume": 102430.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260523,
+        "open_price": 23739.0,
+        "high_price": 23739.0,
+        "low_price": 23738.0,
+        "close_price": 23738.0,
+        "volume": 56823.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260520,
+        "open_price": 23709.0,
+        "high_price": 23710.0,
+        "low_price": 23709.0,
+        "close_price": 23709.0,
+        "volume": 238393.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260519,
+        "open_price": 23683.0,
+        "high_price": 23683.0,
+        "low_price": 23683.0,
+        "close_price": 23683.0,
+        "volume": 206.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260518,
+        "open_price": 23656.0,
+        "high_price": 23657.0,
+        "low_price": 23656.0,
+        "close_price": 23657.0,
+        "volume": 23301.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260517,
+        "open_price": 23629.0,
+        "high_price": 23629.0,
+        "low_price": 23629.0,
+        "close_price": 23629.0,
+        "volume": 1067540.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260516,
+        "open_price": 23602.0,
+        "high_price": 23603.0,
+        "low_price": 23602.0,
+        "close_price": 23602.0,
+        "volume": 153481.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260513,
+        "open_price": 23571.0,
+        "high_price": 23571.0,
+        "low_price": 23570.0,
+        "close_price": 23571.0,
+        "volume": 454917.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260512,
+        "open_price": 23545.0,
+        "high_price": 23550.0,
+        "low_price": 23544.0,
+        "close_price": 23550.0,
+        "volume": 91663417.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260511,
+        "open_price": 23518.0,
+        "high_price": 23519.0,
+        "low_price": 23518.0,
+        "close_price": 23519.0,
+        "volume": 7711836.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260510,
+        "open_price": 23492.0,
+        "high_price": 23493.0,
+        "low_price": 23492.0,
+        "close_price": 23492.0,
+        "volume": 1528615.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260509,
+        "open_price": 23467.0,
+        "high_price": 23467.0,
+        "low_price": 23466.0,
+        "close_price": 23467.0,
+        "volume": 897540.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260506,
+        "open_price": 23436.0,
+        "high_price": 23436.0,
+        "low_price": 23435.0,
+        "close_price": 23436.0,
+        "volume": 8904283.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260505,
+        "open_price": 23409.0,
+        "high_price": 23410.0,
+        "low_price": 23409.0,
+        "close_price": 23409.0,
+        "volume": 683.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260504,
+        "open_price": 23384.0,
+        "high_price": 23384.0,
+        "low_price": 23383.0,
+        "close_price": 23383.0,
+        "volume": 5209325.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260503,
+        "open_price": 23358.0,
+        "high_price": 23358.0,
+        "low_price": 23357.0,
+        "close_price": 23357.0,
+        "volume": 442328.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260502,
+        "open_price": 23332.0,
+        "high_price": 23332.0,
+        "low_price": 23331.0,
+        "close_price": 23331.0,
+        "volume": 1023456.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260429,
+        "open_price": 23301.0,
+        "high_price": 23302.0,
+        "low_price": 23301.0,
+        "close_price": 23301.0,
+        "volume": 443646.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260428,
+        "open_price": 23275.0,
+        "high_price": 23276.0,
+        "low_price": 23275.0,
+        "close_price": 23275.0,
+        "volume": 434441.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260427,
+        "open_price": 23249.0,
+        "high_price": 23250.0,
+        "low_price": 23249.0,
+        "close_price": 23249.0,
+        "volume": 6622.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260426,
+        "open_price": 23223.0,
+        "high_price": 23224.0,
+        "low_price": 23223.0,
+        "close_price": 23224.0,
+        "volume": 6083912.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260425,
+        "open_price": 23197.0,
+        "high_price": 23198.0,
+        "low_price": 23197.0,
+        "close_price": 23197.0,
+        "volume": 7627.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260422,
+        "open_price": 23168.0,
+        "high_price": 23169.0,
+        "low_price": 23168.0,
+        "close_price": 23169.0,
+        "volume": 63817.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260421,
+        "open_price": 23142.0,
+        "high_price": 23143.0,
+        "low_price": 23142.0,
+        "close_price": 23142.0,
+        "volume": 3600936.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260420,
+        "open_price": 23116.0,
+        "high_price": 23117.0,
+        "low_price": 23116.0,
+        "close_price": 23117.0,
+        "volume": 6383042.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260419,
+        "open_price": 23090.0,
+        "high_price": 23091.0,
+        "low_price": 23090.0,
+        "close_price": 23091.0,
+        "volume": 45118.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260418,
+        "open_price": 23064.0,
+        "high_price": 23065.0,
+        "low_price": 23064.0,
+        "close_price": 23065.0,
+        "volume": 1000789.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260415,
+        "open_price": 23036.0,
+        "high_price": 23037.0,
+        "low_price": 23036.0,
+        "close_price": 23037.0,
+        "volume": 2223003.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260413,
+        "open_price": 22997.0,
+        "high_price": 22998.0,
+        "low_price": 22997.0,
+        "close_price": 22997.0,
+        "volume": 3246514.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260412,
+        "open_price": 22959.0,
+        "high_price": 22959.0,
+        "low_price": 22958.0,
+        "close_price": 22958.0,
+        "volume": 893037.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260411,
+        "open_price": 22932.0,
+        "high_price": 22933.0,
+        "low_price": 22932.0,
+        "close_price": 22933.0,
+        "volume": 2584577.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260408,
+        "open_price": 22904.0,
+        "high_price": 22905.0,
+        "low_price": 22904.0,
+        "close_price": 22904.0,
+        "volume": 15200.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260407,
+        "open_price": 22878.0,
+        "high_price": 22879.0,
+        "low_price": 22878.0,
+        "close_price": 22878.0,
+        "volume": 12993241.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260406,
+        "open_price": 22852.0,
+        "high_price": 22853.0,
+        "low_price": 22852.0,
+        "close_price": 22852.0,
+        "volume": 15104381.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260405,
+        "open_price": 22827.0,
+        "high_price": 22827.0,
+        "low_price": 22826.0,
+        "close_price": 22826.0,
+        "volume": 18759272.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260404,
+        "open_price": 22800.0,
+        "high_price": 22801.0,
+        "low_price": 22800.0,
+        "close_price": 22800.0,
+        "volume": 20274637.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260331,
+        "open_price": 22759.0,
+        "high_price": 22759.0,
+        "low_price": 22759.0,
+        "close_price": 22759.0,
+        "volume": 147734.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260330,
+        "open_price": 22721.0,
+        "high_price": 22721.0,
+        "low_price": 22720.0,
+        "close_price": 22720.0,
+        "volume": 691724.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260329,
+        "open_price": 22695.0,
+        "high_price": 22696.0,
+        "low_price": 22695.0,
+        "close_price": 22696.0,
+        "volume": 320973.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260328,
+        "open_price": 22638.0,
+        "high_price": 22639.0,
+        "low_price": 22638.0,
+        "close_price": 22639.0,
+        "volume": 3900.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260325,
+        "open_price": 22589.0,
+        "high_price": 22589.0,
+        "low_price": 22588.0,
+        "close_price": 22588.0,
+        "volume": 5153011.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260318,
+        "open_price": 22537.0,
+        "high_price": 22537.0,
+        "low_price": 22536.0,
+        "close_price": 22536.0,
+        "volume": 6479514.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260317,
+        "open_price": 22453.0,
+        "high_price": 22453.0,
+        "low_price": 22452.0,
+        "close_price": 22452.0,
+        "volume": 174810702.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260316,
+        "open_price": 22408.0,
+        "high_price": 22409.0,
+        "low_price": 22408.0,
+        "close_price": 22408.0,
+        "volume": 3220000.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260315,
+        "open_price": 22363.0,
+        "high_price": 22367.0,
+        "low_price": 22362.0,
+        "close_price": 22362.0,
+        "volume": 6250444.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260314,
+        "open_price": 22317.0,
+        "high_price": 22318.0,
+        "low_price": 22317.0,
+        "close_price": 22317.0,
+        "volume": 2010179.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260310,
+        "open_price": 22260.0,
+        "high_price": 22261.0,
+        "low_price": 22259.0,
+        "close_price": 22260.0,
+        "volume": 243685203.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260309,
+        "open_price": 22216.0,
+        "high_price": 22216.0,
+        "low_price": 22215.0,
+        "close_price": 22215.0,
+        "volume": 118660556.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260308,
+        "open_price": 22171.0,
+        "high_price": 22171.0,
+        "low_price": 22170.0,
+        "close_price": 22170.0,
+        "volume": 7107140.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 22126.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 22126.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 22126.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 22126.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 22126.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260225,
+        "open_price": 22127.0,
+        "high_price": 22127.0,
+        "low_price": 22126.0,
+        "close_price": 22126.0,
+        "volume": 160107.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260224,
+        "open_price": 22102.0,
+        "high_price": 22102.0,
+        "low_price": 22101.0,
+        "close_price": 22101.0,
+        "volume": 1191824.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260223,
+        "open_price": 22077.0,
+        "high_price": 22077.0,
+        "low_price": 22076.0,
+        "close_price": 22077.0,
+        "volume": 96999.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260222,
+        "open_price": 22052.0,
+        "high_price": 22052.0,
+        "low_price": 22051.0,
+        "close_price": 22052.0,
+        "volume": 5010532.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260221,
+        "open_price": 22027.0,
+        "high_price": 22027.0,
+        "low_price": 22026.0,
+        "close_price": 22026.0,
+        "volume": 275995.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260218,
+        "open_price": 22001.0,
+        "high_price": 22001.0,
+        "low_price": 22000.0,
+        "close_price": 22000.0,
+        "volume": 34225.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260217,
+        "open_price": 21975.0,
+        "high_price": 21975.0,
+        "low_price": 21975.0,
+        "close_price": 21975.0,
+        "volume": 45973.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260216,
+        "open_price": 21950.0,
+        "high_price": 21951.0,
+        "low_price": 21950.0,
+        "close_price": 21950.0,
+        "volume": 2976003.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260215,
+        "open_price": 21925.0,
+        "high_price": 21926.0,
+        "low_price": 21925.0,
+        "close_price": 21926.0,
+        "volume": 6369338.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260214,
+        "open_price": 21900.0,
+        "high_price": 21901.0,
+        "low_price": 21900.0,
+        "close_price": 21900.0,
+        "volume": 2498395.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260210,
+        "open_price": 21847.0,
+        "high_price": 21847.0,
+        "low_price": 21846.0,
+        "close_price": 21846.0,
+        "volume": 4510137.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260209,
+        "open_price": 21823.0,
+        "high_price": 21823.0,
+        "low_price": 21822.0,
+        "close_price": 21823.0,
+        "volume": 1322082.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260208,
+        "open_price": 21799.0,
+        "high_price": 21799.0,
+        "low_price": 21798.0,
+        "close_price": 21798.0,
+        "volume": 1271481.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260207,
+        "open_price": 21775.0,
+        "high_price": 21775.0,
+        "low_price": 21774.0,
+        "close_price": 21774.0,
+        "volume": 258058.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260203,
+        "open_price": 21722.0,
+        "high_price": 21722.0,
+        "low_price": 21721.0,
+        "close_price": 21722.0,
+        "volume": 6311564.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260202,
+        "open_price": 21698.0,
+        "high_price": 21698.0,
+        "low_price": 21697.0,
+        "close_price": 21698.0,
+        "volume": 114382.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260201,
+        "open_price": 21673.0,
+        "high_price": 21674.0,
+        "low_price": 21673.0,
+        "close_price": 21674.0,
+        "volume": 259806.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260131,
+        "open_price": 21650.0,
+        "high_price": 21650.0,
+        "low_price": 21649.0,
+        "close_price": 21649.0,
+        "volume": 5229392.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260128,
+        "open_price": 21621.0,
+        "high_price": 21622.0,
+        "low_price": 21621.0,
+        "close_price": 21622.0,
+        "volume": 7802597.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260127,
+        "open_price": 21597.0,
+        "high_price": 21598.0,
+        "low_price": 21597.0,
+        "close_price": 21598.0,
+        "volume": 8794570.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260126,
+        "open_price": 21573.0,
+        "high_price": 21574.0,
+        "low_price": 21573.0,
+        "close_price": 21573.0,
+        "volume": 19446114.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260125,
+        "open_price": 21550.0,
+        "high_price": 21550.0,
+        "low_price": 21549.0,
+        "close_price": 21549.0,
+        "volume": 9589590.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260124,
+        "open_price": 21526.0,
+        "high_price": 21526.0,
+        "low_price": 21526.0,
+        "close_price": 21526.0,
+        "volume": 964.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260121,
+        "open_price": 21499.0,
+        "high_price": 21499.0,
+        "low_price": 21498.0,
+        "close_price": 21499.0,
+        "volume": 901419.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260120,
+        "open_price": 21475.0,
+        "high_price": 21475.0,
+        "low_price": 21474.0,
+        "close_price": 21475.0,
+        "volume": 819611.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260119,
+        "open_price": 21451.0,
+        "high_price": 21451.0,
+        "low_price": 21450.0,
+        "close_price": 21451.0,
+        "volume": 177789.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260118,
+        "open_price": 21426.0,
+        "high_price": 21428.0,
+        "low_price": 21426.0,
+        "close_price": 21427.0,
+        "volume": 19687727.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260114,
+        "open_price": 21376.0,
+        "high_price": 21376.0,
+        "low_price": 21375.0,
+        "close_price": 21376.0,
+        "volume": 266519.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260113,
+        "open_price": 21352.0,
+        "high_price": 21352.0,
+        "low_price": 21351.0,
+        "close_price": 21351.0,
+        "volume": 2253880.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260112,
+        "open_price": 21327.0,
+        "high_price": 21328.0,
+        "low_price": 21327.0,
+        "close_price": 21327.0,
+        "volume": 81533.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260111,
+        "open_price": 21304.0,
+        "high_price": 21304.0,
+        "low_price": 21303.0,
+        "close_price": 21304.0,
+        "volume": 6690449.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260110,
+        "open_price": 21280.0,
+        "high_price": 21280.0,
+        "low_price": 21279.0,
+        "close_price": 21279.0,
+        "volume": 266751.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260107,
+        "open_price": 21254.0,
+        "high_price": 21254.0,
+        "low_price": 21253.0,
+        "close_price": 21253.0,
+        "volume": 1510527.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260106,
+        "open_price": 21229.0,
+        "high_price": 21230.0,
+        "low_price": 21229.0,
+        "close_price": 21230.0,
+        "volume": 20949621.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260105,
+        "open_price": 21206.0,
+        "high_price": 21206.0,
+        "low_price": 21205.0,
+        "close_price": 21205.0,
+        "volume": 3870395.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20260104,
+        "open_price": 21170.0,
+        "high_price": 21171.0,
+        "low_price": 21170.0,
+        "close_price": 21170.0,
+        "volume": 17240881.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251231,
+        "open_price": 21134.0,
+        "high_price": 21134.0,
+        "low_price": 21133.0,
+        "close_price": 21133.0,
+        "volume": 47120016.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251230,
+        "open_price": 21110.0,
+        "high_price": 21110.0,
+        "low_price": 21109.0,
+        "close_price": 21109.0,
+        "volume": 4194161.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251229,
+        "open_price": 21085.0,
+        "high_price": 21086.0,
+        "low_price": 21085.0,
+        "close_price": 21085.0,
+        "volume": 20330300.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251228,
+        "open_price": 21062.0,
+        "high_price": 21062.0,
+        "low_price": 21061.0,
+        "close_price": 21061.0,
+        "volume": 3582525.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251227,
+        "open_price": 21036.0,
+        "high_price": 21036.0,
+        "low_price": 21035.0,
+        "close_price": 21036.0,
+        "volume": 1737323.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251224,
+        "open_price": 21002.0,
+        "high_price": 21002.0,
+        "low_price": 21001.0,
+        "close_price": 21001.0,
+        "volume": 17947039.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251223,
+        "open_price": 20976.0,
+        "high_price": 20976.0,
+        "low_price": 20975.0,
+        "close_price": 20975.0,
+        "volume": 12030894.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251222,
+        "open_price": 20949.0,
+        "high_price": 20950.0,
+        "low_price": 20949.0,
+        "close_price": 20949.0,
+        "volume": 87909719.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251221,
+        "open_price": 20923.0,
+        "high_price": 20924.0,
+        "low_price": 20923.0,
+        "close_price": 20923.0,
+        "volume": 32160906.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251220,
+        "open_price": 20899.0,
+        "high_price": 20900.0,
+        "low_price": 20899.0,
+        "close_price": 20899.0,
+        "volume": 71147011.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251217,
+        "open_price": 20874.0,
+        "high_price": 20874.0,
+        "low_price": 20873.0,
+        "close_price": 20873.0,
+        "volume": 47400870.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251216,
+        "open_price": 20851.0,
+        "high_price": 20852.0,
+        "low_price": 20851.0,
+        "close_price": 20851.0,
+        "volume": 32961364.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251215,
+        "open_price": 20827.0,
+        "high_price": 20828.0,
+        "low_price": 20827.0,
+        "close_price": 20827.0,
+        "volume": 6834245.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251214,
+        "open_price": 20803.0,
+        "high_price": 20804.0,
+        "low_price": 20803.0,
+        "close_price": 20804.0,
+        "volume": 1319967.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251213,
+        "open_price": 20779.0,
+        "high_price": 20780.0,
+        "low_price": 20779.0,
+        "close_price": 20780.0,
+        "volume": 17701795.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251210,
+        "open_price": 20755.0,
+        "high_price": 20755.0,
+        "low_price": 20754.0,
+        "close_price": 20755.0,
+        "volume": 39078837.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251209,
+        "open_price": 20732.0,
+        "high_price": 20733.0,
+        "low_price": 20732.0,
+        "close_price": 20732.0,
+        "volume": 18139914.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251208,
+        "open_price": 20708.0,
+        "high_price": 20709.0,
+        "low_price": 20708.0,
+        "close_price": 20708.0,
+        "volume": 11471692.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251207,
+        "open_price": 20684.0,
+        "high_price": 20685.0,
+        "low_price": 20684.0,
+        "close_price": 20685.0,
+        "volume": 987401.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251206,
+        "open_price": 20661.0,
+        "high_price": 20661.0,
+        "low_price": 20660.0,
+        "close_price": 20660.0,
+        "volume": 249617.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251203,
+        "open_price": 20635.0,
+        "high_price": 20636.0,
+        "low_price": 20635.0,
+        "close_price": 20635.0,
+        "volume": 2480884.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251202,
+        "open_price": 20613.0,
+        "high_price": 20614.0,
+        "low_price": 20613.0,
+        "close_price": 20614.0,
+        "volume": 2743317.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251201,
+        "open_price": 20590.0,
+        "high_price": 20590.0,
+        "low_price": 20589.0,
+        "close_price": 20589.0,
+        "volume": 294676.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251130,
+        "open_price": 20566.0,
+        "high_price": 20566.0,
+        "low_price": 20565.0,
+        "close_price": 20565.0,
+        "volume": 13487377.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251129,
+        "open_price": 20541.0,
+        "high_price": 20542.0,
+        "low_price": 20541.0,
+        "close_price": 20542.0,
+        "volume": 372250.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251126,
+        "open_price": 20513.0,
+        "high_price": 20513.0,
+        "low_price": 20512.0,
+        "close_price": 20513.0,
+        "volume": 489857.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251125,
+        "open_price": 20487.0,
+        "high_price": 20488.0,
+        "low_price": 20487.0,
+        "close_price": 20487.0,
+        "volume": 2054988.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251123,
+        "open_price": 20455.0,
+        "high_price": 20456.0,
+        "low_price": 20455.0,
+        "close_price": 20456.0,
+        "volume": 7971300.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251122,
+        "open_price": 20423.0,
+        "high_price": 20424.0,
+        "low_price": 20423.0,
+        "close_price": 20423.0,
+        "volume": 2310944.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251119,
+        "open_price": 20400.0,
+        "high_price": 20401.0,
+        "low_price": 20400.0,
+        "close_price": 20401.0,
+        "volume": 25700019.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251118,
+        "open_price": 20379.0,
+        "high_price": 20379.0,
+        "low_price": 20378.0,
+        "close_price": 20378.0,
+        "volume": 6376479.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251117,
+        "open_price": 20355.0,
+        "high_price": 20355.0,
+        "low_price": 20354.0,
+        "close_price": 20355.0,
+        "volume": 51479698.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251116,
+        "open_price": 20331.0,
+        "high_price": 20331.0,
+        "low_price": 20330.0,
+        "close_price": 20330.0,
+        "volume": 9457.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251115,
+        "open_price": 20307.0,
+        "high_price": 20307.0,
+        "low_price": 20306.0,
+        "close_price": 20307.0,
+        "volume": 2132277.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251112,
+        "open_price": 20284.0,
+        "high_price": 20285.0,
+        "low_price": 20284.0,
+        "close_price": 20285.0,
+        "volume": 8479.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251111,
+        "open_price": 20263.0,
+        "high_price": 20263.0,
+        "low_price": 20262.0,
+        "close_price": 20262.0,
+        "volume": 13241178.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251110,
+        "open_price": 20239.0,
+        "high_price": 20239.0,
+        "low_price": 20238.0,
+        "close_price": 20239.0,
+        "volume": 98428.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251109,
+        "open_price": 20214.0,
+        "high_price": 20215.0,
+        "low_price": 20214.0,
+        "close_price": 20214.0,
+        "volume": 10911598.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251108,
+        "open_price": 20191.0,
+        "high_price": 20191.0,
+        "low_price": 20190.0,
+        "close_price": 20190.0,
+        "volume": 5430991.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251105,
+        "open_price": 20168.0,
+        "high_price": 20169.0,
+        "low_price": 20168.0,
+        "close_price": 20168.0,
+        "volume": 31001244.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251104,
+        "open_price": 20147.0,
+        "high_price": 20147.0,
+        "low_price": 20146.0,
+        "close_price": 20147.0,
+        "volume": 42775675.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251103,
+        "open_price": 20123.0,
+        "high_price": 20123.0,
+        "low_price": 20123.0,
+        "close_price": 20123.0,
+        "volume": 48848.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251102,
+        "open_price": 20099.0,
+        "high_price": 20099.0,
+        "low_price": 20098.0,
+        "close_price": 20098.0,
+        "volume": 619363.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251101,
+        "open_price": 20075.0,
+        "high_price": 20075.0,
+        "low_price": 20074.0,
+        "close_price": 20074.0,
+        "volume": 753209.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251029,
+        "open_price": 20051.0,
+        "high_price": 20051.0,
+        "low_price": 20050.0,
+        "close_price": 20050.0,
+        "volume": 2747311.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251028,
+        "open_price": 20028.0,
+        "high_price": 20029.0,
+        "low_price": 20028.0,
+        "close_price": 20029.0,
+        "volume": 561326.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251027,
+        "open_price": 20005.0,
+        "high_price": 20005.0,
+        "low_price": 20004.0,
+        "close_price": 20004.0,
+        "volume": 2044604.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251026,
+        "open_price": 19982.0,
+        "high_price": 19982.0,
+        "low_price": 19981.0,
+        "close_price": 19981.0,
+        "volume": 4070254.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251025,
+        "open_price": 19958.0,
+        "high_price": 19959.0,
+        "low_price": 19958.0,
+        "close_price": 19959.0,
+        "volume": 239389.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251022,
+        "open_price": 19935.0,
+        "high_price": 19936.0,
+        "low_price": 19935.0,
+        "close_price": 19936.0,
+        "volume": 6605893.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251021,
+        "open_price": 19913.0,
+        "high_price": 19914.0,
+        "low_price": 19913.0,
+        "close_price": 19914.0,
+        "volume": 467465.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251020,
+        "open_price": 19890.0,
+        "high_price": 19891.0,
+        "low_price": 19890.0,
+        "close_price": 19891.0,
+        "volume": 31717308.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251019,
+        "open_price": 19867.0,
+        "high_price": 19868.0,
+        "low_price": 19867.0,
+        "close_price": 19868.0,
+        "volume": 16647691.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251018,
+        "open_price": 19845.0,
+        "high_price": 19845.0,
+        "low_price": 19844.0,
+        "close_price": 19845.0,
+        "volume": 90300.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251015,
+        "open_price": 19821.0,
+        "high_price": 19822.0,
+        "low_price": 19821.0,
+        "close_price": 19821.0,
+        "volume": 4641893.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251014,
+        "open_price": 19799.0,
+        "high_price": 19800.0,
+        "low_price": 19799.0,
+        "close_price": 19799.0,
+        "volume": 7011470.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251013,
+        "open_price": 19776.0,
+        "high_price": 19777.0,
+        "low_price": 19776.0,
+        "close_price": 19777.0,
+        "volume": 15296618.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251012,
+        "open_price": 19753.0,
+        "high_price": 19754.0,
+        "low_price": 19753.0,
+        "close_price": 19753.0,
+        "volume": 1968767.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251011,
+        "open_price": 19731.0,
+        "high_price": 19731.0,
+        "low_price": 19730.0,
+        "close_price": 19730.0,
+        "volume": 1054206.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251008,
+        "open_price": 19706.0,
+        "high_price": 19707.0,
+        "low_price": 19706.0,
+        "close_price": 19707.0,
+        "volume": 10370517.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251007,
+        "open_price": 19686.0,
+        "high_price": 19687.0,
+        "low_price": 19686.0,
+        "close_price": 19686.0,
+        "volume": 3958813.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251006,
+        "open_price": 19664.0,
+        "high_price": 19664.0,
+        "low_price": 19663.0,
+        "close_price": 19663.0,
+        "volume": 21017213.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251005,
+        "open_price": 19641.0,
+        "high_price": 19641.0,
+        "low_price": 19640.0,
+        "close_price": 19640.0,
+        "volume": 17205426.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251004,
+        "open_price": 19618.0,
+        "high_price": 19618.0,
+        "low_price": 19617.0,
+        "close_price": 19617.0,
+        "volume": 202683.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20251001,
+        "open_price": 19597.0,
+        "high_price": 19597.0,
+        "low_price": 19596.0,
+        "close_price": 19596.0,
+        "volume": 16616073.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250930,
+        "open_price": 19574.0,
+        "high_price": 19574.0,
+        "low_price": 19573.0,
+        "close_price": 19573.0,
+        "volume": 13654444.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250929,
+        "open_price": 19551.0,
+        "high_price": 19551.0,
+        "low_price": 19550.0,
+        "close_price": 19551.0,
+        "volume": 3938978.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250928,
+        "open_price": 19528.0,
+        "high_price": 19528.0,
+        "low_price": 19527.0,
+        "close_price": 19528.0,
+        "volume": 29407321.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250927,
+        "open_price": 19505.0,
+        "high_price": 19505.0,
+        "low_price": 19504.0,
+        "close_price": 19504.0,
+        "volume": 25952464.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250924,
+        "open_price": 19482.0,
+        "high_price": 19482.0,
+        "low_price": 19481.0,
+        "close_price": 19481.0,
+        "volume": 17840283.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250923,
+        "open_price": 19462.0,
+        "high_price": 19462.0,
+        "low_price": 19461.0,
+        "close_price": 19461.0,
+        "volume": 72247206.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250922,
+        "open_price": 19439.0,
+        "high_price": 19439.0,
+        "low_price": 19438.0,
+        "close_price": 19438.0,
+        "volume": 48932905.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250921,
+        "open_price": 19416.0,
+        "high_price": 19416.0,
+        "low_price": 19415.0,
+        "close_price": 19416.0,
+        "volume": 55961927.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250920,
+        "open_price": 19393.0,
+        "high_price": 19393.0,
+        "low_price": 19392.0,
+        "close_price": 19393.0,
+        "volume": 69323881.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250917,
+        "open_price": 19371.0,
+        "high_price": 19371.0,
+        "low_price": 19370.0,
+        "close_price": 19371.0,
+        "volume": 12904227.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250916,
+        "open_price": 19351.0,
+        "high_price": 19351.0,
+        "low_price": 19350.0,
+        "close_price": 19350.0,
+        "volume": 13835683.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250915,
+        "open_price": 19328.0,
+        "high_price": 19328.0,
+        "low_price": 19327.0,
+        "close_price": 19327.0,
+        "volume": 19545434.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250914,
+        "open_price": 19305.0,
+        "high_price": 19305.0,
+        "low_price": 19304.0,
+        "close_price": 19304.0,
+        "volume": 55705783.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250913,
+        "open_price": 19282.0,
+        "high_price": 19282.0,
+        "low_price": 19281.0,
+        "close_price": 19281.0,
+        "volume": 9807245.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250909,
+        "open_price": 19246.0,
+        "high_price": 19246.0,
+        "low_price": 19245.0,
+        "close_price": 19245.0,
+        "volume": 6869649.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250908,
+        "open_price": 19214.0,
+        "high_price": 19214.0,
+        "low_price": 19213.0,
+        "close_price": 19214.0,
+        "volume": 7961289.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250907,
+        "open_price": 19182.0,
+        "high_price": 19182.0,
+        "low_price": 19181.0,
+        "close_price": 19181.0,
+        "volume": 14107511.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250906,
+        "open_price": 19150.0,
+        "high_price": 19150.0,
+        "low_price": 19149.0,
+        "close_price": 19150.0,
+        "volume": 32752552.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250903,
+        "open_price": 19118.0,
+        "high_price": 19118.0,
+        "low_price": 19117.0,
+        "close_price": 19117.0,
+        "volume": 44515048.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250902,
+        "open_price": 19094.0,
+        "high_price": 19094.0,
+        "low_price": 19093.0,
+        "close_price": 19094.0,
+        "volume": 1335453.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250831,
+        "open_price": 19070.0,
+        "high_price": 19070.0,
+        "low_price": 19069.0,
+        "close_price": 19070.0,
+        "volume": 800357.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250830,
+        "open_price": 19046.0,
+        "high_price": 19046.0,
+        "low_price": 19045.0,
+        "close_price": 19046.0,
+        "volume": 1228048.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250827,
+        "open_price": 19022.0,
+        "high_price": 19022.0,
+        "low_price": 19021.0,
+        "close_price": 19022.0,
+        "volume": 3397296.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250826,
+        "open_price": 18997.0,
+        "high_price": 18998.0,
+        "low_price": 18997.0,
+        "close_price": 18998.0,
+        "volume": 80712697.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250825,
+        "open_price": 18974.0,
+        "high_price": 18974.0,
+        "low_price": 18974.0,
+        "close_price": 18974.0,
+        "volume": 80365.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250823,
+        "open_price": 18944.0,
+        "high_price": 18945.0,
+        "low_price": 18944.0,
+        "close_price": 18945.0,
+        "volume": 19533500.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250820,
+        "open_price": 18910.0,
+        "high_price": 18911.0,
+        "low_price": 18910.0,
+        "close_price": 18910.0,
+        "volume": 7211108.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250819,
+        "open_price": 18890.0,
+        "high_price": 18891.0,
+        "low_price": 18890.0,
+        "close_price": 18891.0,
+        "volume": 5719871.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250818,
+        "open_price": 18870.0,
+        "high_price": 18870.0,
+        "low_price": 18870.0,
+        "close_price": 18870.0,
+        "volume": 212963.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250817,
+        "open_price": 18850.0,
+        "high_price": 18850.0,
+        "low_price": 18850.0,
+        "close_price": 18850.0,
+        "volume": 100.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250816,
+        "open_price": 18830.0,
+        "high_price": 18831.0,
+        "low_price": 18830.0,
+        "close_price": 18831.0,
+        "volume": 1784080.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250813,
+        "open_price": 18809.0,
+        "high_price": 18808.0,
+        "low_price": 18808.0,
+        "close_price": 18808.0,
+        "volume": 19094500.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250812,
+        "open_price": 18788.0,
+        "high_price": 18789.0,
+        "low_price": 18788.0,
+        "close_price": 18789.0,
+        "volume": 22033253.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250811,
+        "open_price": 18768.0,
+        "high_price": 18769.0,
+        "low_price": 18768.0,
+        "close_price": 18769.0,
+        "volume": 11419831.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250810,
+        "open_price": 18748.0,
+        "high_price": 18749.0,
+        "low_price": 18748.0,
+        "close_price": 18749.0,
+        "volume": 2297330.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250809,
+        "open_price": 18728.0,
+        "high_price": 18729.0,
+        "low_price": 18728.0,
+        "close_price": 18729.0,
+        "volume": 28411618.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250806,
+        "open_price": 18705.0,
+        "high_price": 18706.0,
+        "low_price": 18705.0,
+        "close_price": 18706.0,
+        "volume": 14355168.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250805,
+        "open_price": 18685.0,
+        "high_price": 18686.0,
+        "low_price": 18685.0,
+        "close_price": 18686.0,
+        "volume": 920553.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250804,
+        "open_price": 18665.0,
+        "high_price": 18666.0,
+        "low_price": 18665.0,
+        "close_price": 18665.0,
+        "volume": 799.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250803,
+        "open_price": 18645.0,
+        "high_price": 18646.0,
+        "low_price": 18645.0,
+        "close_price": 18645.0,
+        "volume": 10002571.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250802,
+        "open_price": 18625.0,
+        "high_price": 18626.0,
+        "low_price": 18625.0,
+        "close_price": 18626.0,
+        "volume": 28708539.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250730,
+        "open_price": 18604.0,
+        "high_price": 18605.0,
+        "low_price": 18604.0,
+        "close_price": 18604.0,
+        "volume": 112718.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250729,
+        "open_price": 18584.0,
+        "high_price": 18584.0,
+        "low_price": 18584.0,
+        "close_price": 18584.0,
+        "volume": 100.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250728,
+        "open_price": 18564.0,
+        "high_price": 18564.0,
+        "low_price": 18564.0,
+        "close_price": 18564.0,
+        "volume": 208250.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250727,
+        "open_price": 18544.0,
+        "high_price": 18545.0,
+        "low_price": 18544.0,
+        "close_price": 18544.0,
+        "volume": 2697221.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250726,
+        "open_price": 18524.0,
+        "high_price": 18525.0,
+        "low_price": 18524.0,
+        "close_price": 18525.0,
+        "volume": 22530329.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250723,
+        "open_price": 18504.0,
+        "high_price": 18505.0,
+        "low_price": 18504.0,
+        "close_price": 18505.0,
+        "volume": 1117200.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250722,
+        "open_price": 18484.0,
+        "high_price": 18485.0,
+        "low_price": 18484.0,
+        "close_price": 18485.0,
+        "volume": 1609175.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250721,
+        "open_price": 18464.0,
+        "high_price": 18465.0,
+        "low_price": 18464.0,
+        "close_price": 18464.0,
+        "volume": 33336910.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250720,
+        "open_price": 18444.0,
+        "high_price": 18445.0,
+        "low_price": 18444.0,
+        "close_price": 18444.0,
+        "volume": 8565302.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250719,
+        "open_price": 18424.0,
+        "high_price": 18425.0,
+        "low_price": 18424.0,
+        "close_price": 18425.0,
+        "volume": 18037983.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250716,
+        "open_price": 18405.0,
+        "high_price": 18406.0,
+        "low_price": 18405.0,
+        "close_price": 18406.0,
+        "volume": 163059.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250715,
+        "open_price": 18385.0,
+        "high_price": 18386.0,
+        "low_price": 18385.0,
+        "close_price": 18385.0,
+        "volume": 600455.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250714,
+        "open_price": 18365.0,
+        "high_price": 18366.0,
+        "low_price": 18365.0,
+        "close_price": 18366.0,
+        "volume": 153070.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250713,
+        "open_price": 18345.0,
+        "high_price": 18346.0,
+        "low_price": 18345.0,
+        "close_price": 18345.0,
+        "volume": 11348569.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250712,
+        "open_price": 18325.0,
+        "high_price": 18325.0,
+        "low_price": 18325.0,
+        "close_price": 18325.0,
+        "volume": 26984.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250709,
+        "open_price": 18304.0,
+        "high_price": 18305.0,
+        "low_price": 18304.0,
+        "close_price": 18305.0,
+        "volume": 14157327.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250708,
+        "open_price": 18283.0,
+        "high_price": 18284.0,
+        "low_price": 18283.0,
+        "close_price": 18283.0,
+        "volume": 5646435.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250707,
+        "open_price": 18263.0,
+        "high_price": 18264.0,
+        "low_price": 18263.0,
+        "close_price": 18264.0,
+        "volume": 7531028.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250702,
+        "open_price": 18220.0,
+        "high_price": 18221.0,
+        "low_price": 18220.0,
+        "close_price": 18221.0,
+        "volume": 12150948.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250701,
+        "open_price": 18190.0,
+        "high_price": 18191.0,
+        "low_price": 18190.0,
+        "close_price": 18190.0,
+        "volume": 3847781.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250630,
+        "open_price": 18171.0,
+        "high_price": 18172.0,
+        "low_price": 18171.0,
+        "close_price": 18172.0,
+        "volume": 2859385.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250629,
+        "open_price": 18152.0,
+        "high_price": 18153.0,
+        "low_price": 18152.0,
+        "close_price": 18153.0,
+        "volume": 14091.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250628,
+        "open_price": 18133.0,
+        "high_price": 18134.0,
+        "low_price": 18133.0,
+        "close_price": 18133.0,
+        "volume": 29098.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250625,
+        "open_price": 18114.0,
+        "high_price": 18114.0,
+        "low_price": 18114.0,
+        "close_price": 18114.0,
+        "volume": 100.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250624,
+        "open_price": 18095.0,
+        "high_price": 18096.0,
+        "low_price": 18095.0,
+        "close_price": 18096.0,
+        "volume": 6900159.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250623,
+        "open_price": 18080.0,
+        "high_price": 18080.0,
+        "low_price": 18080.0,
+        "close_price": 18080.0,
+        "volume": 81172.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250622,
+        "open_price": 18065.0,
+        "high_price": 18066.0,
+        "low_price": 18065.0,
+        "close_price": 18066.0,
+        "volume": 11405844.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250621,
+        "open_price": 18047.0,
+        "high_price": 18047.0,
+        "low_price": 18047.0,
+        "close_price": 18047.0,
+        "volume": 103010.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18029.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18029.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18029.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250611,
+        "open_price": 18028.0,
+        "high_price": 18029.0,
+        "low_price": 18028.0,
+        "close_price": 18029.0,
+        "volume": 5595082.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250610,
+        "open_price": 18002.0,
+        "high_price": 18003.0,
+        "low_price": 18002.0,
+        "close_price": 18002.0,
+        "volume": 10604.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250609,
+        "open_price": 17984.0,
+        "high_price": 17985.0,
+        "low_price": 17984.0,
+        "close_price": 17985.0,
+        "volume": 8320169.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250608,
+        "open_price": 17966.0,
+        "high_price": 17967.0,
+        "low_price": 17966.0,
+        "close_price": 17967.0,
+        "volume": 2445534.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250607,
+        "open_price": 17948.0,
+        "high_price": 17949.0,
+        "low_price": 17948.0,
+        "close_price": 17949.0,
+        "volume": 518089.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250603,
+        "open_price": 17915.0,
+        "high_price": 17916.0,
+        "low_price": 17915.0,
+        "close_price": 17915.0,
+        "volume": 26006908.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250602,
+        "open_price": 17889.0,
+        "high_price": 17890.0,
+        "low_price": 17889.0,
+        "close_price": 17890.0,
+        "volume": 55987.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250601,
+        "open_price": 17871.0,
+        "high_price": 17872.0,
+        "low_price": 17871.0,
+        "close_price": 17872.0,
+        "volume": 32927.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250531,
+        "open_price": 17853.0,
+        "high_price": 17854.0,
+        "low_price": 17853.0,
+        "close_price": 17854.0,
+        "volume": 16349020.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250528,
+        "open_price": 17831.0,
+        "high_price": 17832.0,
+        "low_price": 17831.0,
+        "close_price": 17832.0,
+        "volume": 289599.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250527,
+        "open_price": 17812.0,
+        "high_price": 17813.0,
+        "low_price": 17812.0,
+        "close_price": 17813.0,
+        "volume": 35246.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250526,
+        "open_price": 17794.0,
+        "high_price": 17794.0,
+        "low_price": 17794.0,
+        "close_price": 17794.0,
+        "volume": 30100.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250525,
+        "open_price": 17776.0,
+        "high_price": 17777.0,
+        "low_price": 17776.0,
+        "close_price": 17777.0,
+        "volume": 25120.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250524,
+        "open_price": 17758.0,
+        "high_price": 17758.0,
+        "low_price": 17758.0,
+        "close_price": 17758.0,
+        "volume": 182355.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250521,
+        "open_price": 17737.0,
+        "high_price": 17738.0,
+        "low_price": 17737.0,
+        "close_price": 17737.0,
+        "volume": 66763.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250520,
+        "open_price": 17718.0,
+        "high_price": 17719.0,
+        "low_price": 17718.0,
+        "close_price": 17719.0,
+        "volume": 19237.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250519,
+        "open_price": 17700.0,
+        "high_price": 17701.0,
+        "low_price": 17700.0,
+        "close_price": 17701.0,
+        "volume": 182816.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250518,
+        "open_price": 17682.0,
+        "high_price": 17683.0,
+        "low_price": 17682.0,
+        "close_price": 17682.0,
+        "volume": 1769083.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250517,
+        "open_price": 17665.0,
+        "high_price": 17665.0,
+        "low_price": 17664.0,
+        "close_price": 17665.0,
+        "volume": 1731429.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250514,
+        "open_price": 17643.0,
+        "high_price": 17644.0,
+        "low_price": 17643.0,
+        "close_price": 17644.0,
+        "volume": 383.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250513,
+        "open_price": 17624.0,
+        "high_price": 17625.0,
+        "low_price": 17624.0,
+        "close_price": 17624.0,
+        "volume": 3171.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250512,
+        "open_price": 17606.0,
+        "high_price": 17607.0,
+        "low_price": 17606.0,
+        "close_price": 17607.0,
+        "volume": 56466.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250511,
+        "open_price": 17588.0,
+        "high_price": 17589.0,
+        "low_price": 17588.0,
+        "close_price": 17588.0,
+        "volume": 575168.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250510,
+        "open_price": 17570.0,
+        "high_price": 17571.0,
+        "low_price": 17570.0,
+        "close_price": 17570.0,
+        "volume": 3557.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250507,
+        "open_price": 17550.0,
+        "high_price": 17551.0,
+        "low_price": 17550.0,
+        "close_price": 17551.0,
+        "volume": 22791450.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250506,
+        "open_price": 17531.0,
+        "high_price": 17532.0,
+        "low_price": 17531.0,
+        "close_price": 17532.0,
+        "volume": 13000290.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250505,
+        "open_price": 17513.0,
+        "high_price": 17514.0,
+        "low_price": 17513.0,
+        "close_price": 17514.0,
+        "volume": 150447.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250504,
+        "open_price": 17495.0,
+        "high_price": 17496.0,
+        "low_price": 17495.0,
+        "close_price": 17495.0,
+        "volume": 3043520.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250503,
+        "open_price": 17477.0,
+        "high_price": 17478.0,
+        "low_price": 17477.0,
+        "close_price": 17478.0,
+        "volume": 9071974.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250430,
+        "open_price": 17457.0,
+        "high_price": 17458.0,
+        "low_price": 17457.0,
+        "close_price": 17458.0,
+        "volume": 570159.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250429,
+        "open_price": 17438.0,
+        "high_price": 17439.0,
+        "low_price": 17438.0,
+        "close_price": 17438.0,
+        "volume": 3200.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250428,
+        "open_price": 17420.0,
+        "high_price": 17421.0,
+        "low_price": 17420.0,
+        "close_price": 17421.0,
+        "volume": 13000100.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250427,
+        "open_price": 17402.0,
+        "high_price": 17403.0,
+        "low_price": 17402.0,
+        "close_price": 17403.0,
+        "volume": 7085.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250426,
+        "open_price": 17385.0,
+        "high_price": 17385.0,
+        "low_price": 17384.0,
+        "close_price": 17385.0,
+        "volume": 14001581.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250423,
+        "open_price": 17366.0,
+        "high_price": 17366.0,
+        "low_price": 17366.0,
+        "close_price": 17366.0,
+        "volume": 11516211.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250422,
+        "open_price": 17347.0,
+        "high_price": 17348.0,
+        "low_price": 17347.0,
+        "close_price": 17348.0,
+        "volume": 600.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250421,
+        "open_price": 17329.0,
+        "high_price": 17330.0,
+        "low_price": 17329.0,
+        "close_price": 17330.0,
+        "volume": 159891.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250420,
+        "open_price": 17311.0,
+        "high_price": 17311.0,
+        "low_price": 17311.0,
+        "close_price": 17311.0,
+        "volume": 61.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250419,
+        "open_price": 17293.0,
+        "high_price": 17293.0,
+        "low_price": 17293.0,
+        "close_price": 17293.0,
+        "volume": 4626054.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250416,
+        "open_price": 17275.0,
+        "high_price": 17275.0,
+        "low_price": 17275.0,
+        "close_price": 17275.0,
+        "volume": 10.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250415,
+        "open_price": 17256.0,
+        "high_price": 17256.0,
+        "low_price": 17256.0,
+        "close_price": 17256.0,
+        "volume": 37695.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250414,
+        "open_price": 17238.0,
+        "high_price": 17238.0,
+        "low_price": 17238.0,
+        "close_price": 17238.0,
+        "volume": 26279.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250413,
+        "open_price": 17220.0,
+        "high_price": 17221.0,
+        "low_price": 17219.0,
+        "close_price": 17220.0,
+        "volume": 22303678.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250412,
+        "open_price": 17202.0,
+        "high_price": 17203.0,
+        "low_price": 17202.0,
+        "close_price": 17202.0,
+        "volume": 307876.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250409,
+        "open_price": 17185.0,
+        "high_price": 17186.0,
+        "low_price": 17185.0,
+        "close_price": 17185.0,
+        "volume": 112307.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250408,
+        "open_price": 17164.0,
+        "high_price": 17165.0,
+        "low_price": 17164.0,
+        "close_price": 17164.0,
+        "volume": 51826.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250407,
+        "open_price": 17146.0,
+        "high_price": 17146.0,
+        "low_price": 17146.0,
+        "close_price": 17146.0,
+        "volume": 59.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250406,
+        "open_price": 17129.0,
+        "high_price": 17130.0,
+        "low_price": 17129.0,
+        "close_price": 17129.0,
+        "volume": 5057230.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250405,
+        "open_price": 17112.0,
+        "high_price": 17113.0,
+        "low_price": 17112.0,
+        "close_price": 17113.0,
+        "volume": 64695.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250330,
+        "open_price": 17060.0,
+        "high_price": 17061.0,
+        "low_price": 17060.0,
+        "close_price": 17060.0,
+        "volume": 215533.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250329,
+        "open_price": 17025.0,
+        "high_price": 17026.0,
+        "low_price": 17025.0,
+        "close_price": 17025.0,
+        "volume": 13188267.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250326,
+        "open_price": 17003.0,
+        "high_price": 17004.0,
+        "low_price": 17003.0,
+        "close_price": 17003.0,
+        "volume": 105929.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250325,
+        "open_price": 16984.0,
+        "high_price": 16984.0,
+        "low_price": 16984.0,
+        "close_price": 16984.0,
+        "volume": 381451.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250318,
+        "open_price": 16926.0,
+        "high_price": 16929.0,
+        "low_price": 16926.0,
+        "close_price": 16927.0,
+        "volume": 10584501.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250317,
+        "open_price": 16886.0,
+        "high_price": 16887.0,
+        "low_price": 16886.0,
+        "close_price": 16887.0,
+        "volume": 5932712.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250316,
+        "open_price": 16861.0,
+        "high_price": 16862.0,
+        "low_price": 16861.0,
+        "close_price": 16861.0,
+        "volume": 160.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250315,
+        "open_price": 16845.0,
+        "high_price": 16845.0,
+        "low_price": 16844.0,
+        "close_price": 16845.0,
+        "volume": 348060.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250312,
+        "open_price": 16826.0,
+        "high_price": 16827.0,
+        "low_price": 16826.0,
+        "close_price": 16827.0,
+        "volume": 62472.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250311,
+        "open_price": 16807.0,
+        "high_price": 16808.0,
+        "low_price": 16807.0,
+        "close_price": 16807.0,
+        "volume": 11575.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250310,
+        "open_price": 16791.0,
+        "high_price": 16791.0,
+        "low_price": 16791.0,
+        "close_price": 16791.0,
+        "volume": 273.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250309,
+        "open_price": 16773.0,
+        "high_price": 16773.0,
+        "low_price": 16773.0,
+        "close_price": 16773.0,
+        "volume": 1000.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250308,
+        "open_price": 16756.0,
+        "high_price": 16757.0,
+        "low_price": 16756.0,
+        "close_price": 16756.0,
+        "volume": 50605.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250305,
+        "open_price": 16738.0,
+        "high_price": 16738.0,
+        "low_price": 16738.0,
+        "close_price": 16738.0,
+        "volume": 180000.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250304,
+        "open_price": 16720.0,
+        "high_price": 16720.0,
+        "low_price": 16720.0,
+        "close_price": 16720.0,
+        "volume": 31551.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250303,
+        "open_price": 16703.0,
+        "high_price": 16703.0,
+        "low_price": 16702.0,
+        "close_price": 16702.0,
+        "volume": 200.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250302,
+        "open_price": 16685.0,
+        "high_price": 16685.0,
+        "low_price": 16685.0,
+        "close_price": 16685.0,
+        "volume": 6897.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250301,
+        "open_price": 16668.0,
+        "high_price": 16669.0,
+        "low_price": 16668.0,
+        "close_price": 16669.0,
+        "volume": 10427670.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250226,
+        "open_price": 16651.0,
+        "high_price": 16652.0,
+        "low_price": 16651.0,
+        "close_price": 16652.0,
+        "volume": 327675.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250225,
+        "open_price": 16632.0,
+        "high_price": 16633.0,
+        "low_price": 16632.0,
+        "close_price": 16632.0,
+        "volume": 51698.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250224,
+        "open_price": 16615.0,
+        "high_price": 16615.0,
+        "low_price": 16615.0,
+        "close_price": 16615.0,
+        "volume": 1.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250223,
+        "open_price": 16598.0,
+        "high_price": 16599.0,
+        "low_price": 16598.0,
+        "close_price": 16598.0,
+        "volume": 39686.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250222,
+        "open_price": 16581.0,
+        "high_price": 16582.0,
+        "low_price": 16581.0,
+        "close_price": 16581.0,
+        "volume": 3305.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250219,
+        "open_price": 16563.0,
+        "high_price": 16564.0,
+        "low_price": 16563.0,
+        "close_price": 16564.0,
+        "volume": 7295.0
+    },
+    {
+        "symbol": "دیبا",
+        "trade_date": 20250218,
+        "open_price": 16545.0,
+        "high_price": 16545.0,
+        "low_price": 16545.0,
+        "close_price": 16545.0,
+        "volume": 1800.0
+    }
+]

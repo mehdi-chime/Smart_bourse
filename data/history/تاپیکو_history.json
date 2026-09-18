@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260901,
+        "open_price": 39990.0,
+        "high_price": 40290.0,
+        "low_price": 37950.0,
+        "close_price": 39530.0,
+        "volume": 72400447.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260831,
+        "open_price": 39110.0,
+        "high_price": 39720.0,
+        "low_price": 39110.0,
+        "close_price": 39120.0,
+        "volume": 178125770.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260829,
+        "open_price": 40650.0,
+        "high_price": 40800.0,
+        "low_price": 39000.0,
+        "close_price": 40310.0,
+        "volume": 61257562.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260826,
+        "open_price": 40110.0,
+        "high_price": 40110.0,
+        "low_price": 40110.0,
+        "close_price": 40110.0,
+        "volume": 26569151.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260825,
+        "open_price": 38000.0,
+        "high_price": 39010.0,
+        "low_price": 37880.0,
+        "close_price": 38950.0,
+        "volume": 65135670.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260824,
+        "open_price": 38000.0,
+        "high_price": 38970.0,
+        "low_price": 36860.0,
+        "close_price": 37880.0,
+        "volume": 52038741.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260823,
+        "open_price": 38750.0,
+        "high_price": 38890.0,
+        "low_price": 36630.0,
+        "close_price": 38000.0,
+        "volume": 98960773.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260822,
+        "open_price": 37490.0,
+        "high_price": 37840.0,
+        "low_price": 35800.0,
+        "close_price": 37760.0,
+        "volume": 71614607.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260819,
+        "open_price": 36400.0,
+        "high_price": 37660.0,
+        "low_price": 35480.0,
+        "close_price": 36740.0,
+        "volume": 92049880.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260818,
+        "open_price": 36600.0,
+        "high_price": 37690.0,
+        "low_price": 35650.0,
+        "close_price": 36570.0,
+        "volume": 166780873.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260817,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34440.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260816,
+        "open_price": 34930.0,
+        "high_price": 35400.0,
+        "low_price": 34080.0,
+        "close_price": 34440.0,
+        "volume": 172314380.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260815,
+        "open_price": 35130.0,
+        "high_price": 35130.0,
+        "low_price": 35130.0,
+        "close_price": 35130.0,
+        "volume": 72832655.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260811,
+        "open_price": 34110.0,
+        "high_price": 34110.0,
+        "low_price": 34110.0,
+        "close_price": 34110.0,
+        "volume": 37486900.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260810,
+        "open_price": 32680.0,
+        "high_price": 33180.0,
+        "low_price": 32640.0,
+        "close_price": 33120.0,
+        "volume": 63745966.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260809,
+        "open_price": 32220.0,
+        "high_price": 32220.0,
+        "low_price": 31780.0,
+        "close_price": 32220.0,
+        "volume": 355046556.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260808,
+        "open_price": 31290.0,
+        "high_price": 31290.0,
+        "low_price": 31290.0,
+        "close_price": 31290.0,
+        "volume": 128103222.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260805,
+        "open_price": 30380.0,
+        "high_price": 30380.0,
+        "low_price": 30380.0,
+        "close_price": 30380.0,
+        "volume": 175088764.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260803,
+        "open_price": 29500.0,
+        "high_price": 29500.0,
+        "low_price": 29500.0,
+        "close_price": 29500.0,
+        "volume": 39243814.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260802,
+        "open_price": 28650.0,
+        "high_price": 28650.0,
+        "low_price": 28640.0,
+        "close_price": 28650.0,
+        "volume": 69982501.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260801,
+        "open_price": 28350.0,
+        "high_price": 28980.0,
+        "low_price": 27540.0,
+        "close_price": 27820.0,
+        "volume": 85040037.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260729,
+        "open_price": 28140.0,
+        "high_price": 29280.0,
+        "low_price": 28140.0,
+        "close_price": 28390.0,
+        "volume": 110910518.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260728,
+        "open_price": 29030.0,
+        "high_price": 29030.0,
+        "low_price": 28620.0,
+        "close_price": 29010.0,
+        "volume": 180724134.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260727,
+        "open_price": 28190.0,
+        "high_price": 28190.0,
+        "low_price": 28190.0,
+        "close_price": 28190.0,
+        "volume": 51316563.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260726,
+        "open_price": 27370.0,
+        "high_price": 27370.0,
+        "low_price": 27370.0,
+        "close_price": 27370.0,
+        "volume": 42933512.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260725,
+        "open_price": 27790.0,
+        "high_price": 27790.0,
+        "low_price": 26440.0,
+        "close_price": 26580.0,
+        "volume": 69397538.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260722,
+        "open_price": 27670.0,
+        "high_price": 27670.0,
+        "low_price": 26760.0,
+        "close_price": 27250.0,
+        "volume": 64143242.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260721,
+        "open_price": 26870.0,
+        "high_price": 26870.0,
+        "low_price": 26870.0,
+        "close_price": 26870.0,
+        "volume": 26254711.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260720,
+        "open_price": 25600.0,
+        "high_price": 26260.0,
+        "low_price": 25400.0,
+        "close_price": 26090.0,
+        "volume": 62127108.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260719,
+        "open_price": 25490.0,
+        "high_price": 25800.0,
+        "low_price": 25490.0,
+        "close_price": 25500.0,
+        "volume": 130424935.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260718,
+        "open_price": 26270.0,
+        "high_price": 26270.0,
+        "low_price": 26270.0,
+        "close_price": 26270.0,
+        "volume": 3732574.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260715,
+        "open_price": 27200.0,
+        "high_price": 27880.0,
+        "low_price": 27050.0,
+        "close_price": 27080.0,
+        "volume": 101863480.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260714,
+        "open_price": 27880.0,
+        "high_price": 28080.0,
+        "low_price": 27880.0,
+        "close_price": 27880.0,
+        "volume": 113645351.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260713,
+        "open_price": 28740.0,
+        "high_price": 28920.0,
+        "low_price": 28740.0,
+        "close_price": 28740.0,
+        "volume": 173372920.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260712,
+        "open_price": 29620.0,
+        "high_price": 29620.0,
+        "low_price": 29620.0,
+        "close_price": 29620.0,
+        "volume": 20902328.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260711,
+        "open_price": 30530.0,
+        "high_price": 31000.0,
+        "low_price": 30530.0,
+        "close_price": 30530.0,
+        "volume": 252344449.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260708,
+        "open_price": 31590.0,
+        "high_price": 31880.0,
+        "low_price": 30040.0,
+        "close_price": 31470.0,
+        "volume": 278801552.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260707,
+        "open_price": 30960.0,
+        "high_price": 30960.0,
+        "low_price": 30960.0,
+        "close_price": 30960.0,
+        "volume": 55109711.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260701,
+        "open_price": 30060.0,
+        "high_price": 30060.0,
+        "low_price": 30060.0,
+        "close_price": 30060.0,
+        "volume": 58878647.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260630,
+        "open_price": 29190.0,
+        "high_price": 29190.0,
+        "low_price": 29190.0,
+        "close_price": 29190.0,
+        "volume": 53803779.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260629,
+        "open_price": 28180.0,
+        "high_price": 28360.0,
+        "low_price": 27830.0,
+        "close_price": 28340.0,
+        "volume": 134518035.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260628,
+        "open_price": 27760.0,
+        "high_price": 28180.0,
+        "low_price": 26540.0,
+        "close_price": 27540.0,
+        "volume": 463471953.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260627,
+        "open_price": 27360.0,
+        "high_price": 27360.0,
+        "low_price": 27360.0,
+        "close_price": 27360.0,
+        "volume": 92266761.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260623,
+        "open_price": 26570.0,
+        "high_price": 26570.0,
+        "low_price": 26570.0,
+        "close_price": 26570.0,
+        "volume": 75943744.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260622,
+        "open_price": 25520.0,
+        "high_price": 26540.0,
+        "low_price": 25000.0,
+        "close_price": 25800.0,
+        "volume": 425034677.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260621,
+        "open_price": 26350.0,
+        "high_price": 26350.0,
+        "low_price": 24830.0,
+        "close_price": 25770.0,
+        "volume": 552013974.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260620,
+        "open_price": 25590.0,
+        "high_price": 25590.0,
+        "low_price": 25590.0,
+        "close_price": 25590.0,
+        "volume": 55771703.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260617,
+        "open_price": 24850.0,
+        "high_price": 24850.0,
+        "low_price": 24850.0,
+        "close_price": 24850.0,
+        "volume": 93540768.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260616,
+        "open_price": 24130.0,
+        "high_price": 24130.0,
+        "low_price": 24130.0,
+        "close_price": 24130.0,
+        "volume": 37742079.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260615,
+        "open_price": 23430.0,
+        "high_price": 23430.0,
+        "low_price": 23430.0,
+        "close_price": 23430.0,
+        "volume": 35712500.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260614,
+        "open_price": 22750.0,
+        "high_price": 22750.0,
+        "low_price": 22750.0,
+        "close_price": 22750.0,
+        "volume": 43849007.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260613,
+        "open_price": 22090.0,
+        "high_price": 22090.0,
+        "low_price": 22090.0,
+        "close_price": 22090.0,
+        "volume": 30958642.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260610,
+        "open_price": 21450.0,
+        "high_price": 21450.0,
+        "low_price": 21450.0,
+        "close_price": 21450.0,
+        "volume": 59207457.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260609,
+        "open_price": 20630.0,
+        "high_price": 21240.0,
+        "low_price": 20630.0,
+        "close_price": 20830.0,
+        "volume": 306684229.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260608,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260607,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260606,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260603,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260602,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260601,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260531,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260530,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260526,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260525,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260524,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260523,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260520,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260519,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260225,
+        "open_price": 18210.0,
+        "high_price": 18970.0,
+        "low_price": 18210.0,
+        "close_price": 18930.0,
+        "volume": 22358081.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260224,
+        "open_price": 18500.0,
+        "high_price": 18850.0,
+        "low_price": 18250.0,
+        "close_price": 18420.0,
+        "volume": 42855947.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260223,
+        "open_price": 19260.0,
+        "high_price": 19330.0,
+        "low_price": 18500.0,
+        "close_price": 18810.0,
+        "volume": 15882075.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260222,
+        "open_price": 18770.0,
+        "high_price": 18990.0,
+        "low_price": 18770.0,
+        "close_price": 18770.0,
+        "volume": 42489148.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260221,
+        "open_price": 19350.0,
+        "high_price": 19350.0,
+        "low_price": 19350.0,
+        "close_price": 19350.0,
+        "volume": 4771600.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260218,
+        "open_price": 20840.0,
+        "high_price": 20840.0,
+        "low_price": 19670.0,
+        "close_price": 19940.0,
+        "volume": 21757281.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260217,
+        "open_price": 20100.0,
+        "high_price": 20640.0,
+        "low_price": 19960.0,
+        "close_price": 20270.0,
+        "volume": 15035415.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260216,
+        "open_price": 20100.0,
+        "high_price": 20300.0,
+        "low_price": 20100.0,
+        "close_price": 20110.0,
+        "volume": 26405858.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260215,
+        "open_price": 20720.0,
+        "high_price": 20720.0,
+        "low_price": 20720.0,
+        "close_price": 20720.0,
+        "volume": 5179319.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260214,
+        "open_price": 22000.0,
+        "high_price": 22220.0,
+        "low_price": 21050.0,
+        "close_price": 21360.0,
+        "volume": 24784213.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260210,
+        "open_price": 21280.0,
+        "high_price": 22480.0,
+        "low_price": 21280.0,
+        "close_price": 21700.0,
+        "volume": 27520197.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260209,
+        "open_price": 21940.0,
+        "high_price": 22000.0,
+        "low_price": 21930.0,
+        "close_price": 21930.0,
+        "volume": 18775993.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260208,
+        "open_price": 23500.0,
+        "high_price": 23500.0,
+        "low_price": 22150.0,
+        "close_price": 22600.0,
+        "volume": 46829483.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260207,
+        "open_price": 22830.0,
+        "high_price": 22830.0,
+        "low_price": 22830.0,
+        "close_price": 22830.0,
+        "volume": 19792750.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260203,
+        "open_price": 22910.0,
+        "high_price": 23100.0,
+        "low_price": 21860.0,
+        "close_price": 22170.0,
+        "volume": 46370779.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260202,
+        "open_price": 22540.0,
+        "high_price": 22540.0,
+        "low_price": 22290.0,
+        "close_price": 22530.0,
+        "volume": 38396823.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260201,
+        "open_price": 21890.0,
+        "high_price": 22660.0,
+        "low_price": 21720.0,
+        "close_price": 21890.0,
+        "volume": 96693437.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260131,
+        "open_price": 22350.0,
+        "high_price": 22890.0,
+        "low_price": 22230.0,
+        "close_price": 22390.0,
+        "volume": 17364912.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260128,
+        "open_price": 22910.0,
+        "high_price": 22910.0,
+        "low_price": 22910.0,
+        "close_price": 22910.0,
+        "volume": 113958859.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260127,
+        "open_price": 23610.0,
+        "high_price": 23610.0,
+        "low_price": 23610.0,
+        "close_price": 23610.0,
+        "volume": 5394197.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260126,
+        "open_price": 24330.0,
+        "high_price": 24330.0,
+        "low_price": 24330.0,
+        "close_price": 24330.0,
+        "volume": 3833512.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260125,
+        "open_price": 25080.0,
+        "high_price": 25080.0,
+        "low_price": 25080.0,
+        "close_price": 25080.0,
+        "volume": 3808120.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260124,
+        "open_price": 25850.0,
+        "high_price": 26190.0,
+        "low_price": 25850.0,
+        "close_price": 25850.0,
+        "volume": 174733308.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260121,
+        "open_price": 26630.0,
+        "high_price": 27180.0,
+        "low_price": 26630.0,
+        "close_price": 26640.0,
+        "volume": 155366416.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260120,
+        "open_price": 28200.0,
+        "high_price": 28210.0,
+        "low_price": 27370.0,
+        "close_price": 27450.0,
+        "volume": 135603626.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260119,
+        "open_price": 28390.0,
+        "high_price": 28390.0,
+        "low_price": 27150.0,
+        "close_price": 28210.0,
+        "volume": 159543082.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260118,
+        "open_price": 27570.0,
+        "high_price": 27570.0,
+        "low_price": 27570.0,
+        "close_price": 27570.0,
+        "volume": 56692962.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260114,
+        "open_price": 26770.0,
+        "high_price": 27000.0,
+        "low_price": 26770.0,
+        "close_price": 26770.0,
+        "volume": 210705558.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260113,
+        "open_price": 28610.0,
+        "high_price": 28610.0,
+        "low_price": 26950.0,
+        "close_price": 27590.0,
+        "volume": 242195901.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260112,
+        "open_price": 27780.0,
+        "high_price": 27780.0,
+        "low_price": 27710.0,
+        "close_price": 27780.0,
+        "volume": 193441661.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260111,
+        "open_price": 26900.0,
+        "high_price": 26990.0,
+        "low_price": 26320.0,
+        "close_price": 26980.0,
+        "volume": 91772839.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260110,
+        "open_price": 25360.0,
+        "high_price": 26920.0,
+        "low_price": 25360.0,
+        "close_price": 26210.0,
+        "volume": 285186222.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260107,
+        "open_price": 26140.0,
+        "high_price": 26140.0,
+        "low_price": 26140.0,
+        "close_price": 26140.0,
+        "volume": 98678830.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260106,
+        "open_price": 25380.0,
+        "high_price": 25380.0,
+        "low_price": 25380.0,
+        "close_price": 25380.0,
+        "volume": 96084795.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260105,
+        "open_price": 24650.0,
+        "high_price": 24650.0,
+        "low_price": 24650.0,
+        "close_price": 24650.0,
+        "volume": 74691904.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20260104,
+        "open_price": 23950.0,
+        "high_price": 23950.0,
+        "low_price": 23500.0,
+        "close_price": 23940.0,
+        "volume": 246286001.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251231,
+        "open_price": 22540.0,
+        "high_price": 23360.0,
+        "low_price": 22500.0,
+        "close_price": 23260.0,
+        "volume": 69927162.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251230,
+        "open_price": 22680.0,
+        "high_price": 22980.0,
+        "low_price": 22680.0,
+        "close_price": 22680.0,
+        "volume": 161825404.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251229,
+        "open_price": 24300.0,
+        "high_price": 24390.0,
+        "low_price": 23310.0,
+        "close_price": 23380.0,
+        "volume": 152039343.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251228,
+        "open_price": 24040.0,
+        "high_price": 24060.0,
+        "low_price": 23410.0,
+        "close_price": 24030.0,
+        "volume": 116533672.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251227,
+        "open_price": 23370.0,
+        "high_price": 23370.0,
+        "low_price": 22790.0,
+        "close_price": 23360.0,
+        "volume": 222491210.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251224,
+        "open_price": 22650.0,
+        "high_price": 22690.0,
+        "low_price": 22500.0,
+        "close_price": 22690.0,
+        "volume": 91663209.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251223,
+        "open_price": 21950.0,
+        "high_price": 22310.0,
+        "low_price": 21800.0,
+        "close_price": 22030.0,
+        "volume": 82878704.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251222,
+        "open_price": 22000.0,
+        "high_price": 22330.0,
+        "low_price": 21220.0,
+        "close_price": 22020.0,
+        "volume": 81255017.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251221,
+        "open_price": 21790.0,
+        "high_price": 21980.0,
+        "low_price": 21110.0,
+        "close_price": 21680.0,
+        "volume": 181479013.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251220,
+        "open_price": 21610.0,
+        "high_price": 21610.0,
+        "low_price": 21610.0,
+        "close_price": 21610.0,
+        "volume": 129267439.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251217,
+        "open_price": 20980.0,
+        "high_price": 20990.0,
+        "low_price": 20910.0,
+        "close_price": 20990.0,
+        "volume": 311182460.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251216,
+        "open_price": 20390.0,
+        "high_price": 20390.0,
+        "low_price": 20160.0,
+        "close_price": 20380.0,
+        "volume": 185020447.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251215,
+        "open_price": 19690.0,
+        "high_price": 19800.0,
+        "low_price": 19500.0,
+        "close_price": 19800.0,
+        "volume": 80398748.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251214,
+        "open_price": 19150.0,
+        "high_price": 19620.0,
+        "low_price": 18480.0,
+        "close_price": 19230.0,
+        "volume": 52502909.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251213,
+        "open_price": 18900.0,
+        "high_price": 19280.0,
+        "low_price": 18800.0,
+        "close_price": 19050.0,
+        "volume": 41929467.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251210,
+        "open_price": 18340.0,
+        "high_price": 18770.0,
+        "low_price": 18250.0,
+        "close_price": 18750.0,
+        "volume": 53062754.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251209,
+        "open_price": 18480.0,
+        "high_price": 18540.0,
+        "low_price": 17870.0,
+        "close_price": 18230.0,
+        "volume": 57786113.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251208,
+        "open_price": 18310.0,
+        "high_price": 18310.0,
+        "low_price": 18280.0,
+        "close_price": 18310.0,
+        "volume": 101657796.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251207,
+        "open_price": 17780.0,
+        "high_price": 17780.0,
+        "low_price": 17780.0,
+        "close_price": 17780.0,
+        "volume": 75355754.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251206,
+        "open_price": 16830.0,
+        "high_price": 17330.0,
+        "low_price": 16830.0,
+        "close_price": 17270.0,
+        "volume": 31580912.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251203,
+        "open_price": 16980.0,
+        "high_price": 16980.0,
+        "low_price": 16760.0,
+        "close_price": 16830.0,
+        "volume": 22363267.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251202,
+        "open_price": 17090.0,
+        "high_price": 17090.0,
+        "low_price": 16680.0,
+        "close_price": 16780.0,
+        "volume": 22261788.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251201,
+        "open_price": 17400.0,
+        "high_price": 17400.0,
+        "low_price": 16620.0,
+        "close_price": 16910.0,
+        "volume": 15173787.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251130,
+        "open_price": 16970.0,
+        "high_price": 17290.0,
+        "low_price": 16650.0,
+        "close_price": 17060.0,
+        "volume": 7209406.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251129,
+        "open_price": 17530.0,
+        "high_price": 17650.0,
+        "low_price": 17010.0,
+        "close_price": 17100.0,
+        "volume": 14979151.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251126,
+        "open_price": 18020.0,
+        "high_price": 18020.0,
+        "low_price": 17140.0,
+        "close_price": 17530.0,
+        "volume": 23924918.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251125,
+        "open_price": 17510.0,
+        "high_price": 17510.0,
+        "low_price": 17250.0,
+        "close_price": 17500.0,
+        "volume": 34249126.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251123,
+        "open_price": 16850.0,
+        "high_price": 17000.0,
+        "low_price": 16850.0,
+        "close_price": 17000.0,
+        "volume": 29698606.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251122,
+        "open_price": 16700.0,
+        "high_price": 16730.0,
+        "low_price": 16400.0,
+        "close_price": 16510.0,
+        "volume": 23352448.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251119,
+        "open_price": 16520.0,
+        "high_price": 16680.0,
+        "low_price": 16200.0,
+        "close_price": 16450.0,
+        "volume": 30235698.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251118,
+        "open_price": 16400.0,
+        "high_price": 16750.0,
+        "low_price": 16260.0,
+        "close_price": 16400.0,
+        "volume": 14266781.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251117,
+        "open_price": 16990.0,
+        "high_price": 17020.0,
+        "low_price": 16260.0,
+        "close_price": 16630.0,
+        "volume": 16034171.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251116,
+        "open_price": 16500.0,
+        "high_price": 16900.0,
+        "low_price": 16390.0,
+        "close_price": 16600.0,
+        "volume": 18771637.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251115,
+        "open_price": 16800.0,
+        "high_price": 16800.0,
+        "low_price": 16500.0,
+        "close_price": 16570.0,
+        "volume": 12225787.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251112,
+        "open_price": 16700.0,
+        "high_price": 16880.0,
+        "low_price": 16360.0,
+        "close_price": 16530.0,
+        "volume": 41886592.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251111,
+        "open_price": 17310.0,
+        "high_price": 17310.0,
+        "low_price": 16480.0,
+        "close_price": 16700.0,
+        "volume": 22238524.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251110,
+        "open_price": 16770.0,
+        "high_price": 17200.0,
+        "low_price": 16760.0,
+        "close_price": 16840.0,
+        "volume": 28892728.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251109,
+        "open_price": 17650.0,
+        "high_price": 17650.0,
+        "low_price": 17270.0,
+        "close_price": 17270.0,
+        "volume": 31912099.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251108,
+        "open_price": 18140.0,
+        "high_price": 18400.0,
+        "low_price": 17460.0,
+        "close_price": 17800.0,
+        "volume": 6847098.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251105,
+        "open_price": 18150.0,
+        "high_price": 18250.0,
+        "low_price": 17770.0,
+        "close_price": 18000.0,
+        "volume": 19558173.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251104,
+        "open_price": 18030.0,
+        "high_price": 18410.0,
+        "low_price": 17960.0,
+        "close_price": 18150.0,
+        "volume": 28729866.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251103,
+        "open_price": 18170.0,
+        "high_price": 18570.0,
+        "low_price": 18170.0,
+        "close_price": 18390.0,
+        "volume": 28164706.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251102,
+        "open_price": 18050.0,
+        "high_price": 18600.0,
+        "low_price": 18010.0,
+        "close_price": 18170.0,
+        "volume": 12639652.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251101,
+        "open_price": 18380.0,
+        "high_price": 18500.0,
+        "low_price": 17920.0,
+        "close_price": 18060.0,
+        "volume": 13658198.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251029,
+        "open_price": 18520.0,
+        "high_price": 18520.0,
+        "low_price": 18060.0,
+        "close_price": 18260.0,
+        "volume": 16494237.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251028,
+        "open_price": 18820.0,
+        "high_price": 18820.0,
+        "low_price": 18140.0,
+        "close_price": 18610.0,
+        "volume": 33626550.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251027,
+        "open_price": 18140.0,
+        "high_price": 18510.0,
+        "low_price": 18000.0,
+        "close_price": 18280.0,
+        "volume": 19388897.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251026,
+        "open_price": 18090.0,
+        "high_price": 18090.0,
+        "low_price": 17700.0,
+        "close_price": 18090.0,
+        "volume": 50572689.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251025,
+        "open_price": 17840.0,
+        "high_price": 17840.0,
+        "low_price": 17290.0,
+        "close_price": 17570.0,
+        "volume": 4599741.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251022,
+        "open_price": 17690.0,
+        "high_price": 17840.0,
+        "low_price": 17340.0,
+        "close_price": 17700.0,
+        "volume": 7431694.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251021,
+        "open_price": 17510.0,
+        "high_price": 17850.0,
+        "low_price": 17210.0,
+        "close_price": 17330.0,
+        "volume": 18245125.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251020,
+        "open_price": 17530.0,
+        "high_price": 17650.0,
+        "low_price": 17110.0,
+        "close_price": 17440.0,
+        "volume": 5638936.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251019,
+        "open_price": 17620.0,
+        "high_price": 17620.0,
+        "low_price": 17410.0,
+        "close_price": 17620.0,
+        "volume": 34052809.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251018,
+        "open_price": 17050.0,
+        "high_price": 17110.0,
+        "low_price": 17050.0,
+        "close_price": 17110.0,
+        "volume": 11280556.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251015,
+        "open_price": 16820.0,
+        "high_price": 17190.0,
+        "low_price": 16520.0,
+        "close_price": 16620.0,
+        "volume": 9605740.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251014,
+        "open_price": 17650.0,
+        "high_price": 17650.0,
+        "low_price": 16830.0,
+        "close_price": 17030.0,
+        "volume": 15607491.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251013,
+        "open_price": 17280.0,
+        "high_price": 17650.0,
+        "low_price": 16870.0,
+        "close_price": 17350.0,
+        "volume": 16446155.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251012,
+        "open_price": 17070.0,
+        "high_price": 17250.0,
+        "low_price": 16900.0,
+        "close_price": 17240.0,
+        "volume": 25710618.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251011,
+        "open_price": 16280.0,
+        "high_price": 17070.0,
+        "low_price": 16280.0,
+        "close_price": 16750.0,
+        "volume": 8351380.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251008,
+        "open_price": 17340.0,
+        "high_price": 17340.0,
+        "low_price": 16680.0,
+        "close_price": 16710.0,
+        "volume": 16496101.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251007,
+        "open_price": 17190.0,
+        "high_price": 17570.0,
+        "low_price": 16880.0,
+        "close_price": 17190.0,
+        "volume": 15676954.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251006,
+        "open_price": 17090.0,
+        "high_price": 17090.0,
+        "low_price": 16650.0,
+        "close_price": 17070.0,
+        "volume": 60457734.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251005,
+        "open_price": 16600.0,
+        "high_price": 16600.0,
+        "low_price": 16600.0,
+        "close_price": 16600.0,
+        "volume": 28239033.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251004,
+        "open_price": 16120.0,
+        "high_price": 16120.0,
+        "low_price": 16120.0,
+        "close_price": 16120.0,
+        "volume": 11348626.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20251001,
+        "open_price": 15720.0,
+        "high_price": 16020.0,
+        "low_price": 15320.0,
+        "close_price": 15660.0,
+        "volume": 13396415.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250930,
+        "open_price": 15780.0,
+        "high_price": 15780.0,
+        "low_price": 15500.0,
+        "close_price": 15770.0,
+        "volume": 94070506.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250929,
+        "open_price": 15330.0,
+        "high_price": 15330.0,
+        "low_price": 15330.0,
+        "close_price": 15330.0,
+        "volume": 18104686.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250928,
+        "open_price": 14890.0,
+        "high_price": 14890.0,
+        "low_price": 14890.0,
+        "close_price": 14890.0,
+        "volume": 11579806.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250927,
+        "open_price": 13800.0,
+        "high_price": 14490.0,
+        "low_price": 13800.0,
+        "close_price": 14460.0,
+        "volume": 15431794.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250924,
+        "open_price": 13970.0,
+        "high_price": 14400.0,
+        "low_price": 13970.0,
+        "close_price": 14070.0,
+        "volume": 21912801.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250923,
+        "open_price": 14700.0,
+        "high_price": 14700.0,
+        "low_price": 14260.0,
+        "close_price": 14400.0,
+        "volume": 33074304.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250922,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 14730.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250921,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 14730.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250920,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 14730.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250917,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16730.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250916,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 16730.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250915,
+        "open_price": 16870.0,
+        "high_price": 16870.0,
+        "low_price": 16530.0,
+        "close_price": 16730.0,
+        "volume": 24775238.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250914,
+        "open_price": 16030.0,
+        "high_price": 16500.0,
+        "low_price": 16000.0,
+        "close_price": 16380.0,
+        "volume": 19495714.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250913,
+        "open_price": 16030.0,
+        "high_price": 16150.0,
+        "low_price": 15890.0,
+        "close_price": 16020.0,
+        "volume": 10957605.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250909,
+        "open_price": 16000.0,
+        "high_price": 16000.0,
+        "low_price": 15730.0,
+        "close_price": 15990.0,
+        "volume": 46041397.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250908,
+        "open_price": 15650.0,
+        "high_price": 15650.0,
+        "low_price": 15650.0,
+        "close_price": 15540.0,
+        "volume": 6318229.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250907,
+        "open_price": 14800.0,
+        "high_price": 15230.0,
+        "low_price": 14800.0,
+        "close_price": 15200.0,
+        "volume": 10450436.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250906,
+        "open_price": 14790.0,
+        "high_price": 14790.0,
+        "low_price": 14720.0,
+        "close_price": 14790.0,
+        "volume": 19316883.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250903,
+        "open_price": 14550.0,
+        "high_price": 14550.0,
+        "low_price": 14550.0,
+        "close_price": 14360.0,
+        "volume": 4722918.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250902,
+        "open_price": 14440.0,
+        "high_price": 14440.0,
+        "low_price": 14440.0,
+        "close_price": 14130.0,
+        "volume": 2220607.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250831,
+        "open_price": 14240.0,
+        "high_price": 14310.0,
+        "low_price": 13900.0,
+        "close_price": 14020.0,
+        "volume": 3174828.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250830,
+        "open_price": 14180.0,
+        "high_price": 14180.0,
+        "low_price": 13760.0,
+        "close_price": 13900.0,
+        "volume": 5732201.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250827,
+        "open_price": 13790.0,
+        "high_price": 14490.0,
+        "low_price": 13790.0,
+        "close_price": 14180.0,
+        "volume": 3966002.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250826,
+        "open_price": 14110.0,
+        "high_price": 14290.0,
+        "low_price": 13980.0,
+        "close_price": 14210.0,
+        "volume": 4058529.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250825,
+        "open_price": 14470.0,
+        "high_price": 14580.0,
+        "low_price": 14140.0,
+        "close_price": 14410.0,
+        "volume": 3391756.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250823,
+        "open_price": 15000.0,
+        "high_price": 15000.0,
+        "low_price": 14410.0,
+        "close_price": 14570.0,
+        "volume": 2902502.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250820,
+        "open_price": 14610.0,
+        "high_price": 14620.0,
+        "low_price": 14410.0,
+        "close_price": 14570.0,
+        "volume": 2368162.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250819,
+        "open_price": 14310.0,
+        "high_price": 14850.0,
+        "low_price": 14310.0,
+        "close_price": 14610.0,
+        "volume": 3755464.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250818,
+        "open_price": 14900.0,
+        "high_price": 14900.0,
+        "low_price": 14540.0,
+        "close_price": 14650.0,
+        "volume": 4527761.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250817,
+        "open_price": 14530.0,
+        "high_price": 14820.0,
+        "low_price": 14530.0,
+        "close_price": 14470.0,
+        "volume": 1670880.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250816,
+        "open_price": 14210.0,
+        "high_price": 14650.0,
+        "low_price": 14150.0,
+        "close_price": 14390.0,
+        "volume": 4457620.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250813,
+        "open_price": 14500.0,
+        "high_price": 14510.0,
+        "low_price": 14220.0,
+        "close_price": 14510.0,
+        "volume": 2665873.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250812,
+        "open_price": 14850.0,
+        "high_price": 14850.0,
+        "low_price": 14510.0,
+        "close_price": 14650.0,
+        "volume": 14067548.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250811,
+        "open_price": 14680.0,
+        "high_price": 15070.0,
+        "low_price": 14620.0,
+        "close_price": 14920.0,
+        "volume": 2804380.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250810,
+        "open_price": 15140.0,
+        "high_price": 15530.0,
+        "low_price": 14970.0,
+        "close_price": 15070.0,
+        "volume": 4477868.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250809,
+        "open_price": 15100.0,
+        "high_price": 15450.0,
+        "low_price": 15020.0,
+        "close_price": 15120.0,
+        "volume": 2556312.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250806,
+        "open_price": 15550.0,
+        "high_price": 15550.0,
+        "low_price": 14950.0,
+        "close_price": 15100.0,
+        "volume": 6907607.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250805,
+        "open_price": 15890.0,
+        "high_price": 15890.0,
+        "low_price": 15110.0,
+        "close_price": 15310.0,
+        "volume": 20123089.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250804,
+        "open_price": 15580.0,
+        "high_price": 15700.0,
+        "low_price": 15390.0,
+        "close_price": 15570.0,
+        "volume": 4212806.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250803,
+        "open_price": 15900.0,
+        "high_price": 16100.0,
+        "low_price": 15570.0,
+        "close_price": 15700.0,
+        "volume": 13721453.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250802,
+        "open_price": 15870.0,
+        "high_price": 16040.0,
+        "low_price": 15690.0,
+        "close_price": 15810.0,
+        "volume": 31141155.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250730,
+        "open_price": 15520.0,
+        "high_price": 15520.0,
+        "low_price": 15520.0,
+        "close_price": 15890.0,
+        "volume": 1688375.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250729,
+        "open_price": 15630.0,
+        "high_price": 15630.0,
+        "low_price": 15630.0,
+        "close_price": 16000.0,
+        "volume": 1618798.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250728,
+        "open_price": 16430.0,
+        "high_price": 16430.0,
+        "low_price": 15970.0,
+        "close_price": 16110.0,
+        "volume": 18215267.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250727,
+        "open_price": 16390.0,
+        "high_price": 16650.0,
+        "low_price": 16340.0,
+        "close_price": 16460.0,
+        "volume": 40481196.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250726,
+        "open_price": 16550.0,
+        "high_price": 16780.0,
+        "low_price": 16390.0,
+        "close_price": 16480.0,
+        "volume": 30096378.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250723,
+        "open_price": 16610.0,
+        "high_price": 16700.0,
+        "low_price": 16470.0,
+        "close_price": 16560.0,
+        "volume": 49305971.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250722,
+        "open_price": 16750.0,
+        "high_price": 16950.0,
+        "low_price": 16510.0,
+        "close_price": 16620.0,
+        "volume": 27501189.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250721,
+        "open_price": 16970.0,
+        "high_price": 16980.0,
+        "low_price": 16560.0,
+        "close_price": 16670.0,
+        "volume": 35818858.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250720,
+        "open_price": 16940.0,
+        "high_price": 16950.0,
+        "low_price": 16860.0,
+        "close_price": 16910.0,
+        "volume": 16297214.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250719,
+        "open_price": 17000.0,
+        "high_price": 17000.0,
+        "low_price": 16850.0,
+        "close_price": 16860.0,
+        "volume": 5087697.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250716,
+        "open_price": 16790.0,
+        "high_price": 16960.0,
+        "low_price": 16780.0,
+        "close_price": 16800.0,
+        "volume": 5188370.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250715,
+        "open_price": 16800.0,
+        "high_price": 16800.0,
+        "low_price": 16630.0,
+        "close_price": 16690.0,
+        "volume": 25593753.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250714,
+        "open_price": 16590.0,
+        "high_price": 16600.0,
+        "low_price": 16390.0,
+        "close_price": 16480.0,
+        "volume": 16915458.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250713,
+        "open_price": 16400.0,
+        "high_price": 16400.0,
+        "low_price": 16200.0,
+        "close_price": 16270.0,
+        "volume": 31395454.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250712,
+        "open_price": 16000.0,
+        "high_price": 16330.0,
+        "low_price": 15990.0,
+        "close_price": 16050.0,
+        "volume": 5876220.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250709,
+        "open_price": 15650.0,
+        "high_price": 16170.0,
+        "low_price": 15650.0,
+        "close_price": 15860.0,
+        "volume": 9262574.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250708,
+        "open_price": 16190.0,
+        "high_price": 16490.0,
+        "low_price": 16120.0,
+        "close_price": 16130.0,
+        "volume": 14255263.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250707,
+        "open_price": 16050.0,
+        "high_price": 16690.0,
+        "low_price": 16050.0,
+        "close_price": 16610.0,
+        "volume": 14593947.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250702,
+        "open_price": 16150.0,
+        "high_price": 16990.0,
+        "low_price": 16150.0,
+        "close_price": 16210.0,
+        "volume": 105826392.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250701,
+        "open_price": 16640.0,
+        "high_price": 16640.0,
+        "low_price": 16640.0,
+        "close_price": 16640.0,
+        "volume": 53239253.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250630,
+        "open_price": 17150.0,
+        "high_price": 17150.0,
+        "low_price": 17150.0,
+        "close_price": 17150.0,
+        "volume": 10062514.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250629,
+        "open_price": 17680.0,
+        "high_price": 17680.0,
+        "low_price": 17680.0,
+        "close_price": 17680.0,
+        "volume": 6469558.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250628,
+        "open_price": 18130.0,
+        "high_price": 18130.0,
+        "low_price": 18130.0,
+        "close_price": 18220.0,
+        "volume": 5407602.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18690.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18690.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18690.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18690.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18690.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18690.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18690.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18690.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250611,
+        "open_price": 18800.0,
+        "high_price": 18900.0,
+        "low_price": 18640.0,
+        "close_price": 18690.0,
+        "volume": 2041739.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250610,
+        "open_price": 18690.0,
+        "high_price": 18980.0,
+        "low_price": 18580.0,
+        "close_price": 18690.0,
+        "volume": 2137979.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250609,
+        "open_price": 19010.0,
+        "high_price": 19270.0,
+        "low_price": 18530.0,
+        "close_price": 18690.0,
+        "volume": 9197864.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250608,
+        "open_price": 19010.0,
+        "high_price": 19130.0,
+        "low_price": 18840.0,
+        "close_price": 18990.0,
+        "volume": 7368501.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250607,
+        "open_price": 18960.0,
+        "high_price": 19500.0,
+        "low_price": 18960.0,
+        "close_price": 19120.0,
+        "volume": 13933098.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250603,
+        "open_price": 19990.0,
+        "high_price": 19990.0,
+        "low_price": 19350.0,
+        "close_price": 19540.0,
+        "volume": 3797626.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250602,
+        "open_price": 19800.0,
+        "high_price": 20000.0,
+        "low_price": 19590.0,
+        "close_price": 19680.0,
+        "volume": 2541980.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250601,
+        "open_price": 20030.0,
+        "high_price": 20080.0,
+        "low_price": 19450.0,
+        "close_price": 19590.0,
+        "volume": 15865222.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250531,
+        "open_price": 20110.0,
+        "high_price": 20500.0,
+        "low_price": 19880.0,
+        "close_price": 20050.0,
+        "volume": 6165316.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250528,
+        "open_price": 20430.0,
+        "high_price": 20760.0,
+        "low_price": 20110.0,
+        "close_price": 20240.0,
+        "volume": 5578423.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250527,
+        "open_price": 20900.0,
+        "high_price": 20930.0,
+        "low_price": 20260.0,
+        "close_price": 20420.0,
+        "volume": 5216205.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250526,
+        "open_price": 20520.0,
+        "high_price": 21090.0,
+        "low_price": 19910.0,
+        "close_price": 20340.0,
+        "volume": 4016860.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250525,
+        "open_price": 20950.0,
+        "high_price": 20950.0,
+        "low_price": 20490.0,
+        "close_price": 20520.0,
+        "volume": 8855791.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250524,
+        "open_price": 21800.0,
+        "high_price": 21800.0,
+        "low_price": 20700.0,
+        "close_price": 21120.0,
+        "volume": 12279816.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250521,
+        "open_price": 21190.0,
+        "high_price": 21760.0,
+        "low_price": 21190.0,
+        "close_price": 21210.0,
+        "volume": 24640215.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250520,
+        "open_price": 21670.0,
+        "high_price": 22270.0,
+        "low_price": 21670.0,
+        "close_price": 21840.0,
+        "volume": 38136325.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250519,
+        "open_price": 23080.0,
+        "high_price": 23080.0,
+        "low_price": 21970.0,
+        "close_price": 22330.0,
+        "volume": 15599253.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250518,
+        "open_price": 22650.0,
+        "high_price": 23080.0,
+        "low_price": 22000.0,
+        "close_price": 22640.0,
+        "volume": 22536373.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250517,
+        "open_price": 22160.0,
+        "high_price": 22700.0,
+        "low_price": 21940.0,
+        "close_price": 22410.0,
+        "volume": 17537562.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250514,
+        "open_price": 21420.0,
+        "high_price": 22140.0,
+        "low_price": 21400.0,
+        "close_price": 22040.0,
+        "volume": 41810371.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250513,
+        "open_price": 21510.0,
+        "high_price": 21510.0,
+        "low_price": 20920.0,
+        "close_price": 21500.0,
+        "volume": 23817674.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250512,
+        "open_price": 20890.0,
+        "high_price": 20890.0,
+        "low_price": 20890.0,
+        "close_price": 20890.0,
+        "volume": 7417795.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250511,
+        "open_price": 19760.0,
+        "high_price": 20320.0,
+        "low_price": 19710.0,
+        "close_price": 20290.0,
+        "volume": 18048782.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250510,
+        "open_price": 20600.0,
+        "high_price": 20600.0,
+        "low_price": 19500.0,
+        "close_price": 19730.0,
+        "volume": 8139005.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250507,
+        "open_price": 20010.0,
+        "high_price": 20090.0,
+        "low_price": 20010.0,
+        "close_price": 20090.0,
+        "volume": 7202454.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250506,
+        "open_price": 19520.0,
+        "high_price": 20060.0,
+        "low_price": 19130.0,
+        "close_price": 19510.0,
+        "volume": 15402096.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250505,
+        "open_price": 19750.0,
+        "high_price": 20490.0,
+        "low_price": 19450.0,
+        "close_price": 19670.0,
+        "volume": 16889189.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250504,
+        "open_price": 19940.0,
+        "high_price": 20520.0,
+        "low_price": 19940.0,
+        "close_price": 20030.0,
+        "volume": 21128272.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250503,
+        "open_price": 20450.0,
+        "high_price": 20450.0,
+        "low_price": 20450.0,
+        "close_price": 20550.0,
+        "volume": 4817963.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250430,
+        "open_price": 21010.0,
+        "high_price": 21380.0,
+        "low_price": 20910.0,
+        "close_price": 21080.0,
+        "volume": 10503683.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250429,
+        "open_price": 21100.0,
+        "high_price": 21600.0,
+        "low_price": 20890.0,
+        "close_price": 21060.0,
+        "volume": 15188522.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250428,
+        "open_price": 21980.0,
+        "high_price": 22100.0,
+        "low_price": 20910.0,
+        "close_price": 21530.0,
+        "volume": 13285669.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250427,
+        "open_price": 21150.0,
+        "high_price": 22390.0,
+        "low_price": 21150.0,
+        "close_price": 21460.0,
+        "volume": 16008437.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250426,
+        "open_price": 21990.0,
+        "high_price": 21990.0,
+        "low_price": 21180.0,
+        "close_price": 21800.0,
+        "volume": 33748501.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250423,
+        "open_price": 21350.0,
+        "high_price": 21350.0,
+        "low_price": 21140.0,
+        "close_price": 21350.0,
+        "volume": 61458748.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250422,
+        "open_price": 20500.0,
+        "high_price": 21130.0,
+        "low_price": 20010.0,
+        "close_price": 20730.0,
+        "volume": 23148560.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250421,
+        "open_price": 20580.0,
+        "high_price": 20580.0,
+        "low_price": 20050.0,
+        "close_price": 20550.0,
+        "volume": 34410788.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250420,
+        "open_price": 19990.0,
+        "high_price": 19990.0,
+        "low_price": 19990.0,
+        "close_price": 19990.0,
+        "volume": 10374093.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250419,
+        "open_price": 19370.0,
+        "high_price": 19410.0,
+        "low_price": 19010.0,
+        "close_price": 19410.0,
+        "volume": 10878499.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250416,
+        "open_price": 18470.0,
+        "high_price": 18940.0,
+        "low_price": 18200.0,
+        "close_price": 18850.0,
+        "volume": 9830145.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250415,
+        "open_price": 18990.0,
+        "high_price": 18990.0,
+        "low_price": 18180.0,
+        "close_price": 18390.0,
+        "volume": 8734518.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250414,
+        "open_price": 18720.0,
+        "high_price": 18720.0,
+        "low_price": 18510.0,
+        "close_price": 18720.0,
+        "volume": 11175545.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250413,
+        "open_price": 18240.0,
+        "high_price": 18240.0,
+        "low_price": 18240.0,
+        "close_price": 18180.0,
+        "volume": 6023403.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250412,
+        "open_price": 17730.0,
+        "high_price": 17800.0,
+        "low_price": 17370.0,
+        "close_price": 17710.0,
+        "volume": 7024827.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250409,
+        "open_price": 17970.0,
+        "high_price": 17970.0,
+        "low_price": 17400.0,
+        "close_price": 17770.0,
+        "volume": 9971370.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250408,
+        "open_price": 17450.0,
+        "high_price": 17450.0,
+        "low_price": 17450.0,
+        "close_price": 17450.0,
+        "volume": 7732444.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250407,
+        "open_price": 16930.0,
+        "high_price": 17290.0,
+        "low_price": 16830.0,
+        "close_price": 16950.0,
+        "volume": 6829439.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250406,
+        "open_price": 17090.0,
+        "high_price": 17480.0,
+        "low_price": 16930.0,
+        "close_price": 17180.0,
+        "volume": 3645186.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250405,
+        "open_price": 17010.0,
+        "high_price": 17780.0,
+        "low_price": 17000.0,
+        "close_price": 17270.0,
+        "volume": 10098644.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250330,
+        "open_price": 17500.0,
+        "high_price": 17840.0,
+        "low_price": 17060.0,
+        "close_price": 17470.0,
+        "volume": 3176567.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250329,
+        "open_price": 17440.0,
+        "high_price": 17440.0,
+        "low_price": 17030.0,
+        "close_price": 17330.0,
+        "volume": 3788715.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250326,
+        "open_price": 17860.0,
+        "high_price": 17860.0,
+        "low_price": 17370.0,
+        "close_price": 17440.0,
+        "volume": 1903982.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250325,
+        "open_price": 17580.0,
+        "high_price": 17750.0,
+        "low_price": 17530.0,
+        "close_price": 17340.0,
+        "volume": 1384249.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250318,
+        "open_price": 17580.0,
+        "high_price": 17580.0,
+        "low_price": 17080.0,
+        "close_price": 17240.0,
+        "volume": 10255341.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250317,
+        "open_price": 17690.0,
+        "high_price": 17800.0,
+        "low_price": 17500.0,
+        "close_price": 17600.0,
+        "volume": 8099686.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250316,
+        "open_price": 17790.0,
+        "high_price": 18000.0,
+        "low_price": 17310.0,
+        "close_price": 17700.0,
+        "volume": 8127002.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250315,
+        "open_price": 17570.0,
+        "high_price": 17580.0,
+        "low_price": 17490.0,
+        "close_price": 17580.0,
+        "volume": 26143573.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250312,
+        "open_price": 16900.0,
+        "high_price": 17370.0,
+        "low_price": 16850.0,
+        "close_price": 17070.0,
+        "volume": 10217266.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250311,
+        "open_price": 18050.0,
+        "high_price": 18050.0,
+        "low_price": 17350.0,
+        "close_price": 17370.0,
+        "volume": 9544197.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250310,
+        "open_price": 18430.0,
+        "high_price": 18430.0,
+        "low_price": 17580.0,
+        "close_price": 17880.0,
+        "volume": 14457445.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250309,
+        "open_price": 17930.0,
+        "high_price": 18490.0,
+        "low_price": 17890.0,
+        "close_price": 18110.0,
+        "volume": 13415589.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250308,
+        "open_price": 18800.0,
+        "high_price": 18810.0,
+        "low_price": 18260.0,
+        "close_price": 18440.0,
+        "volume": 10762218.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250305,
+        "open_price": 18570.0,
+        "high_price": 19120.0,
+        "low_price": 18410.0,
+        "close_price": 18820.0,
+        "volume": 11653052.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250304,
+        "open_price": 18790.0,
+        "high_price": 19500.0,
+        "low_price": 18720.0,
+        "close_price": 18950.0,
+        "volume": 10055271.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250303,
+        "open_price": 19130.0,
+        "high_price": 19200.0,
+        "low_price": 19130.0,
+        "close_price": 19130.0,
+        "volume": 27226955.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250302,
+        "open_price": 19210.0,
+        "high_price": 19780.0,
+        "low_price": 19110.0,
+        "close_price": 19720.0,
+        "volume": 20302438.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250301,
+        "open_price": 19000.0,
+        "high_price": 19550.0,
+        "low_price": 18620.0,
+        "close_price": 19210.0,
+        "volume": 7198303.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250226,
+        "open_price": 19150.0,
+        "high_price": 19650.0,
+        "low_price": 18720.0,
+        "close_price": 19070.0,
+        "volume": 8701192.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250225,
+        "open_price": 19000.0,
+        "high_price": 19150.0,
+        "low_price": 18800.0,
+        "close_price": 19130.0,
+        "volume": 26088560.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250224,
+        "open_price": 18220.0,
+        "high_price": 18600.0,
+        "low_price": 18220.0,
+        "close_price": 18600.0,
+        "volume": 26931924.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250223,
+        "open_price": 17850.0,
+        "high_price": 18450.0,
+        "low_price": 17820.0,
+        "close_price": 18060.0,
+        "volume": 9548571.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250222,
+        "open_price": 18010.0,
+        "high_price": 18200.0,
+        "low_price": 17660.0,
+        "close_price": 17920.0,
+        "volume": 12762912.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250219,
+        "open_price": 18240.0,
+        "high_price": 18240.0,
+        "low_price": 17940.0,
+        "close_price": 18020.0,
+        "volume": 7718340.0
+    },
+    {
+        "symbol": "تاپیکو",
+        "trade_date": 20250218,
+        "open_price": 17460.0,
+        "high_price": 18200.0,
+        "low_price": 17460.0,
+        "close_price": 17970.0,
+        "volume": 8251713.0
+    }
+]

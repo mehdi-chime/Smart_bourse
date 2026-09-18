@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260901,
+        "open_price": 5970.0,
+        "high_price": 5970.0,
+        "low_price": 5970.0,
+        "close_price": 5970.0,
+        "volume": 103304111.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260831,
+        "open_price": 5800.0,
+        "high_price": 5800.0,
+        "low_price": 5800.0,
+        "close_price": 5800.0,
+        "volume": 51506578.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260829,
+        "open_price": 5640.0,
+        "high_price": 5640.0,
+        "low_price": 5640.0,
+        "close_price": 5640.0,
+        "volume": 114742352.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260826,
+        "open_price": 5480.0,
+        "high_price": 5480.0,
+        "low_price": 5480.0,
+        "close_price": 5480.0,
+        "volume": 46086441.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260825,
+        "open_price": 5330.0,
+        "high_price": 5330.0,
+        "low_price": 5330.0,
+        "close_price": 5330.0,
+        "volume": 47380917.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260824,
+        "open_price": 5180.0,
+        "high_price": 5180.0,
+        "low_price": 5180.0,
+        "close_price": 5180.0,
+        "volume": 33588546.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260823,
+        "open_price": 5030.0,
+        "high_price": 5030.0,
+        "low_price": 5030.0,
+        "close_price": 5030.0,
+        "volume": 38030790.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260822,
+        "open_price": 4890.0,
+        "high_price": 4890.0,
+        "low_price": 4890.0,
+        "close_price": 4890.0,
+        "volume": 7703621.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260819,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260818,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260817,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260816,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260815,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260811,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260810,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260809,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260808,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260805,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260803,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260802,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260801,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260729,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260728,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260727,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260726,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260725,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4750.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260722,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5180.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260721,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5180.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260720,
+        "open_price": 5200.0,
+        "high_price": 5350.0,
+        "low_price": 5150.0,
+        "close_price": 5180.0,
+        "volume": 40228840.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260719,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5300.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260718,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5300.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260715,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5300.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260714,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5300.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260713,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5300.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260712,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5300.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260711,
+        "open_price": 5300.0,
+        "high_price": 5310.0,
+        "low_price": 5300.0,
+        "close_price": 5300.0,
+        "volume": 22125986.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260708,
+        "open_price": 5460.0,
+        "high_price": 5550.0,
+        "low_price": 5440.0,
+        "close_price": 5460.0,
+        "volume": 23647592.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260707,
+        "open_price": 5590.0,
+        "high_price": 5640.0,
+        "low_price": 5510.0,
+        "close_price": 5600.0,
+        "volume": 28595511.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260701,
+        "open_price": 5600.0,
+        "high_price": 5600.0,
+        "low_price": 5380.0,
+        "close_price": 5480.0,
+        "volume": 39682324.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260630,
+        "open_price": 5570.0,
+        "high_price": 5590.0,
+        "low_price": 5310.0,
+        "close_price": 5510.0,
+        "volume": 63914357.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260629,
+        "open_price": 5510.0,
+        "high_price": 5520.0,
+        "low_price": 5300.0,
+        "close_price": 5430.0,
+        "volume": 37760939.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260628,
+        "open_price": 5400.0,
+        "high_price": 5450.0,
+        "low_price": 5340.0,
+        "close_price": 5360.0,
+        "volume": 39230321.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260627,
+        "open_price": 5500.0,
+        "high_price": 5500.0,
+        "low_price": 5380.0,
+        "close_price": 5500.0,
+        "volume": 113635926.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260623,
+        "open_price": 5300.0,
+        "high_price": 5600.0,
+        "low_price": 5280.0,
+        "close_price": 5340.0,
+        "volume": 71115805.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260622,
+        "open_price": 5440.0,
+        "high_price": 5440.0,
+        "low_price": 5440.0,
+        "close_price": 5440.0,
+        "volume": 7710127.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260621,
+        "open_price": 5600.0,
+        "high_price": 5600.0,
+        "low_price": 5600.0,
+        "close_price": 5600.0,
+        "volume": 11603942.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260620,
+        "open_price": 6030.0,
+        "high_price": 6030.0,
+        "low_price": 5710.0,
+        "close_price": 5770.0,
+        "volume": 40596030.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260617,
+        "open_price": 5910.0,
+        "high_price": 6070.0,
+        "low_price": 5740.0,
+        "close_price": 5880.0,
+        "volume": 61066406.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260616,
+        "open_price": 5950.0,
+        "high_price": 5950.0,
+        "low_price": 5610.0,
+        "close_price": 5910.0,
+        "volume": 80234957.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260615,
+        "open_price": 5780.0,
+        "high_price": 5780.0,
+        "low_price": 5780.0,
+        "close_price": 5780.0,
+        "volume": 16009792.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260614,
+        "open_price": 5620.0,
+        "high_price": 5620.0,
+        "low_price": 5620.0,
+        "close_price": 5620.0,
+        "volume": 14859525.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260613,
+        "open_price": 5460.0,
+        "high_price": 5460.0,
+        "low_price": 5460.0,
+        "close_price": 5460.0,
+        "volume": 11634412.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260610,
+        "open_price": 5306.0,
+        "high_price": 5306.0,
+        "low_price": 5306.0,
+        "close_price": 5306.0,
+        "volume": 28226845.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260609,
+        "open_price": 5152.0,
+        "high_price": 5152.0,
+        "low_price": 5152.0,
+        "close_price": 5152.0,
+        "volume": 9124353.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260608,
+        "open_price": 4999.0,
+        "high_price": 5120.0,
+        "low_price": 4999.0,
+        "close_price": 5002.0,
+        "volume": 134194487.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260607,
+        "open_price": 5153.0,
+        "high_price": 5153.0,
+        "low_price": 5153.0,
+        "close_price": 5153.0,
+        "volume": 20115001.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260606,
+        "open_price": 5000.0,
+        "high_price": 5011.0,
+        "low_price": 4900.0,
+        "close_price": 5003.0,
+        "volume": 80156783.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260603,
+        "open_price": 4877.0,
+        "high_price": 4877.0,
+        "low_price": 4750.0,
+        "close_price": 4866.0,
+        "volume": 64122218.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260602,
+        "open_price": 4735.0,
+        "high_price": 4735.0,
+        "low_price": 4735.0,
+        "close_price": 4735.0,
+        "volume": 19630809.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260601,
+        "open_price": 4598.0,
+        "high_price": 4598.0,
+        "low_price": 4598.0,
+        "close_price": 4598.0,
+        "volume": 52863108.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260531,
+        "open_price": 4465.0,
+        "high_price": 4465.0,
+        "low_price": 4465.0,
+        "close_price": 4465.0,
+        "volume": 18744101.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260530,
+        "open_price": 4335.0,
+        "high_price": 4335.0,
+        "low_price": 4335.0,
+        "close_price": 4335.0,
+        "volume": 11160537.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260526,
+        "open_price": 4209.0,
+        "high_price": 4209.0,
+        "low_price": 4209.0,
+        "close_price": 4209.0,
+        "volume": 15827316.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260525,
+        "open_price": 4087.0,
+        "high_price": 4087.0,
+        "low_price": 4087.0,
+        "close_price": 4087.0,
+        "volume": 11727392.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260524,
+        "open_price": 3968.0,
+        "high_price": 3968.0,
+        "low_price": 3968.0,
+        "close_price": 3968.0,
+        "volume": 6719282.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260523,
+        "open_price": 3853.0,
+        "high_price": 3853.0,
+        "low_price": 3853.0,
+        "close_price": 3853.0,
+        "volume": 11550608.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260520,
+        "open_price": 3741.0,
+        "high_price": 3741.0,
+        "low_price": 3741.0,
+        "close_price": 3741.0,
+        "volume": 4866334.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260519,
+        "open_price": 3525.0,
+        "high_price": 3741.0,
+        "low_price": 3525.0,
+        "close_price": 3633.0,
+        "volume": 64776161.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3633.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260225,
+        "open_price": 3645.0,
+        "high_price": 3646.0,
+        "low_price": 3558.0,
+        "close_price": 3633.0,
+        "volume": 28362908.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260224,
+        "open_price": 3637.0,
+        "high_price": 3637.0,
+        "low_price": 3493.0,
+        "close_price": 3540.0,
+        "volume": 22846869.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260223,
+        "open_price": 3603.0,
+        "high_price": 3740.0,
+        "low_price": 3579.0,
+        "close_price": 3601.0,
+        "volume": 38591620.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260222,
+        "open_price": 3689.0,
+        "high_price": 3689.0,
+        "low_price": 3689.0,
+        "close_price": 3689.0,
+        "volume": 6335844.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260221,
+        "open_price": 3803.0,
+        "high_price": 3803.0,
+        "low_price": 3803.0,
+        "close_price": 3803.0,
+        "volume": 7709293.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260218,
+        "open_price": 4034.0,
+        "high_price": 4065.0,
+        "low_price": 3866.0,
+        "close_price": 3920.0,
+        "volume": 13065373.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260217,
+        "open_price": 3989.0,
+        "high_price": 4060.0,
+        "low_price": 3917.0,
+        "close_price": 3985.0,
+        "volume": 19206528.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260216,
+        "open_price": 3912.0,
+        "high_price": 4019.0,
+        "low_price": 3912.0,
+        "close_price": 3944.0,
+        "volume": 13423375.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260215,
+        "open_price": 4032.0,
+        "high_price": 4033.0,
+        "low_price": 4032.0,
+        "close_price": 4032.0,
+        "volume": 7832013.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260214,
+        "open_price": 4188.0,
+        "high_price": 4364.0,
+        "low_price": 4130.0,
+        "close_price": 4156.0,
+        "volume": 10438087.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260210,
+        "open_price": 4252.0,
+        "high_price": 4360.0,
+        "low_price": 4252.0,
+        "close_price": 4257.0,
+        "volume": 18796245.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260209,
+        "open_price": 4383.0,
+        "high_price": 4384.0,
+        "low_price": 4383.0,
+        "close_price": 4383.0,
+        "volume": 13333318.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260208,
+        "open_price": 4715.0,
+        "high_price": 4715.0,
+        "low_price": 4441.0,
+        "close_price": 4518.0,
+        "volume": 19318787.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260207,
+        "open_price": 4413.0,
+        "high_price": 4579.0,
+        "low_price": 4413.0,
+        "close_price": 4578.0,
+        "volume": 46786968.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260203,
+        "open_price": 4530.0,
+        "high_price": 4560.0,
+        "low_price": 4386.0,
+        "close_price": 4446.0,
+        "volume": 20486155.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260202,
+        "open_price": 4472.0,
+        "high_price": 4472.0,
+        "low_price": 4342.0,
+        "close_price": 4456.0,
+        "volume": 15785063.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260201,
+        "open_price": 4268.0,
+        "high_price": 4501.0,
+        "low_price": 4268.0,
+        "close_price": 4342.0,
+        "volume": 55956998.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260131,
+        "open_price": 4395.0,
+        "high_price": 4515.0,
+        "low_price": 4395.0,
+        "close_price": 4400.0,
+        "volume": 18559290.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260128,
+        "open_price": 4530.0,
+        "high_price": 4560.0,
+        "low_price": 4530.0,
+        "close_price": 4530.0,
+        "volume": 33170379.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260127,
+        "open_price": 4660.0,
+        "high_price": 4660.0,
+        "low_price": 4660.0,
+        "close_price": 4660.0,
+        "volume": 7786457.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260126,
+        "open_price": 4800.0,
+        "high_price": 4800.0,
+        "low_price": 4800.0,
+        "close_price": 4800.0,
+        "volume": 7013109.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260125,
+        "open_price": 4940.0,
+        "high_price": 4940.0,
+        "low_price": 4940.0,
+        "close_price": 4940.0,
+        "volume": 7657824.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260124,
+        "open_price": 5090.0,
+        "high_price": 5140.0,
+        "low_price": 5090.0,
+        "close_price": 5090.0,
+        "volume": 17011700.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260121,
+        "open_price": 5260.0,
+        "high_price": 5390.0,
+        "low_price": 5220.0,
+        "close_price": 5240.0,
+        "volume": 36282063.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260120,
+        "open_price": 5530.0,
+        "high_price": 5530.0,
+        "low_price": 5350.0,
+        "close_price": 5380.0,
+        "volume": 53083767.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260119,
+        "open_price": 5700.0,
+        "high_price": 5700.0,
+        "low_price": 5470.0,
+        "close_price": 5510.0,
+        "volume": 57719767.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260118,
+        "open_price": 5500.0,
+        "high_price": 5700.0,
+        "low_price": 5500.0,
+        "close_price": 5630.0,
+        "volume": 33290879.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260114,
+        "open_price": 5540.0,
+        "high_price": 5550.0,
+        "low_price": 5540.0,
+        "close_price": 5540.0,
+        "volume": 70723019.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260113,
+        "open_price": 5910.0,
+        "high_price": 5940.0,
+        "low_price": 5600.0,
+        "close_price": 5710.0,
+        "volume": 67330752.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260112,
+        "open_price": 5740.0,
+        "high_price": 5780.0,
+        "low_price": 5630.0,
+        "close_price": 5770.0,
+        "volume": 58202521.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260111,
+        "open_price": 5440.0,
+        "high_price": 5750.0,
+        "low_price": 5440.0,
+        "close_price": 5620.0,
+        "volume": 59743037.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260110,
+        "open_price": 5480.0,
+        "high_price": 5800.0,
+        "low_price": 5480.0,
+        "close_price": 5600.0,
+        "volume": 94671267.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260107,
+        "open_price": 5640.0,
+        "high_price": 5640.0,
+        "low_price": 5580.0,
+        "close_price": 5640.0,
+        "volume": 79022928.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260106,
+        "open_price": 5480.0,
+        "high_price": 5480.0,
+        "low_price": 5480.0,
+        "close_price": 5480.0,
+        "volume": 10005158.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260105,
+        "open_price": 5330.0,
+        "high_price": 5330.0,
+        "low_price": 5330.0,
+        "close_price": 5330.0,
+        "volume": 25420654.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20260104,
+        "open_price": 5340.0,
+        "high_price": 5340.0,
+        "low_price": 5040.0,
+        "close_price": 5180.0,
+        "volume": 51378270.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251231,
+        "open_price": 5025.0,
+        "high_price": 5335.0,
+        "low_price": 5025.0,
+        "close_price": 5191.0,
+        "volume": 94279708.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251230,
+        "open_price": 5180.0,
+        "high_price": 5180.0,
+        "low_price": 5180.0,
+        "close_price": 5180.0,
+        "volume": 36021131.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251229,
+        "open_price": 5353.0,
+        "high_price": 5353.0,
+        "low_price": 5253.0,
+        "close_price": 5340.0,
+        "volume": 152056688.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251228,
+        "open_price": 5201.0,
+        "high_price": 5202.0,
+        "low_price": 5119.0,
+        "close_price": 5198.0,
+        "volume": 82465638.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251227,
+        "open_price": 5053.0,
+        "high_price": 5053.0,
+        "low_price": 5000.0,
+        "close_price": 5051.0,
+        "volume": 111029760.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251224,
+        "open_price": 4906.0,
+        "high_price": 4906.0,
+        "low_price": 4851.0,
+        "close_price": 4906.0,
+        "volume": 19413686.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251223,
+        "open_price": 4770.0,
+        "high_price": 4788.0,
+        "low_price": 4665.0,
+        "close_price": 4764.0,
+        "volume": 12488057.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251222,
+        "open_price": 4673.0,
+        "high_price": 4673.0,
+        "low_price": 4553.0,
+        "close_price": 4649.0,
+        "volume": 50139174.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251221,
+        "open_price": 4490.0,
+        "high_price": 4558.0,
+        "low_price": 4442.0,
+        "close_price": 4537.0,
+        "volume": 41783150.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251220,
+        "open_price": 4338.0,
+        "high_price": 4432.0,
+        "low_price": 4338.0,
+        "close_price": 4426.0,
+        "volume": 17460589.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251217,
+        "open_price": 4464.0,
+        "high_price": 4480.0,
+        "low_price": 4268.0,
+        "close_price": 4303.0,
+        "volume": 19219988.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251216,
+        "open_price": 4470.0,
+        "high_price": 4550.0,
+        "low_price": 4295.0,
+        "close_price": 4400.0,
+        "volume": 30518580.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251215,
+        "open_price": 4450.0,
+        "high_price": 4488.0,
+        "low_price": 4372.0,
+        "close_price": 4427.0,
+        "volume": 18983486.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251214,
+        "open_price": 4550.0,
+        "high_price": 4550.0,
+        "low_price": 4301.0,
+        "close_price": 4389.0,
+        "volume": 26773419.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251213,
+        "open_price": 4329.0,
+        "high_price": 4438.0,
+        "low_price": 4328.0,
+        "close_price": 4434.0,
+        "volume": 32748007.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251210,
+        "open_price": 4300.0,
+        "high_price": 4311.0,
+        "low_price": 4290.0,
+        "close_price": 4309.0,
+        "volume": 34257771.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251209,
+        "open_price": 4120.0,
+        "high_price": 4217.0,
+        "low_price": 4097.0,
+        "close_price": 4186.0,
+        "volume": 29475024.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251208,
+        "open_price": 3972.0,
+        "high_price": 4115.0,
+        "low_price": 3972.0,
+        "close_price": 4095.0,
+        "volume": 33798222.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251207,
+        "open_price": 4100.0,
+        "high_price": 4100.0,
+        "low_price": 3973.0,
+        "close_price": 3996.0,
+        "volume": 42813358.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251206,
+        "open_price": 4080.0,
+        "high_price": 4096.0,
+        "low_price": 4050.0,
+        "close_price": 4095.0,
+        "volume": 24358134.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251203,
+        "open_price": 4080.0,
+        "high_price": 4080.0,
+        "low_price": 3941.0,
+        "close_price": 3977.0,
+        "volume": 21130347.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251202,
+        "open_price": 4154.0,
+        "high_price": 4171.0,
+        "low_price": 4000.0,
+        "close_price": 4062.0,
+        "volume": 50869914.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251201,
+        "open_price": 4123.0,
+        "high_price": 4123.0,
+        "low_price": 4123.0,
+        "close_price": 4123.0,
+        "volume": 23177613.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251130,
+        "open_price": 4004.0,
+        "high_price": 4004.0,
+        "low_price": 3907.0,
+        "close_price": 4003.0,
+        "volume": 61794951.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251129,
+        "open_price": 3885.0,
+        "high_price": 3889.0,
+        "low_price": 3820.0,
+        "close_price": 3888.0,
+        "volume": 17293180.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251126,
+        "open_price": 3773.0,
+        "high_price": 3850.0,
+        "low_price": 3725.0,
+        "close_price": 3776.0,
+        "volume": 26280507.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251125,
+        "open_price": 3803.0,
+        "high_price": 3840.0,
+        "low_price": 3700.0,
+        "close_price": 3774.0,
+        "volume": 29693169.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251123,
+        "open_price": 3756.0,
+        "high_price": 3756.0,
+        "low_price": 3665.0,
+        "close_price": 3750.0,
+        "volume": 64247649.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251122,
+        "open_price": 3682.0,
+        "high_price": 3682.0,
+        "low_price": 3682.0,
+        "close_price": 3647.0,
+        "volume": 4046907.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251119,
+        "open_price": 3575.0,
+        "high_price": 3575.0,
+        "low_price": 3575.0,
+        "close_price": 3575.0,
+        "volume": 9355511.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251118,
+        "open_price": 3413.0,
+        "high_price": 3494.0,
+        "low_price": 3413.0,
+        "close_price": 3471.0,
+        "volume": 12667319.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251117,
+        "open_price": 3430.0,
+        "high_price": 3445.0,
+        "low_price": 3373.0,
+        "close_price": 3393.0,
+        "volume": 5371204.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251116,
+        "open_price": 3386.0,
+        "high_price": 3417.0,
+        "low_price": 3318.0,
+        "close_price": 3347.0,
+        "volume": 10537964.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251115,
+        "open_price": 3395.0,
+        "high_price": 3402.0,
+        "low_price": 3340.0,
+        "close_price": 3371.0,
+        "volume": 16197473.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251112,
+        "open_price": 3418.0,
+        "high_price": 3435.0,
+        "low_price": 3340.0,
+        "close_price": 3379.0,
+        "volume": 18273476.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251111,
+        "open_price": 3380.0,
+        "high_price": 3463.0,
+        "low_price": 3355.0,
+        "close_price": 3402.0,
+        "volume": 14985699.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251110,
+        "open_price": 3395.0,
+        "high_price": 3400.0,
+        "low_price": 3335.0,
+        "close_price": 3363.0,
+        "volume": 11791010.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251109,
+        "open_price": 3460.0,
+        "high_price": 3466.0,
+        "low_price": 3356.0,
+        "close_price": 3379.0,
+        "volume": 21025215.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251108,
+        "open_price": 3432.0,
+        "high_price": 3498.0,
+        "low_price": 3422.0,
+        "close_price": 3459.0,
+        "volume": 10083073.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251105,
+        "open_price": 3397.0,
+        "high_price": 3434.0,
+        "low_price": 3361.0,
+        "close_price": 3401.0,
+        "volume": 13906975.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251104,
+        "open_price": 3387.0,
+        "high_price": 3455.0,
+        "low_price": 3326.0,
+        "close_price": 3380.0,
+        "volume": 18244425.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251103,
+        "open_price": 3372.0,
+        "high_price": 3411.0,
+        "low_price": 3355.0,
+        "close_price": 3387.0,
+        "volume": 11097103.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251102,
+        "open_price": 3320.0,
+        "high_price": 3411.0,
+        "low_price": 3278.0,
+        "close_price": 3358.0,
+        "volume": 9100071.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251101,
+        "open_price": 3529.0,
+        "high_price": 3529.0,
+        "low_price": 3349.0,
+        "close_price": 3378.0,
+        "volume": 20267131.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251029,
+        "open_price": 3549.0,
+        "high_price": 3549.0,
+        "low_price": 3420.0,
+        "close_price": 3452.0,
+        "volume": 15442188.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251028,
+        "open_price": 3516.0,
+        "high_price": 3580.0,
+        "low_price": 3449.0,
+        "close_price": 3506.0,
+        "volume": 23171391.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251027,
+        "open_price": 3400.0,
+        "high_price": 3515.0,
+        "low_price": 3400.0,
+        "close_price": 3486.0,
+        "volume": 21019648.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251026,
+        "open_price": 3420.0,
+        "high_price": 3469.0,
+        "low_price": 3373.0,
+        "close_price": 3413.0,
+        "volume": 24148084.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251025,
+        "open_price": 3436.0,
+        "high_price": 3436.0,
+        "low_price": 3336.0,
+        "close_price": 3420.0,
+        "volume": 56192227.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251022,
+        "open_price": 3268.0,
+        "high_price": 3336.0,
+        "low_price": 3268.0,
+        "close_price": 3336.0,
+        "volume": 32501131.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251021,
+        "open_price": 3184.0,
+        "high_price": 3338.0,
+        "low_price": 3147.0,
+        "close_price": 3239.0,
+        "volume": 23821834.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251020,
+        "open_price": 3260.0,
+        "high_price": 3309.0,
+        "low_price": 3203.0,
+        "close_price": 3243.0,
+        "volume": 17128772.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251019,
+        "open_price": 3326.0,
+        "high_price": 3375.0,
+        "low_price": 3250.0,
+        "close_price": 3302.0,
+        "volume": 14988860.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251018,
+        "open_price": 3310.0,
+        "high_price": 3310.0,
+        "low_price": 3233.0,
+        "close_price": 3308.0,
+        "volume": 41192619.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251015,
+        "open_price": 3196.0,
+        "high_price": 3270.0,
+        "low_price": 3196.0,
+        "close_price": 3214.0,
+        "volume": 28422164.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251014,
+        "open_price": 3315.0,
+        "high_price": 3386.0,
+        "low_price": 3246.0,
+        "close_price": 3294.0,
+        "volume": 42034403.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251013,
+        "open_price": 3400.0,
+        "high_price": 3450.0,
+        "low_price": 3275.0,
+        "close_price": 3346.0,
+        "volume": 23435203.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251012,
+        "open_price": 3359.0,
+        "high_price": 3380.0,
+        "low_price": 3251.0,
+        "close_price": 3376.0,
+        "volume": 49963003.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251011,
+        "open_price": 3290.0,
+        "high_price": 3290.0,
+        "low_price": 3241.0,
+        "close_price": 3282.0,
+        "volume": 93001767.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251008,
+        "open_price": 3195.0,
+        "high_price": 3195.0,
+        "low_price": 3195.0,
+        "close_price": 3195.0,
+        "volume": 41569839.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251007,
+        "open_price": 3102.0,
+        "high_price": 3102.0,
+        "low_price": 3102.0,
+        "close_price": 3102.0,
+        "volume": 6742917.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251006,
+        "open_price": 3012.0,
+        "high_price": 3012.0,
+        "low_price": 3012.0,
+        "close_price": 3012.0,
+        "volume": 8521244.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251005,
+        "open_price": 2925.0,
+        "high_price": 2925.0,
+        "low_price": 2925.0,
+        "close_price": 2925.0,
+        "volume": 6528767.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251004,
+        "open_price": 2877.0,
+        "high_price": 2877.0,
+        "low_price": 2877.0,
+        "close_price": 2840.0,
+        "volume": 3306470.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20251001,
+        "open_price": 2779.0,
+        "high_price": 2845.0,
+        "low_price": 2778.0,
+        "close_price": 2794.0,
+        "volume": 25603802.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250930,
+        "open_price": 2980.0,
+        "high_price": 2980.0,
+        "low_price": 2835.0,
+        "close_price": 2863.0,
+        "volume": 32504253.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250929,
+        "open_price": 2922.0,
+        "high_price": 2922.0,
+        "low_price": 2922.0,
+        "close_price": 2922.0,
+        "volume": 7277169.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250928,
+        "open_price": 2837.0,
+        "high_price": 2837.0,
+        "low_price": 2837.0,
+        "close_price": 2837.0,
+        "volume": 8298887.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250927,
+        "open_price": 2608.0,
+        "high_price": 2766.0,
+        "low_price": 2608.0,
+        "close_price": 2755.0,
+        "volume": 7227687.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250924,
+        "open_price": 2767.0,
+        "high_price": 2767.0,
+        "low_price": 2686.0,
+        "close_price": 2686.0,
+        "volume": 22242422.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250923,
+        "open_price": 2813.0,
+        "high_price": 2813.0,
+        "low_price": 2710.0,
+        "close_price": 2769.0,
+        "volume": 2170382.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250922,
+        "open_price": 2788.0,
+        "high_price": 2813.0,
+        "low_price": 2730.0,
+        "close_price": 2771.0,
+        "volume": 12777221.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250921,
+        "open_price": 2731.0,
+        "high_price": 2798.0,
+        "low_price": 2731.0,
+        "close_price": 2732.0,
+        "volume": 19724163.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250920,
+        "open_price": 2815.0,
+        "high_price": 2815.0,
+        "low_price": 2815.0,
+        "close_price": 2815.0,
+        "volume": 6903205.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250917,
+        "open_price": 2956.0,
+        "high_price": 2980.0,
+        "low_price": 2894.0,
+        "close_price": 2902.0,
+        "volume": 11385797.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250916,
+        "open_price": 3020.0,
+        "high_price": 3020.0,
+        "low_price": 2952.0,
+        "close_price": 2983.0,
+        "volume": 4841766.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250915,
+        "open_price": 3141.0,
+        "high_price": 3219.0,
+        "low_price": 3036.0,
+        "close_price": 3043.0,
+        "volume": 15615619.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250914,
+        "open_price": 3104.0,
+        "high_price": 3140.0,
+        "low_price": 3049.0,
+        "close_price": 3129.0,
+        "volume": 28048277.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250913,
+        "open_price": 3001.0,
+        "high_price": 3100.0,
+        "low_price": 2971.0,
+        "close_price": 3049.0,
+        "volume": 17441294.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250909,
+        "open_price": 3134.0,
+        "high_price": 3134.0,
+        "low_price": 2991.0,
+        "close_price": 3016.0,
+        "volume": 24009698.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250908,
+        "open_price": 3000.0,
+        "high_price": 3072.0,
+        "low_price": 2992.0,
+        "close_price": 3050.0,
+        "volume": 27372163.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250907,
+        "open_price": 2891.0,
+        "high_price": 3004.0,
+        "low_price": 2862.0,
+        "close_price": 2983.0,
+        "volume": 17888934.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250906,
+        "open_price": 2979.0,
+        "high_price": 2979.0,
+        "low_price": 2891.0,
+        "close_price": 2917.0,
+        "volume": 9466490.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250903,
+        "open_price": 2940.0,
+        "high_price": 2998.0,
+        "low_price": 2920.0,
+        "close_price": 2945.0,
+        "volume": 26357521.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250902,
+        "open_price": 2815.0,
+        "high_price": 2932.0,
+        "low_price": 2815.0,
+        "close_price": 2916.0,
+        "volume": 13608410.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250831,
+        "open_price": 2807.0,
+        "high_price": 2901.0,
+        "low_price": 2807.0,
+        "close_price": 2847.0,
+        "volume": 29537659.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250830,
+        "open_price": 2817.0,
+        "high_price": 2817.0,
+        "low_price": 2817.0,
+        "close_price": 2893.0,
+        "volume": 762332.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250827,
+        "open_price": 2905.0,
+        "high_price": 2988.0,
+        "low_price": 2865.0,
+        "close_price": 2904.0,
+        "volume": 6460527.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250826,
+        "open_price": 2997.0,
+        "high_price": 2997.0,
+        "low_price": 2930.0,
+        "close_price": 2953.0,
+        "volume": 7591202.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250825,
+        "open_price": 3005.0,
+        "high_price": 3046.0,
+        "low_price": 2941.0,
+        "close_price": 2991.0,
+        "volume": 10764380.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250823,
+        "open_price": 3049.0,
+        "high_price": 3051.0,
+        "low_price": 3002.0,
+        "close_price": 3031.0,
+        "volume": 5522704.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250820,
+        "open_price": 3056.0,
+        "high_price": 3069.0,
+        "low_price": 2997.0,
+        "close_price": 3020.0,
+        "volume": 3359917.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250819,
+        "open_price": 2945.0,
+        "high_price": 3062.0,
+        "low_price": 2945.0,
+        "close_price": 3027.0,
+        "volume": 12571589.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250818,
+        "open_price": 3044.0,
+        "high_price": 3070.0,
+        "low_price": 3016.0,
+        "close_price": 3033.0,
+        "volume": 7364389.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250817,
+        "open_price": 2943.0,
+        "high_price": 3031.0,
+        "low_price": 2943.0,
+        "close_price": 3029.0,
+        "volume": 10820704.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250816,
+        "open_price": 2875.0,
+        "high_price": 2998.0,
+        "low_price": 2875.0,
+        "close_price": 2943.0,
+        "volume": 12291874.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250813,
+        "open_price": 2963.0,
+        "high_price": 2975.0,
+        "low_price": 2963.0,
+        "close_price": 2963.0,
+        "volume": 18977971.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250812,
+        "open_price": 2998.0,
+        "high_price": 3030.0,
+        "low_price": 2997.0,
+        "close_price": 3054.0,
+        "volume": 2313439.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250811,
+        "open_price": 3180.0,
+        "high_price": 3180.0,
+        "low_price": 3017.0,
+        "close_price": 3089.0,
+        "volume": 14340315.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250810,
+        "open_price": 3001.0,
+        "high_price": 3108.0,
+        "low_price": 3001.0,
+        "close_price": 3089.0,
+        "volume": 16970438.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250809,
+        "open_price": 2980.0,
+        "high_price": 3064.0,
+        "low_price": 2980.0,
+        "close_price": 3018.0,
+        "volume": 11987158.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250806,
+        "open_price": 3065.0,
+        "high_price": 3065.0,
+        "low_price": 3065.0,
+        "close_price": 3065.0,
+        "volume": 9576287.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250805,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250804,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250803,
+        "open_price": 3470.0,
+        "high_price": 3544.0,
+        "low_price": 3453.0,
+        "close_price": 3459.0,
+        "volume": 24218672.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250802,
+        "open_price": 3559.0,
+        "high_price": 3565.0,
+        "low_price": 3559.0,
+        "close_price": 3559.0,
+        "volume": 43613205.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250730,
+        "open_price": 3565.0,
+        "high_price": 3565.0,
+        "low_price": 3565.0,
+        "close_price": 3669.0,
+        "volume": 305266.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250729,
+        "open_price": 3578.0,
+        "high_price": 3578.0,
+        "low_price": 3578.0,
+        "close_price": 3675.0,
+        "volume": 709582.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250728,
+        "open_price": 3587.0,
+        "high_price": 3587.0,
+        "low_price": 3587.0,
+        "close_price": 3688.0,
+        "volume": 493111.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250727,
+        "open_price": 3701.0,
+        "high_price": 3727.0,
+        "low_price": 3663.0,
+        "close_price": 3697.0,
+        "volume": 4256188.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250726,
+        "open_price": 3730.0,
+        "high_price": 3900.0,
+        "low_price": 3728.0,
+        "close_price": 3776.0,
+        "volume": 19719142.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250723,
+        "open_price": 3906.0,
+        "high_price": 3906.0,
+        "low_price": 3810.0,
+        "close_price": 3843.0,
+        "volume": 16834503.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250722,
+        "open_price": 3955.0,
+        "high_price": 3955.0,
+        "low_price": 3823.0,
+        "close_price": 3927.0,
+        "volume": 31549423.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250721,
+        "open_price": 3881.0,
+        "high_price": 3881.0,
+        "low_price": 3881.0,
+        "close_price": 3840.0,
+        "volume": 3841277.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250720,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3768.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250719,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3768.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250716,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3768.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250715,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3768.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250714,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3768.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250713,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3768.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250712,
+        "open_price": 3748.0,
+        "high_price": 3879.0,
+        "low_price": 3733.0,
+        "close_price": 3768.0,
+        "volume": 20761161.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250709,
+        "open_price": 3708.0,
+        "high_price": 3708.0,
+        "low_price": 3708.0,
+        "close_price": 3770.0,
+        "volume": 2718083.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250708,
+        "open_price": 3754.0,
+        "high_price": 3852.0,
+        "low_price": 3753.0,
+        "close_price": 3822.0,
+        "volume": 2461170.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250707,
+        "open_price": 3870.0,
+        "high_price": 4000.0,
+        "low_price": 3852.0,
+        "close_price": 3869.0,
+        "volume": 19340429.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250702,
+        "open_price": 3971.0,
+        "high_price": 4000.0,
+        "low_price": 3971.0,
+        "close_price": 3971.0,
+        "volume": 157679058.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250701,
+        "open_price": 3974.0,
+        "high_price": 3974.0,
+        "low_price": 3974.0,
+        "close_price": 4093.0,
+        "volume": 140218.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250630,
+        "open_price": 4003.0,
+        "high_price": 4003.0,
+        "low_price": 4003.0,
+        "close_price": 4096.0,
+        "volume": 1471266.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250629,
+        "open_price": 4095.0,
+        "high_price": 4095.0,
+        "low_price": 4095.0,
+        "close_price": 4126.0,
+        "volume": 4544709.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250628,
+        "open_price": 4155.0,
+        "high_price": 4155.0,
+        "low_price": 4155.0,
+        "close_price": 4221.0,
+        "volume": 2900985.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4283.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4283.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4283.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4283.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4283.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4283.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4283.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4283.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250611,
+        "open_price": 4350.0,
+        "high_price": 4376.0,
+        "low_price": 4248.0,
+        "close_price": 4283.0,
+        "volume": 6443345.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250610,
+        "open_price": 4309.0,
+        "high_price": 4388.0,
+        "low_price": 4292.0,
+        "close_price": 4330.0,
+        "volume": 11970024.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250609,
+        "open_price": 4430.0,
+        "high_price": 4430.0,
+        "low_price": 4286.0,
+        "close_price": 4394.0,
+        "volume": 42088997.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250608,
+        "open_price": 4114.0,
+        "high_price": 4312.0,
+        "low_price": 4114.0,
+        "close_price": 4301.0,
+        "volume": 14630304.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250607,
+        "open_price": 4194.0,
+        "high_price": 4209.0,
+        "low_price": 4187.0,
+        "close_price": 4187.0,
+        "volume": 17381571.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250603,
+        "open_price": 4312.0,
+        "high_price": 4389.0,
+        "low_price": 4276.0,
+        "close_price": 4316.0,
+        "volume": 11072745.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250602,
+        "open_price": 4430.0,
+        "high_price": 4488.0,
+        "low_price": 4330.0,
+        "close_price": 4393.0,
+        "volume": 9571282.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250601,
+        "open_price": 4410.0,
+        "high_price": 4489.0,
+        "low_price": 4355.0,
+        "close_price": 4364.0,
+        "volume": 25559087.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250531,
+        "open_price": 4480.0,
+        "high_price": 4568.0,
+        "low_price": 4417.0,
+        "close_price": 4489.0,
+        "volume": 8421882.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250528,
+        "open_price": 4640.0,
+        "high_price": 4640.0,
+        "low_price": 4413.0,
+        "close_price": 4438.0,
+        "volume": 21936117.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250527,
+        "open_price": 4500.0,
+        "high_price": 4650.0,
+        "low_price": 4402.0,
+        "close_price": 4549.0,
+        "volume": 16441918.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250526,
+        "open_price": 4562.0,
+        "high_price": 4562.0,
+        "low_price": 4433.0,
+        "close_price": 4531.0,
+        "volume": 25299264.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250525,
+        "open_price": 4456.0,
+        "high_price": 4456.0,
+        "low_price": 4328.0,
+        "close_price": 4430.0,
+        "volume": 34381436.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250524,
+        "open_price": 4330.0,
+        "high_price": 4334.0,
+        "low_price": 4201.0,
+        "close_price": 4327.0,
+        "volume": 6746118.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250521,
+        "open_price": 4200.0,
+        "high_price": 4270.0,
+        "low_price": 4200.0,
+        "close_price": 4208.0,
+        "volume": 25423332.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250520,
+        "open_price": 4370.0,
+        "high_price": 4459.0,
+        "low_price": 4312.0,
+        "close_price": 4329.0,
+        "volume": 7626440.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250519,
+        "open_price": 4480.0,
+        "high_price": 4560.0,
+        "low_price": 4428.0,
+        "close_price": 4445.0,
+        "volume": 36783799.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250518,
+        "open_price": 4570.0,
+        "high_price": 4599.0,
+        "low_price": 4470.0,
+        "close_price": 4564.0,
+        "volume": 27222632.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250517,
+        "open_price": 4483.0,
+        "high_price": 4483.0,
+        "low_price": 4364.0,
+        "close_price": 4466.0,
+        "volume": 56019460.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250514,
+        "open_price": 4290.0,
+        "high_price": 4363.0,
+        "low_price": 4221.0,
+        "close_price": 4353.0,
+        "volume": 18718251.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250513,
+        "open_price": 4324.0,
+        "high_price": 4324.0,
+        "low_price": 4205.0,
+        "close_price": 4236.0,
+        "volume": 34391415.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250512,
+        "open_price": 4392.0,
+        "high_price": 4392.0,
+        "low_price": 4275.0,
+        "close_price": 4335.0,
+        "volume": 52798879.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250511,
+        "open_price": 4370.0,
+        "high_price": 4370.0,
+        "low_price": 4221.0,
+        "close_price": 4265.0,
+        "volume": 13973080.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250510,
+        "open_price": 4368.0,
+        "high_price": 4368.0,
+        "low_price": 4158.0,
+        "close_price": 4351.0,
+        "volume": 154570778.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250507,
+        "open_price": 4241.0,
+        "high_price": 4241.0,
+        "low_price": 4241.0,
+        "close_price": 4241.0,
+        "volume": 6006987.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250506,
+        "open_price": 4118.0,
+        "high_price": 4118.0,
+        "low_price": 4118.0,
+        "close_price": 4118.0,
+        "volume": 18600124.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250505,
+        "open_price": 3999.0,
+        "high_price": 3999.0,
+        "low_price": 3999.0,
+        "close_price": 3999.0,
+        "volume": 9317218.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250504,
+        "open_price": 3883.0,
+        "high_price": 3883.0,
+        "low_price": 3883.0,
+        "close_price": 3883.0,
+        "volume": 42725698.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250503,
+        "open_price": 3770.0,
+        "high_price": 3770.0,
+        "low_price": 3770.0,
+        "close_price": 3770.0,
+        "volume": 10906765.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250430,
+        "open_price": 3685.0,
+        "high_price": 3685.0,
+        "low_price": 3685.0,
+        "close_price": 3661.0,
+        "volume": 4661073.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250429,
+        "open_price": 3653.0,
+        "high_price": 3653.0,
+        "low_price": 3653.0,
+        "close_price": 3578.0,
+        "volume": 1763047.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3547.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3547.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3547.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250423,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4567.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4567.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4567.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4567.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250419,
+        "open_price": 4579.0,
+        "high_price": 4586.0,
+        "low_price": 4470.0,
+        "close_price": 4567.0,
+        "volume": 8947358.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250416,
+        "open_price": 4549.0,
+        "high_price": 4570.0,
+        "low_price": 4397.0,
+        "close_price": 4453.0,
+        "volume": 7595688.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250415,
+        "open_price": 4583.0,
+        "high_price": 4584.0,
+        "low_price": 4496.0,
+        "close_price": 4498.0,
+        "volume": 9127390.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250414,
+        "open_price": 4667.0,
+        "high_price": 4667.0,
+        "low_price": 4550.0,
+        "close_price": 4635.0,
+        "volume": 9767154.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250413,
+        "open_price": 4532.0,
+        "high_price": 4532.0,
+        "low_price": 4530.0,
+        "close_price": 4532.0,
+        "volume": 15656510.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250412,
+        "open_price": 4439.0,
+        "high_price": 4493.0,
+        "low_price": 4351.0,
+        "close_price": 4400.0,
+        "volume": 5124885.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250409,
+        "open_price": 4495.0,
+        "high_price": 4600.0,
+        "low_price": 4360.0,
+        "close_price": 4398.0,
+        "volume": 10669208.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250408,
+        "open_price": 4494.0,
+        "high_price": 4495.0,
+        "low_price": 4414.0,
+        "close_price": 4494.0,
+        "volume": 6740619.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250407,
+        "open_price": 4450.0,
+        "high_price": 4550.0,
+        "low_price": 4321.0,
+        "close_price": 4365.0,
+        "volume": 9124664.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250406,
+        "open_price": 4333.0,
+        "high_price": 4545.0,
+        "low_price": 4333.0,
+        "close_price": 4454.0,
+        "volume": 6130994.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250405,
+        "open_price": 4393.0,
+        "high_price": 4500.0,
+        "low_price": 4393.0,
+        "close_price": 4414.0,
+        "volume": 16427346.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250330,
+        "open_price": 4400.0,
+        "high_price": 4535.0,
+        "low_price": 4400.0,
+        "close_price": 4528.0,
+        "volume": 11833613.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250329,
+        "open_price": 4301.0,
+        "high_price": 4471.0,
+        "low_price": 4231.0,
+        "close_price": 4403.0,
+        "volume": 8633062.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250326,
+        "open_price": 4351.0,
+        "high_price": 4351.0,
+        "low_price": 4290.0,
+        "close_price": 4341.0,
+        "volume": 5036668.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250325,
+        "open_price": 4260.0,
+        "high_price": 4285.0,
+        "low_price": 4170.0,
+        "close_price": 4225.0,
+        "volume": 2428400.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250318,
+        "open_price": 4153.0,
+        "high_price": 4260.0,
+        "low_price": 4152.0,
+        "close_price": 4161.0,
+        "volume": 8542519.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250317,
+        "open_price": 4340.0,
+        "high_price": 4418.0,
+        "low_price": 4204.0,
+        "close_price": 4280.0,
+        "volume": 5087681.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250316,
+        "open_price": 4447.0,
+        "high_price": 4450.0,
+        "low_price": 4250.0,
+        "close_price": 4334.0,
+        "volume": 9956900.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250315,
+        "open_price": 4370.0,
+        "high_price": 4370.0,
+        "low_price": 4370.0,
+        "close_price": 4370.0,
+        "volume": 7602392.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250312,
+        "open_price": 4186.0,
+        "high_price": 4330.0,
+        "low_price": 4171.0,
+        "close_price": 4243.0,
+        "volume": 10238786.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250311,
+        "open_price": 4350.0,
+        "high_price": 4350.0,
+        "low_price": 4200.0,
+        "close_price": 4204.0,
+        "volume": 5335217.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250310,
+        "open_price": 4321.0,
+        "high_price": 4553.0,
+        "low_price": 4300.0,
+        "close_price": 4329.0,
+        "volume": 7842632.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250309,
+        "open_price": 4435.0,
+        "high_price": 4499.0,
+        "low_price": 4431.0,
+        "close_price": 4432.0,
+        "volume": 15728190.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250308,
+        "open_price": 4542.0,
+        "high_price": 4680.0,
+        "low_price": 4513.0,
+        "close_price": 4568.0,
+        "volume": 3523482.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250305,
+        "open_price": 4541.0,
+        "high_price": 4672.0,
+        "low_price": 4541.0,
+        "close_price": 4652.0,
+        "volume": 2673292.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250304,
+        "open_price": 4646.0,
+        "high_price": 4786.0,
+        "low_price": 4642.0,
+        "close_price": 4672.0,
+        "volume": 12638710.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250303,
+        "open_price": 4744.0,
+        "high_price": 4744.0,
+        "low_price": 4744.0,
+        "close_price": 4785.0,
+        "volume": 3351196.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250302,
+        "open_price": 4839.0,
+        "high_price": 4928.0,
+        "low_price": 4830.0,
+        "close_price": 4890.0,
+        "volume": 10249646.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250301,
+        "open_price": 4677.0,
+        "high_price": 4899.0,
+        "low_price": 4676.0,
+        "close_price": 4839.0,
+        "volume": 8148369.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250226,
+        "open_price": 4850.0,
+        "high_price": 4900.0,
+        "low_price": 4736.0,
+        "close_price": 4774.0,
+        "volume": 8804706.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250225,
+        "open_price": 4883.0,
+        "high_price": 4883.0,
+        "low_price": 4800.0,
+        "close_price": 4882.0,
+        "volume": 15431017.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250224,
+        "open_price": 4780.0,
+        "high_price": 4800.0,
+        "low_price": 4675.0,
+        "close_price": 4741.0,
+        "volume": 2731814.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250223,
+        "open_price": 4550.0,
+        "high_price": 4667.0,
+        "low_price": 4518.0,
+        "close_price": 4661.0,
+        "volume": 7391612.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250222,
+        "open_price": 4688.0,
+        "high_price": 4688.0,
+        "low_price": 4518.0,
+        "close_price": 4532.0,
+        "volume": 9703136.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250219,
+        "open_price": 4749.0,
+        "high_price": 4749.0,
+        "low_price": 4600.0,
+        "close_price": 4657.0,
+        "volume": 4217521.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250218,
+        "open_price": 4631.0,
+        "high_price": 4750.0,
+        "low_price": 4631.0,
+        "close_price": 4673.0,
+        "volume": 3211380.0
+    },
+    {
+        "symbol": "سرچشمه",
+        "trade_date": 20250217,
+        "open_price": 4514.0,
+        "high_price": 4649.0,
+        "low_price": 4514.0,
+        "close_price": 4631.0,
+        "volume": 6467735.0
+    }
+]

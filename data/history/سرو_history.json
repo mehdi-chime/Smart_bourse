@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "سرو",
+        "trade_date": 20260901,
+        "open_price": 41020.0,
+        "high_price": 41798.0,
+        "low_price": 39606.0,
+        "close_price": 40951.0,
+        "volume": 42189332.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260831,
+        "open_price": 40710.0,
+        "high_price": 41698.0,
+        "low_price": 40655.0,
+        "close_price": 40830.0,
+        "volume": 40306821.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260829,
+        "open_price": 42710.0,
+        "high_price": 42710.0,
+        "low_price": 41584.0,
+        "close_price": 41912.0,
+        "volume": 16851935.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260826,
+        "open_price": 41782.0,
+        "high_price": 41784.0,
+        "low_price": 41050.0,
+        "close_price": 41548.0,
+        "volume": 20246366.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260825,
+        "open_price": 40260.0,
+        "high_price": 41001.0,
+        "low_price": 40000.0,
+        "close_price": 40567.0,
+        "volume": 10851844.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260824,
+        "open_price": 39060.0,
+        "high_price": 40500.0,
+        "low_price": 39060.0,
+        "close_price": 39807.0,
+        "volume": 14399274.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260823,
+        "open_price": 39900.0,
+        "high_price": 40000.0,
+        "low_price": 38700.0,
+        "close_price": 39506.0,
+        "volume": 24179746.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260822,
+        "open_price": 39000.0,
+        "high_price": 39234.0,
+        "low_price": 38600.0,
+        "close_price": 39026.0,
+        "volume": 22404207.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260819,
+        "open_price": 38100.0,
+        "high_price": 38499.0,
+        "low_price": 37480.0,
+        "close_price": 38092.0,
+        "volume": 27838857.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260818,
+        "open_price": 37955.0,
+        "high_price": 38327.0,
+        "low_price": 36857.0,
+        "close_price": 37863.0,
+        "volume": 35130128.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260817,
+        "open_price": 37958.0,
+        "high_price": 37962.0,
+        "low_price": 37850.0,
+        "close_price": 37955.0,
+        "volume": 30576327.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260816,
+        "open_price": 35900.0,
+        "high_price": 37549.0,
+        "low_price": 35900.0,
+        "close_price": 36857.0,
+        "volume": 17934664.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260815,
+        "open_price": 37986.0,
+        "high_price": 37986.0,
+        "low_price": 36261.0,
+        "close_price": 36469.0,
+        "volume": 13927707.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260811,
+        "open_price": 37891.0,
+        "high_price": 37891.0,
+        "low_price": 37000.0,
+        "close_price": 37382.0,
+        "volume": 24279305.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260810,
+        "open_price": 37350.0,
+        "high_price": 37999.0,
+        "low_price": 36254.0,
+        "close_price": 37328.0,
+        "volume": 33501742.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260809,
+        "open_price": 38000.0,
+        "high_price": 38000.0,
+        "low_price": 36393.0,
+        "close_price": 36938.0,
+        "volume": 152384303.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260808,
+        "open_price": 37518.0,
+        "high_price": 37518.0,
+        "low_price": 37518.0,
+        "close_price": 37518.0,
+        "volume": 47651358.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260805,
+        "open_price": 36426.0,
+        "high_price": 36426.0,
+        "low_price": 36426.0,
+        "close_price": 36426.0,
+        "volume": 35730942.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260803,
+        "open_price": 35179.0,
+        "high_price": 35383.0,
+        "low_price": 34810.0,
+        "close_price": 35366.0,
+        "volume": 149013487.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260802,
+        "open_price": 34372.0,
+        "high_price": 34372.0,
+        "low_price": 32705.0,
+        "close_price": 34353.0,
+        "volume": 41288174.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260801,
+        "open_price": 33450.0,
+        "high_price": 33950.0,
+        "low_price": 33206.0,
+        "close_price": 33371.0,
+        "volume": 24510236.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260729,
+        "open_price": 33953.0,
+        "high_price": 34885.0,
+        "low_price": 33953.0,
+        "close_price": 34232.0,
+        "volume": 31180442.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260728,
+        "open_price": 35600.0,
+        "high_price": 35600.0,
+        "low_price": 34800.0,
+        "close_price": 35003.0,
+        "volume": 29000849.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260727,
+        "open_price": 35350.0,
+        "high_price": 35350.0,
+        "low_price": 34269.0,
+        "close_price": 34847.0,
+        "volume": 41177214.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260726,
+        "open_price": 34360.0,
+        "high_price": 34360.0,
+        "low_price": 33861.0,
+        "close_price": 34360.0,
+        "volume": 43449009.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260725,
+        "open_price": 33515.0,
+        "high_price": 33700.0,
+        "low_price": 32800.0,
+        "close_price": 33360.0,
+        "volume": 11413672.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260722,
+        "open_price": 33111.0,
+        "high_price": 33111.0,
+        "low_price": 32032.0,
+        "close_price": 32852.0,
+        "volume": 18571009.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260721,
+        "open_price": 32147.0,
+        "high_price": 32147.0,
+        "low_price": 32147.0,
+        "close_price": 32147.0,
+        "volume": 10351610.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260720,
+        "open_price": 31252.0,
+        "high_price": 31252.0,
+        "low_price": 30774.0,
+        "close_price": 31211.0,
+        "volume": 11276735.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260719,
+        "open_price": 29251.0,
+        "high_price": 30849.0,
+        "low_price": 29251.0,
+        "close_price": 30342.0,
+        "volume": 19556541.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260718,
+        "open_price": 29970.0,
+        "high_price": 30500.0,
+        "low_price": 29949.0,
+        "close_price": 29951.0,
+        "volume": 19095689.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260715,
+        "open_price": 31022.0,
+        "high_price": 31022.0,
+        "low_price": 30590.0,
+        "close_price": 30875.0,
+        "volume": 18328724.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260714,
+        "open_price": 29453.0,
+        "high_price": 30980.0,
+        "low_price": 29453.0,
+        "close_price": 30121.0,
+        "volume": 13989351.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260713,
+        "open_price": 30156.0,
+        "high_price": 31000.0,
+        "low_price": 30156.0,
+        "close_price": 30239.0,
+        "volume": 37312251.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260712,
+        "open_price": 31088.0,
+        "high_price": 31088.0,
+        "low_price": 31088.0,
+        "close_price": 31088.0,
+        "volume": 12605314.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260711,
+        "open_price": 32038.0,
+        "high_price": 32398.0,
+        "low_price": 32038.0,
+        "close_price": 32049.0,
+        "volume": 13970398.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260708,
+        "open_price": 32410.0,
+        "high_price": 33349.0,
+        "low_price": 32126.0,
+        "close_price": 33028.0,
+        "volume": 40227598.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260707,
+        "open_price": 33119.0,
+        "high_price": 33119.0,
+        "low_price": 33000.0,
+        "close_price": 33119.0,
+        "volume": 43316561.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260701,
+        "open_price": 31440.0,
+        "high_price": 32491.0,
+        "low_price": 31002.0,
+        "close_price": 32155.0,
+        "volume": 17624446.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260630,
+        "open_price": 31280.0,
+        "high_price": 31627.0,
+        "low_price": 31250.0,
+        "close_price": 31545.0,
+        "volume": 35943851.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260629,
+        "open_price": 29800.0,
+        "high_price": 31270.0,
+        "low_price": 29800.0,
+        "close_price": 30706.0,
+        "volume": 22183959.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260628,
+        "open_price": 30432.0,
+        "high_price": 30800.0,
+        "low_price": 30432.0,
+        "close_price": 30432.0,
+        "volume": 22586233.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260627,
+        "open_price": 32287.0,
+        "high_price": 32287.0,
+        "low_price": 30687.0,
+        "close_price": 31373.0,
+        "volume": 33458568.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260623,
+        "open_price": 31100.0,
+        "high_price": 31935.0,
+        "low_price": 31010.0,
+        "close_price": 31636.0,
+        "volume": 35711435.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260622,
+        "open_price": 31005.0,
+        "high_price": 31005.0,
+        "low_price": 31005.0,
+        "close_price": 31005.0,
+        "volume": 19310342.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260621,
+        "open_price": 32880.0,
+        "high_price": 32880.0,
+        "low_price": 31897.0,
+        "close_price": 31963.0,
+        "volume": 11298262.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260620,
+        "open_price": 34089.0,
+        "high_price": 34089.0,
+        "low_price": 32105.0,
+        "close_price": 32883.0,
+        "volume": 49694070.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260617,
+        "open_price": 32843.0,
+        "high_price": 34044.0,
+        "low_price": 32062.0,
+        "close_price": 33097.0,
+        "volume": 39411171.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260616,
+        "open_price": 33083.0,
+        "high_price": 33083.0,
+        "low_price": 32201.0,
+        "close_price": 33053.0,
+        "volume": 134069071.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260615,
+        "open_price": 32120.0,
+        "high_price": 32120.0,
+        "low_price": 32120.0,
+        "close_price": 32120.0,
+        "volume": 1085270.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260614,
+        "open_price": 31185.0,
+        "high_price": 31185.0,
+        "low_price": 31185.0,
+        "close_price": 31185.0,
+        "volume": 9932962.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260613,
+        "open_price": 30277.0,
+        "high_price": 30277.0,
+        "low_price": 30277.0,
+        "close_price": 30277.0,
+        "volume": 10310430.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260610,
+        "open_price": 29400.0,
+        "high_price": 29400.0,
+        "low_price": 29040.0,
+        "close_price": 29396.0,
+        "volume": 40633825.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260609,
+        "open_price": 28544.0,
+        "high_price": 28544.0,
+        "low_price": 28544.0,
+        "close_price": 28544.0,
+        "volume": 18869216.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260608,
+        "open_price": 27713.0,
+        "high_price": 27713.0,
+        "low_price": 27713.0,
+        "close_price": 27713.0,
+        "volume": 12750609.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260607,
+        "open_price": 28200.0,
+        "high_price": 28581.0,
+        "low_price": 28200.0,
+        "close_price": 28570.0,
+        "volume": 14700195.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260606,
+        "open_price": 26710.0,
+        "high_price": 28164.0,
+        "low_price": 26710.0,
+        "close_price": 27749.0,
+        "volume": 55663120.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260603,
+        "open_price": 27700.0,
+        "high_price": 27799.0,
+        "low_price": 27075.0,
+        "close_price": 27344.0,
+        "volume": 41482988.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260602,
+        "open_price": 27700.0,
+        "high_price": 28680.0,
+        "low_price": 27058.0,
+        "close_price": 27912.0,
+        "volume": 72188545.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260601,
+        "open_price": 28052.0,
+        "high_price": 28052.0,
+        "low_price": 26864.0,
+        "close_price": 27877.0,
+        "volume": 116715907.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260531,
+        "open_price": 27235.0,
+        "high_price": 27235.0,
+        "low_price": 27235.0,
+        "close_price": 27235.0,
+        "volume": 68273233.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260530,
+        "open_price": 26442.0,
+        "high_price": 26442.0,
+        "low_price": 26442.0,
+        "close_price": 26442.0,
+        "volume": 29338945.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260526,
+        "open_price": 25000.0,
+        "high_price": 25870.0,
+        "low_price": 24400.0,
+        "close_price": 25672.0,
+        "volume": 50937442.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260525,
+        "open_price": 25117.0,
+        "high_price": 25117.0,
+        "low_price": 25117.0,
+        "close_price": 25117.0,
+        "volume": 62510040.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260524,
+        "open_price": 24386.0,
+        "high_price": 24386.0,
+        "low_price": 24386.0,
+        "close_price": 24386.0,
+        "volume": 61161902.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260523,
+        "open_price": 23745.0,
+        "high_price": 23745.0,
+        "low_price": 23600.0,
+        "close_price": 23676.0,
+        "volume": 60205023.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260520,
+        "open_price": 22955.0,
+        "high_price": 23604.0,
+        "low_price": 22955.0,
+        "close_price": 23054.0,
+        "volume": 63393529.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260519,
+        "open_price": 23664.0,
+        "high_price": 23664.0,
+        "low_price": 23664.0,
+        "close_price": 23664.0,
+        "volume": 1212427.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24395.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260225,
+        "open_price": 24000.0,
+        "high_price": 24575.0,
+        "low_price": 23900.0,
+        "close_price": 24395.0,
+        "volume": 11548420.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260224,
+        "open_price": 24385.0,
+        "high_price": 24385.0,
+        "low_price": 23480.0,
+        "close_price": 23860.0,
+        "volume": 6469879.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260223,
+        "open_price": 24500.0,
+        "high_price": 24500.0,
+        "low_price": 24000.0,
+        "close_price": 24204.0,
+        "volume": 13623229.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260222,
+        "open_price": 23795.0,
+        "high_price": 24524.0,
+        "low_price": 23795.0,
+        "close_price": 23797.0,
+        "volume": 40305097.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260221,
+        "open_price": 24510.0,
+        "high_price": 25490.0,
+        "low_price": 24510.0,
+        "close_price": 24530.0,
+        "volume": 3030116.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260218,
+        "open_price": 25500.0,
+        "high_price": 25780.0,
+        "low_price": 24720.0,
+        "close_price": 25260.0,
+        "volume": 4380986.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260217,
+        "open_price": 25020.0,
+        "high_price": 25470.0,
+        "low_price": 25010.0,
+        "close_price": 25160.0,
+        "volume": 2801854.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260216,
+        "open_price": 24510.0,
+        "high_price": 25210.0,
+        "low_price": 24510.0,
+        "close_price": 25020.0,
+        "volume": 3155109.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260215,
+        "open_price": 26400.0,
+        "high_price": 26400.0,
+        "low_price": 25060.0,
+        "close_price": 25120.0,
+        "volume": 8628605.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260214,
+        "open_price": 26290.0,
+        "high_price": 26650.0,
+        "low_price": 25180.0,
+        "close_price": 25820.0,
+        "volume": 5550588.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260210,
+        "open_price": 25750.0,
+        "high_price": 26170.0,
+        "low_price": 25300.0,
+        "close_price": 25910.0,
+        "volume": 17370759.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260209,
+        "open_price": 26490.0,
+        "high_price": 26490.0,
+        "low_price": 25760.0,
+        "close_price": 25890.0,
+        "volume": 20058771.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260208,
+        "open_price": 27130.0,
+        "high_price": 27130.0,
+        "low_price": 26220.0,
+        "close_price": 26550.0,
+        "volume": 35738782.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260207,
+        "open_price": 26340.0,
+        "high_price": 26340.0,
+        "low_price": 26330.0,
+        "close_price": 26340.0,
+        "volume": 15322060.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260203,
+        "open_price": 25790.0,
+        "high_price": 25790.0,
+        "low_price": 25040.0,
+        "close_price": 25580.0,
+        "volume": 16764197.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260202,
+        "open_price": 25050.0,
+        "high_price": 25300.0,
+        "low_price": 24860.0,
+        "close_price": 25230.0,
+        "volume": 10767987.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260201,
+        "open_price": 24000.0,
+        "high_price": 24800.0,
+        "low_price": 24000.0,
+        "close_price": 24570.0,
+        "volume": 28882391.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260131,
+        "open_price": 24300.0,
+        "high_price": 25110.0,
+        "low_price": 23660.0,
+        "close_price": 24250.0,
+        "volume": 45336598.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260128,
+        "open_price": 24370.0,
+        "high_price": 24730.0,
+        "low_price": 24370.0,
+        "close_price": 24390.0,
+        "volume": 53820034.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260127,
+        "open_price": 25120.0,
+        "high_price": 25120.0,
+        "low_price": 25120.0,
+        "close_price": 25120.0,
+        "volume": 5036036.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260126,
+        "open_price": 25890.0,
+        "high_price": 25890.0,
+        "low_price": 25890.0,
+        "close_price": 25890.0,
+        "volume": 3992826.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260125,
+        "open_price": 26690.0,
+        "high_price": 26690.0,
+        "low_price": 26690.0,
+        "close_price": 26690.0,
+        "volume": 8541693.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260124,
+        "open_price": 27380.0,
+        "high_price": 28200.0,
+        "low_price": 27380.0,
+        "close_price": 27510.0,
+        "volume": 11856117.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260121,
+        "open_price": 28130.0,
+        "high_price": 28480.0,
+        "low_price": 27810.0,
+        "close_price": 28220.0,
+        "volume": 10047607.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260120,
+        "open_price": 27760.0,
+        "high_price": 28600.0,
+        "low_price": 27760.0,
+        "close_price": 28210.0,
+        "volume": 5335869.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260119,
+        "open_price": 28150.0,
+        "high_price": 28760.0,
+        "low_price": 28040.0,
+        "close_price": 28290.0,
+        "volume": 7817866.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260118,
+        "open_price": 27840.0,
+        "high_price": 28140.0,
+        "low_price": 27530.0,
+        "close_price": 28110.0,
+        "volume": 15573100.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260114,
+        "open_price": 27340.0,
+        "high_price": 27780.0,
+        "low_price": 27330.0,
+        "close_price": 27330.0,
+        "volume": 26631235.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260113,
+        "open_price": 28970.0,
+        "high_price": 28970.0,
+        "low_price": 27820.0,
+        "close_price": 28170.0,
+        "volume": 42664170.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260112,
+        "open_price": 28680.0,
+        "high_price": 28690.0,
+        "low_price": 28450.0,
+        "close_price": 28680.0,
+        "volume": 54871347.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260111,
+        "open_price": 27110.0,
+        "high_price": 28050.0,
+        "low_price": 27110.0,
+        "close_price": 27860.0,
+        "volume": 26461756.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260110,
+        "open_price": 27570.0,
+        "high_price": 28110.0,
+        "low_price": 27570.0,
+        "close_price": 27690.0,
+        "volume": 45981305.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260107,
+        "open_price": 28510.0,
+        "high_price": 28510.0,
+        "low_price": 28060.0,
+        "close_price": 28420.0,
+        "volume": 70985643.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260106,
+        "open_price": 27680.0,
+        "high_price": 27680.0,
+        "low_price": 27680.0,
+        "close_price": 27680.0,
+        "volume": 23033392.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260105,
+        "open_price": 26500.0,
+        "high_price": 26890.0,
+        "low_price": 26500.0,
+        "close_price": 26880.0,
+        "volume": 10818760.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20260104,
+        "open_price": 26550.0,
+        "high_price": 26700.0,
+        "low_price": 25570.0,
+        "close_price": 26110.0,
+        "volume": 19530784.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251231,
+        "open_price": 25060.0,
+        "high_price": 26600.0,
+        "low_price": 25060.0,
+        "close_price": 26180.0,
+        "volume": 46999092.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251230,
+        "open_price": 25830.0,
+        "high_price": 25900.0,
+        "low_price": 25830.0,
+        "close_price": 25830.0,
+        "volume": 16373934.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251229,
+        "open_price": 26910.0,
+        "high_price": 27250.0,
+        "low_price": 26300.0,
+        "close_price": 26620.0,
+        "volume": 30382398.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251228,
+        "open_price": 26900.0,
+        "high_price": 27280.0,
+        "low_price": 26510.0,
+        "close_price": 27050.0,
+        "volume": 33303953.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251227,
+        "open_price": 26700.0,
+        "high_price": 27020.0,
+        "low_price": 26640.0,
+        "close_price": 26820.0,
+        "volume": 35675626.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251224,
+        "open_price": 26250.0,
+        "high_price": 26250.0,
+        "low_price": 25890.0,
+        "close_price": 26240.0,
+        "volume": 42100493.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251223,
+        "open_price": 24990.0,
+        "high_price": 25700.0,
+        "low_price": 24980.0,
+        "close_price": 25490.0,
+        "volume": 19824115.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251222,
+        "open_price": 25050.0,
+        "high_price": 25420.0,
+        "low_price": 24790.0,
+        "close_price": 25070.0,
+        "volume": 10502634.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251221,
+        "open_price": 25380.0,
+        "high_price": 25400.0,
+        "low_price": 24950.0,
+        "close_price": 25220.0,
+        "volume": 41069287.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251220,
+        "open_price": 24680.0,
+        "high_price": 25200.0,
+        "low_price": 24680.0,
+        "close_price": 25140.0,
+        "volume": 48148400.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251217,
+        "open_price": 24490.0,
+        "high_price": 24630.0,
+        "low_price": 24210.0,
+        "close_price": 24470.0,
+        "volume": 19129760.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251216,
+        "open_price": 24600.0,
+        "high_price": 24950.0,
+        "low_price": 23800.0,
+        "close_price": 24540.0,
+        "volume": 7402318.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251215,
+        "open_price": 24000.0,
+        "high_price": 24640.0,
+        "low_price": 24000.0,
+        "close_price": 24460.0,
+        "volume": 8284438.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251214,
+        "open_price": 24230.0,
+        "high_price": 24230.0,
+        "low_price": 23640.0,
+        "close_price": 24000.0,
+        "volume": 4796781.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251213,
+        "open_price": 23570.0,
+        "high_price": 24100.0,
+        "low_price": 23560.0,
+        "close_price": 23930.0,
+        "volume": 19808384.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251210,
+        "open_price": 23780.0,
+        "high_price": 23780.0,
+        "low_price": 23070.0,
+        "close_price": 23530.0,
+        "volume": 9283466.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251209,
+        "open_price": 23000.0,
+        "high_price": 23410.0,
+        "low_price": 22990.0,
+        "close_price": 23150.0,
+        "volume": 3032449.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251208,
+        "open_price": 22690.0,
+        "high_price": 22940.0,
+        "low_price": 22540.0,
+        "close_price": 22920.0,
+        "volume": 24552973.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251207,
+        "open_price": 22900.0,
+        "high_price": 23000.0,
+        "low_price": 22280.0,
+        "close_price": 22730.0,
+        "volume": 6357952.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251206,
+        "open_price": 22200.0,
+        "high_price": 22780.0,
+        "low_price": 22200.0,
+        "close_price": 22590.0,
+        "volume": 31663505.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251203,
+        "open_price": 21850.0,
+        "high_price": 22280.0,
+        "low_price": 21850.0,
+        "close_price": 22170.0,
+        "volume": 4814733.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251202,
+        "open_price": 21890.0,
+        "high_price": 22110.0,
+        "low_price": 21850.0,
+        "close_price": 21890.0,
+        "volume": 8087089.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251201,
+        "open_price": 21690.0,
+        "high_price": 22020.0,
+        "low_price": 21690.0,
+        "close_price": 21770.0,
+        "volume": 10195416.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251130,
+        "open_price": 21410.0,
+        "high_price": 21590.0,
+        "low_price": 21300.0,
+        "close_price": 21410.0,
+        "volume": 12083243.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251129,
+        "open_price": 21450.0,
+        "high_price": 21690.0,
+        "low_price": 21280.0,
+        "close_price": 21380.0,
+        "volume": 5408150.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251126,
+        "open_price": 21540.0,
+        "high_price": 21750.0,
+        "low_price": 21290.0,
+        "close_price": 21470.0,
+        "volume": 14799626.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251125,
+        "open_price": 21490.0,
+        "high_price": 21790.0,
+        "low_price": 21290.0,
+        "close_price": 21540.0,
+        "volume": 4845708.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251123,
+        "open_price": 20900.0,
+        "high_price": 21470.0,
+        "low_price": 20900.0,
+        "close_price": 21290.0,
+        "volume": 30746018.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251122,
+        "open_price": 20910.0,
+        "high_price": 21100.0,
+        "low_price": 20910.0,
+        "close_price": 20980.0,
+        "volume": 5697264.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251119,
+        "open_price": 20760.0,
+        "high_price": 21100.0,
+        "low_price": 20760.0,
+        "close_price": 20940.0,
+        "volume": 28262977.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251118,
+        "open_price": 21000.0,
+        "high_price": 21000.0,
+        "low_price": 20650.0,
+        "close_price": 20870.0,
+        "volume": 3562122.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251117,
+        "open_price": 20960.0,
+        "high_price": 21080.0,
+        "low_price": 20730.0,
+        "close_price": 20990.0,
+        "volume": 27453438.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251116,
+        "open_price": 20360.0,
+        "high_price": 20860.0,
+        "low_price": 20360.0,
+        "close_price": 20610.0,
+        "volume": 10317120.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251115,
+        "open_price": 20680.0,
+        "high_price": 20690.0,
+        "low_price": 20180.0,
+        "close_price": 20480.0,
+        "volume": 8007887.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251112,
+        "open_price": 20300.0,
+        "high_price": 20480.0,
+        "low_price": 20100.0,
+        "close_price": 20350.0,
+        "volume": 7315353.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251111,
+        "open_price": 20510.0,
+        "high_price": 20660.0,
+        "low_price": 20200.0,
+        "close_price": 20390.0,
+        "volume": 7412820.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251110,
+        "open_price": 20470.0,
+        "high_price": 20720.0,
+        "low_price": 20140.0,
+        "close_price": 20570.0,
+        "volume": 27829452.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251109,
+        "open_price": 20710.0,
+        "high_price": 20710.0,
+        "low_price": 20370.0,
+        "close_price": 20380.0,
+        "volume": 39416763.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251108,
+        "open_price": 20920.0,
+        "high_price": 21140.0,
+        "low_price": 20760.0,
+        "close_price": 21000.0,
+        "volume": 12018979.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251105,
+        "open_price": 20520.0,
+        "high_price": 20950.0,
+        "low_price": 20520.0,
+        "close_price": 20690.0,
+        "volume": 10764800.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251104,
+        "open_price": 21080.0,
+        "high_price": 21140.0,
+        "low_price": 20550.0,
+        "close_price": 20920.0,
+        "volume": 11112395.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251103,
+        "open_price": 21120.0,
+        "high_price": 21330.0,
+        "low_price": 20910.0,
+        "close_price": 21180.0,
+        "volume": 13907494.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251102,
+        "open_price": 20800.0,
+        "high_price": 21150.0,
+        "low_price": 20580.0,
+        "close_price": 20990.0,
+        "volume": 10455621.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251101,
+        "open_price": 21030.0,
+        "high_price": 21250.0,
+        "low_price": 20660.0,
+        "close_price": 20980.0,
+        "volume": 23365310.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251029,
+        "open_price": 21000.0,
+        "high_price": 21220.0,
+        "low_price": 20800.0,
+        "close_price": 21030.0,
+        "volume": 16133246.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251028,
+        "open_price": 20990.0,
+        "high_price": 21270.0,
+        "low_price": 20820.0,
+        "close_price": 21030.0,
+        "volume": 21983606.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251027,
+        "open_price": 20460.0,
+        "high_price": 20990.0,
+        "low_price": 20350.0,
+        "close_price": 20710.0,
+        "volume": 31990902.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251026,
+        "open_price": 20300.0,
+        "high_price": 20700.0,
+        "low_price": 20280.0,
+        "close_price": 20430.0,
+        "volume": 28249270.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251025,
+        "open_price": 20380.0,
+        "high_price": 20380.0,
+        "low_price": 20050.0,
+        "close_price": 20210.0,
+        "volume": 20971065.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251022,
+        "open_price": 20300.0,
+        "high_price": 20550.0,
+        "low_price": 20140.0,
+        "close_price": 20260.0,
+        "volume": 37574879.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251021,
+        "open_price": 20060.0,
+        "high_price": 20370.0,
+        "low_price": 19770.0,
+        "close_price": 20040.0,
+        "volume": 18177252.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251020,
+        "open_price": 20190.0,
+        "high_price": 20350.0,
+        "low_price": 19870.0,
+        "close_price": 20100.0,
+        "volume": 14251951.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251019,
+        "open_price": 20480.0,
+        "high_price": 20760.0,
+        "low_price": 20110.0,
+        "close_price": 20480.0,
+        "volume": 72803167.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251018,
+        "open_price": 19920.0,
+        "high_price": 20400.0,
+        "low_price": 19920.0,
+        "close_price": 20360.0,
+        "volume": 85183227.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251015,
+        "open_price": 19430.0,
+        "high_price": 19880.0,
+        "low_price": 19350.0,
+        "close_price": 19810.0,
+        "volume": 68803450.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251014,
+        "open_price": 19800.0,
+        "high_price": 20120.0,
+        "low_price": 19370.0,
+        "close_price": 19870.0,
+        "volume": 37380608.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251013,
+        "open_price": 19870.0,
+        "high_price": 20080.0,
+        "low_price": 19630.0,
+        "close_price": 19840.0,
+        "volume": 32732282.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251012,
+        "open_price": 19500.0,
+        "high_price": 19960.0,
+        "low_price": 19500.0,
+        "close_price": 19860.0,
+        "volume": 31144285.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251011,
+        "open_price": 19290.0,
+        "high_price": 19620.0,
+        "low_price": 19040.0,
+        "close_price": 19380.0,
+        "volume": 9213148.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251008,
+        "open_price": 19240.0,
+        "high_price": 19390.0,
+        "low_price": 18820.0,
+        "close_price": 19130.0,
+        "volume": 12557696.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251007,
+        "open_price": 18780.0,
+        "high_price": 19480.0,
+        "low_price": 18740.0,
+        "close_price": 19240.0,
+        "volume": 17622667.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251006,
+        "open_price": 19300.0,
+        "high_price": 19550.0,
+        "low_price": 18780.0,
+        "close_price": 19150.0,
+        "volume": 39174197.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251005,
+        "open_price": 19490.0,
+        "high_price": 19580.0,
+        "low_price": 19160.0,
+        "close_price": 19360.0,
+        "volume": 92307848.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251004,
+        "open_price": 19190.0,
+        "high_price": 19210.0,
+        "low_price": 19050.0,
+        "close_price": 19170.0,
+        "volume": 69812711.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20251001,
+        "open_price": 18210.0,
+        "high_price": 18800.0,
+        "low_price": 18210.0,
+        "close_price": 18660.0,
+        "volume": 42147488.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250930,
+        "open_price": 18650.0,
+        "high_price": 19130.0,
+        "low_price": 18100.0,
+        "close_price": 18690.0,
+        "volume": 56219683.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250929,
+        "open_price": 18600.0,
+        "high_price": 18600.0,
+        "low_price": 18500.0,
+        "close_price": 18600.0,
+        "volume": 94388982.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250928,
+        "open_price": 18060.0,
+        "high_price": 18060.0,
+        "low_price": 18060.0,
+        "close_price": 18060.0,
+        "volume": 6887151.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250927,
+        "open_price": 17190.0,
+        "high_price": 17610.0,
+        "low_price": 17190.0,
+        "close_price": 17540.0,
+        "volume": 4293729.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250924,
+        "open_price": 16520.0,
+        "high_price": 17430.0,
+        "low_price": 16520.0,
+        "close_price": 17100.0,
+        "volume": 25156847.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250923,
+        "open_price": 16840.0,
+        "high_price": 17210.0,
+        "low_price": 16810.0,
+        "close_price": 17000.0,
+        "volume": 17330084.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250922,
+        "open_price": 16920.0,
+        "high_price": 16990.0,
+        "low_price": 16800.0,
+        "close_price": 16970.0,
+        "volume": 15659861.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250921,
+        "open_price": 16480.0,
+        "high_price": 16680.0,
+        "low_price": 16480.0,
+        "close_price": 16500.0,
+        "volume": 18290463.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250920,
+        "open_price": 16980.0,
+        "high_price": 16980.0,
+        "low_price": 16980.0,
+        "close_price": 16980.0,
+        "volume": 6362896.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250917,
+        "open_price": 17690.0,
+        "high_price": 17740.0,
+        "low_price": 17380.0,
+        "close_price": 17500.0,
+        "volume": 9755926.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250916,
+        "open_price": 18070.0,
+        "high_price": 18070.0,
+        "low_price": 17600.0,
+        "close_price": 17680.0,
+        "volume": 5380968.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250915,
+        "open_price": 18410.0,
+        "high_price": 18420.0,
+        "low_price": 17940.0,
+        "close_price": 18040.0,
+        "volume": 11719515.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250914,
+        "open_price": 17790.0,
+        "high_price": 18330.0,
+        "low_price": 17600.0,
+        "close_price": 18240.0,
+        "volume": 14753835.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250913,
+        "open_price": 17800.0,
+        "high_price": 17950.0,
+        "low_price": 17580.0,
+        "close_price": 17880.0,
+        "volume": 9127152.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250909,
+        "open_price": 18250.0,
+        "high_price": 18250.0,
+        "low_price": 17780.0,
+        "close_price": 17930.0,
+        "volume": 25016228.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250908,
+        "open_price": 17690.0,
+        "high_price": 18020.0,
+        "low_price": 17600.0,
+        "close_price": 17970.0,
+        "volume": 12928189.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250907,
+        "open_price": 17190.0,
+        "high_price": 17760.0,
+        "low_price": 17090.0,
+        "close_price": 17500.0,
+        "volume": 15726155.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250906,
+        "open_price": 17500.0,
+        "high_price": 17720.0,
+        "low_price": 17210.0,
+        "close_price": 17470.0,
+        "volume": 32287570.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250903,
+        "open_price": 17750.0,
+        "high_price": 17980.0,
+        "low_price": 17430.0,
+        "close_price": 17680.0,
+        "volume": 57012129.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250902,
+        "open_price": 17710.0,
+        "high_price": 17740.0,
+        "low_price": 17490.0,
+        "close_price": 17730.0,
+        "volume": 98258654.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250831,
+        "open_price": 17020.0,
+        "high_price": 17270.0,
+        "low_price": 17020.0,
+        "close_price": 17230.0,
+        "volume": 6710763.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250830,
+        "open_price": 16730.0,
+        "high_price": 17100.0,
+        "low_price": 16650.0,
+        "close_price": 16770.0,
+        "volume": 15410478.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250827,
+        "open_price": 16900.0,
+        "high_price": 17310.0,
+        "low_price": 16900.0,
+        "close_price": 17160.0,
+        "volume": 6820035.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250826,
+        "open_price": 16940.0,
+        "high_price": 17050.0,
+        "low_price": 16620.0,
+        "close_price": 16850.0,
+        "volume": 3258262.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250825,
+        "open_price": 17040.0,
+        "high_price": 17080.0,
+        "low_price": 16840.0,
+        "close_price": 16940.0,
+        "volume": 4711934.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250823,
+        "open_price": 16910.0,
+        "high_price": 17250.0,
+        "low_price": 16900.0,
+        "close_price": 17120.0,
+        "volume": 5075220.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250820,
+        "open_price": 17300.0,
+        "high_price": 17300.0,
+        "low_price": 16800.0,
+        "close_price": 17020.0,
+        "volume": 4024249.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250819,
+        "open_price": 17000.0,
+        "high_price": 17030.0,
+        "low_price": 16820.0,
+        "close_price": 16950.0,
+        "volume": 6078423.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250818,
+        "open_price": 17140.0,
+        "high_price": 17520.0,
+        "low_price": 17010.0,
+        "close_price": 17100.0,
+        "volume": 10126422.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250817,
+        "open_price": 16930.0,
+        "high_price": 17030.0,
+        "low_price": 16930.0,
+        "close_price": 17020.0,
+        "volume": 5874496.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250816,
+        "open_price": 16110.0,
+        "high_price": 16950.0,
+        "low_price": 16110.0,
+        "close_price": 16540.0,
+        "volume": 9941453.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250813,
+        "open_price": 16550.0,
+        "high_price": 16880.0,
+        "low_price": 16400.0,
+        "close_price": 16510.0,
+        "volume": 6623785.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250812,
+        "open_price": 16740.0,
+        "high_price": 17050.0,
+        "low_price": 16740.0,
+        "close_price": 16900.0,
+        "volume": 4108200.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250811,
+        "open_price": 16950.0,
+        "high_price": 17140.0,
+        "low_price": 16950.0,
+        "close_price": 17090.0,
+        "volume": 9367101.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250810,
+        "open_price": 17230.0,
+        "high_price": 17250.0,
+        "low_price": 17020.0,
+        "close_price": 17140.0,
+        "volume": 13374247.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250809,
+        "open_price": 17030.0,
+        "high_price": 17290.0,
+        "low_price": 17020.0,
+        "close_price": 17190.0,
+        "volume": 16126742.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250806,
+        "open_price": 16900.0,
+        "high_price": 16900.0,
+        "low_price": 16560.0,
+        "close_price": 16810.0,
+        "volume": 6306718.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250805,
+        "open_price": 16970.0,
+        "high_price": 17000.0,
+        "low_price": 16580.0,
+        "close_price": 16810.0,
+        "volume": 10454733.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250804,
+        "open_price": 16630.0,
+        "high_price": 17030.0,
+        "low_price": 16630.0,
+        "close_price": 16810.0,
+        "volume": 8428249.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250803,
+        "open_price": 16470.0,
+        "high_price": 16890.0,
+        "low_price": 16430.0,
+        "close_price": 16680.0,
+        "volume": 8211800.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250802,
+        "open_price": 16330.0,
+        "high_price": 16550.0,
+        "low_price": 16270.0,
+        "close_price": 16400.0,
+        "volume": 6277915.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250730,
+        "open_price": 16340.0,
+        "high_price": 16750.0,
+        "low_price": 16340.0,
+        "close_price": 16570.0,
+        "volume": 13093047.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250729,
+        "open_price": 16900.0,
+        "high_price": 16900.0,
+        "low_price": 16820.0,
+        "close_price": 16820.0,
+        "volume": 9517726.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250728,
+        "open_price": 17370.0,
+        "high_price": 17550.0,
+        "low_price": 17240.0,
+        "close_price": 17340.0,
+        "volume": 6486426.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250727,
+        "open_price": 17920.0,
+        "high_price": 17930.0,
+        "low_price": 17580.0,
+        "close_price": 17770.0,
+        "volume": 14921989.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250726,
+        "open_price": 18130.0,
+        "high_price": 18450.0,
+        "low_price": 17930.0,
+        "close_price": 18120.0,
+        "volume": 15659636.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250723,
+        "open_price": 18170.0,
+        "high_price": 18180.0,
+        "low_price": 17810.0,
+        "close_price": 18020.0,
+        "volume": 22922613.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250722,
+        "open_price": 18390.0,
+        "high_price": 18500.0,
+        "low_price": 18170.0,
+        "close_price": 18290.0,
+        "volume": 17647073.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250721,
+        "open_price": 18180.0,
+        "high_price": 18390.0,
+        "low_price": 18180.0,
+        "close_price": 18260.0,
+        "volume": 24481814.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250720,
+        "open_price": 18160.0,
+        "high_price": 18250.0,
+        "low_price": 18130.0,
+        "close_price": 18150.0,
+        "volume": 33435696.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250719,
+        "open_price": 17900.0,
+        "high_price": 17990.0,
+        "low_price": 17840.0,
+        "close_price": 17880.0,
+        "volume": 8298261.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250716,
+        "open_price": 17250.0,
+        "high_price": 17700.0,
+        "low_price": 17250.0,
+        "close_price": 17550.0,
+        "volume": 9941097.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250715,
+        "open_price": 17200.0,
+        "high_price": 17240.0,
+        "low_price": 17120.0,
+        "close_price": 17190.0,
+        "volume": 11413240.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250714,
+        "open_price": 17340.0,
+        "high_price": 17340.0,
+        "low_price": 16870.0,
+        "close_price": 17010.0,
+        "volume": 16409347.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250713,
+        "open_price": 16520.0,
+        "high_price": 17150.0,
+        "low_price": 16520.0,
+        "close_price": 16860.0,
+        "volume": 12813317.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250712,
+        "open_price": 16560.0,
+        "high_price": 16780.0,
+        "low_price": 16510.0,
+        "close_price": 16740.0,
+        "volume": 8039396.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250709,
+        "open_price": 16150.0,
+        "high_price": 16590.0,
+        "low_price": 16150.0,
+        "close_price": 16300.0,
+        "volume": 12094603.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250708,
+        "open_price": 16210.0,
+        "high_price": 16600.0,
+        "low_price": 16200.0,
+        "close_price": 16340.0,
+        "volume": 25268926.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250707,
+        "open_price": 16700.0,
+        "high_price": 16970.0,
+        "low_price": 16130.0,
+        "close_price": 16500.0,
+        "volume": 17943930.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250702,
+        "open_price": 16510.0,
+        "high_price": 16550.0,
+        "low_price": 16510.0,
+        "close_price": 16510.0,
+        "volume": 61348769.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250701,
+        "open_price": 17020.0,
+        "high_price": 17020.0,
+        "low_price": 17020.0,
+        "close_price": 17020.0,
+        "volume": 3046566.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250630,
+        "open_price": 17540.0,
+        "high_price": 17540.0,
+        "low_price": 17540.0,
+        "close_price": 17540.0,
+        "volume": 259630.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250629,
+        "open_price": 18080.0,
+        "high_price": 18080.0,
+        "low_price": 18080.0,
+        "close_price": 18080.0,
+        "volume": 72240.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250628,
+        "open_price": 18630.0,
+        "high_price": 18630.0,
+        "low_price": 18630.0,
+        "close_price": 18630.0,
+        "volume": 1008756.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19200.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19200.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19200.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19200.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19200.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19200.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19200.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19200.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250611,
+        "open_price": 19310.0,
+        "high_price": 19310.0,
+        "low_price": 19080.0,
+        "close_price": 19200.0,
+        "volume": 3469211.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250610,
+        "open_price": 19200.0,
+        "high_price": 19480.0,
+        "low_price": 19100.0,
+        "close_price": 19130.0,
+        "volume": 21327459.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250609,
+        "open_price": 19220.0,
+        "high_price": 19330.0,
+        "low_price": 18950.0,
+        "close_price": 19110.0,
+        "volume": 9923511.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250608,
+        "open_price": 18900.0,
+        "high_price": 19400.0,
+        "low_price": 18900.0,
+        "close_price": 19210.0,
+        "volume": 8025038.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250607,
+        "open_price": 19330.0,
+        "high_price": 19500.0,
+        "low_price": 19130.0,
+        "close_price": 19200.0,
+        "volume": 14455143.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250603,
+        "open_price": 19850.0,
+        "high_price": 19920.0,
+        "low_price": 19620.0,
+        "close_price": 19720.0,
+        "volume": 4169530.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250602,
+        "open_price": 19810.0,
+        "high_price": 20010.0,
+        "low_price": 19800.0,
+        "close_price": 19930.0,
+        "volume": 4052892.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250601,
+        "open_price": 19910.0,
+        "high_price": 19910.0,
+        "low_price": 19680.0,
+        "close_price": 19760.0,
+        "volume": 15031571.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250531,
+        "open_price": 19880.0,
+        "high_price": 20110.0,
+        "low_price": 19880.0,
+        "close_price": 20030.0,
+        "volume": 6623283.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250528,
+        "open_price": 19970.0,
+        "high_price": 20060.0,
+        "low_price": 19920.0,
+        "close_price": 19960.0,
+        "volume": 6449987.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250527,
+        "open_price": 19890.0,
+        "high_price": 20070.0,
+        "low_price": 19880.0,
+        "close_price": 19990.0,
+        "volume": 12159877.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250526,
+        "open_price": 19970.0,
+        "high_price": 19970.0,
+        "low_price": 19650.0,
+        "close_price": 19770.0,
+        "volume": 6889903.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250525,
+        "open_price": 19890.0,
+        "high_price": 19900.0,
+        "low_price": 19420.0,
+        "close_price": 19600.0,
+        "volume": 22829418.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250524,
+        "open_price": 19970.0,
+        "high_price": 19970.0,
+        "low_price": 19670.0,
+        "close_price": 19810.0,
+        "volume": 8516997.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250521,
+        "open_price": 19270.0,
+        "high_price": 19700.0,
+        "low_price": 19270.0,
+        "close_price": 19530.0,
+        "volume": 27616522.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250520,
+        "open_price": 20120.0,
+        "high_price": 20120.0,
+        "low_price": 19570.0,
+        "close_price": 19840.0,
+        "volume": 62403357.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250519,
+        "open_price": 20240.0,
+        "high_price": 20250.0,
+        "low_price": 19780.0,
+        "close_price": 20170.0,
+        "volume": 30203975.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250518,
+        "open_price": 20090.0,
+        "high_price": 20270.0,
+        "low_price": 19850.0,
+        "close_price": 20130.0,
+        "volume": 15037820.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250517,
+        "open_price": 20010.0,
+        "high_price": 20200.0,
+        "low_price": 19930.0,
+        "close_price": 20020.0,
+        "volume": 32227982.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250514,
+        "open_price": 19840.0,
+        "high_price": 20100.0,
+        "low_price": 19710.0,
+        "close_price": 19930.0,
+        "volume": 30195266.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250513,
+        "open_price": 19840.0,
+        "high_price": 19950.0,
+        "low_price": 19610.0,
+        "close_price": 19840.0,
+        "volume": 42742750.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250512,
+        "open_price": 19790.0,
+        "high_price": 19790.0,
+        "low_price": 19760.0,
+        "close_price": 19790.0,
+        "volume": 89636712.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250511,
+        "open_price": 19000.0,
+        "high_price": 19390.0,
+        "low_price": 18920.0,
+        "close_price": 19220.0,
+        "volume": 28514187.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250510,
+        "open_price": 19450.0,
+        "high_price": 19600.0,
+        "low_price": 19360.0,
+        "close_price": 19360.0,
+        "volume": 67203108.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250507,
+        "open_price": 20230.0,
+        "high_price": 20230.0,
+        "low_price": 19760.0,
+        "close_price": 19950.0,
+        "volume": 77977966.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250506,
+        "open_price": 19690.0,
+        "high_price": 19980.0,
+        "low_price": 19410.0,
+        "close_price": 19650.0,
+        "volume": 14991417.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250505,
+        "open_price": 19480.0,
+        "high_price": 19750.0,
+        "low_price": 19480.0,
+        "close_price": 19600.0,
+        "volume": 21400117.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250504,
+        "open_price": 18900.0,
+        "high_price": 19620.0,
+        "low_price": 18900.0,
+        "close_price": 19190.0,
+        "volume": 64269849.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250503,
+        "open_price": 19480.0,
+        "high_price": 19480.0,
+        "low_price": 19480.0,
+        "close_price": 19480.0,
+        "volume": 25166861.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250430,
+        "open_price": 19650.0,
+        "high_price": 20120.0,
+        "low_price": 19650.0,
+        "close_price": 20080.0,
+        "volume": 30896263.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250429,
+        "open_price": 19510.0,
+        "high_price": 19700.0,
+        "low_price": 19370.0,
+        "close_price": 19540.0,
+        "volume": 9238226.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250428,
+        "open_price": 19260.0,
+        "high_price": 19680.0,
+        "low_price": 19260.0,
+        "close_price": 19510.0,
+        "volume": 20168812.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250427,
+        "open_price": 18760.0,
+        "high_price": 19320.0,
+        "low_price": 18760.0,
+        "close_price": 19110.0,
+        "volume": 45633618.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250426,
+        "open_price": 19610.0,
+        "high_price": 19610.0,
+        "low_price": 19220.0,
+        "close_price": 19330.0,
+        "volume": 43302115.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250423,
+        "open_price": 18440.0,
+        "high_price": 19200.0,
+        "low_price": 18440.0,
+        "close_price": 19070.0,
+        "volume": 52212893.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250422,
+        "open_price": 19050.0,
+        "high_price": 19280.0,
+        "low_price": 18940.0,
+        "close_price": 19010.0,
+        "volume": 101062030.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250421,
+        "open_price": 19690.0,
+        "high_price": 19690.0,
+        "low_price": 18900.0,
+        "close_price": 19520.0,
+        "volume": 166154874.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250420,
+        "open_price": 19120.0,
+        "high_price": 19120.0,
+        "low_price": 19120.0,
+        "close_price": 19120.0,
+        "volume": 144887069.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250419,
+        "open_price": 18270.0,
+        "high_price": 18600.0,
+        "low_price": 18270.0,
+        "close_price": 18570.0,
+        "volume": 55492160.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250416,
+        "open_price": 17890.0,
+        "high_price": 18150.0,
+        "low_price": 17750.0,
+        "close_price": 18060.0,
+        "volume": 51013976.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250415,
+        "open_price": 17870.0,
+        "high_price": 18090.0,
+        "low_price": 17620.0,
+        "close_price": 17910.0,
+        "volume": 98862392.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250414,
+        "open_price": 18290.0,
+        "high_price": 18300.0,
+        "low_price": 17740.0,
+        "close_price": 18130.0,
+        "volume": 179283645.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250413,
+        "open_price": 17980.0,
+        "high_price": 17980.0,
+        "low_price": 17860.0,
+        "close_price": 17980.0,
+        "volume": 251392593.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250412,
+        "open_price": 17450.0,
+        "high_price": 17640.0,
+        "low_price": 17300.0,
+        "close_price": 17460.0,
+        "volume": 28167451.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250409,
+        "open_price": 17360.0,
+        "high_price": 17640.0,
+        "low_price": 17230.0,
+        "close_price": 17380.0,
+        "volume": 166214468.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250408,
+        "open_price": 17680.0,
+        "high_price": 17680.0,
+        "low_price": 17670.0,
+        "close_price": 17680.0,
+        "volume": 425562258.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250407,
+        "open_price": 17160.0,
+        "high_price": 17380.0,
+        "low_price": 17060.0,
+        "close_price": 17170.0,
+        "volume": 2858533.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250406,
+        "open_price": 17490.0,
+        "high_price": 17490.0,
+        "low_price": 17150.0,
+        "close_price": 17210.0,
+        "volume": 17070114.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250405,
+        "open_price": 17660.0,
+        "high_price": 17700.0,
+        "low_price": 17390.0,
+        "close_price": 17490.0,
+        "volume": 6389717.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250330,
+        "open_price": 17410.0,
+        "high_price": 17800.0,
+        "low_price": 17410.0,
+        "close_price": 17660.0,
+        "volume": 7367261.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250329,
+        "open_price": 17220.0,
+        "high_price": 17370.0,
+        "low_price": 17170.0,
+        "close_price": 17300.0,
+        "volume": 10925129.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250326,
+        "open_price": 17290.0,
+        "high_price": 17370.0,
+        "low_price": 17190.0,
+        "close_price": 17220.0,
+        "volume": 9653256.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250325,
+        "open_price": 16710.0,
+        "high_price": 17150.0,
+        "low_price": 16710.0,
+        "close_price": 17140.0,
+        "volume": 7488250.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250318,
+        "open_price": 16350.0,
+        "high_price": 16820.0,
+        "low_price": 16350.0,
+        "close_price": 16660.0,
+        "volume": 16357474.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250317,
+        "open_price": 16900.0,
+        "high_price": 16930.0,
+        "low_price": 16540.0,
+        "close_price": 16850.0,
+        "volume": 20704490.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250316,
+        "open_price": 17110.0,
+        "high_price": 17110.0,
+        "low_price": 16520.0,
+        "close_price": 16860.0,
+        "volume": 13065033.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250315,
+        "open_price": 16680.0,
+        "high_price": 16950.0,
+        "low_price": 16680.0,
+        "close_price": 16890.0,
+        "volume": 52018750.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250312,
+        "open_price": 16330.0,
+        "high_price": 16600.0,
+        "low_price": 16240.0,
+        "close_price": 16460.0,
+        "volume": 62509739.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250311,
+        "open_price": 16520.0,
+        "high_price": 16740.0,
+        "low_price": 16210.0,
+        "close_price": 16470.0,
+        "volume": 42029746.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250310,
+        "open_price": 16380.0,
+        "high_price": 16800.0,
+        "low_price": 16360.0,
+        "close_price": 16590.0,
+        "volume": 51578721.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250309,
+        "open_price": 16490.0,
+        "high_price": 16560.0,
+        "low_price": 16300.0,
+        "close_price": 16370.0,
+        "volume": 8009019.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250308,
+        "open_price": 16990.0,
+        "high_price": 17190.0,
+        "low_price": 16630.0,
+        "close_price": 16800.0,
+        "volume": 11895477.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250305,
+        "open_price": 16740.0,
+        "high_price": 17100.0,
+        "low_price": 16730.0,
+        "close_price": 16970.0,
+        "volume": 6111661.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250304,
+        "open_price": 17000.0,
+        "high_price": 17320.0,
+        "low_price": 16650.0,
+        "close_price": 17090.0,
+        "volume": 26523083.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250303,
+        "open_price": 16950.0,
+        "high_price": 17100.0,
+        "low_price": 16950.0,
+        "close_price": 17000.0,
+        "volume": 24237105.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250302,
+        "open_price": 17120.0,
+        "high_price": 17550.0,
+        "low_price": 17120.0,
+        "close_price": 17470.0,
+        "volume": 12077276.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250301,
+        "open_price": 16950.0,
+        "high_price": 17480.0,
+        "low_price": 16950.0,
+        "close_price": 17370.0,
+        "volume": 11440569.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250226,
+        "open_price": 17040.0,
+        "high_price": 17330.0,
+        "low_price": 16970.0,
+        "close_price": 17200.0,
+        "volume": 29176077.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250225,
+        "open_price": 17350.0,
+        "high_price": 17510.0,
+        "low_price": 16910.0,
+        "close_price": 17290.0,
+        "volume": 65786226.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250224,
+        "open_price": 17000.0,
+        "high_price": 17360.0,
+        "low_price": 17000.0,
+        "close_price": 17240.0,
+        "volume": 73995630.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250223,
+        "open_price": 16630.0,
+        "high_price": 16990.0,
+        "low_price": 16630.0,
+        "close_price": 16870.0,
+        "volume": 19811614.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250222,
+        "open_price": 16410.0,
+        "high_price": 16730.0,
+        "low_price": 16300.0,
+        "close_price": 16580.0,
+        "volume": 8387437.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250219,
+        "open_price": 16650.0,
+        "high_price": 16700.0,
+        "low_price": 16300.0,
+        "close_price": 16470.0,
+        "volume": 15511325.0
+    },
+    {
+        "symbol": "سرو",
+        "trade_date": 20250218,
+        "open_price": 16270.0,
+        "high_price": 16570.0,
+        "low_price": 16240.0,
+        "close_price": 16420.0,
+        "volume": 18798154.0
+    }
+]

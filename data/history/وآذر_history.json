@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260901,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260831,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260829,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260826,
+        "open_price": 7130.0,
+        "high_price": 7130.0,
+        "low_price": 7130.0,
+        "close_price": 7130.0,
+        "volume": 14278494.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260825,
+        "open_price": 6920.0,
+        "high_price": 6930.0,
+        "low_price": 6920.0,
+        "close_price": 6930.0,
+        "volume": 5282436.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260824,
+        "open_price": 6570.0,
+        "high_price": 6930.0,
+        "low_price": 6570.0,
+        "close_price": 6730.0,
+        "volume": 24784021.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260823,
+        "open_price": 7120.0,
+        "high_price": 7120.0,
+        "low_price": 6750.0,
+        "close_price": 6770.0,
+        "volume": 44437527.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260822,
+        "open_price": 6970.0,
+        "high_price": 6970.0,
+        "low_price": 6780.0,
+        "close_price": 6950.0,
+        "volume": 41996834.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260819,
+        "open_price": 6770.0,
+        "high_price": 6770.0,
+        "low_price": 6770.0,
+        "close_price": 6770.0,
+        "volume": 8246010.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260818,
+        "open_price": 6580.0,
+        "high_price": 6580.0,
+        "low_price": 6580.0,
+        "close_price": 6580.0,
+        "volume": 6443944.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260817,
+        "open_price": 6390.0,
+        "high_price": 6390.0,
+        "low_price": 6390.0,
+        "close_price": 6390.0,
+        "volume": 4784603.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260816,
+        "open_price": 6180.0,
+        "high_price": 6210.0,
+        "low_price": 6100.0,
+        "close_price": 6210.0,
+        "volume": 4930818.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260815,
+        "open_price": 6040.0,
+        "high_price": 6100.0,
+        "low_price": 5760.0,
+        "close_price": 6030.0,
+        "volume": 12245050.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260811,
+        "open_price": 5970.0,
+        "high_price": 5980.0,
+        "low_price": 5800.0,
+        "close_price": 5930.0,
+        "volume": 17310652.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260810,
+        "open_price": 5810.0,
+        "high_price": 5810.0,
+        "low_price": 5700.0,
+        "close_price": 5810.0,
+        "volume": 6300472.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260809,
+        "open_price": 5710.0,
+        "high_price": 5710.0,
+        "low_price": 5400.0,
+        "close_price": 5650.0,
+        "volume": 41534249.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260808,
+        "open_price": 5550.0,
+        "high_price": 5550.0,
+        "low_price": 5550.0,
+        "close_price": 5550.0,
+        "volume": 6835715.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260805,
+        "open_price": 5380.0,
+        "high_price": 5390.0,
+        "low_price": 5330.0,
+        "close_price": 5390.0,
+        "volume": 8973536.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260803,
+        "open_price": 5240.0,
+        "high_price": 5240.0,
+        "low_price": 5180.0,
+        "close_price": 5240.0,
+        "volume": 7970395.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260802,
+        "open_price": 5100.0,
+        "high_price": 5100.0,
+        "low_price": 4990.0,
+        "close_price": 5090.0,
+        "volume": 7244937.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260801,
+        "open_price": 5120.0,
+        "high_price": 5120.0,
+        "low_price": 4840.0,
+        "close_price": 4960.0,
+        "volume": 17002503.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260729,
+        "open_price": 4900.0,
+        "high_price": 4990.0,
+        "low_price": 4850.0,
+        "close_price": 4980.0,
+        "volume": 13107754.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260728,
+        "open_price": 4850.0,
+        "high_price": 4850.0,
+        "low_price": 4830.0,
+        "close_price": 4850.0,
+        "volume": 8636020.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260727,
+        "open_price": 4730.0,
+        "high_price": 4730.0,
+        "low_price": 4600.0,
+        "close_price": 4710.0,
+        "volume": 7114552.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260726,
+        "open_price": 4600.0,
+        "high_price": 4600.0,
+        "low_price": 4600.0,
+        "close_price": 4600.0,
+        "volume": 1916997.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260725,
+        "open_price": 4520.0,
+        "high_price": 4550.0,
+        "low_price": 4430.0,
+        "close_price": 4470.0,
+        "volume": 1178739.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260722,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260721,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260720,
+        "open_price": 4360.0,
+        "high_price": 4450.0,
+        "low_price": 4330.0,
+        "close_price": 4430.0,
+        "volume": 9386471.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260719,
+        "open_price": 4280.0,
+        "high_price": 4520.0,
+        "low_price": 4280.0,
+        "close_price": 4330.0,
+        "volume": 9792697.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260718,
+        "open_price": 4410.0,
+        "high_price": 4410.0,
+        "low_price": 4410.0,
+        "close_price": 4410.0,
+        "volume": 1016360.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260715,
+        "open_price": 4540.0,
+        "high_price": 4660.0,
+        "low_price": 4540.0,
+        "close_price": 4540.0,
+        "volume": 20148875.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260714,
+        "open_price": 4680.0,
+        "high_price": 4680.0,
+        "low_price": 4680.0,
+        "close_price": 4680.0,
+        "volume": 2674545.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260713,
+        "open_price": 4820.0,
+        "high_price": 4820.0,
+        "low_price": 4820.0,
+        "close_price": 4820.0,
+        "volume": 1644571.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260712,
+        "open_price": 4960.0,
+        "high_price": 4960.0,
+        "low_price": 4960.0,
+        "close_price": 4960.0,
+        "volume": 155392.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260711,
+        "open_price": 5110.0,
+        "high_price": 5110.0,
+        "low_price": 5110.0,
+        "close_price": 5110.0,
+        "volume": 2685001.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260708,
+        "open_price": 5120.0,
+        "high_price": 5340.0,
+        "low_price": 5040.0,
+        "close_price": 5260.0,
+        "volume": 35082280.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260707,
+        "open_price": 5180.0,
+        "high_price": 5200.0,
+        "low_price": 5120.0,
+        "close_price": 5190.0,
+        "volume": 33479941.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260701,
+        "open_price": 5000.0,
+        "high_price": 5200.0,
+        "low_price": 4910.0,
+        "close_price": 5050.0,
+        "volume": 61355357.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260630,
+        "open_price": 5110.0,
+        "high_price": 5200.0,
+        "low_price": 4950.0,
+        "close_price": 5060.0,
+        "volume": 21473538.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260629,
+        "open_price": 5070.0,
+        "high_price": 5240.0,
+        "low_price": 5070.0,
+        "close_price": 5100.0,
+        "volume": 11532876.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260628,
+        "open_price": 5450.0,
+        "high_price": 5450.0,
+        "low_price": 5180.0,
+        "close_price": 5220.0,
+        "volume": 2177978.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260627,
+        "open_price": 5630.0,
+        "high_price": 5630.0,
+        "low_price": 5330.0,
+        "close_price": 5330.0,
+        "volume": 8262158.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260623,
+        "open_price": 5410.0,
+        "high_price": 5710.0,
+        "low_price": 5390.0,
+        "close_price": 5490.0,
+        "volume": 10943783.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260622,
+        "open_price": 5550.0,
+        "high_price": 5590.0,
+        "low_price": 5550.0,
+        "close_price": 5550.0,
+        "volume": 5486150.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260621,
+        "open_price": 6030.0,
+        "high_price": 6030.0,
+        "low_price": 5690.0,
+        "close_price": 5720.0,
+        "volume": 20017446.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260620,
+        "open_price": 5880.0,
+        "high_price": 5880.0,
+        "low_price": 5590.0,
+        "close_price": 5860.0,
+        "volume": 13660000.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260617,
+        "open_price": 5740.0,
+        "high_price": 5750.0,
+        "low_price": 5590.0,
+        "close_price": 5710.0,
+        "volume": 10000685.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260616,
+        "open_price": 5620.0,
+        "high_price": 5620.0,
+        "low_price": 5460.0,
+        "close_price": 5590.0,
+        "volume": 15988879.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260615,
+        "open_price": 5460.0,
+        "high_price": 5460.0,
+        "low_price": 5460.0,
+        "close_price": 5460.0,
+        "volume": 1571566.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260614,
+        "open_price": 5310.0,
+        "high_price": 5310.0,
+        "low_price": 5310.0,
+        "close_price": 5310.0,
+        "volume": 1774676.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260613,
+        "open_price": 5160.0,
+        "high_price": 5160.0,
+        "low_price": 5160.0,
+        "close_price": 5160.0,
+        "volume": 4685974.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260610,
+        "open_price": 5030.0,
+        "high_price": 5035.0,
+        "low_price": 4890.0,
+        "close_price": 5019.0,
+        "volume": 5406976.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260609,
+        "open_price": 4800.0,
+        "high_price": 4890.0,
+        "low_price": 4800.0,
+        "close_price": 4889.0,
+        "volume": 6294703.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260608,
+        "open_price": 4748.0,
+        "high_price": 4748.0,
+        "low_price": 4748.0,
+        "close_price": 4748.0,
+        "volume": 463525.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260607,
+        "open_price": 4896.0,
+        "high_price": 4896.0,
+        "low_price": 4830.0,
+        "close_price": 4894.0,
+        "volume": 6104909.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260606,
+        "open_price": 4496.0,
+        "high_price": 4769.0,
+        "low_price": 4496.0,
+        "close_price": 4754.0,
+        "volume": 7511544.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260603,
+        "open_price": 4610.0,
+        "high_price": 4711.0,
+        "low_price": 4606.0,
+        "close_price": 4631.0,
+        "volume": 15347993.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260602,
+        "open_price": 4660.0,
+        "high_price": 4815.0,
+        "low_price": 4535.0,
+        "close_price": 4748.0,
+        "volume": 9732496.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260601,
+        "open_price": 4715.0,
+        "high_price": 4715.0,
+        "low_price": 4500.0,
+        "close_price": 4675.0,
+        "volume": 16867381.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260531,
+        "open_price": 4578.0,
+        "high_price": 4578.0,
+        "low_price": 4578.0,
+        "close_price": 4578.0,
+        "volume": 433160.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260530,
+        "open_price": 4445.0,
+        "high_price": 4445.0,
+        "low_price": 4445.0,
+        "close_price": 4445.0,
+        "volume": 295554.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260526,
+        "open_price": 4317.0,
+        "high_price": 4317.0,
+        "low_price": 4302.0,
+        "close_price": 4316.0,
+        "volume": 8457793.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260525,
+        "open_price": 4192.0,
+        "high_price": 4192.0,
+        "low_price": 4192.0,
+        "close_price": 4192.0,
+        "volume": 2286472.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260524,
+        "open_price": 4070.0,
+        "high_price": 4070.0,
+        "low_price": 4070.0,
+        "close_price": 4070.0,
+        "volume": 94171.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260523,
+        "open_price": 3952.0,
+        "high_price": 3952.0,
+        "low_price": 3952.0,
+        "close_price": 3952.0,
+        "volume": 432983.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260520,
+        "open_price": 3837.0,
+        "high_price": 3837.0,
+        "low_price": 3837.0,
+        "close_price": 3837.0,
+        "volume": 1298136.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260519,
+        "open_price": 3601.0,
+        "high_price": 3775.0,
+        "low_price": 3601.0,
+        "close_price": 3726.0,
+        "volume": 3079926.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3666.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260225,
+        "open_price": 3631.0,
+        "high_price": 3724.0,
+        "low_price": 3621.0,
+        "close_price": 3666.0,
+        "volume": 2578049.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260224,
+        "open_price": 3591.0,
+        "high_price": 3720.0,
+        "low_price": 3589.0,
+        "close_price": 3621.0,
+        "volume": 3471553.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260223,
+        "open_price": 3740.0,
+        "high_price": 3740.0,
+        "low_price": 3672.0,
+        "close_price": 3700.0,
+        "volume": 1502085.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260222,
+        "open_price": 3628.0,
+        "high_price": 3787.0,
+        "low_price": 3628.0,
+        "close_price": 3632.0,
+        "volume": 4588440.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260221,
+        "open_price": 3742.0,
+        "high_price": 3742.0,
+        "low_price": 3740.0,
+        "close_price": 3740.0,
+        "volume": 685650.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260218,
+        "open_price": 3830.0,
+        "high_price": 3904.0,
+        "low_price": 3800.0,
+        "close_price": 3855.0,
+        "volume": 1626782.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260217,
+        "open_price": 3904.0,
+        "high_price": 3905.0,
+        "low_price": 3802.0,
+        "close_price": 3876.0,
+        "volume": 1242175.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260216,
+        "open_price": 3810.0,
+        "high_price": 3897.0,
+        "low_price": 3750.0,
+        "close_price": 3792.0,
+        "volume": 1808092.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260215,
+        "open_price": 3996.0,
+        "high_price": 3996.0,
+        "low_price": 3779.0,
+        "close_price": 3808.0,
+        "volume": 2263494.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260214,
+        "open_price": 3904.0,
+        "high_price": 3905.0,
+        "low_price": 3780.0,
+        "close_price": 3895.0,
+        "volume": 5176475.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260210,
+        "open_price": 3911.0,
+        "high_price": 3911.0,
+        "low_price": 3705.0,
+        "close_price": 3792.0,
+        "volume": 4300420.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260209,
+        "open_price": 3803.0,
+        "high_price": 3852.0,
+        "low_price": 3798.0,
+        "close_price": 3801.0,
+        "volume": 4065654.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260208,
+        "open_price": 4099.0,
+        "high_price": 4099.0,
+        "low_price": 3861.0,
+        "close_price": 3915.0,
+        "volume": 6862155.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260207,
+        "open_price": 3910.0,
+        "high_price": 3981.0,
+        "low_price": 3910.0,
+        "close_price": 3980.0,
+        "volume": 773323.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260203,
+        "open_price": 3980.0,
+        "high_price": 3980.0,
+        "low_price": 3761.0,
+        "close_price": 3866.0,
+        "volume": 2364271.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260202,
+        "open_price": 3875.0,
+        "high_price": 3875.0,
+        "low_price": 3875.0,
+        "close_price": 3875.0,
+        "volume": 1181909.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260201,
+        "open_price": 3729.0,
+        "high_price": 3957.0,
+        "low_price": 3727.0,
+        "close_price": 3763.0,
+        "volume": 7618697.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260131,
+        "open_price": 3905.0,
+        "high_price": 3920.0,
+        "low_price": 3839.0,
+        "close_price": 3842.0,
+        "volume": 5907044.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260128,
+        "open_price": 3953.0,
+        "high_price": 4074.0,
+        "low_price": 3952.0,
+        "close_price": 3957.0,
+        "volume": 7352098.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260127,
+        "open_price": 4074.0,
+        "high_price": 4074.0,
+        "low_price": 4074.0,
+        "close_price": 4074.0,
+        "volume": 5514791.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260126,
+        "open_price": 4200.0,
+        "high_price": 4200.0,
+        "low_price": 4200.0,
+        "close_price": 4200.0,
+        "volume": 4711464.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260125,
+        "open_price": 4329.0,
+        "high_price": 4345.0,
+        "low_price": 4329.0,
+        "close_price": 4329.0,
+        "volume": 23832061.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260124,
+        "open_price": 4669.0,
+        "high_price": 4669.0,
+        "low_price": 4456.0,
+        "close_price": 4462.0,
+        "volume": 7638198.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260121,
+        "open_price": 4593.0,
+        "high_price": 4593.0,
+        "low_price": 4593.0,
+        "close_price": 4593.0,
+        "volume": 4736959.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260120,
+        "open_price": 4460.0,
+        "high_price": 4460.0,
+        "low_price": 4460.0,
+        "close_price": 4460.0,
+        "volume": 459918.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260119,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4331.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260118,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4331.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260114,
+        "open_price": 4351.0,
+        "high_price": 4387.0,
+        "low_price": 4301.0,
+        "close_price": 4331.0,
+        "volume": 9084690.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260113,
+        "open_price": 4550.0,
+        "high_price": 4550.0,
+        "low_price": 4350.0,
+        "close_price": 4433.0,
+        "volume": 5268640.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260112,
+        "open_price": 4401.0,
+        "high_price": 4580.0,
+        "low_price": 4357.0,
+        "close_price": 4424.0,
+        "volume": 4386570.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260111,
+        "open_price": 4455.0,
+        "high_price": 4561.0,
+        "low_price": 4455.0,
+        "close_price": 4455.0,
+        "volume": 19812030.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260110,
+        "open_price": 4592.0,
+        "high_price": 4592.0,
+        "low_price": 4592.0,
+        "close_price": 4592.0,
+        "volume": 987283.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260107,
+        "open_price": 4905.0,
+        "high_price": 4988.0,
+        "low_price": 4728.0,
+        "close_price": 4734.0,
+        "volume": 5415593.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260106,
+        "open_price": 4877.0,
+        "high_price": 4878.0,
+        "low_price": 4700.0,
+        "close_price": 4874.0,
+        "volume": 6767141.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260105,
+        "open_price": 4730.0,
+        "high_price": 4738.0,
+        "low_price": 4700.0,
+        "close_price": 4736.0,
+        "volume": 3988585.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20260104,
+        "open_price": 4872.0,
+        "high_price": 4872.0,
+        "low_price": 4590.0,
+        "close_price": 4600.0,
+        "volume": 11147397.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251231,
+        "open_price": 4557.0,
+        "high_price": 4837.0,
+        "low_price": 4557.0,
+        "close_price": 4731.0,
+        "volume": 23982320.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251230,
+        "open_price": 4697.0,
+        "high_price": 4697.0,
+        "low_price": 4697.0,
+        "close_price": 4697.0,
+        "volume": 352502.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251229,
+        "open_price": 5070.0,
+        "high_price": 5070.0,
+        "low_price": 4818.0,
+        "close_price": 4842.0,
+        "volume": 7557118.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251228,
+        "open_price": 5000.0,
+        "high_price": 5070.0,
+        "low_price": 4820.0,
+        "close_price": 4966.0,
+        "volume": 8925809.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251227,
+        "open_price": 4900.0,
+        "high_price": 4948.0,
+        "low_price": 4806.0,
+        "close_price": 4936.0,
+        "volume": 11565955.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251224,
+        "open_price": 4686.0,
+        "high_price": 4821.0,
+        "low_price": 4685.0,
+        "close_price": 4804.0,
+        "volume": 8513962.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251223,
+        "open_price": 4637.0,
+        "high_price": 4775.0,
+        "low_price": 4588.0,
+        "close_price": 4681.0,
+        "volume": 6080380.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251222,
+        "open_price": 4510.0,
+        "high_price": 4734.0,
+        "low_price": 4510.0,
+        "close_price": 4677.0,
+        "volume": 10715879.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251221,
+        "open_price": 4640.0,
+        "high_price": 4699.0,
+        "low_price": 4479.0,
+        "close_price": 4597.0,
+        "volume": 4109422.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251220,
+        "open_price": 4496.0,
+        "high_price": 4565.0,
+        "low_price": 4496.0,
+        "close_price": 4563.0,
+        "volume": 4281768.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251217,
+        "open_price": 4400.0,
+        "high_price": 4500.0,
+        "low_price": 4365.0,
+        "close_price": 4433.0,
+        "volume": 5853900.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251216,
+        "open_price": 4658.0,
+        "high_price": 4661.0,
+        "low_price": 4395.0,
+        "close_price": 4500.0,
+        "volume": 7793309.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251215,
+        "open_price": 4545.0,
+        "high_price": 4545.0,
+        "low_price": 4545.0,
+        "close_price": 4530.0,
+        "volume": 3131710.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251214,
+        "open_price": 4401.0,
+        "high_price": 4490.0,
+        "low_price": 4230.0,
+        "close_price": 4413.0,
+        "volume": 6475822.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251213,
+        "open_price": 4299.0,
+        "high_price": 4371.0,
+        "low_price": 4263.0,
+        "close_price": 4360.0,
+        "volume": 10468666.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251210,
+        "open_price": 4293.0,
+        "high_price": 4293.0,
+        "low_price": 4170.0,
+        "close_price": 4244.0,
+        "volume": 4432961.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251209,
+        "open_price": 4100.0,
+        "high_price": 4175.0,
+        "low_price": 4001.0,
+        "close_price": 4172.0,
+        "volume": 5893001.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251208,
+        "open_price": 3974.0,
+        "high_price": 4119.0,
+        "low_price": 3974.0,
+        "close_price": 4054.0,
+        "volume": 3381848.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251207,
+        "open_price": 4327.0,
+        "high_price": 4327.0,
+        "low_price": 4076.0,
+        "close_price": 4085.0,
+        "volume": 5104694.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251206,
+        "open_price": 4180.0,
+        "high_price": 4204.0,
+        "low_price": 4179.0,
+        "close_price": 4202.0,
+        "volume": 4747303.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251203,
+        "open_price": 4082.0,
+        "high_price": 4083.0,
+        "low_price": 4042.0,
+        "close_price": 4082.0,
+        "volume": 3997583.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251202,
+        "open_price": 3932.0,
+        "high_price": 4022.0,
+        "low_price": 3932.0,
+        "close_price": 3965.0,
+        "volume": 2581370.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251201,
+        "open_price": 3741.0,
+        "high_price": 3931.0,
+        "low_price": 3741.0,
+        "close_price": 3905.0,
+        "volume": 3365857.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251130,
+        "open_price": 3813.0,
+        "high_price": 3988.0,
+        "low_price": 3808.0,
+        "close_price": 3817.0,
+        "volume": 6381819.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251129,
+        "open_price": 3930.0,
+        "high_price": 4040.0,
+        "low_price": 3888.0,
+        "close_price": 3925.0,
+        "volume": 3010486.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251126,
+        "open_price": 4010.0,
+        "high_price": 4123.0,
+        "low_price": 4005.0,
+        "close_price": 4008.0,
+        "volume": 10801312.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251125,
+        "open_price": 4243.0,
+        "high_price": 4320.0,
+        "low_price": 4093.0,
+        "close_price": 4128.0,
+        "volume": 11023875.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251123,
+        "open_price": 4194.0,
+        "high_price": 4226.0,
+        "low_price": 4177.0,
+        "close_price": 4219.0,
+        "volume": 5559668.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251122,
+        "open_price": 4044.0,
+        "high_price": 4141.0,
+        "low_price": 3927.0,
+        "close_price": 4103.0,
+        "volume": 7600101.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251119,
+        "open_price": 4044.0,
+        "high_price": 4044.0,
+        "low_price": 3941.0,
+        "close_price": 4021.0,
+        "volume": 18456326.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251118,
+        "open_price": 3927.0,
+        "high_price": 3927.0,
+        "low_price": 3927.0,
+        "close_price": 3927.0,
+        "volume": 5079104.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251117,
+        "open_price": 3880.0,
+        "high_price": 3880.0,
+        "low_price": 3880.0,
+        "close_price": 3813.0,
+        "volume": 1663723.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251116,
+        "open_price": 3849.0,
+        "high_price": 3849.0,
+        "low_price": 3849.0,
+        "close_price": 3767.0,
+        "volume": 1076097.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251115,
+        "open_price": 3799.0,
+        "high_price": 3799.0,
+        "low_price": 3799.0,
+        "close_price": 3737.0,
+        "volume": 1780930.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251112,
+        "open_price": 3690.0,
+        "high_price": 3690.0,
+        "low_price": 3656.0,
+        "close_price": 3689.0,
+        "volume": 5516073.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251111,
+        "open_price": 3589.0,
+        "high_price": 3711.0,
+        "low_price": 3495.0,
+        "close_price": 3583.0,
+        "volume": 12254330.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251110,
+        "open_price": 3726.0,
+        "high_price": 3726.0,
+        "low_price": 3589.0,
+        "close_price": 3603.0,
+        "volume": 6488928.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251109,
+        "open_price": 3653.0,
+        "high_price": 3740.0,
+        "low_price": 3621.0,
+        "close_price": 3700.0,
+        "volume": 1856525.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251108,
+        "open_price": 3810.0,
+        "high_price": 3810.0,
+        "low_price": 3680.0,
+        "close_price": 3732.0,
+        "volume": 3498426.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251105,
+        "open_price": 3706.0,
+        "high_price": 3773.0,
+        "low_price": 3705.0,
+        "close_price": 3707.0,
+        "volume": 9321646.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251104,
+        "open_price": 3821.0,
+        "high_price": 3949.0,
+        "low_price": 3803.0,
+        "close_price": 3819.0,
+        "volume": 7460745.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251103,
+        "open_price": 3840.0,
+        "high_price": 4007.0,
+        "low_price": 3840.0,
+        "close_price": 3920.0,
+        "volume": 4159772.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251102,
+        "open_price": 3916.0,
+        "high_price": 4010.0,
+        "low_price": 3911.0,
+        "close_price": 3928.0,
+        "volume": 7165828.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251101,
+        "open_price": 4061.0,
+        "high_price": 4151.0,
+        "low_price": 3940.0,
+        "close_price": 4031.0,
+        "volume": 5524553.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251029,
+        "open_price": 4227.0,
+        "high_price": 4227.0,
+        "low_price": 4006.0,
+        "close_price": 4061.0,
+        "volume": 4391970.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251028,
+        "open_price": 4261.0,
+        "high_price": 4268.0,
+        "low_price": 4080.0,
+        "close_price": 4127.0,
+        "volume": 5020665.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251027,
+        "open_price": 4005.0,
+        "high_price": 4185.0,
+        "low_price": 4005.0,
+        "close_price": 4183.0,
+        "volume": 10603084.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251026,
+        "open_price": 3989.0,
+        "high_price": 4219.0,
+        "low_price": 3989.0,
+        "close_price": 4064.0,
+        "volume": 8290973.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251025,
+        "open_price": 4259.0,
+        "high_price": 4259.0,
+        "low_price": 4070.0,
+        "close_price": 4112.0,
+        "volume": 6182000.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251022,
+        "open_price": 4280.0,
+        "high_price": 4280.0,
+        "low_price": 4151.0,
+        "close_price": 4195.0,
+        "volume": 9319830.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251021,
+        "open_price": 4281.0,
+        "high_price": 4281.0,
+        "low_price": 4200.0,
+        "close_price": 4275.0,
+        "volume": 24261407.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251020,
+        "open_price": 4178.0,
+        "high_price": 4178.0,
+        "low_price": 4178.0,
+        "close_price": 4157.0,
+        "volume": 3164776.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251019,
+        "open_price": 4089.0,
+        "high_price": 4089.0,
+        "low_price": 4089.0,
+        "close_price": 4057.0,
+        "volume": 2804480.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251018,
+        "open_price": 4019.0,
+        "high_price": 4019.0,
+        "low_price": 4019.0,
+        "close_price": 3970.0,
+        "volume": 2233811.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251015,
+        "open_price": 3912.0,
+        "high_price": 3912.0,
+        "low_price": 3818.0,
+        "close_price": 3902.0,
+        "volume": 13854764.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251014,
+        "open_price": 3865.0,
+        "high_price": 3865.0,
+        "low_price": 3865.0,
+        "close_price": 3799.0,
+        "volume": 1718081.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251013,
+        "open_price": 3755.0,
+        "high_price": 3755.0,
+        "low_price": 3755.0,
+        "close_price": 3753.0,
+        "volume": 4138933.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251012,
+        "open_price": 3712.0,
+        "high_price": 3712.0,
+        "low_price": 3712.0,
+        "close_price": 3646.0,
+        "volume": 1660450.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251011,
+        "open_price": 3657.0,
+        "high_price": 3657.0,
+        "low_price": 3657.0,
+        "close_price": 3604.0,
+        "volume": 2117706.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251008,
+        "open_price": 3500.0,
+        "high_price": 3572.0,
+        "low_price": 3370.0,
+        "close_price": 3551.0,
+        "volume": 8654199.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251007,
+        "open_price": 3374.0,
+        "high_price": 3475.0,
+        "low_price": 3354.0,
+        "close_price": 3468.0,
+        "volume": 5530375.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251006,
+        "open_price": 3400.0,
+        "high_price": 3427.0,
+        "low_price": 3300.0,
+        "close_price": 3374.0,
+        "volume": 4191615.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251005,
+        "open_price": 3330.0,
+        "high_price": 3399.0,
+        "low_price": 3202.0,
+        "close_price": 3333.0,
+        "volume": 11228276.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251004,
+        "open_price": 3170.0,
+        "high_price": 3314.0,
+        "low_price": 3170.0,
+        "close_price": 3300.0,
+        "volume": 4198856.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20251001,
+        "open_price": 3221.0,
+        "high_price": 3310.0,
+        "low_price": 3215.0,
+        "close_price": 3218.0,
+        "volume": 6602251.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250930,
+        "open_price": 3459.0,
+        "high_price": 3459.0,
+        "low_price": 3310.0,
+        "close_price": 3314.0,
+        "volume": 11180637.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250929,
+        "open_price": 3441.0,
+        "high_price": 3441.0,
+        "low_price": 3353.0,
+        "close_price": 3412.0,
+        "volume": 3277650.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250928,
+        "open_price": 3339.0,
+        "high_price": 3353.0,
+        "low_price": 3300.0,
+        "close_price": 3341.0,
+        "volume": 4121256.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250927,
+        "open_price": 3155.0,
+        "high_price": 3348.0,
+        "low_price": 3155.0,
+        "close_price": 3256.0,
+        "volume": 10850138.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250924,
+        "open_price": 3184.0,
+        "high_price": 3184.0,
+        "low_price": 3184.0,
+        "close_price": 3252.0,
+        "volume": 1357754.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250923,
+        "open_price": 3300.0,
+        "high_price": 3380.0,
+        "low_price": 3234.0,
+        "close_price": 3282.0,
+        "volume": 4567121.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250922,
+        "open_price": 3264.0,
+        "high_price": 3434.0,
+        "low_price": 3264.0,
+        "close_price": 3333.0,
+        "volume": 9062219.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250921,
+        "open_price": 3269.0,
+        "high_price": 3269.0,
+        "low_price": 3269.0,
+        "close_price": 3364.0,
+        "volume": 247784.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250920,
+        "open_price": 3271.0,
+        "high_price": 3271.0,
+        "low_price": 3271.0,
+        "close_price": 3370.0,
+        "volume": 72382.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250917,
+        "open_price": 3307.0,
+        "high_price": 3307.0,
+        "low_price": 3307.0,
+        "close_price": 3372.0,
+        "volume": 1600382.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250916,
+        "open_price": 3368.0,
+        "high_price": 3371.0,
+        "low_price": 3356.0,
+        "close_price": 3409.0,
+        "volume": 2168782.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250915,
+        "open_price": 3610.0,
+        "high_price": 3610.0,
+        "low_price": 3408.0,
+        "close_price": 3459.0,
+        "volume": 6533227.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250914,
+        "open_price": 3510.0,
+        "high_price": 3519.0,
+        "low_price": 3500.0,
+        "close_price": 3513.0,
+        "volume": 8751496.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250913,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3417.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250909,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3417.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250908,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3417.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250907,
+        "open_price": 3410.0,
+        "high_price": 3500.0,
+        "low_price": 3410.0,
+        "close_price": 3417.0,
+        "volume": 8156997.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250906,
+        "open_price": 3512.0,
+        "high_price": 3600.0,
+        "low_price": 3460.0,
+        "close_price": 3515.0,
+        "volume": 2652713.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250903,
+        "open_price": 3599.0,
+        "high_price": 3599.0,
+        "low_price": 3500.0,
+        "close_price": 3567.0,
+        "volume": 3890843.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250902,
+        "open_price": 3511.0,
+        "high_price": 3552.0,
+        "low_price": 3449.0,
+        "close_price": 3549.0,
+        "volume": 7967222.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250831,
+        "open_price": 3395.0,
+        "high_price": 3550.0,
+        "low_price": 3395.0,
+        "close_price": 3449.0,
+        "volume": 9600042.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250830,
+        "open_price": 3398.0,
+        "high_price": 3398.0,
+        "low_price": 3398.0,
+        "close_price": 3499.0,
+        "volume": 179336.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250827,
+        "open_price": 3410.0,
+        "high_price": 3410.0,
+        "low_price": 3410.0,
+        "close_price": 3503.0,
+        "volume": 463451.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250826,
+        "open_price": 3418.0,
+        "high_price": 3418.0,
+        "low_price": 3418.0,
+        "close_price": 3515.0,
+        "volume": 300441.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250825,
+        "open_price": 3450.0,
+        "high_price": 3451.0,
+        "low_price": 3443.0,
+        "close_price": 3523.0,
+        "volume": 1018664.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250823,
+        "open_price": 3548.0,
+        "high_price": 3610.0,
+        "low_price": 3548.0,
+        "close_price": 3549.0,
+        "volume": 4651917.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250820,
+        "open_price": 3573.0,
+        "high_price": 3573.0,
+        "low_price": 3573.0,
+        "close_price": 3657.0,
+        "volume": 977973.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250819,
+        "open_price": 3587.0,
+        "high_price": 3587.0,
+        "low_price": 3587.0,
+        "close_price": 3683.0,
+        "volume": 524179.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250818,
+        "open_price": 3801.0,
+        "high_price": 3819.0,
+        "low_price": 3626.0,
+        "close_price": 3697.0,
+        "volume": 3481264.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250817,
+        "open_price": 3793.0,
+        "high_price": 3796.0,
+        "low_price": 3793.0,
+        "close_price": 3738.0,
+        "volume": 1922320.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250816,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3686.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250813,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3686.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250812,
+        "open_price": 3622.0,
+        "high_price": 3698.0,
+        "low_price": 3622.0,
+        "close_price": 3686.0,
+        "volume": 1602792.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250811,
+        "open_price": 3800.0,
+        "high_price": 3800.0,
+        "low_price": 3663.0,
+        "close_price": 3733.0,
+        "volume": 1554035.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250810,
+        "open_price": 3870.0,
+        "high_price": 3962.0,
+        "low_price": 3766.0,
+        "close_price": 3776.0,
+        "volume": 4373431.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250809,
+        "open_price": 3822.0,
+        "high_price": 4021.0,
+        "low_price": 3822.0,
+        "close_price": 3882.0,
+        "volume": 3314472.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250806,
+        "open_price": 3850.0,
+        "high_price": 3850.0,
+        "low_price": 3850.0,
+        "close_price": 3940.0,
+        "volume": 826866.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250805,
+        "open_price": 3990.0,
+        "high_price": 3990.0,
+        "low_price": 3882.0,
+        "close_price": 3969.0,
+        "volume": 981925.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250804,
+        "open_price": 4011.0,
+        "high_price": 4113.0,
+        "low_price": 3992.0,
+        "close_price": 4002.0,
+        "volume": 7438780.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250803,
+        "open_price": 4113.0,
+        "high_price": 4239.0,
+        "low_price": 4112.0,
+        "close_price": 4115.0,
+        "volume": 4524791.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250802,
+        "open_price": 4239.0,
+        "high_price": 4239.0,
+        "low_price": 4239.0,
+        "close_price": 4239.0,
+        "volume": 8966457.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250730,
+        "open_price": 4251.0,
+        "high_price": 4251.0,
+        "low_price": 4251.0,
+        "close_price": 4370.0,
+        "volume": 294473.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250729,
+        "open_price": 4275.0,
+        "high_price": 4275.0,
+        "low_price": 4275.0,
+        "close_price": 4382.0,
+        "volume": 601634.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250728,
+        "open_price": 4397.0,
+        "high_price": 4397.0,
+        "low_price": 4396.0,
+        "close_price": 4407.0,
+        "volume": 2947115.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250727,
+        "open_price": 4438.0,
+        "high_price": 4533.0,
+        "low_price": 4438.0,
+        "close_price": 4531.0,
+        "volume": 1027493.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250726,
+        "open_price": 4675.0,
+        "high_price": 4677.0,
+        "low_price": 4533.0,
+        "close_price": 4575.0,
+        "volume": 2420318.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250723,
+        "open_price": 4630.0,
+        "high_price": 4700.0,
+        "low_price": 4622.0,
+        "close_price": 4673.0,
+        "volume": 2034956.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250722,
+        "open_price": 4768.0,
+        "high_price": 4818.0,
+        "low_price": 4653.0,
+        "close_price": 4764.0,
+        "volume": 3332641.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250721,
+        "open_price": 4600.0,
+        "high_price": 4725.0,
+        "low_price": 4461.0,
+        "close_price": 4679.0,
+        "volume": 6876264.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250720,
+        "open_price": 4650.0,
+        "high_price": 4690.0,
+        "low_price": 4524.0,
+        "close_price": 4588.0,
+        "volume": 2528968.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250719,
+        "open_price": 4870.0,
+        "high_price": 4870.0,
+        "low_price": 4608.0,
+        "close_price": 4657.0,
+        "volume": 2774473.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250716,
+        "open_price": 4650.0,
+        "high_price": 4840.0,
+        "low_price": 4650.0,
+        "close_price": 4750.0,
+        "volume": 2546278.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250715,
+        "open_price": 4520.0,
+        "high_price": 4770.0,
+        "low_price": 4520.0,
+        "close_price": 4700.0,
+        "volume": 5831149.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250714,
+        "open_price": 4780.0,
+        "high_price": 4800.0,
+        "low_price": 4600.0,
+        "close_price": 4640.0,
+        "volume": 3594049.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250713,
+        "open_price": 4730.0,
+        "high_price": 4850.0,
+        "low_price": 4730.0,
+        "close_price": 4740.0,
+        "volume": 9381246.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250712,
+        "open_price": 4850.0,
+        "high_price": 4990.0,
+        "low_price": 4850.0,
+        "close_price": 4870.0,
+        "volume": 10684280.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250709,
+        "open_price": 4860.0,
+        "high_price": 4860.0,
+        "low_price": 4860.0,
+        "close_price": 5000.0,
+        "volume": 147381.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250708,
+        "open_price": 4890.0,
+        "high_price": 4890.0,
+        "low_price": 4890.0,
+        "close_price": 5010.0,
+        "volume": 590592.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250707,
+        "open_price": 5000.0,
+        "high_price": 5140.0,
+        "low_price": 5000.0,
+        "close_price": 5040.0,
+        "volume": 2508574.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250702,
+        "open_price": 5140.0,
+        "high_price": 5330.0,
+        "low_price": 5140.0,
+        "close_price": 5150.0,
+        "volume": 45877611.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250701,
+        "open_price": 5140.0,
+        "high_price": 5140.0,
+        "low_price": 5140.0,
+        "close_price": 5290.0,
+        "volume": 25065.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250630,
+        "open_price": 5140.0,
+        "high_price": 5140.0,
+        "low_price": 5140.0,
+        "close_price": 5290.0,
+        "volume": 65181.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250629,
+        "open_price": 5250.0,
+        "high_price": 5250.0,
+        "low_price": 5250.0,
+        "close_price": 5290.0,
+        "volume": 2049697.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250628,
+        "open_price": 5300.0,
+        "high_price": 5300.0,
+        "low_price": 5300.0,
+        "close_price": 5410.0,
+        "volume": 785802.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5460.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5460.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5460.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5460.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5460.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5460.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5460.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5460.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250611,
+        "open_price": 5400.0,
+        "high_price": 5460.0,
+        "low_price": 5380.0,
+        "close_price": 5460.0,
+        "volume": 10087839.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250610,
+        "open_price": 5280.0,
+        "high_price": 5320.0,
+        "low_price": 5190.0,
+        "close_price": 5310.0,
+        "volume": 5617735.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250609,
+        "open_price": 5170.0,
+        "high_price": 5170.0,
+        "low_price": 5110.0,
+        "close_price": 5170.0,
+        "volume": 10717489.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250608,
+        "open_price": 5040.0,
+        "high_price": 5090.0,
+        "low_price": 4880.0,
+        "close_price": 5020.0,
+        "volume": 6536373.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250607,
+        "open_price": 4860.0,
+        "high_price": 5160.0,
+        "low_price": 4860.0,
+        "close_price": 4950.0,
+        "volume": 10540332.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250603,
+        "open_price": 5000.0,
+        "high_price": 5110.0,
+        "low_price": 4970.0,
+        "close_price": 5010.0,
+        "volume": 8898821.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250602,
+        "open_price": 5070.0,
+        "high_price": 5320.0,
+        "low_price": 5030.0,
+        "close_price": 5120.0,
+        "volume": 5947861.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250601,
+        "open_price": 5300.0,
+        "high_price": 5360.0,
+        "low_price": 5180.0,
+        "close_price": 5180.0,
+        "volume": 5251640.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250531,
+        "open_price": 5280.0,
+        "high_price": 5350.0,
+        "low_price": 5240.0,
+        "close_price": 5330.0,
+        "volume": 7004378.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250528,
+        "open_price": 5350.0,
+        "high_price": 5350.0,
+        "low_price": 5170.0,
+        "close_price": 5200.0,
+        "volume": 6643665.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250527,
+        "open_price": 5320.0,
+        "high_price": 5360.0,
+        "low_price": 5240.0,
+        "close_price": 5320.0,
+        "volume": 2897889.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250526,
+        "open_price": 5190.0,
+        "high_price": 5470.0,
+        "low_price": 5170.0,
+        "close_price": 5210.0,
+        "volume": 10207348.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250525,
+        "open_price": 5320.0,
+        "high_price": 5450.0,
+        "low_price": 5320.0,
+        "close_price": 5320.0,
+        "volume": 4697075.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250524,
+        "open_price": 5540.0,
+        "high_price": 5660.0,
+        "low_price": 5450.0,
+        "close_price": 5480.0,
+        "volume": 10971323.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250521,
+        "open_price": 5540.0,
+        "high_price": 5540.0,
+        "low_price": 5540.0,
+        "close_price": 5610.0,
+        "volume": 1672247.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250520,
+        "open_price": 5980.0,
+        "high_price": 5980.0,
+        "low_price": 5700.0,
+        "close_price": 5710.0,
+        "volume": 4087658.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250519,
+        "open_price": 5900.0,
+        "high_price": 5900.0,
+        "low_price": 5650.0,
+        "close_price": 5870.0,
+        "volume": 26253181.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250518,
+        "open_price": 5750.0,
+        "high_price": 5750.0,
+        "low_price": 5750.0,
+        "close_price": 5730.0,
+        "volume": 2342216.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250517,
+        "open_price": 5620.0,
+        "high_price": 5620.0,
+        "low_price": 5620.0,
+        "close_price": 5590.0,
+        "volume": 2274734.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250514,
+        "open_price": 5480.0,
+        "high_price": 5520.0,
+        "low_price": 5300.0,
+        "close_price": 5460.0,
+        "volume": 10239542.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250513,
+        "open_price": 5530.0,
+        "high_price": 5530.0,
+        "low_price": 5240.0,
+        "close_price": 5360.0,
+        "volume": 6148480.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250512,
+        "open_price": 5380.0,
+        "high_price": 5380.0,
+        "low_price": 5380.0,
+        "close_price": 5380.0,
+        "volume": 3192524.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250511,
+        "open_price": 5230.0,
+        "high_price": 5340.0,
+        "low_price": 5230.0,
+        "close_price": 5230.0,
+        "volume": 9072272.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250510,
+        "open_price": 5500.0,
+        "high_price": 5500.0,
+        "low_price": 5390.0,
+        "close_price": 5390.0,
+        "volume": 5784727.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250507,
+        "open_price": 5580.0,
+        "high_price": 5650.0,
+        "low_price": 5490.0,
+        "close_price": 5550.0,
+        "volume": 9959920.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250506,
+        "open_price": 5680.0,
+        "high_price": 5690.0,
+        "low_price": 5430.0,
+        "close_price": 5580.0,
+        "volume": 8782032.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250505,
+        "open_price": 5320.0,
+        "high_price": 5540.0,
+        "low_price": 5320.0,
+        "close_price": 5530.0,
+        "volume": 14059253.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250504,
+        "open_price": 5170.0,
+        "high_price": 5460.0,
+        "low_price": 5170.0,
+        "close_price": 5380.0,
+        "volume": 8441740.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250503,
+        "open_price": 5390.0,
+        "high_price": 5510.0,
+        "low_price": 5290.0,
+        "close_price": 5310.0,
+        "volume": 20018269.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250430,
+        "open_price": 5420.0,
+        "high_price": 5460.0,
+        "low_price": 5350.0,
+        "close_price": 5450.0,
+        "volume": 14264156.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250429,
+        "open_price": 5290.0,
+        "high_price": 5350.0,
+        "low_price": 5190.0,
+        "close_price": 5310.0,
+        "volume": 5576473.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250428,
+        "open_price": 5180.0,
+        "high_price": 5240.0,
+        "low_price": 5040.0,
+        "close_price": 5200.0,
+        "volume": 9647561.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250427,
+        "open_price": 5050.0,
+        "high_price": 5190.0,
+        "low_price": 5020.0,
+        "close_price": 5090.0,
+        "volume": 8813166.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250426,
+        "open_price": 5340.0,
+        "high_price": 5340.0,
+        "low_price": 5050.0,
+        "close_price": 5170.0,
+        "volume": 17291196.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250423,
+        "open_price": 5190.0,
+        "high_price": 5400.0,
+        "low_price": 5116.0,
+        "close_price": 5196.0,
+        "volume": 18262547.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250422,
+        "open_price": 5270.0,
+        "high_price": 5343.0,
+        "low_price": 5111.0,
+        "close_price": 5274.0,
+        "volume": 22348610.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250421,
+        "open_price": 5196.0,
+        "high_price": 5196.0,
+        "low_price": 5050.0,
+        "close_price": 5188.0,
+        "volume": 28460287.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250420,
+        "open_price": 5045.0,
+        "high_price": 5045.0,
+        "low_price": 5045.0,
+        "close_price": 5045.0,
+        "volume": 3400747.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250419,
+        "open_price": 4900.0,
+        "high_price": 4900.0,
+        "low_price": 4900.0,
+        "close_price": 4899.0,
+        "volume": 3127806.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250416,
+        "open_price": 4761.0,
+        "high_price": 4761.0,
+        "low_price": 4761.0,
+        "close_price": 4758.0,
+        "volume": 3359300.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250415,
+        "open_price": 4657.0,
+        "high_price": 4657.0,
+        "low_price": 4657.0,
+        "close_price": 4623.0,
+        "volume": 2566439.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250414,
+        "open_price": 4522.0,
+        "high_price": 4522.0,
+        "low_price": 4522.0,
+        "close_price": 4522.0,
+        "volume": 16914561.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250413,
+        "open_price": 4391.0,
+        "high_price": 4391.0,
+        "low_price": 4391.0,
+        "close_price": 4391.0,
+        "volume": 21866447.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250412,
+        "open_price": 4270.0,
+        "high_price": 4377.0,
+        "low_price": 4246.0,
+        "close_price": 4264.0,
+        "volume": 9737044.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250409,
+        "open_price": 4620.0,
+        "high_price": 4620.0,
+        "low_price": 4355.0,
+        "close_price": 4377.0,
+        "volume": 6941786.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250408,
+        "open_price": 4480.0,
+        "high_price": 4498.0,
+        "low_price": 4402.0,
+        "close_price": 4489.0,
+        "volume": 5698040.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250407,
+        "open_price": 4474.0,
+        "high_price": 4474.0,
+        "low_price": 4366.0,
+        "close_price": 4367.0,
+        "volume": 4944749.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250406,
+        "open_price": 4482.0,
+        "high_price": 4679.0,
+        "low_price": 4474.0,
+        "close_price": 4501.0,
+        "volume": 5621405.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250405,
+        "open_price": 4560.0,
+        "high_price": 4736.0,
+        "low_price": 4538.0,
+        "close_price": 4612.0,
+        "volume": 2963819.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250330,
+        "open_price": 4560.0,
+        "high_price": 4760.0,
+        "low_price": 4549.0,
+        "close_price": 4611.0,
+        "volume": 6064179.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250329,
+        "open_price": 4684.0,
+        "high_price": 4738.0,
+        "low_price": 4677.0,
+        "close_price": 4677.0,
+        "volume": 3192394.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250326,
+        "open_price": 4909.0,
+        "high_price": 4909.0,
+        "low_price": 4686.0,
+        "close_price": 4821.0,
+        "volume": 2263931.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250325,
+        "open_price": 4601.0,
+        "high_price": 4819.0,
+        "low_price": 4601.0,
+        "close_price": 4772.0,
+        "volume": 3983238.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250318,
+        "open_price": 4579.0,
+        "high_price": 4579.0,
+        "low_price": 4579.0,
+        "close_price": 4679.0,
+        "volume": 949873.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250317,
+        "open_price": 4640.0,
+        "high_price": 4766.0,
+        "low_price": 4533.0,
+        "close_price": 4720.0,
+        "volume": 5151231.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250316,
+        "open_price": 4700.0,
+        "high_price": 4820.0,
+        "low_price": 4581.0,
+        "close_price": 4640.0,
+        "volume": 6067369.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250315,
+        "open_price": 4565.0,
+        "high_price": 4723.0,
+        "low_price": 4565.0,
+        "close_price": 4722.0,
+        "volume": 4233125.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250312,
+        "open_price": 4523.0,
+        "high_price": 4787.0,
+        "low_price": 4519.0,
+        "close_price": 4586.0,
+        "volume": 7246573.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250311,
+        "open_price": 4570.0,
+        "high_price": 4580.0,
+        "low_price": 4554.0,
+        "close_price": 4658.0,
+        "volume": 800118.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250310,
+        "open_price": 4685.0,
+        "high_price": 4830.0,
+        "low_price": 4685.0,
+        "close_price": 4694.0,
+        "volume": 5357702.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250309,
+        "open_price": 4702.0,
+        "high_price": 4702.0,
+        "low_price": 4702.0,
+        "close_price": 4829.0,
+        "volume": 387736.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250308,
+        "open_price": 4757.0,
+        "high_price": 4889.0,
+        "low_price": 4753.0,
+        "close_price": 4847.0,
+        "volume": 1164341.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250305,
+        "open_price": 5000.0,
+        "high_price": 5000.0,
+        "low_price": 4900.0,
+        "close_price": 4900.0,
+        "volume": 4188252.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250304,
+        "open_price": 4950.0,
+        "high_price": 5230.0,
+        "low_price": 4930.0,
+        "close_price": 5050.0,
+        "volume": 5939737.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250303,
+        "open_price": 4980.0,
+        "high_price": 4980.0,
+        "low_price": 4980.0,
+        "close_price": 5080.0,
+        "volume": 1009349.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250302,
+        "open_price": 5170.0,
+        "high_price": 5250.0,
+        "low_price": 5130.0,
+        "close_price": 5130.0,
+        "volume": 9850003.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250301,
+        "open_price": 5260.0,
+        "high_price": 5290.0,
+        "low_price": 5170.0,
+        "close_price": 5280.0,
+        "volume": 11858882.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250226,
+        "open_price": 5160.0,
+        "high_price": 5160.0,
+        "low_price": 5001.0,
+        "close_price": 5143.0,
+        "volume": 9107269.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250225,
+        "open_price": 5011.0,
+        "high_price": 5011.0,
+        "low_price": 4885.0,
+        "close_price": 5010.0,
+        "volume": 6690617.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250224,
+        "open_price": 4847.0,
+        "high_price": 4869.0,
+        "low_price": 4844.0,
+        "close_price": 4866.0,
+        "volume": 3297643.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250223,
+        "open_price": 4740.0,
+        "high_price": 4744.0,
+        "low_price": 4601.0,
+        "close_price": 4728.0,
+        "volume": 9826513.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250222,
+        "open_price": 4608.0,
+        "high_price": 4611.0,
+        "low_price": 4502.0,
+        "close_price": 4606.0,
+        "volume": 11905108.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250219,
+        "open_price": 4537.0,
+        "high_price": 4649.0,
+        "low_price": 4419.0,
+        "close_price": 4477.0,
+        "volume": 9305007.0
+    },
+    {
+        "symbol": "وآذر",
+        "trade_date": 20250218,
+        "open_price": 4650.0,
+        "high_price": 4675.0,
+        "low_price": 4537.0,
+        "close_price": 4555.0,
+        "volume": 5581627.0
+    }
+]

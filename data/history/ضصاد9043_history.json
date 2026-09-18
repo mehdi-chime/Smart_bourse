@@ -1,0 +1,128 @@
+[
+    {
+        "symbol": "ضصاد9043",
+        "trade_date": 20260901,
+        "open_price": 400.0,
+        "high_price": 400.0,
+        "low_price": 221.0,
+        "close_price": 235.0,
+        "volume": 336.0
+    },
+    {
+        "symbol": "ضصاد9043",
+        "trade_date": 20260831,
+        "open_price": 332.0,
+        "high_price": 345.0,
+        "low_price": 330.0,
+        "close_price": 331.0,
+        "volume": 11331.0
+    },
+    {
+        "symbol": "ضصاد9043",
+        "trade_date": 20260829,
+        "open_price": 330.0,
+        "high_price": 345.0,
+        "low_price": 320.0,
+        "close_price": 332.0,
+        "volume": 22652.0
+    },
+    {
+        "symbol": "ضصاد9043",
+        "trade_date": 20260826,
+        "open_price": 360.0,
+        "high_price": 360.0,
+        "low_price": 320.0,
+        "close_price": 332.0,
+        "volume": 3580.0
+    },
+    {
+        "symbol": "ضصاد9043",
+        "trade_date": 20260825,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 261.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ضصاد9043",
+        "trade_date": 20260824,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 261.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ضصاد9043",
+        "trade_date": 20260823,
+        "open_price": 330.0,
+        "high_price": 330.0,
+        "low_price": 233.0,
+        "close_price": 261.0,
+        "volume": 3113.0
+    },
+    {
+        "symbol": "ضصاد9043",
+        "trade_date": 20260822,
+        "open_price": 165.0,
+        "high_price": 247.0,
+        "low_price": 165.0,
+        "close_price": 207.0,
+        "volume": 5968.0
+    },
+    {
+        "symbol": "ضصاد9043",
+        "trade_date": 20260819,
+        "open_price": 160.0,
+        "high_price": 160.0,
+        "low_price": 155.0,
+        "close_price": 160.0,
+        "volume": 17449.0
+    },
+    {
+        "symbol": "ضصاد9043",
+        "trade_date": 20260818,
+        "open_price": 140.0,
+        "high_price": 140.0,
+        "low_price": 134.0,
+        "close_price": 135.0,
+        "volume": 9499.0
+    },
+    {
+        "symbol": "ضصاد9043",
+        "trade_date": 20260817,
+        "open_price": 85.0,
+        "high_price": 120.0,
+        "low_price": 70.0,
+        "close_price": 101.0,
+        "volume": 21402.0
+    },
+    {
+        "symbol": "ضصاد9043",
+        "trade_date": 20260816,
+        "open_price": 81.0,
+        "high_price": 81.0,
+        "low_price": 75.0,
+        "close_price": 78.0,
+        "volume": 64000.0
+    },
+    {
+        "symbol": "ضصاد9043",
+        "trade_date": 20260815,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ضصاد9043",
+        "trade_date": 20260811,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1.0,
+        "volume": 0.0
+    }
+]

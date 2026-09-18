@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "درازک",
+        "trade_date": 20260901,
+        "open_price": 4570.0,
+        "high_price": 4580.0,
+        "low_price": 4320.0,
+        "close_price": 4500.0,
+        "volume": 219722004.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260831,
+        "open_price": 4450.0,
+        "high_price": 4510.0,
+        "low_price": 4450.0,
+        "close_price": 4450.0,
+        "volume": 268865637.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260829,
+        "open_price": 4770.0,
+        "high_price": 4770.0,
+        "low_price": 4560.0,
+        "close_price": 4580.0,
+        "volume": 373411337.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260826,
+        "open_price": 4700.0,
+        "high_price": 4760.0,
+        "low_price": 4540.0,
+        "close_price": 4700.0,
+        "volume": 626870963.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260825,
+        "open_price": 4620.0,
+        "high_price": 4740.0,
+        "low_price": 4620.0,
+        "close_price": 4630.0,
+        "volume": 490813234.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260824,
+        "open_price": 4810.0,
+        "high_price": 4810.0,
+        "low_price": 4670.0,
+        "close_price": 4760.0,
+        "volume": 382782506.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260823,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4090.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260822,
+        "open_price": 4090.0,
+        "high_price": 4090.0,
+        "low_price": 4090.0,
+        "close_price": 4090.0,
+        "volume": 18357326.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260819,
+        "open_price": 3980.0,
+        "high_price": 3980.0,
+        "low_price": 3980.0,
+        "close_price": 3980.0,
+        "volume": 57616062.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260818,
+        "open_price": 3870.0,
+        "high_price": 3870.0,
+        "low_price": 3870.0,
+        "close_price": 3870.0,
+        "volume": 25701463.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260817,
+        "open_price": 3760.0,
+        "high_price": 3760.0,
+        "low_price": 3760.0,
+        "close_price": 3760.0,
+        "volume": 7584312.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260816,
+        "open_price": 3660.0,
+        "high_price": 3660.0,
+        "low_price": 3660.0,
+        "close_price": 3660.0,
+        "volume": 8285134.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260815,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3560.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260811,
+        "open_price": 3560.0,
+        "high_price": 3560.0,
+        "low_price": 3560.0,
+        "close_price": 3560.0,
+        "volume": 1068869.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260810,
+        "open_price": 3460.0,
+        "high_price": 3460.0,
+        "low_price": 3460.0,
+        "close_price": 3460.0,
+        "volume": 6942371.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260809,
+        "open_price": 3360.0,
+        "high_price": 3360.0,
+        "low_price": 3360.0,
+        "close_price": 3360.0,
+        "volume": 11226172.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260808,
+        "open_price": 3270.0,
+        "high_price": 3270.0,
+        "low_price": 3270.0,
+        "close_price": 3270.0,
+        "volume": 9085355.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260805,
+        "open_price": 3178.0,
+        "high_price": 3178.0,
+        "low_price": 3178.0,
+        "close_price": 3178.0,
+        "volume": 10347804.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260803,
+        "open_price": 3086.0,
+        "high_price": 3086.0,
+        "low_price": 3086.0,
+        "close_price": 3086.0,
+        "volume": 7833065.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260802,
+        "open_price": 2997.0,
+        "high_price": 2997.0,
+        "low_price": 2997.0,
+        "close_price": 2997.0,
+        "volume": 7846133.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260801,
+        "open_price": 2910.0,
+        "high_price": 2910.0,
+        "low_price": 2910.0,
+        "close_price": 2910.0,
+        "volume": 11972794.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260729,
+        "open_price": 2826.0,
+        "high_price": 2826.0,
+        "low_price": 2826.0,
+        "close_price": 2826.0,
+        "volume": 16159051.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260728,
+        "open_price": 2744.0,
+        "high_price": 2744.0,
+        "low_price": 2744.0,
+        "close_price": 2744.0,
+        "volume": 6540785.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260727,
+        "open_price": 2665.0,
+        "high_price": 2665.0,
+        "low_price": 2665.0,
+        "close_price": 2665.0,
+        "volume": 12250299.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260726,
+        "open_price": 2588.0,
+        "high_price": 2588.0,
+        "low_price": 2588.0,
+        "close_price": 2588.0,
+        "volume": 11675461.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260725,
+        "open_price": 2513.0,
+        "high_price": 2513.0,
+        "low_price": 2513.0,
+        "close_price": 2513.0,
+        "volume": 9669689.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260722,
+        "open_price": 2440.0,
+        "high_price": 2440.0,
+        "low_price": 2440.0,
+        "close_price": 2440.0,
+        "volume": 8246038.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260721,
+        "open_price": 2369.0,
+        "high_price": 2369.0,
+        "low_price": 2369.0,
+        "close_price": 2369.0,
+        "volume": 8165490.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260720,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2300.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260719,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2400.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260718,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2400.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260715,
+        "open_price": 2400.0,
+        "high_price": 2400.0,
+        "low_price": 2400.0,
+        "close_price": 2400.0,
+        "volume": 10491705.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260714,
+        "open_price": 2331.0,
+        "high_price": 2331.0,
+        "low_price": 2331.0,
+        "close_price": 2331.0,
+        "volume": 8757347.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260713,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2264.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260712,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2264.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260711,
+        "open_price": 2264.0,
+        "high_price": 2264.0,
+        "low_price": 2264.0,
+        "close_price": 2264.0,
+        "volume": 1696894.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260708,
+        "open_price": 2199.0,
+        "high_price": 2199.0,
+        "low_price": 2199.0,
+        "close_price": 2199.0,
+        "volume": 19561769.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260707,
+        "open_price": 2135.0,
+        "high_price": 2135.0,
+        "low_price": 2135.0,
+        "close_price": 2135.0,
+        "volume": 6790463.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260701,
+        "open_price": 2073.0,
+        "high_price": 2073.0,
+        "low_price": 2073.0,
+        "close_price": 2073.0,
+        "volume": 7307968.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260630,
+        "open_price": 2013.0,
+        "high_price": 2013.0,
+        "low_price": 2013.0,
+        "close_price": 2013.0,
+        "volume": 7228026.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260629,
+        "open_price": 1955.0,
+        "high_price": 1955.0,
+        "low_price": 1955.0,
+        "close_price": 1955.0,
+        "volume": 10811559.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260628,
+        "open_price": 1899.0,
+        "high_price": 1899.0,
+        "low_price": 1899.0,
+        "close_price": 1899.0,
+        "volume": 37297645.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260627,
+        "open_price": 1844.0,
+        "high_price": 1844.0,
+        "low_price": 1844.0,
+        "close_price": 1844.0,
+        "volume": 93757978.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260623,
+        "open_price": 1791.0,
+        "high_price": 1791.0,
+        "low_price": 1791.0,
+        "close_price": 1791.0,
+        "volume": 57041271.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260622,
+        "open_price": 1739.0,
+        "high_price": 1739.0,
+        "low_price": 1739.0,
+        "close_price": 1739.0,
+        "volume": 57642369.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260621,
+        "open_price": 1689.0,
+        "high_price": 1689.0,
+        "low_price": 1689.0,
+        "close_price": 1689.0,
+        "volume": 13624112.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260620,
+        "open_price": 1640.0,
+        "high_price": 1640.0,
+        "low_price": 1640.0,
+        "close_price": 1640.0,
+        "volume": 11894497.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260617,
+        "open_price": 1593.0,
+        "high_price": 1593.0,
+        "low_price": 1593.0,
+        "close_price": 1593.0,
+        "volume": 12295787.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260616,
+        "open_price": 1547.0,
+        "high_price": 1547.0,
+        "low_price": 1547.0,
+        "close_price": 1547.0,
+        "volume": 11976278.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260615,
+        "open_price": 1502.0,
+        "high_price": 1502.0,
+        "low_price": 1502.0,
+        "close_price": 1502.0,
+        "volume": 17646534.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260614,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260613,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260610,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260609,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260608,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260607,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260606,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260603,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260602,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260601,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260531,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260530,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260526,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260525,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260524,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260523,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260520,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260519,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1459.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260225,
+        "open_price": 1400.0,
+        "high_price": 1473.0,
+        "low_price": 1400.0,
+        "close_price": 1459.0,
+        "volume": 7424069.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260224,
+        "open_price": 1496.0,
+        "high_price": 1496.0,
+        "low_price": 1430.0,
+        "close_price": 1431.0,
+        "volume": 29919331.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260223,
+        "open_price": 1439.0,
+        "high_price": 1479.0,
+        "low_price": 1439.0,
+        "close_price": 1474.0,
+        "volume": 9162289.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260222,
+        "open_price": 1436.0,
+        "high_price": 1467.0,
+        "low_price": 1436.0,
+        "close_price": 1436.0,
+        "volume": 14841325.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260221,
+        "open_price": 1480.0,
+        "high_price": 1481.0,
+        "low_price": 1480.0,
+        "close_price": 1480.0,
+        "volume": 8180917.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260218,
+        "open_price": 1560.0,
+        "high_price": 1560.0,
+        "low_price": 1500.0,
+        "close_price": 1525.0,
+        "volume": 8212363.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260217,
+        "open_price": 1549.0,
+        "high_price": 1549.0,
+        "low_price": 1496.0,
+        "close_price": 1546.0,
+        "volume": 8909004.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260216,
+        "open_price": 1426.0,
+        "high_price": 1514.0,
+        "low_price": 1426.0,
+        "close_price": 1504.0,
+        "volume": 23591826.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260215,
+        "open_price": 1470.0,
+        "high_price": 1475.0,
+        "low_price": 1470.0,
+        "close_price": 1470.0,
+        "volume": 11379093.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260214,
+        "open_price": 1550.0,
+        "high_price": 1579.0,
+        "low_price": 1497.0,
+        "close_price": 1515.0,
+        "volume": 11867595.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260210,
+        "open_price": 1542.0,
+        "high_price": 1580.0,
+        "low_price": 1542.0,
+        "close_price": 1543.0,
+        "volume": 30015237.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260209,
+        "open_price": 1588.0,
+        "high_price": 1659.0,
+        "low_price": 1586.0,
+        "close_price": 1589.0,
+        "volume": 12040101.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260208,
+        "open_price": 1720.0,
+        "high_price": 1720.0,
+        "low_price": 1625.0,
+        "close_price": 1635.0,
+        "volume": 14783185.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260207,
+        "open_price": 1650.0,
+        "high_price": 1676.0,
+        "low_price": 1650.0,
+        "close_price": 1675.0,
+        "volume": 14128570.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260203,
+        "open_price": 1610.0,
+        "high_price": 1677.0,
+        "low_price": 1610.0,
+        "close_price": 1628.0,
+        "volume": 11793198.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260202,
+        "open_price": 1684.0,
+        "high_price": 1688.0,
+        "low_price": 1610.0,
+        "close_price": 1652.0,
+        "volume": 16804113.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260201,
+        "open_price": 1704.0,
+        "high_price": 1704.0,
+        "low_price": 1621.0,
+        "close_price": 1639.0,
+        "volume": 16790609.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260131,
+        "open_price": 1720.0,
+        "high_price": 1767.0,
+        "low_price": 1669.0,
+        "close_price": 1671.0,
+        "volume": 58802486.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260128,
+        "open_price": 1690.0,
+        "high_price": 1757.0,
+        "low_price": 1681.0,
+        "close_price": 1720.0,
+        "volume": 20068463.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260127,
+        "open_price": 1693.0,
+        "high_price": 1790.0,
+        "low_price": 1693.0,
+        "close_price": 1708.0,
+        "volume": 88235922.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260126,
+        "open_price": 1745.0,
+        "high_price": 1745.0,
+        "low_price": 1745.0,
+        "close_price": 1745.0,
+        "volume": 9155814.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260125,
+        "open_price": 1800.0,
+        "high_price": 1852.0,
+        "low_price": 1797.0,
+        "close_price": 1798.0,
+        "volume": 16263827.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260124,
+        "open_price": 1861.0,
+        "high_price": 1861.0,
+        "low_price": 1811.0,
+        "close_price": 1852.0,
+        "volume": 102642026.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260121,
+        "open_price": 1807.0,
+        "high_price": 1807.0,
+        "low_price": 1807.0,
+        "close_price": 1807.0,
+        "volume": 55618154.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260120,
+        "open_price": 1755.0,
+        "high_price": 1755.0,
+        "low_price": 1741.0,
+        "close_price": 1755.0,
+        "volume": 70598341.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260119,
+        "open_price": 1704.0,
+        "high_price": 1704.0,
+        "low_price": 1704.0,
+        "close_price": 1704.0,
+        "volume": 5527711.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260118,
+        "open_price": 1632.0,
+        "high_price": 1677.0,
+        "low_price": 1610.0,
+        "close_price": 1655.0,
+        "volume": 24888629.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260114,
+        "open_price": 1617.0,
+        "high_price": 1670.0,
+        "low_price": 1617.0,
+        "close_price": 1629.0,
+        "volume": 27296367.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260113,
+        "open_price": 1698.0,
+        "high_price": 1734.0,
+        "low_price": 1654.0,
+        "close_price": 1667.0,
+        "volume": 32655970.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260112,
+        "open_price": 1650.0,
+        "high_price": 1715.0,
+        "low_price": 1650.0,
+        "close_price": 1705.0,
+        "volume": 21143636.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260111,
+        "open_price": 1649.0,
+        "high_price": 1710.0,
+        "low_price": 1646.0,
+        "close_price": 1666.0,
+        "volume": 66938480.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260110,
+        "open_price": 1694.0,
+        "high_price": 1750.0,
+        "low_price": 1694.0,
+        "close_price": 1696.0,
+        "volume": 46222920.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260107,
+        "open_price": 1840.0,
+        "high_price": 1840.0,
+        "low_price": 1740.0,
+        "close_price": 1746.0,
+        "volume": 112351991.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260106,
+        "open_price": 1776.0,
+        "high_price": 1840.0,
+        "low_price": 1776.0,
+        "close_price": 1793.0,
+        "volume": 207620566.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260105,
+        "open_price": 1830.0,
+        "high_price": 1830.0,
+        "low_price": 1830.0,
+        "close_price": 1830.0,
+        "volume": 188348490.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20260104,
+        "open_price": 1885.0,
+        "high_price": 1950.0,
+        "low_price": 1882.0,
+        "close_price": 1886.0,
+        "volume": 76970041.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251231,
+        "open_price": 1921.0,
+        "high_price": 1990.0,
+        "low_price": 1921.0,
+        "close_price": 1940.0,
+        "volume": 90073440.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251230,
+        "open_price": 1981.0,
+        "high_price": 2000.0,
+        "low_price": 1980.0,
+        "close_price": 1980.0,
+        "volume": 17063225.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251229,
+        "open_price": 2063.0,
+        "high_price": 2113.0,
+        "low_price": 1991.0,
+        "close_price": 2041.0,
+        "volume": 60880436.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251228,
+        "open_price": 2053.0,
+        "high_price": 2053.0,
+        "low_price": 2020.0,
+        "close_price": 2052.0,
+        "volume": 46281553.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251227,
+        "open_price": 1994.0,
+        "high_price": 1994.0,
+        "low_price": 1960.0,
+        "close_price": 1994.0,
+        "volume": 48852093.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251224,
+        "open_price": 1936.0,
+        "high_price": 1936.0,
+        "low_price": 1936.0,
+        "close_price": 1936.0,
+        "volume": 30193333.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251223,
+        "open_price": 1889.0,
+        "high_price": 1910.0,
+        "low_price": 1815.0,
+        "close_price": 1880.0,
+        "volume": 41527618.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251222,
+        "open_price": 1790.0,
+        "high_price": 1895.0,
+        "low_price": 1790.0,
+        "close_price": 1855.0,
+        "volume": 44757160.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251221,
+        "open_price": 1902.0,
+        "high_price": 1902.0,
+        "low_price": 1812.0,
+        "close_price": 1840.0,
+        "volume": 63278201.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251220,
+        "open_price": 1902.0,
+        "high_price": 1902.0,
+        "low_price": 1820.0,
+        "close_price": 1867.0,
+        "volume": 40101905.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251217,
+        "open_price": 1846.0,
+        "high_price": 1900.0,
+        "low_price": 1845.0,
+        "close_price": 1851.0,
+        "volume": 22996776.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251216,
+        "open_price": 1938.0,
+        "high_price": 1938.0,
+        "low_price": 1830.0,
+        "close_price": 1902.0,
+        "volume": 51379751.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251215,
+        "open_price": 1882.0,
+        "high_price": 1883.0,
+        "low_price": 1860.0,
+        "close_price": 1882.0,
+        "volume": 56013146.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251214,
+        "open_price": 1834.0,
+        "high_price": 1834.0,
+        "low_price": 1783.0,
+        "close_price": 1829.0,
+        "volume": 33727607.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251213,
+        "open_price": 1732.0,
+        "high_price": 1783.0,
+        "low_price": 1732.0,
+        "close_price": 1781.0,
+        "volume": 14869631.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251210,
+        "open_price": 1735.0,
+        "high_price": 1742.0,
+        "low_price": 1682.0,
+        "close_price": 1732.0,
+        "volume": 53224192.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251209,
+        "open_price": 1691.0,
+        "high_price": 1738.0,
+        "low_price": 1658.0,
+        "close_price": 1692.0,
+        "volume": 40680499.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251208,
+        "open_price": 1677.0,
+        "high_price": 1731.0,
+        "low_price": 1660.0,
+        "close_price": 1709.0,
+        "volume": 27346892.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251207,
+        "open_price": 1757.0,
+        "high_price": 1757.0,
+        "low_price": 1655.0,
+        "close_price": 1681.0,
+        "volume": 27464357.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251206,
+        "open_price": 1710.0,
+        "high_price": 1715.0,
+        "low_price": 1655.0,
+        "close_price": 1706.0,
+        "volume": 39732775.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251203,
+        "open_price": 1637.0,
+        "high_price": 1668.0,
+        "low_price": 1637.0,
+        "close_price": 1666.0,
+        "volume": 19896209.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251202,
+        "open_price": 1588.0,
+        "high_price": 1635.0,
+        "low_price": 1580.0,
+        "close_price": 1620.0,
+        "volume": 29800574.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251201,
+        "open_price": 1614.0,
+        "high_price": 1636.0,
+        "low_price": 1565.0,
+        "close_price": 1588.0,
+        "volume": 22921540.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251130,
+        "open_price": 1589.0,
+        "high_price": 1609.0,
+        "low_price": 1545.0,
+        "close_price": 1590.0,
+        "volume": 24089847.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251129,
+        "open_price": 1601.0,
+        "high_price": 1628.0,
+        "low_price": 1553.0,
+        "close_price": 1563.0,
+        "volume": 38422364.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251126,
+        "open_price": 1600.0,
+        "high_price": 1636.0,
+        "low_price": 1570.0,
+        "close_price": 1601.0,
+        "volume": 32745541.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251125,
+        "open_price": 1587.0,
+        "high_price": 1599.0,
+        "low_price": 1540.0,
+        "close_price": 1597.0,
+        "volume": 42907752.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251123,
+        "open_price": 1567.0,
+        "high_price": 1600.0,
+        "low_price": 1544.0,
+        "close_price": 1553.0,
+        "volume": 88013880.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251122,
+        "open_price": 1604.0,
+        "high_price": 1606.0,
+        "low_price": 1560.0,
+        "close_price": 1591.0,
+        "volume": 33914016.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251119,
+        "open_price": 1550.0,
+        "high_price": 1562.0,
+        "low_price": 1530.0,
+        "close_price": 1560.0,
+        "volume": 43013526.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251118,
+        "open_price": 1490.0,
+        "high_price": 1523.0,
+        "low_price": 1460.0,
+        "close_price": 1517.0,
+        "volume": 34519829.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251117,
+        "open_price": 1485.0,
+        "high_price": 1485.0,
+        "low_price": 1422.0,
+        "close_price": 1479.0,
+        "volume": 52585809.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251116,
+        "open_price": 1435.0,
+        "high_price": 1455.0,
+        "low_price": 1422.0,
+        "close_price": 1442.0,
+        "volume": 17316512.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251115,
+        "open_price": 1381.0,
+        "high_price": 1436.0,
+        "low_price": 1381.0,
+        "close_price": 1413.0,
+        "volume": 20313267.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251112,
+        "open_price": 1439.0,
+        "high_price": 1439.0,
+        "low_price": 1398.0,
+        "close_price": 1404.0,
+        "volume": 52992437.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251111,
+        "open_price": 1460.0,
+        "high_price": 1489.0,
+        "low_price": 1404.0,
+        "close_price": 1441.0,
+        "volume": 44047427.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251110,
+        "open_price": 1410.0,
+        "high_price": 1453.0,
+        "low_price": 1395.0,
+        "close_price": 1447.0,
+        "volume": 63695300.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251109,
+        "open_price": 1456.0,
+        "high_price": 1456.0,
+        "low_price": 1388.0,
+        "close_price": 1411.0,
+        "volume": 66762761.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251108,
+        "open_price": 1360.0,
+        "high_price": 1418.0,
+        "low_price": 1360.0,
+        "close_price": 1415.0,
+        "volume": 13843698.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251105,
+        "open_price": 1361.0,
+        "high_price": 1423.0,
+        "low_price": 1358.0,
+        "close_price": 1377.0,
+        "volume": 59935723.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251104,
+        "open_price": 1380.0,
+        "high_price": 1408.0,
+        "low_price": 1351.0,
+        "close_price": 1399.0,
+        "volume": 119357521.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251103,
+        "open_price": 1364.0,
+        "high_price": 1367.0,
+        "low_price": 1350.0,
+        "close_price": 1367.0,
+        "volume": 62915634.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251102,
+        "open_price": 1289.0,
+        "high_price": 1365.0,
+        "low_price": 1287.0,
+        "close_price": 1328.0,
+        "volume": 59683442.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251101,
+        "open_price": 1365.0,
+        "high_price": 1370.0,
+        "low_price": 1299.0,
+        "close_price": 1326.0,
+        "volume": 52176955.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251029,
+        "open_price": 1351.0,
+        "high_price": 1352.0,
+        "low_price": 1310.0,
+        "close_price": 1339.0,
+        "volume": 145299616.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251028,
+        "open_price": 1298.0,
+        "high_price": 1329.0,
+        "low_price": 1267.0,
+        "close_price": 1313.0,
+        "volume": 47378636.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251027,
+        "open_price": 1301.0,
+        "high_price": 1301.0,
+        "low_price": 1270.0,
+        "close_price": 1293.0,
+        "volume": 106335823.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251026,
+        "open_price": 1264.0,
+        "high_price": 1264.0,
+        "low_price": 1264.0,
+        "close_price": 1264.0,
+        "volume": 22606726.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251025,
+        "open_price": 1231.0,
+        "high_price": 1231.0,
+        "low_price": 1231.0,
+        "close_price": 1228.0,
+        "volume": 11369439.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251022,
+        "open_price": 1196.0,
+        "high_price": 1196.0,
+        "low_price": 1196.0,
+        "close_price": 1196.0,
+        "volume": 36009375.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251021,
+        "open_price": 1145.0,
+        "high_price": 1165.0,
+        "low_price": 1143.0,
+        "close_price": 1162.0,
+        "volume": 37104825.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251020,
+        "open_price": 1092.0,
+        "high_price": 1134.0,
+        "low_price": 1075.0,
+        "close_price": 1132.0,
+        "volume": 36135737.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251019,
+        "open_price": 1102.0,
+        "high_price": 1102.0,
+        "low_price": 1080.0,
+        "close_price": 1101.0,
+        "volume": 27045724.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251018,
+        "open_price": 1061.0,
+        "high_price": 1071.0,
+        "low_price": 1045.0,
+        "close_price": 1070.0,
+        "volume": 26297420.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251015,
+        "open_price": 1020.0,
+        "high_price": 1061.0,
+        "low_price": 1019.0,
+        "close_price": 1040.0,
+        "volume": 11565347.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251014,
+        "open_price": 1050.0,
+        "high_price": 1075.0,
+        "low_price": 1048.0,
+        "close_price": 1050.0,
+        "volume": 42297005.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251013,
+        "open_price": 1110.0,
+        "high_price": 1110.0,
+        "low_price": 1048.0,
+        "close_price": 1080.0,
+        "volume": 45708016.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251012,
+        "open_price": 1078.0,
+        "high_price": 1078.0,
+        "low_price": 1052.0,
+        "close_price": 1078.0,
+        "volume": 15863406.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251011,
+        "open_price": 1049.0,
+        "high_price": 1050.0,
+        "low_price": 1033.0,
+        "close_price": 1047.0,
+        "volume": 13602263.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251008,
+        "open_price": 1020.0,
+        "high_price": 1021.0,
+        "low_price": 999.0,
+        "close_price": 1020.0,
+        "volume": 43218510.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251007,
+        "open_price": 985.0,
+        "high_price": 992.0,
+        "low_price": 978.0,
+        "close_price": 992.0,
+        "volume": 48852103.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251006,
+        "open_price": 952.0,
+        "high_price": 978.0,
+        "low_price": 940.0,
+        "close_price": 964.0,
+        "volume": 63430270.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251005,
+        "open_price": 955.0,
+        "high_price": 970.0,
+        "low_price": 926.0,
+        "close_price": 950.0,
+        "volume": 15320863.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251004,
+        "open_price": 940.0,
+        "high_price": 959.0,
+        "low_price": 930.0,
+        "close_price": 948.0,
+        "volume": 28414472.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20251001,
+        "open_price": 931.0,
+        "high_price": 940.0,
+        "low_price": 931.0,
+        "close_price": 932.0,
+        "volume": 26493969.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250930,
+        "open_price": 989.0,
+        "high_price": 989.0,
+        "low_price": 958.0,
+        "close_price": 959.0,
+        "volume": 32504056.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250929,
+        "open_price": 976.0,
+        "high_price": 1003.0,
+        "low_price": 974.0,
+        "close_price": 987.0,
+        "volume": 28542699.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250928,
+        "open_price": 975.0,
+        "high_price": 975.0,
+        "low_price": 955.0,
+        "close_price": 974.0,
+        "volume": 36445040.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250927,
+        "open_price": 902.0,
+        "high_price": 955.0,
+        "low_price": 902.0,
+        "close_price": 947.0,
+        "volume": 44680059.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250924,
+        "open_price": 927.0,
+        "high_price": 952.0,
+        "low_price": 927.0,
+        "close_price": 928.0,
+        "volume": 112039067.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250923,
+        "open_price": 955.0,
+        "high_price": 955.0,
+        "low_price": 955.0,
+        "close_price": 955.0,
+        "volume": 72000898.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250922,
+        "open_price": 928.0,
+        "high_price": 928.0,
+        "low_price": 928.0,
+        "close_price": 928.0,
+        "volume": 96569693.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250921,
+        "open_price": 857.0,
+        "high_price": 904.0,
+        "low_price": 852.0,
+        "close_price": 901.0,
+        "volume": 155442199.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250920,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 878.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250917,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 878.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250916,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 878.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250915,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 878.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250914,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 878.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250913,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 878.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250909,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 878.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250908,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 878.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250907,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 878.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250906,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 878.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250903,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 878.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250902,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 878.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250831,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 878.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250830,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 878.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250827,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 878.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250826,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 878.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250825,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 878.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250823,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 878.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250820,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 878.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250819,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 878.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250818,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 878.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250817,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 878.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250816,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 878.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250813,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 878.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250812,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 878.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250811,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 878.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250810,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 878.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250809,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7290.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250806,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7290.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250805,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7290.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250804,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7290.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250803,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7290.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250802,
+        "open_price": 7290.0,
+        "high_price": 7310.0,
+        "low_price": 7290.0,
+        "close_price": 7290.0,
+        "volume": 3847754.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250730,
+        "open_price": 7350.0,
+        "high_price": 7350.0,
+        "low_price": 7350.0,
+        "close_price": 7510.0,
+        "volume": 548492.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250729,
+        "open_price": 7380.0,
+        "high_price": 7380.0,
+        "low_price": 7380.0,
+        "close_price": 7570.0,
+        "volume": 299821.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250728,
+        "open_price": 7430.0,
+        "high_price": 7430.0,
+        "low_price": 7430.0,
+        "close_price": 7600.0,
+        "volume": 458355.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250727,
+        "open_price": 7540.0,
+        "high_price": 7650.0,
+        "low_price": 7490.0,
+        "close_price": 7650.0,
+        "volume": 588644.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250726,
+        "open_price": 7720.0,
+        "high_price": 7940.0,
+        "low_price": 7690.0,
+        "close_price": 7720.0,
+        "volume": 1694929.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250723,
+        "open_price": 7860.0,
+        "high_price": 7870.0,
+        "low_price": 7860.0,
+        "close_price": 7920.0,
+        "volume": 1450297.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250722,
+        "open_price": 8260.0,
+        "high_price": 8400.0,
+        "low_price": 8000.0,
+        "close_price": 8100.0,
+        "volume": 3688010.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250721,
+        "open_price": 8250.0,
+        "high_price": 8250.0,
+        "low_price": 8010.0,
+        "close_price": 8240.0,
+        "volume": 7489889.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250720,
+        "open_price": 8010.0,
+        "high_price": 8010.0,
+        "low_price": 8010.0,
+        "close_price": 8010.0,
+        "volume": 2367882.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250719,
+        "open_price": 7780.0,
+        "high_price": 7780.0,
+        "low_price": 7780.0,
+        "close_price": 7780.0,
+        "volume": 5796427.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250716,
+        "open_price": 7560.0,
+        "high_price": 7560.0,
+        "low_price": 7560.0,
+        "close_price": 7560.0,
+        "volume": 2556743.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250715,
+        "open_price": 7310.0,
+        "high_price": 7570.0,
+        "low_price": 7290.0,
+        "close_price": 7340.0,
+        "volume": 3753792.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250714,
+        "open_price": 7500.0,
+        "high_price": 7640.0,
+        "low_price": 7500.0,
+        "close_price": 7510.0,
+        "volume": 25464350.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250713,
+        "open_price": 7540.0,
+        "high_price": 7540.0,
+        "low_price": 7540.0,
+        "close_price": 7730.0,
+        "volume": 304899.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250712,
+        "open_price": 7680.0,
+        "high_price": 7680.0,
+        "low_price": 7680.0,
+        "close_price": 7770.0,
+        "volume": 1189508.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250709,
+        "open_price": 7730.0,
+        "high_price": 7730.0,
+        "low_price": 7730.0,
+        "close_price": 7910.0,
+        "volume": 434850.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250708,
+        "open_price": 7760.0,
+        "high_price": 7760.0,
+        "low_price": 7760.0,
+        "close_price": 7960.0,
+        "volume": 308122.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250707,
+        "open_price": 8000.0,
+        "high_price": 8030.0,
+        "low_price": 8000.0,
+        "close_price": 8000.0,
+        "volume": 4005585.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250702,
+        "open_price": 8240.0,
+        "high_price": 8240.0,
+        "low_price": 8240.0,
+        "close_price": 8240.0,
+        "volume": 13298777.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250701,
+        "open_price": 8280.0,
+        "high_price": 8280.0,
+        "low_price": 8280.0,
+        "close_price": 8490.0,
+        "volume": 288325.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250630,
+        "open_price": 8310.0,
+        "high_price": 8310.0,
+        "low_price": 8310.0,
+        "close_price": 8530.0,
+        "volume": 232910.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250629,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8560.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250628,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8560.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8560.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8560.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8560.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8560.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8560.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8560.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8560.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8560.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250611,
+        "open_price": 8900.0,
+        "high_price": 8900.0,
+        "low_price": 8450.0,
+        "close_price": 8560.0,
+        "volume": 1729477.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250610,
+        "open_price": 8670.0,
+        "high_price": 8890.0,
+        "low_price": 8600.0,
+        "close_price": 8710.0,
+        "volume": 1840058.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250609,
+        "open_price": 8700.0,
+        "high_price": 8890.0,
+        "low_price": 8680.0,
+        "close_price": 8690.0,
+        "volume": 8702413.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250608,
+        "open_price": 9100.0,
+        "high_price": 9100.0,
+        "low_price": 8800.0,
+        "close_price": 8940.0,
+        "volume": 3346081.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250607,
+        "open_price": 9040.0,
+        "high_price": 9090.0,
+        "low_price": 8770.0,
+        "close_price": 8920.0,
+        "volume": 15553180.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250603,
+        "open_price": 9040.0,
+        "high_price": 9040.0,
+        "low_price": 9040.0,
+        "close_price": 9040.0,
+        "volume": 3740636.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250602,
+        "open_price": 8840.0,
+        "high_price": 8840.0,
+        "low_price": 8840.0,
+        "close_price": 8780.0,
+        "volume": 1410935.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250601,
+        "open_price": 8600.0,
+        "high_price": 8600.0,
+        "low_price": 8500.0,
+        "close_price": 8590.0,
+        "volume": 11958317.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250531,
+        "open_price": 8470.0,
+        "high_price": 8470.0,
+        "low_price": 8470.0,
+        "close_price": 8350.0,
+        "volume": 881779.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250528,
+        "open_price": 8250.0,
+        "high_price": 8250.0,
+        "low_price": 8250.0,
+        "close_price": 8230.0,
+        "volume": 1734186.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250527,
+        "open_price": 8050.0,
+        "high_price": 8070.0,
+        "low_price": 8030.0,
+        "close_price": 8010.0,
+        "volume": 1392889.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250526,
+        "open_price": 8000.0,
+        "high_price": 8020.0,
+        "low_price": 7800.0,
+        "close_price": 7840.0,
+        "volume": 900648.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250525,
+        "open_price": 8010.0,
+        "high_price": 8010.0,
+        "low_price": 7680.0,
+        "close_price": 7790.0,
+        "volume": 1113179.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250524,
+        "open_price": 7990.0,
+        "high_price": 7990.0,
+        "low_price": 7730.0,
+        "close_price": 7820.0,
+        "volume": 1426284.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250521,
+        "open_price": 7760.0,
+        "high_price": 7950.0,
+        "low_price": 7750.0,
+        "close_price": 7780.0,
+        "volume": 3674534.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250520,
+        "open_price": 8300.0,
+        "high_price": 8300.0,
+        "low_price": 7940.0,
+        "close_price": 7980.0,
+        "volume": 2712396.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250519,
+        "open_price": 8050.0,
+        "high_price": 8280.0,
+        "low_price": 8050.0,
+        "close_price": 8180.0,
+        "volume": 1458197.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250518,
+        "open_price": 8160.0,
+        "high_price": 8250.0,
+        "low_price": 7970.0,
+        "close_price": 8100.0,
+        "volume": 4243437.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250517,
+        "open_price": 8240.0,
+        "high_price": 8340.0,
+        "low_price": 8120.0,
+        "close_price": 8180.0,
+        "volume": 3747158.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250514,
+        "open_price": 8500.0,
+        "high_price": 8500.0,
+        "low_price": 8160.0,
+        "close_price": 8260.0,
+        "volume": 1952286.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250513,
+        "open_price": 8360.0,
+        "high_price": 8360.0,
+        "low_price": 8270.0,
+        "close_price": 8350.0,
+        "volume": 3657803.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250512,
+        "open_price": 8200.0,
+        "high_price": 8200.0,
+        "low_price": 8200.0,
+        "close_price": 8120.0,
+        "volume": 1187585.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250511,
+        "open_price": 7900.0,
+        "high_price": 8250.0,
+        "low_price": 7860.0,
+        "close_price": 7970.0,
+        "volume": 1911164.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250510,
+        "open_price": 8380.0,
+        "high_price": 8380.0,
+        "low_price": 8080.0,
+        "close_price": 8100.0,
+        "volume": 4225188.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250507,
+        "open_price": 8220.0,
+        "high_price": 8420.0,
+        "low_price": 8120.0,
+        "close_price": 8320.0,
+        "volume": 2396417.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250506,
+        "open_price": 8150.0,
+        "high_price": 8330.0,
+        "low_price": 7980.0,
+        "close_price": 8180.0,
+        "volume": 2407205.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250505,
+        "open_price": 8130.0,
+        "high_price": 8150.0,
+        "low_price": 7960.0,
+        "close_price": 8110.0,
+        "volume": 5871326.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250504,
+        "open_price": 7670.0,
+        "high_price": 7940.0,
+        "low_price": 7670.0,
+        "close_price": 7920.0,
+        "volume": 4843783.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250503,
+        "open_price": 7670.0,
+        "high_price": 7960.0,
+        "low_price": 7670.0,
+        "close_price": 7710.0,
+        "volume": 7944730.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250430,
+        "open_price": 7930.0,
+        "high_price": 7930.0,
+        "low_price": 7930.0,
+        "close_price": 7900.0,
+        "volume": 1811761.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250429,
+        "open_price": 7400.0,
+        "high_price": 7710.0,
+        "low_price": 7370.0,
+        "close_price": 7700.0,
+        "volume": 3823386.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250428,
+        "open_price": 7220.0,
+        "high_price": 7500.0,
+        "low_price": 7220.0,
+        "close_price": 7490.0,
+        "volume": 8379272.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250427,
+        "open_price": 7410.0,
+        "high_price": 7630.0,
+        "low_price": 7250.0,
+        "close_price": 7290.0,
+        "volume": 5442626.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250426,
+        "open_price": 7350.0,
+        "high_price": 7510.0,
+        "low_price": 7300.0,
+        "close_price": 7470.0,
+        "volume": 6457037.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250423,
+        "open_price": 7160.0,
+        "high_price": 7460.0,
+        "low_price": 7080.0,
+        "close_price": 7300.0,
+        "volume": 3940452.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250422,
+        "open_price": 7350.0,
+        "high_price": 7450.0,
+        "low_price": 7190.0,
+        "close_price": 7270.0,
+        "volume": 2607887.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250421,
+        "open_price": 7370.0,
+        "high_price": 7370.0,
+        "low_price": 7170.0,
+        "close_price": 7350.0,
+        "volume": 4411637.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250420,
+        "open_price": 7120.0,
+        "high_price": 7160.0,
+        "low_price": 7060.0,
+        "close_price": 7160.0,
+        "volume": 5241584.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250419,
+        "open_price": 7090.0,
+        "high_price": 7090.0,
+        "low_price": 6870.0,
+        "close_price": 6960.0,
+        "volume": 2862600.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250416,
+        "open_price": 7090.0,
+        "high_price": 7090.0,
+        "low_price": 6750.0,
+        "close_price": 6940.0,
+        "volume": 1153252.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250415,
+        "open_price": 7170.0,
+        "high_price": 7170.0,
+        "low_price": 6890.0,
+        "close_price": 6920.0,
+        "volume": 1989219.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250414,
+        "open_price": 7080.0,
+        "high_price": 7110.0,
+        "low_price": 7070.0,
+        "close_price": 7100.0,
+        "volume": 2527105.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250413,
+        "open_price": 6910.0,
+        "high_price": 6910.0,
+        "low_price": 6900.0,
+        "close_price": 6910.0,
+        "volume": 4947269.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250412,
+        "open_price": 6890.0,
+        "high_price": 6940.0,
+        "low_price": 6600.0,
+        "close_price": 6710.0,
+        "volume": 1380471.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250409,
+        "open_price": 7020.0,
+        "high_price": 7040.0,
+        "low_price": 6670.0,
+        "close_price": 6770.0,
+        "volume": 1814988.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250408,
+        "open_price": 6800.0,
+        "high_price": 6850.0,
+        "low_price": 6790.0,
+        "close_price": 6840.0,
+        "volume": 2393788.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250407,
+        "open_price": 6730.0,
+        "high_price": 6940.0,
+        "low_price": 6650.0,
+        "close_price": 6660.0,
+        "volume": 3724976.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250406,
+        "open_price": 7070.0,
+        "high_price": 7070.0,
+        "low_price": 6810.0,
+        "close_price": 6850.0,
+        "volume": 2589265.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250405,
+        "open_price": 7280.0,
+        "high_price": 7280.0,
+        "low_price": 6940.0,
+        "close_price": 7020.0,
+        "volume": 2455767.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250330,
+        "open_price": 7010.0,
+        "high_price": 7300.0,
+        "low_price": 7010.0,
+        "close_price": 7140.0,
+        "volume": 1418435.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250329,
+        "open_price": 7200.0,
+        "high_price": 7300.0,
+        "low_price": 7120.0,
+        "close_price": 7150.0,
+        "volume": 2325522.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250326,
+        "open_price": 7480.0,
+        "high_price": 7490.0,
+        "low_price": 7220.0,
+        "close_price": 7330.0,
+        "volume": 972454.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250325,
+        "open_price": 7120.0,
+        "high_price": 7510.0,
+        "low_price": 7120.0,
+        "close_price": 7330.0,
+        "volume": 2002895.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250318,
+        "open_price": 7260.0,
+        "high_price": 7310.0,
+        "low_price": 7240.0,
+        "close_price": 7330.0,
+        "volume": 1289102.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250317,
+        "open_price": 7470.0,
+        "high_price": 7470.0,
+        "low_price": 7330.0,
+        "close_price": 7460.0,
+        "volume": 6762948.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250316,
+        "open_price": 7450.0,
+        "high_price": 7600.0,
+        "low_price": 7180.0,
+        "close_price": 7260.0,
+        "volume": 2724202.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250315,
+        "open_price": 7370.0,
+        "high_price": 7410.0,
+        "low_price": 7260.0,
+        "close_price": 7400.0,
+        "volume": 3770519.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250312,
+        "open_price": 7060.0,
+        "high_price": 7380.0,
+        "low_price": 7060.0,
+        "close_price": 7200.0,
+        "volume": 1884280.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250311,
+        "open_price": 7450.0,
+        "high_price": 7490.0,
+        "low_price": 7250.0,
+        "close_price": 7270.0,
+        "volume": 2010627.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250310,
+        "open_price": 7360.0,
+        "high_price": 7760.0,
+        "low_price": 7360.0,
+        "close_price": 7470.0,
+        "volume": 2470890.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250309,
+        "open_price": 7600.0,
+        "high_price": 7860.0,
+        "low_price": 7560.0,
+        "close_price": 7580.0,
+        "volume": 3038604.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250308,
+        "open_price": 8020.0,
+        "high_price": 8100.0,
+        "low_price": 7780.0,
+        "close_price": 7790.0,
+        "volume": 2088776.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250305,
+        "open_price": 8020.0,
+        "high_price": 8160.0,
+        "low_price": 7930.0,
+        "close_price": 8020.0,
+        "volume": 2445123.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250304,
+        "open_price": 8090.0,
+        "high_price": 8560.0,
+        "low_price": 8090.0,
+        "close_price": 8150.0,
+        "volume": 4111152.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250303,
+        "open_price": 8410.0,
+        "high_price": 8530.0,
+        "low_price": 8320.0,
+        "close_price": 8340.0,
+        "volume": 3251216.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250302,
+        "open_price": 8700.0,
+        "high_price": 8790.0,
+        "low_price": 8460.0,
+        "close_price": 8570.0,
+        "volume": 2694502.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250301,
+        "open_price": 8690.0,
+        "high_price": 8880.0,
+        "low_price": 8600.0,
+        "close_price": 8660.0,
+        "volume": 2114022.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250226,
+        "open_price": 9000.0,
+        "high_price": 9050.0,
+        "low_price": 8810.0,
+        "close_price": 8850.0,
+        "volume": 1904056.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250225,
+        "open_price": 9030.0,
+        "high_price": 9220.0,
+        "low_price": 8960.0,
+        "close_price": 9080.0,
+        "volume": 2620601.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250224,
+        "open_price": 8710.0,
+        "high_price": 9070.0,
+        "low_price": 8710.0,
+        "close_price": 9010.0,
+        "volume": 3962420.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250223,
+        "open_price": 9010.0,
+        "high_price": 9010.0,
+        "low_price": 8640.0,
+        "close_price": 8810.0,
+        "volume": 1899939.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250222,
+        "open_price": 9000.0,
+        "high_price": 9100.0,
+        "low_price": 8750.0,
+        "close_price": 8780.0,
+        "volume": 2363673.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250219,
+        "open_price": 8900.0,
+        "high_price": 9120.0,
+        "low_price": 8900.0,
+        "close_price": 9020.0,
+        "volume": 707291.0
+    },
+    {
+        "symbol": "درازک",
+        "trade_date": 20250218,
+        "open_price": 9140.0,
+        "high_price": 9200.0,
+        "low_price": 9000.0,
+        "close_price": 9040.0,
+        "volume": 981845.0
+    }
+]

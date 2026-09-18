@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "date": "2026-09-01",
+      "type": "عرضه اولیه",
+      "symbol": "تابان",
+      "description": "عرضه اولیه سهام پتروشیمی تابان",
+      "impact": "negative",
+      "severity": 8
+    }
+  ]
+}

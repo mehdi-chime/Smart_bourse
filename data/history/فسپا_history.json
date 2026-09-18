@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260901,
+        "open_price": 5840.0,
+        "high_price": 5920.0,
+        "low_price": 5580.0,
+        "close_price": 5870.0,
+        "volume": 86905031.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260831,
+        "open_price": 5750.0,
+        "high_price": 5870.0,
+        "low_price": 5750.0,
+        "close_price": 5750.0,
+        "volume": 124152308.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260829,
+        "open_price": 6110.0,
+        "high_price": 6110.0,
+        "low_price": 5910.0,
+        "close_price": 5920.0,
+        "volume": 89635704.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260826,
+        "open_price": 6130.0,
+        "high_price": 6130.0,
+        "low_price": 6010.0,
+        "close_price": 6090.0,
+        "volume": 87430095.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260825,
+        "open_price": 5960.0,
+        "high_price": 6050.0,
+        "low_price": 5730.0,
+        "close_price": 5960.0,
+        "volume": 69914986.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260824,
+        "open_price": 5800.0,
+        "high_price": 5890.0,
+        "low_price": 5670.0,
+        "close_price": 5880.0,
+        "volume": 130455882.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260823,
+        "open_price": 5780.0,
+        "high_price": 5850.0,
+        "low_price": 5660.0,
+        "close_price": 5720.0,
+        "volume": 257861761.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260822,
+        "open_price": 6010.0,
+        "high_price": 6010.0,
+        "low_price": 5670.0,
+        "close_price": 5830.0,
+        "volume": 533704917.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260819,
+        "open_price": 5840.0,
+        "high_price": 5840.0,
+        "low_price": 5840.0,
+        "close_price": 5840.0,
+        "volume": 6272297.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260818,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5670.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260817,
+        "open_price": 5670.0,
+        "high_price": 5670.0,
+        "low_price": 5670.0,
+        "close_price": 5670.0,
+        "volume": 11220907.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260816,
+        "open_price": 5510.0,
+        "high_price": 5510.0,
+        "low_price": 5370.0,
+        "close_price": 5510.0,
+        "volume": 560616410.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260815,
+        "open_price": 5350.0,
+        "high_price": 5350.0,
+        "low_price": 5350.0,
+        "close_price": 5350.0,
+        "volume": 5591074.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260811,
+        "open_price": 5200.0,
+        "high_price": 5200.0,
+        "low_price": 5200.0,
+        "close_price": 5200.0,
+        "volume": 4793761.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260810,
+        "open_price": 5050.0,
+        "high_price": 5050.0,
+        "low_price": 5050.0,
+        "close_price": 5050.0,
+        "volume": 2717750.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260809,
+        "open_price": 4910.0,
+        "high_price": 4910.0,
+        "low_price": 4910.0,
+        "close_price": 4910.0,
+        "volume": 46532583.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260808,
+        "open_price": 4770.0,
+        "high_price": 4770.0,
+        "low_price": 4770.0,
+        "close_price": 4770.0,
+        "volume": 2581515.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260805,
+        "open_price": 4640.0,
+        "high_price": 4640.0,
+        "low_price": 4640.0,
+        "close_price": 4640.0,
+        "volume": 2970865.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260803,
+        "open_price": 4510.0,
+        "high_price": 4510.0,
+        "low_price": 4510.0,
+        "close_price": 4510.0,
+        "volume": 67065655.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260802,
+        "open_price": 4380.0,
+        "high_price": 4380.0,
+        "low_price": 4380.0,
+        "close_price": 4380.0,
+        "volume": 43427911.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260801,
+        "open_price": 4260.0,
+        "high_price": 4260.0,
+        "low_price": 4260.0,
+        "close_price": 4260.0,
+        "volume": 50761973.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260729,
+        "open_price": 4140.0,
+        "high_price": 4140.0,
+        "low_price": 4140.0,
+        "close_price": 4140.0,
+        "volume": 75957141.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260728,
+        "open_price": 4020.0,
+        "high_price": 4020.0,
+        "low_price": 4020.0,
+        "close_price": 4020.0,
+        "volume": 93254363.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260727,
+        "open_price": 3910.0,
+        "high_price": 3910.0,
+        "low_price": 3910.0,
+        "close_price": 3910.0,
+        "volume": 49229019.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260726,
+        "open_price": 3800.0,
+        "high_price": 3800.0,
+        "low_price": 3800.0,
+        "close_price": 3800.0,
+        "volume": 99030637.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260725,
+        "open_price": 3690.0,
+        "high_price": 3690.0,
+        "low_price": 3690.0,
+        "close_price": 3690.0,
+        "volume": 25627717.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260722,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3590.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260721,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3990.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260720,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3990.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260719,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3990.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260718,
+        "open_price": 3990.0,
+        "high_price": 4020.0,
+        "low_price": 3800.0,
+        "close_price": 3990.0,
+        "volume": 91132576.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260715,
+        "open_price": 3910.0,
+        "high_price": 3910.0,
+        "low_price": 3910.0,
+        "close_price": 3910.0,
+        "volume": 52508348.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260714,
+        "open_price": 3620.0,
+        "high_price": 3810.0,
+        "low_price": 3620.0,
+        "close_price": 3800.0,
+        "volume": 53424863.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260713,
+        "open_price": 3600.0,
+        "high_price": 3820.0,
+        "low_price": 3600.0,
+        "close_price": 3700.0,
+        "volume": 21491933.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260712,
+        "open_price": 3710.0,
+        "high_price": 3710.0,
+        "low_price": 3710.0,
+        "close_price": 3710.0,
+        "volume": 13270997.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260711,
+        "open_price": 3810.0,
+        "high_price": 3910.0,
+        "low_price": 3810.0,
+        "close_price": 3820.0,
+        "volume": 33909572.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260708,
+        "open_price": 4000.0,
+        "high_price": 4120.0,
+        "low_price": 3880.0,
+        "close_price": 3920.0,
+        "volume": 28339657.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260707,
+        "open_price": 3940.0,
+        "high_price": 4010.0,
+        "low_price": 3900.0,
+        "close_price": 4000.0,
+        "volume": 53229364.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260701,
+        "open_price": 3830.0,
+        "high_price": 3940.0,
+        "low_price": 3780.0,
+        "close_price": 3900.0,
+        "volume": 52456453.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260630,
+        "open_price": 3770.0,
+        "high_price": 3850.0,
+        "low_price": 3730.0,
+        "close_price": 3830.0,
+        "volume": 61656956.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260629,
+        "open_price": 3680.0,
+        "high_price": 3870.0,
+        "low_price": 3680.0,
+        "close_price": 3740.0,
+        "volume": 34761164.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260628,
+        "open_price": 3770.0,
+        "high_price": 3890.0,
+        "low_price": 3770.0,
+        "close_price": 3790.0,
+        "volume": 25493470.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260627,
+        "open_price": 3970.0,
+        "high_price": 3970.0,
+        "low_price": 3760.0,
+        "close_price": 3880.0,
+        "volume": 26731655.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260623,
+        "open_price": 3857.0,
+        "high_price": 3857.0,
+        "low_price": 3785.0,
+        "close_price": 3856.0,
+        "volume": 59742856.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260622,
+        "open_price": 3900.0,
+        "high_price": 3900.0,
+        "low_price": 3706.0,
+        "close_price": 3745.0,
+        "volume": 27928328.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260621,
+        "open_price": 3841.0,
+        "high_price": 3841.0,
+        "low_price": 3620.0,
+        "close_price": 3820.0,
+        "volume": 155150846.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260620,
+        "open_price": 3730.0,
+        "high_price": 3730.0,
+        "low_price": 3730.0,
+        "close_price": 3730.0,
+        "volume": 23467368.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260617,
+        "open_price": 3622.0,
+        "high_price": 3622.0,
+        "low_price": 3622.0,
+        "close_price": 3622.0,
+        "volume": 20431407.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260616,
+        "open_price": 3517.0,
+        "high_price": 3517.0,
+        "low_price": 3517.0,
+        "close_price": 3517.0,
+        "volume": 60706243.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260615,
+        "open_price": 3415.0,
+        "high_price": 3415.0,
+        "low_price": 3415.0,
+        "close_price": 3415.0,
+        "volume": 15983205.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260614,
+        "open_price": 3316.0,
+        "high_price": 3316.0,
+        "low_price": 3316.0,
+        "close_price": 3316.0,
+        "volume": 13386947.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260613,
+        "open_price": 3220.0,
+        "high_price": 3220.0,
+        "low_price": 3220.0,
+        "close_price": 3220.0,
+        "volume": 11762624.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260610,
+        "open_price": 3127.0,
+        "high_price": 3127.0,
+        "low_price": 3127.0,
+        "close_price": 3127.0,
+        "volume": 9112736.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260609,
+        "open_price": 3036.0,
+        "high_price": 3036.0,
+        "low_price": 3036.0,
+        "close_price": 3036.0,
+        "volume": 9901231.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260608,
+        "open_price": 3000.0,
+        "high_price": 3038.0,
+        "low_price": 2891.0,
+        "close_price": 2948.0,
+        "volume": 35085098.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260607,
+        "open_price": 2980.0,
+        "high_price": 2980.0,
+        "low_price": 2980.0,
+        "close_price": 2980.0,
+        "volume": 10139515.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260606,
+        "open_price": 2937.0,
+        "high_price": 2937.0,
+        "low_price": 2768.0,
+        "close_price": 2894.0,
+        "volume": 35692858.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260603,
+        "open_price": 2855.0,
+        "high_price": 2855.0,
+        "low_price": 2775.0,
+        "close_price": 2853.0,
+        "volume": 92664988.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260602,
+        "open_price": 2772.0,
+        "high_price": 2772.0,
+        "low_price": 2772.0,
+        "close_price": 2772.0,
+        "volume": 29195149.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260601,
+        "open_price": 2692.0,
+        "high_price": 2692.0,
+        "low_price": 2692.0,
+        "close_price": 2692.0,
+        "volume": 18587149.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260531,
+        "open_price": 2614.0,
+        "high_price": 2614.0,
+        "low_price": 2614.0,
+        "close_price": 2614.0,
+        "volume": 3432275.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260530,
+        "open_price": 2538.0,
+        "high_price": 2538.0,
+        "low_price": 2538.0,
+        "close_price": 2538.0,
+        "volume": 9950250.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260526,
+        "open_price": 2465.0,
+        "high_price": 2465.0,
+        "low_price": 2465.0,
+        "close_price": 2465.0,
+        "volume": 3191892.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260525,
+        "open_price": 2394.0,
+        "high_price": 2394.0,
+        "low_price": 2394.0,
+        "close_price": 2394.0,
+        "volume": 13723538.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260524,
+        "open_price": 2325.0,
+        "high_price": 2325.0,
+        "low_price": 2325.0,
+        "close_price": 2325.0,
+        "volume": 1095237.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260523,
+        "open_price": 2258.0,
+        "high_price": 2258.0,
+        "low_price": 2258.0,
+        "close_price": 2258.0,
+        "volume": 4427788.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260520,
+        "open_price": 2193.0,
+        "high_price": 2193.0,
+        "low_price": 2193.0,
+        "close_price": 2193.0,
+        "volume": 180323.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260519,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2130.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2731.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260225,
+        "open_price": 2787.0,
+        "high_price": 2787.0,
+        "low_price": 2724.0,
+        "close_price": 2731.0,
+        "volume": 280051.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260224,
+        "open_price": 2728.0,
+        "high_price": 2750.0,
+        "low_price": 2687.0,
+        "close_price": 2709.0,
+        "volume": 4792454.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260223,
+        "open_price": 2712.0,
+        "high_price": 2780.0,
+        "low_price": 2692.0,
+        "close_price": 2709.0,
+        "volume": 862091.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260222,
+        "open_price": 2712.0,
+        "high_price": 2712.0,
+        "low_price": 2712.0,
+        "close_price": 2712.0,
+        "volume": 7651023.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260221,
+        "open_price": 2795.0,
+        "high_price": 2798.0,
+        "low_price": 2795.0,
+        "close_price": 2795.0,
+        "volume": 24407210.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260218,
+        "open_price": 2900.0,
+        "high_price": 2911.0,
+        "low_price": 2863.0,
+        "close_price": 2881.0,
+        "volume": 1887451.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260217,
+        "open_price": 2880.0,
+        "high_price": 2880.0,
+        "low_price": 2835.0,
+        "close_price": 2863.0,
+        "volume": 687216.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260216,
+        "open_price": 2810.0,
+        "high_price": 2810.0,
+        "low_price": 2782.0,
+        "close_price": 2798.0,
+        "volume": 3199485.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260215,
+        "open_price": 2827.0,
+        "high_price": 2827.0,
+        "low_price": 2799.0,
+        "close_price": 2805.0,
+        "volume": 8465587.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260214,
+        "open_price": 2859.0,
+        "high_price": 2899.0,
+        "low_price": 2849.0,
+        "close_price": 2862.0,
+        "volume": 2028489.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260210,
+        "open_price": 2803.0,
+        "high_price": 2864.0,
+        "low_price": 2797.0,
+        "close_price": 2836.0,
+        "volume": 1849456.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260209,
+        "open_price": 2814.0,
+        "high_price": 2814.0,
+        "low_price": 2785.0,
+        "close_price": 2790.0,
+        "volume": 4191709.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260208,
+        "open_price": 2873.0,
+        "high_price": 2873.0,
+        "low_price": 2767.0,
+        "close_price": 2800.0,
+        "volume": 6679928.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260207,
+        "open_price": 2753.0,
+        "high_price": 2792.0,
+        "low_price": 2738.0,
+        "close_price": 2790.0,
+        "volume": 4607118.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260203,
+        "open_price": 2835.0,
+        "high_price": 2835.0,
+        "low_price": 2693.0,
+        "close_price": 2711.0,
+        "volume": 4094494.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260202,
+        "open_price": 2700.0,
+        "high_price": 2775.0,
+        "low_price": 2700.0,
+        "close_price": 2774.0,
+        "volume": 2104848.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260201,
+        "open_price": 2692.0,
+        "high_price": 2796.0,
+        "low_price": 2673.0,
+        "close_price": 2695.0,
+        "volume": 6150846.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260131,
+        "open_price": 2820.0,
+        "high_price": 2820.0,
+        "low_price": 2743.0,
+        "close_price": 2755.0,
+        "volume": 10897029.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260128,
+        "open_price": 2821.0,
+        "high_price": 2988.0,
+        "low_price": 2821.0,
+        "close_price": 2827.0,
+        "volume": 13957366.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260127,
+        "open_price": 2908.0,
+        "high_price": 2910.0,
+        "low_price": 2908.0,
+        "close_price": 2908.0,
+        "volume": 10365756.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260126,
+        "open_price": 2997.0,
+        "high_price": 2997.0,
+        "low_price": 2997.0,
+        "close_price": 2997.0,
+        "volume": 5309773.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260125,
+        "open_price": 3091.0,
+        "high_price": 3159.0,
+        "low_price": 3089.0,
+        "close_price": 3089.0,
+        "volume": 14979120.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260124,
+        "open_price": 3300.0,
+        "high_price": 3300.0,
+        "low_price": 3181.0,
+        "close_price": 3184.0,
+        "volume": 12816851.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260121,
+        "open_price": 3315.0,
+        "high_price": 3350.0,
+        "low_price": 3229.0,
+        "close_price": 3279.0,
+        "volume": 11206075.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260120,
+        "open_price": 3349.0,
+        "high_price": 3349.0,
+        "low_price": 3215.0,
+        "close_price": 3263.0,
+        "volume": 11436099.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260119,
+        "open_price": 3380.0,
+        "high_price": 3380.0,
+        "low_price": 3217.0,
+        "close_price": 3261.0,
+        "volume": 19953031.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260118,
+        "open_price": 3325.0,
+        "high_price": 3327.0,
+        "low_price": 3265.0,
+        "close_price": 3313.0,
+        "volume": 5326702.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260114,
+        "open_price": 3258.0,
+        "high_price": 3277.0,
+        "low_price": 3201.0,
+        "close_price": 3231.0,
+        "volume": 29727533.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260113,
+        "open_price": 3399.0,
+        "high_price": 3399.0,
+        "low_price": 3277.0,
+        "close_price": 3300.0,
+        "volume": 13334112.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260112,
+        "open_price": 3350.0,
+        "high_price": 3381.0,
+        "low_price": 3296.0,
+        "close_price": 3378.0,
+        "volume": 18812612.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260111,
+        "open_price": 3264.0,
+        "high_price": 3353.0,
+        "low_price": 3264.0,
+        "close_price": 3283.0,
+        "volume": 12045287.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260110,
+        "open_price": 3353.0,
+        "high_price": 3450.0,
+        "low_price": 3353.0,
+        "close_price": 3364.0,
+        "volume": 12662579.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260107,
+        "open_price": 3497.0,
+        "high_price": 3497.0,
+        "low_price": 3310.0,
+        "close_price": 3456.0,
+        "volume": 25562387.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260106,
+        "open_price": 3396.0,
+        "high_price": 3396.0,
+        "low_price": 3396.0,
+        "close_price": 3396.0,
+        "volume": 32668281.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260105,
+        "open_price": 3298.0,
+        "high_price": 3298.0,
+        "low_price": 3298.0,
+        "close_price": 3298.0,
+        "volume": 7177961.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20260104,
+        "open_price": 3347.0,
+        "high_price": 3347.0,
+        "low_price": 3197.0,
+        "close_price": 3202.0,
+        "volume": 12818583.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251231,
+        "open_price": 3169.0,
+        "high_price": 3365.0,
+        "low_price": 3169.0,
+        "close_price": 3295.0,
+        "volume": 18826534.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251230,
+        "open_price": 3338.0,
+        "high_price": 3338.0,
+        "low_price": 3254.0,
+        "close_price": 3267.0,
+        "volume": 11620651.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251229,
+        "open_price": 3477.0,
+        "high_price": 3540.0,
+        "low_price": 3337.0,
+        "close_price": 3354.0,
+        "volume": 39006370.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251228,
+        "open_price": 3494.0,
+        "high_price": 3494.0,
+        "low_price": 3398.0,
+        "close_price": 3440.0,
+        "volume": 18660797.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251227,
+        "open_price": 3397.0,
+        "high_price": 3397.0,
+        "low_price": 3360.0,
+        "close_price": 3393.0,
+        "volume": 41458066.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251224,
+        "open_price": 3299.0,
+        "high_price": 3299.0,
+        "low_price": 3299.0,
+        "close_price": 3299.0,
+        "volume": 11927374.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251223,
+        "open_price": 3241.0,
+        "high_price": 3244.0,
+        "low_price": 3160.0,
+        "close_price": 3203.0,
+        "volume": 13294447.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251222,
+        "open_price": 3110.0,
+        "high_price": 3152.0,
+        "low_price": 3108.0,
+        "close_price": 3150.0,
+        "volume": 23114014.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251221,
+        "open_price": 3120.0,
+        "high_price": 3137.0,
+        "low_price": 3013.0,
+        "close_price": 3061.0,
+        "volume": 31986355.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251220,
+        "open_price": 3050.0,
+        "high_price": 3051.0,
+        "low_price": 3020.0,
+        "close_price": 3050.0,
+        "volume": 25293578.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251217,
+        "open_price": 2963.0,
+        "high_price": 2963.0,
+        "low_price": 2940.0,
+        "close_price": 2963.0,
+        "volume": 36700588.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251216,
+        "open_price": 2885.0,
+        "high_price": 2885.0,
+        "low_price": 2809.0,
+        "close_price": 2877.0,
+        "volume": 59593299.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251215,
+        "open_price": 2801.0,
+        "high_price": 2801.0,
+        "low_price": 2801.0,
+        "close_price": 2801.0,
+        "volume": 6463983.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251214,
+        "open_price": 2647.0,
+        "high_price": 2724.0,
+        "low_price": 2647.0,
+        "close_price": 2720.0,
+        "volume": 15772973.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251213,
+        "open_price": 2625.0,
+        "high_price": 2669.0,
+        "low_price": 2619.0,
+        "close_price": 2645.0,
+        "volume": 21381658.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251210,
+        "open_price": 2592.0,
+        "high_price": 2592.0,
+        "low_price": 2573.0,
+        "close_price": 2592.0,
+        "volume": 22492560.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251209,
+        "open_price": 2475.0,
+        "high_price": 2536.0,
+        "low_price": 2466.0,
+        "close_price": 2517.0,
+        "volume": 16596366.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251208,
+        "open_price": 2454.0,
+        "high_price": 2497.0,
+        "low_price": 2445.0,
+        "close_price": 2463.0,
+        "volume": 7305996.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251207,
+        "open_price": 2516.0,
+        "high_price": 2516.0,
+        "low_price": 2410.0,
+        "close_price": 2440.0,
+        "volume": 14036067.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251206,
+        "open_price": 2480.0,
+        "high_price": 2500.0,
+        "low_price": 2475.0,
+        "close_price": 2484.0,
+        "volume": 12492047.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251203,
+        "open_price": 2445.0,
+        "high_price": 2470.0,
+        "low_price": 2423.0,
+        "close_price": 2457.0,
+        "volume": 17505245.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251202,
+        "open_price": 2432.0,
+        "high_price": 2433.0,
+        "low_price": 2390.0,
+        "close_price": 2414.0,
+        "volume": 9045778.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251201,
+        "open_price": 2474.0,
+        "high_price": 2474.0,
+        "low_price": 2376.0,
+        "close_price": 2411.0,
+        "volume": 4293491.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251130,
+        "open_price": 2445.0,
+        "high_price": 2469.0,
+        "low_price": 2400.0,
+        "close_price": 2421.0,
+        "volume": 10809522.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251129,
+        "open_price": 2486.0,
+        "high_price": 2486.0,
+        "low_price": 2417.0,
+        "close_price": 2446.0,
+        "volume": 10494341.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251126,
+        "open_price": 2525.0,
+        "high_price": 2525.0,
+        "low_price": 2434.0,
+        "close_price": 2467.0,
+        "volume": 15330253.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251125,
+        "open_price": 2555.0,
+        "high_price": 2560.0,
+        "low_price": 2466.0,
+        "close_price": 2496.0,
+        "volume": 6551953.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251123,
+        "open_price": 2475.0,
+        "high_price": 2525.0,
+        "low_price": 2470.0,
+        "close_price": 2488.0,
+        "volume": 8358705.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251122,
+        "open_price": 2460.0,
+        "high_price": 2476.0,
+        "low_price": 2404.0,
+        "close_price": 2454.0,
+        "volume": 13453532.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251119,
+        "open_price": 2388.0,
+        "high_price": 2420.0,
+        "low_price": 2351.0,
+        "close_price": 2404.0,
+        "volume": 17277742.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251118,
+        "open_price": 2359.0,
+        "high_price": 2401.0,
+        "low_price": 2270.0,
+        "close_price": 2350.0,
+        "volume": 11650924.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251117,
+        "open_price": 2390.0,
+        "high_price": 2390.0,
+        "low_price": 2291.0,
+        "close_price": 2340.0,
+        "volume": 10337389.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251116,
+        "open_price": 2319.0,
+        "high_price": 2332.0,
+        "low_price": 2290.0,
+        "close_price": 2332.0,
+        "volume": 22168444.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251115,
+        "open_price": 2259.0,
+        "high_price": 2280.0,
+        "low_price": 2227.0,
+        "close_price": 2265.0,
+        "volume": 9606985.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251112,
+        "open_price": 2229.0,
+        "high_price": 2259.0,
+        "low_price": 2176.0,
+        "close_price": 2214.0,
+        "volume": 10915442.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251111,
+        "open_price": 2224.0,
+        "high_price": 2252.0,
+        "low_price": 2161.0,
+        "close_price": 2196.0,
+        "volume": 15258789.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251110,
+        "open_price": 2203.0,
+        "high_price": 2307.0,
+        "low_price": 2199.0,
+        "close_price": 2218.0,
+        "volume": 29469272.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251109,
+        "open_price": 2363.0,
+        "high_price": 2363.0,
+        "low_price": 2266.0,
+        "close_price": 2266.0,
+        "volume": 22285796.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251108,
+        "open_price": 2396.0,
+        "high_price": 2399.0,
+        "low_price": 2300.0,
+        "close_price": 2336.0,
+        "volume": 11809884.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251105,
+        "open_price": 2396.0,
+        "high_price": 2403.0,
+        "low_price": 2333.0,
+        "close_price": 2338.0,
+        "volume": 30689580.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251104,
+        "open_price": 2440.0,
+        "high_price": 2480.0,
+        "low_price": 2395.0,
+        "close_price": 2405.0,
+        "volume": 15494388.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251103,
+        "open_price": 2496.0,
+        "high_price": 2520.0,
+        "low_price": 2435.0,
+        "close_price": 2469.0,
+        "volume": 15822738.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251102,
+        "open_price": 2500.0,
+        "high_price": 2570.0,
+        "low_price": 2480.0,
+        "close_price": 2509.0,
+        "volume": 6822386.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251101,
+        "open_price": 2610.0,
+        "high_price": 2617.0,
+        "low_price": 2485.0,
+        "close_price": 2549.0,
+        "volume": 9428305.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251029,
+        "open_price": 2573.0,
+        "high_price": 2573.0,
+        "low_price": 2524.0,
+        "close_price": 2551.0,
+        "volume": 22487953.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251028,
+        "open_price": 2421.0,
+        "high_price": 2509.0,
+        "low_price": 2400.0,
+        "close_price": 2499.0,
+        "volume": 25998045.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251027,
+        "open_price": 2488.0,
+        "high_price": 2522.0,
+        "low_price": 2419.0,
+        "close_price": 2436.0,
+        "volume": 12637052.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251026,
+        "open_price": 2524.0,
+        "high_price": 2524.0,
+        "low_price": 2476.0,
+        "close_price": 2493.0,
+        "volume": 11396419.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251025,
+        "open_price": 2500.0,
+        "high_price": 2590.0,
+        "low_price": 2475.0,
+        "close_price": 2511.0,
+        "volume": 13158358.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251022,
+        "open_price": 2561.0,
+        "high_price": 2590.0,
+        "low_price": 2528.0,
+        "close_price": 2547.0,
+        "volume": 8276057.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251021,
+        "open_price": 2524.0,
+        "high_price": 2579.0,
+        "low_price": 2514.0,
+        "close_price": 2534.0,
+        "volume": 10681589.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251020,
+        "open_price": 2524.0,
+        "high_price": 2613.0,
+        "low_price": 2523.0,
+        "close_price": 2560.0,
+        "volume": 7450417.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251019,
+        "open_price": 2592.0,
+        "high_price": 2637.0,
+        "low_price": 2542.0,
+        "close_price": 2579.0,
+        "volume": 13423834.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251018,
+        "open_price": 2539.0,
+        "high_price": 2581.0,
+        "low_price": 2537.0,
+        "close_price": 2562.0,
+        "volume": 29353526.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251015,
+        "open_price": 2515.0,
+        "high_price": 2544.0,
+        "low_price": 2494.0,
+        "close_price": 2506.0,
+        "volume": 13371914.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251014,
+        "open_price": 2501.0,
+        "high_price": 2537.0,
+        "low_price": 2480.0,
+        "close_price": 2499.0,
+        "volume": 10058839.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251013,
+        "open_price": 2510.0,
+        "high_price": 2550.0,
+        "low_price": 2480.0,
+        "close_price": 2506.0,
+        "volume": 11141350.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251012,
+        "open_price": 2471.0,
+        "high_price": 2517.0,
+        "low_price": 2455.0,
+        "close_price": 2499.0,
+        "volume": 25973298.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251011,
+        "open_price": 2430.0,
+        "high_price": 2475.0,
+        "low_price": 2420.0,
+        "close_price": 2444.0,
+        "volume": 8769759.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251008,
+        "open_price": 2487.0,
+        "high_price": 2487.0,
+        "low_price": 2380.0,
+        "close_price": 2409.0,
+        "volume": 19971128.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251007,
+        "open_price": 2415.0,
+        "high_price": 2440.0,
+        "low_price": 2402.0,
+        "close_price": 2417.0,
+        "volume": 10728940.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251006,
+        "open_price": 2436.0,
+        "high_price": 2485.0,
+        "low_price": 2363.0,
+        "close_price": 2403.0,
+        "volume": 14216103.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251005,
+        "open_price": 2452.0,
+        "high_price": 2476.0,
+        "low_price": 2395.0,
+        "close_price": 2436.0,
+        "volume": 18230368.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251004,
+        "open_price": 2350.0,
+        "high_price": 2413.0,
+        "low_price": 2350.0,
+        "close_price": 2412.0,
+        "volume": 29232775.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20251001,
+        "open_price": 2371.0,
+        "high_price": 2380.0,
+        "low_price": 2318.0,
+        "close_price": 2343.0,
+        "volume": 11183987.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250930,
+        "open_price": 2450.0,
+        "high_price": 2450.0,
+        "low_price": 2349.0,
+        "close_price": 2372.0,
+        "volume": 12568422.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250929,
+        "open_price": 2382.0,
+        "high_price": 2382.0,
+        "low_price": 2325.0,
+        "close_price": 2381.0,
+        "volume": 22550644.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250928,
+        "open_price": 2313.0,
+        "high_price": 2313.0,
+        "low_price": 2311.0,
+        "close_price": 2313.0,
+        "volume": 16023295.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250927,
+        "open_price": 2200.0,
+        "high_price": 2250.0,
+        "low_price": 2200.0,
+        "close_price": 2246.0,
+        "volume": 6596341.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250924,
+        "open_price": 2121.0,
+        "high_price": 2243.0,
+        "low_price": 2113.0,
+        "close_price": 2185.0,
+        "volume": 6278933.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250923,
+        "open_price": 2223.0,
+        "high_price": 2229.0,
+        "low_price": 2141.0,
+        "close_price": 2178.0,
+        "volume": 6007343.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250922,
+        "open_price": 2198.0,
+        "high_price": 2207.0,
+        "low_price": 2181.0,
+        "close_price": 2167.0,
+        "volume": 2879447.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250921,
+        "open_price": 2143.0,
+        "high_price": 2197.0,
+        "low_price": 2143.0,
+        "close_price": 2143.0,
+        "volume": 17325231.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250920,
+        "open_price": 2192.0,
+        "high_price": 2192.0,
+        "low_price": 2192.0,
+        "close_price": 2209.0,
+        "volume": 4920335.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250917,
+        "open_price": 2284.0,
+        "high_price": 2284.0,
+        "low_price": 2234.0,
+        "close_price": 2259.0,
+        "volume": 4844288.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250916,
+        "open_price": 2334.0,
+        "high_price": 2334.0,
+        "low_price": 2264.0,
+        "close_price": 2284.0,
+        "volume": 11086187.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250915,
+        "open_price": 2370.0,
+        "high_price": 2389.0,
+        "low_price": 2299.0,
+        "close_price": 2334.0,
+        "volume": 9408898.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250914,
+        "open_price": 2376.0,
+        "high_price": 2376.0,
+        "low_price": 2330.0,
+        "close_price": 2345.0,
+        "volume": 8996535.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250913,
+        "open_price": 2337.0,
+        "high_price": 2338.0,
+        "low_price": 2313.0,
+        "close_price": 2333.0,
+        "volume": 2026812.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250909,
+        "open_price": 2393.0,
+        "high_price": 2395.0,
+        "low_price": 2318.0,
+        "close_price": 2337.0,
+        "volume": 19365454.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250908,
+        "open_price": 2379.0,
+        "high_price": 2381.0,
+        "low_price": 2349.0,
+        "close_price": 2380.0,
+        "volume": 7520254.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250907,
+        "open_price": 2302.0,
+        "high_price": 2370.0,
+        "low_price": 2298.0,
+        "close_price": 2312.0,
+        "volume": 16066478.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250906,
+        "open_price": 2390.0,
+        "high_price": 2390.0,
+        "low_price": 2254.0,
+        "close_price": 2303.0,
+        "volume": 3434142.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250903,
+        "open_price": 2323.0,
+        "high_price": 2324.0,
+        "low_price": 2310.0,
+        "close_price": 2323.0,
+        "volume": 21740293.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250902,
+        "open_price": 2257.0,
+        "high_price": 2257.0,
+        "low_price": 2248.0,
+        "close_price": 2257.0,
+        "volume": 7928845.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250831,
+        "open_price": 2130.0,
+        "high_price": 2192.0,
+        "low_price": 2130.0,
+        "close_price": 2192.0,
+        "volume": 9409961.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250830,
+        "open_price": 2123.0,
+        "high_price": 2222.0,
+        "low_price": 2123.0,
+        "close_price": 2129.0,
+        "volume": 21451269.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250827,
+        "open_price": 2196.0,
+        "high_price": 2215.0,
+        "low_price": 2140.0,
+        "close_price": 2188.0,
+        "volume": 2018231.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250826,
+        "open_price": 2200.0,
+        "high_price": 2210.0,
+        "low_price": 2180.0,
+        "close_price": 2193.0,
+        "volume": 4473289.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250825,
+        "open_price": 2231.0,
+        "high_price": 2231.0,
+        "low_price": 2165.0,
+        "close_price": 2195.0,
+        "volume": 9107504.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250823,
+        "open_price": 2234.0,
+        "high_price": 2244.0,
+        "low_price": 2220.0,
+        "close_price": 2221.0,
+        "volume": 3540760.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250820,
+        "open_price": 2224.0,
+        "high_price": 2240.0,
+        "low_price": 2200.0,
+        "close_price": 2212.0,
+        "volume": 5087000.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250819,
+        "open_price": 2192.0,
+        "high_price": 2230.0,
+        "low_price": 2192.0,
+        "close_price": 2202.0,
+        "volume": 6212103.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250818,
+        "open_price": 2257.0,
+        "high_price": 2257.0,
+        "low_price": 2191.0,
+        "close_price": 2195.0,
+        "volume": 1237765.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250817,
+        "open_price": 2198.0,
+        "high_price": 2198.0,
+        "low_price": 2198.0,
+        "close_price": 2192.0,
+        "volume": 6078867.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250816,
+        "open_price": 2172.0,
+        "high_price": 2209.0,
+        "low_price": 2106.0,
+        "close_price": 2134.0,
+        "volume": 13774883.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250813,
+        "open_price": 2167.0,
+        "high_price": 2170.0,
+        "low_price": 2167.0,
+        "close_price": 2171.0,
+        "volume": 6009189.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250812,
+        "open_price": 2187.0,
+        "high_price": 2234.0,
+        "low_price": 2187.0,
+        "close_price": 2234.0,
+        "volume": 1872226.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250811,
+        "open_price": 2220.0,
+        "high_price": 2265.0,
+        "low_price": 2210.0,
+        "close_price": 2254.0,
+        "volume": 2448136.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250810,
+        "open_price": 2276.0,
+        "high_price": 2302.0,
+        "low_price": 2265.0,
+        "close_price": 2268.0,
+        "volume": 29255291.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250809,
+        "open_price": 2339.0,
+        "high_price": 2408.0,
+        "low_price": 2303.0,
+        "close_price": 2335.0,
+        "volume": 2315652.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250806,
+        "open_price": 2427.0,
+        "high_price": 2451.0,
+        "low_price": 2331.0,
+        "close_price": 2338.0,
+        "volume": 13253735.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250805,
+        "open_price": 2415.0,
+        "high_price": 2430.0,
+        "low_price": 2377.0,
+        "close_price": 2403.0,
+        "volume": 4334788.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250804,
+        "open_price": 2420.0,
+        "high_price": 2494.0,
+        "low_price": 2392.0,
+        "close_price": 2412.0,
+        "volume": 8884300.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250803,
+        "open_price": 2393.0,
+        "high_price": 2510.0,
+        "low_price": 2393.0,
+        "close_price": 2442.0,
+        "volume": 14064683.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250802,
+        "open_price": 2462.0,
+        "high_price": 2510.0,
+        "low_price": 2462.0,
+        "close_price": 2466.0,
+        "volume": 28732662.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250730,
+        "open_price": 2538.0,
+        "high_price": 2538.0,
+        "low_price": 2538.0,
+        "close_price": 2538.0,
+        "volume": 7815978.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250729,
+        "open_price": 2539.0,
+        "high_price": 2539.0,
+        "low_price": 2539.0,
+        "close_price": 2616.0,
+        "volume": 79722.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250728,
+        "open_price": 2546.0,
+        "high_price": 2546.0,
+        "low_price": 2546.0,
+        "close_price": 2617.0,
+        "volume": 478410.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250727,
+        "open_price": 2605.0,
+        "high_price": 2685.0,
+        "low_price": 2605.0,
+        "close_price": 2624.0,
+        "volume": 9807035.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250726,
+        "open_price": 2678.0,
+        "high_price": 2808.0,
+        "low_price": 2678.0,
+        "close_price": 2685.0,
+        "volume": 10679926.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250723,
+        "open_price": 2768.0,
+        "high_price": 2768.0,
+        "low_price": 2685.0,
+        "close_price": 2760.0,
+        "volume": 1094441.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250722,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2777.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250721,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3277.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250720,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3277.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250719,
+        "open_price": 3297.0,
+        "high_price": 3330.0,
+        "low_price": 3252.0,
+        "close_price": 3277.0,
+        "volume": 8359461.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250716,
+        "open_price": 3179.0,
+        "high_price": 3244.0,
+        "low_price": 3179.0,
+        "close_price": 3238.0,
+        "volume": 12242990.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250715,
+        "open_price": 3204.0,
+        "high_price": 3204.0,
+        "low_price": 3126.0,
+        "close_price": 3150.0,
+        "volume": 6312891.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250714,
+        "open_price": 3124.0,
+        "high_price": 3134.0,
+        "low_price": 3095.0,
+        "close_price": 3111.0,
+        "volume": 9893374.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250713,
+        "open_price": 3102.0,
+        "high_price": 3111.0,
+        "low_price": 3039.0,
+        "close_price": 3082.0,
+        "volume": 9121492.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250712,
+        "open_price": 3014.0,
+        "high_price": 3101.0,
+        "low_price": 3014.0,
+        "close_price": 3097.0,
+        "volume": 10135972.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250709,
+        "open_price": 3015.0,
+        "high_price": 3049.0,
+        "low_price": 3001.0,
+        "close_price": 3011.0,
+        "volume": 7397879.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250708,
+        "open_price": 3125.0,
+        "high_price": 3125.0,
+        "low_price": 2953.0,
+        "close_price": 3093.0,
+        "volume": 29060745.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250707,
+        "open_price": 3034.0,
+        "high_price": 3034.0,
+        "low_price": 3034.0,
+        "close_price": 3034.0,
+        "volume": 16926683.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250702,
+        "open_price": 2935.0,
+        "high_price": 3050.0,
+        "low_price": 2935.0,
+        "close_price": 2946.0,
+        "volume": 71337203.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250701,
+        "open_price": 3025.0,
+        "high_price": 3025.0,
+        "low_price": 3025.0,
+        "close_price": 3025.0,
+        "volume": 19696792.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250630,
+        "open_price": 3104.0,
+        "high_price": 3104.0,
+        "low_price": 3104.0,
+        "close_price": 3118.0,
+        "volume": 3763521.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250629,
+        "open_price": 3199.0,
+        "high_price": 3199.0,
+        "low_price": 3199.0,
+        "close_price": 3199.0,
+        "volume": 6277858.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250628,
+        "open_price": 3297.0,
+        "high_price": 3297.0,
+        "low_price": 3297.0,
+        "close_price": 3297.0,
+        "volume": 5005958.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3398.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3398.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3398.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3398.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3398.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3398.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3398.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3398.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250611,
+        "open_price": 3480.0,
+        "high_price": 3480.0,
+        "low_price": 3339.0,
+        "close_price": 3398.0,
+        "volume": 3037971.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250610,
+        "open_price": 3392.0,
+        "high_price": 3479.0,
+        "low_price": 3353.0,
+        "close_price": 3386.0,
+        "volume": 3910538.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250609,
+        "open_price": 3445.0,
+        "high_price": 3485.0,
+        "low_price": 3363.0,
+        "close_price": 3401.0,
+        "volume": 6863575.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250608,
+        "open_price": 3450.0,
+        "high_price": 3544.0,
+        "low_price": 3408.0,
+        "close_price": 3445.0,
+        "volume": 18645373.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250607,
+        "open_price": 3521.0,
+        "high_price": 3521.0,
+        "low_price": 3434.0,
+        "close_price": 3442.0,
+        "volume": 14672526.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250603,
+        "open_price": 3595.0,
+        "high_price": 3595.0,
+        "low_price": 3515.0,
+        "close_price": 3540.0,
+        "volume": 3888346.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250602,
+        "open_price": 3559.0,
+        "high_price": 3590.0,
+        "low_price": 3470.0,
+        "close_price": 3552.0,
+        "volume": 10803243.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250601,
+        "open_price": 3558.0,
+        "high_price": 3588.0,
+        "low_price": 3480.0,
+        "close_price": 3513.0,
+        "volume": 7299525.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250531,
+        "open_price": 3560.0,
+        "high_price": 3597.0,
+        "low_price": 3518.0,
+        "close_price": 3552.0,
+        "volume": 8927313.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250528,
+        "open_price": 3649.0,
+        "high_price": 3650.0,
+        "low_price": 3518.0,
+        "close_price": 3556.0,
+        "volume": 19325414.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250527,
+        "open_price": 3680.0,
+        "high_price": 3689.0,
+        "low_price": 3582.0,
+        "close_price": 3626.0,
+        "volume": 18938248.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250526,
+        "open_price": 3550.0,
+        "high_price": 3609.0,
+        "low_price": 3550.0,
+        "close_price": 3583.0,
+        "volume": 12242864.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250525,
+        "open_price": 3708.0,
+        "high_price": 3708.0,
+        "low_price": 3564.0,
+        "close_price": 3582.0,
+        "volume": 20102482.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250524,
+        "open_price": 3707.0,
+        "high_price": 3707.0,
+        "low_price": 3650.0,
+        "close_price": 3674.0,
+        "volume": 13047878.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250521,
+        "open_price": 3620.0,
+        "high_price": 3694.0,
+        "low_price": 3596.0,
+        "close_price": 3653.0,
+        "volume": 6829628.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250520,
+        "open_price": 3734.0,
+        "high_price": 3780.0,
+        "low_price": 3669.0,
+        "close_price": 3706.0,
+        "volume": 31168916.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250519,
+        "open_price": 3859.0,
+        "high_price": 3859.0,
+        "low_price": 3741.0,
+        "close_price": 3782.0,
+        "volume": 21607279.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250518,
+        "open_price": 3850.0,
+        "high_price": 3859.0,
+        "low_price": 3780.0,
+        "close_price": 3807.0,
+        "volume": 4543388.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250517,
+        "open_price": 3817.0,
+        "high_price": 3834.0,
+        "low_price": 3756.0,
+        "close_price": 3812.0,
+        "volume": 17415245.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250514,
+        "open_price": 3827.0,
+        "high_price": 3878.0,
+        "low_price": 3791.0,
+        "close_price": 3816.0,
+        "volume": 11589471.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250513,
+        "open_price": 3959.0,
+        "high_price": 3959.0,
+        "low_price": 3793.0,
+        "close_price": 3824.0,
+        "volume": 16515406.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250512,
+        "open_price": 3970.0,
+        "high_price": 3970.0,
+        "low_price": 3868.0,
+        "close_price": 3902.0,
+        "volume": 18846936.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250511,
+        "open_price": 3862.0,
+        "high_price": 3946.0,
+        "low_price": 3859.0,
+        "close_price": 3868.0,
+        "volume": 18019554.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250510,
+        "open_price": 4057.0,
+        "high_price": 4090.0,
+        "low_price": 3970.0,
+        "close_price": 3978.0,
+        "volume": 10617998.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250507,
+        "open_price": 4059.0,
+        "high_price": 4139.0,
+        "low_price": 4051.0,
+        "close_price": 4092.0,
+        "volume": 11745181.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250506,
+        "open_price": 4020.0,
+        "high_price": 4058.0,
+        "low_price": 3950.0,
+        "close_price": 4019.0,
+        "volume": 18387691.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250505,
+        "open_price": 3897.0,
+        "high_price": 3945.0,
+        "low_price": 3880.0,
+        "close_price": 3940.0,
+        "volume": 35851626.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250504,
+        "open_price": 3896.0,
+        "high_price": 3896.0,
+        "low_price": 3775.0,
+        "close_price": 3831.0,
+        "volume": 12847805.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250503,
+        "open_price": 3802.0,
+        "high_price": 3897.0,
+        "low_price": 3802.0,
+        "close_price": 3803.0,
+        "volume": 19832194.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250430,
+        "open_price": 3987.0,
+        "high_price": 3991.0,
+        "low_price": 3881.0,
+        "close_price": 3919.0,
+        "volume": 24791462.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250429,
+        "open_price": 3898.0,
+        "high_price": 3950.0,
+        "low_price": 3849.0,
+        "close_price": 3875.0,
+        "volume": 23497947.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250428,
+        "open_price": 3890.0,
+        "high_price": 4040.0,
+        "low_price": 3825.0,
+        "close_price": 3899.0,
+        "volume": 6687630.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250427,
+        "open_price": 4000.0,
+        "high_price": 4000.0,
+        "low_price": 3930.0,
+        "close_price": 3943.0,
+        "volume": 10323417.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250426,
+        "open_price": 4000.0,
+        "high_price": 4077.0,
+        "low_price": 3914.0,
+        "close_price": 4051.0,
+        "volume": 24178258.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250423,
+        "open_price": 3954.0,
+        "high_price": 4029.0,
+        "low_price": 3915.0,
+        "close_price": 3959.0,
+        "volume": 11069036.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250422,
+        "open_price": 3991.0,
+        "high_price": 4002.0,
+        "low_price": 3922.0,
+        "close_price": 3954.0,
+        "volume": 8704052.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250421,
+        "open_price": 4002.0,
+        "high_price": 4059.0,
+        "low_price": 3847.0,
+        "close_price": 4003.0,
+        "volume": 25841919.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250420,
+        "open_price": 3940.0,
+        "high_price": 3941.0,
+        "low_price": 3900.0,
+        "close_price": 3941.0,
+        "volume": 27491464.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250419,
+        "open_price": 3716.0,
+        "high_price": 3878.0,
+        "low_price": 3716.0,
+        "close_price": 3827.0,
+        "volume": 15122245.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250416,
+        "open_price": 3742.0,
+        "high_price": 3860.0,
+        "low_price": 3708.0,
+        "close_price": 3767.0,
+        "volume": 7242206.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250415,
+        "open_price": 3824.0,
+        "high_price": 3892.0,
+        "low_price": 3770.0,
+        "close_price": 3780.0,
+        "volume": 12940316.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250414,
+        "open_price": 3968.0,
+        "high_price": 3968.0,
+        "low_price": 3753.0,
+        "close_price": 3886.0,
+        "volume": 18213656.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250413,
+        "open_price": 3825.0,
+        "high_price": 3853.0,
+        "low_price": 3825.0,
+        "close_price": 3853.0,
+        "volume": 17256503.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250412,
+        "open_price": 3763.0,
+        "high_price": 3788.0,
+        "low_price": 3729.0,
+        "close_price": 3741.0,
+        "volume": 2124900.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250409,
+        "open_price": 3822.0,
+        "high_price": 3822.0,
+        "low_price": 3653.0,
+        "close_price": 3721.0,
+        "volume": 3952412.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250408,
+        "open_price": 3753.0,
+        "high_price": 3753.0,
+        "low_price": 3730.0,
+        "close_price": 3753.0,
+        "volume": 8191159.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250407,
+        "open_price": 3654.0,
+        "high_price": 3700.0,
+        "low_price": 3609.0,
+        "close_price": 3644.0,
+        "volume": 5973900.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250406,
+        "open_price": 3750.0,
+        "high_price": 3750.0,
+        "low_price": 3658.0,
+        "close_price": 3691.0,
+        "volume": 7058435.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250405,
+        "open_price": 3820.0,
+        "high_price": 3872.0,
+        "low_price": 3721.0,
+        "close_price": 3767.0,
+        "volume": 5837145.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250330,
+        "open_price": 3771.0,
+        "high_price": 3841.0,
+        "low_price": 3771.0,
+        "close_price": 3811.0,
+        "volume": 9497609.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250329,
+        "open_price": 3701.0,
+        "high_price": 3864.0,
+        "low_price": 3701.0,
+        "close_price": 3760.0,
+        "volume": 7521303.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250326,
+        "open_price": 3841.0,
+        "high_price": 3841.0,
+        "low_price": 3795.0,
+        "close_price": 3810.0,
+        "volume": 4334828.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250325,
+        "open_price": 3826.0,
+        "high_price": 3826.0,
+        "low_price": 3705.0,
+        "close_price": 3730.0,
+        "volume": 754248.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250318,
+        "open_price": 3771.0,
+        "high_price": 3771.0,
+        "low_price": 3714.0,
+        "close_price": 3715.0,
+        "volume": 9780373.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250317,
+        "open_price": 3899.0,
+        "high_price": 3900.0,
+        "low_price": 3795.0,
+        "close_price": 3828.0,
+        "volume": 12040238.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250316,
+        "open_price": 3916.0,
+        "high_price": 3950.0,
+        "low_price": 3823.0,
+        "close_price": 3912.0,
+        "volume": 14050797.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250315,
+        "open_price": 3858.0,
+        "high_price": 3934.0,
+        "low_price": 3857.0,
+        "close_price": 3931.0,
+        "volume": 13656622.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250312,
+        "open_price": 3758.0,
+        "high_price": 3875.0,
+        "low_price": 3758.0,
+        "close_price": 3820.0,
+        "volume": 8873765.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250311,
+        "open_price": 3766.0,
+        "high_price": 3810.0,
+        "low_price": 3761.0,
+        "close_price": 3763.0,
+        "volume": 50005053.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250310,
+        "open_price": 3880.0,
+        "high_price": 4000.0,
+        "low_price": 3777.0,
+        "close_price": 3877.0,
+        "volume": 7242926.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250309,
+        "open_price": 3952.0,
+        "high_price": 3953.0,
+        "low_price": 3882.0,
+        "close_price": 3884.0,
+        "volume": 8582635.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250308,
+        "open_price": 4046.0,
+        "high_price": 4046.0,
+        "low_price": 3987.0,
+        "close_price": 4002.0,
+        "volume": 6410914.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250305,
+        "open_price": 4071.0,
+        "high_price": 4203.0,
+        "low_price": 4041.0,
+        "close_price": 4110.0,
+        "volume": 9584194.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250304,
+        "open_price": 4077.0,
+        "high_price": 4247.0,
+        "low_price": 4077.0,
+        "close_price": 4165.0,
+        "volume": 3219930.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250303,
+        "open_price": 4195.0,
+        "high_price": 4240.0,
+        "low_price": 4195.0,
+        "close_price": 4195.0,
+        "volume": 4202054.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250302,
+        "open_price": 4360.0,
+        "high_price": 4395.0,
+        "low_price": 4256.0,
+        "close_price": 4324.0,
+        "volume": 2683842.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250301,
+        "open_price": 4350.0,
+        "high_price": 4479.0,
+        "low_price": 4302.0,
+        "close_price": 4360.0,
+        "volume": 5091694.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250226,
+        "open_price": 4369.0,
+        "high_price": 4480.0,
+        "low_price": 4311.0,
+        "close_price": 4407.0,
+        "volume": 7149841.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250225,
+        "open_price": 4275.0,
+        "high_price": 4367.0,
+        "low_price": 4275.0,
+        "close_price": 4367.0,
+        "volume": 5098609.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250224,
+        "open_price": 4170.0,
+        "high_price": 4243.0,
+        "low_price": 4140.0,
+        "close_price": 4240.0,
+        "volume": 8050617.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250223,
+        "open_price": 3980.0,
+        "high_price": 4149.0,
+        "low_price": 3980.0,
+        "close_price": 4120.0,
+        "volume": 9739660.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250222,
+        "open_price": 4187.0,
+        "high_price": 4187.0,
+        "low_price": 4048.0,
+        "close_price": 4075.0,
+        "volume": 10116995.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250219,
+        "open_price": 4092.0,
+        "high_price": 4120.0,
+        "low_price": 4068.0,
+        "close_price": 4077.0,
+        "volume": 7879780.0
+    },
+    {
+        "symbol": "فسپا",
+        "trade_date": 20250218,
+        "open_price": 4074.0,
+        "high_price": 4095.0,
+        "low_price": 4066.0,
+        "close_price": 4069.0,
+        "volume": 6086195.0
+    }
+]

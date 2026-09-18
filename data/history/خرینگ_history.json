@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260901,
+        "open_price": 15310.0,
+        "high_price": 15750.0,
+        "low_price": 14860.0,
+        "close_price": 15260.0,
+        "volume": 5883726.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260831,
+        "open_price": 15400.0,
+        "high_price": 15620.0,
+        "low_price": 14820.0,
+        "close_price": 15310.0,
+        "volume": 7338410.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260829,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 15170.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260826,
+        "open_price": 15250.0,
+        "high_price": 15280.0,
+        "low_price": 14950.0,
+        "close_price": 15170.0,
+        "volume": 7918711.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260825,
+        "open_price": 14750.0,
+        "high_price": 14850.0,
+        "low_price": 14730.0,
+        "close_price": 14840.0,
+        "volume": 5648860.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260824,
+        "open_price": 14110.0,
+        "high_price": 14610.0,
+        "low_price": 13790.0,
+        "close_price": 14420.0,
+        "volume": 9609702.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260823,
+        "open_price": 14620.0,
+        "high_price": 14640.0,
+        "low_price": 13800.0,
+        "close_price": 14190.0,
+        "volume": 15388747.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260822,
+        "open_price": 14020.0,
+        "high_price": 14500.0,
+        "low_price": 14010.0,
+        "close_price": 14220.0,
+        "volume": 10923734.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260819,
+        "open_price": 14430.0,
+        "high_price": 14860.0,
+        "low_price": 14020.0,
+        "close_price": 14170.0,
+        "volume": 11285756.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260818,
+        "open_price": 14200.0,
+        "high_price": 14590.0,
+        "low_price": 14100.0,
+        "close_price": 14450.0,
+        "volume": 19361406.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260817,
+        "open_price": 14180.0,
+        "high_price": 14180.0,
+        "low_price": 13930.0,
+        "close_price": 14170.0,
+        "volume": 24258665.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260816,
+        "open_price": 13770.0,
+        "high_price": 13770.0,
+        "low_price": 13770.0,
+        "close_price": 13770.0,
+        "volume": 3554276.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260815,
+        "open_price": 13370.0,
+        "high_price": 13370.0,
+        "low_price": 13370.0,
+        "close_price": 13370.0,
+        "volume": 3602536.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260811,
+        "open_price": 12990.0,
+        "high_price": 12990.0,
+        "low_price": 12970.0,
+        "close_price": 12990.0,
+        "volume": 6313553.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260810,
+        "open_price": 12170.0,
+        "high_price": 12890.0,
+        "low_price": 12170.0,
+        "close_price": 12620.0,
+        "volume": 7051098.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260809,
+        "open_price": 13110.0,
+        "high_price": 13110.0,
+        "low_price": 12350.0,
+        "close_price": 12520.0,
+        "volume": 10981803.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260808,
+        "open_price": 12730.0,
+        "high_price": 12730.0,
+        "low_price": 12730.0,
+        "close_price": 12730.0,
+        "volume": 2061423.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260805,
+        "open_price": 12360.0,
+        "high_price": 12360.0,
+        "low_price": 12360.0,
+        "close_price": 12360.0,
+        "volume": 2377600.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260803,
+        "open_price": 11980.0,
+        "high_price": 12000.0,
+        "low_price": 11960.0,
+        "close_price": 12000.0,
+        "volume": 2763650.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260802,
+        "open_price": 11400.0,
+        "high_price": 11680.0,
+        "low_price": 11400.0,
+        "close_price": 11660.0,
+        "volume": 6856342.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260801,
+        "open_price": 11370.0,
+        "high_price": 11380.0,
+        "low_price": 11050.0,
+        "close_price": 11340.0,
+        "volume": 5477480.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260729,
+        "open_price": 11000.0,
+        "high_price": 11100.0,
+        "low_price": 10490.0,
+        "close_price": 11050.0,
+        "volume": 4017421.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260728,
+        "open_price": 10750.0,
+        "high_price": 10810.0,
+        "low_price": 10490.0,
+        "close_price": 10780.0,
+        "volume": 4197535.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260727,
+        "open_price": 10550.0,
+        "high_price": 10550.0,
+        "low_price": 10260.0,
+        "close_price": 10500.0,
+        "volume": 8485460.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260726,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10250.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260725,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260722,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260721,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260720,
+        "open_price": 10800.0,
+        "high_price": 10830.0,
+        "low_price": 10370.0,
+        "close_price": 10700.0,
+        "volume": 3619095.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260719,
+        "open_price": 10350.0,
+        "high_price": 10970.0,
+        "low_price": 10350.0,
+        "close_price": 10520.0,
+        "volume": 9852650.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260718,
+        "open_price": 10660.0,
+        "high_price": 10660.0,
+        "low_price": 10660.0,
+        "close_price": 10660.0,
+        "volume": 3422787.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260715,
+        "open_price": 10960.0,
+        "high_price": 11270.0,
+        "low_price": 10940.0,
+        "close_price": 10980.0,
+        "volume": 3202691.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260714,
+        "open_price": 11110.0,
+        "high_price": 11400.0,
+        "low_price": 11070.0,
+        "close_price": 11270.0,
+        "volume": 5951701.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260713,
+        "open_price": 10650.0,
+        "high_price": 11090.0,
+        "low_price": 10650.0,
+        "close_price": 11070.0,
+        "volume": 11678136.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260712,
+        "open_price": 10770.0,
+        "high_price": 10990.0,
+        "low_price": 10770.0,
+        "close_price": 10770.0,
+        "volume": 7171972.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260711,
+        "open_price": 11070.0,
+        "high_price": 11390.0,
+        "low_price": 11070.0,
+        "close_price": 11100.0,
+        "volume": 4410334.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260708,
+        "open_price": 11380.0,
+        "high_price": 11700.0,
+        "low_price": 11380.0,
+        "close_price": 11410.0,
+        "volume": 5688881.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260707,
+        "open_price": 11730.0,
+        "high_price": 11740.0,
+        "low_price": 11600.0,
+        "close_price": 11730.0,
+        "volume": 4497352.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260701,
+        "open_price": 11410.0,
+        "high_price": 11410.0,
+        "low_price": 11120.0,
+        "close_price": 11400.0,
+        "volume": 7608310.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260630,
+        "open_price": 10900.0,
+        "high_price": 11330.0,
+        "low_price": 10740.0,
+        "close_price": 11080.0,
+        "volume": 8717509.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260629,
+        "open_price": 10990.0,
+        "high_price": 11310.0,
+        "low_price": 10990.0,
+        "close_price": 11000.0,
+        "volume": 8503468.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260628,
+        "open_price": 11320.0,
+        "high_price": 11330.0,
+        "low_price": 11320.0,
+        "close_price": 11320.0,
+        "volume": 835903.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260627,
+        "open_price": 11970.0,
+        "high_price": 11970.0,
+        "low_price": 11560.0,
+        "close_price": 11670.0,
+        "volume": 5140594.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260623,
+        "open_price": 11970.0,
+        "high_price": 11970.0,
+        "low_price": 11600.0,
+        "close_price": 11910.0,
+        "volume": 11091580.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260622,
+        "open_price": 11630.0,
+        "high_price": 11720.0,
+        "low_price": 11630.0,
+        "close_price": 11630.0,
+        "volume": 7104491.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260621,
+        "open_price": 12250.0,
+        "high_price": 12250.0,
+        "low_price": 11600.0,
+        "close_price": 11980.0,
+        "volume": 6654686.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260620,
+        "open_price": 12120.0,
+        "high_price": 12120.0,
+        "low_price": 11500.0,
+        "close_price": 11950.0,
+        "volume": 12998371.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260617,
+        "open_price": 12000.0,
+        "high_price": 12000.0,
+        "low_price": 11600.0,
+        "close_price": 11770.0,
+        "volume": 11784421.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260616,
+        "open_price": 12410.0,
+        "high_price": 12410.0,
+        "low_price": 11690.0,
+        "close_price": 11950.0,
+        "volume": 23528959.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260615,
+        "open_price": 12050.0,
+        "high_price": 12050.0,
+        "low_price": 12050.0,
+        "close_price": 12050.0,
+        "volume": 2818716.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260614,
+        "open_price": 11700.0,
+        "high_price": 11700.0,
+        "low_price": 11700.0,
+        "close_price": 11700.0,
+        "volume": 1883224.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260613,
+        "open_price": 11360.0,
+        "high_price": 11360.0,
+        "low_price": 11360.0,
+        "close_price": 11360.0,
+        "volume": 1044141.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260610,
+        "open_price": 11340.0,
+        "high_price": 11410.0,
+        "low_price": 10810.0,
+        "close_price": 11030.0,
+        "volume": 14491895.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260609,
+        "open_price": 11140.0,
+        "high_price": 11140.0,
+        "low_price": 11140.0,
+        "close_price": 11140.0,
+        "volume": 4714083.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260608,
+        "open_price": 10820.0,
+        "high_price": 10820.0,
+        "low_price": 10820.0,
+        "close_price": 10820.0,
+        "volume": 403263.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260607,
+        "open_price": 11140.0,
+        "high_price": 11150.0,
+        "low_price": 11100.0,
+        "close_price": 11150.0,
+        "volume": 7928078.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260606,
+        "open_price": 10550.0,
+        "high_price": 11150.0,
+        "low_price": 10540.0,
+        "close_price": 10830.0,
+        "volume": 10074884.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260603,
+        "open_price": 10860.0,
+        "high_price": 10860.0,
+        "low_price": 10860.0,
+        "close_price": 10860.0,
+        "volume": 7555055.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260602,
+        "open_price": 11160.0,
+        "high_price": 11370.0,
+        "low_price": 11160.0,
+        "close_price": 11190.0,
+        "volume": 17460526.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260601,
+        "open_price": 11750.0,
+        "high_price": 11750.0,
+        "low_price": 11070.0,
+        "close_price": 11500.0,
+        "volume": 37986288.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260531,
+        "open_price": 11410.0,
+        "high_price": 11410.0,
+        "low_price": 11410.0,
+        "close_price": 11410.0,
+        "volume": 1985245.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260530,
+        "open_price": 11080.0,
+        "high_price": 11080.0,
+        "low_price": 11080.0,
+        "close_price": 11080.0,
+        "volume": 1150997.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260526,
+        "open_price": 10900.0,
+        "high_price": 10990.0,
+        "low_price": 10350.0,
+        "close_price": 10760.0,
+        "volume": 37481489.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260525,
+        "open_price": 10670.0,
+        "high_price": 10670.0,
+        "low_price": 10670.0,
+        "close_price": 10670.0,
+        "volume": 7677573.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260524,
+        "open_price": 10360.0,
+        "high_price": 10360.0,
+        "low_price": 10360.0,
+        "close_price": 10360.0,
+        "volume": 2150180.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260523,
+        "open_price": 10050.0,
+        "high_price": 10060.0,
+        "low_price": 10040.0,
+        "close_price": 10060.0,
+        "volume": 3767372.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260520,
+        "open_price": 9720.0,
+        "high_price": 9960.0,
+        "low_price": 9640.0,
+        "close_price": 9770.0,
+        "volume": 6701770.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260519,
+        "open_price": 9640.0,
+        "high_price": 10210.0,
+        "low_price": 9640.0,
+        "close_price": 9720.0,
+        "volume": 20997747.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 9930.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260225,
+        "open_price": 9930.0,
+        "high_price": 9930.0,
+        "low_price": 9930.0,
+        "close_price": 9930.0,
+        "volume": 14860711.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260224,
+        "open_price": 9650.0,
+        "high_price": 9650.0,
+        "low_price": 9650.0,
+        "close_price": 9650.0,
+        "volume": 9828765.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260223,
+        "open_price": 9370.0,
+        "high_price": 9370.0,
+        "low_price": 9370.0,
+        "close_price": 9370.0,
+        "volume": 5274990.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260222,
+        "open_price": 9100.0,
+        "high_price": 9100.0,
+        "low_price": 9100.0,
+        "close_price": 9100.0,
+        "volume": 30343615.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260221,
+        "open_price": 8800.0,
+        "high_price": 9090.0,
+        "low_price": 8570.0,
+        "close_price": 8840.0,
+        "volume": 8928056.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260218,
+        "open_price": 9160.0,
+        "high_price": 9310.0,
+        "low_price": 8800.0,
+        "close_price": 8830.0,
+        "volume": 2566455.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260217,
+        "open_price": 9190.0,
+        "high_price": 9200.0,
+        "low_price": 8840.0,
+        "close_price": 9070.0,
+        "volume": 1336638.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260216,
+        "open_price": 9030.0,
+        "high_price": 9220.0,
+        "low_price": 8930.0,
+        "close_price": 9100.0,
+        "volume": 698435.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260215,
+        "open_price": 9230.0,
+        "high_price": 9230.0,
+        "low_price": 9030.0,
+        "close_price": 9040.0,
+        "volume": 1757134.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260214,
+        "open_price": 9570.0,
+        "high_price": 9590.0,
+        "low_price": 9050.0,
+        "close_price": 9300.0,
+        "volume": 2634714.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260210,
+        "open_price": 9200.0,
+        "high_price": 9330.0,
+        "low_price": 9110.0,
+        "close_price": 9320.0,
+        "volume": 3683556.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260209,
+        "open_price": 9100.0,
+        "high_price": 9120.0,
+        "low_price": 9060.0,
+        "close_price": 9060.0,
+        "volume": 2335075.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260208,
+        "open_price": 9860.0,
+        "high_price": 9870.0,
+        "low_price": 9310.0,
+        "close_price": 9340.0,
+        "volume": 1756073.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260207,
+        "open_price": 9600.0,
+        "high_price": 9600.0,
+        "low_price": 9440.0,
+        "close_price": 9590.0,
+        "volume": 1845261.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260203,
+        "open_price": 9690.0,
+        "high_price": 9740.0,
+        "low_price": 9310.0,
+        "close_price": 9330.0,
+        "volume": 3076441.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260202,
+        "open_price": 9710.0,
+        "high_price": 9800.0,
+        "low_price": 9500.0,
+        "close_price": 9590.0,
+        "volume": 2077078.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260201,
+        "open_price": 9500.0,
+        "high_price": 9690.0,
+        "low_price": 9500.0,
+        "close_price": 9520.0,
+        "volume": 2801034.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260131,
+        "open_price": 10100.0,
+        "high_price": 10100.0,
+        "low_price": 9740.0,
+        "close_price": 9790.0,
+        "volume": 1608697.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260128,
+        "open_price": 10030.0,
+        "high_price": 10200.0,
+        "low_price": 10030.0,
+        "close_price": 10040.0,
+        "volume": 4031239.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260127,
+        "open_price": 10340.0,
+        "high_price": 10340.0,
+        "low_price": 10340.0,
+        "close_price": 10340.0,
+        "volume": 203554.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260126,
+        "open_price": 10650.0,
+        "high_price": 10650.0,
+        "low_price": 10650.0,
+        "close_price": 10650.0,
+        "volume": 240862.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260125,
+        "open_price": 11100.0,
+        "high_price": 11100.0,
+        "low_price": 10960.0,
+        "close_price": 10970.0,
+        "volume": 2534383.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260124,
+        "open_price": 11570.0,
+        "high_price": 11570.0,
+        "low_price": 10920.0,
+        "close_price": 11290.0,
+        "volume": 11077832.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260121,
+        "open_price": 11240.0,
+        "high_price": 11240.0,
+        "low_price": 11240.0,
+        "close_price": 11240.0,
+        "volume": 2248813.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260120,
+        "open_price": 11130.0,
+        "high_price": 11230.0,
+        "low_price": 10610.0,
+        "close_price": 10920.0,
+        "volume": 1729905.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260119,
+        "open_price": 10940.0,
+        "high_price": 11190.0,
+        "low_price": 10670.0,
+        "close_price": 10920.0,
+        "volume": 1575662.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260118,
+        "open_price": 10670.0,
+        "high_price": 10940.0,
+        "low_price": 10670.0,
+        "close_price": 10870.0,
+        "volume": 1694198.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260114,
+        "open_price": 10580.0,
+        "high_price": 10880.0,
+        "low_price": 10580.0,
+        "close_price": 10630.0,
+        "volume": 3791517.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260113,
+        "open_price": 10890.0,
+        "high_price": 11000.0,
+        "low_price": 10400.0,
+        "close_price": 10900.0,
+        "volume": 5616729.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260112,
+        "open_price": 10960.0,
+        "high_price": 10960.0,
+        "low_price": 10420.0,
+        "close_price": 10680.0,
+        "volume": 3452333.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260111,
+        "open_price": 10650.0,
+        "high_price": 10680.0,
+        "low_price": 10650.0,
+        "close_price": 10650.0,
+        "volume": 3818964.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260110,
+        "open_price": 10970.0,
+        "high_price": 10970.0,
+        "low_price": 10970.0,
+        "close_price": 10970.0,
+        "volume": 1171025.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260107,
+        "open_price": 11560.0,
+        "high_price": 11850.0,
+        "low_price": 11210.0,
+        "close_price": 11300.0,
+        "volume": 1862650.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260106,
+        "open_price": 11290.0,
+        "high_price": 11620.0,
+        "low_price": 11290.0,
+        "close_price": 11550.0,
+        "volume": 6962797.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260105,
+        "open_price": 10940.0,
+        "high_price": 11560.0,
+        "low_price": 10940.0,
+        "close_price": 11290.0,
+        "volume": 6182378.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20260104,
+        "open_price": 11220.0,
+        "high_price": 11640.0,
+        "low_price": 11220.0,
+        "close_price": 11230.0,
+        "volume": 1160101.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251231,
+        "open_price": 11550.0,
+        "high_price": 11680.0,
+        "low_price": 11550.0,
+        "close_price": 11560.0,
+        "volume": 10672137.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251230,
+        "open_price": 11900.0,
+        "high_price": 11900.0,
+        "low_price": 11900.0,
+        "close_price": 11900.0,
+        "volume": 114834.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251229,
+        "open_price": 12230.0,
+        "high_price": 12330.0,
+        "low_price": 12210.0,
+        "close_price": 12260.0,
+        "volume": 1542421.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251228,
+        "open_price": 12500.0,
+        "high_price": 12810.0,
+        "low_price": 12380.0,
+        "close_price": 12580.0,
+        "volume": 5412662.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251227,
+        "open_price": 13050.0,
+        "high_price": 13070.0,
+        "low_price": 12450.0,
+        "close_price": 12760.0,
+        "volume": 10233811.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251224,
+        "open_price": 12690.0,
+        "high_price": 12690.0,
+        "low_price": 12580.0,
+        "close_price": 12690.0,
+        "volume": 6400084.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251223,
+        "open_price": 12310.0,
+        "high_price": 12330.0,
+        "low_price": 12290.0,
+        "close_price": 12330.0,
+        "volume": 3362868.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251222,
+        "open_price": 11510.0,
+        "high_price": 12000.0,
+        "low_price": 11510.0,
+        "close_price": 11980.0,
+        "volume": 7631027.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251221,
+        "open_price": 11800.0,
+        "high_price": 11860.0,
+        "low_price": 11400.0,
+        "close_price": 11660.0,
+        "volume": 3171421.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251220,
+        "open_price": 11400.0,
+        "high_price": 11740.0,
+        "low_price": 11400.0,
+        "close_price": 11710.0,
+        "volume": 5613341.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251217,
+        "open_price": 11470.0,
+        "high_price": 11500.0,
+        "low_price": 11230.0,
+        "close_price": 11400.0,
+        "volume": 4337263.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251216,
+        "open_price": 11430.0,
+        "high_price": 11730.0,
+        "low_price": 11090.0,
+        "close_price": 11330.0,
+        "volume": 4252549.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251215,
+        "open_price": 11220.0,
+        "high_price": 11520.0,
+        "low_price": 11220.0,
+        "close_price": 11430.0,
+        "volume": 4641500.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251214,
+        "open_price": 11600.0,
+        "high_price": 11600.0,
+        "low_price": 11180.0,
+        "close_price": 11230.0,
+        "volume": 6989369.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251213,
+        "open_price": 11330.0,
+        "high_price": 11550.0,
+        "low_price": 11330.0,
+        "close_price": 11520.0,
+        "volume": 3485414.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251210,
+        "open_price": 10950.0,
+        "high_price": 11480.0,
+        "low_price": 10950.0,
+        "close_price": 11220.0,
+        "volume": 3712964.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251209,
+        "open_price": 11470.0,
+        "high_price": 11470.0,
+        "low_price": 10900.0,
+        "close_price": 11190.0,
+        "volume": 6790007.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251208,
+        "open_price": 11150.0,
+        "high_price": 11150.0,
+        "low_price": 11000.0,
+        "close_price": 11150.0,
+        "volume": 3641815.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251207,
+        "open_price": 10840.0,
+        "high_price": 10840.0,
+        "low_price": 10720.0,
+        "close_price": 10830.0,
+        "volume": 5938418.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251206,
+        "open_price": 10280.0,
+        "high_price": 10570.0,
+        "low_price": 10280.0,
+        "close_price": 10530.0,
+        "volume": 4447301.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251203,
+        "open_price": 10340.0,
+        "high_price": 10450.0,
+        "low_price": 10080.0,
+        "close_price": 10270.0,
+        "volume": 3668017.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251202,
+        "open_price": 10200.0,
+        "high_price": 10350.0,
+        "low_price": 10030.0,
+        "close_price": 10220.0,
+        "volume": 4739783.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251201,
+        "open_price": 10000.0,
+        "high_price": 10350.0,
+        "low_price": 9990.0,
+        "close_price": 10170.0,
+        "volume": 2414907.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251130,
+        "open_price": 10190.0,
+        "high_price": 10280.0,
+        "low_price": 9990.0,
+        "close_price": 10080.0,
+        "volume": 1960693.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251129,
+        "open_price": 10200.0,
+        "high_price": 10360.0,
+        "low_price": 10070.0,
+        "close_price": 10190.0,
+        "volume": 1439311.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251126,
+        "open_price": 10540.0,
+        "high_price": 10540.0,
+        "low_price": 10130.0,
+        "close_price": 10190.0,
+        "volume": 4500222.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251125,
+        "open_price": 10280.0,
+        "high_price": 10540.0,
+        "low_price": 10150.0,
+        "close_price": 10440.0,
+        "volume": 3150273.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251123,
+        "open_price": 10100.0,
+        "high_price": 10380.0,
+        "low_price": 10070.0,
+        "close_price": 10290.0,
+        "volume": 2064708.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251122,
+        "open_price": 10100.0,
+        "high_price": 10550.0,
+        "low_price": 10070.0,
+        "close_price": 10250.0,
+        "volume": 2367925.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251119,
+        "open_price": 10340.0,
+        "high_price": 10340.0,
+        "low_price": 10250.0,
+        "close_price": 10330.0,
+        "volume": 4507647.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251118,
+        "open_price": 9910.0,
+        "high_price": 10200.0,
+        "low_price": 9910.0,
+        "close_price": 10040.0,
+        "volume": 2531977.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251117,
+        "open_price": 10450.0,
+        "high_price": 10450.0,
+        "low_price": 10000.0,
+        "close_price": 10160.0,
+        "volume": 6353555.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251116,
+        "open_price": 9990.0,
+        "high_price": 10430.0,
+        "low_price": 9990.0,
+        "close_price": 10300.0,
+        "volume": 2899618.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251115,
+        "open_price": 10220.0,
+        "high_price": 10400.0,
+        "low_price": 9900.0,
+        "close_price": 10170.0,
+        "volume": 3803987.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251112,
+        "open_price": 10250.0,
+        "high_price": 10510.0,
+        "low_price": 10080.0,
+        "close_price": 10190.0,
+        "volume": 5493982.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251111,
+        "open_price": 10570.0,
+        "high_price": 10660.0,
+        "low_price": 10270.0,
+        "close_price": 10390.0,
+        "volume": 3779193.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251110,
+        "open_price": 10580.0,
+        "high_price": 10740.0,
+        "low_price": 10580.0,
+        "close_price": 10580.0,
+        "volume": 5985895.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251109,
+        "open_price": 11130.0,
+        "high_price": 11130.0,
+        "low_price": 10900.0,
+        "close_price": 10900.0,
+        "volume": 2471359.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251108,
+        "open_price": 11480.0,
+        "high_price": 11670.0,
+        "low_price": 11140.0,
+        "close_price": 11230.0,
+        "volume": 3788884.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251105,
+        "open_price": 11800.0,
+        "high_price": 11800.0,
+        "low_price": 11460.0,
+        "close_price": 11480.0,
+        "volume": 8238759.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251104,
+        "open_price": 11740.0,
+        "high_price": 11820.0,
+        "low_price": 11520.0,
+        "close_price": 11810.0,
+        "volume": 15439895.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251103,
+        "open_price": 11480.0,
+        "high_price": 11480.0,
+        "low_price": 11460.0,
+        "close_price": 11480.0,
+        "volume": 4140396.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251102,
+        "open_price": 10870.0,
+        "high_price": 11210.0,
+        "low_price": 10640.0,
+        "close_price": 11150.0,
+        "volume": 9087618.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251101,
+        "open_price": 10610.0,
+        "high_price": 10920.0,
+        "low_price": 10580.0,
+        "close_price": 10890.0,
+        "volume": 5076158.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251029,
+        "open_price": 10960.0,
+        "high_price": 10980.0,
+        "low_price": 10580.0,
+        "close_price": 10610.0,
+        "volume": 5740344.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251028,
+        "open_price": 11070.0,
+        "high_price": 11070.0,
+        "low_price": 10650.0,
+        "close_price": 10900.0,
+        "volume": 2461024.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251027,
+        "open_price": 10920.0,
+        "high_price": 10970.0,
+        "low_price": 10820.0,
+        "close_price": 10880.0,
+        "volume": 2485138.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251026,
+        "open_price": 10960.0,
+        "high_price": 10960.0,
+        "low_price": 10510.0,
+        "close_price": 10730.0,
+        "volume": 3752414.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251025,
+        "open_price": 11060.0,
+        "high_price": 11060.0,
+        "low_price": 10570.0,
+        "close_price": 10760.0,
+        "volume": 1285574.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251022,
+        "open_price": 10790.0,
+        "high_price": 10890.0,
+        "low_price": 10340.0,
+        "close_price": 10770.0,
+        "volume": 3062692.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251021,
+        "open_price": 10800.0,
+        "high_price": 10950.0,
+        "low_price": 10500.0,
+        "close_price": 10580.0,
+        "volume": 3783209.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251020,
+        "open_price": 11120.0,
+        "high_price": 11120.0,
+        "low_price": 10810.0,
+        "close_price": 10820.0,
+        "volume": 5912753.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251019,
+        "open_price": 11700.0,
+        "high_price": 11700.0,
+        "low_price": 11070.0,
+        "close_price": 11140.0,
+        "volume": 9220508.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251018,
+        "open_price": 11370.0,
+        "high_price": 11430.0,
+        "low_price": 11240.0,
+        "close_price": 11410.0,
+        "volume": 4163055.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251015,
+        "open_price": 11280.0,
+        "high_price": 11280.0,
+        "low_price": 10650.0,
+        "close_price": 11100.0,
+        "volume": 4276288.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251014,
+        "open_price": 10800.0,
+        "high_price": 11020.0,
+        "low_price": 10780.0,
+        "close_price": 10970.0,
+        "volume": 12907387.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251013,
+        "open_price": 10690.0,
+        "high_price": 10710.0,
+        "low_price": 10530.0,
+        "close_price": 10700.0,
+        "volume": 8207153.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251012,
+        "open_price": 10420.0,
+        "high_price": 10440.0,
+        "low_price": 10260.0,
+        "close_price": 10400.0,
+        "volume": 3900106.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251011,
+        "open_price": 10110.0,
+        "high_price": 10290.0,
+        "low_price": 9830.0,
+        "close_price": 10140.0,
+        "volume": 4138637.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251008,
+        "open_price": 10300.0,
+        "high_price": 10300.0,
+        "low_price": 9980.0,
+        "close_price": 10000.0,
+        "volume": 8364144.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251007,
+        "open_price": 10040.0,
+        "high_price": 10530.0,
+        "low_price": 10030.0,
+        "close_price": 10280.0,
+        "volume": 6163631.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251006,
+        "open_price": 10270.0,
+        "high_price": 10690.0,
+        "low_price": 10150.0,
+        "close_price": 10330.0,
+        "volume": 5987174.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251005,
+        "open_price": 10990.0,
+        "high_price": 10990.0,
+        "low_price": 10380.0,
+        "close_price": 10460.0,
+        "volume": 11654641.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251004,
+        "open_price": 10410.0,
+        "high_price": 10990.0,
+        "low_price": 10410.0,
+        "close_price": 10700.0,
+        "volume": 9677620.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20251001,
+        "open_price": 10660.0,
+        "high_price": 10660.0,
+        "low_price": 10660.0,
+        "close_price": 10730.0,
+        "volume": 1115958.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250930,
+        "open_price": 11380.0,
+        "high_price": 11380.0,
+        "low_price": 10800.0,
+        "close_price": 10980.0,
+        "volume": 3346989.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250929,
+        "open_price": 11160.0,
+        "high_price": 11160.0,
+        "low_price": 10860.0,
+        "close_price": 11130.0,
+        "volume": 6631894.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250928,
+        "open_price": 10860.0,
+        "high_price": 10860.0,
+        "low_price": 10860.0,
+        "close_price": 10840.0,
+        "volume": 1364837.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250927,
+        "open_price": 10020.0,
+        "high_price": 10610.0,
+        "low_price": 10020.0,
+        "close_price": 10550.0,
+        "volume": 4187308.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250924,
+        "open_price": 9780.0,
+        "high_price": 10370.0,
+        "low_price": 9780.0,
+        "close_price": 10310.0,
+        "volume": 8539770.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250923,
+        "open_price": 10180.0,
+        "high_price": 10190.0,
+        "low_price": 9910.0,
+        "close_price": 10070.0,
+        "volume": 8043819.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250922,
+        "open_price": 9900.0,
+        "high_price": 9900.0,
+        "low_price": 9720.0,
+        "close_price": 9900.0,
+        "volume": 7507267.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250921,
+        "open_price": 9530.0,
+        "high_price": 9670.0,
+        "low_price": 9230.0,
+        "close_price": 9620.0,
+        "volume": 17060168.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250920,
+        "open_price": 9560.0,
+        "high_price": 9560.0,
+        "low_price": 9040.0,
+        "close_price": 9390.0,
+        "volume": 15079050.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250917,
+        "open_price": 9290.0,
+        "high_price": 9290.0,
+        "low_price": 9290.0,
+        "close_price": 9290.0,
+        "volume": 4867763.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250916,
+        "open_price": 9010.0,
+        "high_price": 9250.0,
+        "low_price": 8970.0,
+        "close_price": 9020.0,
+        "volume": 2042148.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250915,
+        "open_price": 9460.0,
+        "high_price": 9480.0,
+        "low_price": 9190.0,
+        "close_price": 9240.0,
+        "volume": 2498718.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250914,
+        "open_price": 9470.0,
+        "high_price": 9470.0,
+        "low_price": 9340.0,
+        "close_price": 9470.0,
+        "volume": 4602554.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250913,
+        "open_price": 9400.0,
+        "high_price": 9540.0,
+        "low_price": 9000.0,
+        "close_price": 9200.0,
+        "volume": 9462011.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250909,
+        "open_price": 9550.0,
+        "high_price": 9550.0,
+        "low_price": 9100.0,
+        "close_price": 9270.0,
+        "volume": 966050.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250908,
+        "open_price": 9300.0,
+        "high_price": 9300.0,
+        "low_price": 9300.0,
+        "close_price": 9300.0,
+        "volume": 1972542.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250907,
+        "open_price": 8760.0,
+        "high_price": 9280.0,
+        "low_price": 8760.0,
+        "close_price": 9030.0,
+        "volume": 1550770.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250906,
+        "open_price": 9350.0,
+        "high_price": 9350.0,
+        "low_price": 8970.0,
+        "close_price": 9030.0,
+        "volume": 2088658.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250903,
+        "open_price": 9100.0,
+        "high_price": 9360.0,
+        "low_price": 9100.0,
+        "close_price": 9240.0,
+        "volume": 1383295.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250902,
+        "open_price": 8990.0,
+        "high_price": 9100.0,
+        "low_price": 8940.0,
+        "close_price": 9090.0,
+        "volume": 1890721.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250831,
+        "open_price": 8810.0,
+        "high_price": 9200.0,
+        "low_price": 8800.0,
+        "close_price": 8840.0,
+        "volume": 3572163.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250830,
+        "open_price": 9060.0,
+        "high_price": 9300.0,
+        "low_price": 9060.0,
+        "close_price": 9070.0,
+        "volume": 1658307.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250827,
+        "open_price": 9270.0,
+        "high_price": 9630.0,
+        "low_price": 9270.0,
+        "close_price": 9330.0,
+        "volume": 2508198.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250826,
+        "open_price": 9310.0,
+        "high_price": 9310.0,
+        "low_price": 9310.0,
+        "close_price": 9550.0,
+        "volume": 228747.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250825,
+        "open_price": 9890.0,
+        "high_price": 9890.0,
+        "low_price": 9350.0,
+        "close_price": 9590.0,
+        "volume": 848162.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250823,
+        "open_price": 9530.0,
+        "high_price": 9650.0,
+        "low_price": 9530.0,
+        "close_price": 9630.0,
+        "volume": 2181158.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250820,
+        "open_price": 9300.0,
+        "high_price": 9410.0,
+        "low_price": 9200.0,
+        "close_price": 9370.0,
+        "volume": 2091381.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250819,
+        "open_price": 9150.0,
+        "high_price": 9150.0,
+        "low_price": 8930.0,
+        "close_price": 9140.0,
+        "volume": 2816960.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250818,
+        "open_price": 8910.0,
+        "high_price": 8910.0,
+        "low_price": 8910.0,
+        "close_price": 8890.0,
+        "volume": 1594484.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250817,
+        "open_price": 8780.0,
+        "high_price": 8780.0,
+        "low_price": 8780.0,
+        "close_price": 8660.0,
+        "volume": 907740.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250816,
+        "open_price": 8310.0,
+        "high_price": 8810.0,
+        "low_price": 8310.0,
+        "close_price": 8530.0,
+        "volume": 7006210.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250813,
+        "open_price": 8330.0,
+        "high_price": 8330.0,
+        "low_price": 8330.0,
+        "close_price": 8560.0,
+        "volume": 95972.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250812,
+        "open_price": 8560.0,
+        "high_price": 8810.0,
+        "low_price": 8560.0,
+        "close_price": 8580.0,
+        "volume": 2014640.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250811,
+        "open_price": 9300.0,
+        "high_price": 9300.0,
+        "low_price": 8810.0,
+        "close_price": 8820.0,
+        "volume": 1793038.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250810,
+        "open_price": 9080.0,
+        "high_price": 9200.0,
+        "low_price": 9070.0,
+        "close_price": 9080.0,
+        "volume": 1737552.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250809,
+        "open_price": 9380.0,
+        "high_price": 9710.0,
+        "low_price": 9150.0,
+        "close_price": 9350.0,
+        "volume": 1886530.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250806,
+        "open_price": 9380.0,
+        "high_price": 9670.0,
+        "low_price": 9380.0,
+        "close_price": 9430.0,
+        "volume": 3031396.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250805,
+        "open_price": 9760.0,
+        "high_price": 9940.0,
+        "low_price": 9460.0,
+        "close_price": 9670.0,
+        "volume": 471928.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250804,
+        "open_price": 9670.0,
+        "high_price": 10190.0,
+        "low_price": 9670.0,
+        "close_price": 9750.0,
+        "volume": 4655400.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250803,
+        "open_price": 9960.0,
+        "high_price": 10000.0,
+        "low_price": 9960.0,
+        "close_price": 9960.0,
+        "volume": 5665360.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250802,
+        "open_price": 10260.0,
+        "high_price": 10260.0,
+        "low_price": 10260.0,
+        "close_price": 10260.0,
+        "volume": 4364630.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250730,
+        "open_price": 10270.0,
+        "high_price": 10270.0,
+        "low_price": 10270.0,
+        "close_price": 10570.0,
+        "volume": 61810.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250729,
+        "open_price": 10520.0,
+        "high_price": 10520.0,
+        "low_price": 10210.0,
+        "close_price": 10580.0,
+        "volume": 147948.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250728,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10620.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250727,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10620.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250726,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10620.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250723,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250722,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250721,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10700.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250720,
+        "open_price": 10620.0,
+        "high_price": 10960.0,
+        "low_price": 10510.0,
+        "close_price": 10700.0,
+        "volume": 2394803.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250719,
+        "open_price": 11040.0,
+        "high_price": 11040.0,
+        "low_price": 10510.0,
+        "close_price": 10830.0,
+        "volume": 1714395.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250716,
+        "open_price": 10410.0,
+        "high_price": 10790.0,
+        "low_price": 10400.0,
+        "close_price": 10720.0,
+        "volume": 2053577.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250715,
+        "open_price": 10370.0,
+        "high_price": 10800.0,
+        "low_price": 10350.0,
+        "close_price": 10480.0,
+        "volume": 4836098.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250714,
+        "open_price": 10810.0,
+        "high_price": 10810.0,
+        "low_price": 10570.0,
+        "close_price": 10660.0,
+        "volume": 1608629.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250713,
+        "open_price": 10370.0,
+        "high_price": 10810.0,
+        "low_price": 10290.0,
+        "close_price": 10500.0,
+        "volume": 3507919.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250712,
+        "open_price": 10550.0,
+        "high_price": 11150.0,
+        "low_price": 10540.0,
+        "close_price": 10600.0,
+        "volume": 27313583.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250709,
+        "open_price": 10860.0,
+        "high_price": 10860.0,
+        "low_price": 10860.0,
+        "close_price": 10860.0,
+        "volume": 4208598.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250708,
+        "open_price": 11400.0,
+        "high_price": 11430.0,
+        "low_price": 10830.0,
+        "close_price": 11190.0,
+        "volume": 627049.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250707,
+        "open_price": 11700.0,
+        "high_price": 11750.0,
+        "low_price": 11080.0,
+        "close_price": 11160.0,
+        "volume": 2870151.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250702,
+        "open_price": 11380.0,
+        "high_price": 11960.0,
+        "low_price": 11380.0,
+        "close_price": 11420.0,
+        "volume": 14986946.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250701,
+        "open_price": 11380.0,
+        "high_price": 11380.0,
+        "low_price": 11380.0,
+        "close_price": 11730.0,
+        "volume": 14750.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250630,
+        "open_price": 11680.0,
+        "high_price": 11680.0,
+        "low_price": 11680.0,
+        "close_price": 11730.0,
+        "volume": 1043859.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250629,
+        "open_price": 11930.0,
+        "high_price": 11930.0,
+        "low_price": 11930.0,
+        "close_price": 12040.0,
+        "volume": 849197.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250628,
+        "open_price": 12090.0,
+        "high_price": 12090.0,
+        "low_price": 12090.0,
+        "close_price": 12290.0,
+        "volume": 568938.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12460.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12460.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12460.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12460.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12460.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12460.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12460.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 12460.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250611,
+        "open_price": 12510.0,
+        "high_price": 12560.0,
+        "low_price": 12200.0,
+        "close_price": 12460.0,
+        "volume": 1898881.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250610,
+        "open_price": 12160.0,
+        "high_price": 12700.0,
+        "low_price": 12140.0,
+        "close_price": 12200.0,
+        "volume": 5847836.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250609,
+        "open_price": 12510.0,
+        "high_price": 12680.0,
+        "low_price": 12510.0,
+        "close_price": 12510.0,
+        "volume": 1653025.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250608,
+        "open_price": 12880.0,
+        "high_price": 13170.0,
+        "low_price": 12880.0,
+        "close_price": 12890.0,
+        "volume": 3359378.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250607,
+        "open_price": 12920.0,
+        "high_price": 12920.0,
+        "low_price": 12920.0,
+        "close_price": 13270.0,
+        "volume": 115172.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250603,
+        "open_price": 13510.0,
+        "high_price": 13580.0,
+        "low_price": 13010.0,
+        "close_price": 13310.0,
+        "volume": 1602193.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250602,
+        "open_price": 13350.0,
+        "high_price": 13580.0,
+        "low_price": 12940.0,
+        "close_price": 13250.0,
+        "volume": 2365225.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250601,
+        "open_price": 13270.0,
+        "high_price": 13650.0,
+        "low_price": 13160.0,
+        "close_price": 13190.0,
+        "volume": 4507282.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250531,
+        "open_price": 12950.0,
+        "high_price": 13650.0,
+        "low_price": 12950.0,
+        "close_price": 13560.0,
+        "volume": 5175180.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250528,
+        "open_price": 13270.0,
+        "high_price": 13460.0,
+        "low_price": 13250.0,
+        "close_price": 13260.0,
+        "volume": 4487925.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250527,
+        "open_price": 13780.0,
+        "high_price": 14020.0,
+        "low_price": 13620.0,
+        "close_price": 13650.0,
+        "volume": 6725155.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250526,
+        "open_price": 14030.0,
+        "high_price": 14350.0,
+        "low_price": 14010.0,
+        "close_price": 14040.0,
+        "volume": 1637997.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250525,
+        "open_price": 14580.0,
+        "high_price": 15000.0,
+        "low_price": 14390.0,
+        "close_price": 14440.0,
+        "volume": 4542038.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250524,
+        "open_price": 14800.0,
+        "high_price": 15450.0,
+        "low_price": 14580.0,
+        "close_price": 14830.0,
+        "volume": 3463259.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250521,
+        "open_price": 14790.0,
+        "high_price": 14790.0,
+        "low_price": 14790.0,
+        "close_price": 15030.0,
+        "volume": 463375.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250520,
+        "open_price": 15050.0,
+        "high_price": 15960.0,
+        "low_price": 15050.0,
+        "close_price": 15240.0,
+        "volume": 6782932.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250519,
+        "open_price": 16230.0,
+        "high_price": 16280.0,
+        "low_price": 15360.0,
+        "close_price": 15510.0,
+        "volume": 3534812.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250518,
+        "open_price": 15800.0,
+        "high_price": 15860.0,
+        "low_price": 15500.0,
+        "close_price": 15830.0,
+        "volume": 4931328.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250517,
+        "open_price": 15490.0,
+        "high_price": 15500.0,
+        "low_price": 15120.0,
+        "close_price": 15400.0,
+        "volume": 4723486.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250514,
+        "open_price": 15090.0,
+        "high_price": 15150.0,
+        "low_price": 14740.0,
+        "close_price": 15050.0,
+        "volume": 4592434.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250513,
+        "open_price": 14710.0,
+        "high_price": 14710.0,
+        "low_price": 14340.0,
+        "close_price": 14710.0,
+        "volume": 4507577.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250512,
+        "open_price": 14340.0,
+        "high_price": 14340.0,
+        "low_price": 14340.0,
+        "close_price": 14290.0,
+        "volume": 900337.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250511,
+        "open_price": 13910.0,
+        "high_price": 14190.0,
+        "low_price": 13910.0,
+        "close_price": 13930.0,
+        "volume": 3254539.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250510,
+        "open_price": 14350.0,
+        "high_price": 14500.0,
+        "low_price": 14250.0,
+        "close_price": 14330.0,
+        "volume": 873583.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250507,
+        "open_price": 14620.0,
+        "high_price": 15080.0,
+        "low_price": 14460.0,
+        "close_price": 14690.0,
+        "volume": 4152768.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250506,
+        "open_price": 15070.0,
+        "high_price": 15150.0,
+        "low_price": 14440.0,
+        "close_price": 14760.0,
+        "volume": 3580754.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250505,
+        "open_price": 14690.0,
+        "high_price": 14990.0,
+        "low_price": 14360.0,
+        "close_price": 14710.0,
+        "volume": 3259164.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250504,
+        "open_price": 14080.0,
+        "high_price": 14920.0,
+        "low_price": 14080.0,
+        "close_price": 14560.0,
+        "volume": 4683939.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250503,
+        "open_price": 14480.0,
+        "high_price": 14890.0,
+        "low_price": 14480.0,
+        "close_price": 14490.0,
+        "volume": 2364659.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250430,
+        "open_price": 14500.0,
+        "high_price": 14940.0,
+        "low_price": 14500.0,
+        "close_price": 14920.0,
+        "volume": 4272004.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250429,
+        "open_price": 14520.0,
+        "high_price": 14520.0,
+        "low_price": 14250.0,
+        "close_price": 14510.0,
+        "volume": 4673507.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250428,
+        "open_price": 14180.0,
+        "high_price": 14180.0,
+        "low_price": 13660.0,
+        "close_price": 14100.0,
+        "volume": 5585052.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250427,
+        "open_price": 13930.0,
+        "high_price": 14190.0,
+        "low_price": 13420.0,
+        "close_price": 13770.0,
+        "volume": 2942301.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250426,
+        "open_price": 14070.0,
+        "high_price": 14510.0,
+        "low_price": 13740.0,
+        "close_price": 13830.0,
+        "volume": 4998986.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250423,
+        "open_price": 13930.0,
+        "high_price": 14300.0,
+        "low_price": 13480.0,
+        "close_price": 14160.0,
+        "volume": 5281826.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250422,
+        "open_price": 13910.0,
+        "high_price": 13910.0,
+        "low_price": 13530.0,
+        "close_price": 13890.0,
+        "volume": 7083973.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250421,
+        "open_price": 13510.0,
+        "high_price": 13510.0,
+        "low_price": 13510.0,
+        "close_price": 13510.0,
+        "volume": 1949259.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250420,
+        "open_price": 13240.0,
+        "high_price": 13240.0,
+        "low_price": 13240.0,
+        "close_price": 13120.0,
+        "volume": 826029.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250419,
+        "open_price": 13000.0,
+        "high_price": 13000.0,
+        "low_price": 13000.0,
+        "close_price": 12860.0,
+        "volume": 745957.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250416,
+        "open_price": 12640.0,
+        "high_price": 12650.0,
+        "low_price": 12560.0,
+        "close_price": 12630.0,
+        "volume": 1250025.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250415,
+        "open_price": 12310.0,
+        "high_price": 12310.0,
+        "low_price": 11970.0,
+        "close_price": 12290.0,
+        "volume": 5080034.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250414,
+        "open_price": 11960.0,
+        "high_price": 11960.0,
+        "low_price": 11960.0,
+        "close_price": 11960.0,
+        "volume": 1878335.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250413,
+        "open_price": 11680.0,
+        "high_price": 11680.0,
+        "low_price": 11680.0,
+        "close_price": 11620.0,
+        "volume": 1077753.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250412,
+        "open_price": 11300.0,
+        "high_price": 11710.0,
+        "low_price": 11290.0,
+        "close_price": 11340.0,
+        "volume": 2931488.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250409,
+        "open_price": 12120.0,
+        "high_price": 12120.0,
+        "low_price": 11420.0,
+        "close_price": 11630.0,
+        "volume": 4087516.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250408,
+        "open_price": 11750.0,
+        "high_price": 11800.0,
+        "low_price": 11750.0,
+        "close_price": 11770.0,
+        "volume": 1112821.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250407,
+        "open_price": 11940.0,
+        "high_price": 11940.0,
+        "low_price": 11420.0,
+        "close_price": 11460.0,
+        "volume": 1916341.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250406,
+        "open_price": 11820.0,
+        "high_price": 12290.0,
+        "low_price": 11650.0,
+        "close_price": 11770.0,
+        "volume": 3819284.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250405,
+        "open_price": 12110.0,
+        "high_price": 12220.0,
+        "low_price": 11980.0,
+        "close_price": 12010.0,
+        "volume": 4449095.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250330,
+        "open_price": 12710.0,
+        "high_price": 12710.0,
+        "low_price": 12340.0,
+        "close_price": 12350.0,
+        "volume": 2197623.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250329,
+        "open_price": 12720.0,
+        "high_price": 12800.0,
+        "low_price": 12720.0,
+        "close_price": 12720.0,
+        "volume": 2116937.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250326,
+        "open_price": 13590.0,
+        "high_price": 13620.0,
+        "low_price": 12850.0,
+        "close_price": 13110.0,
+        "volume": 1505163.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250325,
+        "open_price": 12930.0,
+        "high_price": 13680.0,
+        "low_price": 12930.0,
+        "close_price": 13240.0,
+        "volume": 3610956.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250318,
+        "open_price": 13040.0,
+        "high_price": 13040.0,
+        "low_price": 13040.0,
+        "close_price": 13320.0,
+        "volume": 312907.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250317,
+        "open_price": 13390.0,
+        "high_price": 14060.0,
+        "low_price": 13390.0,
+        "close_price": 13440.0,
+        "volume": 4639229.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250316,
+        "open_price": 13500.0,
+        "high_price": 13500.0,
+        "low_price": 13500.0,
+        "close_price": 13800.0,
+        "volume": 286565.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250315,
+        "open_price": 13800.0,
+        "high_price": 14370.0,
+        "low_price": 13800.0,
+        "close_price": 13910.0,
+        "volume": 5331600.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250312,
+        "open_price": 13840.0,
+        "high_price": 13840.0,
+        "low_price": 13840.0,
+        "close_price": 14220.0,
+        "volume": 91358.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250311,
+        "open_price": 13850.0,
+        "high_price": 13850.0,
+        "low_price": 13850.0,
+        "close_price": 14260.0,
+        "volume": 31309.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250310,
+        "open_price": 13940.0,
+        "high_price": 13940.0,
+        "low_price": 13940.0,
+        "close_price": 14270.0,
+        "volume": 242083.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250309,
+        "open_price": 14000.0,
+        "high_price": 14000.0,
+        "low_price": 14000.0,
+        "close_price": 14370.0,
+        "volume": 143142.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250308,
+        "open_price": 14060.0,
+        "high_price": 14060.0,
+        "low_price": 14060.0,
+        "close_price": 14430.0,
+        "volume": 136694.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250305,
+        "open_price": 14120.0,
+        "high_price": 14120.0,
+        "low_price": 14120.0,
+        "close_price": 14490.0,
+        "volume": 122099.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250304,
+        "open_price": 14540.0,
+        "high_price": 15000.0,
+        "low_price": 14540.0,
+        "close_price": 14550.0,
+        "volume": 1780451.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250303,
+        "open_price": 14630.0,
+        "high_price": 14630.0,
+        "low_price": 14630.0,
+        "close_price": 14980.0,
+        "volume": 213473.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250302,
+        "open_price": 15040.0,
+        "high_price": 15440.0,
+        "low_price": 15040.0,
+        "close_price": 15080.0,
+        "volume": 5683897.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250301,
+        "open_price": 15320.0,
+        "high_price": 15320.0,
+        "low_price": 15320.0,
+        "close_price": 15500.0,
+        "volume": 582699.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250226,
+        "open_price": 15810.0,
+        "high_price": 16200.0,
+        "low_price": 15790.0,
+        "close_price": 15790.0,
+        "volume": 1906789.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250225,
+        "open_price": 16490.0,
+        "high_price": 16540.0,
+        "low_price": 15610.0,
+        "close_price": 16270.0,
+        "volume": 3685365.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250224,
+        "open_price": 15500.0,
+        "high_price": 16160.0,
+        "low_price": 15500.0,
+        "close_price": 16060.0,
+        "volume": 6912954.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250223,
+        "open_price": 15690.0,
+        "high_price": 16000.0,
+        "low_price": 15690.0,
+        "close_price": 15690.0,
+        "volume": 10422451.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250222,
+        "open_price": 15700.0,
+        "high_price": 15700.0,
+        "low_price": 15700.0,
+        "close_price": 16170.0,
+        "volume": 25957.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250219,
+        "open_price": 15910.0,
+        "high_price": 15910.0,
+        "low_price": 15910.0,
+        "close_price": 16180.0,
+        "volume": 388237.0
+    },
+    {
+        "symbol": "خرینگ",
+        "trade_date": 20250218,
+        "open_price": 15970.0,
+        "high_price": 15970.0,
+        "low_price": 15970.0,
+        "close_price": 16400.0,
+        "volume": 106657.0
+    }
+]

@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "تملت",
+        "trade_date": 20260901,
+        "open_price": 2148.0,
+        "high_price": 2198.0,
+        "low_price": 2083.0,
+        "close_price": 2129.0,
+        "volume": 12652780.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260831,
+        "open_price": 2182.0,
+        "high_price": 2190.0,
+        "low_price": 2117.0,
+        "close_price": 2147.0,
+        "volume": 16137663.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260829,
+        "open_price": 2187.0,
+        "high_price": 2188.0,
+        "low_price": 2126.0,
+        "close_price": 2181.0,
+        "volume": 15400787.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260826,
+        "open_price": 2100.0,
+        "high_price": 2125.0,
+        "low_price": 2100.0,
+        "close_price": 2125.0,
+        "volume": 5329612.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260825,
+        "open_price": 2026.0,
+        "high_price": 2086.0,
+        "low_price": 2023.0,
+        "close_price": 2064.0,
+        "volume": 14724242.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260824,
+        "open_price": 2055.0,
+        "high_price": 2070.0,
+        "low_price": 1954.0,
+        "close_price": 2026.0,
+        "volume": 21325693.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260823,
+        "open_price": 2018.0,
+        "high_price": 2018.0,
+        "low_price": 1960.0,
+        "close_price": 2014.0,
+        "volume": 30968890.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260822,
+        "open_price": 1960.0,
+        "high_price": 1960.0,
+        "low_price": 1960.0,
+        "close_price": 1960.0,
+        "volume": 7003544.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260819,
+        "open_price": 1903.0,
+        "high_price": 1903.0,
+        "low_price": 1871.0,
+        "close_price": 1903.0,
+        "volume": 14094616.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260818,
+        "open_price": 1849.0,
+        "high_price": 1849.0,
+        "low_price": 1810.0,
+        "close_price": 1848.0,
+        "volume": 9687036.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260817,
+        "open_price": 1763.0,
+        "high_price": 1811.0,
+        "low_price": 1759.0,
+        "close_price": 1796.0,
+        "volume": 18847545.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260816,
+        "open_price": 1745.0,
+        "high_price": 1775.0,
+        "low_price": 1745.0,
+        "close_price": 1759.0,
+        "volume": 6304106.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260815,
+        "open_price": 1748.0,
+        "high_price": 1770.0,
+        "low_price": 1740.0,
+        "close_price": 1745.0,
+        "volume": 7530373.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260811,
+        "open_price": 1780.0,
+        "high_price": 1780.0,
+        "low_price": 1737.0,
+        "close_price": 1746.0,
+        "volume": 6643379.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260810,
+        "open_price": 1760.0,
+        "high_price": 1760.0,
+        "low_price": 1731.0,
+        "close_price": 1737.0,
+        "volume": 14022975.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260809,
+        "open_price": 1842.0,
+        "high_price": 1842.0,
+        "low_price": 1736.0,
+        "close_price": 1754.0,
+        "volume": 16994217.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260808,
+        "open_price": 1789.0,
+        "high_price": 1789.0,
+        "low_price": 1788.0,
+        "close_price": 1789.0,
+        "volume": 5460005.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260805,
+        "open_price": 1737.0,
+        "high_price": 1737.0,
+        "low_price": 1705.0,
+        "close_price": 1737.0,
+        "volume": 4961231.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260803,
+        "open_price": 1684.0,
+        "high_price": 1695.0,
+        "low_price": 1646.0,
+        "close_price": 1687.0,
+        "volume": 7117625.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260802,
+        "open_price": 1617.0,
+        "high_price": 1680.0,
+        "low_price": 1617.0,
+        "close_price": 1646.0,
+        "volume": 3571337.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260801,
+        "open_price": 1647.0,
+        "high_price": 1650.0,
+        "low_price": 1639.0,
+        "close_price": 1642.0,
+        "volume": 2152510.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260729,
+        "open_price": 1660.0,
+        "high_price": 1677.0,
+        "low_price": 1614.0,
+        "close_price": 1647.0,
+        "volume": 5001048.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260728,
+        "open_price": 1659.0,
+        "high_price": 1680.0,
+        "low_price": 1657.0,
+        "close_price": 1662.0,
+        "volume": 3004186.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260727,
+        "open_price": 1699.0,
+        "high_price": 1699.0,
+        "low_price": 1652.0,
+        "close_price": 1659.0,
+        "volume": 3342916.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260726,
+        "open_price": 1649.0,
+        "high_price": 1660.0,
+        "low_price": 1630.0,
+        "close_price": 1651.0,
+        "volume": 2175996.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260725,
+        "open_price": 1607.0,
+        "high_price": 1660.0,
+        "low_price": 1607.0,
+        "close_price": 1614.0,
+        "volume": 1584128.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260722,
+        "open_price": 1644.0,
+        "high_price": 1647.0,
+        "low_price": 1603.0,
+        "close_price": 1612.0,
+        "volume": 1715043.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260721,
+        "open_price": 1603.0,
+        "high_price": 1603.0,
+        "low_price": 1603.0,
+        "close_price": 1603.0,
+        "volume": 1965290.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260720,
+        "open_price": 1505.0,
+        "high_price": 1578.0,
+        "low_price": 1504.0,
+        "close_price": 1557.0,
+        "volume": 1697255.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260719,
+        "open_price": 1496.0,
+        "high_price": 1580.0,
+        "low_price": 1496.0,
+        "close_price": 1535.0,
+        "volume": 4468954.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260718,
+        "open_price": 1549.0,
+        "high_price": 1550.0,
+        "low_price": 1535.0,
+        "close_price": 1536.0,
+        "volume": 6945405.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260715,
+        "open_price": 1585.0,
+        "high_price": 1632.0,
+        "low_price": 1554.0,
+        "close_price": 1582.0,
+        "volume": 2998736.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260714,
+        "open_price": 1564.0,
+        "high_price": 1600.0,
+        "low_price": 1564.0,
+        "close_price": 1585.0,
+        "volume": 3855263.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260713,
+        "open_price": 1564.0,
+        "high_price": 1657.0,
+        "low_price": 1563.0,
+        "close_price": 1596.0,
+        "volume": 4436483.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260712,
+        "open_price": 1613.0,
+        "high_price": 1620.0,
+        "low_price": 1608.0,
+        "close_price": 1609.0,
+        "volume": 7854842.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260711,
+        "open_price": 1686.0,
+        "high_price": 1686.0,
+        "low_price": 1654.0,
+        "close_price": 1657.0,
+        "volume": 7253978.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260708,
+        "open_price": 1700.0,
+        "high_price": 1749.0,
+        "low_price": 1683.0,
+        "close_price": 1705.0,
+        "volume": 9265776.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260707,
+        "open_price": 1680.0,
+        "high_price": 1759.0,
+        "low_price": 1680.0,
+        "close_price": 1735.0,
+        "volume": 4011705.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260701,
+        "open_price": 1713.0,
+        "high_price": 1758.0,
+        "low_price": 1666.0,
+        "close_price": 1715.0,
+        "volume": 6573985.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260630,
+        "open_price": 1700.0,
+        "high_price": 1713.0,
+        "low_price": 1700.0,
+        "close_price": 1713.0,
+        "volume": 17220590.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260629,
+        "open_price": 1640.0,
+        "high_price": 1697.0,
+        "low_price": 1640.0,
+        "close_price": 1664.0,
+        "volume": 4389419.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260628,
+        "open_price": 1724.0,
+        "high_price": 1724.0,
+        "low_price": 1673.0,
+        "close_price": 1686.0,
+        "volume": 4561223.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260627,
+        "open_price": 1698.0,
+        "high_price": 1726.0,
+        "low_price": 1677.0,
+        "close_price": 1724.0,
+        "volume": 12304743.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260623,
+        "open_price": 1698.0,
+        "high_price": 1698.0,
+        "low_price": 1651.0,
+        "close_price": 1676.0,
+        "volume": 5403430.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260622,
+        "open_price": 1701.0,
+        "high_price": 1701.0,
+        "low_price": 1626.0,
+        "close_price": 1649.0,
+        "volume": 9169250.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260621,
+        "open_price": 1702.0,
+        "high_price": 1702.0,
+        "low_price": 1651.0,
+        "close_price": 1659.0,
+        "volume": 11419289.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260620,
+        "open_price": 1768.0,
+        "high_price": 1768.0,
+        "low_price": 1684.0,
+        "close_price": 1702.0,
+        "volume": 7843840.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260617,
+        "open_price": 1735.0,
+        "high_price": 1764.0,
+        "low_price": 1735.0,
+        "close_price": 1736.0,
+        "volume": 23118483.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260616,
+        "open_price": 1842.0,
+        "high_price": 1842.0,
+        "low_price": 1736.0,
+        "close_price": 1788.0,
+        "volume": 33828044.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260615,
+        "open_price": 1789.0,
+        "high_price": 1789.0,
+        "low_price": 1778.0,
+        "close_price": 1789.0,
+        "volume": 45576712.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260614,
+        "open_price": 1737.0,
+        "high_price": 1737.0,
+        "low_price": 1701.0,
+        "close_price": 1737.0,
+        "volume": 27080617.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260613,
+        "open_price": 1687.0,
+        "high_price": 1687.0,
+        "low_price": 1687.0,
+        "close_price": 1687.0,
+        "volume": 8021597.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260610,
+        "open_price": 1634.0,
+        "high_price": 1644.0,
+        "low_price": 1597.0,
+        "close_price": 1638.0,
+        "volume": 17818698.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260609,
+        "open_price": 1540.0,
+        "high_price": 1599.0,
+        "low_price": 1540.0,
+        "close_price": 1597.0,
+        "volume": 2039045.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260608,
+        "open_price": 1562.0,
+        "high_price": 1599.0,
+        "low_price": 1552.0,
+        "close_price": 1553.0,
+        "volume": 9636074.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260607,
+        "open_price": 1600.0,
+        "high_price": 1608.0,
+        "low_price": 1540.0,
+        "close_price": 1599.0,
+        "volume": 39284503.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260606,
+        "open_price": 1600.0,
+        "high_price": 1600.0,
+        "low_price": 1523.0,
+        "close_price": 1562.0,
+        "volume": 2229426.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260603,
+        "open_price": 1565.0,
+        "high_price": 1580.0,
+        "low_price": 1562.0,
+        "close_price": 1564.0,
+        "volume": 41284411.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260602,
+        "open_price": 1674.0,
+        "high_price": 1674.0,
+        "low_price": 1603.0,
+        "close_price": 1610.0,
+        "volume": 22100047.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260601,
+        "open_price": 1669.0,
+        "high_price": 1718.0,
+        "low_price": 1632.0,
+        "close_price": 1652.0,
+        "volume": 24681697.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260531,
+        "open_price": 1668.0,
+        "high_price": 1668.0,
+        "low_price": 1664.0,
+        "close_price": 1668.0,
+        "volume": 44267541.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260530,
+        "open_price": 1609.0,
+        "high_price": 1623.0,
+        "low_price": 1599.0,
+        "close_price": 1620.0,
+        "volume": 4429396.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260526,
+        "open_price": 1601.0,
+        "high_price": 1601.0,
+        "low_price": 1573.0,
+        "close_price": 1576.0,
+        "volume": 14851283.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260525,
+        "open_price": 1670.0,
+        "high_price": 1673.0,
+        "low_price": 1577.0,
+        "close_price": 1621.0,
+        "volume": 38496791.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260524,
+        "open_price": 1600.0,
+        "high_price": 1648.0,
+        "low_price": 1600.0,
+        "close_price": 1625.0,
+        "volume": 123955243.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260523,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1316.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260520,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1316.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260519,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1316.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1316.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1316.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1316.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1316.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1316.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1316.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2053.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2053.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2053.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2053.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2053.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2053.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2053.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2053.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2053.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2053.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2053.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2053.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2053.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2053.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2053.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2053.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2053.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2053.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2053.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2053.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2124.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2124.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2124.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2124.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2124.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2124.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2124.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2124.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2124.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2124.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2124.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2124.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2124.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2124.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2124.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2124.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2124.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2124.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2124.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2124.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2124.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2124.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2124.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2124.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260225,
+        "open_price": 2135.0,
+        "high_price": 2135.0,
+        "low_price": 2078.0,
+        "close_price": 2124.0,
+        "volume": 1002305.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260224,
+        "open_price": 2146.0,
+        "high_price": 2146.0,
+        "low_price": 2090.0,
+        "close_price": 2135.0,
+        "volume": 1918174.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260223,
+        "open_price": 2137.0,
+        "high_price": 2170.0,
+        "low_price": 2136.0,
+        "close_price": 2146.0,
+        "volume": 4259845.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260222,
+        "open_price": 2160.0,
+        "high_price": 2160.0,
+        "low_price": 2099.0,
+        "close_price": 2136.0,
+        "volume": 5066622.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260221,
+        "open_price": 2204.0,
+        "high_price": 2204.0,
+        "low_price": 2138.0,
+        "close_price": 2163.0,
+        "volume": 5791019.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260218,
+        "open_price": 2208.0,
+        "high_price": 2220.0,
+        "low_price": 2189.0,
+        "close_price": 2204.0,
+        "volume": 7102901.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260217,
+        "open_price": 2201.0,
+        "high_price": 2220.0,
+        "low_price": 2170.0,
+        "close_price": 2199.0,
+        "volume": 4550264.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260216,
+        "open_price": 2169.0,
+        "high_price": 2223.0,
+        "low_price": 2163.0,
+        "close_price": 2201.0,
+        "volume": 3749456.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260215,
+        "open_price": 2170.0,
+        "high_price": 2198.0,
+        "low_price": 2150.0,
+        "close_price": 2159.0,
+        "volume": 6519374.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260214,
+        "open_price": 2234.0,
+        "high_price": 2234.0,
+        "low_price": 2127.0,
+        "close_price": 2160.0,
+        "volume": 6036005.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260210,
+        "open_price": 2180.0,
+        "high_price": 2200.0,
+        "low_price": 2158.0,
+        "close_price": 2170.0,
+        "volume": 5181803.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260209,
+        "open_price": 2204.0,
+        "high_price": 2204.0,
+        "low_price": 2132.0,
+        "close_price": 2166.0,
+        "volume": 5615014.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260208,
+        "open_price": 2222.0,
+        "high_price": 2253.0,
+        "low_price": 2166.0,
+        "close_price": 2196.0,
+        "volume": 14582565.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260207,
+        "open_price": 2191.0,
+        "high_price": 2221.0,
+        "low_price": 2180.0,
+        "close_price": 2214.0,
+        "volume": 17125881.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260203,
+        "open_price": 2112.0,
+        "high_price": 2174.0,
+        "low_price": 2111.0,
+        "close_price": 2157.0,
+        "volume": 47840013.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260202,
+        "open_price": 2140.0,
+        "high_price": 2143.0,
+        "low_price": 2086.0,
+        "close_price": 2111.0,
+        "volume": 1475809.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260201,
+        "open_price": 2054.0,
+        "high_price": 2106.0,
+        "low_price": 2045.0,
+        "close_price": 2081.0,
+        "volume": 2264906.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260131,
+        "open_price": 2088.0,
+        "high_price": 2129.0,
+        "low_price": 2017.0,
+        "close_price": 2045.0,
+        "volume": 9545458.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260128,
+        "open_price": 2078.0,
+        "high_price": 2098.0,
+        "low_price": 2077.0,
+        "close_price": 2079.0,
+        "volume": 2883674.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260127,
+        "open_price": 2065.0,
+        "high_price": 2118.0,
+        "low_price": 2065.0,
+        "close_price": 2078.0,
+        "volume": 8229658.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260126,
+        "open_price": 2115.0,
+        "high_price": 2180.0,
+        "low_price": 2115.0,
+        "close_price": 2128.0,
+        "volume": 7129810.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260125,
+        "open_price": 2234.0,
+        "high_price": 2234.0,
+        "low_price": 2167.0,
+        "close_price": 2180.0,
+        "volume": 6947785.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260124,
+        "open_price": 2293.0,
+        "high_price": 2293.0,
+        "low_price": 2216.0,
+        "close_price": 2234.0,
+        "volume": 8604741.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260121,
+        "open_price": 2233.0,
+        "high_price": 2289.0,
+        "low_price": 2233.0,
+        "close_price": 2284.0,
+        "volume": 6756557.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260120,
+        "open_price": 2223.0,
+        "high_price": 2228.0,
+        "low_price": 2170.0,
+        "close_price": 2223.0,
+        "volume": 6903264.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260119,
+        "open_price": 2210.0,
+        "high_price": 2210.0,
+        "low_price": 2112.0,
+        "close_price": 2164.0,
+        "volume": 4134156.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260118,
+        "open_price": 2147.0,
+        "high_price": 2209.0,
+        "low_price": 2082.0,
+        "close_price": 2164.0,
+        "volume": 10992566.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260114,
+        "open_price": 2198.0,
+        "high_price": 2198.0,
+        "low_price": 2132.0,
+        "close_price": 2146.0,
+        "volume": 7010094.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260113,
+        "open_price": 2206.0,
+        "high_price": 2255.0,
+        "low_price": 2174.0,
+        "close_price": 2197.0,
+        "volume": 5912512.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260112,
+        "open_price": 2200.0,
+        "high_price": 2206.0,
+        "low_price": 2144.0,
+        "close_price": 2191.0,
+        "volume": 2578492.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260111,
+        "open_price": 2137.0,
+        "high_price": 2200.0,
+        "low_price": 2087.0,
+        "close_price": 2142.0,
+        "volume": 11848295.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260110,
+        "open_price": 2202.0,
+        "high_price": 2202.0,
+        "low_price": 2133.0,
+        "close_price": 2137.0,
+        "volume": 27058232.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260107,
+        "open_price": 2192.0,
+        "high_price": 2252.0,
+        "low_price": 2158.0,
+        "close_price": 2198.0,
+        "volume": 25732689.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260106,
+        "open_price": 2136.0,
+        "high_price": 2200.0,
+        "low_price": 2136.0,
+        "close_price": 2187.0,
+        "volume": 10271217.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260105,
+        "open_price": 2118.0,
+        "high_price": 2137.0,
+        "low_price": 2100.0,
+        "close_price": 2136.0,
+        "volume": 6076485.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20260104,
+        "open_price": 2110.0,
+        "high_price": 2167.0,
+        "low_price": 2044.0,
+        "close_price": 2075.0,
+        "volume": 8355188.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251231,
+        "open_price": 2051.0,
+        "high_price": 2117.0,
+        "low_price": 2000.0,
+        "close_price": 2105.0,
+        "volume": 7230805.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251230,
+        "open_price": 2110.0,
+        "high_price": 2110.0,
+        "low_price": 2034.0,
+        "close_price": 2056.0,
+        "volume": 10323041.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251229,
+        "open_price": 2109.0,
+        "high_price": 2170.0,
+        "low_price": 2062.0,
+        "close_price": 2095.0,
+        "volume": 27242138.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251228,
+        "open_price": 2188.0,
+        "high_price": 2188.0,
+        "low_price": 2109.0,
+        "close_price": 2125.0,
+        "volume": 14667285.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251227,
+        "open_price": 2220.0,
+        "high_price": 2224.0,
+        "low_price": 2138.0,
+        "close_price": 2174.0,
+        "volume": 29313539.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251224,
+        "open_price": 2215.0,
+        "high_price": 2221.0,
+        "low_price": 2154.0,
+        "close_price": 2190.0,
+        "volume": 18717603.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251223,
+        "open_price": 2170.0,
+        "high_price": 2213.0,
+        "low_price": 2115.0,
+        "close_price": 2157.0,
+        "volume": 15461874.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251222,
+        "open_price": 2219.0,
+        "high_price": 2219.0,
+        "low_price": 2111.0,
+        "close_price": 2167.0,
+        "volume": 18067572.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251221,
+        "open_price": 2156.0,
+        "high_price": 2156.0,
+        "low_price": 2121.0,
+        "close_price": 2155.0,
+        "volume": 39544662.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251220,
+        "open_price": 2109.0,
+        "high_price": 2109.0,
+        "low_price": 2109.0,
+        "close_price": 2094.0,
+        "volume": 15243134.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251217,
+        "open_price": 2065.0,
+        "high_price": 2089.0,
+        "low_price": 2039.0,
+        "close_price": 2048.0,
+        "volume": 8962580.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251216,
+        "open_price": 2030.0,
+        "high_price": 2086.0,
+        "low_price": 1990.0,
+        "close_price": 2029.0,
+        "volume": 13106029.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251215,
+        "open_price": 2048.0,
+        "high_price": 2056.0,
+        "low_price": 2017.0,
+        "close_price": 2026.0,
+        "volume": 13075915.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251214,
+        "open_price": 1996.0,
+        "high_price": 2049.0,
+        "low_price": 1993.0,
+        "close_price": 1997.0,
+        "volume": 4867775.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251213,
+        "open_price": 1954.0,
+        "high_price": 2005.0,
+        "low_price": 1954.0,
+        "close_price": 1990.0,
+        "volume": 15912017.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251210,
+        "open_price": 1909.0,
+        "high_price": 1949.0,
+        "low_price": 1904.0,
+        "close_price": 1947.0,
+        "volume": 22201386.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251209,
+        "open_price": 1922.0,
+        "high_price": 1940.0,
+        "low_price": 1888.0,
+        "close_price": 1893.0,
+        "volume": 5363143.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251208,
+        "open_price": 1901.0,
+        "high_price": 1929.0,
+        "low_price": 1875.0,
+        "close_price": 1888.0,
+        "volume": 7676739.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251207,
+        "open_price": 1893.0,
+        "high_price": 1893.0,
+        "low_price": 1863.0,
+        "close_price": 1884.0,
+        "volume": 6266355.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251206,
+        "open_price": 1913.0,
+        "high_price": 1913.0,
+        "low_price": 1872.0,
+        "close_price": 1888.0,
+        "volume": 12563313.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251203,
+        "open_price": 1890.0,
+        "high_price": 1949.0,
+        "low_price": 1854.0,
+        "close_price": 1897.0,
+        "volume": 6829121.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251202,
+        "open_price": 1933.0,
+        "high_price": 1933.0,
+        "low_price": 1889.0,
+        "close_price": 1911.0,
+        "volume": 5733603.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251201,
+        "open_price": 1933.0,
+        "high_price": 1949.0,
+        "low_price": 1890.0,
+        "close_price": 1914.0,
+        "volume": 2625243.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251130,
+        "open_price": 1916.0,
+        "high_price": 1919.0,
+        "low_price": 1880.0,
+        "close_price": 1915.0,
+        "volume": 2723239.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251129,
+        "open_price": 1936.0,
+        "high_price": 1951.0,
+        "low_price": 1898.0,
+        "close_price": 1918.0,
+        "volume": 1959542.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251126,
+        "open_price": 1921.0,
+        "high_price": 1921.0,
+        "low_price": 1895.0,
+        "close_price": 1918.0,
+        "volume": 5356488.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251125,
+        "open_price": 1920.0,
+        "high_price": 1920.0,
+        "low_price": 1889.0,
+        "close_price": 1922.0,
+        "volume": 3465806.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251123,
+        "open_price": 1944.0,
+        "high_price": 1944.0,
+        "low_price": 1884.0,
+        "close_price": 1925.0,
+        "volume": 24397571.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251122,
+        "open_price": 1925.0,
+        "high_price": 1925.0,
+        "low_price": 1925.0,
+        "close_price": 1888.0,
+        "volume": 6828203.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251119,
+        "open_price": 1897.0,
+        "high_price": 1897.0,
+        "low_price": 1857.0,
+        "close_price": 1869.0,
+        "volume": 1707144.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251118,
+        "open_price": 1884.0,
+        "high_price": 1884.0,
+        "low_price": 1842.0,
+        "close_price": 1869.0,
+        "volume": 1767619.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251117,
+        "open_price": 1884.0,
+        "high_price": 1884.0,
+        "low_price": 1828.0,
+        "close_price": 1871.0,
+        "volume": 7356809.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251116,
+        "open_price": 1894.0,
+        "high_price": 1894.0,
+        "low_price": 1847.0,
+        "close_price": 1884.0,
+        "volume": 1229157.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251115,
+        "open_price": 1853.0,
+        "high_price": 1896.0,
+        "low_price": 1853.0,
+        "close_price": 1886.0,
+        "volume": 971421.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251112,
+        "open_price": 1880.0,
+        "high_price": 1880.0,
+        "low_price": 1854.0,
+        "close_price": 1887.0,
+        "volume": 1956235.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251111,
+        "open_price": 1900.0,
+        "high_price": 1900.0,
+        "low_price": 1864.0,
+        "close_price": 1890.0,
+        "volume": 1566179.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251110,
+        "open_price": 1899.0,
+        "high_price": 1899.0,
+        "low_price": 1863.0,
+        "close_price": 1892.0,
+        "volume": 667252.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251109,
+        "open_price": 1842.0,
+        "high_price": 1879.0,
+        "low_price": 1840.0,
+        "close_price": 1892.0,
+        "volume": 1304648.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251108,
+        "open_price": 1902.0,
+        "high_price": 1914.0,
+        "low_price": 1881.0,
+        "close_price": 1896.0,
+        "volume": 1112485.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251105,
+        "open_price": 1917.0,
+        "high_price": 1917.0,
+        "low_price": 1899.0,
+        "close_price": 1896.0,
+        "volume": 1919340.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251104,
+        "open_price": 1896.0,
+        "high_price": 1905.0,
+        "low_price": 1877.0,
+        "close_price": 1895.0,
+        "volume": 2443665.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251103,
+        "open_price": 1926.0,
+        "high_price": 1945.0,
+        "low_price": 1890.0,
+        "close_price": 1896.0,
+        "volume": 4233998.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251102,
+        "open_price": 1906.0,
+        "high_price": 1947.0,
+        "low_price": 1885.0,
+        "close_price": 1896.0,
+        "volume": 4332769.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251101,
+        "open_price": 1950.0,
+        "high_price": 1950.0,
+        "low_price": 1861.0,
+        "close_price": 1891.0,
+        "volume": 4045614.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251029,
+        "open_price": 1896.0,
+        "high_price": 1900.0,
+        "low_price": 1865.0,
+        "close_price": 1894.0,
+        "volume": 4212277.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251028,
+        "open_price": 1868.0,
+        "high_price": 1925.0,
+        "low_price": 1866.0,
+        "close_price": 1896.0,
+        "volume": 11488373.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251027,
+        "open_price": 1820.0,
+        "high_price": 1918.0,
+        "low_price": 1820.0,
+        "close_price": 1869.0,
+        "volume": 4517353.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251026,
+        "open_price": 1929.0,
+        "high_price": 1929.0,
+        "low_price": 1837.0,
+        "close_price": 1873.0,
+        "volume": 7276378.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251025,
+        "open_price": 1924.0,
+        "high_price": 1924.0,
+        "low_price": 1869.0,
+        "close_price": 1873.0,
+        "volume": 3788030.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251022,
+        "open_price": 1871.0,
+        "high_price": 1901.0,
+        "low_price": 1871.0,
+        "close_price": 1868.0,
+        "volume": 8415448.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251021,
+        "open_price": 1818.0,
+        "high_price": 1871.0,
+        "low_price": 1818.0,
+        "close_price": 1846.0,
+        "volume": 10971739.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251020,
+        "open_price": 1796.0,
+        "high_price": 1849.0,
+        "low_price": 1796.0,
+        "close_price": 1817.0,
+        "volume": 8378993.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251019,
+        "open_price": 1764.0,
+        "high_price": 1814.0,
+        "low_price": 1761.0,
+        "close_price": 1796.0,
+        "volume": 15974277.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251018,
+        "open_price": 1785.0,
+        "high_price": 1808.0,
+        "low_price": 1770.0,
+        "close_price": 1762.0,
+        "volume": 3028552.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251015,
+        "open_price": 1776.0,
+        "high_price": 1783.0,
+        "low_price": 1729.0,
+        "close_price": 1756.0,
+        "volume": 12663551.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251014,
+        "open_price": 1733.0,
+        "high_price": 1733.0,
+        "low_price": 1693.0,
+        "close_price": 1732.0,
+        "volume": 23435471.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251013,
+        "open_price": 1641.0,
+        "high_price": 1683.0,
+        "low_price": 1641.0,
+        "close_price": 1683.0,
+        "volume": 22658592.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251012,
+        "open_price": 1653.0,
+        "high_price": 1670.0,
+        "low_price": 1646.0,
+        "close_price": 1634.0,
+        "volume": 1898632.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251011,
+        "open_price": 1660.0,
+        "high_price": 1660.0,
+        "low_price": 1630.0,
+        "close_price": 1632.0,
+        "volume": 1258517.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251008,
+        "open_price": 1650.0,
+        "high_price": 1650.0,
+        "low_price": 1636.0,
+        "close_price": 1631.0,
+        "volume": 802063.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251007,
+        "open_price": 1636.0,
+        "high_price": 1650.0,
+        "low_price": 1635.0,
+        "close_price": 1630.0,
+        "volume": 1715507.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251006,
+        "open_price": 1628.0,
+        "high_price": 1645.0,
+        "low_price": 1626.0,
+        "close_price": 1628.0,
+        "volume": 1491673.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251005,
+        "open_price": 1650.0,
+        "high_price": 1650.0,
+        "low_price": 1627.0,
+        "close_price": 1628.0,
+        "volume": 1255830.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251004,
+        "open_price": 1627.0,
+        "high_price": 1659.0,
+        "low_price": 1624.0,
+        "close_price": 1628.0,
+        "volume": 1790795.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20251001,
+        "open_price": 1628.0,
+        "high_price": 1634.0,
+        "low_price": 1607.0,
+        "close_price": 1627.0,
+        "volume": 1719858.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250930,
+        "open_price": 1629.0,
+        "high_price": 1645.0,
+        "low_price": 1600.0,
+        "close_price": 1628.0,
+        "volume": 1679285.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250929,
+        "open_price": 1629.0,
+        "high_price": 1655.0,
+        "low_price": 1628.0,
+        "close_price": 1629.0,
+        "volume": 1243341.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250928,
+        "open_price": 1671.0,
+        "high_price": 1671.0,
+        "low_price": 1626.0,
+        "close_price": 1628.0,
+        "volume": 1793078.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250927,
+        "open_price": 1625.0,
+        "high_price": 1640.0,
+        "low_price": 1595.0,
+        "close_price": 1625.0,
+        "volume": 1310217.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250924,
+        "open_price": 1624.0,
+        "high_price": 1624.0,
+        "low_price": 1600.0,
+        "close_price": 1625.0,
+        "volume": 766157.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250923,
+        "open_price": 1640.0,
+        "high_price": 1640.0,
+        "low_price": 1585.0,
+        "close_price": 1625.0,
+        "volume": 1873327.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250922,
+        "open_price": 1627.0,
+        "high_price": 1659.0,
+        "low_price": 1596.0,
+        "close_price": 1627.0,
+        "volume": 782642.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250921,
+        "open_price": 1610.0,
+        "high_price": 1632.0,
+        "low_price": 1605.0,
+        "close_price": 1627.0,
+        "volume": 917707.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250920,
+        "open_price": 1597.0,
+        "high_price": 1597.0,
+        "low_price": 1587.0,
+        "close_price": 1627.0,
+        "volume": 931670.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250917,
+        "open_price": 1650.0,
+        "high_price": 1650.0,
+        "low_price": 1626.0,
+        "close_price": 1629.0,
+        "volume": 434347.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250916,
+        "open_price": 1629.0,
+        "high_price": 1650.0,
+        "low_price": 1611.0,
+        "close_price": 1629.0,
+        "volume": 1047865.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250915,
+        "open_price": 1650.0,
+        "high_price": 1659.0,
+        "low_price": 1632.0,
+        "close_price": 1629.0,
+        "volume": 289050.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250914,
+        "open_price": 1628.0,
+        "high_price": 1664.0,
+        "low_price": 1628.0,
+        "close_price": 1629.0,
+        "volume": 885146.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250913,
+        "open_price": 1628.0,
+        "high_price": 1650.0,
+        "low_price": 1622.0,
+        "close_price": 1628.0,
+        "volume": 539899.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250909,
+        "open_price": 1636.0,
+        "high_price": 1636.0,
+        "low_price": 1618.0,
+        "close_price": 1628.0,
+        "volume": 1389372.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250908,
+        "open_price": 1666.0,
+        "high_price": 1666.0,
+        "low_price": 1624.0,
+        "close_price": 1628.0,
+        "volume": 942782.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250907,
+        "open_price": 1627.0,
+        "high_price": 1650.0,
+        "low_price": 1627.0,
+        "close_price": 1627.0,
+        "volume": 605178.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250906,
+        "open_price": 1627.0,
+        "high_price": 1650.0,
+        "low_price": 1591.0,
+        "close_price": 1627.0,
+        "volume": 1477824.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250903,
+        "open_price": 1627.0,
+        "high_price": 1655.0,
+        "low_price": 1623.0,
+        "close_price": 1627.0,
+        "volume": 1003697.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250902,
+        "open_price": 1625.0,
+        "high_price": 1673.0,
+        "low_price": 1623.0,
+        "close_price": 1627.0,
+        "volume": 1819420.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250831,
+        "open_price": 1625.0,
+        "high_price": 1640.0,
+        "low_price": 1604.0,
+        "close_price": 1625.0,
+        "volume": 1510063.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250830,
+        "open_price": 1631.0,
+        "high_price": 1631.0,
+        "low_price": 1583.0,
+        "close_price": 1625.0,
+        "volume": 3183421.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250827,
+        "open_price": 1631.0,
+        "high_price": 1631.0,
+        "low_price": 1611.0,
+        "close_price": 1631.0,
+        "volume": 524563.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250826,
+        "open_price": 1637.0,
+        "high_price": 1640.0,
+        "low_price": 1623.0,
+        "close_price": 1631.0,
+        "volume": 1343743.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250825,
+        "open_price": 1632.0,
+        "high_price": 1640.0,
+        "low_price": 1606.0,
+        "close_price": 1631.0,
+        "volume": 2898194.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250823,
+        "open_price": 1646.0,
+        "high_price": 1649.0,
+        "low_price": 1637.0,
+        "close_price": 1632.0,
+        "volume": 1279827.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250820,
+        "open_price": 1642.0,
+        "high_price": 1642.0,
+        "low_price": 1631.0,
+        "close_price": 1631.0,
+        "volume": 1328741.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250819,
+        "open_price": 1631.0,
+        "high_price": 1645.0,
+        "low_price": 1630.0,
+        "close_price": 1631.0,
+        "volume": 914966.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250818,
+        "open_price": 1639.0,
+        "high_price": 1639.0,
+        "low_price": 1620.0,
+        "close_price": 1631.0,
+        "volume": 626544.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250817,
+        "open_price": 1638.0,
+        "high_price": 1663.0,
+        "low_price": 1633.0,
+        "close_price": 1631.0,
+        "volume": 778696.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250816,
+        "open_price": 1627.0,
+        "high_price": 1652.0,
+        "low_price": 1623.0,
+        "close_price": 1630.0,
+        "volume": 2122362.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250813,
+        "open_price": 1635.0,
+        "high_price": 1635.0,
+        "low_price": 1586.0,
+        "close_price": 1629.0,
+        "volume": 3003646.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250812,
+        "open_price": 1635.0,
+        "high_price": 1635.0,
+        "low_price": 1620.0,
+        "close_price": 1635.0,
+        "volume": 664412.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250811,
+        "open_price": 1635.0,
+        "high_price": 1650.0,
+        "low_price": 1601.0,
+        "close_price": 1635.0,
+        "volume": 1355639.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250810,
+        "open_price": 1635.0,
+        "high_price": 1650.0,
+        "low_price": 1615.0,
+        "close_price": 1635.0,
+        "volume": 1513736.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250809,
+        "open_price": 1635.0,
+        "high_price": 1650.0,
+        "low_price": 1607.0,
+        "close_price": 1635.0,
+        "volume": 2646734.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250806,
+        "open_price": 1635.0,
+        "high_price": 1635.0,
+        "low_price": 1611.0,
+        "close_price": 1635.0,
+        "volume": 463400.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250805,
+        "open_price": 1645.0,
+        "high_price": 1650.0,
+        "low_price": 1625.0,
+        "close_price": 1635.0,
+        "volume": 1382808.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250804,
+        "open_price": 1635.0,
+        "high_price": 1654.0,
+        "low_price": 1632.0,
+        "close_price": 1635.0,
+        "volume": 485831.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250803,
+        "open_price": 1634.0,
+        "high_price": 1645.0,
+        "low_price": 1628.0,
+        "close_price": 1635.0,
+        "volume": 2671422.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250802,
+        "open_price": 1628.0,
+        "high_price": 1635.0,
+        "low_price": 1620.0,
+        "close_price": 1635.0,
+        "volume": 2467027.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250730,
+        "open_price": 1630.0,
+        "high_price": 1630.0,
+        "low_price": 1595.0,
+        "close_price": 1636.0,
+        "volume": 749336.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250729,
+        "open_price": 1637.0,
+        "high_price": 1637.0,
+        "low_price": 1592.0,
+        "close_price": 1637.0,
+        "volume": 1977396.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250728,
+        "open_price": 1642.0,
+        "high_price": 1642.0,
+        "low_price": 1605.0,
+        "close_price": 1641.0,
+        "volume": 905258.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250727,
+        "open_price": 1645.0,
+        "high_price": 1645.0,
+        "low_price": 1606.0,
+        "close_price": 1642.0,
+        "volume": 2107648.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250726,
+        "open_price": 1643.0,
+        "high_price": 1677.0,
+        "low_price": 1643.0,
+        "close_price": 1645.0,
+        "volume": 1457026.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250723,
+        "open_price": 1650.0,
+        "high_price": 1662.0,
+        "low_price": 1639.0,
+        "close_price": 1643.0,
+        "volume": 2298506.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250722,
+        "open_price": 1651.0,
+        "high_price": 1651.0,
+        "low_price": 1641.0,
+        "close_price": 1642.0,
+        "volume": 1339028.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250721,
+        "open_price": 1641.0,
+        "high_price": 1661.0,
+        "low_price": 1637.0,
+        "close_price": 1642.0,
+        "volume": 1860407.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250720,
+        "open_price": 1641.0,
+        "high_price": 1650.0,
+        "low_price": 1628.0,
+        "close_price": 1641.0,
+        "volume": 2397020.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250719,
+        "open_price": 1647.0,
+        "high_price": 1667.0,
+        "low_price": 1639.0,
+        "close_price": 1641.0,
+        "volume": 3181771.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250716,
+        "open_price": 1656.0,
+        "high_price": 1664.0,
+        "low_price": 1614.0,
+        "close_price": 1640.0,
+        "volume": 6140038.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250715,
+        "open_price": 1659.0,
+        "high_price": 1659.0,
+        "low_price": 1600.0,
+        "close_price": 1641.0,
+        "volume": 11452654.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250714,
+        "open_price": 1653.0,
+        "high_price": 1653.0,
+        "low_price": 1606.0,
+        "close_price": 1646.0,
+        "volume": 7092704.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250713,
+        "open_price": 1668.0,
+        "high_price": 1682.0,
+        "low_price": 1615.0,
+        "close_price": 1653.0,
+        "volume": 4453199.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250712,
+        "open_price": 1657.0,
+        "high_price": 1701.0,
+        "low_price": 1649.0,
+        "close_price": 1653.0,
+        "volume": 3140875.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250709,
+        "open_price": 1620.0,
+        "high_price": 1690.0,
+        "low_price": 1610.0,
+        "close_price": 1652.0,
+        "volume": 9873871.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250708,
+        "open_price": 1618.0,
+        "high_price": 1688.0,
+        "low_price": 1618.0,
+        "close_price": 1659.0,
+        "volume": 1133730.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250707,
+        "open_price": 1670.0,
+        "high_price": 1709.0,
+        "low_price": 1640.0,
+        "close_price": 1660.0,
+        "volume": 1717949.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250702,
+        "open_price": 1616.0,
+        "high_price": 1690.0,
+        "low_price": 1616.0,
+        "close_price": 1660.0,
+        "volume": 4009946.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250701,
+        "open_price": 1654.0,
+        "high_price": 1696.0,
+        "low_price": 1637.0,
+        "close_price": 1661.0,
+        "volume": 5605437.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250630,
+        "open_price": 1628.0,
+        "high_price": 1678.0,
+        "low_price": 1628.0,
+        "close_price": 1663.0,
+        "volume": 7979094.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250629,
+        "open_price": 1645.0,
+        "high_price": 1660.0,
+        "low_price": 1645.0,
+        "close_price": 1678.0,
+        "volume": 6861279.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250628,
+        "open_price": 1660.0,
+        "high_price": 1660.0,
+        "low_price": 1660.0,
+        "close_price": 1695.0,
+        "volume": 6273432.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1711.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1711.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1711.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1711.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1711.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1711.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1711.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1711.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250611,
+        "open_price": 1759.0,
+        "high_price": 1759.0,
+        "low_price": 1672.0,
+        "close_price": 1711.0,
+        "volume": 1632048.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250610,
+        "open_price": 1712.0,
+        "high_price": 1721.0,
+        "low_price": 1682.0,
+        "close_price": 1712.0,
+        "volume": 2611560.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250609,
+        "open_price": 1713.0,
+        "high_price": 1713.0,
+        "low_price": 1680.0,
+        "close_price": 1712.0,
+        "volume": 2077388.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250608,
+        "open_price": 1714.0,
+        "high_price": 1714.0,
+        "low_price": 1672.0,
+        "close_price": 1714.0,
+        "volume": 1426160.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250607,
+        "open_price": 1717.0,
+        "high_price": 1717.0,
+        "low_price": 1675.0,
+        "close_price": 1715.0,
+        "volume": 2020880.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250603,
+        "open_price": 1721.0,
+        "high_price": 1721.0,
+        "low_price": 1682.0,
+        "close_price": 1718.0,
+        "volume": 3035270.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250602,
+        "open_price": 1721.0,
+        "high_price": 1728.0,
+        "low_price": 1715.0,
+        "close_price": 1721.0,
+        "volume": 1723960.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250601,
+        "open_price": 1730.0,
+        "high_price": 1730.0,
+        "low_price": 1699.0,
+        "close_price": 1721.0,
+        "volume": 2577056.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250531,
+        "open_price": 1730.0,
+        "high_price": 1733.0,
+        "low_price": 1700.0,
+        "close_price": 1722.0,
+        "volume": 1177552.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250528,
+        "open_price": 1740.0,
+        "high_price": 1740.0,
+        "low_price": 1717.0,
+        "close_price": 1722.0,
+        "volume": 2332167.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250527,
+        "open_price": 1730.0,
+        "high_price": 1730.0,
+        "low_price": 1710.0,
+        "close_price": 1722.0,
+        "volume": 2586754.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250526,
+        "open_price": 1740.0,
+        "high_price": 1740.0,
+        "low_price": 1683.0,
+        "close_price": 1722.0,
+        "volume": 9040093.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250525,
+        "open_price": 1737.0,
+        "high_price": 1750.0,
+        "low_price": 1700.0,
+        "close_price": 1735.0,
+        "volume": 2334152.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250524,
+        "open_price": 1750.0,
+        "high_price": 1750.0,
+        "low_price": 1700.0,
+        "close_price": 1737.0,
+        "volume": 2207193.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250521,
+        "open_price": 1740.0,
+        "high_price": 1740.0,
+        "low_price": 1695.0,
+        "close_price": 1737.0,
+        "volume": 2361032.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250520,
+        "open_price": 1741.0,
+        "high_price": 1741.0,
+        "low_price": 1702.0,
+        "close_price": 1741.0,
+        "volume": 1505517.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250519,
+        "open_price": 1744.0,
+        "high_price": 1744.0,
+        "low_price": 1713.0,
+        "close_price": 1742.0,
+        "volume": 2346493.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250518,
+        "open_price": 1775.0,
+        "high_price": 1775.0,
+        "low_price": 1723.0,
+        "close_price": 1744.0,
+        "volume": 3467897.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250517,
+        "open_price": 1760.0,
+        "high_price": 1760.0,
+        "low_price": 1715.0,
+        "close_price": 1744.0,
+        "volume": 3046938.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250514,
+        "open_price": 1746.0,
+        "high_price": 1752.0,
+        "low_price": 1740.0,
+        "close_price": 1746.0,
+        "volume": 5727386.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250513,
+        "open_price": 1760.0,
+        "high_price": 1760.0,
+        "low_price": 1712.0,
+        "close_price": 1746.0,
+        "volume": 4529209.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250512,
+        "open_price": 1751.0,
+        "high_price": 1782.0,
+        "low_price": 1747.0,
+        "close_price": 1748.0,
+        "volume": 2075024.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250511,
+        "open_price": 1760.0,
+        "high_price": 1761.0,
+        "low_price": 1742.0,
+        "close_price": 1746.0,
+        "volume": 5746911.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250510,
+        "open_price": 1760.0,
+        "high_price": 1760.0,
+        "low_price": 1731.0,
+        "close_price": 1743.0,
+        "volume": 7522787.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250507,
+        "open_price": 1750.0,
+        "high_price": 1770.0,
+        "low_price": 1735.0,
+        "close_price": 1738.0,
+        "volume": 4583238.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250506,
+        "open_price": 1760.0,
+        "high_price": 1760.0,
+        "low_price": 1730.0,
+        "close_price": 1734.0,
+        "volume": 3534915.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250505,
+        "open_price": 1730.0,
+        "high_price": 1753.0,
+        "low_price": 1684.0,
+        "close_price": 1732.0,
+        "volume": 10671434.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250504,
+        "open_price": 1733.0,
+        "high_price": 1733.0,
+        "low_price": 1686.0,
+        "close_price": 1730.0,
+        "volume": 4744581.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250503,
+        "open_price": 1745.0,
+        "high_price": 1778.0,
+        "low_price": 1693.0,
+        "close_price": 1736.0,
+        "volume": 5374114.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250430,
+        "open_price": 1745.0,
+        "high_price": 1780.0,
+        "low_price": 1742.0,
+        "close_price": 1745.0,
+        "volume": 5721203.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250429,
+        "open_price": 1740.0,
+        "high_price": 1769.0,
+        "low_price": 1740.0,
+        "close_price": 1743.0,
+        "volume": 5230318.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250428,
+        "open_price": 1749.0,
+        "high_price": 1767.0,
+        "low_price": 1697.0,
+        "close_price": 1740.0,
+        "volume": 11160876.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250427,
+        "open_price": 1753.0,
+        "high_price": 1753.0,
+        "low_price": 1703.0,
+        "close_price": 1749.0,
+        "volume": 3580028.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250426,
+        "open_price": 1791.0,
+        "high_price": 1800.0,
+        "low_price": 1727.0,
+        "close_price": 1754.0,
+        "volume": 15498474.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250423,
+        "open_price": 1769.0,
+        "high_price": 1825.0,
+        "low_price": 1738.0,
+        "close_price": 1780.0,
+        "volume": 9408113.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250422,
+        "open_price": 1810.0,
+        "high_price": 1810.0,
+        "low_price": 1756.0,
+        "close_price": 1791.0,
+        "volume": 8556552.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250421,
+        "open_price": 1850.0,
+        "high_price": 1850.0,
+        "low_price": 1760.0,
+        "close_price": 1810.0,
+        "volume": 11653564.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250420,
+        "open_price": 1784.0,
+        "high_price": 1837.0,
+        "low_price": 1783.0,
+        "close_price": 1797.0,
+        "volume": 6190456.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250419,
+        "open_price": 1784.0,
+        "high_price": 1825.0,
+        "low_price": 1761.0,
+        "close_price": 1784.0,
+        "volume": 4419375.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250416,
+        "open_price": 1783.0,
+        "high_price": 1800.0,
+        "low_price": 1770.0,
+        "close_price": 1783.0,
+        "volume": 2883715.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250415,
+        "open_price": 1828.0,
+        "high_price": 1828.0,
+        "low_price": 1740.0,
+        "close_price": 1783.0,
+        "volume": 2957909.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250414,
+        "open_price": 1832.0,
+        "high_price": 1832.0,
+        "low_price": 1778.0,
+        "close_price": 1785.0,
+        "volume": 4519426.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250413,
+        "open_price": 1794.0,
+        "high_price": 1825.0,
+        "low_price": 1794.0,
+        "close_price": 1779.0,
+        "volume": 2498525.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250412,
+        "open_price": 1772.0,
+        "high_price": 1792.0,
+        "low_price": 1760.0,
+        "close_price": 1772.0,
+        "volume": 1671933.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250409,
+        "open_price": 1782.0,
+        "high_price": 1799.0,
+        "low_price": 1770.0,
+        "close_price": 1772.0,
+        "volume": 7685513.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250408,
+        "open_price": 1768.0,
+        "high_price": 1821.0,
+        "low_price": 1768.0,
+        "close_price": 1771.0,
+        "volume": 2943038.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250407,
+        "open_price": 1768.0,
+        "high_price": 1790.0,
+        "low_price": 1762.0,
+        "close_price": 1768.0,
+        "volume": 1738925.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250406,
+        "open_price": 1769.0,
+        "high_price": 1769.0,
+        "low_price": 1750.0,
+        "close_price": 1768.0,
+        "volume": 4024887.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250405,
+        "open_price": 1766.0,
+        "high_price": 1817.0,
+        "low_price": 1765.0,
+        "close_price": 1769.0,
+        "volume": 2625806.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250330,
+        "open_price": 1765.0,
+        "high_price": 1780.0,
+        "low_price": 1762.0,
+        "close_price": 1765.0,
+        "volume": 2290701.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250329,
+        "open_price": 1765.0,
+        "high_price": 1770.0,
+        "low_price": 1750.0,
+        "close_price": 1765.0,
+        "volume": 3085190.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250326,
+        "open_price": 1765.0,
+        "high_price": 1815.0,
+        "low_price": 1751.0,
+        "close_price": 1765.0,
+        "volume": 2401583.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250325,
+        "open_price": 1760.0,
+        "high_price": 1812.0,
+        "low_price": 1760.0,
+        "close_price": 1765.0,
+        "volume": 2216380.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2514.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2514.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2514.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2514.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250312,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2564.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250311,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2564.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250310,
+        "open_price": 2541.0,
+        "high_price": 2593.0,
+        "low_price": 2518.0,
+        "close_price": 2564.0,
+        "volume": 11601193.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250309,
+        "open_price": 2517.0,
+        "high_price": 2556.0,
+        "low_price": 2481.0,
+        "close_price": 2518.0,
+        "volume": 5136731.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250308,
+        "open_price": 2514.0,
+        "high_price": 2551.0,
+        "low_price": 2445.0,
+        "close_price": 2516.0,
+        "volume": 13738800.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250305,
+        "open_price": 2539.0,
+        "high_price": 2548.0,
+        "low_price": 2511.0,
+        "close_price": 2520.0,
+        "volume": 4317485.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250304,
+        "open_price": 2530.0,
+        "high_price": 2558.0,
+        "low_price": 2490.0,
+        "close_price": 2517.0,
+        "volume": 16041218.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250303,
+        "open_price": 2530.0,
+        "high_price": 2530.0,
+        "low_price": 2457.0,
+        "close_price": 2513.0,
+        "volume": 4743823.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250302,
+        "open_price": 2524.0,
+        "high_price": 2568.0,
+        "low_price": 2487.0,
+        "close_price": 2532.0,
+        "volume": 17163469.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250301,
+        "open_price": 2540.0,
+        "high_price": 2540.0,
+        "low_price": 2481.0,
+        "close_price": 2524.0,
+        "volume": 11347156.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250226,
+        "open_price": 2520.0,
+        "high_price": 2553.0,
+        "low_price": 2490.0,
+        "close_price": 2521.0,
+        "volume": 15620811.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250225,
+        "open_price": 2515.0,
+        "high_price": 2550.0,
+        "low_price": 2494.0,
+        "close_price": 2510.0,
+        "volume": 7331974.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250224,
+        "open_price": 2530.0,
+        "high_price": 2530.0,
+        "low_price": 2500.0,
+        "close_price": 2494.0,
+        "volume": 4966750.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250223,
+        "open_price": 2464.0,
+        "high_price": 2535.0,
+        "low_price": 2464.0,
+        "close_price": 2487.0,
+        "volume": 5778171.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250222,
+        "open_price": 2470.0,
+        "high_price": 2500.0,
+        "low_price": 2460.0,
+        "close_price": 2464.0,
+        "volume": 4807327.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250219,
+        "open_price": 2522.0,
+        "high_price": 2522.0,
+        "low_price": 2452.0,
+        "close_price": 2457.0,
+        "volume": 2857449.0
+    },
+    {
+        "symbol": "تملت",
+        "trade_date": 20250218,
+        "open_price": 2470.0,
+        "high_price": 2519.0,
+        "low_price": 2450.0,
+        "close_price": 2454.0,
+        "volume": 2070332.0
+    }
+]

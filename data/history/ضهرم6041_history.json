@@ -1,0 +1,434 @@
+[
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260901,
+        "open_price": 32000.0,
+        "high_price": 32000.0,
+        "low_price": 31000.0,
+        "close_price": 31598.0,
+        "volume": 92.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260831,
+        "open_price": 29000.0,
+        "high_price": 30000.0,
+        "low_price": 28002.0,
+        "close_price": 29829.0,
+        "volume": 41.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260829,
+        "open_price": 30500.0,
+        "high_price": 32190.0,
+        "low_price": 30208.0,
+        "close_price": 30926.0,
+        "volume": 506.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260826,
+        "open_price": 30999.0,
+        "high_price": 31000.0,
+        "low_price": 29012.0,
+        "close_price": 30440.0,
+        "volume": 653.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260825,
+        "open_price": 26000.0,
+        "high_price": 27500.0,
+        "low_price": 26000.0,
+        "close_price": 27164.0,
+        "volume": 889.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260824,
+        "open_price": 24000.0,
+        "high_price": 24000.0,
+        "low_price": 24000.0,
+        "close_price": 24000.0,
+        "volume": 1.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260823,
+        "open_price": 25000.0,
+        "high_price": 25000.0,
+        "low_price": 23500.0,
+        "close_price": 23859.0,
+        "volume": 352.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260822,
+        "open_price": 23101.0,
+        "high_price": 25500.0,
+        "low_price": 23101.0,
+        "close_price": 24832.0,
+        "volume": 413.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260819,
+        "open_price": 23000.0,
+        "high_price": 23302.0,
+        "low_price": 23000.0,
+        "close_price": 23061.0,
+        "volume": 166.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260818,
+        "open_price": 25000.0,
+        "high_price": 25480.0,
+        "low_price": 22100.0,
+        "close_price": 22948.0,
+        "volume": 83.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260817,
+        "open_price": 25800.0,
+        "high_price": 25800.0,
+        "low_price": 24400.0,
+        "close_price": 24896.0,
+        "volume": 320.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260816,
+        "open_price": 21805.0,
+        "high_price": 24305.0,
+        "low_price": 21000.0,
+        "close_price": 23048.0,
+        "volume": 508.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260815,
+        "open_price": 22200.0,
+        "high_price": 22200.0,
+        "low_price": 20001.0,
+        "close_price": 21535.0,
+        "volume": 598.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260811,
+        "open_price": 23300.0,
+        "high_price": 24600.0,
+        "low_price": 23300.0,
+        "close_price": 24150.0,
+        "volume": 140.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260810,
+        "open_price": 21503.0,
+        "high_price": 25154.0,
+        "low_price": 21000.0,
+        "close_price": 23272.0,
+        "volume": 4216.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260809,
+        "open_price": 28900.0,
+        "high_price": 28900.0,
+        "low_price": 21000.0,
+        "close_price": 21743.0,
+        "volume": 2262.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260808,
+        "open_price": 24999.0,
+        "high_price": 26700.0,
+        "low_price": 23500.0,
+        "close_price": 24655.0,
+        "volume": 2874.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260805,
+        "open_price": 20900.0,
+        "high_price": 21890.0,
+        "low_price": 20503.0,
+        "close_price": 21414.0,
+        "volume": 1075.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260803,
+        "open_price": 17000.0,
+        "high_price": 18270.0,
+        "low_price": 16900.0,
+        "close_price": 17734.0,
+        "volume": 3156.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260802,
+        "open_price": 14332.0,
+        "high_price": 15995.0,
+        "low_price": 14332.0,
+        "close_price": 14995.0,
+        "volume": 2847.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260801,
+        "open_price": 12004.0,
+        "high_price": 14266.0,
+        "low_price": 12004.0,
+        "close_price": 13470.0,
+        "volume": 6351.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260729,
+        "open_price": 14000.0,
+        "high_price": 14780.0,
+        "low_price": 14000.0,
+        "close_price": 14395.0,
+        "volume": 4826.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260728,
+        "open_price": 15202.0,
+        "high_price": 16250.0,
+        "low_price": 14500.0,
+        "close_price": 15871.0,
+        "volume": 3777.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260727,
+        "open_price": 16349.0,
+        "high_price": 16349.0,
+        "low_price": 14880.0,
+        "close_price": 15455.0,
+        "volume": 6913.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260726,
+        "open_price": 14700.0,
+        "high_price": 16497.0,
+        "low_price": 14700.0,
+        "close_price": 15867.0,
+        "volume": 16206.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260725,
+        "open_price": 14000.0,
+        "high_price": 14000.0,
+        "low_price": 11000.0,
+        "close_price": 12025.0,
+        "volume": 14916.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260722,
+        "open_price": 15489.0,
+        "high_price": 15489.0,
+        "low_price": 12142.0,
+        "close_price": 12817.0,
+        "volume": 5347.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260721,
+        "open_price": 13900.0,
+        "high_price": 14289.0,
+        "low_price": 13750.0,
+        "close_price": 14034.0,
+        "volume": 1154.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260720,
+        "open_price": 13200.0,
+        "high_price": 13904.0,
+        "low_price": 11501.0,
+        "close_price": 13076.0,
+        "volume": 1120.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260719,
+        "open_price": 12000.0,
+        "high_price": 12119.0,
+        "low_price": 11501.0,
+        "close_price": 11733.0,
+        "volume": 1395.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260718,
+        "open_price": 10201.0,
+        "high_price": 10220.0,
+        "low_price": 10200.0,
+        "close_price": 10202.0,
+        "volume": 10.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260715,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 13000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260714,
+        "open_price": 13000.0,
+        "high_price": 13000.0,
+        "low_price": 13000.0,
+        "close_price": 13000.0,
+        "volume": 19.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260713,
+        "open_price": 17300.0,
+        "high_price": 17300.0,
+        "low_price": 16800.0,
+        "close_price": 17063.0,
+        "volume": 19.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260712,
+        "open_price": 16000.0,
+        "high_price": 16000.0,
+        "low_price": 15500.0,
+        "close_price": 15780.0,
+        "volume": 5.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260711,
+        "open_price": 21242.0,
+        "high_price": 21242.0,
+        "low_price": 21000.0,
+        "close_price": 21121.0,
+        "volume": 2.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260708,
+        "open_price": 23000.0,
+        "high_price": 23000.0,
+        "low_price": 22500.0,
+        "close_price": 22963.0,
+        "volume": 27.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260707,
+        "open_price": 23000.0,
+        "high_price": 23500.0,
+        "low_price": 23000.0,
+        "close_price": 23106.0,
+        "volume": 10.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260701,
+        "open_price": 20999.0,
+        "high_price": 22995.0,
+        "low_price": 20999.0,
+        "close_price": 22069.0,
+        "volume": 53.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260630,
+        "open_price": 35555.0,
+        "high_price": 35555.0,
+        "low_price": 17011.0,
+        "close_price": 20228.0,
+        "volume": 70.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260629,
+        "open_price": 18500.0,
+        "high_price": 19500.0,
+        "low_price": 18500.0,
+        "close_price": 19025.0,
+        "volume": 8.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260628,
+        "open_price": 17001.0,
+        "high_price": 18000.0,
+        "low_price": 17001.0,
+        "close_price": 17486.0,
+        "volume": 7.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260627,
+        "open_price": 24099.0,
+        "high_price": 24099.0,
+        "low_price": 16101.0,
+        "close_price": 20216.0,
+        "volume": 13.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260623,
+        "open_price": 24000.0,
+        "high_price": 24000.0,
+        "low_price": 21026.0,
+        "close_price": 23508.0,
+        "volume": 22.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260622,
+        "open_price": 16011.0,
+        "high_price": 22000.0,
+        "low_price": 16009.0,
+        "close_price": 18315.0,
+        "volume": 78.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260621,
+        "open_price": 27500.0,
+        "high_price": 27750.0,
+        "low_price": 20023.0,
+        "close_price": 22756.0,
+        "volume": 148.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260620,
+        "open_price": 27690.0,
+        "high_price": 27690.0,
+        "low_price": 23000.0,
+        "close_price": 24213.0,
+        "volume": 141.0
+    },
+    {
+        "symbol": "ضهرم6041",
+        "trade_date": 20260617,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1.0,
+        "volume": 0.0
+    }
+]

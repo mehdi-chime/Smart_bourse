@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260901,
+        "open_price": 3120.0,
+        "high_price": 3120.0,
+        "low_price": 3030.0,
+        "close_price": 3110.0,
+        "volume": 64744677.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260831,
+        "open_price": 2950.0,
+        "high_price": 3130.0,
+        "low_price": 2950.0,
+        "close_price": 3030.0,
+        "volume": 74475419.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260829,
+        "open_price": 3090.0,
+        "high_price": 3130.0,
+        "low_price": 2960.0,
+        "close_price": 3040.0,
+        "volume": 54582597.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260826,
+        "open_price": 3049.0,
+        "high_price": 3059.0,
+        "low_price": 2978.0,
+        "close_price": 3047.0,
+        "volume": 37338649.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260825,
+        "open_price": 2897.0,
+        "high_price": 3001.0,
+        "low_price": 2888.0,
+        "close_price": 2970.0,
+        "volume": 36800173.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260824,
+        "open_price": 2872.0,
+        "high_price": 2994.0,
+        "low_price": 2855.0,
+        "close_price": 2914.0,
+        "volume": 41263210.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260823,
+        "open_price": 3058.0,
+        "high_price": 3058.0,
+        "low_price": 2891.0,
+        "close_price": 2943.0,
+        "volume": 51956582.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260822,
+        "open_price": 2979.0,
+        "high_price": 2990.0,
+        "low_price": 2910.0,
+        "close_price": 2980.0,
+        "volume": 30114240.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260819,
+        "open_price": 2814.0,
+        "high_price": 2983.0,
+        "low_price": 2811.0,
+        "close_price": 2903.0,
+        "volume": 28382225.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260818,
+        "open_price": 2879.0,
+        "high_price": 2964.0,
+        "low_price": 2792.0,
+        "close_price": 2897.0,
+        "volume": 43075276.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260817,
+        "open_price": 2881.0,
+        "high_price": 2881.0,
+        "low_price": 2839.0,
+        "close_price": 2878.0,
+        "volume": 37844073.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260816,
+        "open_price": 2797.0,
+        "high_price": 2798.0,
+        "low_price": 2795.0,
+        "close_price": 2798.0,
+        "volume": 11906067.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260815,
+        "open_price": 2630.0,
+        "high_price": 2790.0,
+        "low_price": 2628.0,
+        "close_price": 2717.0,
+        "volume": 63720085.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260811,
+        "open_price": 2739.0,
+        "high_price": 2739.0,
+        "low_price": 2651.0,
+        "close_price": 2709.0,
+        "volume": 29585455.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260810,
+        "open_price": 2550.0,
+        "high_price": 2671.0,
+        "low_price": 2520.0,
+        "close_price": 2660.0,
+        "volume": 26241104.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260809,
+        "open_price": 2706.0,
+        "high_price": 2706.0,
+        "low_price": 2550.0,
+        "close_price": 2594.0,
+        "volume": 58580065.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260808,
+        "open_price": 2628.0,
+        "high_price": 2628.0,
+        "low_price": 2628.0,
+        "close_price": 2628.0,
+        "volume": 6989122.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260805,
+        "open_price": 2552.0,
+        "high_price": 2552.0,
+        "low_price": 2552.0,
+        "close_price": 2552.0,
+        "volume": 3502415.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260803,
+        "open_price": 2478.0,
+        "high_price": 2478.0,
+        "low_price": 2474.0,
+        "close_price": 2478.0,
+        "volume": 15478492.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260802,
+        "open_price": 2409.0,
+        "high_price": 2409.0,
+        "low_price": 2385.0,
+        "close_price": 2406.0,
+        "volume": 23933898.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260801,
+        "open_price": 2319.0,
+        "high_price": 2376.0,
+        "low_price": 2245.0,
+        "close_price": 2339.0,
+        "volume": 36811605.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260729,
+        "open_price": 2300.0,
+        "high_price": 2369.0,
+        "low_price": 2299.0,
+        "close_price": 2307.0,
+        "volume": 34139527.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260728,
+        "open_price": 2380.0,
+        "high_price": 2380.0,
+        "low_price": 2301.0,
+        "close_price": 2370.0,
+        "volume": 35737263.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260727,
+        "open_price": 2311.0,
+        "high_price": 2311.0,
+        "low_price": 2311.0,
+        "close_price": 2311.0,
+        "volume": 26442069.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260726,
+        "open_price": 2244.0,
+        "high_price": 2244.0,
+        "low_price": 2244.0,
+        "close_price": 2244.0,
+        "volume": 5254480.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260725,
+        "open_price": 2151.0,
+        "high_price": 2215.0,
+        "low_price": 2130.0,
+        "close_price": 2179.0,
+        "volume": 17814254.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260722,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2146.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260721,
+        "open_price": 2070.0,
+        "high_price": 2148.0,
+        "low_price": 2070.0,
+        "close_price": 2146.0,
+        "volume": 21027325.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260720,
+        "open_price": 2110.0,
+        "high_price": 2113.0,
+        "low_price": 1998.0,
+        "close_price": 2086.0,
+        "volume": 22448619.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260719,
+        "open_price": 2052.0,
+        "high_price": 2096.0,
+        "low_price": 2052.0,
+        "close_price": 2052.0,
+        "volume": 17013102.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260718,
+        "open_price": 2115.0,
+        "high_price": 2115.0,
+        "low_price": 2115.0,
+        "close_price": 2115.0,
+        "volume": 3250105.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260715,
+        "open_price": 2171.0,
+        "high_price": 2230.0,
+        "low_price": 2171.0,
+        "close_price": 2180.0,
+        "volume": 44308227.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260714,
+        "open_price": 2238.0,
+        "high_price": 2238.0,
+        "low_price": 2238.0,
+        "close_price": 2238.0,
+        "volume": 2135141.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260713,
+        "open_price": 2307.0,
+        "high_price": 2307.0,
+        "low_price": 2307.0,
+        "close_price": 2307.0,
+        "volume": 5371261.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260712,
+        "open_price": 2378.0,
+        "high_price": 2378.0,
+        "low_price": 2378.0,
+        "close_price": 2378.0,
+        "volume": 483727.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260711,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2451.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260708,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2451.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260707,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2451.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260701,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2451.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260630,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2451.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260629,
+        "open_price": 2440.0,
+        "high_price": 2568.0,
+        "low_price": 2420.0,
+        "close_price": 2451.0,
+        "volume": 30416871.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260628,
+        "open_price": 2495.0,
+        "high_price": 2498.0,
+        "low_price": 2494.0,
+        "close_price": 2494.0,
+        "volume": 8770194.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260627,
+        "open_price": 2596.0,
+        "high_price": 2596.0,
+        "low_price": 2500.0,
+        "close_price": 2571.0,
+        "volume": 30784532.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260623,
+        "open_price": 2521.0,
+        "high_price": 2521.0,
+        "low_price": 2521.0,
+        "close_price": 2521.0,
+        "volume": 5297379.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260622,
+        "open_price": 2458.0,
+        "high_price": 2473.0,
+        "low_price": 2351.0,
+        "close_price": 2448.0,
+        "volume": 42414616.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260621,
+        "open_price": 2464.0,
+        "high_price": 2472.0,
+        "low_price": 2328.0,
+        "close_price": 2401.0,
+        "volume": 47003283.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260620,
+        "open_price": 2400.0,
+        "high_price": 2418.0,
+        "low_price": 2340.0,
+        "close_price": 2400.0,
+        "volume": 54743543.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260617,
+        "open_price": 2358.0,
+        "high_price": 2399.0,
+        "low_price": 2279.0,
+        "close_price": 2348.0,
+        "volume": 33893062.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260616,
+        "open_price": 2400.0,
+        "high_price": 2400.0,
+        "low_price": 2262.0,
+        "close_price": 2349.0,
+        "volume": 46694871.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260615,
+        "open_price": 2331.0,
+        "high_price": 2331.0,
+        "low_price": 2331.0,
+        "close_price": 2331.0,
+        "volume": 4039141.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260614,
+        "open_price": 2264.0,
+        "high_price": 2264.0,
+        "low_price": 2264.0,
+        "close_price": 2264.0,
+        "volume": 9412251.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260613,
+        "open_price": 2199.0,
+        "high_price": 2199.0,
+        "low_price": 2199.0,
+        "close_price": 2199.0,
+        "volume": 3070636.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260610,
+        "open_price": 2130.0,
+        "high_price": 2187.0,
+        "low_price": 2061.0,
+        "close_price": 2135.0,
+        "volume": 29134126.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260609,
+        "open_price": 2124.0,
+        "high_price": 2124.0,
+        "low_price": 2123.0,
+        "close_price": 2124.0,
+        "volume": 21174342.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260608,
+        "open_price": 2063.0,
+        "high_price": 2063.0,
+        "low_price": 2063.0,
+        "close_price": 2063.0,
+        "volume": 13698816.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260607,
+        "open_price": 2126.0,
+        "high_price": 2126.0,
+        "low_price": 2077.0,
+        "close_price": 2126.0,
+        "volume": 23443255.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260606,
+        "open_price": 2003.0,
+        "high_price": 2113.0,
+        "low_price": 1991.0,
+        "close_price": 2065.0,
+        "volume": 33032438.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260603,
+        "open_price": 2077.0,
+        "high_price": 2099.0,
+        "low_price": 2037.0,
+        "close_price": 2052.0,
+        "volume": 39685250.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260602,
+        "open_price": 2140.0,
+        "high_price": 2147.0,
+        "low_price": 2068.0,
+        "close_price": 2100.0,
+        "volume": 58573227.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260601,
+        "open_price": 2179.0,
+        "high_price": 2179.0,
+        "low_price": 2071.0,
+        "close_price": 2131.0,
+        "volume": 62847126.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260531,
+        "open_price": 2121.0,
+        "high_price": 2121.0,
+        "low_price": 2100.0,
+        "close_price": 2120.0,
+        "volume": 40597266.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260530,
+        "open_price": 2060.0,
+        "high_price": 2060.0,
+        "low_price": 2059.0,
+        "close_price": 2060.0,
+        "volume": 13803859.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260526,
+        "open_price": 1910.0,
+        "high_price": 2018.0,
+        "low_price": 1910.0,
+        "close_price": 2000.0,
+        "volume": 24175186.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260525,
+        "open_price": 1962.0,
+        "high_price": 1962.0,
+        "low_price": 1922.0,
+        "close_price": 1960.0,
+        "volume": 24899997.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260524,
+        "open_price": 1905.0,
+        "high_price": 1905.0,
+        "low_price": 1905.0,
+        "close_price": 1905.0,
+        "volume": 13263856.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260523,
+        "open_price": 1850.0,
+        "high_price": 1850.0,
+        "low_price": 1838.0,
+        "close_price": 1850.0,
+        "volume": 35759713.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260520,
+        "open_price": 1794.0,
+        "high_price": 1809.0,
+        "low_price": 1733.0,
+        "close_price": 1797.0,
+        "volume": 31647860.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260519,
+        "open_price": 1722.0,
+        "high_price": 1828.0,
+        "low_price": 1722.0,
+        "close_price": 1757.0,
+        "volume": 61546099.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1775.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260225,
+        "open_price": 1739.0,
+        "high_price": 1810.0,
+        "low_price": 1739.0,
+        "close_price": 1775.0,
+        "volume": 6915531.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260224,
+        "open_price": 1760.0,
+        "high_price": 1789.0,
+        "low_price": 1755.0,
+        "close_price": 1769.0,
+        "volume": 5596225.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260223,
+        "open_price": 1824.0,
+        "high_price": 1824.0,
+        "low_price": 1761.0,
+        "close_price": 1809.0,
+        "volume": 9454377.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260222,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1771.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260221,
+        "open_price": 1718.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1771.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260218,
+        "open_price": 1834.0,
+        "high_price": 1834.0,
+        "low_price": 1760.0,
+        "close_price": 1771.0,
+        "volume": 8308143.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260217,
+        "open_price": 1831.0,
+        "high_price": 1834.0,
+        "low_price": 1751.0,
+        "close_price": 1814.0,
+        "volume": 7784965.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260216,
+        "open_price": 1721.0,
+        "high_price": 1794.0,
+        "low_price": 1721.0,
+        "close_price": 1781.0,
+        "volume": 7829586.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260215,
+        "open_price": 1743.0,
+        "high_price": 1797.0,
+        "low_price": 1739.0,
+        "close_price": 1742.0,
+        "volume": 10444760.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260214,
+        "open_price": 1830.0,
+        "high_price": 1830.0,
+        "low_price": 1724.0,
+        "close_price": 1792.0,
+        "volume": 14752967.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260210,
+        "open_price": 1742.0,
+        "high_price": 1778.0,
+        "low_price": 1742.0,
+        "close_price": 1777.0,
+        "volume": 10673439.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260209,
+        "open_price": 1733.0,
+        "high_price": 1733.0,
+        "low_price": 1726.0,
+        "close_price": 1727.0,
+        "volume": 2798284.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260208,
+        "open_price": 1812.0,
+        "high_price": 1851.0,
+        "low_price": 1761.0,
+        "close_price": 1779.0,
+        "volume": 14881356.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260207,
+        "open_price": 1818.0,
+        "high_price": 1818.0,
+        "low_price": 1775.0,
+        "close_price": 1815.0,
+        "volume": 16205087.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260203,
+        "open_price": 1776.0,
+        "high_price": 1800.0,
+        "low_price": 1762.0,
+        "close_price": 1766.0,
+        "volume": 32031213.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260202,
+        "open_price": 1829.0,
+        "high_price": 1849.0,
+        "low_price": 1802.0,
+        "close_price": 1816.0,
+        "volume": 6201911.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260201,
+        "open_price": 1800.0,
+        "high_price": 1829.0,
+        "low_price": 1800.0,
+        "close_price": 1805.0,
+        "volume": 15097299.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260131,
+        "open_price": 1910.0,
+        "high_price": 1910.0,
+        "low_price": 1839.0,
+        "close_price": 1855.0,
+        "volume": 6975708.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260128,
+        "open_price": 1891.0,
+        "high_price": 1918.0,
+        "low_price": 1891.0,
+        "close_price": 1895.0,
+        "volume": 24755601.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260127,
+        "open_price": 1949.0,
+        "high_price": 1949.0,
+        "low_price": 1949.0,
+        "close_price": 1949.0,
+        "volume": 2387029.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260126,
+        "open_price": 2009.0,
+        "high_price": 2010.0,
+        "low_price": 2009.0,
+        "close_price": 2009.0,
+        "volume": 14737282.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260125,
+        "open_price": 2075.0,
+        "high_price": 2078.0,
+        "low_price": 2071.0,
+        "close_price": 2071.0,
+        "volume": 13360102.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260124,
+        "open_price": 2232.0,
+        "high_price": 2232.0,
+        "low_price": 2102.0,
+        "close_price": 2135.0,
+        "volume": 38797191.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260121,
+        "open_price": 2129.0,
+        "high_price": 2191.0,
+        "low_price": 2128.0,
+        "close_price": 2167.0,
+        "volume": 18463676.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260120,
+        "open_price": 2195.0,
+        "high_price": 2195.0,
+        "low_price": 2087.0,
+        "close_price": 2128.0,
+        "volume": 20878311.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260119,
+        "open_price": 2165.0,
+        "high_price": 2188.0,
+        "low_price": 2095.0,
+        "close_price": 2151.0,
+        "volume": 13479042.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260118,
+        "open_price": 2110.0,
+        "high_price": 2210.0,
+        "low_price": 2110.0,
+        "close_price": 2125.0,
+        "volume": 35513218.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260114,
+        "open_price": 2175.0,
+        "high_price": 2175.0,
+        "low_price": 2175.0,
+        "close_price": 2175.0,
+        "volume": 1531724.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260113,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2242.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260112,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2242.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260111,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2242.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260110,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2242.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260107,
+        "open_price": 2329.0,
+        "high_price": 2340.0,
+        "low_price": 2231.0,
+        "close_price": 2242.0,
+        "volume": 22909127.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260106,
+        "open_price": 2223.0,
+        "high_price": 2303.0,
+        "low_price": 2223.0,
+        "close_price": 2300.0,
+        "volume": 35099099.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260105,
+        "open_price": 2205.0,
+        "high_price": 2271.0,
+        "low_price": 2205.0,
+        "close_price": 2236.0,
+        "volume": 32228595.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20260104,
+        "open_price": 2205.0,
+        "high_price": 2220.0,
+        "low_price": 2205.0,
+        "close_price": 2205.0,
+        "volume": 11251561.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251231,
+        "open_price": 2265.0,
+        "high_price": 2330.0,
+        "low_price": 2265.0,
+        "close_price": 2273.0,
+        "volume": 30049712.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251230,
+        "open_price": 2335.0,
+        "high_price": 2335.0,
+        "low_price": 2335.0,
+        "close_price": 2335.0,
+        "volume": 3287583.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251229,
+        "open_price": 2474.0,
+        "high_price": 2474.0,
+        "low_price": 2401.0,
+        "close_price": 2407.0,
+        "volume": 8096117.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251228,
+        "open_price": 2533.0,
+        "high_price": 2538.0,
+        "low_price": 2428.0,
+        "close_price": 2475.0,
+        "volume": 24343871.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251227,
+        "open_price": 2444.0,
+        "high_price": 2533.0,
+        "low_price": 2430.0,
+        "close_price": 2493.0,
+        "volume": 26816034.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251224,
+        "open_price": 2458.0,
+        "high_price": 2461.0,
+        "low_price": 2410.0,
+        "close_price": 2460.0,
+        "volume": 25954508.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251223,
+        "open_price": 2325.0,
+        "high_price": 2395.0,
+        "low_price": 2303.0,
+        "close_price": 2390.0,
+        "volume": 24238511.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251222,
+        "open_price": 2330.0,
+        "high_price": 2359.0,
+        "low_price": 2270.0,
+        "close_price": 2326.0,
+        "volume": 17631836.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251221,
+        "open_price": 2345.0,
+        "high_price": 2348.0,
+        "low_price": 2255.0,
+        "close_price": 2292.0,
+        "volume": 33661759.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251220,
+        "open_price": 2324.0,
+        "high_price": 2324.0,
+        "low_price": 2295.0,
+        "close_price": 2312.0,
+        "volume": 33405911.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251217,
+        "open_price": 2211.0,
+        "high_price": 2298.0,
+        "low_price": 2210.0,
+        "close_price": 2257.0,
+        "volume": 12966734.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251216,
+        "open_price": 2261.0,
+        "high_price": 2333.0,
+        "low_price": 2214.0,
+        "close_price": 2261.0,
+        "volume": 17129656.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251215,
+        "open_price": 2233.0,
+        "high_price": 2329.0,
+        "low_price": 2230.0,
+        "close_price": 2282.0,
+        "volume": 21531396.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251214,
+        "open_price": 2303.0,
+        "high_price": 2345.0,
+        "low_price": 2228.0,
+        "close_price": 2277.0,
+        "volume": 13844353.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251213,
+        "open_price": 2299.0,
+        "high_price": 2302.0,
+        "low_price": 2256.0,
+        "close_price": 2296.0,
+        "volume": 15244674.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251210,
+        "open_price": 2239.0,
+        "high_price": 2244.0,
+        "low_price": 2202.0,
+        "close_price": 2235.0,
+        "volume": 17288464.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251209,
+        "open_price": 2100.0,
+        "high_price": 2180.0,
+        "low_price": 2100.0,
+        "close_price": 2179.0,
+        "volume": 13426546.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251208,
+        "open_price": 2089.0,
+        "high_price": 2127.0,
+        "low_price": 2056.0,
+        "close_price": 2117.0,
+        "volume": 12672333.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251207,
+        "open_price": 2116.0,
+        "high_price": 2116.0,
+        "low_price": 2012.0,
+        "close_price": 2066.0,
+        "volume": 22584199.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251206,
+        "open_price": 2048.0,
+        "high_price": 2061.0,
+        "low_price": 2031.0,
+        "close_price": 2059.0,
+        "volume": 13355729.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251203,
+        "open_price": 1988.0,
+        "high_price": 2009.0,
+        "low_price": 1961.0,
+        "close_price": 2001.0,
+        "volume": 16291091.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251202,
+        "open_price": 1940.0,
+        "high_price": 1997.0,
+        "low_price": 1903.0,
+        "close_price": 1951.0,
+        "volume": 12363870.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251201,
+        "open_price": 1958.0,
+        "high_price": 1963.0,
+        "low_price": 1882.0,
+        "close_price": 1939.0,
+        "volume": 14480794.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251130,
+        "open_price": 1879.0,
+        "high_price": 1930.0,
+        "low_price": 1878.0,
+        "close_price": 1906.0,
+        "volume": 6324959.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251129,
+        "open_price": 1900.0,
+        "high_price": 1975.0,
+        "low_price": 1887.0,
+        "close_price": 1913.0,
+        "volume": 16877800.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251126,
+        "open_price": 2006.0,
+        "high_price": 2020.0,
+        "low_price": 1940.0,
+        "close_price": 1945.0,
+        "volume": 20905649.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251125,
+        "open_price": 1925.0,
+        "high_price": 2008.0,
+        "low_price": 1925.0,
+        "close_price": 1999.0,
+        "volume": 10909044.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251123,
+        "open_price": 1965.0,
+        "high_price": 1978.0,
+        "low_price": 1900.0,
+        "close_price": 1950.0,
+        "volume": 11077415.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251122,
+        "open_price": 1901.0,
+        "high_price": 1970.0,
+        "low_price": 1896.0,
+        "close_price": 1930.0,
+        "volume": 6303732.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251119,
+        "open_price": 1884.0,
+        "high_price": 1951.0,
+        "low_price": 1880.0,
+        "close_price": 1939.0,
+        "volume": 10685075.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251118,
+        "open_price": 1902.0,
+        "high_price": 1973.0,
+        "low_price": 1887.0,
+        "close_price": 1895.0,
+        "volume": 10571619.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251117,
+        "open_price": 1941.0,
+        "high_price": 1983.0,
+        "low_price": 1921.0,
+        "close_price": 1945.0,
+        "volume": 7999649.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251116,
+        "open_price": 1974.0,
+        "high_price": 1974.0,
+        "low_price": 1900.0,
+        "close_price": 1933.0,
+        "volume": 12792205.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251115,
+        "open_price": 1945.0,
+        "high_price": 1978.0,
+        "low_price": 1930.0,
+        "close_price": 1940.0,
+        "volume": 6335878.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251112,
+        "open_price": 1918.0,
+        "high_price": 1969.0,
+        "low_price": 1894.0,
+        "close_price": 1933.0,
+        "volume": 4508696.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251111,
+        "open_price": 1977.0,
+        "high_price": 2024.0,
+        "low_price": 1918.0,
+        "close_price": 1937.0,
+        "volume": 6825169.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251110,
+        "open_price": 1974.0,
+        "high_price": 2049.0,
+        "low_price": 1973.0,
+        "close_price": 1977.0,
+        "volume": 10881593.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251109,
+        "open_price": 2024.0,
+        "high_price": 2035.0,
+        "low_price": 2024.0,
+        "close_price": 2033.0,
+        "volume": 6086492.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251108,
+        "open_price": 2182.0,
+        "high_price": 2184.0,
+        "low_price": 2058.0,
+        "close_price": 2086.0,
+        "volume": 14807679.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251105,
+        "open_price": 2121.0,
+        "high_price": 2170.0,
+        "low_price": 2119.0,
+        "close_price": 2121.0,
+        "volume": 26327153.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251104,
+        "open_price": 2169.0,
+        "high_price": 2238.0,
+        "low_price": 2169.0,
+        "close_price": 2184.0,
+        "volume": 15987081.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251103,
+        "open_price": 2237.0,
+        "high_price": 2248.0,
+        "low_price": 2191.0,
+        "close_price": 2236.0,
+        "volume": 23649432.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251102,
+        "open_price": 2150.0,
+        "high_price": 2204.0,
+        "low_price": 2076.0,
+        "close_price": 2183.0,
+        "volume": 22497506.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251101,
+        "open_price": 2140.0,
+        "high_price": 2140.0,
+        "low_price": 2109.0,
+        "close_price": 2140.0,
+        "volume": 28950803.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251029,
+        "open_price": 2030.0,
+        "high_price": 2080.0,
+        "low_price": 2030.0,
+        "close_price": 2078.0,
+        "volume": 18589864.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251028,
+        "open_price": 2076.0,
+        "high_price": 2076.0,
+        "low_price": 1961.0,
+        "close_price": 2020.0,
+        "volume": 7780653.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251027,
+        "open_price": 2017.0,
+        "high_price": 2018.0,
+        "low_price": 1965.0,
+        "close_price": 2016.0,
+        "volume": 10755605.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251026,
+        "open_price": 1900.0,
+        "high_price": 2001.0,
+        "low_price": 1900.0,
+        "close_price": 1960.0,
+        "volume": 8498881.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251025,
+        "open_price": 2000.0,
+        "high_price": 2036.0,
+        "low_price": 1940.0,
+        "close_price": 1953.0,
+        "volume": 17899432.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251022,
+        "open_price": 2048.0,
+        "high_price": 2053.0,
+        "low_price": 2048.0,
+        "close_price": 2000.0,
+        "volume": 779691.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251021,
+        "open_price": 2010.0,
+        "high_price": 2047.0,
+        "low_price": 1963.0,
+        "close_price": 1994.0,
+        "volume": 8038997.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251020,
+        "open_price": 2073.0,
+        "high_price": 2075.0,
+        "low_price": 2011.0,
+        "close_price": 2023.0,
+        "volume": 18469769.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251019,
+        "open_price": 2120.0,
+        "high_price": 2120.0,
+        "low_price": 2030.0,
+        "close_price": 2073.0,
+        "volume": 12279283.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251018,
+        "open_price": 2067.0,
+        "high_price": 2070.0,
+        "low_price": 2020.0,
+        "close_price": 2070.0,
+        "volume": 16176297.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251015,
+        "open_price": 1978.0,
+        "high_price": 2068.0,
+        "low_price": 1978.0,
+        "close_price": 2010.0,
+        "volume": 12365337.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251014,
+        "open_price": 2057.0,
+        "high_price": 2071.0,
+        "low_price": 1977.0,
+        "close_price": 2036.0,
+        "volume": 16946083.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251013,
+        "open_price": 2034.0,
+        "high_price": 2034.0,
+        "low_price": 1977.0,
+        "close_price": 2011.0,
+        "volume": 14025570.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251012,
+        "open_price": 1977.0,
+        "high_price": 1977.0,
+        "low_price": 1961.0,
+        "close_price": 1975.0,
+        "volume": 7824974.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251011,
+        "open_price": 1909.0,
+        "high_price": 1928.0,
+        "low_price": 1851.0,
+        "close_price": 1920.0,
+        "volume": 13117665.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251008,
+        "open_price": 1919.0,
+        "high_price": 1919.0,
+        "low_price": 1824.0,
+        "close_price": 1872.0,
+        "volume": 12849443.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251007,
+        "open_price": 1771.0,
+        "high_price": 1873.0,
+        "low_price": 1765.0,
+        "close_price": 1868.0,
+        "volume": 24460946.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251006,
+        "open_price": 1800.0,
+        "high_price": 1851.0,
+        "low_price": 1750.0,
+        "close_price": 1819.0,
+        "volume": 20788234.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251005,
+        "open_price": 1798.0,
+        "high_price": 1798.0,
+        "low_price": 1775.0,
+        "close_price": 1798.0,
+        "volume": 16805077.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251004,
+        "open_price": 1767.0,
+        "high_price": 1774.0,
+        "low_price": 1767.0,
+        "close_price": 1746.0,
+        "volume": 3922063.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20251001,
+        "open_price": 1750.0,
+        "high_price": 1769.0,
+        "low_price": 1706.0,
+        "close_price": 1723.0,
+        "volume": 21708918.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250930,
+        "open_price": 1763.0,
+        "high_price": 1763.0,
+        "low_price": 1731.0,
+        "close_price": 1758.0,
+        "volume": 48344712.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250929,
+        "open_price": 1724.0,
+        "high_price": 1724.0,
+        "low_price": 1724.0,
+        "close_price": 1712.0,
+        "volume": 7032411.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250928,
+        "open_price": 1674.0,
+        "high_price": 1674.0,
+        "low_price": 1674.0,
+        "close_price": 1674.0,
+        "volume": 11364822.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250927,
+        "open_price": 1588.0,
+        "high_price": 1685.0,
+        "low_price": 1588.0,
+        "close_price": 1626.0,
+        "volume": 62244881.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250924,
+        "open_price": 1600.0,
+        "high_price": 1600.0,
+        "low_price": 1600.0,
+        "close_price": 1637.0,
+        "volume": 2226345.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250923,
+        "open_price": 1670.0,
+        "high_price": 1675.0,
+        "low_price": 1620.0,
+        "close_price": 1649.0,
+        "volume": 4075574.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250922,
+        "open_price": 1641.0,
+        "high_price": 1736.0,
+        "low_price": 1641.0,
+        "close_price": 1670.0,
+        "volume": 5904995.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250921,
+        "open_price": 1653.0,
+        "high_price": 1653.0,
+        "low_price": 1653.0,
+        "close_price": 1691.0,
+        "volume": 2288827.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250920,
+        "open_price": 1653.0,
+        "high_price": 1653.0,
+        "low_price": 1653.0,
+        "close_price": 1704.0,
+        "volume": 30000.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250917,
+        "open_price": 1708.0,
+        "high_price": 1708.0,
+        "low_price": 1681.0,
+        "close_price": 1704.0,
+        "volume": 4672493.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250916,
+        "open_price": 1720.0,
+        "high_price": 1772.0,
+        "low_price": 1708.0,
+        "close_price": 1732.0,
+        "volume": 4621529.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250915,
+        "open_price": 1831.0,
+        "high_price": 1831.0,
+        "low_price": 1730.0,
+        "close_price": 1760.0,
+        "volume": 6736664.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250914,
+        "open_price": 1706.0,
+        "high_price": 1786.0,
+        "low_price": 1706.0,
+        "close_price": 1783.0,
+        "volume": 9488293.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250913,
+        "open_price": 1787.0,
+        "high_price": 1787.0,
+        "low_price": 1706.0,
+        "close_price": 1734.0,
+        "volume": 4615629.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250909,
+        "open_price": 1755.0,
+        "high_price": 1755.0,
+        "low_price": 1710.0,
+        "close_price": 1744.0,
+        "volume": 15552241.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250908,
+        "open_price": 1700.0,
+        "high_price": 1717.0,
+        "low_price": 1700.0,
+        "close_price": 1704.0,
+        "volume": 6737326.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250907,
+        "open_price": 1611.0,
+        "high_price": 1698.0,
+        "low_price": 1611.0,
+        "close_price": 1667.0,
+        "volume": 5998308.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250906,
+        "open_price": 1650.0,
+        "high_price": 1707.0,
+        "low_price": 1617.0,
+        "close_price": 1652.0,
+        "volume": 8663246.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250903,
+        "open_price": 1667.0,
+        "high_price": 1667.0,
+        "low_price": 1650.0,
+        "close_price": 1667.0,
+        "volume": 15199440.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250902,
+        "open_price": 1636.0,
+        "high_price": 1637.0,
+        "low_price": 1636.0,
+        "close_price": 1619.0,
+        "volume": 5782199.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250831,
+        "open_price": 1539.0,
+        "high_price": 1630.0,
+        "low_price": 1539.0,
+        "close_price": 1590.0,
+        "volume": 11919522.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250830,
+        "open_price": 1544.0,
+        "high_price": 1544.0,
+        "low_price": 1544.0,
+        "close_price": 1586.0,
+        "volume": 983431.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250827,
+        "open_price": 1568.0,
+        "high_price": 1630.0,
+        "low_price": 1568.0,
+        "close_price": 1591.0,
+        "volume": 14470663.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250826,
+        "open_price": 1590.0,
+        "high_price": 1590.0,
+        "low_price": 1590.0,
+        "close_price": 1616.0,
+        "volume": 4190629.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250825,
+        "open_price": 1616.0,
+        "high_price": 1633.0,
+        "low_price": 1599.0,
+        "close_price": 1639.0,
+        "volume": 1746820.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250823,
+        "open_price": 1642.0,
+        "high_price": 1716.0,
+        "low_price": 1627.0,
+        "close_price": 1648.0,
+        "volume": 8117763.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250820,
+        "open_price": 1745.0,
+        "high_price": 1745.0,
+        "low_price": 1676.0,
+        "close_price": 1677.0,
+        "volume": 14604375.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250819,
+        "open_price": 1701.0,
+        "high_price": 1769.0,
+        "low_price": 1695.0,
+        "close_price": 1727.0,
+        "volume": 4814022.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250818,
+        "open_price": 1783.0,
+        "high_price": 1783.0,
+        "low_price": 1701.0,
+        "close_price": 1747.0,
+        "volume": 12555056.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250817,
+        "open_price": 1677.0,
+        "high_price": 1779.0,
+        "low_price": 1677.0,
+        "close_price": 1732.0,
+        "volume": 33515843.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250816,
+        "open_price": 1686.0,
+        "high_price": 1686.0,
+        "low_price": 1686.0,
+        "close_price": 1728.0,
+        "volume": 1600948.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250813,
+        "open_price": 1688.0,
+        "high_price": 1688.0,
+        "low_price": 1688.0,
+        "close_price": 1738.0,
+        "volume": 296296.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250812,
+        "open_price": 1696.0,
+        "high_price": 1696.0,
+        "low_price": 1696.0,
+        "close_price": 1740.0,
+        "volume": 1350119.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250811,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1748.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250810,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1748.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250809,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1748.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250806,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1748.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250805,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1748.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250804,
+        "open_price": 1694.0,
+        "high_price": 1780.0,
+        "low_price": 1680.0,
+        "close_price": 1748.0,
+        "volume": 13631629.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250803,
+        "open_price": 1720.0,
+        "high_price": 1779.0,
+        "low_price": 1704.0,
+        "close_price": 1729.0,
+        "volume": 8896214.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250802,
+        "open_price": 1749.0,
+        "high_price": 1779.0,
+        "low_price": 1749.0,
+        "close_price": 1750.0,
+        "volume": 42268238.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250730,
+        "open_price": 1757.0,
+        "high_price": 1757.0,
+        "low_price": 1757.0,
+        "close_price": 1803.0,
+        "volume": 1189795.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250729,
+        "open_price": 1764.0,
+        "high_price": 1764.0,
+        "low_price": 1764.0,
+        "close_price": 1811.0,
+        "volume": 989747.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250728,
+        "open_price": 1819.0,
+        "high_price": 1819.0,
+        "low_price": 1818.0,
+        "close_price": 1818.0,
+        "volume": 11602671.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250727,
+        "open_price": 1902.0,
+        "high_price": 1902.0,
+        "low_price": 1866.0,
+        "close_price": 1874.0,
+        "volume": 6634888.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250726,
+        "open_price": 1906.0,
+        "high_price": 1968.0,
+        "low_price": 1902.0,
+        "close_price": 1923.0,
+        "volume": 18692091.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250723,
+        "open_price": 1998.0,
+        "high_price": 2008.0,
+        "low_price": 1925.0,
+        "close_price": 1960.0,
+        "volume": 2988448.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250722,
+        "open_price": 1951.0,
+        "high_price": 2058.0,
+        "low_price": 1948.0,
+        "close_price": 1984.0,
+        "volume": 14972215.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250721,
+        "open_price": 2054.0,
+        "high_price": 2077.0,
+        "low_price": 1996.0,
+        "close_price": 2008.0,
+        "volume": 16572246.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250720,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2017.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250719,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2017.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250716,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2017.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250715,
+        "open_price": 1979.0,
+        "high_price": 2060.0,
+        "low_price": 1974.0,
+        "close_price": 2017.0,
+        "volume": 28153377.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250714,
+        "open_price": 2050.0,
+        "high_price": 2069.0,
+        "low_price": 2007.0,
+        "close_price": 2033.0,
+        "volume": 27175304.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250713,
+        "open_price": 2071.0,
+        "high_price": 2080.0,
+        "low_price": 2014.0,
+        "close_price": 2027.0,
+        "volume": 37413041.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250712,
+        "open_price": 2071.0,
+        "high_price": 2163.0,
+        "low_price": 2059.0,
+        "close_price": 2076.0,
+        "volume": 64389320.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250709,
+        "open_price": 2122.0,
+        "high_price": 2122.0,
+        "low_price": 2122.0,
+        "close_price": 2122.0,
+        "volume": 30916251.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250708,
+        "open_price": 2132.0,
+        "high_price": 2132.0,
+        "low_price": 2132.0,
+        "close_price": 2187.0,
+        "volume": 1027980.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250707,
+        "open_price": 2283.0,
+        "high_price": 2293.0,
+        "low_price": 2164.0,
+        "close_price": 2197.0,
+        "volume": 15694560.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250702,
+        "open_price": 2224.0,
+        "high_price": 2336.0,
+        "low_price": 2224.0,
+        "close_price": 2230.0,
+        "volume": 188959633.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250701,
+        "open_price": 2233.0,
+        "high_price": 2233.0,
+        "low_price": 2233.0,
+        "close_price": 2292.0,
+        "volume": 875229.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250630,
+        "open_price": 2301.0,
+        "high_price": 2301.0,
+        "low_price": 2301.0,
+        "close_price": 2302.0,
+        "volume": 6057298.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250629,
+        "open_price": 2350.0,
+        "high_price": 2350.0,
+        "low_price": 2350.0,
+        "close_price": 2372.0,
+        "volume": 4257253.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250628,
+        "open_price": 2384.0,
+        "high_price": 2384.0,
+        "low_price": 2384.0,
+        "close_price": 2422.0,
+        "volume": 2909695.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2457.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2457.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2457.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2457.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2457.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2457.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2457.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2457.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250611,
+        "open_price": 2457.0,
+        "high_price": 2457.0,
+        "low_price": 2421.0,
+        "close_price": 2457.0,
+        "volume": 8168912.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250610,
+        "open_price": 2448.0,
+        "high_price": 2448.0,
+        "low_price": 2344.0,
+        "close_price": 2386.0,
+        "volume": 12916001.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250609,
+        "open_price": 2470.0,
+        "high_price": 2471.0,
+        "low_price": 2371.0,
+        "close_price": 2377.0,
+        "volume": 17588726.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250608,
+        "open_price": 2441.0,
+        "high_price": 2538.0,
+        "low_price": 2426.0,
+        "close_price": 2444.0,
+        "volume": 19044722.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250607,
+        "open_price": 2510.0,
+        "high_price": 2569.0,
+        "low_price": 2499.0,
+        "close_price": 2501.0,
+        "volume": 14838878.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250603,
+        "open_price": 2630.0,
+        "high_price": 2674.0,
+        "low_price": 2569.0,
+        "close_price": 2576.0,
+        "volume": 15869033.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250602,
+        "open_price": 2659.0,
+        "high_price": 2696.0,
+        "low_price": 2605.0,
+        "close_price": 2648.0,
+        "volume": 14841298.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250601,
+        "open_price": 2630.0,
+        "high_price": 2746.0,
+        "low_price": 2617.0,
+        "close_price": 2624.0,
+        "volume": 39277667.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250531,
+        "open_price": 2730.0,
+        "high_price": 2799.0,
+        "low_price": 2654.0,
+        "close_price": 2697.0,
+        "volume": 67080192.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250528,
+        "open_price": 2736.0,
+        "high_price": 2736.0,
+        "low_price": 2736.0,
+        "close_price": 2736.0,
+        "volume": 11130206.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250527,
+        "open_price": 2803.0,
+        "high_price": 2803.0,
+        "low_price": 2803.0,
+        "close_price": 2820.0,
+        "volume": 3998760.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250526,
+        "open_price": 2833.0,
+        "high_price": 2833.0,
+        "low_price": 2833.0,
+        "close_price": 2889.0,
+        "volume": 1759990.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250525,
+        "open_price": 2849.0,
+        "high_price": 2849.0,
+        "low_price": 2849.0,
+        "close_price": 2920.0,
+        "volume": 972809.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250524,
+        "open_price": 2937.0,
+        "high_price": 2937.0,
+        "low_price": 2937.0,
+        "close_price": 2937.0,
+        "volume": 22499334.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250521,
+        "open_price": 2966.0,
+        "high_price": 2966.0,
+        "low_price": 2966.0,
+        "close_price": 3027.0,
+        "volume": 1542756.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250520,
+        "open_price": 3033.0,
+        "high_price": 3033.0,
+        "low_price": 3033.0,
+        "close_price": 3057.0,
+        "volume": 3412842.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250519,
+        "open_price": 3200.0,
+        "high_price": 3200.0,
+        "low_price": 3120.0,
+        "close_price": 3126.0,
+        "volume": 13209683.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250518,
+        "open_price": 3149.0,
+        "high_price": 3264.0,
+        "low_price": 3101.0,
+        "close_price": 3216.0,
+        "volume": 32373744.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250517,
+        "open_price": 3319.0,
+        "high_price": 3319.0,
+        "low_price": 3149.0,
+        "close_price": 3169.0,
+        "volume": 45020538.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250514,
+        "open_price": 3202.0,
+        "high_price": 3320.0,
+        "low_price": 3158.0,
+        "close_price": 3246.0,
+        "volume": 34932737.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250513,
+        "open_price": 3255.0,
+        "high_price": 3255.0,
+        "low_price": 3200.0,
+        "close_price": 3248.0,
+        "volume": 69704664.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250512,
+        "open_price": 3161.0,
+        "high_price": 3161.0,
+        "low_price": 3161.0,
+        "close_price": 3161.0,
+        "volume": 20567505.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250511,
+        "open_price": 3070.0,
+        "high_price": 3070.0,
+        "low_price": 3029.0,
+        "close_price": 3069.0,
+        "volume": 28986684.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250510,
+        "open_price": 2981.0,
+        "high_price": 2981.0,
+        "low_price": 2981.0,
+        "close_price": 2981.0,
+        "volume": 8766570.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250507,
+        "open_price": 3055.0,
+        "high_price": 3094.0,
+        "low_price": 3012.0,
+        "close_price": 3073.0,
+        "volume": 23356461.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250506,
+        "open_price": 3020.0,
+        "high_price": 3020.0,
+        "low_price": 2902.0,
+        "close_price": 3004.0,
+        "volume": 32074832.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250505,
+        "open_price": 2971.0,
+        "high_price": 3048.0,
+        "low_price": 2876.0,
+        "close_price": 2933.0,
+        "volume": 53471489.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250504,
+        "open_price": 2921.0,
+        "high_price": 3047.0,
+        "low_price": 2915.0,
+        "close_price": 2964.0,
+        "volume": 28065529.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250503,
+        "open_price": 3005.0,
+        "high_price": 3005.0,
+        "low_price": 3005.0,
+        "close_price": 3005.0,
+        "volume": 22887649.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250430,
+        "open_price": 3149.0,
+        "high_price": 3149.0,
+        "low_price": 3044.0,
+        "close_price": 3097.0,
+        "volume": 46747297.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250429,
+        "open_price": 2998.0,
+        "high_price": 3081.0,
+        "low_price": 2913.0,
+        "close_price": 3058.0,
+        "volume": 27136487.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250428,
+        "open_price": 3034.0,
+        "high_price": 3034.0,
+        "low_price": 2945.0,
+        "close_price": 2992.0,
+        "volume": 32769816.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250427,
+        "open_price": 2892.0,
+        "high_price": 3070.0,
+        "low_price": 2892.0,
+        "close_price": 2946.0,
+        "volume": 35363164.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250426,
+        "open_price": 2984.0,
+        "high_price": 2984.0,
+        "low_price": 2901.0,
+        "close_price": 2981.0,
+        "volume": 52875487.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250423,
+        "open_price": 2800.0,
+        "high_price": 2945.0,
+        "low_price": 2775.0,
+        "close_price": 2898.0,
+        "volume": 82605781.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250422,
+        "open_price": 2869.0,
+        "high_price": 2869.0,
+        "low_price": 2786.0,
+        "close_price": 2860.0,
+        "volume": 61225816.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250421,
+        "open_price": 2786.0,
+        "high_price": 2786.0,
+        "low_price": 2786.0,
+        "close_price": 2786.0,
+        "volume": 6871838.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250420,
+        "open_price": 2739.0,
+        "high_price": 2739.0,
+        "low_price": 2739.0,
+        "close_price": 2705.0,
+        "volume": 3319142.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250419,
+        "open_price": 2660.0,
+        "high_price": 2660.0,
+        "low_price": 2650.0,
+        "close_price": 2660.0,
+        "volume": 7011270.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250416,
+        "open_price": 2529.0,
+        "high_price": 2585.0,
+        "low_price": 2529.0,
+        "close_price": 2583.0,
+        "volume": 34932264.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250415,
+        "open_price": 2531.0,
+        "high_price": 2533.0,
+        "low_price": 2422.0,
+        "close_price": 2510.0,
+        "volume": 55628659.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250414,
+        "open_price": 2460.0,
+        "high_price": 2460.0,
+        "low_price": 2460.0,
+        "close_price": 2460.0,
+        "volume": 11849599.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250413,
+        "open_price": 2429.0,
+        "high_price": 2429.0,
+        "low_price": 2429.0,
+        "close_price": 2389.0,
+        "volume": 2740128.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250412,
+        "open_price": 2351.0,
+        "high_price": 2398.0,
+        "low_price": 2321.0,
+        "close_price": 2359.0,
+        "volume": 20420897.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250409,
+        "open_price": 2410.0,
+        "high_price": 2410.0,
+        "low_price": 2306.0,
+        "close_price": 2363.0,
+        "volume": 10700915.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250408,
+        "open_price": 2375.0,
+        "high_price": 2375.0,
+        "low_price": 2375.0,
+        "close_price": 2340.0,
+        "volume": 2978332.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250407,
+        "open_price": 2311.0,
+        "high_price": 2344.0,
+        "low_price": 2302.0,
+        "close_price": 2306.0,
+        "volume": 13245797.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250406,
+        "open_price": 2410.0,
+        "high_price": 2450.0,
+        "low_price": 2346.0,
+        "close_price": 2373.0,
+        "volume": 13699684.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250405,
+        "open_price": 2399.0,
+        "high_price": 2500.0,
+        "low_price": 2391.0,
+        "close_price": 2418.0,
+        "volume": 29590849.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250330,
+        "open_price": 2500.0,
+        "high_price": 2538.0,
+        "low_price": 2437.0,
+        "close_price": 2464.0,
+        "volume": 24532820.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250329,
+        "open_price": 2519.0,
+        "high_price": 2519.0,
+        "low_price": 2446.0,
+        "close_price": 2512.0,
+        "volume": 63891365.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250326,
+        "open_price": 2446.0,
+        "high_price": 2446.0,
+        "low_price": 2446.0,
+        "close_price": 2446.0,
+        "volume": 6746521.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250325,
+        "open_price": 2414.0,
+        "high_price": 2414.0,
+        "low_price": 2414.0,
+        "close_price": 2375.0,
+        "volume": 2872228.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250318,
+        "open_price": 2344.0,
+        "high_price": 2344.0,
+        "low_price": 2344.0,
+        "close_price": 2344.0,
+        "volume": 13538664.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250317,
+        "open_price": 2323.0,
+        "high_price": 2323.0,
+        "low_price": 2323.0,
+        "close_price": 2276.0,
+        "volume": 2033597.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250316,
+        "open_price": 2220.0,
+        "high_price": 2321.0,
+        "low_price": 2187.0,
+        "close_price": 2256.0,
+        "volume": 15849011.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250315,
+        "open_price": 2249.0,
+        "high_price": 2256.0,
+        "low_price": 2185.0,
+        "close_price": 2254.0,
+        "volume": 10579925.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250312,
+        "open_price": 2175.0,
+        "high_price": 2235.0,
+        "low_price": 2175.0,
+        "close_price": 2191.0,
+        "volume": 21283357.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250311,
+        "open_price": 2252.0,
+        "high_price": 2275.0,
+        "low_price": 2210.0,
+        "close_price": 2242.0,
+        "volume": 3648868.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250310,
+        "open_price": 2270.0,
+        "high_price": 2391.0,
+        "low_price": 2266.0,
+        "close_price": 2278.0,
+        "volume": 19243933.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250309,
+        "open_price": 2336.0,
+        "high_price": 2338.0,
+        "low_price": 2336.0,
+        "close_price": 2336.0,
+        "volume": 10841045.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250308,
+        "open_price": 2500.0,
+        "high_price": 2524.0,
+        "low_price": 2387.0,
+        "close_price": 2408.0,
+        "volume": 19288633.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250305,
+        "open_price": 2443.0,
+        "high_price": 2510.0,
+        "low_price": 2443.0,
+        "close_price": 2460.0,
+        "volume": 20612605.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250304,
+        "open_price": 2530.0,
+        "high_price": 2620.0,
+        "low_price": 2485.0,
+        "close_price": 2518.0,
+        "volume": 23155736.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250303,
+        "open_price": 2536.0,
+        "high_price": 2536.0,
+        "low_price": 2536.0,
+        "close_price": 2561.0,
+        "volume": 4059825.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250302,
+        "open_price": 2579.0,
+        "high_price": 2626.0,
+        "low_price": 2549.0,
+        "close_price": 2614.0,
+        "volume": 25094793.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250301,
+        "open_price": 2500.0,
+        "high_price": 2564.0,
+        "low_price": 2490.0,
+        "close_price": 2550.0,
+        "volume": 54745475.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250226,
+        "open_price": 2490.0,
+        "high_price": 2490.0,
+        "low_price": 2490.0,
+        "close_price": 2490.0,
+        "volume": 30210166.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250225,
+        "open_price": 2435.0,
+        "high_price": 2435.0,
+        "low_price": 2435.0,
+        "close_price": 2418.0,
+        "volume": 4902800.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250224,
+        "open_price": 2398.0,
+        "high_price": 2398.0,
+        "low_price": 2398.0,
+        "close_price": 2365.0,
+        "volume": 3328967.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250223,
+        "open_price": 2335.0,
+        "high_price": 2335.0,
+        "low_price": 2335.0,
+        "close_price": 2329.0,
+        "volume": 5881791.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250222,
+        "open_price": 2351.0,
+        "high_price": 2352.0,
+        "low_price": 2260.0,
+        "close_price": 2267.0,
+        "volume": 8713248.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250219,
+        "open_price": 2332.0,
+        "high_price": 2354.0,
+        "low_price": 2234.0,
+        "close_price": 2329.0,
+        "volume": 21162609.0
+    },
+    {
+        "symbol": "خمهر",
+        "trade_date": 20250218,
+        "open_price": 2272.0,
+        "high_price": 2367.0,
+        "low_price": 2263.0,
+        "close_price": 2286.0,
+        "volume": 19459121.0
+    }
+]

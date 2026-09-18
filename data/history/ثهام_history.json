@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260901,
+        "open_price": 92000.0,
+        "high_price": 92000.0,
+        "low_price": 88000.0,
+        "close_price": 90315.0,
+        "volume": 454274.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260831,
+        "open_price": 90220.0,
+        "high_price": 92149.0,
+        "low_price": 87504.0,
+        "close_price": 89837.0,
+        "volume": 380573.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260829,
+        "open_price": 89511.0,
+        "high_price": 92099.0,
+        "low_price": 89511.0,
+        "close_price": 90210.0,
+        "volume": 236493.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260826,
+        "open_price": 89629.0,
+        "high_price": 90360.0,
+        "low_price": 88950.0,
+        "close_price": 89451.0,
+        "volume": 312636.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260825,
+        "open_price": 85477.0,
+        "high_price": 88036.0,
+        "low_price": 85477.0,
+        "close_price": 87734.0,
+        "volume": 608984.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260824,
+        "open_price": 85003.0,
+        "high_price": 86430.0,
+        "low_price": 85001.0,
+        "close_price": 85472.0,
+        "volume": 226369.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260823,
+        "open_price": 87420.0,
+        "high_price": 88301.0,
+        "low_price": 84400.0,
+        "close_price": 85659.0,
+        "volume": 139634.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260822,
+        "open_price": 86489.0,
+        "high_price": 86690.0,
+        "low_price": 85012.0,
+        "close_price": 86203.0,
+        "volume": 174732.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260819,
+        "open_price": 85799.0,
+        "high_price": 87000.0,
+        "low_price": 84006.0,
+        "close_price": 85367.0,
+        "volume": 240822.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260818,
+        "open_price": 86150.0,
+        "high_price": 86160.0,
+        "low_price": 84114.0,
+        "close_price": 85945.0,
+        "volume": 470473.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260817,
+        "open_price": 87330.0,
+        "high_price": 87539.0,
+        "low_price": 85630.0,
+        "close_price": 86147.0,
+        "volume": 234210.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260816,
+        "open_price": 83510.0,
+        "high_price": 85999.0,
+        "low_price": 83510.0,
+        "close_price": 85001.0,
+        "volume": 260151.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260815,
+        "open_price": 86127.0,
+        "high_price": 86128.0,
+        "low_price": 83539.0,
+        "close_price": 84080.0,
+        "volume": 807140.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260811,
+        "open_price": 87000.0,
+        "high_price": 87000.0,
+        "low_price": 85412.0,
+        "close_price": 86122.0,
+        "volume": 226414.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260810,
+        "open_price": 84740.0,
+        "high_price": 86490.0,
+        "low_price": 84740.0,
+        "close_price": 85401.0,
+        "volume": 553198.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260809,
+        "open_price": 85899.0,
+        "high_price": 85899.0,
+        "low_price": 83450.0,
+        "close_price": 84724.0,
+        "volume": 1245058.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260808,
+        "open_price": 83399.0,
+        "high_price": 83399.0,
+        "low_price": 82685.0,
+        "close_price": 83398.0,
+        "volume": 810192.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260805,
+        "open_price": 80972.0,
+        "high_price": 80972.0,
+        "low_price": 80097.0,
+        "close_price": 80970.0,
+        "volume": 930109.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260803,
+        "open_price": 78618.0,
+        "high_price": 78618.0,
+        "low_price": 76534.0,
+        "close_price": 78614.0,
+        "volume": 693381.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260802,
+        "open_price": 76308.0,
+        "high_price": 76896.0,
+        "low_price": 74914.0,
+        "close_price": 76329.0,
+        "volume": 402294.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260801,
+        "open_price": 75381.0,
+        "high_price": 76605.0,
+        "low_price": 73780.0,
+        "close_price": 74657.0,
+        "volume": 388526.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260729,
+        "open_price": 74920.0,
+        "high_price": 76330.0,
+        "low_price": 74149.0,
+        "close_price": 75377.0,
+        "volume": 376770.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260728,
+        "open_price": 74890.0,
+        "high_price": 75700.0,
+        "low_price": 74200.0,
+        "close_price": 74891.0,
+        "volume": 184180.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260727,
+        "open_price": 74500.0,
+        "high_price": 74500.0,
+        "low_price": 72967.0,
+        "close_price": 73594.0,
+        "volume": 673595.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260726,
+        "open_price": 72496.0,
+        "high_price": 72497.0,
+        "low_price": 71506.0,
+        "close_price": 72331.0,
+        "volume": 1433929.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260725,
+        "open_price": 70850.0,
+        "high_price": 71500.0,
+        "low_price": 69458.0,
+        "close_price": 70386.0,
+        "volume": 314041.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260722,
+        "open_price": 71760.0,
+        "high_price": 71760.0,
+        "low_price": 68056.0,
+        "close_price": 69634.0,
+        "volume": 895633.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260721,
+        "open_price": 68630.0,
+        "high_price": 70246.0,
+        "low_price": 68630.0,
+        "close_price": 69682.0,
+        "volume": 237045.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260720,
+        "open_price": 66566.0,
+        "high_price": 68290.0,
+        "low_price": 66566.0,
+        "close_price": 68200.0,
+        "volume": 439387.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260719,
+        "open_price": 65562.0,
+        "high_price": 68320.0,
+        "low_price": 65562.0,
+        "close_price": 66301.0,
+        "volume": 1103514.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260718,
+        "open_price": 66330.0,
+        "high_price": 68359.0,
+        "low_price": 66330.0,
+        "close_price": 67589.0,
+        "volume": 223565.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260715,
+        "open_price": 69990.0,
+        "high_price": 69990.0,
+        "low_price": 68078.0,
+        "close_price": 68359.0,
+        "volume": 195727.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260714,
+        "open_price": 66620.0,
+        "high_price": 69189.0,
+        "low_price": 66260.0,
+        "close_price": 68065.0,
+        "volume": 222568.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260713,
+        "open_price": 66860.0,
+        "high_price": 69450.0,
+        "low_price": 66860.0,
+        "close_price": 67275.0,
+        "volume": 471097.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260712,
+        "open_price": 68923.0,
+        "high_price": 70960.0,
+        "low_price": 68919.0,
+        "close_price": 68927.0,
+        "volume": 706567.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260711,
+        "open_price": 74430.0,
+        "high_price": 74430.0,
+        "low_price": 70174.0,
+        "close_price": 71050.0,
+        "volume": 119167.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260708,
+        "open_price": 74999.0,
+        "high_price": 74999.0,
+        "low_price": 71590.0,
+        "close_price": 72342.0,
+        "volume": 725822.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260707,
+        "open_price": 73350.0,
+        "high_price": 73964.0,
+        "low_price": 72280.0,
+        "close_price": 73804.0,
+        "volume": 241927.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260701,
+        "open_price": 72419.0,
+        "high_price": 72817.0,
+        "low_price": 71070.0,
+        "close_price": 71810.0,
+        "volume": 262631.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260630,
+        "open_price": 70700.0,
+        "high_price": 71554.0,
+        "low_price": 70700.0,
+        "close_price": 71016.0,
+        "volume": 92103.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260629,
+        "open_price": 70834.0,
+        "high_price": 70834.0,
+        "low_price": 69024.0,
+        "close_price": 69471.0,
+        "volume": 352324.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260628,
+        "open_price": 69000.0,
+        "high_price": 69000.0,
+        "low_price": 67072.0,
+        "close_price": 68776.0,
+        "volume": 468594.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260627,
+        "open_price": 69647.0,
+        "high_price": 69647.0,
+        "low_price": 67390.0,
+        "close_price": 68983.0,
+        "volume": 2122323.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260623,
+        "open_price": 67390.0,
+        "high_price": 68013.0,
+        "low_price": 67389.0,
+        "close_price": 67619.0,
+        "volume": 1023826.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260622,
+        "open_price": 68525.0,
+        "high_price": 68525.0,
+        "low_price": 65171.0,
+        "close_price": 66033.0,
+        "volume": 2005221.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260621,
+        "open_price": 65520.0,
+        "high_price": 68800.0,
+        "low_price": 65217.0,
+        "close_price": 67186.0,
+        "volume": 3553619.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260620,
+        "open_price": 70497.0,
+        "high_price": 70497.0,
+        "low_price": 66410.0,
+        "close_price": 67233.0,
+        "volume": 1041767.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260617,
+        "open_price": 68555.0,
+        "high_price": 68966.0,
+        "low_price": 67010.0,
+        "close_price": 68445.0,
+        "volume": 1120228.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260616,
+        "open_price": 68348.0,
+        "high_price": 68348.0,
+        "low_price": 66390.0,
+        "close_price": 68179.0,
+        "volume": 3807801.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260615,
+        "open_price": 66358.0,
+        "high_price": 66358.0,
+        "low_price": 66358.0,
+        "close_price": 66358.0,
+        "volume": 716560.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260614,
+        "open_price": 64426.0,
+        "high_price": 64426.0,
+        "low_price": 64426.0,
+        "close_price": 64426.0,
+        "volume": 762287.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260613,
+        "open_price": 62550.0,
+        "high_price": 62550.0,
+        "low_price": 62550.0,
+        "close_price": 62550.0,
+        "volume": 755493.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260610,
+        "open_price": 60920.0,
+        "high_price": 60935.0,
+        "low_price": 59213.0,
+        "close_price": 60729.0,
+        "volume": 2453567.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260609,
+        "open_price": 59161.0,
+        "high_price": 59161.0,
+        "low_price": 59080.0,
+        "close_price": 59161.0,
+        "volume": 5441738.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260608,
+        "open_price": 57438.0,
+        "high_price": 57440.0,
+        "low_price": 57438.0,
+        "close_price": 57438.0,
+        "volume": 719167.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260607,
+        "open_price": 59406.0,
+        "high_price": 59406.0,
+        "low_price": 58950.0,
+        "close_price": 59214.0,
+        "volume": 1411168.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260606,
+        "open_price": 56777.0,
+        "high_price": 58899.0,
+        "low_price": 56777.0,
+        "close_price": 57676.0,
+        "volume": 441334.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260603,
+        "open_price": 58000.0,
+        "high_price": 58000.0,
+        "low_price": 56700.0,
+        "close_price": 57574.0,
+        "volume": 316011.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260602,
+        "open_price": 57990.0,
+        "high_price": 58400.0,
+        "low_price": 55900.0,
+        "close_price": 57686.0,
+        "volume": 871169.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260601,
+        "open_price": 57571.0,
+        "high_price": 57571.0,
+        "low_price": 55920.0,
+        "close_price": 57220.0,
+        "volume": 1430299.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260531,
+        "open_price": 55895.0,
+        "high_price": 55895.0,
+        "low_price": 55895.0,
+        "close_price": 55895.0,
+        "volume": 715133.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260530,
+        "open_price": 54267.0,
+        "high_price": 54267.0,
+        "low_price": 54267.0,
+        "close_price": 54267.0,
+        "volume": 306229.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260526,
+        "open_price": 52698.0,
+        "high_price": 52698.0,
+        "low_price": 51208.0,
+        "close_price": 52687.0,
+        "volume": 896745.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260525,
+        "open_price": 51164.0,
+        "high_price": 51164.0,
+        "low_price": 51164.0,
+        "close_price": 51164.0,
+        "volume": 337348.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260524,
+        "open_price": 49674.0,
+        "high_price": 49674.0,
+        "low_price": 49674.0,
+        "close_price": 49674.0,
+        "volume": 307113.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260523,
+        "open_price": 48220.0,
+        "high_price": 48228.0,
+        "low_price": 48220.0,
+        "close_price": 48228.0,
+        "volume": 109429.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260520,
+        "open_price": 46813.0,
+        "high_price": 47800.0,
+        "low_price": 46813.0,
+        "close_price": 46824.0,
+        "volume": 3036255.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260519,
+        "open_price": 48260.0,
+        "high_price": 48260.0,
+        "low_price": 48260.0,
+        "close_price": 48260.0,
+        "volume": 386872.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 49752.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260225,
+        "open_price": 48870.0,
+        "high_price": 50230.0,
+        "low_price": 48870.0,
+        "close_price": 49752.0,
+        "volume": 269521.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260224,
+        "open_price": 49790.0,
+        "high_price": 49820.0,
+        "low_price": 49010.0,
+        "close_price": 49304.0,
+        "volume": 273074.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260223,
+        "open_price": 49410.0,
+        "high_price": 49552.0,
+        "low_price": 48713.0,
+        "close_price": 49173.0,
+        "volume": 45360.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260222,
+        "open_price": 48180.0,
+        "high_price": 49627.0,
+        "low_price": 48180.0,
+        "close_price": 48450.0,
+        "volume": 57310.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260221,
+        "open_price": 50220.0,
+        "high_price": 50220.0,
+        "low_price": 49630.0,
+        "close_price": 49640.0,
+        "volume": 887520.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260218,
+        "open_price": 51800.0,
+        "high_price": 51980.0,
+        "low_price": 50420.0,
+        "close_price": 51160.0,
+        "volume": 76571.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260217,
+        "open_price": 50760.0,
+        "high_price": 51470.0,
+        "low_price": 50750.0,
+        "close_price": 51440.0,
+        "volume": 794526.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260216,
+        "open_price": 51000.0,
+        "high_price": 51300.0,
+        "low_price": 50480.0,
+        "close_price": 50750.0,
+        "volume": 97259.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260215,
+        "open_price": 53100.0,
+        "high_price": 53100.0,
+        "low_price": 51820.0,
+        "close_price": 51970.0,
+        "volume": 244528.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260214,
+        "open_price": 53630.0,
+        "high_price": 54220.0,
+        "low_price": 51950.0,
+        "close_price": 53370.0,
+        "volume": 238217.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260210,
+        "open_price": 52150.0,
+        "high_price": 53630.0,
+        "low_price": 52140.0,
+        "close_price": 52880.0,
+        "volume": 563653.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260209,
+        "open_price": 53010.0,
+        "high_price": 53010.0,
+        "low_price": 51410.0,
+        "close_price": 52110.0,
+        "volume": 614466.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260208,
+        "open_price": 53990.0,
+        "high_price": 53990.0,
+        "low_price": 52120.0,
+        "close_price": 52970.0,
+        "volume": 1283777.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260207,
+        "open_price": 51990.0,
+        "high_price": 52510.0,
+        "low_price": 51990.0,
+        "close_price": 52480.0,
+        "volume": 1221344.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260203,
+        "open_price": 51610.0,
+        "high_price": 51970.0,
+        "low_price": 50700.0,
+        "close_price": 50990.0,
+        "volume": 747182.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260202,
+        "open_price": 50450.0,
+        "high_price": 51020.0,
+        "low_price": 49710.0,
+        "close_price": 50980.0,
+        "volume": 1021929.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260201,
+        "open_price": 47930.0,
+        "high_price": 49980.0,
+        "low_price": 47930.0,
+        "close_price": 49540.0,
+        "volume": 250462.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260131,
+        "open_price": 47990.0,
+        "high_price": 49500.0,
+        "low_price": 47820.0,
+        "close_price": 48570.0,
+        "volume": 1168283.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260128,
+        "open_price": 49270.0,
+        "high_price": 49790.0,
+        "low_price": 49270.0,
+        "close_price": 49290.0,
+        "volume": 2586860.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260127,
+        "open_price": 50790.0,
+        "high_price": 50790.0,
+        "low_price": 50790.0,
+        "close_price": 50790.0,
+        "volume": 945282.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260126,
+        "open_price": 52360.0,
+        "high_price": 52360.0,
+        "low_price": 52360.0,
+        "close_price": 52360.0,
+        "volume": 728017.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260125,
+        "open_price": 53970.0,
+        "high_price": 53970.0,
+        "low_price": 53970.0,
+        "close_price": 53970.0,
+        "volume": 752945.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260124,
+        "open_price": 57170.0,
+        "high_price": 57170.0,
+        "low_price": 55390.0,
+        "close_price": 55630.0,
+        "volume": 876578.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260121,
+        "open_price": 56420.0,
+        "high_price": 57690.0,
+        "low_price": 56400.0,
+        "close_price": 57100.0,
+        "volume": 694015.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260120,
+        "open_price": 56050.0,
+        "high_price": 56930.0,
+        "low_price": 56020.0,
+        "close_price": 56420.0,
+        "volume": 370990.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260119,
+        "open_price": 55750.0,
+        "high_price": 56760.0,
+        "low_price": 55750.0,
+        "close_price": 56390.0,
+        "volume": 428915.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260118,
+        "open_price": 54320.0,
+        "high_price": 56090.0,
+        "low_price": 54320.0,
+        "close_price": 55580.0,
+        "volume": 874361.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260114,
+        "open_price": 54320.0,
+        "high_price": 55190.0,
+        "low_price": 54320.0,
+        "close_price": 54520.0,
+        "volume": 847597.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260113,
+        "open_price": 56270.0,
+        "high_price": 56720.0,
+        "low_price": 54580.0,
+        "close_price": 56000.0,
+        "volume": 999076.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260112,
+        "open_price": 56180.0,
+        "high_price": 56720.0,
+        "low_price": 55870.0,
+        "close_price": 56260.0,
+        "volume": 1484990.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260111,
+        "open_price": 53670.0,
+        "high_price": 55680.0,
+        "low_price": 53650.0,
+        "close_price": 55070.0,
+        "volume": 1045099.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260110,
+        "open_price": 55260.0,
+        "high_price": 56620.0,
+        "low_price": 55210.0,
+        "close_price": 55220.0,
+        "volume": 1939857.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260107,
+        "open_price": 57930.0,
+        "high_price": 57930.0,
+        "low_price": 54570.0,
+        "close_price": 56910.0,
+        "volume": 1434621.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260106,
+        "open_price": 56250.0,
+        "high_price": 56250.0,
+        "low_price": 56250.0,
+        "close_price": 56250.0,
+        "volume": 861913.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260105,
+        "open_price": 53810.0,
+        "high_price": 54630.0,
+        "low_price": 53810.0,
+        "close_price": 54620.0,
+        "volume": 1652074.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20260104,
+        "open_price": 53700.0,
+        "high_price": 53850.0,
+        "low_price": 52000.0,
+        "close_price": 53040.0,
+        "volume": 734292.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251231,
+        "open_price": 51650.0,
+        "high_price": 54300.0,
+        "low_price": 51640.0,
+        "close_price": 53490.0,
+        "volume": 686589.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251230,
+        "open_price": 53970.0,
+        "high_price": 53970.0,
+        "low_price": 53180.0,
+        "close_price": 53230.0,
+        "volume": 763945.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251229,
+        "open_price": 55610.0,
+        "high_price": 56130.0,
+        "low_price": 54350.0,
+        "close_price": 54820.0,
+        "volume": 1560879.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251228,
+        "open_price": 56720.0,
+        "high_price": 56720.0,
+        "low_price": 55220.0,
+        "close_price": 56030.0,
+        "volume": 1163542.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251227,
+        "open_price": 53950.0,
+        "high_price": 55200.0,
+        "low_price": 53950.0,
+        "close_price": 55070.0,
+        "volume": 1750164.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251224,
+        "open_price": 52700.0,
+        "high_price": 53700.0,
+        "low_price": 52700.0,
+        "close_price": 53600.0,
+        "volume": 1088367.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251223,
+        "open_price": 51090.0,
+        "high_price": 52890.0,
+        "low_price": 51090.0,
+        "close_price": 52140.0,
+        "volume": 408376.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251222,
+        "open_price": 52440.0,
+        "high_price": 52440.0,
+        "low_price": 50920.0,
+        "close_price": 51500.0,
+        "volume": 313824.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251221,
+        "open_price": 51350.0,
+        "high_price": 51940.0,
+        "low_price": 51350.0,
+        "close_price": 51590.0,
+        "volume": 1522212.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251220,
+        "open_price": 50500.0,
+        "high_price": 51660.0,
+        "low_price": 50500.0,
+        "close_price": 51360.0,
+        "volume": 1779008.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251217,
+        "open_price": 49350.0,
+        "high_price": 50990.0,
+        "low_price": 49350.0,
+        "close_price": 50160.0,
+        "volume": 1216598.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251216,
+        "open_price": 49770.0,
+        "high_price": 51600.0,
+        "low_price": 49720.0,
+        "close_price": 50350.0,
+        "volume": 2202905.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251215,
+        "open_price": 49120.0,
+        "high_price": 50360.0,
+        "low_price": 49120.0,
+        "close_price": 50100.0,
+        "volume": 172312.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251214,
+        "open_price": 49170.0,
+        "high_price": 49460.0,
+        "low_price": 48770.0,
+        "close_price": 49240.0,
+        "volume": 270502.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251213,
+        "open_price": 48000.0,
+        "high_price": 49450.0,
+        "low_price": 48000.0,
+        "close_price": 48920.0,
+        "volume": 568652.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251210,
+        "open_price": 48150.0,
+        "high_price": 48300.0,
+        "low_price": 47600.0,
+        "close_price": 48010.0,
+        "volume": 287417.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251209,
+        "open_price": 47710.0,
+        "high_price": 48400.0,
+        "low_price": 47710.0,
+        "close_price": 48150.0,
+        "volume": 221352.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251208,
+        "open_price": 47950.0,
+        "high_price": 48690.0,
+        "low_price": 47950.0,
+        "close_price": 48140.0,
+        "volume": 168564.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251207,
+        "open_price": 49200.0,
+        "high_price": 49200.0,
+        "low_price": 47760.0,
+        "close_price": 48240.0,
+        "volume": 391449.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251206,
+        "open_price": 47630.0,
+        "high_price": 48790.0,
+        "low_price": 47630.0,
+        "close_price": 48340.0,
+        "volume": 256535.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251203,
+        "open_price": 47600.0,
+        "high_price": 47620.0,
+        "low_price": 47200.0,
+        "close_price": 47410.0,
+        "volume": 465722.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251202,
+        "open_price": 46860.0,
+        "high_price": 47500.0,
+        "low_price": 46810.0,
+        "close_price": 47160.0,
+        "volume": 112046.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251201,
+        "open_price": 46990.0,
+        "high_price": 46990.0,
+        "low_price": 46600.0,
+        "close_price": 46740.0,
+        "volume": 114987.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251130,
+        "open_price": 46000.0,
+        "high_price": 46400.0,
+        "low_price": 45830.0,
+        "close_price": 46220.0,
+        "volume": 185977.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251129,
+        "open_price": 46000.0,
+        "high_price": 46000.0,
+        "low_price": 45690.0,
+        "close_price": 45730.0,
+        "volume": 200277.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251126,
+        "open_price": 45850.0,
+        "high_price": 45880.0,
+        "low_price": 45440.0,
+        "close_price": 45690.0,
+        "volume": 120438.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251125,
+        "open_price": 45100.0,
+        "high_price": 46270.0,
+        "low_price": 45100.0,
+        "close_price": 45890.0,
+        "volume": 257152.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251123,
+        "open_price": 44460.0,
+        "high_price": 45200.0,
+        "low_price": 44460.0,
+        "close_price": 45050.0,
+        "volume": 249068.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251122,
+        "open_price": 44990.0,
+        "high_price": 44990.0,
+        "low_price": 44350.0,
+        "close_price": 44750.0,
+        "volume": 102581.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251119,
+        "open_price": 44160.0,
+        "high_price": 44710.0,
+        "low_price": 44160.0,
+        "close_price": 44220.0,
+        "volume": 139090.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251118,
+        "open_price": 44010.0,
+        "high_price": 44460.0,
+        "low_price": 44010.0,
+        "close_price": 44180.0,
+        "volume": 22012.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251117,
+        "open_price": 44720.0,
+        "high_price": 44720.0,
+        "low_price": 44220.0,
+        "close_price": 44450.0,
+        "volume": 93625.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251116,
+        "open_price": 43880.0,
+        "high_price": 44780.0,
+        "low_price": 43860.0,
+        "close_price": 44380.0,
+        "volume": 110783.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251115,
+        "open_price": 43700.0,
+        "high_price": 44230.0,
+        "low_price": 43700.0,
+        "close_price": 43910.0,
+        "volume": 184553.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251112,
+        "open_price": 43450.0,
+        "high_price": 43930.0,
+        "low_price": 43450.0,
+        "close_price": 43630.0,
+        "volume": 661633.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251111,
+        "open_price": 43100.0,
+        "high_price": 43830.0,
+        "low_price": 43100.0,
+        "close_price": 43330.0,
+        "volume": 259640.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251110,
+        "open_price": 43170.0,
+        "high_price": 43660.0,
+        "low_price": 42920.0,
+        "close_price": 43030.0,
+        "volume": 812870.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251109,
+        "open_price": 43580.0,
+        "high_price": 43580.0,
+        "low_price": 42710.0,
+        "close_price": 43120.0,
+        "volume": 597528.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251108,
+        "open_price": 43770.0,
+        "high_price": 44260.0,
+        "low_price": 43660.0,
+        "close_price": 44020.0,
+        "volume": 207729.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251105,
+        "open_price": 44250.0,
+        "high_price": 44250.0,
+        "low_price": 43600.0,
+        "close_price": 43710.0,
+        "volume": 349894.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251104,
+        "open_price": 43800.0,
+        "high_price": 43940.0,
+        "low_price": 43750.0,
+        "close_price": 43870.0,
+        "volume": 235379.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251103,
+        "open_price": 43710.0,
+        "high_price": 44130.0,
+        "low_price": 43700.0,
+        "close_price": 43850.0,
+        "volume": 241611.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251102,
+        "open_price": 43160.0,
+        "high_price": 43740.0,
+        "low_price": 42940.0,
+        "close_price": 43260.0,
+        "volume": 584313.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251101,
+        "open_price": 43740.0,
+        "high_price": 43750.0,
+        "low_price": 43200.0,
+        "close_price": 43500.0,
+        "volume": 176783.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251029,
+        "open_price": 43390.0,
+        "high_price": 43400.0,
+        "low_price": 42910.0,
+        "close_price": 42980.0,
+        "volume": 349419.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251028,
+        "open_price": 43750.0,
+        "high_price": 43750.0,
+        "low_price": 42900.0,
+        "close_price": 43130.0,
+        "volume": 628946.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251027,
+        "open_price": 43750.0,
+        "high_price": 43750.0,
+        "low_price": 43170.0,
+        "close_price": 43330.0,
+        "volume": 439044.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251026,
+        "open_price": 43750.0,
+        "high_price": 43750.0,
+        "low_price": 43060.0,
+        "close_price": 43120.0,
+        "volume": 120308.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251025,
+        "open_price": 43590.0,
+        "high_price": 43590.0,
+        "low_price": 42740.0,
+        "close_price": 42920.0,
+        "volume": 138811.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251022,
+        "open_price": 42540.0,
+        "high_price": 43300.0,
+        "low_price": 42540.0,
+        "close_price": 42740.0,
+        "volume": 578921.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251021,
+        "open_price": 42750.0,
+        "high_price": 42940.0,
+        "low_price": 42380.0,
+        "close_price": 42660.0,
+        "volume": 25918.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251020,
+        "open_price": 42890.0,
+        "high_price": 42890.0,
+        "low_price": 42350.0,
+        "close_price": 42390.0,
+        "volume": 233456.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251019,
+        "open_price": 42630.0,
+        "high_price": 43290.0,
+        "low_price": 42510.0,
+        "close_price": 42610.0,
+        "volume": 667698.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251018,
+        "open_price": 41670.0,
+        "high_price": 42610.0,
+        "low_price": 41650.0,
+        "close_price": 42590.0,
+        "volume": 874600.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251015,
+        "open_price": 41590.0,
+        "high_price": 41750.0,
+        "low_price": 41320.0,
+        "close_price": 41370.0,
+        "volume": 1295353.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251014,
+        "open_price": 42290.0,
+        "high_price": 42290.0,
+        "low_price": 41430.0,
+        "close_price": 41790.0,
+        "volume": 138173.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251013,
+        "open_price": 42470.0,
+        "high_price": 42470.0,
+        "low_price": 41820.0,
+        "close_price": 42030.0,
+        "volume": 323922.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251012,
+        "open_price": 41800.0,
+        "high_price": 42310.0,
+        "low_price": 41610.0,
+        "close_price": 42130.0,
+        "volume": 442809.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251011,
+        "open_price": 41490.0,
+        "high_price": 41490.0,
+        "low_price": 41140.0,
+        "close_price": 41250.0,
+        "volume": 495788.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251008,
+        "open_price": 40860.0,
+        "high_price": 41080.0,
+        "low_price": 40630.0,
+        "close_price": 40700.0,
+        "volume": 460747.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251007,
+        "open_price": 40880.0,
+        "high_price": 41490.0,
+        "low_price": 40580.0,
+        "close_price": 40820.0,
+        "volume": 463880.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251006,
+        "open_price": 41430.0,
+        "high_price": 41430.0,
+        "low_price": 40110.0,
+        "close_price": 40880.0,
+        "volume": 585745.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251005,
+        "open_price": 41520.0,
+        "high_price": 41520.0,
+        "low_price": 40340.0,
+        "close_price": 40990.0,
+        "volume": 1032545.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251004,
+        "open_price": 39370.0,
+        "high_price": 40380.0,
+        "low_price": 39370.0,
+        "close_price": 40320.0,
+        "volume": 888102.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20251001,
+        "open_price": 39240.0,
+        "high_price": 39870.0,
+        "low_price": 38380.0,
+        "close_price": 39210.0,
+        "volume": 900398.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250930,
+        "open_price": 41300.0,
+        "high_price": 41300.0,
+        "low_price": 39100.0,
+        "close_price": 39560.0,
+        "volume": 853967.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250929,
+        "open_price": 40210.0,
+        "high_price": 40210.0,
+        "low_price": 40210.0,
+        "close_price": 40210.0,
+        "volume": 1213224.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250928,
+        "open_price": 39040.0,
+        "high_price": 39040.0,
+        "low_price": 39040.0,
+        "close_price": 39040.0,
+        "volume": 750558.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250927,
+        "open_price": 36550.0,
+        "high_price": 37970.0,
+        "low_price": 36550.0,
+        "close_price": 37910.0,
+        "volume": 487261.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250924,
+        "open_price": 36790.0,
+        "high_price": 37320.0,
+        "low_price": 36540.0,
+        "close_price": 36870.0,
+        "volume": 856108.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250923,
+        "open_price": 36860.0,
+        "high_price": 37370.0,
+        "low_price": 36850.0,
+        "close_price": 36950.0,
+        "volume": 123336.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250922,
+        "open_price": 36100.0,
+        "high_price": 36820.0,
+        "low_price": 36100.0,
+        "close_price": 36520.0,
+        "volume": 208327.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250921,
+        "open_price": 36140.0,
+        "high_price": 36140.0,
+        "low_price": 35100.0,
+        "close_price": 35780.0,
+        "volume": 452845.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250920,
+        "open_price": 36110.0,
+        "high_price": 36110.0,
+        "low_price": 36110.0,
+        "close_price": 36110.0,
+        "volume": 841242.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250917,
+        "open_price": 37330.0,
+        "high_price": 37400.0,
+        "low_price": 37030.0,
+        "close_price": 37220.0,
+        "volume": 870973.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250916,
+        "open_price": 37450.0,
+        "high_price": 37450.0,
+        "low_price": 36900.0,
+        "close_price": 37230.0,
+        "volume": 1050595.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250915,
+        "open_price": 37750.0,
+        "high_price": 37880.0,
+        "low_price": 36670.0,
+        "close_price": 37430.0,
+        "volume": 1232938.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250914,
+        "open_price": 37370.0,
+        "high_price": 37990.0,
+        "low_price": 37350.0,
+        "close_price": 37620.0,
+        "volume": 2987602.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250913,
+        "open_price": 37700.0,
+        "high_price": 37780.0,
+        "low_price": 36780.0,
+        "close_price": 37330.0,
+        "volume": 1086674.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250909,
+        "open_price": 38230.0,
+        "high_price": 38230.0,
+        "low_price": 37410.0,
+        "close_price": 37590.0,
+        "volume": 1507938.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250908,
+        "open_price": 37950.0,
+        "high_price": 38630.0,
+        "low_price": 37700.0,
+        "close_price": 38210.0,
+        "volume": 1295257.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250907,
+        "open_price": 36930.0,
+        "high_price": 37880.0,
+        "low_price": 36920.0,
+        "close_price": 37510.0,
+        "volume": 11086877.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250906,
+        "open_price": 36940.0,
+        "high_price": 37440.0,
+        "low_price": 36920.0,
+        "close_price": 37380.0,
+        "volume": 2532563.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250903,
+        "open_price": 37610.0,
+        "high_price": 37760.0,
+        "low_price": 36950.0,
+        "close_price": 37480.0,
+        "volume": 668584.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250902,
+        "open_price": 36180.0,
+        "high_price": 37870.0,
+        "low_price": 36180.0,
+        "close_price": 37500.0,
+        "volume": 1482393.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250831,
+        "open_price": 36490.0,
+        "high_price": 36870.0,
+        "low_price": 36490.0,
+        "close_price": 36770.0,
+        "volume": 380821.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250830,
+        "open_price": 36130.0,
+        "high_price": 36130.0,
+        "low_price": 35760.0,
+        "close_price": 35800.0,
+        "volume": 281963.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250827,
+        "open_price": 36290.0,
+        "high_price": 36710.0,
+        "low_price": 36200.0,
+        "close_price": 36480.0,
+        "volume": 1551303.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250826,
+        "open_price": 35840.0,
+        "high_price": 36210.0,
+        "low_price": 35710.0,
+        "close_price": 36170.0,
+        "volume": 2923547.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250825,
+        "open_price": 36180.0,
+        "high_price": 36250.0,
+        "low_price": 35800.0,
+        "close_price": 35940.0,
+        "volume": 448685.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250823,
+        "open_price": 36020.0,
+        "high_price": 36150.0,
+        "low_price": 36020.0,
+        "close_price": 36050.0,
+        "volume": 477831.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250820,
+        "open_price": 36070.0,
+        "high_price": 36070.0,
+        "low_price": 35450.0,
+        "close_price": 35980.0,
+        "volume": 776916.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250819,
+        "open_price": 35930.0,
+        "high_price": 36360.0,
+        "low_price": 35930.0,
+        "close_price": 36080.0,
+        "volume": 79716.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250818,
+        "open_price": 35910.0,
+        "high_price": 36300.0,
+        "low_price": 35760.0,
+        "close_price": 35930.0,
+        "volume": 246977.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250817,
+        "open_price": 35990.0,
+        "high_price": 36200.0,
+        "low_price": 35680.0,
+        "close_price": 35750.0,
+        "volume": 1044573.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250816,
+        "open_price": 35270.0,
+        "high_price": 35680.0,
+        "low_price": 35120.0,
+        "close_price": 35230.0,
+        "volume": 359791.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250813,
+        "open_price": 35530.0,
+        "high_price": 35530.0,
+        "low_price": 34900.0,
+        "close_price": 35230.0,
+        "volume": 250996.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250812,
+        "open_price": 36000.0,
+        "high_price": 36000.0,
+        "low_price": 35520.0,
+        "close_price": 35570.0,
+        "volume": 25458.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250811,
+        "open_price": 36050.0,
+        "high_price": 36420.0,
+        "low_price": 36040.0,
+        "close_price": 36070.0,
+        "volume": 16476.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250810,
+        "open_price": 36160.0,
+        "high_price": 36300.0,
+        "low_price": 36160.0,
+        "close_price": 36230.0,
+        "volume": 74935.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250809,
+        "open_price": 36480.0,
+        "high_price": 36480.0,
+        "low_price": 35850.0,
+        "close_price": 36280.0,
+        "volume": 117116.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250806,
+        "open_price": 35810.0,
+        "high_price": 35940.0,
+        "low_price": 35700.0,
+        "close_price": 35800.0,
+        "volume": 535798.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250805,
+        "open_price": 35870.0,
+        "high_price": 35880.0,
+        "low_price": 35010.0,
+        "close_price": 35640.0,
+        "volume": 351749.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250804,
+        "open_price": 35670.0,
+        "high_price": 35670.0,
+        "low_price": 35450.0,
+        "close_price": 35610.0,
+        "volume": 396298.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250803,
+        "open_price": 35730.0,
+        "high_price": 36160.0,
+        "low_price": 35030.0,
+        "close_price": 35430.0,
+        "volume": 570258.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250802,
+        "open_price": 35850.0,
+        "high_price": 35850.0,
+        "low_price": 35200.0,
+        "close_price": 35690.0,
+        "volume": 407475.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250730,
+        "open_price": 35800.0,
+        "high_price": 36100.0,
+        "low_price": 35600.0,
+        "close_price": 35710.0,
+        "volume": 250343.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250729,
+        "open_price": 36400.0,
+        "high_price": 36400.0,
+        "low_price": 35340.0,
+        "close_price": 36040.0,
+        "volume": 339863.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250728,
+        "open_price": 36410.0,
+        "high_price": 36420.0,
+        "low_price": 36200.0,
+        "close_price": 36310.0,
+        "volume": 364463.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250727,
+        "open_price": 37300.0,
+        "high_price": 37300.0,
+        "low_price": 36910.0,
+        "close_price": 37170.0,
+        "volume": 152601.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250726,
+        "open_price": 37200.0,
+        "high_price": 37480.0,
+        "low_price": 37000.0,
+        "close_price": 37180.0,
+        "volume": 1091658.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250723,
+        "open_price": 36900.0,
+        "high_price": 37210.0,
+        "low_price": 36900.0,
+        "close_price": 36950.0,
+        "volume": 411171.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250722,
+        "open_price": 37110.0,
+        "high_price": 37290.0,
+        "low_price": 37090.0,
+        "close_price": 37120.0,
+        "volume": 107276.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250721,
+        "open_price": 36420.0,
+        "high_price": 37080.0,
+        "low_price": 35970.0,
+        "close_price": 36860.0,
+        "volume": 1502042.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250720,
+        "open_price": 36310.0,
+        "high_price": 36790.0,
+        "low_price": 36280.0,
+        "close_price": 36410.0,
+        "volume": 931077.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250719,
+        "open_price": 36410.0,
+        "high_price": 36430.0,
+        "low_price": 35380.0,
+        "close_price": 36250.0,
+        "volume": 334327.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250716,
+        "open_price": 35390.0,
+        "high_price": 35390.0,
+        "low_price": 34550.0,
+        "close_price": 35370.0,
+        "volume": 1167865.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250715,
+        "open_price": 34390.0,
+        "high_price": 34390.0,
+        "low_price": 33010.0,
+        "close_price": 34360.0,
+        "volume": 592391.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250714,
+        "open_price": 33200.0,
+        "high_price": 33470.0,
+        "low_price": 33000.0,
+        "close_price": 33390.0,
+        "volume": 303631.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250713,
+        "open_price": 33160.0,
+        "high_price": 33160.0,
+        "low_price": 32210.0,
+        "close_price": 32500.0,
+        "volume": 154948.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250712,
+        "open_price": 31110.0,
+        "high_price": 32410.0,
+        "low_price": 31110.0,
+        "close_price": 32210.0,
+        "volume": 222406.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250709,
+        "open_price": 31400.0,
+        "high_price": 31890.0,
+        "low_price": 31400.0,
+        "close_price": 31470.0,
+        "volume": 1010719.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250708,
+        "open_price": 32920.0,
+        "high_price": 32920.0,
+        "low_price": 32230.0,
+        "close_price": 32370.0,
+        "volume": 350635.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250707,
+        "open_price": 32970.0,
+        "high_price": 33860.0,
+        "low_price": 32420.0,
+        "close_price": 33220.0,
+        "volume": 296825.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250702,
+        "open_price": 32870.0,
+        "high_price": 33830.0,
+        "low_price": 32870.0,
+        "close_price": 32880.0,
+        "volume": 1678321.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250701,
+        "open_price": 33880.0,
+        "high_price": 33880.0,
+        "low_price": 33880.0,
+        "close_price": 33880.0,
+        "volume": 728559.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250630,
+        "open_price": 34920.0,
+        "high_price": 34920.0,
+        "low_price": 34920.0,
+        "close_price": 34920.0,
+        "volume": 1303321.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250629,
+        "open_price": 36000.0,
+        "high_price": 36000.0,
+        "low_price": 36000.0,
+        "close_price": 36000.0,
+        "volume": 714326.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250628,
+        "open_price": 37110.0,
+        "high_price": 37110.0,
+        "low_price": 37110.0,
+        "close_price": 37110.0,
+        "volume": 73697.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 38250.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 38250.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 38250.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 38250.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 38250.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 38250.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 38250.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 38250.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250611,
+        "open_price": 38630.0,
+        "high_price": 38630.0,
+        "low_price": 38150.0,
+        "close_price": 38250.0,
+        "volume": 88629.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250610,
+        "open_price": 38250.0,
+        "high_price": 38390.0,
+        "low_price": 37750.0,
+        "close_price": 37920.0,
+        "volume": 82816.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250609,
+        "open_price": 38300.0,
+        "high_price": 38310.0,
+        "low_price": 37200.0,
+        "close_price": 37780.0,
+        "volume": 595271.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250608,
+        "open_price": 37900.0,
+        "high_price": 38550.0,
+        "low_price": 37900.0,
+        "close_price": 38220.0,
+        "volume": 223420.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250607,
+        "open_price": 39050.0,
+        "high_price": 39050.0,
+        "low_price": 38200.0,
+        "close_price": 38480.0,
+        "volume": 598435.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250603,
+        "open_price": 39200.0,
+        "high_price": 39660.0,
+        "low_price": 39170.0,
+        "close_price": 39240.0,
+        "volume": 147933.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250602,
+        "open_price": 39800.0,
+        "high_price": 39800.0,
+        "low_price": 39400.0,
+        "close_price": 39600.0,
+        "volume": 155369.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250601,
+        "open_price": 39710.0,
+        "high_price": 39710.0,
+        "low_price": 39020.0,
+        "close_price": 39310.0,
+        "volume": 317965.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250531,
+        "open_price": 40100.0,
+        "high_price": 40100.0,
+        "low_price": 39700.0,
+        "close_price": 39950.0,
+        "volume": 250530.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250528,
+        "open_price": 39620.0,
+        "high_price": 40290.0,
+        "low_price": 39620.0,
+        "close_price": 39910.0,
+        "volume": 420810.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250527,
+        "open_price": 39460.0,
+        "high_price": 40540.0,
+        "low_price": 39460.0,
+        "close_price": 39970.0,
+        "volume": 342667.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250526,
+        "open_price": 38620.0,
+        "high_price": 39730.0,
+        "low_price": 38620.0,
+        "close_price": 39390.0,
+        "volume": 1172932.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250525,
+        "open_price": 39260.0,
+        "high_price": 39670.0,
+        "low_price": 38590.0,
+        "close_price": 38870.0,
+        "volume": 627534.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250524,
+        "open_price": 39500.0,
+        "high_price": 40170.0,
+        "low_price": 39500.0,
+        "close_price": 39780.0,
+        "volume": 283656.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250521,
+        "open_price": 39030.0,
+        "high_price": 39470.0,
+        "low_price": 39030.0,
+        "close_price": 39270.0,
+        "volume": 664757.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250520,
+        "open_price": 40100.0,
+        "high_price": 40300.0,
+        "low_price": 39110.0,
+        "close_price": 39540.0,
+        "volume": 814660.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250519,
+        "open_price": 40220.0,
+        "high_price": 40440.0,
+        "low_price": 40050.0,
+        "close_price": 40240.0,
+        "volume": 1227986.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250518,
+        "open_price": 40000.0,
+        "high_price": 40970.0,
+        "low_price": 40000.0,
+        "close_price": 40390.0,
+        "volume": 639116.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250517,
+        "open_price": 40800.0,
+        "high_price": 40800.0,
+        "low_price": 39300.0,
+        "close_price": 40190.0,
+        "volume": 673019.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250514,
+        "open_price": 39330.0,
+        "high_price": 40500.0,
+        "low_price": 39330.0,
+        "close_price": 40040.0,
+        "volume": 926616.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250513,
+        "open_price": 41390.0,
+        "high_price": 41390.0,
+        "low_price": 40160.0,
+        "close_price": 40330.0,
+        "volume": 951442.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250512,
+        "open_price": 40190.0,
+        "high_price": 40190.0,
+        "low_price": 40190.0,
+        "close_price": 40190.0,
+        "volume": 1596025.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250511,
+        "open_price": 39100.0,
+        "high_price": 40290.0,
+        "low_price": 38570.0,
+        "close_price": 39020.0,
+        "volume": 1032740.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250510,
+        "open_price": 40040.0,
+        "high_price": 40040.0,
+        "low_price": 39730.0,
+        "close_price": 39750.0,
+        "volume": 1525494.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250507,
+        "open_price": 41620.0,
+        "high_price": 41620.0,
+        "low_price": 40500.0,
+        "close_price": 40950.0,
+        "volume": 1468592.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250506,
+        "open_price": 41000.0,
+        "high_price": 41040.0,
+        "low_price": 39800.0,
+        "close_price": 40410.0,
+        "volume": 821312.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250505,
+        "open_price": 39880.0,
+        "high_price": 39900.0,
+        "low_price": 39660.0,
+        "close_price": 39850.0,
+        "volume": 1291138.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250504,
+        "open_price": 37660.0,
+        "high_price": 39310.0,
+        "low_price": 37660.0,
+        "close_price": 38740.0,
+        "volume": 1652099.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250503,
+        "open_price": 38720.0,
+        "high_price": 38720.0,
+        "low_price": 38720.0,
+        "close_price": 38720.0,
+        "volume": 952220.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250430,
+        "open_price": 39500.0,
+        "high_price": 39990.0,
+        "low_price": 39500.0,
+        "close_price": 39910.0,
+        "volume": 1213431.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250429,
+        "open_price": 38640.0,
+        "high_price": 39160.0,
+        "low_price": 38200.0,
+        "close_price": 38830.0,
+        "volume": 601198.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250428,
+        "open_price": 38460.0,
+        "high_price": 38900.0,
+        "low_price": 37500.0,
+        "close_price": 38450.0,
+        "volume": 662849.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250427,
+        "open_price": 36690.0,
+        "high_price": 38300.0,
+        "low_price": 36690.0,
+        "close_price": 37890.0,
+        "volume": 1420554.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250426,
+        "open_price": 37210.0,
+        "high_price": 38120.0,
+        "low_price": 37210.0,
+        "close_price": 37800.0,
+        "volume": 4828847.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250423,
+        "open_price": 36110.0,
+        "high_price": 37430.0,
+        "low_price": 36090.0,
+        "close_price": 37010.0,
+        "volume": 1332809.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250422,
+        "open_price": 36750.0,
+        "high_price": 37780.0,
+        "low_price": 36750.0,
+        "close_price": 37140.0,
+        "volume": 1511201.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250421,
+        "open_price": 37800.0,
+        "high_price": 37800.0,
+        "low_price": 35650.0,
+        "close_price": 37720.0,
+        "volume": 7437036.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250420,
+        "open_price": 36700.0,
+        "high_price": 36700.0,
+        "low_price": 36700.0,
+        "close_price": 36700.0,
+        "volume": 3235003.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250419,
+        "open_price": 35530.0,
+        "high_price": 35660.0,
+        "low_price": 34700.0,
+        "close_price": 35640.0,
+        "volume": 1503227.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250416,
+        "open_price": 33310.0,
+        "high_price": 35000.0,
+        "low_price": 33310.0,
+        "close_price": 34630.0,
+        "volume": 994604.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250415,
+        "open_price": 34950.0,
+        "high_price": 34950.0,
+        "low_price": 33950.0,
+        "close_price": 34120.0,
+        "volume": 1310644.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250414,
+        "open_price": 35180.0,
+        "high_price": 35180.0,
+        "low_price": 34510.0,
+        "close_price": 34990.0,
+        "volume": 2713178.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250413,
+        "open_price": 34160.0,
+        "high_price": 34160.0,
+        "low_price": 34160.0,
+        "close_price": 34160.0,
+        "volume": 1390598.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250412,
+        "open_price": 32900.0,
+        "high_price": 33420.0,
+        "low_price": 32830.0,
+        "close_price": 33170.0,
+        "volume": 813741.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250409,
+        "open_price": 33730.0,
+        "high_price": 33730.0,
+        "low_price": 32530.0,
+        "close_price": 32950.0,
+        "volume": 1709754.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250408,
+        "open_price": 33410.0,
+        "high_price": 33410.0,
+        "low_price": 33000.0,
+        "close_price": 33410.0,
+        "volume": 2937309.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250407,
+        "open_price": 32530.0,
+        "high_price": 32800.0,
+        "low_price": 32320.0,
+        "close_price": 32440.0,
+        "volume": 399608.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250406,
+        "open_price": 32820.0,
+        "high_price": 33290.0,
+        "low_price": 32500.0,
+        "close_price": 32790.0,
+        "volume": 308675.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250405,
+        "open_price": 33600.0,
+        "high_price": 33940.0,
+        "low_price": 32820.0,
+        "close_price": 33430.0,
+        "volume": 247194.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250330,
+        "open_price": 33050.0,
+        "high_price": 33930.0,
+        "low_price": 33050.0,
+        "close_price": 33500.0,
+        "volume": 426163.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250329,
+        "open_price": 33000.0,
+        "high_price": 33580.0,
+        "low_price": 32810.0,
+        "close_price": 33070.0,
+        "volume": 948806.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250326,
+        "open_price": 34110.0,
+        "high_price": 34110.0,
+        "low_price": 33020.0,
+        "close_price": 33170.0,
+        "volume": 503165.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250325,
+        "open_price": 33170.0,
+        "high_price": 33170.0,
+        "low_price": 32900.0,
+        "close_price": 33130.0,
+        "volume": 950084.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250318,
+        "open_price": 32150.0,
+        "high_price": 32510.0,
+        "low_price": 32010.0,
+        "close_price": 32210.0,
+        "volume": 1296103.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250317,
+        "open_price": 32860.0,
+        "high_price": 33200.0,
+        "low_price": 32750.0,
+        "close_price": 32990.0,
+        "volume": 894487.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250316,
+        "open_price": 33450.0,
+        "high_price": 33740.0,
+        "low_price": 32850.0,
+        "close_price": 33120.0,
+        "volume": 570711.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250315,
+        "open_price": 33150.0,
+        "high_price": 33240.0,
+        "low_price": 33090.0,
+        "close_price": 33210.0,
+        "volume": 1843460.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250312,
+        "open_price": 32100.0,
+        "high_price": 32500.0,
+        "low_price": 32000.0,
+        "close_price": 32280.0,
+        "volume": 1180410.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250311,
+        "open_price": 32200.0,
+        "high_price": 32950.0,
+        "low_price": 31800.0,
+        "close_price": 32030.0,
+        "volume": 648558.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250310,
+        "open_price": 31500.0,
+        "high_price": 32790.0,
+        "low_price": 31500.0,
+        "close_price": 32260.0,
+        "volume": 810471.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250309,
+        "open_price": 32100.0,
+        "high_price": 32550.0,
+        "low_price": 31730.0,
+        "close_price": 31890.0,
+        "volume": 2095091.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250308,
+        "open_price": 33200.0,
+        "high_price": 33390.0,
+        "low_price": 32100.0,
+        "close_price": 32710.0,
+        "volume": 928522.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250305,
+        "open_price": 33300.0,
+        "high_price": 33580.0,
+        "low_price": 32710.0,
+        "close_price": 33090.0,
+        "volume": 735945.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250304,
+        "open_price": 32860.0,
+        "high_price": 34000.0,
+        "low_price": 32860.0,
+        "close_price": 33300.0,
+        "volume": 743376.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250303,
+        "open_price": 33420.0,
+        "high_price": 34050.0,
+        "low_price": 33210.0,
+        "close_price": 33290.0,
+        "volume": 1062001.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250302,
+        "open_price": 33720.0,
+        "high_price": 34340.0,
+        "low_price": 33720.0,
+        "close_price": 34230.0,
+        "volume": 368900.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250301,
+        "open_price": 33810.0,
+        "high_price": 34400.0,
+        "low_price": 33700.0,
+        "close_price": 34050.0,
+        "volume": 484679.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250226,
+        "open_price": 35380.0,
+        "high_price": 35380.0,
+        "low_price": 33800.0,
+        "close_price": 34070.0,
+        "volume": 968423.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250225,
+        "open_price": 35120.0,
+        "high_price": 35120.0,
+        "low_price": 33980.0,
+        "close_price": 34760.0,
+        "volume": 1807742.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250224,
+        "open_price": 33860.0,
+        "high_price": 34170.0,
+        "low_price": 33660.0,
+        "close_price": 34110.0,
+        "volume": 1378080.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250223,
+        "open_price": 32600.0,
+        "high_price": 33720.0,
+        "low_price": 32600.0,
+        "close_price": 33180.0,
+        "volume": 540067.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250222,
+        "open_price": 33650.0,
+        "high_price": 33650.0,
+        "low_price": 32660.0,
+        "close_price": 32750.0,
+        "volume": 309038.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250219,
+        "open_price": 33580.0,
+        "high_price": 33580.0,
+        "low_price": 33000.0,
+        "close_price": 33110.0,
+        "volume": 398897.0
+    },
+    {
+        "symbol": "ثهام",
+        "trade_date": 20250218,
+        "open_price": 33240.0,
+        "high_price": 33550.0,
+        "low_price": 33000.0,
+        "close_price": 33190.0,
+        "volume": 372483.0
+    }
+]

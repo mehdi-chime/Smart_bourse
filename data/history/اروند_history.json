@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "اروند",
+        "trade_date": 20260901,
+        "open_price": 51600.0,
+        "high_price": 51600.0,
+        "low_price": 48600.0,
+        "close_price": 50310.0,
+        "volume": 28983838.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260831,
+        "open_price": 50230.0,
+        "high_price": 50250.0,
+        "low_price": 48930.0,
+        "close_price": 50100.0,
+        "volume": 34004547.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260829,
+        "open_price": 48900.0,
+        "high_price": 48930.0,
+        "low_price": 47820.0,
+        "close_price": 48790.0,
+        "volume": 32505266.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260826,
+        "open_price": 47380.0,
+        "high_price": 48680.0,
+        "low_price": 46810.0,
+        "close_price": 47510.0,
+        "volume": 34037853.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260825,
+        "open_price": 46890.0,
+        "high_price": 47970.0,
+        "low_price": 46210.0,
+        "close_price": 47670.0,
+        "volume": 21162331.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260824,
+        "open_price": 46210.0,
+        "high_price": 47620.0,
+        "low_price": 46200.0,
+        "close_price": 46580.0,
+        "volume": 17825275.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260823,
+        "open_price": 48450.0,
+        "high_price": 49460.0,
+        "low_price": 46780.0,
+        "close_price": 47620.0,
+        "volume": 21128218.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260822,
+        "open_price": 47160.0,
+        "high_price": 48570.0,
+        "low_price": 47160.0,
+        "close_price": 48220.0,
+        "volume": 15582390.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260819,
+        "open_price": 46900.0,
+        "high_price": 48320.0,
+        "low_price": 45600.0,
+        "close_price": 47160.0,
+        "volume": 18838273.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260818,
+        "open_price": 47190.0,
+        "high_price": 47200.0,
+        "low_price": 45120.0,
+        "close_price": 46930.0,
+        "volume": 34451350.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260817,
+        "open_price": 45500.0,
+        "high_price": 45870.0,
+        "low_price": 45020.0,
+        "close_price": 45830.0,
+        "volume": 11893900.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260816,
+        "open_price": 43960.0,
+        "high_price": 44590.0,
+        "low_price": 43320.0,
+        "close_price": 44540.0,
+        "volume": 13857746.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260815,
+        "open_price": 44600.0,
+        "high_price": 44600.0,
+        "low_price": 43250.0,
+        "close_price": 43300.0,
+        "volume": 18047382.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260811,
+        "open_price": 46670.0,
+        "high_price": 46670.0,
+        "low_price": 44190.0,
+        "close_price": 44580.0,
+        "volume": 16381174.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260810,
+        "open_price": 45380.0,
+        "high_price": 46530.0,
+        "low_price": 45350.0,
+        "close_price": 45550.0,
+        "volume": 18988857.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260809,
+        "open_price": 48980.0,
+        "high_price": 48980.0,
+        "low_price": 46530.0,
+        "close_price": 46750.0,
+        "volume": 23632595.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260808,
+        "open_price": 47900.0,
+        "high_price": 47980.0,
+        "low_price": 47700.0,
+        "close_price": 47960.0,
+        "volume": 9257943.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260805,
+        "open_price": 46290.0,
+        "high_price": 46610.0,
+        "low_price": 46200.0,
+        "close_price": 46590.0,
+        "volume": 11374662.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260803,
+        "open_price": 45270.0,
+        "high_price": 45300.0,
+        "low_price": 44010.0,
+        "close_price": 45260.0,
+        "volume": 13163525.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260802,
+        "open_price": 44200.0,
+        "high_price": 44220.0,
+        "low_price": 43010.0,
+        "close_price": 43990.0,
+        "volume": 13662631.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260801,
+        "open_price": 42630.0,
+        "high_price": 43670.0,
+        "low_price": 42600.0,
+        "close_price": 42940.0,
+        "volume": 9605258.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260729,
+        "open_price": 43610.0,
+        "high_price": 44400.0,
+        "low_price": 43610.0,
+        "close_price": 43690.0,
+        "volume": 11335758.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260728,
+        "open_price": 44930.0,
+        "high_price": 44960.0,
+        "low_price": 44000.0,
+        "close_price": 44950.0,
+        "volume": 16847518.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260727,
+        "open_price": 45090.0,
+        "high_price": 45090.0,
+        "low_price": 43230.0,
+        "close_price": 43660.0,
+        "volume": 18989264.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260726,
+        "open_price": 44510.0,
+        "high_price": 44570.0,
+        "low_price": 44300.0,
+        "close_price": 44560.0,
+        "volume": 17080360.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260725,
+        "open_price": 43200.0,
+        "high_price": 45000.0,
+        "low_price": 43120.0,
+        "close_price": 43280.0,
+        "volume": 23053417.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260722,
+        "open_price": 44500.0,
+        "high_price": 45400.0,
+        "low_price": 44440.0,
+        "close_price": 44450.0,
+        "volume": 39256367.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260721,
+        "open_price": 45530.0,
+        "high_price": 46920.0,
+        "low_price": 44900.0,
+        "close_price": 45810.0,
+        "volume": 21233505.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260720,
+        "open_price": 45530.0,
+        "high_price": 48270.0,
+        "low_price": 45530.0,
+        "close_price": 45780.0,
+        "volume": 48848927.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260719,
+        "open_price": 46930.0,
+        "high_price": 46930.0,
+        "low_price": 46930.0,
+        "close_price": 46930.0,
+        "volume": 33467333.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260718,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 48380.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260715,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 54380.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260714,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 54380.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260713,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 54380.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260712,
+        "open_price": 54380.0,
+        "high_price": 54380.0,
+        "low_price": 54380.0,
+        "close_price": 54380.0,
+        "volume": 1305013.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260711,
+        "open_price": 56060.0,
+        "high_price": 56060.0,
+        "low_price": 56060.0,
+        "close_price": 56060.0,
+        "volume": 3017826.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260708,
+        "open_price": 57770.0,
+        "high_price": 58490.0,
+        "low_price": 57770.0,
+        "close_price": 57790.0,
+        "volume": 48639841.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260707,
+        "open_price": 58990.0,
+        "high_price": 59750.0,
+        "low_price": 58560.0,
+        "close_price": 59550.0,
+        "volume": 27243530.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260701,
+        "open_price": 58000.0,
+        "high_price": 59800.0,
+        "low_price": 56810.0,
+        "close_price": 58010.0,
+        "volume": 56024047.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260630,
+        "open_price": 59960.0,
+        "high_price": 60800.0,
+        "low_price": 58130.0,
+        "close_price": 58560.0,
+        "volume": 57018102.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260629,
+        "open_price": 57790.0,
+        "high_price": 60820.0,
+        "low_price": 57790.0,
+        "close_price": 59920.0,
+        "volume": 60372440.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260628,
+        "open_price": 59040.0,
+        "high_price": 59880.0,
+        "low_price": 59040.0,
+        "close_price": 59050.0,
+        "volume": 111093836.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260627,
+        "open_price": 60860.0,
+        "high_price": 60860.0,
+        "low_price": 60860.0,
+        "close_price": 60860.0,
+        "volume": 105532668.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260623,
+        "open_price": 62740.0,
+        "high_price": 62740.0,
+        "low_price": 62740.0,
+        "close_price": 62740.0,
+        "volume": 59099466.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260622,
+        "open_price": 64680.0,
+        "high_price": 64680.0,
+        "low_price": 64680.0,
+        "close_price": 64680.0,
+        "volume": 154566705.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260621,
+        "open_price": 66680.0,
+        "high_price": 66680.0,
+        "low_price": 66680.0,
+        "close_price": 66680.0,
+        "volume": 45955972.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260620,
+        "open_price": 68740.0,
+        "high_price": 68740.0,
+        "low_price": 68740.0,
+        "close_price": 68740.0,
+        "volume": 24353318.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260617,
+        "open_price": 70860.0,
+        "high_price": 70860.0,
+        "low_price": 70860.0,
+        "close_price": 70860.0,
+        "volume": 6961960.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260616,
+        "open_price": 74540.0,
+        "high_price": 74540.0,
+        "low_price": 72310.0,
+        "close_price": 73050.0,
+        "volume": 44342984.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260615,
+        "open_price": 74310.0,
+        "high_price": 75800.0,
+        "low_price": 74310.0,
+        "close_price": 74540.0,
+        "volume": 226756087.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260614,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260613,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260610,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260609,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260608,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260607,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260606,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260603,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260602,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260601,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260531,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260530,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260526,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260525,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260524,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260523,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260520,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260519,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 52660.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260225,
+        "open_price": 51000.0,
+        "high_price": 52700.0,
+        "low_price": 51000.0,
+        "close_price": 52660.0,
+        "volume": 26575964.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260224,
+        "open_price": 51400.0,
+        "high_price": 52280.0,
+        "low_price": 49270.0,
+        "close_price": 51170.0,
+        "volume": 15831636.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260223,
+        "open_price": 50800.0,
+        "high_price": 50830.0,
+        "low_price": 50050.0,
+        "close_price": 50770.0,
+        "volume": 17975017.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260222,
+        "open_price": 49290.0,
+        "high_price": 50450.0,
+        "low_price": 49290.0,
+        "close_price": 49350.0,
+        "volume": 52979662.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260221,
+        "open_price": 50810.0,
+        "high_price": 50900.0,
+        "low_price": 50810.0,
+        "close_price": 50810.0,
+        "volume": 24293005.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260218,
+        "open_price": 53900.0,
+        "high_price": 53900.0,
+        "low_price": 51000.0,
+        "close_price": 52380.0,
+        "volume": 20706608.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260217,
+        "open_price": 52100.0,
+        "high_price": 52980.0,
+        "low_price": 51120.0,
+        "close_price": 52380.0,
+        "volume": 21175093.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260216,
+        "open_price": 51100.0,
+        "high_price": 52680.0,
+        "low_price": 51100.0,
+        "close_price": 51440.0,
+        "volume": 46892014.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260215,
+        "open_price": 52680.0,
+        "high_price": 52680.0,
+        "low_price": 52680.0,
+        "close_price": 52680.0,
+        "volume": 9519817.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260214,
+        "open_price": 55890.0,
+        "high_price": 56300.0,
+        "low_price": 53640.0,
+        "close_price": 54300.0,
+        "volume": 23772846.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260210,
+        "open_price": 55100.0,
+        "high_price": 56100.0,
+        "low_price": 55020.0,
+        "close_price": 55290.0,
+        "volume": 43184297.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260209,
+        "open_price": 56800.0,
+        "high_price": 57000.0,
+        "low_price": 56710.0,
+        "close_price": 56720.0,
+        "volume": 17653247.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260208,
+        "open_price": 60770.0,
+        "high_price": 60770.0,
+        "low_price": 57400.0,
+        "close_price": 58460.0,
+        "volume": 95440488.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260207,
+        "open_price": 58990.0,
+        "high_price": 59250.0,
+        "low_price": 58010.0,
+        "close_price": 59170.0,
+        "volume": 27005563.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260203,
+        "open_price": 59200.0,
+        "high_price": 59200.0,
+        "low_price": 57480.0,
+        "close_price": 57530.0,
+        "volume": 103213900.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260202,
+        "open_price": 58670.0,
+        "high_price": 60290.0,
+        "low_price": 57840.0,
+        "close_price": 59250.0,
+        "volume": 73021585.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260201,
+        "open_price": 57800.0,
+        "high_price": 60020.0,
+        "low_price": 56970.0,
+        "close_price": 58720.0,
+        "volume": 125480101.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260131,
+        "open_price": 60170.0,
+        "high_price": 61350.0,
+        "low_price": 57840.0,
+        "close_price": 58470.0,
+        "volume": 90830819.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260128,
+        "open_price": 59110.0,
+        "high_price": 59800.0,
+        "low_price": 58600.0,
+        "close_price": 59620.0,
+        "volume": 215861996.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260127,
+        "open_price": 57880.0,
+        "high_price": 59280.0,
+        "low_price": 57880.0,
+        "close_price": 58060.0,
+        "volume": 432079903.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260126,
+        "open_price": 59660.0,
+        "high_price": 59660.0,
+        "low_price": 59660.0,
+        "close_price": 59660.0,
+        "volume": 9633766.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260125,
+        "open_price": 61500.0,
+        "high_price": 61500.0,
+        "low_price": 61500.0,
+        "close_price": 61500.0,
+        "volume": 75113316.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260124,
+        "open_price": 63380.0,
+        "high_price": 64620.0,
+        "low_price": 63380.0,
+        "close_price": 63400.0,
+        "volume": 294705345.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260121,
+        "open_price": 65340.0,
+        "high_price": 65340.0,
+        "low_price": 65340.0,
+        "close_price": 65340.0,
+        "volume": 23971315.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260120,
+        "open_price": 63440.0,
+        "high_price": 63440.0,
+        "low_price": 63440.0,
+        "close_price": 63440.0,
+        "volume": 8194496.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260119,
+        "open_price": 61600.0,
+        "high_price": 61600.0,
+        "low_price": 61600.0,
+        "close_price": 61600.0,
+        "volume": 8084207.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260118,
+        "open_price": 59810.0,
+        "high_price": 59810.0,
+        "low_price": 59810.0,
+        "close_price": 59810.0,
+        "volume": 9552127.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260114,
+        "open_price": 58070.0,
+        "high_price": 58070.0,
+        "low_price": 58070.0,
+        "close_price": 58070.0,
+        "volume": 52963043.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260113,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 56380.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260112,
+        "open_price": 56380.0,
+        "high_price": 56380.0,
+        "low_price": 56380.0,
+        "close_price": 56380.0,
+        "volume": 2476777.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260111,
+        "open_price": 54740.0,
+        "high_price": 54740.0,
+        "low_price": 54740.0,
+        "close_price": 54740.0,
+        "volume": 23054280.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260110,
+        "open_price": 53000.0,
+        "high_price": 53400.0,
+        "low_price": 51200.0,
+        "close_price": 53150.0,
+        "volume": 427570277.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260107,
+        "open_price": 51850.0,
+        "high_price": 51850.0,
+        "low_price": 51850.0,
+        "close_price": 51850.0,
+        "volume": 45768626.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260106,
+        "open_price": 50340.0,
+        "high_price": 50340.0,
+        "low_price": 50340.0,
+        "close_price": 50340.0,
+        "volume": 68310700.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260105,
+        "open_price": 48880.0,
+        "high_price": 48880.0,
+        "low_price": 48880.0,
+        "close_price": 48880.0,
+        "volume": 8474275.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20260104,
+        "open_price": 47460.0,
+        "high_price": 47460.0,
+        "low_price": 47460.0,
+        "close_price": 47460.0,
+        "volume": 39863792.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251231,
+        "open_price": 46080.0,
+        "high_price": 46080.0,
+        "low_price": 46080.0,
+        "close_price": 46080.0,
+        "volume": 136347417.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251230,
+        "open_price": 44740.0,
+        "high_price": 44740.0,
+        "low_price": 44740.0,
+        "close_price": 44740.0,
+        "volume": 150516583.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251229,
+        "open_price": 43440.0,
+        "high_price": 43440.0,
+        "low_price": 43440.0,
+        "close_price": 43440.0,
+        "volume": 106668905.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251228,
+        "open_price": 42180.0,
+        "high_price": 42180.0,
+        "low_price": 42180.0,
+        "close_price": 42180.0,
+        "volume": 121343283.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251227,
+        "open_price": 40960.0,
+        "high_price": 40960.0,
+        "low_price": 40960.0,
+        "close_price": 40960.0,
+        "volume": 122839397.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251224,
+        "open_price": 39770.0,
+        "high_price": 39770.0,
+        "low_price": 39770.0,
+        "close_price": 39770.0,
+        "volume": 51445234.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251223,
+        "open_price": 38620.0,
+        "high_price": 38620.0,
+        "low_price": 38620.0,
+        "close_price": 38620.0,
+        "volume": 80985721.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251222,
+        "open_price": 37500.0,
+        "high_price": 37500.0,
+        "low_price": 37500.0,
+        "close_price": 37500.0,
+        "volume": 599997698.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251221,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251220,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251217,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251216,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251215,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251214,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251213,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251210,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251209,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251208,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251207,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251206,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251203,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251202,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251201,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251130,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251129,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251126,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251125,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251123,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251122,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251119,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251118,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251117,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251116,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251115,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251112,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251111,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251110,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251109,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251108,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251105,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251104,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251103,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251102,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251101,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251029,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251028,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251027,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251026,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251025,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251022,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251021,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251020,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251019,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251018,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251015,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251014,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251013,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251012,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251011,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251008,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251007,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251006,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251005,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251004,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20251001,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250930,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250929,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250928,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250927,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250924,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250923,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250922,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250921,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250920,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250917,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250916,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250915,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250914,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250913,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250909,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250908,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250907,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250906,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250903,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250902,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250831,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250830,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250827,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250826,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250825,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250823,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250820,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250819,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250818,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250817,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250816,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250813,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250812,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250811,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250810,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250809,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250806,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250805,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250804,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250803,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250802,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250730,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250729,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250728,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250727,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250726,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250723,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250722,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250721,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250720,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250719,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250716,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250715,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250714,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250713,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250712,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250709,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250708,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250707,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250702,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250701,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250630,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250629,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250628,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250611,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250610,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250609,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250608,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250607,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250603,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250602,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250601,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250531,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250528,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250527,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250526,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250525,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250524,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250521,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250520,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250519,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250514,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250507,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250430,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250423,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250416,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250414,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250409,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250326,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250312,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250311,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250305,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250301,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250226,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250225,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250224,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250223,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250222,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250219,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "اروند",
+        "trade_date": 20250218,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 1000.0,
+        "volume": 0.0
+    }
+]

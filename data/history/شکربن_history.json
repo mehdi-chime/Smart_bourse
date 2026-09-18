@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260901,
+        "open_price": 8470.0,
+        "high_price": 8940.0,
+        "low_price": 8430.0,
+        "close_price": 8560.0,
+        "volume": 16189572.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260831,
+        "open_price": 8800.0,
+        "high_price": 8910.0,
+        "low_price": 8500.0,
+        "close_price": 8690.0,
+        "volume": 9046066.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260829,
+        "open_price": 8670.0,
+        "high_price": 8670.0,
+        "low_price": 8500.0,
+        "close_price": 8660.0,
+        "volume": 23765258.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260826,
+        "open_price": 8250.0,
+        "high_price": 8430.0,
+        "low_price": 8250.0,
+        "close_price": 8420.0,
+        "volume": 20741454.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260825,
+        "open_price": 7980.0,
+        "high_price": 8210.0,
+        "low_price": 7980.0,
+        "close_price": 8190.0,
+        "volume": 12891377.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260824,
+        "open_price": 7930.0,
+        "high_price": 8170.0,
+        "low_price": 7890.0,
+        "close_price": 7980.0,
+        "volume": 6880800.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260823,
+        "open_price": 8300.0,
+        "high_price": 8390.0,
+        "low_price": 7910.0,
+        "close_price": 8010.0,
+        "volume": 16697407.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260822,
+        "open_price": 8090.0,
+        "high_price": 8170.0,
+        "low_price": 8090.0,
+        "close_price": 8150.0,
+        "volume": 10848678.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260819,
+        "open_price": 7850.0,
+        "high_price": 8070.0,
+        "low_price": 7850.0,
+        "close_price": 7940.0,
+        "volume": 12424236.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260818,
+        "open_price": 8290.0,
+        "high_price": 8310.0,
+        "low_price": 8070.0,
+        "close_price": 8090.0,
+        "volume": 15093598.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260817,
+        "open_price": 8390.0,
+        "high_price": 8500.0,
+        "low_price": 8130.0,
+        "close_price": 8310.0,
+        "volume": 36540154.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260816,
+        "open_price": 8200.0,
+        "high_price": 8440.0,
+        "low_price": 8200.0,
+        "close_price": 8270.0,
+        "volume": 15481810.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260815,
+        "open_price": 8550.0,
+        "high_price": 8550.0,
+        "low_price": 8310.0,
+        "close_price": 8450.0,
+        "volume": 31549701.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260811,
+        "open_price": 8320.0,
+        "high_price": 8340.0,
+        "low_price": 8120.0,
+        "close_price": 8310.0,
+        "volume": 21194070.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260810,
+        "open_price": 8080.0,
+        "high_price": 8130.0,
+        "low_price": 7900.0,
+        "close_price": 8100.0,
+        "volume": 34190646.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260809,
+        "open_price": 8180.0,
+        "high_price": 8180.0,
+        "low_price": 7720.0,
+        "close_price": 7900.0,
+        "volume": 38579176.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260808,
+        "open_price": 7950.0,
+        "high_price": 7950.0,
+        "low_price": 7940.0,
+        "close_price": 7950.0,
+        "volume": 30922743.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260805,
+        "open_price": 7720.0,
+        "high_price": 7720.0,
+        "low_price": 7720.0,
+        "close_price": 7720.0,
+        "volume": 26724811.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260803,
+        "open_price": 7500.0,
+        "high_price": 7500.0,
+        "low_price": 7500.0,
+        "close_price": 7500.0,
+        "volume": 10893343.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260802,
+        "open_price": 7290.0,
+        "high_price": 7290.0,
+        "low_price": 7180.0,
+        "close_price": 7290.0,
+        "volume": 25340555.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260801,
+        "open_price": 7080.0,
+        "high_price": 7080.0,
+        "low_price": 7080.0,
+        "close_price": 7080.0,
+        "volume": 16154791.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260729,
+        "open_price": 6780.0,
+        "high_price": 6980.0,
+        "low_price": 6580.0,
+        "close_price": 6880.0,
+        "volume": 33572230.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260728,
+        "open_price": 6830.0,
+        "high_price": 6830.0,
+        "low_price": 6580.0,
+        "close_price": 6780.0,
+        "volume": 14924299.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260727,
+        "open_price": 6640.0,
+        "high_price": 6640.0,
+        "low_price": 6640.0,
+        "close_price": 6640.0,
+        "volume": 6285635.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260726,
+        "open_price": 6450.0,
+        "high_price": 6450.0,
+        "low_price": 6410.0,
+        "close_price": 6450.0,
+        "volume": 20019869.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260725,
+        "open_price": 6350.0,
+        "high_price": 6450.0,
+        "low_price": 6130.0,
+        "close_price": 6270.0,
+        "volume": 8833685.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260722,
+        "open_price": 6590.0,
+        "high_price": 6590.0,
+        "low_price": 6290.0,
+        "close_price": 6310.0,
+        "volume": 23702104.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260721,
+        "open_price": 6480.0,
+        "high_price": 6480.0,
+        "low_price": 6450.0,
+        "close_price": 6480.0,
+        "volume": 5547589.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260720,
+        "open_price": 6280.0,
+        "high_price": 6590.0,
+        "low_price": 6270.0,
+        "close_price": 6300.0,
+        "volume": 38120616.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260719,
+        "open_price": 6460.0,
+        "high_price": 6550.0,
+        "low_price": 6460.0,
+        "close_price": 6460.0,
+        "volume": 23308011.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260718,
+        "open_price": 6650.0,
+        "high_price": 6650.0,
+        "low_price": 6650.0,
+        "close_price": 6650.0,
+        "volume": 1927663.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260715,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6850.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260714,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8410.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260713,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6820.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260712,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8410.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260711,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8410.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260708,
+        "open_price": 8320.0,
+        "high_price": 8700.0,
+        "low_price": 8320.0,
+        "close_price": 8410.0,
+        "volume": 16406225.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260707,
+        "open_price": 8570.0,
+        "high_price": 8570.0,
+        "low_price": 8540.0,
+        "close_price": 8570.0,
+        "volume": 34273327.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260701,
+        "open_price": 8310.0,
+        "high_price": 8330.0,
+        "low_price": 8310.0,
+        "close_price": 8330.0,
+        "volume": 19303279.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260630,
+        "open_price": 8090.0,
+        "high_price": 8090.0,
+        "low_price": 8090.0,
+        "close_price": 8090.0,
+        "volume": 13889542.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260629,
+        "open_price": 7860.0,
+        "high_price": 7900.0,
+        "low_price": 7640.0,
+        "close_price": 7860.0,
+        "volume": 12850279.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260628,
+        "open_price": 7700.0,
+        "high_price": 7710.0,
+        "low_price": 7670.0,
+        "close_price": 7670.0,
+        "volume": 9840431.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260627,
+        "open_price": 7830.0,
+        "high_price": 8080.0,
+        "low_price": 7830.0,
+        "close_price": 7900.0,
+        "volume": 9450128.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260623,
+        "open_price": 7880.0,
+        "high_price": 7880.0,
+        "low_price": 7690.0,
+        "close_price": 7880.0,
+        "volume": 14540055.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260622,
+        "open_price": 7630.0,
+        "high_price": 8000.0,
+        "low_price": 7630.0,
+        "close_price": 7660.0,
+        "volume": 18827621.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260621,
+        "open_price": 8130.0,
+        "high_price": 8130.0,
+        "low_price": 7670.0,
+        "close_price": 7860.0,
+        "volume": 39343698.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260620,
+        "open_price": 7900.0,
+        "high_price": 7900.0,
+        "low_price": 7870.0,
+        "close_price": 7900.0,
+        "volume": 10667050.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260617,
+        "open_price": 7900.0,
+        "high_price": 7900.0,
+        "low_price": 7520.0,
+        "close_price": 7670.0,
+        "volume": 14675842.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260616,
+        "open_price": 7760.0,
+        "high_price": 7760.0,
+        "low_price": 7570.0,
+        "close_price": 7750.0,
+        "volume": 58048919.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260615,
+        "open_price": 7540.0,
+        "high_price": 7540.0,
+        "low_price": 7540.0,
+        "close_price": 7540.0,
+        "volume": 6361688.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260614,
+        "open_price": 7330.0,
+        "high_price": 7330.0,
+        "low_price": 7330.0,
+        "close_price": 7330.0,
+        "volume": 9727307.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260613,
+        "open_price": 7120.0,
+        "high_price": 7120.0,
+        "low_price": 7120.0,
+        "close_price": 7120.0,
+        "volume": 12983337.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260610,
+        "open_price": 6930.0,
+        "high_price": 6930.0,
+        "low_price": 6790.0,
+        "close_price": 6920.0,
+        "volume": 35577218.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260609,
+        "open_price": 6720.0,
+        "high_price": 6730.0,
+        "low_price": 6710.0,
+        "close_price": 6730.0,
+        "volume": 25874389.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260608,
+        "open_price": 6540.0,
+        "high_price": 6540.0,
+        "low_price": 6540.0,
+        "close_price": 6540.0,
+        "volume": 3162672.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260607,
+        "open_price": 6420.0,
+        "high_price": 6760.0,
+        "low_price": 6420.0,
+        "close_price": 6740.0,
+        "volume": 15866435.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260606,
+        "open_price": 6570.0,
+        "high_price": 6600.0,
+        "low_price": 6570.0,
+        "close_price": 6570.0,
+        "volume": 13115227.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260603,
+        "open_price": 6790.0,
+        "high_price": 6890.0,
+        "low_price": 6770.0,
+        "close_price": 6770.0,
+        "volume": 6788910.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260602,
+        "open_price": 7140.0,
+        "high_price": 7140.0,
+        "low_price": 6960.0,
+        "close_price": 6970.0,
+        "volume": 15469469.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260601,
+        "open_price": 7240.0,
+        "high_price": 7240.0,
+        "low_price": 6850.0,
+        "close_price": 7170.0,
+        "volume": 20004068.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260531,
+        "open_price": 7030.0,
+        "high_price": 7030.0,
+        "low_price": 7030.0,
+        "close_price": 7030.0,
+        "volume": 3504343.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260530,
+        "open_price": 6830.0,
+        "high_price": 6830.0,
+        "low_price": 6830.0,
+        "close_price": 6830.0,
+        "volume": 5228677.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260526,
+        "open_price": 6620.0,
+        "high_price": 6680.0,
+        "low_price": 6300.0,
+        "close_price": 6640.0,
+        "volume": 17655030.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260525,
+        "open_price": 6500.0,
+        "high_price": 6500.0,
+        "low_price": 6320.0,
+        "close_price": 6490.0,
+        "volume": 34295699.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260524,
+        "open_price": 6320.0,
+        "high_price": 6320.0,
+        "low_price": 6320.0,
+        "close_price": 6320.0,
+        "volume": 18342023.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260523,
+        "open_price": 6000.0,
+        "high_price": 6150.0,
+        "low_price": 6000.0,
+        "close_price": 6140.0,
+        "volume": 16256449.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260520,
+        "open_price": 5970.0,
+        "high_price": 6090.0,
+        "low_price": 5970.0,
+        "close_price": 5980.0,
+        "volume": 40931267.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260519,
+        "open_price": 6150.0,
+        "high_price": 6150.0,
+        "low_price": 6150.0,
+        "close_price": 6150.0,
+        "volume": 8832992.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260225,
+        "open_price": 6150.0,
+        "high_price": 6400.0,
+        "low_price": 6150.0,
+        "close_price": 6330.0,
+        "volume": 5520743.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260224,
+        "open_price": 6270.0,
+        "high_price": 6360.0,
+        "low_price": 6100.0,
+        "close_price": 6220.0,
+        "volume": 971534.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260223,
+        "open_price": 6220.0,
+        "high_price": 6230.0,
+        "low_price": 6160.0,
+        "close_price": 6230.0,
+        "volume": 6497748.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260222,
+        "open_price": 5930.0,
+        "high_price": 6280.0,
+        "low_price": 5930.0,
+        "close_price": 6050.0,
+        "volume": 4638730.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260221,
+        "open_price": 6100.0,
+        "high_price": 6180.0,
+        "low_price": 6100.0,
+        "close_price": 6100.0,
+        "volume": 9545034.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260218,
+        "open_price": 6560.0,
+        "high_price": 6560.0,
+        "low_price": 6220.0,
+        "close_price": 6280.0,
+        "volume": 4341115.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260217,
+        "open_price": 6590.0,
+        "high_price": 6590.0,
+        "low_price": 6350.0,
+        "close_price": 6410.0,
+        "volume": 2009572.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260216,
+        "open_price": 6510.0,
+        "high_price": 6550.0,
+        "low_price": 6330.0,
+        "close_price": 6410.0,
+        "volume": 3153278.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260215,
+        "open_price": 6610.0,
+        "high_price": 6800.0,
+        "low_price": 6510.0,
+        "close_price": 6520.0,
+        "volume": 5006682.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260214,
+        "open_price": 6890.0,
+        "high_price": 7050.0,
+        "low_price": 6670.0,
+        "close_price": 6710.0,
+        "volume": 3051652.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260210,
+        "open_price": 6850.0,
+        "high_price": 6980.0,
+        "low_price": 6810.0,
+        "close_price": 6870.0,
+        "volume": 4323516.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260209,
+        "open_price": 7090.0,
+        "high_price": 7090.0,
+        "low_price": 6760.0,
+        "close_price": 6820.0,
+        "volume": 8099939.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260208,
+        "open_price": 7070.0,
+        "high_price": 7240.0,
+        "low_price": 6820.0,
+        "close_price": 6960.0,
+        "volume": 18137645.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260207,
+        "open_price": 7010.0,
+        "high_price": 7030.0,
+        "low_price": 6900.0,
+        "close_price": 7030.0,
+        "volume": 3946123.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260203,
+        "open_price": 6850.0,
+        "high_price": 6920.0,
+        "low_price": 6700.0,
+        "close_price": 6830.0,
+        "volume": 2572573.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260202,
+        "open_price": 6840.0,
+        "high_price": 6850.0,
+        "low_price": 6740.0,
+        "close_price": 6820.0,
+        "volume": 3738585.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260201,
+        "open_price": 6620.0,
+        "high_price": 6880.0,
+        "low_price": 6610.0,
+        "close_price": 6660.0,
+        "volume": 7588345.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260131,
+        "open_price": 7130.0,
+        "high_price": 7130.0,
+        "low_price": 6730.0,
+        "close_price": 6810.0,
+        "volume": 3682867.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260128,
+        "open_price": 6600.0,
+        "high_price": 6930.0,
+        "low_price": 6600.0,
+        "close_price": 6930.0,
+        "volume": 21342516.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260127,
+        "open_price": 6730.0,
+        "high_price": 6940.0,
+        "low_price": 6730.0,
+        "close_price": 6730.0,
+        "volume": 20293839.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260126,
+        "open_price": 6930.0,
+        "high_price": 6930.0,
+        "low_price": 6930.0,
+        "close_price": 6930.0,
+        "volume": 1761660.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260125,
+        "open_price": 7140.0,
+        "high_price": 7200.0,
+        "low_price": 7140.0,
+        "close_price": 7140.0,
+        "volume": 26365171.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260124,
+        "open_price": 7760.0,
+        "high_price": 7760.0,
+        "low_price": 7330.0,
+        "close_price": 7360.0,
+        "volume": 32360523.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260121,
+        "open_price": 7470.0,
+        "high_price": 7590.0,
+        "low_price": 7420.0,
+        "close_price": 7550.0,
+        "volume": 9122905.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260120,
+        "open_price": 7470.0,
+        "high_price": 7470.0,
+        "low_price": 7210.0,
+        "close_price": 7370.0,
+        "volume": 7759777.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260119,
+        "open_price": 7320.0,
+        "high_price": 7520.0,
+        "low_price": 7290.0,
+        "close_price": 7430.0,
+        "volume": 10249306.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260118,
+        "open_price": 7450.0,
+        "high_price": 7460.0,
+        "low_price": 7250.0,
+        "close_price": 7310.0,
+        "volume": 8804489.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260114,
+        "open_price": 7370.0,
+        "high_price": 7370.0,
+        "low_price": 7190.0,
+        "close_price": 7270.0,
+        "volume": 36085896.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260113,
+        "open_price": 7770.0,
+        "high_price": 7770.0,
+        "low_price": 7340.0,
+        "close_price": 7410.0,
+        "volume": 15612462.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260112,
+        "open_price": 7470.0,
+        "high_price": 7560.0,
+        "low_price": 7470.0,
+        "close_price": 7560.0,
+        "volume": 14156639.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260111,
+        "open_price": 7430.0,
+        "high_price": 7470.0,
+        "low_price": 7290.0,
+        "close_price": 7340.0,
+        "volume": 11587072.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260110,
+        "open_price": 7470.0,
+        "high_price": 7680.0,
+        "low_price": 7470.0,
+        "close_price": 7510.0,
+        "volume": 12161880.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260107,
+        "open_price": 8000.0,
+        "high_price": 8040.0,
+        "low_price": 7640.0,
+        "close_price": 7700.0,
+        "volume": 19058971.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260106,
+        "open_price": 7830.0,
+        "high_price": 7870.0,
+        "low_price": 7780.0,
+        "close_price": 7870.0,
+        "volume": 26455431.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260105,
+        "open_price": 7430.0,
+        "high_price": 7650.0,
+        "low_price": 7430.0,
+        "close_price": 7650.0,
+        "volume": 18233990.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20260104,
+        "open_price": 7500.0,
+        "high_price": 7770.0,
+        "low_price": 7420.0,
+        "close_price": 7430.0,
+        "volume": 15424637.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251231,
+        "open_price": 7480.0,
+        "high_price": 7920.0,
+        "low_price": 7480.0,
+        "close_price": 7640.0,
+        "volume": 25390806.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251230,
+        "open_price": 7800.0,
+        "high_price": 7800.0,
+        "low_price": 7700.0,
+        "close_price": 7710.0,
+        "volume": 25161537.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251229,
+        "open_price": 8320.0,
+        "high_price": 8330.0,
+        "low_price": 7850.0,
+        "close_price": 7930.0,
+        "volume": 50724270.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251228,
+        "open_price": 8090.0,
+        "high_price": 8090.0,
+        "low_price": 8070.0,
+        "close_price": 8090.0,
+        "volume": 29710595.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251227,
+        "open_price": 7860.0,
+        "high_price": 7860.0,
+        "low_price": 7800.0,
+        "close_price": 7860.0,
+        "volume": 35478243.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251224,
+        "open_price": 7640.0,
+        "high_price": 7640.0,
+        "low_price": 7620.0,
+        "close_price": 7640.0,
+        "volume": 27491592.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251223,
+        "open_price": 7490.0,
+        "high_price": 7600.0,
+        "low_price": 7210.0,
+        "close_price": 7420.0,
+        "volume": 13800636.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251222,
+        "open_price": 7610.0,
+        "high_price": 7610.0,
+        "low_price": 7280.0,
+        "close_price": 7380.0,
+        "volume": 8843771.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251221,
+        "open_price": 7610.0,
+        "high_price": 7680.0,
+        "low_price": 7390.0,
+        "close_price": 7500.0,
+        "volume": 10703266.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251220,
+        "open_price": 7390.0,
+        "high_price": 7520.0,
+        "low_price": 7390.0,
+        "close_price": 7520.0,
+        "volume": 9338034.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251217,
+        "open_price": 7400.0,
+        "high_price": 7400.0,
+        "low_price": 7240.0,
+        "close_price": 7310.0,
+        "volume": 8018760.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251216,
+        "open_price": 7510.0,
+        "high_price": 7690.0,
+        "low_price": 7280.0,
+        "close_price": 7390.0,
+        "volume": 7905543.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251215,
+        "open_price": 7410.0,
+        "high_price": 7570.0,
+        "low_price": 7400.0,
+        "close_price": 7500.0,
+        "volume": 7130527.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251214,
+        "open_price": 7440.0,
+        "high_price": 7440.0,
+        "low_price": 7150.0,
+        "close_price": 7350.0,
+        "volume": 11446525.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251213,
+        "open_price": 7230.0,
+        "high_price": 7230.0,
+        "low_price": 7170.0,
+        "close_price": 7230.0,
+        "volume": 9958519.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251210,
+        "open_price": 6880.0,
+        "high_price": 7020.0,
+        "low_price": 6880.0,
+        "close_price": 7020.0,
+        "volume": 11346482.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251209,
+        "open_price": 6890.0,
+        "high_price": 6940.0,
+        "low_price": 6730.0,
+        "close_price": 6820.0,
+        "volume": 7769545.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251208,
+        "open_price": 6780.0,
+        "high_price": 6850.0,
+        "low_price": 6650.0,
+        "close_price": 6740.0,
+        "volume": 6493362.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251207,
+        "open_price": 6710.0,
+        "high_price": 7010.0,
+        "low_price": 6630.0,
+        "close_price": 6730.0,
+        "volume": 13574134.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251206,
+        "open_price": 6870.0,
+        "high_price": 6890.0,
+        "low_price": 6770.0,
+        "close_price": 6830.0,
+        "volume": 4791092.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251203,
+        "open_price": 6720.0,
+        "high_price": 6850.0,
+        "low_price": 6610.0,
+        "close_price": 6750.0,
+        "volume": 7531800.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251202,
+        "open_price": 6610.0,
+        "high_price": 6710.0,
+        "low_price": 6500.0,
+        "close_price": 6670.0,
+        "volume": 5452926.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251201,
+        "open_price": 6740.0,
+        "high_price": 6780.0,
+        "low_price": 6650.0,
+        "close_price": 6690.0,
+        "volume": 8679992.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251130,
+        "open_price": 6700.0,
+        "high_price": 6780.0,
+        "low_price": 6610.0,
+        "close_price": 6680.0,
+        "volume": 7848783.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251129,
+        "open_price": 6680.0,
+        "high_price": 6850.0,
+        "low_price": 6670.0,
+        "close_price": 6700.0,
+        "volume": 5615820.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251126,
+        "open_price": 7110.0,
+        "high_price": 7140.0,
+        "low_price": 6790.0,
+        "close_price": 6870.0,
+        "volume": 17945296.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251125,
+        "open_price": 7110.0,
+        "high_price": 7170.0,
+        "low_price": 6870.0,
+        "close_price": 6990.0,
+        "volume": 9698977.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251123,
+        "open_price": 7250.0,
+        "high_price": 7320.0,
+        "low_price": 6910.0,
+        "close_price": 6990.0,
+        "volume": 11794423.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251122,
+        "open_price": 7220.0,
+        "high_price": 7220.0,
+        "low_price": 7000.0,
+        "close_price": 7120.0,
+        "volume": 6122110.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251119,
+        "open_price": 7190.0,
+        "high_price": 7270.0,
+        "low_price": 7060.0,
+        "close_price": 7120.0,
+        "volume": 3753082.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251118,
+        "open_price": 7000.0,
+        "high_price": 7150.0,
+        "low_price": 6960.0,
+        "close_price": 7060.0,
+        "volume": 6498449.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251117,
+        "open_price": 6930.0,
+        "high_price": 6960.0,
+        "low_price": 6820.0,
+        "close_price": 6950.0,
+        "volume": 6841205.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251116,
+        "open_price": 6680.0,
+        "high_price": 6770.0,
+        "low_price": 6660.0,
+        "close_price": 6760.0,
+        "volume": 5793343.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251115,
+        "open_price": 6600.0,
+        "high_price": 6610.0,
+        "low_price": 6390.0,
+        "close_price": 6580.0,
+        "volume": 11638687.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251112,
+        "open_price": 6540.0,
+        "high_price": 6550.0,
+        "low_price": 6310.0,
+        "close_price": 6420.0,
+        "volume": 10131166.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251111,
+        "open_price": 6520.0,
+        "high_price": 6570.0,
+        "low_price": 6300.0,
+        "close_price": 6360.0,
+        "volume": 8036428.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251110,
+        "open_price": 6570.0,
+        "high_price": 6650.0,
+        "low_price": 6400.0,
+        "close_price": 6490.0,
+        "volume": 8266140.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251109,
+        "open_price": 6540.0,
+        "high_price": 6660.0,
+        "low_price": 6540.0,
+        "close_price": 6540.0,
+        "volume": 32390532.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251108,
+        "open_price": 6880.0,
+        "high_price": 7050.0,
+        "low_price": 6680.0,
+        "close_price": 6740.0,
+        "volume": 6720351.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251105,
+        "open_price": 6850.0,
+        "high_price": 7000.0,
+        "low_price": 6790.0,
+        "close_price": 6880.0,
+        "volume": 4796832.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251104,
+        "open_price": 6980.0,
+        "high_price": 7220.0,
+        "low_price": 6960.0,
+        "close_price": 7000.0,
+        "volume": 7295040.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251103,
+        "open_price": 7020.0,
+        "high_price": 7240.0,
+        "low_price": 7000.0,
+        "close_price": 7170.0,
+        "volume": 11299712.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251102,
+        "open_price": 7010.0,
+        "high_price": 7160.0,
+        "low_price": 6880.0,
+        "close_price": 7030.0,
+        "volume": 5480432.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251101,
+        "open_price": 6830.0,
+        "high_price": 7100.0,
+        "low_price": 6830.0,
+        "close_price": 7030.0,
+        "volume": 12217454.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251029,
+        "open_price": 7010.0,
+        "high_price": 7060.0,
+        "low_price": 6830.0,
+        "close_price": 6900.0,
+        "volume": 9883362.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251028,
+        "open_price": 6890.0,
+        "high_price": 7050.0,
+        "low_price": 6890.0,
+        "close_price": 7040.0,
+        "volume": 45428999.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251027,
+        "open_price": 6990.0,
+        "high_price": 7100.0,
+        "low_price": 6800.0,
+        "close_price": 6850.0,
+        "volume": 24454966.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251026,
+        "open_price": 7010.0,
+        "high_price": 7010.0,
+        "low_price": 7010.0,
+        "close_price": 7010.0,
+        "volume": 12283640.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251025,
+        "open_price": 7330.0,
+        "high_price": 7330.0,
+        "low_price": 7200.0,
+        "close_price": 7220.0,
+        "volume": 7275881.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251022,
+        "open_price": 7600.0,
+        "high_price": 7600.0,
+        "low_price": 7310.0,
+        "close_price": 7420.0,
+        "volume": 4835049.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251021,
+        "open_price": 7530.0,
+        "high_price": 7610.0,
+        "low_price": 7390.0,
+        "close_price": 7490.0,
+        "volume": 9762704.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251020,
+        "open_price": 7520.0,
+        "high_price": 7520.0,
+        "low_price": 7420.0,
+        "close_price": 7470.0,
+        "volume": 3369398.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251019,
+        "open_price": 7470.0,
+        "high_price": 7620.0,
+        "low_price": 7270.0,
+        "close_price": 7450.0,
+        "volume": 7010859.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251018,
+        "open_price": 7290.0,
+        "high_price": 7410.0,
+        "low_price": 7240.0,
+        "close_price": 7400.0,
+        "volume": 14288817.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251015,
+        "open_price": 7400.0,
+        "high_price": 7400.0,
+        "low_price": 7050.0,
+        "close_price": 7200.0,
+        "volume": 12818299.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251014,
+        "open_price": 7500.0,
+        "high_price": 7500.0,
+        "low_price": 7130.0,
+        "close_price": 7230.0,
+        "volume": 18281810.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251013,
+        "open_price": 7360.0,
+        "high_price": 7360.0,
+        "low_price": 7150.0,
+        "close_price": 7320.0,
+        "volume": 12196624.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251012,
+        "open_price": 7040.0,
+        "high_price": 7160.0,
+        "low_price": 7040.0,
+        "close_price": 7150.0,
+        "volume": 8899764.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251011,
+        "open_price": 6910.0,
+        "high_price": 7040.0,
+        "low_price": 6760.0,
+        "close_price": 6960.0,
+        "volume": 8322863.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251008,
+        "open_price": 6900.0,
+        "high_price": 6910.0,
+        "low_price": 6750.0,
+        "close_price": 6840.0,
+        "volume": 5637873.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251007,
+        "open_price": 6600.0,
+        "high_price": 6760.0,
+        "low_price": 6580.0,
+        "close_price": 6710.0,
+        "volume": 7014261.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251006,
+        "open_price": 6550.0,
+        "high_price": 6660.0,
+        "low_price": 6470.0,
+        "close_price": 6570.0,
+        "volume": 3910458.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251005,
+        "open_price": 6470.0,
+        "high_price": 6470.0,
+        "low_price": 6410.0,
+        "close_price": 6470.0,
+        "volume": 8111176.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251004,
+        "open_price": 6290.0,
+        "high_price": 6310.0,
+        "low_price": 6200.0,
+        "close_price": 6290.0,
+        "volume": 15462729.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20251001,
+        "open_price": 6130.0,
+        "high_price": 6210.0,
+        "low_price": 6130.0,
+        "close_price": 6130.0,
+        "volume": 32267374.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250930,
+        "open_price": 6450.0,
+        "high_price": 6450.0,
+        "low_price": 6190.0,
+        "close_price": 6310.0,
+        "volume": 16265235.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250929,
+        "open_price": 6390.0,
+        "high_price": 6390.0,
+        "low_price": 6240.0,
+        "close_price": 6380.0,
+        "volume": 13365867.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250928,
+        "open_price": 6210.0,
+        "high_price": 6210.0,
+        "low_price": 6210.0,
+        "close_price": 6210.0,
+        "volume": 8611165.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250927,
+        "open_price": 5840.0,
+        "high_price": 6030.0,
+        "low_price": 5840.0,
+        "close_price": 6030.0,
+        "volume": 6371424.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250924,
+        "open_price": 5770.0,
+        "high_price": 5960.0,
+        "low_price": 5770.0,
+        "close_price": 5860.0,
+        "volume": 2300273.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250923,
+        "open_price": 6020.0,
+        "high_price": 6030.0,
+        "low_price": 5860.0,
+        "close_price": 5930.0,
+        "volume": 2875239.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250922,
+        "open_price": 5750.0,
+        "high_price": 5980.0,
+        "low_price": 5750.0,
+        "close_price": 5890.0,
+        "volume": 1757693.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250921,
+        "open_price": 5800.0,
+        "high_price": 5860.0,
+        "low_price": 5800.0,
+        "close_price": 5810.0,
+        "volume": 3820218.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250920,
+        "open_price": 5950.0,
+        "high_price": 5960.0,
+        "low_price": 5950.0,
+        "close_price": 5970.0,
+        "volume": 2302531.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250917,
+        "open_price": 6210.0,
+        "high_price": 6240.0,
+        "low_price": 6110.0,
+        "close_price": 6130.0,
+        "volume": 8976282.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250916,
+        "open_price": 6430.0,
+        "high_price": 6440.0,
+        "low_price": 6240.0,
+        "close_price": 6290.0,
+        "volume": 9416897.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250915,
+        "open_price": 6400.0,
+        "high_price": 6580.0,
+        "low_price": 6350.0,
+        "close_price": 6430.0,
+        "volume": 7419703.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250914,
+        "open_price": 6220.0,
+        "high_price": 6400.0,
+        "low_price": 6210.0,
+        "close_price": 6400.0,
+        "volume": 6663411.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250913,
+        "open_price": 6380.0,
+        "high_price": 6380.0,
+        "low_price": 6110.0,
+        "close_price": 6220.0,
+        "volume": 1444924.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250909,
+        "open_price": 6340.0,
+        "high_price": 6430.0,
+        "low_price": 6180.0,
+        "close_price": 6260.0,
+        "volume": 6856968.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250908,
+        "open_price": 6160.0,
+        "high_price": 6310.0,
+        "low_price": 6110.0,
+        "close_price": 6260.0,
+        "volume": 8028592.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250907,
+        "open_price": 6140.0,
+        "high_price": 6250.0,
+        "low_price": 6070.0,
+        "close_price": 6130.0,
+        "volume": 5806852.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250906,
+        "open_price": 6090.0,
+        "high_price": 6260.0,
+        "low_price": 6020.0,
+        "close_price": 6130.0,
+        "volume": 8516729.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250903,
+        "open_price": 6040.0,
+        "high_price": 6080.0,
+        "low_price": 6010.0,
+        "close_price": 6080.0,
+        "volume": 10116724.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250902,
+        "open_price": 5880.0,
+        "high_price": 5910.0,
+        "low_price": 5800.0,
+        "close_price": 5910.0,
+        "volume": 26078086.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250831,
+        "open_price": 5810.0,
+        "high_price": 5840.0,
+        "low_price": 5640.0,
+        "close_price": 5740.0,
+        "volume": 3977146.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250830,
+        "open_price": 5670.0,
+        "high_price": 5770.0,
+        "low_price": 5670.0,
+        "close_price": 5670.0,
+        "volume": 9386615.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250827,
+        "open_price": 5820.0,
+        "high_price": 5950.0,
+        "low_price": 5720.0,
+        "close_price": 5840.0,
+        "volume": 3902284.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250826,
+        "open_price": 5930.0,
+        "high_price": 5960.0,
+        "low_price": 5840.0,
+        "close_price": 5890.0,
+        "volume": 6396121.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250825,
+        "open_price": 6000.0,
+        "high_price": 6000.0,
+        "low_price": 5860.0,
+        "close_price": 5910.0,
+        "volume": 6059394.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250823,
+        "open_price": 6020.0,
+        "high_price": 6020.0,
+        "low_price": 5930.0,
+        "close_price": 5940.0,
+        "volume": 4829134.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250820,
+        "open_price": 6020.0,
+        "high_price": 6020.0,
+        "low_price": 5880.0,
+        "close_price": 5900.0,
+        "volume": 1361840.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250819,
+        "open_price": 5800.0,
+        "high_price": 6000.0,
+        "low_price": 5720.0,
+        "close_price": 5870.0,
+        "volume": 4507102.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250818,
+        "open_price": 6040.0,
+        "high_price": 6040.0,
+        "low_price": 5810.0,
+        "close_price": 5890.0,
+        "volume": 3961590.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250817,
+        "open_price": 5860.0,
+        "high_price": 5870.0,
+        "low_price": 5750.0,
+        "close_price": 5870.0,
+        "volume": 7850539.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250816,
+        "open_price": 5540.0,
+        "high_price": 5880.0,
+        "low_price": 5540.0,
+        "close_price": 5700.0,
+        "volume": 7882788.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250813,
+        "open_price": 5710.0,
+        "high_price": 5750.0,
+        "low_price": 5670.0,
+        "close_price": 5710.0,
+        "volume": 1982175.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250812,
+        "open_price": 5980.0,
+        "high_price": 5980.0,
+        "low_price": 5830.0,
+        "close_price": 5840.0,
+        "volume": 3663975.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250811,
+        "open_price": 6200.0,
+        "high_price": 6200.0,
+        "low_price": 5900.0,
+        "close_price": 6010.0,
+        "volume": 1644167.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250810,
+        "open_price": 6300.0,
+        "high_price": 6300.0,
+        "low_price": 5970.0,
+        "close_price": 6080.0,
+        "volume": 1409953.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250809,
+        "open_price": 5980.0,
+        "high_price": 6310.0,
+        "low_price": 5980.0,
+        "close_price": 6150.0,
+        "volume": 2553680.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250806,
+        "open_price": 6210.0,
+        "high_price": 6270.0,
+        "low_price": 6040.0,
+        "close_price": 6150.0,
+        "volume": 2221263.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250805,
+        "open_price": 6480.0,
+        "high_price": 6480.0,
+        "low_price": 6140.0,
+        "close_price": 6200.0,
+        "volume": 2731067.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250804,
+        "open_price": 6460.0,
+        "high_price": 6460.0,
+        "low_price": 6280.0,
+        "close_price": 6320.0,
+        "volume": 4234772.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250803,
+        "open_price": 6450.0,
+        "high_price": 6620.0,
+        "low_price": 6280.0,
+        "close_price": 6390.0,
+        "volume": 6360696.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250802,
+        "open_price": 6430.0,
+        "high_price": 6620.0,
+        "low_price": 6430.0,
+        "close_price": 6450.0,
+        "volume": 6855415.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250730,
+        "open_price": 6620.0,
+        "high_price": 6660.0,
+        "low_price": 6620.0,
+        "close_price": 6620.0,
+        "volume": 6854866.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250729,
+        "open_price": 6630.0,
+        "high_price": 6630.0,
+        "low_price": 6630.0,
+        "close_price": 6820.0,
+        "volume": 191305.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250728,
+        "open_price": 6780.0,
+        "high_price": 6780.0,
+        "low_price": 6720.0,
+        "close_price": 6830.0,
+        "volume": 1218445.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250727,
+        "open_price": 7040.0,
+        "high_price": 7040.0,
+        "low_price": 6830.0,
+        "close_price": 6920.0,
+        "volume": 2027248.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250726,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8440.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250723,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 8440.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250722,
+        "open_price": 8390.0,
+        "high_price": 8650.0,
+        "low_price": 8360.0,
+        "close_price": 8440.0,
+        "volume": 17824996.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250721,
+        "open_price": 8720.0,
+        "high_price": 8740.0,
+        "low_price": 8520.0,
+        "close_price": 8600.0,
+        "volume": 6709073.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250720,
+        "open_price": 8720.0,
+        "high_price": 8900.0,
+        "low_price": 8560.0,
+        "close_price": 8670.0,
+        "volume": 5142771.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250719,
+        "open_price": 8820.0,
+        "high_price": 8910.0,
+        "low_price": 8780.0,
+        "close_price": 8820.0,
+        "volume": 2991262.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250716,
+        "open_price": 8810.0,
+        "high_price": 8880.0,
+        "low_price": 8770.0,
+        "close_price": 8820.0,
+        "volume": 3287182.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250715,
+        "open_price": 8800.0,
+        "high_price": 8830.0,
+        "low_price": 8660.0,
+        "close_price": 8720.0,
+        "volume": 5154280.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250714,
+        "open_price": 8700.0,
+        "high_price": 8960.0,
+        "low_price": 8620.0,
+        "close_price": 8800.0,
+        "volume": 11002301.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250713,
+        "open_price": 8700.0,
+        "high_price": 9010.0,
+        "low_price": 8690.0,
+        "close_price": 8880.0,
+        "volume": 18756816.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250712,
+        "open_price": 8920.0,
+        "high_price": 9150.0,
+        "low_price": 8840.0,
+        "close_price": 8950.0,
+        "volume": 10774189.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250709,
+        "open_price": 8750.0,
+        "high_price": 8750.0,
+        "low_price": 8750.0,
+        "close_price": 8960.0,
+        "volume": 613660.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250708,
+        "open_price": 8940.0,
+        "high_price": 8970.0,
+        "low_price": 8930.0,
+        "close_price": 9020.0,
+        "volume": 1691923.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250707,
+        "open_price": 9200.0,
+        "high_price": 9250.0,
+        "low_price": 9200.0,
+        "close_price": 9200.0,
+        "volume": 25460946.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250702,
+        "open_price": 9450.0,
+        "high_price": 9950.0,
+        "low_price": 9450.0,
+        "close_price": 9480.0,
+        "volume": 65481455.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250701,
+        "open_price": 9620.0,
+        "high_price": 9620.0,
+        "low_price": 9620.0,
+        "close_price": 9740.0,
+        "volume": 1531072.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250630,
+        "open_price": 9910.0,
+        "high_price": 9910.0,
+        "low_price": 9910.0,
+        "close_price": 9910.0,
+        "volume": 3351534.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250629,
+        "open_price": 10210.0,
+        "high_price": 10210.0,
+        "low_price": 10210.0,
+        "close_price": 10210.0,
+        "volume": 3287623.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250628,
+        "open_price": 10520.0,
+        "high_price": 10520.0,
+        "low_price": 10520.0,
+        "close_price": 10520.0,
+        "volume": 17295844.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10840.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10840.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10840.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10840.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10840.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10840.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10840.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 10840.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250611,
+        "open_price": 10670.0,
+        "high_price": 10960.0,
+        "low_price": 10650.0,
+        "close_price": 10840.0,
+        "volume": 3269495.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250610,
+        "open_price": 10640.0,
+        "high_price": 10790.0,
+        "low_price": 10540.0,
+        "close_price": 10660.0,
+        "volume": 3883381.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250609,
+        "open_price": 10970.0,
+        "high_price": 10970.0,
+        "low_price": 10640.0,
+        "close_price": 10760.0,
+        "volume": 4950988.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250608,
+        "open_price": 10800.0,
+        "high_price": 11140.0,
+        "low_price": 10780.0,
+        "close_price": 10960.0,
+        "volume": 2621245.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250607,
+        "open_price": 11060.0,
+        "high_price": 11100.0,
+        "low_price": 10790.0,
+        "close_price": 10820.0,
+        "volume": 6508203.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250603,
+        "open_price": 11350.0,
+        "high_price": 11350.0,
+        "low_price": 11060.0,
+        "close_price": 11120.0,
+        "volume": 6543997.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250602,
+        "open_price": 11140.0,
+        "high_price": 11470.0,
+        "low_price": 11140.0,
+        "close_price": 11400.0,
+        "volume": 5283573.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250601,
+        "open_price": 11550.0,
+        "high_price": 11590.0,
+        "low_price": 11060.0,
+        "close_price": 11140.0,
+        "volume": 7082617.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250531,
+        "open_price": 11190.0,
+        "high_price": 11300.0,
+        "low_price": 11020.0,
+        "close_price": 11280.0,
+        "volume": 15676699.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250528,
+        "open_price": 10670.0,
+        "high_price": 10990.0,
+        "low_price": 10670.0,
+        "close_price": 10980.0,
+        "volume": 10788338.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250527,
+        "open_price": 10410.0,
+        "high_price": 10680.0,
+        "low_price": 10410.0,
+        "close_price": 10670.0,
+        "volume": 8661174.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250526,
+        "open_price": 10250.0,
+        "high_price": 10530.0,
+        "low_price": 10200.0,
+        "close_price": 10370.0,
+        "volume": 4593028.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250525,
+        "open_price": 10630.0,
+        "high_price": 10630.0,
+        "low_price": 10150.0,
+        "close_price": 10240.0,
+        "volume": 6548196.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250524,
+        "open_price": 10450.0,
+        "high_price": 10460.0,
+        "low_price": 10320.0,
+        "close_price": 10460.0,
+        "volume": 11058779.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250521,
+        "open_price": 10090.0,
+        "high_price": 10360.0,
+        "low_price": 10090.0,
+        "close_price": 10160.0,
+        "volume": 9104874.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250520,
+        "open_price": 10450.0,
+        "high_price": 10820.0,
+        "low_price": 10370.0,
+        "close_price": 10400.0,
+        "volume": 14774038.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250519,
+        "open_price": 10890.0,
+        "high_price": 11000.0,
+        "low_price": 10590.0,
+        "close_price": 10690.0,
+        "volume": 4792489.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250518,
+        "open_price": 11000.0,
+        "high_price": 11160.0,
+        "low_price": 10770.0,
+        "close_price": 10890.0,
+        "volume": 7256606.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250517,
+        "open_price": 10890.0,
+        "high_price": 11000.0,
+        "low_price": 10700.0,
+        "close_price": 10840.0,
+        "volume": 15470178.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250514,
+        "open_price": 10960.0,
+        "high_price": 11020.0,
+        "low_price": 10760.0,
+        "close_price": 10890.0,
+        "volume": 6368393.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250513,
+        "open_price": 11150.0,
+        "high_price": 11150.0,
+        "low_price": 10700.0,
+        "close_price": 10920.0,
+        "volume": 6298870.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250512,
+        "open_price": 10900.0,
+        "high_price": 10900.0,
+        "low_price": 10900.0,
+        "close_price": 10900.0,
+        "volume": 2992484.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250511,
+        "open_price": 10570.0,
+        "high_price": 10890.0,
+        "low_price": 10530.0,
+        "close_price": 10590.0,
+        "volume": 11131756.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250510,
+        "open_price": 10910.0,
+        "high_price": 11290.0,
+        "low_price": 10810.0,
+        "close_price": 10850.0,
+        "volume": 26290232.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250507,
+        "open_price": 10910.0,
+        "high_price": 11140.0,
+        "low_price": 10910.0,
+        "close_price": 11140.0,
+        "volume": 11284438.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250506,
+        "open_price": 10860.0,
+        "high_price": 10860.0,
+        "low_price": 10560.0,
+        "close_price": 10820.0,
+        "volume": 27800744.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250505,
+        "open_price": 10640.0,
+        "high_price": 10730.0,
+        "low_price": 10380.0,
+        "close_price": 10550.0,
+        "volume": 13448609.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250504,
+        "open_price": 9870.0,
+        "high_price": 10440.0,
+        "low_price": 9870.0,
+        "close_price": 10420.0,
+        "volume": 17461583.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250503,
+        "open_price": 10140.0,
+        "high_price": 10270.0,
+        "low_price": 10140.0,
+        "close_price": 10140.0,
+        "volume": 17905181.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250430,
+        "open_price": 10400.0,
+        "high_price": 10450.0,
+        "low_price": 10400.0,
+        "close_price": 10450.0,
+        "volume": 6689063.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250429,
+        "open_price": 10090.0,
+        "high_price": 10200.0,
+        "low_price": 9880.0,
+        "close_price": 10150.0,
+        "volume": 13709840.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250428,
+        "open_price": 9850.0,
+        "high_price": 10050.0,
+        "low_price": 9820.0,
+        "close_price": 9910.0,
+        "volume": 3630562.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250427,
+        "open_price": 10270.0,
+        "high_price": 10270.0,
+        "low_price": 9790.0,
+        "close_price": 9880.0,
+        "volume": 6829514.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250426,
+        "open_price": 10390.0,
+        "high_price": 10390.0,
+        "low_price": 9950.0,
+        "close_price": 10090.0,
+        "volume": 6895622.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250423,
+        "open_price": 10100.0,
+        "high_price": 10180.0,
+        "low_price": 10100.0,
+        "close_price": 10100.0,
+        "volume": 18478292.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250422,
+        "open_price": 10900.0,
+        "high_price": 10900.0,
+        "low_price": 10350.0,
+        "close_price": 10410.0,
+        "volume": 8255884.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250421,
+        "open_price": 10730.0,
+        "high_price": 10730.0,
+        "low_price": 10210.0,
+        "close_price": 10660.0,
+        "volume": 36168298.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250420,
+        "open_price": 10420.0,
+        "high_price": 10420.0,
+        "low_price": 10420.0,
+        "close_price": 10420.0,
+        "volume": 4308601.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250419,
+        "open_price": 10270.0,
+        "high_price": 10270.0,
+        "low_price": 9800.0,
+        "close_price": 10120.0,
+        "volume": 5254750.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250416,
+        "open_price": 9780.0,
+        "high_price": 10170.0,
+        "low_price": 9780.0,
+        "close_price": 9980.0,
+        "volume": 4621228.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250415,
+        "open_price": 10480.0,
+        "high_price": 10480.0,
+        "low_price": 9990.0,
+        "close_price": 10030.0,
+        "volume": 10013681.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250414,
+        "open_price": 10300.0,
+        "high_price": 10300.0,
+        "low_price": 10220.0,
+        "close_price": 10290.0,
+        "volume": 13931675.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250413,
+        "open_price": 10000.0,
+        "high_price": 10000.0,
+        "low_price": 10000.0,
+        "close_price": 10000.0,
+        "volume": 6264270.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250412,
+        "open_price": 9680.0,
+        "high_price": 9970.0,
+        "low_price": 9580.0,
+        "close_price": 9710.0,
+        "volume": 2499422.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250409,
+        "open_price": 10170.0,
+        "high_price": 10170.0,
+        "low_price": 9610.0,
+        "close_price": 9750.0,
+        "volume": 5569193.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250408,
+        "open_price": 9890.0,
+        "high_price": 9910.0,
+        "low_price": 9890.0,
+        "close_price": 9900.0,
+        "volume": 2438166.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250407,
+        "open_price": 9890.0,
+        "high_price": 9890.0,
+        "low_price": 9600.0,
+        "close_price": 9630.0,
+        "volume": 11834429.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250406,
+        "open_price": 10040.0,
+        "high_price": 10130.0,
+        "low_price": 9830.0,
+        "close_price": 9890.0,
+        "volume": 9285786.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250405,
+        "open_price": 9880.0,
+        "high_price": 10460.0,
+        "low_price": 9880.0,
+        "close_price": 10130.0,
+        "volume": 5067384.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250330,
+        "open_price": 10150.0,
+        "high_price": 10170.0,
+        "low_price": 10030.0,
+        "close_price": 10170.0,
+        "volume": 5609539.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250329,
+        "open_price": 9730.0,
+        "high_price": 9920.0,
+        "low_price": 9520.0,
+        "close_price": 9880.0,
+        "volume": 6608209.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250326,
+        "open_price": 9640.0,
+        "high_price": 9640.0,
+        "low_price": 9350.0,
+        "close_price": 9640.0,
+        "volume": 2927550.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250325,
+        "open_price": 9340.0,
+        "high_price": 9450.0,
+        "low_price": 9220.0,
+        "close_price": 9360.0,
+        "volume": 9432799.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250318,
+        "open_price": 9280.0,
+        "high_price": 9350.0,
+        "low_price": 9170.0,
+        "close_price": 9180.0,
+        "volume": 11005994.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250317,
+        "open_price": 9680.0,
+        "high_price": 9720.0,
+        "low_price": 9310.0,
+        "close_price": 9450.0,
+        "volume": 6096151.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250316,
+        "open_price": 9450.0,
+        "high_price": 9450.0,
+        "low_price": 9240.0,
+        "close_price": 9440.0,
+        "volume": 10638322.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250315,
+        "open_price": 8950.0,
+        "high_price": 9200.0,
+        "low_price": 8950.0,
+        "close_price": 9180.0,
+        "volume": 9993413.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250312,
+        "open_price": 8930.0,
+        "high_price": 9110.0,
+        "low_price": 8930.0,
+        "close_price": 8940.0,
+        "volume": 21833732.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250311,
+        "open_price": 9370.0,
+        "high_price": 9640.0,
+        "low_price": 9190.0,
+        "close_price": 9200.0,
+        "volume": 22451385.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250310,
+        "open_price": 9140.0,
+        "high_price": 9640.0,
+        "low_price": 9140.0,
+        "close_price": 9470.0,
+        "volume": 5239537.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250309,
+        "open_price": 9370.0,
+        "high_price": 9430.0,
+        "low_price": 9360.0,
+        "close_price": 9360.0,
+        "volume": 14032380.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250308,
+        "open_price": 9780.0,
+        "high_price": 9780.0,
+        "low_price": 9630.0,
+        "close_price": 9640.0,
+        "volume": 8184892.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250305,
+        "open_price": 9910.0,
+        "high_price": 10190.0,
+        "low_price": 9910.0,
+        "close_price": 9920.0,
+        "volume": 19496239.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250304,
+        "open_price": 10160.0,
+        "high_price": 10490.0,
+        "low_price": 10140.0,
+        "close_price": 10210.0,
+        "volume": 6963507.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250303,
+        "open_price": 10450.0,
+        "high_price": 10450.0,
+        "low_price": 10450.0,
+        "close_price": 10450.0,
+        "volume": 2823435.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250302,
+        "open_price": 10990.0,
+        "high_price": 11100.0,
+        "low_price": 10670.0,
+        "close_price": 10770.0,
+        "volume": 9040826.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250301,
+        "open_price": 10870.0,
+        "high_price": 11120.0,
+        "low_price": 10800.0,
+        "close_price": 10990.0,
+        "volume": 5396778.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250226,
+        "open_price": 10470.0,
+        "high_price": 10920.0,
+        "low_price": 10360.0,
+        "close_price": 10800.0,
+        "volume": 11218922.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250225,
+        "open_price": 10560.0,
+        "high_price": 10670.0,
+        "low_price": 10450.0,
+        "close_price": 10610.0,
+        "volume": 9176836.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250224,
+        "open_price": 10270.0,
+        "high_price": 10360.0,
+        "low_price": 10120.0,
+        "close_price": 10360.0,
+        "volume": 14485096.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250223,
+        "open_price": 10260.0,
+        "high_price": 10260.0,
+        "low_price": 9890.0,
+        "close_price": 10060.0,
+        "volume": 7159817.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250222,
+        "open_price": 10070.0,
+        "high_price": 10330.0,
+        "low_price": 9960.0,
+        "close_price": 10040.0,
+        "volume": 7416009.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250219,
+        "open_price": 10560.0,
+        "high_price": 10560.0,
+        "low_price": 10170.0,
+        "close_price": 10260.0,
+        "volume": 4568539.0
+    },
+    {
+        "symbol": "شکربن",
+        "trade_date": 20250218,
+        "open_price": 9900.0,
+        "high_price": 10380.0,
+        "low_price": 9900.0,
+        "close_price": 10280.0,
+        "volume": 5396714.0
+    }
+]

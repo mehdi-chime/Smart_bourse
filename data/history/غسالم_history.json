@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260901,
+        "open_price": 8420.0,
+        "high_price": 8730.0,
+        "low_price": 8380.0,
+        "close_price": 8470.0,
+        "volume": 14419549.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260831,
+        "open_price": 8630.0,
+        "high_price": 8720.0,
+        "low_price": 8630.0,
+        "close_price": 8630.0,
+        "volume": 10091441.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260829,
+        "open_price": 9090.0,
+        "high_price": 9270.0,
+        "low_price": 8750.0,
+        "close_price": 8890.0,
+        "volume": 17218853.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260826,
+        "open_price": 8990.0,
+        "high_price": 9180.0,
+        "low_price": 8900.0,
+        "close_price": 9020.0,
+        "volume": 17230076.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260825,
+        "open_price": 9040.0,
+        "high_price": 9170.0,
+        "low_price": 8690.0,
+        "close_price": 8930.0,
+        "volume": 15104900.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260824,
+        "open_price": 8810.0,
+        "high_price": 9060.0,
+        "low_price": 8540.0,
+        "close_price": 8930.0,
+        "volume": 21516839.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260823,
+        "open_price": 8810.0,
+        "high_price": 8810.0,
+        "low_price": 8570.0,
+        "close_price": 8800.0,
+        "volume": 71319992.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260822,
+        "open_price": 8620.0,
+        "high_price": 8680.0,
+        "low_price": 8180.0,
+        "close_price": 8560.0,
+        "volume": 27007965.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260819,
+        "open_price": 8440.0,
+        "high_price": 8450.0,
+        "low_price": 8230.0,
+        "close_price": 8430.0,
+        "volume": 9933336.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260818,
+        "open_price": 8220.0,
+        "high_price": 8220.0,
+        "low_price": 8000.0,
+        "close_price": 8210.0,
+        "volume": 35854473.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260817,
+        "open_price": 7950.0,
+        "high_price": 8000.0,
+        "low_price": 7920.0,
+        "close_price": 7990.0,
+        "volume": 8199580.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260816,
+        "open_price": 7670.0,
+        "high_price": 7970.0,
+        "low_price": 7580.0,
+        "close_price": 7770.0,
+        "volume": 8829778.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260815,
+        "open_price": 8150.0,
+        "high_price": 8150.0,
+        "low_price": 7760.0,
+        "close_price": 7780.0,
+        "volume": 11341072.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260811,
+        "open_price": 8100.0,
+        "high_price": 8190.0,
+        "low_price": 7930.0,
+        "close_price": 8000.0,
+        "volume": 7639549.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260810,
+        "open_price": 8350.0,
+        "high_price": 8350.0,
+        "low_price": 7930.0,
+        "close_price": 8170.0,
+        "volume": 2619560.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260809,
+        "open_price": 8390.0,
+        "high_price": 8610.0,
+        "low_price": 8130.0,
+        "close_price": 8140.0,
+        "volume": 17059858.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260808,
+        "open_price": 8380.0,
+        "high_price": 8380.0,
+        "low_price": 8380.0,
+        "close_price": 8380.0,
+        "volume": 7985847.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260805,
+        "open_price": 8140.0,
+        "high_price": 8140.0,
+        "low_price": 8140.0,
+        "close_price": 8140.0,
+        "volume": 4660501.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260803,
+        "open_price": 7910.0,
+        "high_price": 7910.0,
+        "low_price": 7800.0,
+        "close_price": 7910.0,
+        "volume": 7847264.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260802,
+        "open_price": 7670.0,
+        "high_price": 7690.0,
+        "low_price": 7550.0,
+        "close_price": 7680.0,
+        "volume": 16094020.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260801,
+        "open_price": 7630.0,
+        "high_price": 7690.0,
+        "low_price": 7360.0,
+        "close_price": 7470.0,
+        "volume": 8636010.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260729,
+        "open_price": 7520.0,
+        "high_price": 7750.0,
+        "low_price": 7520.0,
+        "close_price": 7580.0,
+        "volume": 13538156.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260728,
+        "open_price": 7710.0,
+        "high_price": 7930.0,
+        "low_price": 7630.0,
+        "close_price": 7750.0,
+        "volume": 10316293.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260727,
+        "open_price": 8020.0,
+        "high_price": 8020.0,
+        "low_price": 7710.0,
+        "close_price": 7860.0,
+        "volume": 13372438.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260726,
+        "open_price": 7830.0,
+        "high_price": 7830.0,
+        "low_price": 7600.0,
+        "close_price": 7790.0,
+        "volume": 13617836.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260725,
+        "open_price": 7850.0,
+        "high_price": 7850.0,
+        "low_price": 7450.0,
+        "close_price": 7610.0,
+        "volume": 9478595.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260722,
+        "open_price": 7670.0,
+        "high_price": 7670.0,
+        "low_price": 7440.0,
+        "close_price": 7630.0,
+        "volume": 13952790.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260721,
+        "open_price": 7450.0,
+        "high_price": 7450.0,
+        "low_price": 7450.0,
+        "close_price": 7450.0,
+        "volume": 4402674.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260720,
+        "open_price": 7270.0,
+        "high_price": 7270.0,
+        "low_price": 6860.0,
+        "close_price": 7240.0,
+        "volume": 7716328.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260719,
+        "open_price": 7250.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7060.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260718,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7410.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260715,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7410.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260714,
+        "open_price": 7060.0,
+        "high_price": 7480.0,
+        "low_price": 7060.0,
+        "close_price": 7410.0,
+        "volume": 13539466.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260713,
+        "open_price": 7270.0,
+        "high_price": 7400.0,
+        "low_price": 7270.0,
+        "close_price": 7270.0,
+        "volume": 11890261.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260712,
+        "open_price": 7490.0,
+        "high_price": 7490.0,
+        "low_price": 7490.0,
+        "close_price": 7490.0,
+        "volume": 1081993.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260711,
+        "open_price": 7740.0,
+        "high_price": 7800.0,
+        "low_price": 7720.0,
+        "close_price": 7720.0,
+        "volume": 11243640.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260708,
+        "open_price": 8000.0,
+        "high_price": 8240.0,
+        "low_price": 7780.0,
+        "close_price": 7950.0,
+        "volume": 18084993.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260707,
+        "open_price": 7970.0,
+        "high_price": 8040.0,
+        "low_price": 7930.0,
+        "close_price": 8020.0,
+        "volume": 7716122.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260701,
+        "open_price": 7830.0,
+        "high_price": 7830.0,
+        "low_price": 7650.0,
+        "close_price": 7810.0,
+        "volume": 7085493.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260630,
+        "open_price": 7380.0,
+        "high_price": 7630.0,
+        "low_price": 7380.0,
+        "close_price": 7610.0,
+        "volume": 7468987.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260629,
+        "open_price": 7390.0,
+        "high_price": 7570.0,
+        "low_price": 7200.0,
+        "close_price": 7410.0,
+        "volume": 3254878.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260628,
+        "open_price": 7690.0,
+        "high_price": 7700.0,
+        "low_price": 7360.0,
+        "close_price": 7380.0,
+        "volume": 11135974.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260627,
+        "open_price": 7900.0,
+        "high_price": 7900.0,
+        "low_price": 7530.0,
+        "close_price": 7580.0,
+        "volume": 17522323.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260623,
+        "open_price": 7880.0,
+        "high_price": 8110.0,
+        "low_price": 7650.0,
+        "close_price": 7760.0,
+        "volume": 12707898.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260622,
+        "open_price": 8000.0,
+        "high_price": 8010.0,
+        "low_price": 7850.0,
+        "close_price": 7880.0,
+        "volume": 14673214.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260621,
+        "open_price": 8200.0,
+        "high_price": 8240.0,
+        "low_price": 8010.0,
+        "close_price": 8090.0,
+        "volume": 10595842.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260620,
+        "open_price": 8290.0,
+        "high_price": 8290.0,
+        "low_price": 7860.0,
+        "close_price": 8250.0,
+        "volume": 29076611.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260617,
+        "open_price": 8040.0,
+        "high_price": 8290.0,
+        "low_price": 7810.0,
+        "close_price": 8050.0,
+        "volume": 35766755.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260616,
+        "open_price": 8180.0,
+        "high_price": 8180.0,
+        "low_price": 7720.0,
+        "close_price": 8050.0,
+        "volume": 34635231.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260615,
+        "open_price": 7950.0,
+        "high_price": 7950.0,
+        "low_price": 7950.0,
+        "close_price": 7950.0,
+        "volume": 9297437.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260614,
+        "open_price": 7720.0,
+        "high_price": 7720.0,
+        "low_price": 7650.0,
+        "close_price": 7720.0,
+        "volume": 10180930.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260613,
+        "open_price": 7500.0,
+        "high_price": 7500.0,
+        "low_price": 7500.0,
+        "close_price": 7500.0,
+        "volume": 6123238.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260610,
+        "open_price": 7350.0,
+        "high_price": 7450.0,
+        "low_price": 7030.0,
+        "close_price": 7290.0,
+        "volume": 37385119.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260609,
+        "open_price": 7240.0,
+        "high_price": 7240.0,
+        "low_price": 7240.0,
+        "close_price": 7240.0,
+        "volume": 4925172.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260608,
+        "open_price": 7030.0,
+        "high_price": 7030.0,
+        "low_price": 7030.0,
+        "close_price": 7030.0,
+        "volume": 5758864.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260607,
+        "open_price": 7220.0,
+        "high_price": 7240.0,
+        "low_price": 7190.0,
+        "close_price": 7240.0,
+        "volume": 11565627.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260606,
+        "open_price": 6720.0,
+        "high_price": 7040.0,
+        "low_price": 6720.0,
+        "close_price": 7030.0,
+        "volume": 14803806.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260603,
+        "open_price": 6820.0,
+        "high_price": 6990.0,
+        "low_price": 6810.0,
+        "close_price": 6840.0,
+        "volume": 30588863.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260602,
+        "open_price": 7000.0,
+        "high_price": 7160.0,
+        "low_price": 6990.0,
+        "close_price": 7020.0,
+        "volume": 43286895.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260601,
+        "open_price": 7420.0,
+        "high_price": 7460.0,
+        "low_price": 7160.0,
+        "close_price": 7200.0,
+        "volume": 54415232.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260531,
+        "open_price": 7360.0,
+        "high_price": 7380.0,
+        "low_price": 7290.0,
+        "close_price": 7380.0,
+        "volume": 34279467.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260530,
+        "open_price": 7170.0,
+        "high_price": 7170.0,
+        "low_price": 7130.0,
+        "close_price": 7170.0,
+        "volume": 21839991.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260526,
+        "open_price": 6960.0,
+        "high_price": 7070.0,
+        "low_price": 6960.0,
+        "close_price": 6970.0,
+        "volume": 95766001.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260525,
+        "open_price": 7250.0,
+        "high_price": 7350.0,
+        "low_price": 7040.0,
+        "close_price": 7170.0,
+        "volume": 83123857.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260524,
+        "open_price": 5340.0,
+        "high_price": 5340.0,
+        "low_price": 5340.0,
+        "close_price": 5340.0,
+        "volume": 2812135.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260523,
+        "open_price": 5190.0,
+        "high_price": 5190.0,
+        "low_price": 5190.0,
+        "close_price": 5190.0,
+        "volume": 1988144.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260520,
+        "open_price": 5039.0,
+        "high_price": 5039.0,
+        "low_price": 5039.0,
+        "close_price": 5039.0,
+        "volume": 2596612.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260519,
+        "open_price": 4724.0,
+        "high_price": 5016.0,
+        "low_price": 4724.0,
+        "close_price": 4893.0,
+        "volume": 81764648.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4870.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260225,
+        "open_price": 4890.0,
+        "high_price": 4950.0,
+        "low_price": 4840.0,
+        "close_price": 4870.0,
+        "volume": 3868910.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260224,
+        "open_price": 4920.0,
+        "high_price": 4920.0,
+        "low_price": 4810.0,
+        "close_price": 4870.0,
+        "volume": 3807652.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260223,
+        "open_price": 4900.0,
+        "high_price": 5050.0,
+        "low_price": 4850.0,
+        "close_price": 4880.0,
+        "volume": 7420126.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260222,
+        "open_price": 5000.0,
+        "high_price": 5000.0,
+        "low_price": 5000.0,
+        "close_price": 5000.0,
+        "volume": 623748.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260221,
+        "open_price": 5150.0,
+        "high_price": 5150.0,
+        "low_price": 5150.0,
+        "close_price": 5150.0,
+        "volume": 524285.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260218,
+        "open_price": 5410.0,
+        "high_price": 5410.0,
+        "low_price": 5230.0,
+        "close_price": 5300.0,
+        "volume": 4153859.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260217,
+        "open_price": 5280.0,
+        "high_price": 5310.0,
+        "low_price": 5210.0,
+        "close_price": 5260.0,
+        "volume": 2053855.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260216,
+        "open_price": 5150.0,
+        "high_price": 5200.0,
+        "low_price": 5110.0,
+        "close_price": 5160.0,
+        "volume": 1575239.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260215,
+        "open_price": 5250.0,
+        "high_price": 5250.0,
+        "low_price": 5090.0,
+        "close_price": 5140.0,
+        "volume": 3695998.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260214,
+        "open_price": 5320.0,
+        "high_price": 5320.0,
+        "low_price": 5180.0,
+        "close_price": 5240.0,
+        "volume": 4765559.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260210,
+        "open_price": 5320.0,
+        "high_price": 5380.0,
+        "low_price": 5260.0,
+        "close_price": 5290.0,
+        "volume": 2628625.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260209,
+        "open_price": 5440.0,
+        "high_price": 5440.0,
+        "low_price": 5250.0,
+        "close_price": 5300.0,
+        "volume": 3679216.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260208,
+        "open_price": 5540.0,
+        "high_price": 5600.0,
+        "low_price": 5310.0,
+        "close_price": 5410.0,
+        "volume": 8870666.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260207,
+        "open_price": 5340.0,
+        "high_price": 5440.0,
+        "low_price": 5340.0,
+        "close_price": 5440.0,
+        "volume": 4791245.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260203,
+        "open_price": 5280.0,
+        "high_price": 5390.0,
+        "low_price": 5210.0,
+        "close_price": 5290.0,
+        "volume": 4089625.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260202,
+        "open_price": 5150.0,
+        "high_price": 5250.0,
+        "low_price": 5150.0,
+        "close_price": 5240.0,
+        "volume": 3490856.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260201,
+        "open_price": 5040.0,
+        "high_price": 5180.0,
+        "low_price": 5010.0,
+        "close_price": 5100.0,
+        "volume": 6541084.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260131,
+        "open_price": 5100.0,
+        "high_price": 5360.0,
+        "low_price": 5060.0,
+        "close_price": 5160.0,
+        "volume": 10110518.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260128,
+        "open_price": 5090.0,
+        "high_price": 5310.0,
+        "low_price": 5090.0,
+        "close_price": 5210.0,
+        "volume": 10991011.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260127,
+        "open_price": 5240.0,
+        "high_price": 5270.0,
+        "low_price": 5230.0,
+        "close_price": 5230.0,
+        "volume": 12906341.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260126,
+        "open_price": 5370.0,
+        "high_price": 5530.0,
+        "low_price": 5370.0,
+        "close_price": 5390.0,
+        "volume": 18449778.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260125,
+        "open_price": 5530.0,
+        "high_price": 5530.0,
+        "low_price": 5530.0,
+        "close_price": 5530.0,
+        "volume": 17661383.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260124,
+        "open_price": 5930.0,
+        "high_price": 5930.0,
+        "low_price": 5590.0,
+        "close_price": 5700.0,
+        "volume": 9031177.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260121,
+        "open_price": 5760.0,
+        "high_price": 5760.0,
+        "low_price": 5760.0,
+        "close_price": 5760.0,
+        "volume": 5969918.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260120,
+        "open_price": 5600.0,
+        "high_price": 5600.0,
+        "low_price": 5600.0,
+        "close_price": 5600.0,
+        "volume": 11816878.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260119,
+        "open_price": 5420.0,
+        "high_price": 5570.0,
+        "low_price": 5340.0,
+        "close_price": 5440.0,
+        "volume": 3481782.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260118,
+        "open_price": 5370.0,
+        "high_price": 5420.0,
+        "low_price": 5290.0,
+        "close_price": 5410.0,
+        "volume": 7432251.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260114,
+        "open_price": 5350.0,
+        "high_price": 5350.0,
+        "low_price": 5230.0,
+        "close_price": 5270.0,
+        "volume": 22756219.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260113,
+        "open_price": 5500.0,
+        "high_price": 5550.0,
+        "low_price": 5330.0,
+        "close_price": 5390.0,
+        "volume": 5867100.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260112,
+        "open_price": 5370.0,
+        "high_price": 5530.0,
+        "low_price": 5370.0,
+        "close_price": 5490.0,
+        "volume": 6881675.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260111,
+        "open_price": 5390.0,
+        "high_price": 5500.0,
+        "low_price": 5290.0,
+        "close_price": 5370.0,
+        "volume": 5240202.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260110,
+        "open_price": 5400.0,
+        "high_price": 5560.0,
+        "low_price": 5400.0,
+        "close_price": 5450.0,
+        "volume": 11033556.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260107,
+        "open_price": 5670.0,
+        "high_price": 5750.0,
+        "low_price": 5450.0,
+        "close_price": 5560.0,
+        "volume": 9580646.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260106,
+        "open_price": 5590.0,
+        "high_price": 5590.0,
+        "low_price": 5430.0,
+        "close_price": 5590.0,
+        "volume": 4730815.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260105,
+        "open_price": 5320.0,
+        "high_price": 5430.0,
+        "low_price": 5310.0,
+        "close_price": 5430.0,
+        "volume": 5633564.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20260104,
+        "open_price": 5360.0,
+        "high_price": 5400.0,
+        "low_price": 5260.0,
+        "close_price": 5280.0,
+        "volume": 11781730.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251231,
+        "open_price": 5350.0,
+        "high_price": 5600.0,
+        "low_price": 5350.0,
+        "close_price": 5420.0,
+        "volume": 16392121.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251230,
+        "open_price": 5590.0,
+        "high_price": 5590.0,
+        "low_price": 5490.0,
+        "close_price": 5510.0,
+        "volume": 9800433.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251229,
+        "open_price": 5710.0,
+        "high_price": 5800.0,
+        "low_price": 5650.0,
+        "close_price": 5650.0,
+        "volume": 2952542.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251228,
+        "open_price": 5760.0,
+        "high_price": 5900.0,
+        "low_price": 5690.0,
+        "close_price": 5820.0,
+        "volume": 9669297.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251227,
+        "open_price": 5760.0,
+        "high_price": 5760.0,
+        "low_price": 5610.0,
+        "close_price": 5730.0,
+        "volume": 13692664.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251224,
+        "open_price": 5540.0,
+        "high_price": 5600.0,
+        "low_price": 5460.0,
+        "close_price": 5600.0,
+        "volume": 9642602.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251223,
+        "open_price": 5470.0,
+        "high_price": 5540.0,
+        "low_price": 5340.0,
+        "close_price": 5440.0,
+        "volume": 4733471.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251222,
+        "open_price": 5300.0,
+        "high_price": 5420.0,
+        "low_price": 5290.0,
+        "close_price": 5380.0,
+        "volume": 10624870.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251221,
+        "open_price": 5310.0,
+        "high_price": 5410.0,
+        "low_price": 5190.0,
+        "close_price": 5270.0,
+        "volume": 5282495.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251220,
+        "open_price": 5240.0,
+        "high_price": 5280.0,
+        "low_price": 5170.0,
+        "close_price": 5270.0,
+        "volume": 11621581.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251217,
+        "open_price": 5129.0,
+        "high_price": 5176.0,
+        "low_price": 5081.0,
+        "close_price": 5132.0,
+        "volume": 6757047.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251216,
+        "open_price": 5200.0,
+        "high_price": 5203.0,
+        "low_price": 5001.0,
+        "close_price": 5132.0,
+        "volume": 11002901.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251215,
+        "open_price": 4970.0,
+        "high_price": 5074.0,
+        "low_price": 4970.0,
+        "close_price": 5052.0,
+        "volume": 25259939.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251214,
+        "open_price": 4942.0,
+        "high_price": 4980.0,
+        "low_price": 4880.0,
+        "close_price": 4927.0,
+        "volume": 5272437.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251213,
+        "open_price": 4919.0,
+        "high_price": 5000.0,
+        "low_price": 4890.0,
+        "close_price": 4921.0,
+        "volume": 4023147.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251210,
+        "open_price": 4919.0,
+        "high_price": 4979.0,
+        "low_price": 4884.0,
+        "close_price": 4905.0,
+        "volume": 3790207.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251209,
+        "open_price": 4965.0,
+        "high_price": 4965.0,
+        "low_price": 4857.0,
+        "close_price": 4885.0,
+        "volume": 5168934.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251208,
+        "open_price": 4996.0,
+        "high_price": 4996.0,
+        "low_price": 4900.0,
+        "close_price": 4941.0,
+        "volume": 3973905.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251207,
+        "open_price": 5023.0,
+        "high_price": 5023.0,
+        "low_price": 4899.0,
+        "close_price": 4952.0,
+        "volume": 5141689.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251206,
+        "open_price": 4990.0,
+        "high_price": 5071.0,
+        "low_price": 4984.0,
+        "close_price": 5006.0,
+        "volume": 3888430.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251203,
+        "open_price": 4921.0,
+        "high_price": 5019.0,
+        "low_price": 4909.0,
+        "close_price": 4977.0,
+        "volume": 4958003.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251202,
+        "open_price": 4918.0,
+        "high_price": 4918.0,
+        "low_price": 4857.0,
+        "close_price": 4876.0,
+        "volume": 3433081.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251201,
+        "open_price": 4830.0,
+        "high_price": 4910.0,
+        "low_price": 4745.0,
+        "close_price": 4837.0,
+        "volume": 10633739.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251130,
+        "open_price": 4785.0,
+        "high_price": 4826.0,
+        "low_price": 4771.0,
+        "close_price": 4798.0,
+        "volume": 5287606.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251129,
+        "open_price": 4797.0,
+        "high_price": 4873.0,
+        "low_price": 4742.0,
+        "close_price": 4784.0,
+        "volume": 3558524.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251126,
+        "open_price": 4794.0,
+        "high_price": 4848.0,
+        "low_price": 4709.0,
+        "close_price": 4754.0,
+        "volume": 4478810.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251125,
+        "open_price": 4839.0,
+        "high_price": 4839.0,
+        "low_price": 4752.0,
+        "close_price": 4797.0,
+        "volume": 5740473.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251123,
+        "open_price": 4823.0,
+        "high_price": 4824.0,
+        "low_price": 4780.0,
+        "close_price": 4797.0,
+        "volume": 2396431.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251122,
+        "open_price": 4829.0,
+        "high_price": 4829.0,
+        "low_price": 4747.0,
+        "close_price": 4771.0,
+        "volume": 3988988.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251119,
+        "open_price": 4860.0,
+        "high_price": 4860.0,
+        "low_price": 4712.0,
+        "close_price": 4747.0,
+        "volume": 5598707.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251118,
+        "open_price": 4800.0,
+        "high_price": 4940.0,
+        "low_price": 4739.0,
+        "close_price": 4790.0,
+        "volume": 10006597.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251117,
+        "open_price": 4768.0,
+        "high_price": 4857.0,
+        "low_price": 4768.0,
+        "close_price": 4852.0,
+        "volume": 7895330.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251116,
+        "open_price": 4643.0,
+        "high_price": 4764.0,
+        "low_price": 4583.0,
+        "close_price": 4716.0,
+        "volume": 10288741.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251115,
+        "open_price": 4635.0,
+        "high_price": 4700.0,
+        "low_price": 4590.0,
+        "close_price": 4626.0,
+        "volume": 2280356.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251112,
+        "open_price": 4556.0,
+        "high_price": 4678.0,
+        "low_price": 4506.0,
+        "close_price": 4611.0,
+        "volume": 9496985.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251111,
+        "open_price": 4601.0,
+        "high_price": 4670.0,
+        "low_price": 4487.0,
+        "close_price": 4542.0,
+        "volume": 5046554.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251110,
+        "open_price": 4558.0,
+        "high_price": 4647.0,
+        "low_price": 4558.0,
+        "close_price": 4583.0,
+        "volume": 6983093.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251109,
+        "open_price": 4650.0,
+        "high_price": 4700.0,
+        "low_price": 4525.0,
+        "close_price": 4630.0,
+        "volume": 14156132.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251108,
+        "open_price": 4630.0,
+        "high_price": 4765.0,
+        "low_price": 4574.0,
+        "close_price": 4642.0,
+        "volume": 11290550.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251105,
+        "open_price": 4778.0,
+        "high_price": 4800.0,
+        "low_price": 4590.0,
+        "close_price": 4682.0,
+        "volume": 17043735.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251104,
+        "open_price": 4623.0,
+        "high_price": 4797.0,
+        "low_price": 4611.0,
+        "close_price": 4731.0,
+        "volume": 16434728.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251103,
+        "open_price": 4640.0,
+        "high_price": 4700.0,
+        "low_price": 4592.0,
+        "close_price": 4658.0,
+        "volume": 5540017.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251102,
+        "open_price": 4622.0,
+        "high_price": 4622.0,
+        "low_price": 4540.0,
+        "close_price": 4577.0,
+        "volume": 9204670.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251101,
+        "open_price": 4655.0,
+        "high_price": 4660.0,
+        "low_price": 4521.0,
+        "close_price": 4577.0,
+        "volume": 8554502.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251029,
+        "open_price": 4616.0,
+        "high_price": 4680.0,
+        "low_price": 4510.0,
+        "close_price": 4557.0,
+        "volume": 10808457.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251028,
+        "open_price": 4724.0,
+        "high_price": 4736.0,
+        "low_price": 4586.0,
+        "close_price": 4618.0,
+        "volume": 4343573.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251027,
+        "open_price": 4608.0,
+        "high_price": 4608.0,
+        "low_price": 4540.0,
+        "close_price": 4604.0,
+        "volume": 19847139.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251026,
+        "open_price": 4341.0,
+        "high_price": 4476.0,
+        "low_price": 4341.0,
+        "close_price": 4474.0,
+        "volume": 10064838.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251025,
+        "open_price": 4402.0,
+        "high_price": 4402.0,
+        "low_price": 4253.0,
+        "close_price": 4346.0,
+        "volume": 3598540.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251022,
+        "open_price": 4242.0,
+        "high_price": 4293.0,
+        "low_price": 4187.0,
+        "close_price": 4275.0,
+        "volume": 8069538.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251021,
+        "open_price": 4152.0,
+        "high_price": 4222.0,
+        "low_price": 4125.0,
+        "close_price": 4168.0,
+        "volume": 7265378.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251020,
+        "open_price": 4195.0,
+        "high_price": 4195.0,
+        "low_price": 4085.0,
+        "close_price": 4119.0,
+        "volume": 3807506.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251019,
+        "open_price": 4139.0,
+        "high_price": 4139.0,
+        "low_price": 4062.0,
+        "close_price": 4092.0,
+        "volume": 5191923.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251018,
+        "open_price": 4033.0,
+        "high_price": 4093.0,
+        "low_price": 4033.0,
+        "close_price": 4079.0,
+        "volume": 8899526.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251015,
+        "open_price": 4007.0,
+        "high_price": 4007.0,
+        "low_price": 3950.0,
+        "close_price": 3974.0,
+        "volume": 7777622.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251014,
+        "open_price": 3979.0,
+        "high_price": 4040.0,
+        "low_price": 3930.0,
+        "close_price": 3967.0,
+        "volume": 7491578.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251013,
+        "open_price": 3980.0,
+        "high_price": 4032.0,
+        "low_price": 3907.0,
+        "close_price": 3963.0,
+        "volume": 8534097.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251012,
+        "open_price": 3921.0,
+        "high_price": 3994.0,
+        "low_price": 3880.0,
+        "close_price": 3969.0,
+        "volume": 8502221.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251011,
+        "open_price": 3886.0,
+        "high_price": 3956.0,
+        "low_price": 3846.0,
+        "close_price": 3878.0,
+        "volume": 3007682.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251008,
+        "open_price": 3900.0,
+        "high_price": 3978.0,
+        "low_price": 3796.0,
+        "close_price": 3870.0,
+        "volume": 6895863.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251007,
+        "open_price": 3878.0,
+        "high_price": 3957.0,
+        "low_price": 3850.0,
+        "close_price": 3886.0,
+        "volume": 6915847.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251006,
+        "open_price": 4019.0,
+        "high_price": 4019.0,
+        "low_price": 3804.0,
+        "close_price": 3859.0,
+        "volume": 10516759.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251005,
+        "open_price": 4036.0,
+        "high_price": 4036.0,
+        "low_price": 3886.0,
+        "close_price": 3921.0,
+        "volume": 4813016.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251004,
+        "open_price": 3807.0,
+        "high_price": 3926.0,
+        "low_price": 3807.0,
+        "close_price": 3922.0,
+        "volume": 7147017.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20251001,
+        "open_price": 3912.0,
+        "high_price": 3936.0,
+        "low_price": 3795.0,
+        "close_price": 3812.0,
+        "volume": 12340600.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250930,
+        "open_price": 4120.0,
+        "high_price": 4120.0,
+        "low_price": 3899.0,
+        "close_price": 3912.0,
+        "volume": 14501248.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250929,
+        "open_price": 4019.0,
+        "high_price": 4019.0,
+        "low_price": 4000.0,
+        "close_price": 4019.0,
+        "volume": 8563420.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250928,
+        "open_price": 3899.0,
+        "high_price": 3902.0,
+        "low_price": 3851.0,
+        "close_price": 3902.0,
+        "volume": 4308559.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250927,
+        "open_price": 3610.0,
+        "high_price": 3800.0,
+        "low_price": 3610.0,
+        "close_price": 3789.0,
+        "volume": 17342315.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250924,
+        "open_price": 3523.0,
+        "high_price": 3729.0,
+        "low_price": 3523.0,
+        "close_price": 3690.0,
+        "volume": 4176243.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250923,
+        "open_price": 3578.0,
+        "high_price": 3666.0,
+        "low_price": 3578.0,
+        "close_price": 3622.0,
+        "volume": 3481749.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250922,
+        "open_price": 3621.0,
+        "high_price": 3623.0,
+        "low_price": 3500.0,
+        "close_price": 3560.0,
+        "volume": 2641385.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250921,
+        "open_price": 3481.0,
+        "high_price": 3597.0,
+        "low_price": 3480.0,
+        "close_price": 3518.0,
+        "volume": 1934641.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250920,
+        "open_price": 3454.0,
+        "high_price": 3568.0,
+        "low_price": 3454.0,
+        "close_price": 3508.0,
+        "volume": 11806247.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250917,
+        "open_price": 3503.0,
+        "high_price": 3608.0,
+        "low_price": 3491.0,
+        "close_price": 3560.0,
+        "volume": 6603126.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250916,
+        "open_price": 3440.0,
+        "high_price": 3544.0,
+        "low_price": 3395.0,
+        "close_price": 3503.0,
+        "volume": 10043477.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250915,
+        "open_price": 3530.0,
+        "high_price": 3530.0,
+        "low_price": 3403.0,
+        "close_price": 3441.0,
+        "volume": 4803973.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250914,
+        "open_price": 3421.0,
+        "high_price": 3525.0,
+        "low_price": 3421.0,
+        "close_price": 3443.0,
+        "volume": 1304910.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250913,
+        "open_price": 3446.0,
+        "high_price": 3446.0,
+        "low_price": 3370.0,
+        "close_price": 3424.0,
+        "volume": 3700284.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250909,
+        "open_price": 3330.0,
+        "high_price": 3349.0,
+        "low_price": 3295.0,
+        "close_price": 3346.0,
+        "volume": 5276104.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250908,
+        "open_price": 3257.0,
+        "high_price": 3291.0,
+        "low_price": 3257.0,
+        "close_price": 3252.0,
+        "volume": 2915005.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250907,
+        "open_price": 3108.0,
+        "high_price": 3201.0,
+        "low_price": 3099.0,
+        "close_price": 3196.0,
+        "volume": 8694971.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250906,
+        "open_price": 3075.0,
+        "high_price": 3131.0,
+        "low_price": 3051.0,
+        "close_price": 3108.0,
+        "volume": 5743303.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250903,
+        "open_price": 3075.0,
+        "high_price": 3101.0,
+        "low_price": 3075.0,
+        "close_price": 3040.0,
+        "volume": 1712634.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250902,
+        "open_price": 2987.0,
+        "high_price": 3074.0,
+        "low_price": 2987.0,
+        "close_price": 3011.0,
+        "volume": 1574415.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250831,
+        "open_price": 2840.0,
+        "high_price": 3012.0,
+        "low_price": 2840.0,
+        "close_price": 2985.0,
+        "volume": 7699132.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250830,
+        "open_price": 2887.0,
+        "high_price": 2970.0,
+        "low_price": 2887.0,
+        "close_price": 2925.0,
+        "volume": 3280747.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250827,
+        "open_price": 2934.0,
+        "high_price": 3030.0,
+        "low_price": 2908.0,
+        "close_price": 2976.0,
+        "volume": 2250479.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250826,
+        "open_price": 2940.0,
+        "high_price": 3005.0,
+        "low_price": 2920.0,
+        "close_price": 2982.0,
+        "volume": 2300050.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250825,
+        "open_price": 3021.0,
+        "high_price": 3090.0,
+        "low_price": 3005.0,
+        "close_price": 3010.0,
+        "volume": 5910647.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250823,
+        "open_price": 3107.0,
+        "high_price": 3160.0,
+        "low_price": 3089.0,
+        "close_price": 3097.0,
+        "volume": 3784712.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250820,
+        "open_price": 3044.0,
+        "high_price": 3129.0,
+        "low_price": 3000.0,
+        "close_price": 3077.0,
+        "volume": 9855849.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250819,
+        "open_price": 3169.0,
+        "high_price": 3169.0,
+        "low_price": 3067.0,
+        "close_price": 3091.0,
+        "volume": 2764875.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250818,
+        "open_price": 3035.0,
+        "high_price": 3110.0,
+        "low_price": 3010.0,
+        "close_price": 3078.0,
+        "volume": 7966122.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250817,
+        "open_price": 2938.0,
+        "high_price": 3049.0,
+        "low_price": 2938.0,
+        "close_price": 3020.0,
+        "volume": 3543074.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250816,
+        "open_price": 2932.0,
+        "high_price": 3111.0,
+        "low_price": 2932.0,
+        "close_price": 2961.0,
+        "volume": 18510093.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250813,
+        "open_price": 2960.0,
+        "high_price": 3120.0,
+        "low_price": 2958.0,
+        "close_price": 3022.0,
+        "volume": 1536770.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250812,
+        "open_price": 3003.0,
+        "high_price": 3149.0,
+        "low_price": 3003.0,
+        "close_price": 3049.0,
+        "volume": 2555037.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250811,
+        "open_price": 3068.0,
+        "high_price": 3199.0,
+        "low_price": 3066.0,
+        "close_price": 3095.0,
+        "volume": 6693174.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250810,
+        "open_price": 3230.0,
+        "high_price": 3230.0,
+        "low_price": 3087.0,
+        "close_price": 3160.0,
+        "volume": 4442048.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250809,
+        "open_price": 3100.0,
+        "high_price": 3141.0,
+        "low_price": 3060.0,
+        "close_price": 3137.0,
+        "volume": 7061285.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250806,
+        "open_price": 3031.0,
+        "high_price": 3119.0,
+        "low_price": 3031.0,
+        "close_price": 3050.0,
+        "volume": 10872789.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250805,
+        "open_price": 3254.0,
+        "high_price": 3256.0,
+        "low_price": 3085.0,
+        "close_price": 3124.0,
+        "volume": 7669681.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250804,
+        "open_price": 3126.0,
+        "high_price": 3278.0,
+        "low_price": 3100.0,
+        "close_price": 3163.0,
+        "volume": 5423200.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250803,
+        "open_price": 3220.0,
+        "high_price": 3300.0,
+        "low_price": 3148.0,
+        "close_price": 3190.0,
+        "volume": 8448474.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250802,
+        "open_price": 3222.0,
+        "high_price": 3281.0,
+        "low_price": 3222.0,
+        "close_price": 3222.0,
+        "volume": 25574798.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250730,
+        "open_price": 3248.0,
+        "high_price": 3248.0,
+        "low_price": 3248.0,
+        "close_price": 3321.0,
+        "volume": 1210756.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250729,
+        "open_price": 3257.0,
+        "high_price": 3257.0,
+        "low_price": 3257.0,
+        "close_price": 3348.0,
+        "volume": 408634.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250728,
+        "open_price": 3320.0,
+        "high_price": 3320.0,
+        "low_price": 3265.0,
+        "close_price": 3357.0,
+        "volume": 419850.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250727,
+        "open_price": 3388.0,
+        "high_price": 3465.0,
+        "low_price": 3322.0,
+        "close_price": 3365.0,
+        "volume": 9193544.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250726,
+        "open_price": 3287.0,
+        "high_price": 3459.0,
+        "low_price": 3287.0,
+        "close_price": 3373.0,
+        "volume": 13906344.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250723,
+        "open_price": 3400.0,
+        "high_price": 3420.0,
+        "low_price": 3333.0,
+        "close_price": 3370.0,
+        "volume": 9496697.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250722,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3405.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250721,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3755.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250720,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3755.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250719,
+        "open_price": 3736.0,
+        "high_price": 3772.0,
+        "low_price": 3682.0,
+        "close_price": 3755.0,
+        "volume": 14027312.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250716,
+        "open_price": 3650.0,
+        "high_price": 3700.0,
+        "low_price": 3630.0,
+        "close_price": 3663.0,
+        "volume": 11931916.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250715,
+        "open_price": 3580.0,
+        "high_price": 3634.0,
+        "low_price": 3555.0,
+        "close_price": 3593.0,
+        "volume": 3771024.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250714,
+        "open_price": 3580.0,
+        "high_price": 3598.0,
+        "low_price": 3513.0,
+        "close_price": 3530.0,
+        "volume": 5358981.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250713,
+        "open_price": 3461.0,
+        "high_price": 3578.0,
+        "low_price": 3446.0,
+        "close_price": 3501.0,
+        "volume": 4246065.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250712,
+        "open_price": 3538.0,
+        "high_price": 3538.0,
+        "low_price": 3426.0,
+        "close_price": 3474.0,
+        "volume": 6064448.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250709,
+        "open_price": 3403.0,
+        "high_price": 3555.0,
+        "low_price": 3403.0,
+        "close_price": 3436.0,
+        "volume": 12276307.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250708,
+        "open_price": 3462.0,
+        "high_price": 3470.0,
+        "low_price": 3451.0,
+        "close_price": 3508.0,
+        "volume": 1950702.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250707,
+        "open_price": 3700.0,
+        "high_price": 3708.0,
+        "low_price": 3520.0,
+        "close_price": 3557.0,
+        "volume": 16415150.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250702,
+        "open_price": 3609.0,
+        "high_price": 3792.0,
+        "low_price": 3609.0,
+        "close_price": 3628.0,
+        "volume": 69861769.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250701,
+        "open_price": 3618.0,
+        "high_price": 3618.0,
+        "low_price": 3618.0,
+        "close_price": 3720.0,
+        "volume": 304034.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250630,
+        "open_price": 3729.0,
+        "high_price": 3729.0,
+        "low_price": 3729.0,
+        "close_price": 3729.0,
+        "volume": 3796944.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250629,
+        "open_price": 3818.0,
+        "high_price": 3818.0,
+        "low_price": 3818.0,
+        "close_price": 3844.0,
+        "volume": 2921545.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250628,
+        "open_price": 3886.0,
+        "high_price": 3886.0,
+        "low_price": 3886.0,
+        "close_price": 3936.0,
+        "volume": 2169347.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4006.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4006.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4006.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4006.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4006.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4006.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4006.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4006.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250611,
+        "open_price": 4100.0,
+        "high_price": 4100.0,
+        "low_price": 4000.0,
+        "close_price": 4006.0,
+        "volume": 2454247.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250610,
+        "open_price": 3957.0,
+        "high_price": 4070.0,
+        "low_price": 3957.0,
+        "close_price": 4003.0,
+        "volume": 6380252.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250609,
+        "open_price": 4200.0,
+        "high_price": 4200.0,
+        "low_price": 3988.0,
+        "close_price": 4009.0,
+        "volume": 8551189.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250608,
+        "open_price": 4086.0,
+        "high_price": 4252.0,
+        "low_price": 4086.0,
+        "close_price": 4111.0,
+        "volume": 15692871.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250607,
+        "open_price": 4216.0,
+        "high_price": 4216.0,
+        "low_price": 4210.0,
+        "close_price": 4212.0,
+        "volume": 5614124.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250603,
+        "open_price": 4380.0,
+        "high_price": 4439.0,
+        "low_price": 4325.0,
+        "close_price": 4340.0,
+        "volume": 7533991.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250602,
+        "open_price": 4550.0,
+        "high_price": 4570.0,
+        "low_price": 4409.0,
+        "close_price": 4458.0,
+        "volume": 8383169.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250601,
+        "open_price": 4553.0,
+        "high_price": 4600.0,
+        "low_price": 4433.0,
+        "close_price": 4444.0,
+        "volume": 12888842.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250531,
+        "open_price": 4685.0,
+        "high_price": 4685.0,
+        "low_price": 4513.0,
+        "close_price": 4570.0,
+        "volume": 9920268.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250528,
+        "open_price": 4570.0,
+        "high_price": 4578.0,
+        "low_price": 4428.0,
+        "close_price": 4551.0,
+        "volume": 18025327.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250527,
+        "open_price": 4389.0,
+        "high_price": 4446.0,
+        "low_price": 4355.0,
+        "close_price": 4445.0,
+        "volume": 14493866.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250526,
+        "open_price": 4311.0,
+        "high_price": 4420.0,
+        "low_price": 4258.0,
+        "close_price": 4317.0,
+        "volume": 9954744.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250525,
+        "open_price": 4435.0,
+        "high_price": 4464.0,
+        "low_price": 4284.0,
+        "close_price": 4322.0,
+        "volume": 6630738.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250524,
+        "open_price": 4531.0,
+        "high_price": 4531.0,
+        "low_price": 4345.0,
+        "close_price": 4416.0,
+        "volume": 10018035.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250521,
+        "open_price": 4277.0,
+        "high_price": 4490.0,
+        "low_price": 4277.0,
+        "close_price": 4400.0,
+        "volume": 29317266.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250520,
+        "open_price": 4464.0,
+        "high_price": 4464.0,
+        "low_price": 4394.0,
+        "close_price": 4400.0,
+        "volume": 15357855.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250519,
+        "open_price": 4648.0,
+        "high_price": 4648.0,
+        "low_price": 4484.0,
+        "close_price": 4529.0,
+        "volume": 9141079.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250518,
+        "open_price": 4538.0,
+        "high_price": 4673.0,
+        "low_price": 4502.0,
+        "close_price": 4622.0,
+        "volume": 17621161.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250517,
+        "open_price": 4575.0,
+        "high_price": 4650.0,
+        "low_price": 4443.0,
+        "close_price": 4538.0,
+        "volume": 18831118.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250514,
+        "open_price": 4489.0,
+        "high_price": 4584.0,
+        "low_price": 4367.0,
+        "close_price": 4518.0,
+        "volume": 19997713.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250513,
+        "open_price": 4620.0,
+        "high_price": 4620.0,
+        "low_price": 4378.0,
+        "close_price": 4481.0,
+        "volume": 32311272.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250512,
+        "open_price": 4496.0,
+        "high_price": 4496.0,
+        "low_price": 4496.0,
+        "close_price": 4496.0,
+        "volume": 11163467.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250511,
+        "open_price": 4388.0,
+        "high_price": 4388.0,
+        "low_price": 4267.0,
+        "close_price": 4366.0,
+        "volume": 39785069.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250510,
+        "open_price": 4267.0,
+        "high_price": 4267.0,
+        "low_price": 4150.0,
+        "close_price": 4261.0,
+        "volume": 48437663.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250507,
+        "open_price": 4143.0,
+        "high_price": 4143.0,
+        "low_price": 4143.0,
+        "close_price": 4143.0,
+        "volume": 14720389.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250506,
+        "open_price": 3987.0,
+        "high_price": 4099.0,
+        "low_price": 3980.0,
+        "close_price": 4023.0,
+        "volume": 13607780.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250505,
+        "open_price": 3952.0,
+        "high_price": 4076.0,
+        "low_price": 3949.0,
+        "close_price": 3982.0,
+        "volume": 36858088.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250504,
+        "open_price": 3987.0,
+        "high_price": 3987.0,
+        "low_price": 3987.0,
+        "close_price": 3987.0,
+        "volume": 10525860.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250503,
+        "open_price": 4110.0,
+        "high_price": 4110.0,
+        "low_price": 4110.0,
+        "close_price": 4110.0,
+        "volume": 6732581.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250430,
+        "open_price": 4202.0,
+        "high_price": 4304.0,
+        "low_price": 4172.0,
+        "close_price": 4237.0,
+        "volume": 33356174.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250429,
+        "open_price": 4298.0,
+        "high_price": 4298.0,
+        "low_price": 4153.0,
+        "close_price": 4214.0,
+        "volume": 11305865.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250428,
+        "open_price": 4180.0,
+        "high_price": 4193.0,
+        "low_price": 4104.0,
+        "close_price": 4176.0,
+        "volume": 15693516.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250427,
+        "open_price": 3931.0,
+        "high_price": 4103.0,
+        "low_price": 3877.0,
+        "close_price": 4071.0,
+        "volume": 20805033.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250426,
+        "open_price": 3930.0,
+        "high_price": 3997.0,
+        "low_price": 3901.0,
+        "close_price": 3984.0,
+        "volume": 10810988.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250423,
+        "open_price": 4020.0,
+        "high_price": 4025.0,
+        "low_price": 3812.0,
+        "close_price": 3881.0,
+        "volume": 9717953.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250422,
+        "open_price": 3961.0,
+        "high_price": 3997.0,
+        "low_price": 3901.0,
+        "close_price": 3928.0,
+        "volume": 22665569.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250421,
+        "open_price": 4035.0,
+        "high_price": 4035.0,
+        "low_price": 3924.0,
+        "close_price": 4021.0,
+        "volume": 15250905.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250420,
+        "open_price": 3918.0,
+        "high_price": 3918.0,
+        "low_price": 3918.0,
+        "close_price": 3918.0,
+        "volume": 5130378.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250419,
+        "open_price": 3760.0,
+        "high_price": 3817.0,
+        "low_price": 3709.0,
+        "close_price": 3804.0,
+        "volume": 14597487.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250416,
+        "open_price": 3685.0,
+        "high_price": 3709.0,
+        "low_price": 3604.0,
+        "close_price": 3706.0,
+        "volume": 22326115.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250415,
+        "open_price": 3450.0,
+        "high_price": 3633.0,
+        "low_price": 3431.0,
+        "close_price": 3601.0,
+        "volume": 18919037.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250414,
+        "open_price": 3530.0,
+        "high_price": 3530.0,
+        "low_price": 3500.0,
+        "close_price": 3528.0,
+        "volume": 13277857.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250413,
+        "open_price": 3428.0,
+        "high_price": 3428.0,
+        "low_price": 3427.0,
+        "close_price": 3428.0,
+        "volume": 4681179.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250412,
+        "open_price": 3428.0,
+        "high_price": 3428.0,
+        "low_price": 3283.0,
+        "close_price": 3329.0,
+        "volume": 3450577.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250409,
+        "open_price": 3382.0,
+        "high_price": 3440.0,
+        "low_price": 3289.0,
+        "close_price": 3349.0,
+        "volume": 2709825.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250408,
+        "open_price": 3233.0,
+        "high_price": 3385.0,
+        "low_price": 3233.0,
+        "close_price": 3382.0,
+        "volume": 4539187.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250407,
+        "open_price": 3346.0,
+        "high_price": 3346.0,
+        "low_price": 3246.0,
+        "close_price": 3287.0,
+        "volume": 2683952.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250406,
+        "open_price": 3388.0,
+        "high_price": 3400.0,
+        "low_price": 3298.0,
+        "close_price": 3346.0,
+        "volume": 3655448.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250405,
+        "open_price": 3390.0,
+        "high_price": 3421.0,
+        "low_price": 3363.0,
+        "close_price": 3389.0,
+        "volume": 3875831.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250330,
+        "open_price": 3351.0,
+        "high_price": 3418.0,
+        "low_price": 3345.0,
+        "close_price": 3367.0,
+        "volume": 2902576.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250329,
+        "open_price": 3350.0,
+        "high_price": 3400.0,
+        "low_price": 3324.0,
+        "close_price": 3353.0,
+        "volume": 3157965.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250326,
+        "open_price": 3369.0,
+        "high_price": 3425.0,
+        "low_price": 3299.0,
+        "close_price": 3350.0,
+        "volume": 8018370.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250325,
+        "open_price": 3297.0,
+        "high_price": 3442.0,
+        "low_price": 3290.0,
+        "close_price": 3369.0,
+        "volume": 6094303.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250318,
+        "open_price": 3431.0,
+        "high_price": 3431.0,
+        "low_price": 3336.0,
+        "close_price": 3343.0,
+        "volume": 4884404.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250317,
+        "open_price": 3400.0,
+        "high_price": 3497.0,
+        "low_price": 3400.0,
+        "close_price": 3439.0,
+        "volume": 2294293.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250316,
+        "open_price": 3500.0,
+        "high_price": 3500.0,
+        "low_price": 3410.0,
+        "close_price": 3437.0,
+        "volume": 3742987.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250315,
+        "open_price": 3508.0,
+        "high_price": 3508.0,
+        "low_price": 3450.0,
+        "close_price": 3434.0,
+        "volume": 1859785.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250312,
+        "open_price": 3390.0,
+        "high_price": 3486.0,
+        "low_price": 3306.0,
+        "close_price": 3406.0,
+        "volume": 3398545.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250311,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3406.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4558.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4558.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4558.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250305,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 4558.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250304,
+        "open_price": 4526.0,
+        "high_price": 4705.0,
+        "low_price": 4526.0,
+        "close_price": 4558.0,
+        "volume": 9691217.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250303,
+        "open_price": 4697.0,
+        "high_price": 4697.0,
+        "low_price": 4644.0,
+        "close_price": 4665.0,
+        "volume": 2718689.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250302,
+        "open_price": 4781.0,
+        "high_price": 4849.0,
+        "low_price": 4760.0,
+        "close_price": 4787.0,
+        "volume": 3474016.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250301,
+        "open_price": 4798.0,
+        "high_price": 4900.0,
+        "low_price": 4743.0,
+        "close_price": 4805.0,
+        "volume": 2517445.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250226,
+        "open_price": 4820.0,
+        "high_price": 4955.0,
+        "low_price": 4807.0,
+        "close_price": 4828.0,
+        "volume": 4069039.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250225,
+        "open_price": 4931.0,
+        "high_price": 5020.0,
+        "low_price": 4845.0,
+        "close_price": 4955.0,
+        "volume": 3654206.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250224,
+        "open_price": 4850.0,
+        "high_price": 4939.0,
+        "low_price": 4764.0,
+        "close_price": 4875.0,
+        "volume": 4227195.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250223,
+        "open_price": 4627.0,
+        "high_price": 4803.0,
+        "low_price": 4627.0,
+        "close_price": 4800.0,
+        "volume": 5895889.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250222,
+        "open_price": 4762.0,
+        "high_price": 4789.0,
+        "low_price": 4626.0,
+        "close_price": 4664.0,
+        "volume": 6065754.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250219,
+        "open_price": 4892.0,
+        "high_price": 4894.0,
+        "low_price": 4682.0,
+        "close_price": 4769.0,
+        "volume": 4778308.0
+    },
+    {
+        "symbol": "غسالم",
+        "trade_date": 20250218,
+        "open_price": 4759.0,
+        "high_price": 4763.0,
+        "low_price": 4646.0,
+        "close_price": 4752.0,
+        "volume": 4242034.0
+    }
+]

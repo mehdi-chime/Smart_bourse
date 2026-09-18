@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260901,
+        "open_price": 4510.0,
+        "high_price": 4580.0,
+        "low_price": 4360.0,
+        "close_price": 4430.0,
+        "volume": 22458332.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260831,
+        "open_price": 4590.0,
+        "high_price": 4660.0,
+        "low_price": 4420.0,
+        "close_price": 4490.0,
+        "volume": 25688016.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260829,
+        "open_price": 4550.0,
+        "high_price": 4550.0,
+        "low_price": 4450.0,
+        "close_price": 4550.0,
+        "volume": 21523859.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260826,
+        "open_price": 4420.0,
+        "high_price": 4420.0,
+        "low_price": 4350.0,
+        "close_price": 4420.0,
+        "volume": 47403412.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260825,
+        "open_price": 4190.0,
+        "high_price": 4320.0,
+        "low_price": 4170.0,
+        "close_price": 4300.0,
+        "volume": 13710459.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260824,
+        "open_price": 4190.0,
+        "high_price": 4320.0,
+        "low_price": 4150.0,
+        "close_price": 4200.0,
+        "volume": 15023001.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260823,
+        "open_price": 4380.0,
+        "high_price": 4380.0,
+        "low_price": 4210.0,
+        "close_price": 4270.0,
+        "volume": 18704179.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260822,
+        "open_price": 4450.0,
+        "high_price": 4450.0,
+        "low_price": 4220.0,
+        "close_price": 4330.0,
+        "volume": 32207348.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260819,
+        "open_price": 4190.0,
+        "high_price": 4400.0,
+        "low_price": 4160.0,
+        "close_price": 4330.0,
+        "volume": 30502240.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260818,
+        "open_price": 4320.0,
+        "high_price": 4320.0,
+        "low_price": 4090.0,
+        "close_price": 4280.0,
+        "volume": 38346350.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260817,
+        "open_price": 4200.0,
+        "high_price": 4200.0,
+        "low_price": 4200.0,
+        "close_price": 4200.0,
+        "volume": 6509980.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260816,
+        "open_price": 4080.0,
+        "high_price": 4080.0,
+        "low_price": 4080.0,
+        "close_price": 4080.0,
+        "volume": 9786868.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260815,
+        "open_price": 3970.0,
+        "high_price": 4050.0,
+        "low_price": 3830.0,
+        "close_price": 3970.0,
+        "volume": 36851874.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260811,
+        "open_price": 4020.0,
+        "high_price": 4040.0,
+        "low_price": 3830.0,
+        "close_price": 3940.0,
+        "volume": 11371092.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260810,
+        "open_price": 3890.0,
+        "high_price": 3940.0,
+        "low_price": 3810.0,
+        "close_price": 3930.0,
+        "volume": 18806957.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260809,
+        "open_price": 3990.0,
+        "high_price": 3990.0,
+        "low_price": 3770.0,
+        "close_price": 3830.0,
+        "volume": 17481348.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260808,
+        "open_price": 3880.0,
+        "high_price": 3880.0,
+        "low_price": 3850.0,
+        "close_price": 3880.0,
+        "volume": 14343364.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260805,
+        "open_price": 3780.0,
+        "high_price": 3780.0,
+        "low_price": 3710.0,
+        "close_price": 3770.0,
+        "volume": 13564957.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260803,
+        "open_price": 3650.0,
+        "high_price": 3670.0,
+        "low_price": 3590.0,
+        "close_price": 3670.0,
+        "volume": 20855388.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260802,
+        "open_price": 3590.0,
+        "high_price": 3640.0,
+        "low_price": 3500.0,
+        "close_price": 3570.0,
+        "volume": 9756278.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260801,
+        "open_price": 3610.0,
+        "high_price": 3640.0,
+        "low_price": 3560.0,
+        "close_price": 3570.0,
+        "volume": 14507484.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260729,
+        "open_price": 3770.0,
+        "high_price": 3790.0,
+        "low_price": 3610.0,
+        "close_price": 3660.0,
+        "volume": 19117981.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260728,
+        "open_price": 3900.0,
+        "high_price": 3900.0,
+        "low_price": 3700.0,
+        "close_price": 3720.0,
+        "volume": 27132723.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260727,
+        "open_price": 3830.0,
+        "high_price": 3830.0,
+        "low_price": 3720.0,
+        "close_price": 3810.0,
+        "volume": 12941738.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260726,
+        "open_price": 3720.0,
+        "high_price": 3830.0,
+        "low_price": 3610.0,
+        "close_price": 3720.0,
+        "volume": 20921069.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260725,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3820.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260722,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3820.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260721,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3820.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260720,
+        "open_price": 3740.0,
+        "high_price": 3830.0,
+        "low_price": 3700.0,
+        "close_price": 3820.0,
+        "volume": 16712797.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260719,
+        "open_price": 3560.0,
+        "high_price": 3720.0,
+        "low_price": 3560.0,
+        "close_price": 3720.0,
+        "volume": 27173132.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260718,
+        "open_price": 3740.0,
+        "high_price": 3740.0,
+        "low_price": 3540.0,
+        "close_price": 3620.0,
+        "volume": 20706282.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260715,
+        "open_price": 3550.0,
+        "high_price": 3640.0,
+        "low_price": 3510.0,
+        "close_price": 3640.0,
+        "volume": 20690501.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260714,
+        "open_price": 3490.0,
+        "high_price": 3610.0,
+        "low_price": 3490.0,
+        "close_price": 3540.0,
+        "volume": 7105339.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260713,
+        "open_price": 3570.0,
+        "high_price": 3720.0,
+        "low_price": 3560.0,
+        "close_price": 3590.0,
+        "volume": 3095065.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260712,
+        "open_price": 3670.0,
+        "high_price": 3700.0,
+        "low_price": 3670.0,
+        "close_price": 3670.0,
+        "volume": 10181938.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260711,
+        "open_price": 3770.0,
+        "high_price": 3870.0,
+        "low_price": 3770.0,
+        "close_price": 3780.0,
+        "volume": 20824011.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260708,
+        "open_price": 3990.0,
+        "high_price": 3990.0,
+        "low_price": 3850.0,
+        "close_price": 3880.0,
+        "volume": 9053292.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260707,
+        "open_price": 3960.0,
+        "high_price": 3960.0,
+        "low_price": 3900.0,
+        "close_price": 3960.0,
+        "volume": 14764266.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260701,
+        "open_price": 3660.0,
+        "high_price": 3860.0,
+        "low_price": 3660.0,
+        "close_price": 3850.0,
+        "volume": 11221977.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260630,
+        "open_price": 3750.0,
+        "high_price": 3750.0,
+        "low_price": 3700.0,
+        "close_price": 3750.0,
+        "volume": 14954216.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260629,
+        "open_price": 3510.0,
+        "high_price": 3680.0,
+        "low_price": 3510.0,
+        "close_price": 3650.0,
+        "volume": 8239489.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260628,
+        "open_price": 3780.0,
+        "high_price": 3780.0,
+        "low_price": 3570.0,
+        "close_price": 3580.0,
+        "volume": 7917637.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260627,
+        "open_price": 3700.0,
+        "high_price": 3700.0,
+        "low_price": 3590.0,
+        "close_price": 3680.0,
+        "volume": 9378626.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260623,
+        "open_price": 3580.0,
+        "high_price": 3603.0,
+        "low_price": 3502.0,
+        "close_price": 3598.0,
+        "volume": 13895018.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260622,
+        "open_price": 3490.0,
+        "high_price": 3626.0,
+        "low_price": 3490.0,
+        "close_price": 3499.0,
+        "volume": 7295279.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260621,
+        "open_price": 3720.0,
+        "high_price": 3755.0,
+        "low_price": 3537.0,
+        "close_price": 3597.0,
+        "volume": 22193386.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260620,
+        "open_price": 3747.0,
+        "high_price": 3748.0,
+        "low_price": 3530.0,
+        "close_price": 3646.0,
+        "volume": 32917618.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260617,
+        "open_price": 3653.0,
+        "high_price": 3653.0,
+        "low_price": 3475.0,
+        "close_price": 3639.0,
+        "volume": 14207631.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260616,
+        "open_price": 3554.0,
+        "high_price": 3554.0,
+        "low_price": 3431.0,
+        "close_price": 3547.0,
+        "volume": 31682743.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260615,
+        "open_price": 3451.0,
+        "high_price": 3451.0,
+        "low_price": 3451.0,
+        "close_price": 3451.0,
+        "volume": 5057209.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260614,
+        "open_price": 3351.0,
+        "high_price": 3351.0,
+        "low_price": 3351.0,
+        "close_price": 3351.0,
+        "volume": 4504735.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260613,
+        "open_price": 3254.0,
+        "high_price": 3254.0,
+        "low_price": 3254.0,
+        "close_price": 3254.0,
+        "volume": 2842454.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260610,
+        "open_price": 3161.0,
+        "high_price": 3161.0,
+        "low_price": 3121.0,
+        "close_price": 3160.0,
+        "volume": 10938187.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260609,
+        "open_price": 3069.0,
+        "high_price": 3069.0,
+        "low_price": 3069.0,
+        "close_price": 3069.0,
+        "volume": 2990966.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260608,
+        "open_price": 3064.0,
+        "high_price": 3064.0,
+        "low_price": 2974.0,
+        "close_price": 2980.0,
+        "volume": 8090942.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260607,
+        "open_price": 3065.0,
+        "high_price": 3065.0,
+        "low_price": 3065.0,
+        "close_price": 3065.0,
+        "volume": 2157525.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260606,
+        "open_price": 2963.0,
+        "high_price": 3003.0,
+        "low_price": 2889.0,
+        "close_price": 2976.0,
+        "volume": 3903418.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260603,
+        "open_price": 2958.0,
+        "high_price": 2963.0,
+        "low_price": 2800.0,
+        "close_price": 2916.0,
+        "volume": 10349961.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260602,
+        "open_price": 2899.0,
+        "high_price": 2899.0,
+        "low_price": 2750.0,
+        "close_price": 2877.0,
+        "volume": 13485526.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260601,
+        "open_price": 2822.0,
+        "high_price": 2822.0,
+        "low_price": 2741.0,
+        "close_price": 2815.0,
+        "volume": 12184060.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260531,
+        "open_price": 2740.0,
+        "high_price": 2740.0,
+        "low_price": 2740.0,
+        "close_price": 2740.0,
+        "volume": 2483660.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260530,
+        "open_price": 2661.0,
+        "high_price": 2661.0,
+        "low_price": 2661.0,
+        "close_price": 2661.0,
+        "volume": 260765.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260526,
+        "open_price": 2584.0,
+        "high_price": 2584.0,
+        "low_price": 2584.0,
+        "close_price": 2584.0,
+        "volume": 740005.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260525,
+        "open_price": 2509.0,
+        "high_price": 2509.0,
+        "low_price": 2509.0,
+        "close_price": 2509.0,
+        "volume": 963056.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260524,
+        "open_price": 2436.0,
+        "high_price": 2436.0,
+        "low_price": 2436.0,
+        "close_price": 2436.0,
+        "volume": 1407180.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260523,
+        "open_price": 2366.0,
+        "high_price": 2366.0,
+        "low_price": 2366.0,
+        "close_price": 2366.0,
+        "volume": 1201164.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260520,
+        "open_price": 2298.0,
+        "high_price": 2298.0,
+        "low_price": 2298.0,
+        "close_price": 2298.0,
+        "volume": 6119519.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260519,
+        "open_price": 2148.0,
+        "high_price": 2280.0,
+        "low_price": 2148.0,
+        "close_price": 2232.0,
+        "volume": 5764870.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2214.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260225,
+        "open_price": 2279.0,
+        "high_price": 2279.0,
+        "low_price": 2205.0,
+        "close_price": 2214.0,
+        "volume": 1911502.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260224,
+        "open_price": 2280.0,
+        "high_price": 2280.0,
+        "low_price": 2217.0,
+        "close_price": 2223.0,
+        "volume": 1530081.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260223,
+        "open_price": 2382.0,
+        "high_price": 2382.0,
+        "low_price": 2250.0,
+        "close_price": 2285.0,
+        "volume": 2702124.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260222,
+        "open_price": 2314.0,
+        "high_price": 2317.0,
+        "low_price": 2314.0,
+        "close_price": 2314.0,
+        "volume": 3645180.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260221,
+        "open_price": 2386.0,
+        "high_price": 2386.0,
+        "low_price": 2385.0,
+        "close_price": 2385.0,
+        "volume": 2433686.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260218,
+        "open_price": 2441.0,
+        "high_price": 2579.0,
+        "low_price": 2431.0,
+        "close_price": 2458.0,
+        "volume": 3499727.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260217,
+        "open_price": 2524.0,
+        "high_price": 2524.0,
+        "low_price": 2457.0,
+        "close_price": 2506.0,
+        "volume": 4816277.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260216,
+        "open_price": 2400.0,
+        "high_price": 2527.0,
+        "low_price": 2385.0,
+        "close_price": 2451.0,
+        "volume": 2425483.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260215,
+        "open_price": 2461.0,
+        "high_price": 2470.0,
+        "low_price": 2455.0,
+        "close_price": 2456.0,
+        "volume": 4338559.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260214,
+        "open_price": 2665.0,
+        "high_price": 2665.0,
+        "low_price": 2512.0,
+        "close_price": 2530.0,
+        "volume": 2381446.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260210,
+        "open_price": 2583.0,
+        "high_price": 2660.0,
+        "low_price": 2582.0,
+        "close_price": 2589.0,
+        "volume": 2935351.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260209,
+        "open_price": 2670.0,
+        "high_price": 2733.0,
+        "low_price": 2660.0,
+        "close_price": 2661.0,
+        "volume": 8687499.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260208,
+        "open_price": 2878.0,
+        "high_price": 2880.0,
+        "low_price": 2714.0,
+        "close_price": 2742.0,
+        "volume": 2583061.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260207,
+        "open_price": 2770.0,
+        "high_price": 2798.0,
+        "low_price": 2765.0,
+        "close_price": 2797.0,
+        "volume": 6650124.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260203,
+        "open_price": 2864.0,
+        "high_price": 2864.0,
+        "low_price": 2699.0,
+        "close_price": 2717.0,
+        "volume": 7539949.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260202,
+        "open_price": 2740.0,
+        "high_price": 2783.0,
+        "low_price": 2740.0,
+        "close_price": 2782.0,
+        "volume": 6665111.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260201,
+        "open_price": 2699.0,
+        "high_price": 2749.0,
+        "low_price": 2699.0,
+        "close_price": 2702.0,
+        "volume": 8438025.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260131,
+        "open_price": 2781.0,
+        "high_price": 2820.0,
+        "low_price": 2781.0,
+        "close_price": 2782.0,
+        "volume": 3097747.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260128,
+        "open_price": 2861.0,
+        "high_price": 3010.0,
+        "low_price": 2861.0,
+        "close_price": 2867.0,
+        "volume": 5264717.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260127,
+        "open_price": 2949.0,
+        "high_price": 2949.0,
+        "low_price": 2949.0,
+        "close_price": 2949.0,
+        "volume": 2739456.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260126,
+        "open_price": 3040.0,
+        "high_price": 3040.0,
+        "low_price": 3040.0,
+        "close_price": 3040.0,
+        "volume": 2018307.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260125,
+        "open_price": 3134.0,
+        "high_price": 3134.0,
+        "low_price": 3134.0,
+        "close_price": 3134.0,
+        "volume": 2121179.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260124,
+        "open_price": 3230.0,
+        "high_price": 3230.0,
+        "low_price": 3230.0,
+        "close_price": 3230.0,
+        "volume": 2454133.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260121,
+        "open_price": 3300.0,
+        "high_price": 3332.0,
+        "low_price": 3270.0,
+        "close_price": 3329.0,
+        "volume": 5141458.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260120,
+        "open_price": 3200.0,
+        "high_price": 3240.0,
+        "low_price": 3160.0,
+        "close_price": 3235.0,
+        "volume": 6469565.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260119,
+        "open_price": 3130.0,
+        "high_price": 3178.0,
+        "low_price": 3070.0,
+        "close_price": 3146.0,
+        "volume": 5773652.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260118,
+        "open_price": 3080.0,
+        "high_price": 3092.0,
+        "low_price": 3031.0,
+        "close_price": 3086.0,
+        "volume": 5042048.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260114,
+        "open_price": 3010.0,
+        "high_price": 3120.0,
+        "low_price": 2954.0,
+        "close_price": 3002.0,
+        "volume": 28966779.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260113,
+        "open_price": 3203.0,
+        "high_price": 3203.0,
+        "low_price": 3019.0,
+        "close_price": 3045.0,
+        "volume": 3062686.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260112,
+        "open_price": 3130.0,
+        "high_price": 3131.0,
+        "low_price": 3051.0,
+        "close_price": 3112.0,
+        "volume": 3859636.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260111,
+        "open_price": 3008.0,
+        "high_price": 3160.0,
+        "low_price": 3008.0,
+        "close_price": 3040.0,
+        "volume": 12062506.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260110,
+        "open_price": 3101.0,
+        "high_price": 3101.0,
+        "low_price": 3101.0,
+        "close_price": 3101.0,
+        "volume": 2210422.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260107,
+        "open_price": 3358.0,
+        "high_price": 3358.0,
+        "low_price": 3188.0,
+        "close_price": 3196.0,
+        "volume": 3157959.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260106,
+        "open_price": 3200.0,
+        "high_price": 3289.0,
+        "low_price": 3200.0,
+        "close_price": 3286.0,
+        "volume": 9619955.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260105,
+        "open_price": 3067.0,
+        "high_price": 3255.0,
+        "low_price": 3067.0,
+        "close_price": 3194.0,
+        "volume": 5358421.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20260104,
+        "open_price": 3163.0,
+        "high_price": 3164.0,
+        "low_price": 3161.0,
+        "close_price": 3161.0,
+        "volume": 2881524.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251231,
+        "open_price": 3253.0,
+        "high_price": 3345.0,
+        "low_price": 3253.0,
+        "close_price": 3258.0,
+        "volume": 13440873.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251230,
+        "open_price": 3353.0,
+        "high_price": 3353.0,
+        "low_price": 3353.0,
+        "close_price": 3353.0,
+        "volume": 2100018.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251229,
+        "open_price": 3649.0,
+        "high_price": 3649.0,
+        "low_price": 3452.0,
+        "close_price": 3456.0,
+        "volume": 12975445.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251228,
+        "open_price": 3564.0,
+        "high_price": 3572.0,
+        "low_price": 3470.0,
+        "close_price": 3558.0,
+        "volume": 9345613.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251227,
+        "open_price": 3410.0,
+        "high_price": 3507.0,
+        "low_price": 3410.0,
+        "close_price": 3468.0,
+        "volume": 14274005.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251224,
+        "open_price": 3405.0,
+        "high_price": 3405.0,
+        "low_price": 3405.0,
+        "close_price": 3405.0,
+        "volume": 5446155.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251223,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3306.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251222,
+        "open_price": 3260.0,
+        "high_price": 3326.0,
+        "low_price": 3191.0,
+        "close_price": 3306.0,
+        "volume": 16185916.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251221,
+        "open_price": 3219.0,
+        "high_price": 3260.0,
+        "low_price": 3185.0,
+        "close_price": 3230.0,
+        "volume": 12847523.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251220,
+        "open_price": 3241.0,
+        "high_price": 3321.0,
+        "low_price": 3151.0,
+        "close_price": 3227.0,
+        "volume": 32027981.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251217,
+        "open_price": 3096.0,
+        "high_price": 3241.0,
+        "low_price": 3096.0,
+        "close_price": 3225.0,
+        "volume": 10590329.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251216,
+        "open_price": 3150.0,
+        "high_price": 3153.0,
+        "low_price": 3072.0,
+        "close_price": 3147.0,
+        "volume": 20810961.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251215,
+        "open_price": 3060.0,
+        "high_price": 3063.0,
+        "low_price": 3010.0,
+        "close_price": 3062.0,
+        "volume": 9684606.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251214,
+        "open_price": 3013.0,
+        "high_price": 3015.0,
+        "low_price": 2912.0,
+        "close_price": 2974.0,
+        "volume": 14480903.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251213,
+        "open_price": 2912.0,
+        "high_price": 2936.0,
+        "low_price": 2862.0,
+        "close_price": 2928.0,
+        "volume": 19433212.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251210,
+        "open_price": 2842.0,
+        "high_price": 2900.0,
+        "low_price": 2811.0,
+        "close_price": 2851.0,
+        "volume": 11092270.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251209,
+        "open_price": 2780.0,
+        "high_price": 2906.0,
+        "low_price": 2780.0,
+        "close_price": 2840.0,
+        "volume": 7322949.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251208,
+        "open_price": 2811.0,
+        "high_price": 2850.0,
+        "low_price": 2781.0,
+        "close_price": 2823.0,
+        "volume": 2979426.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251207,
+        "open_price": 2842.0,
+        "high_price": 2956.0,
+        "low_price": 2784.0,
+        "close_price": 2843.0,
+        "volume": 6007368.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251206,
+        "open_price": 2750.0,
+        "high_price": 2885.0,
+        "low_price": 2750.0,
+        "close_price": 2870.0,
+        "volume": 8886150.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251203,
+        "open_price": 2850.0,
+        "high_price": 2850.0,
+        "low_price": 2750.0,
+        "close_price": 2801.0,
+        "volume": 7965751.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251202,
+        "open_price": 2830.0,
+        "high_price": 2848.0,
+        "low_price": 2780.0,
+        "close_price": 2781.0,
+        "volume": 2257714.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251201,
+        "open_price": 2710.0,
+        "high_price": 2814.0,
+        "low_price": 2710.0,
+        "close_price": 2777.0,
+        "volume": 1238620.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251130,
+        "open_price": 2752.0,
+        "high_price": 2820.0,
+        "low_price": 2750.0,
+        "close_price": 2775.0,
+        "volume": 7619988.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251129,
+        "open_price": 2780.0,
+        "high_price": 2857.0,
+        "low_price": 2780.0,
+        "close_price": 2792.0,
+        "volume": 10537941.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251126,
+        "open_price": 2820.0,
+        "high_price": 2820.0,
+        "low_price": 2760.0,
+        "close_price": 2785.0,
+        "volume": 2948487.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251125,
+        "open_price": 2790.0,
+        "high_price": 2838.0,
+        "low_price": 2765.0,
+        "close_price": 2778.0,
+        "volume": 8656262.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251123,
+        "open_price": 2719.0,
+        "high_price": 2834.0,
+        "low_price": 2719.0,
+        "close_price": 2766.0,
+        "volume": 2946420.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251122,
+        "open_price": 2734.0,
+        "high_price": 2805.0,
+        "low_price": 2734.0,
+        "close_price": 2762.0,
+        "volume": 1396701.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251119,
+        "open_price": 2780.0,
+        "high_price": 2809.0,
+        "low_price": 2740.0,
+        "close_price": 2759.0,
+        "volume": 5530803.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251118,
+        "open_price": 2704.0,
+        "high_price": 2769.0,
+        "low_price": 2704.0,
+        "close_price": 2767.0,
+        "volume": 2258014.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251117,
+        "open_price": 2785.0,
+        "high_price": 2863.0,
+        "low_price": 2702.0,
+        "close_price": 2782.0,
+        "volume": 649493.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251116,
+        "open_price": 2692.0,
+        "high_price": 2835.0,
+        "low_price": 2692.0,
+        "close_price": 2782.0,
+        "volume": 2997347.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251115,
+        "open_price": 2822.0,
+        "high_price": 2822.0,
+        "low_price": 2705.0,
+        "close_price": 2756.0,
+        "volume": 1036923.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251112,
+        "open_price": 2758.0,
+        "high_price": 2791.0,
+        "low_price": 2754.0,
+        "close_price": 2759.0,
+        "volume": 5448810.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251111,
+        "open_price": 2869.0,
+        "high_price": 2972.0,
+        "low_price": 2809.0,
+        "close_price": 2839.0,
+        "volume": 4223752.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251110,
+        "open_price": 2900.0,
+        "high_price": 2952.0,
+        "low_price": 2859.0,
+        "close_price": 2895.0,
+        "volume": 4124390.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251109,
+        "open_price": 3058.0,
+        "high_price": 3058.0,
+        "low_price": 2919.0,
+        "close_price": 2947.0,
+        "volume": 3939107.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251108,
+        "open_price": 3081.0,
+        "high_price": 3081.0,
+        "low_price": 2925.0,
+        "close_price": 3009.0,
+        "volume": 4751279.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251105,
+        "open_price": 2900.0,
+        "high_price": 3058.0,
+        "low_price": 2900.0,
+        "close_price": 2992.0,
+        "volume": 4864498.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251104,
+        "open_price": 2930.0,
+        "high_price": 2978.0,
+        "low_price": 2897.0,
+        "close_price": 2969.0,
+        "volume": 18849001.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251103,
+        "open_price": 2897.0,
+        "high_price": 2897.0,
+        "low_price": 2844.0,
+        "close_price": 2892.0,
+        "volume": 9209538.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251102,
+        "open_price": 2780.0,
+        "high_price": 2856.0,
+        "low_price": 2771.0,
+        "close_price": 2813.0,
+        "volume": 4430218.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251101,
+        "open_price": 2916.0,
+        "high_price": 2918.0,
+        "low_price": 2820.0,
+        "close_price": 2856.0,
+        "volume": 3355438.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251029,
+        "open_price": 2841.0,
+        "high_price": 2903.0,
+        "low_price": 2836.0,
+        "close_price": 2847.0,
+        "volume": 8462882.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251028,
+        "open_price": 3024.0,
+        "high_price": 3026.0,
+        "low_price": 2860.0,
+        "close_price": 2923.0,
+        "volume": 8021546.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251027,
+        "open_price": 2913.0,
+        "high_price": 2939.0,
+        "low_price": 2900.0,
+        "close_price": 2938.0,
+        "volume": 8636462.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251026,
+        "open_price": 2866.0,
+        "high_price": 2866.0,
+        "low_price": 2860.0,
+        "close_price": 2854.0,
+        "volume": 4915317.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251025,
+        "open_price": 2680.0,
+        "high_price": 2797.0,
+        "low_price": 2670.0,
+        "close_price": 2783.0,
+        "volume": 5617523.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251022,
+        "open_price": 2709.0,
+        "high_price": 2778.0,
+        "low_price": 2669.0,
+        "close_price": 2716.0,
+        "volume": 5781822.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251021,
+        "open_price": 2816.0,
+        "high_price": 2816.0,
+        "low_price": 2701.0,
+        "close_price": 2751.0,
+        "volume": 2574961.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251020,
+        "open_price": 2894.0,
+        "high_price": 2894.0,
+        "low_price": 2745.0,
+        "close_price": 2784.0,
+        "volume": 3908720.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251019,
+        "open_price": 2903.0,
+        "high_price": 2903.0,
+        "low_price": 2760.0,
+        "close_price": 2829.0,
+        "volume": 2858658.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251018,
+        "open_price": 2900.0,
+        "high_price": 2900.0,
+        "low_price": 2823.0,
+        "close_price": 2820.0,
+        "volume": 343516.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251015,
+        "open_price": 2898.0,
+        "high_price": 2898.0,
+        "low_price": 2755.0,
+        "close_price": 2818.0,
+        "volume": 2217118.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251014,
+        "open_price": 2832.0,
+        "high_price": 2832.0,
+        "low_price": 2770.0,
+        "close_price": 2827.0,
+        "volume": 10275262.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251013,
+        "open_price": 2754.0,
+        "high_price": 2754.0,
+        "low_price": 2754.0,
+        "close_price": 2750.0,
+        "volume": 5602987.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251012,
+        "open_price": 2706.0,
+        "high_price": 2706.0,
+        "low_price": 2706.0,
+        "close_price": 2674.0,
+        "volume": 3460049.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251011,
+        "open_price": 2628.0,
+        "high_price": 2628.0,
+        "low_price": 2628.0,
+        "close_price": 2628.0,
+        "volume": 6485580.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251008,
+        "open_price": 2509.0,
+        "high_price": 2579.0,
+        "low_price": 2482.0,
+        "close_price": 2552.0,
+        "volume": 4851353.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251007,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2504.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251006,
+        "open_price": 2444.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2504.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251005,
+        "open_price": 2625.0,
+        "high_price": 2627.0,
+        "low_price": 2477.0,
+        "close_price": 2504.0,
+        "volume": 4132960.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251004,
+        "open_price": 2578.0,
+        "high_price": 2608.0,
+        "low_price": 2510.0,
+        "close_price": 2553.0,
+        "volume": 1894378.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20251001,
+        "open_price": 2520.0,
+        "high_price": 2520.0,
+        "low_price": 2477.0,
+        "close_price": 2534.0,
+        "volume": 1567552.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250930,
+        "open_price": 2631.0,
+        "high_price": 2668.0,
+        "low_price": 2548.0,
+        "close_price": 2553.0,
+        "volume": 7919287.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250929,
+        "open_price": 2668.0,
+        "high_price": 2668.0,
+        "low_price": 2602.0,
+        "close_price": 2626.0,
+        "volume": 3426681.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250928,
+        "open_price": 2600.0,
+        "high_price": 2636.0,
+        "low_price": 2600.0,
+        "close_price": 2591.0,
+        "volume": 2792961.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250927,
+        "open_price": 2500.0,
+        "high_price": 2585.0,
+        "low_price": 2460.0,
+        "close_price": 2560.0,
+        "volume": 6693230.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250924,
+        "open_price": 2455.0,
+        "high_price": 2490.0,
+        "low_price": 2455.0,
+        "close_price": 2510.0,
+        "volume": 1519951.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250923,
+        "open_price": 2496.0,
+        "high_price": 2569.0,
+        "low_price": 2467.0,
+        "close_price": 2530.0,
+        "volume": 1031599.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250922,
+        "open_price": 2629.0,
+        "high_price": 2629.0,
+        "low_price": 2489.0,
+        "close_price": 2543.0,
+        "volume": 5298324.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250921,
+        "open_price": 2565.0,
+        "high_price": 2566.0,
+        "low_price": 2565.0,
+        "close_price": 2565.0,
+        "volume": 6746884.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250920,
+        "open_price": 2566.0,
+        "high_price": 2566.0,
+        "low_price": 2566.0,
+        "close_price": 2644.0,
+        "volume": 51778.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250917,
+        "open_price": 2569.0,
+        "high_price": 2569.0,
+        "low_price": 2569.0,
+        "close_price": 2645.0,
+        "volume": 190616.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250916,
+        "open_price": 2584.0,
+        "high_price": 2584.0,
+        "low_price": 2577.0,
+        "close_price": 2648.0,
+        "volume": 605969.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250915,
+        "open_price": 2635.0,
+        "high_price": 2650.0,
+        "low_price": 2601.0,
+        "close_price": 2656.0,
+        "volume": 1912892.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250914,
+        "open_price": 2624.0,
+        "high_price": 2737.0,
+        "low_price": 2624.0,
+        "close_price": 2681.0,
+        "volume": 2549777.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250913,
+        "open_price": 2671.0,
+        "high_price": 2770.0,
+        "low_price": 2671.0,
+        "close_price": 2705.0,
+        "volume": 3384876.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250909,
+        "open_price": 2857.0,
+        "high_price": 2857.0,
+        "low_price": 2691.0,
+        "close_price": 2753.0,
+        "volume": 1979497.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250908,
+        "open_price": 2840.0,
+        "high_price": 2840.0,
+        "low_price": 2788.0,
+        "close_price": 2774.0,
+        "volume": 1531673.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250907,
+        "open_price": 2760.0,
+        "high_price": 2807.0,
+        "low_price": 2710.0,
+        "close_price": 2758.0,
+        "volume": 537367.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250906,
+        "open_price": 2838.0,
+        "high_price": 2842.0,
+        "low_price": 2678.0,
+        "close_price": 2760.0,
+        "volume": 580714.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250903,
+        "open_price": 2807.0,
+        "high_price": 2808.0,
+        "low_price": 2723.0,
+        "close_price": 2760.0,
+        "volume": 2429812.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250902,
+        "open_price": 2699.0,
+        "high_price": 2800.0,
+        "low_price": 2652.0,
+        "close_price": 2727.0,
+        "volume": 2739055.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250831,
+        "open_price": 2664.0,
+        "high_price": 2699.0,
+        "low_price": 2664.0,
+        "close_price": 2734.0,
+        "volume": 839375.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250830,
+        "open_price": 2665.0,
+        "high_price": 2665.0,
+        "low_price": 2665.0,
+        "close_price": 2746.0,
+        "volume": 44287.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250827,
+        "open_price": 2677.0,
+        "high_price": 2817.0,
+        "low_price": 2677.0,
+        "close_price": 2747.0,
+        "volume": 921169.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250826,
+        "open_price": 2678.0,
+        "high_price": 2678.0,
+        "low_price": 2678.0,
+        "close_price": 2759.0,
+        "volume": 40939.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250825,
+        "open_price": 2678.0,
+        "high_price": 2678.0,
+        "low_price": 2678.0,
+        "close_price": 2760.0,
+        "volume": 15720.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250823,
+        "open_price": 2681.0,
+        "high_price": 2691.0,
+        "low_price": 2680.0,
+        "close_price": 2760.0,
+        "volume": 171878.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250820,
+        "open_price": 2694.0,
+        "high_price": 2707.0,
+        "low_price": 2694.0,
+        "close_price": 2762.0,
+        "volume": 1042495.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250819,
+        "open_price": 2707.0,
+        "high_price": 2750.0,
+        "low_price": 2707.0,
+        "close_price": 2777.0,
+        "volume": 969332.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250818,
+        "open_price": 2899.0,
+        "high_price": 2899.0,
+        "low_price": 2734.0,
+        "close_price": 2790.0,
+        "volume": 2010421.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250817,
+        "open_price": 2739.0,
+        "high_price": 2847.0,
+        "low_price": 2739.0,
+        "close_price": 2818.0,
+        "volume": 1606385.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250816,
+        "open_price": 2834.0,
+        "high_price": 2915.0,
+        "low_price": 2749.0,
+        "close_price": 2823.0,
+        "volume": 833849.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250813,
+        "open_price": 2898.0,
+        "high_price": 2898.0,
+        "low_price": 2750.0,
+        "close_price": 2834.0,
+        "volume": 161827.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250812,
+        "open_price": 2758.0,
+        "high_price": 2758.0,
+        "low_price": 2758.0,
+        "close_price": 2835.0,
+        "volume": 513067.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250811,
+        "open_price": 2760.0,
+        "high_price": 2760.0,
+        "low_price": 2760.0,
+        "close_price": 2843.0,
+        "volume": 150169.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250810,
+        "open_price": 2772.0,
+        "high_price": 2773.0,
+        "low_price": 2771.0,
+        "close_price": 2845.0,
+        "volume": 716226.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250809,
+        "open_price": 2787.0,
+        "high_price": 2929.0,
+        "low_price": 2787.0,
+        "close_price": 2856.0,
+        "volume": 1429582.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250806,
+        "open_price": 2789.0,
+        "high_price": 2789.0,
+        "low_price": 2789.0,
+        "close_price": 2873.0,
+        "volume": 123325.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250805,
+        "open_price": 2830.0,
+        "high_price": 2850.0,
+        "low_price": 2799.0,
+        "close_price": 2875.0,
+        "volume": 863619.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250804,
+        "open_price": 2850.0,
+        "high_price": 2851.0,
+        "low_price": 2850.0,
+        "close_price": 2885.0,
+        "volume": 3452575.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250803,
+        "open_price": 2855.0,
+        "high_price": 2855.0,
+        "low_price": 2855.0,
+        "close_price": 2938.0,
+        "volume": 296521.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250802,
+        "open_price": 2888.0,
+        "high_price": 2888.0,
+        "low_price": 2888.0,
+        "close_price": 2943.0,
+        "volume": 2181441.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250730,
+        "open_price": 2889.0,
+        "high_price": 2889.0,
+        "low_price": 2889.0,
+        "close_price": 2977.0,
+        "volume": 69624.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250729,
+        "open_price": 2889.0,
+        "high_price": 2889.0,
+        "low_price": 2889.0,
+        "close_price": 2978.0,
+        "volume": 9800.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250728,
+        "open_price": 2891.0,
+        "high_price": 2891.0,
+        "low_price": 2891.0,
+        "close_price": 2978.0,
+        "volume": 98927.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250727,
+        "open_price": 3000.0,
+        "high_price": 3000.0,
+        "low_price": 2910.0,
+        "close_price": 2980.0,
+        "volume": 386395.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250726,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2985.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250723,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 2985.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250722,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3125.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250721,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3125.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250720,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3125.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250719,
+        "open_price": 3245.0,
+        "high_price": 3245.0,
+        "low_price": 3058.0,
+        "close_price": 3125.0,
+        "volume": 2288335.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250716,
+        "open_price": 3194.0,
+        "high_price": 3198.0,
+        "low_price": 3153.0,
+        "close_price": 3152.0,
+        "volume": 2759889.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250715,
+        "open_price": 3199.0,
+        "high_price": 3199.0,
+        "low_price": 3063.0,
+        "close_price": 3135.0,
+        "volume": 5746254.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250714,
+        "open_price": 3182.0,
+        "high_price": 3240.0,
+        "low_price": 3128.0,
+        "close_price": 3157.0,
+        "volume": 2791845.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250713,
+        "open_price": 3120.0,
+        "high_price": 3195.0,
+        "low_price": 3107.0,
+        "close_price": 3153.0,
+        "volume": 3198237.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250712,
+        "open_price": 3203.0,
+        "high_price": 3294.0,
+        "low_price": 3185.0,
+        "close_price": 3203.0,
+        "volume": 3249826.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250709,
+        "open_price": 3107.0,
+        "high_price": 3109.0,
+        "low_price": 3106.0,
+        "close_price": 3199.0,
+        "volume": 197369.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250708,
+        "open_price": 3132.0,
+        "high_price": 3133.0,
+        "low_price": 3127.0,
+        "close_price": 3202.0,
+        "volume": 1224873.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250707,
+        "open_price": 3257.0,
+        "high_price": 3364.0,
+        "low_price": 3187.0,
+        "close_price": 3223.0,
+        "volume": 4921064.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250702,
+        "open_price": 3243.0,
+        "high_price": 3395.0,
+        "low_price": 3243.0,
+        "close_price": 3267.0,
+        "volume": 14009335.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250701,
+        "open_price": 3245.0,
+        "high_price": 3245.0,
+        "low_price": 3245.0,
+        "close_price": 3343.0,
+        "volume": 91243.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250630,
+        "open_price": 3345.0,
+        "high_price": 3345.0,
+        "low_price": 3345.0,
+        "close_price": 3345.0,
+        "volume": 23132410.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250629,
+        "open_price": 3416.0,
+        "high_price": 3416.0,
+        "low_price": 3416.0,
+        "close_price": 3448.0,
+        "volume": 3982613.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250628,
+        "open_price": 3465.0,
+        "high_price": 3465.0,
+        "low_price": 3465.0,
+        "close_price": 3521.0,
+        "volume": 2727057.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3572.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3572.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3572.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3572.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3572.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3572.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3572.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 3572.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250611,
+        "open_price": 3589.0,
+        "high_price": 3608.0,
+        "low_price": 3480.0,
+        "close_price": 3572.0,
+        "volume": 5186740.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250610,
+        "open_price": 3500.0,
+        "high_price": 3596.0,
+        "low_price": 3403.0,
+        "close_price": 3503.0,
+        "volume": 1855424.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250609,
+        "open_price": 3600.0,
+        "high_price": 3600.0,
+        "low_price": 3449.0,
+        "close_price": 3503.0,
+        "volume": 3005604.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250608,
+        "open_price": 3717.0,
+        "high_price": 3717.0,
+        "low_price": 3529.0,
+        "close_price": 3555.0,
+        "volume": 4680413.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250607,
+        "open_price": 3659.0,
+        "high_price": 3735.0,
+        "low_price": 3581.0,
+        "close_price": 3638.0,
+        "volume": 2763321.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250603,
+        "open_price": 3739.0,
+        "high_price": 3796.0,
+        "low_price": 3648.0,
+        "close_price": 3691.0,
+        "volume": 1588775.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250602,
+        "open_price": 3590.0,
+        "high_price": 3786.0,
+        "low_price": 3590.0,
+        "close_price": 3690.0,
+        "volume": 2327495.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250601,
+        "open_price": 3800.0,
+        "high_price": 3830.0,
+        "low_price": 3643.0,
+        "close_price": 3676.0,
+        "volume": 4322451.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250531,
+        "open_price": 3869.0,
+        "high_price": 3871.0,
+        "low_price": 3700.0,
+        "close_price": 3755.0,
+        "volume": 2091509.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250528,
+        "open_price": 3751.0,
+        "high_price": 3853.0,
+        "low_price": 3730.0,
+        "close_price": 3765.0,
+        "volume": 1678026.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250527,
+        "open_price": 3744.0,
+        "high_price": 3817.0,
+        "low_price": 3730.0,
+        "close_price": 3741.0,
+        "volume": 2386935.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250526,
+        "open_price": 3692.0,
+        "high_price": 3861.0,
+        "low_price": 3637.0,
+        "close_price": 3706.0,
+        "volume": 5724510.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250525,
+        "open_price": 3849.0,
+        "high_price": 3856.0,
+        "low_price": 3651.0,
+        "close_price": 3749.0,
+        "volume": 2553509.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250524,
+        "open_price": 3730.0,
+        "high_price": 3765.0,
+        "low_price": 3591.0,
+        "close_price": 3745.0,
+        "volume": 8478886.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250521,
+        "open_price": 3646.0,
+        "high_price": 3798.0,
+        "low_price": 3646.0,
+        "close_price": 3656.0,
+        "volume": 7185018.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250520,
+        "open_price": 3801.0,
+        "high_price": 3898.0,
+        "low_price": 3731.0,
+        "close_price": 3758.0,
+        "volume": 6849154.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250519,
+        "open_price": 3888.0,
+        "high_price": 4009.0,
+        "low_price": 3799.0,
+        "close_price": 3846.0,
+        "volume": 13419128.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250518,
+        "open_price": 3939.0,
+        "high_price": 4050.0,
+        "low_price": 3836.0,
+        "close_price": 3916.0,
+        "volume": 6129058.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250517,
+        "open_price": 4056.0,
+        "high_price": 4154.0,
+        "low_price": 3935.0,
+        "close_price": 3953.0,
+        "volume": 10195545.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250514,
+        "open_price": 4000.0,
+        "high_price": 4168.0,
+        "low_price": 3940.0,
+        "close_price": 4056.0,
+        "volume": 7619384.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250513,
+        "open_price": 4249.0,
+        "high_price": 4249.0,
+        "low_price": 4042.0,
+        "close_price": 4048.0,
+        "volume": 20956420.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250512,
+        "open_price": 4191.0,
+        "high_price": 4191.0,
+        "low_price": 4118.0,
+        "close_price": 4166.0,
+        "volume": 13544817.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250511,
+        "open_price": 4075.0,
+        "high_price": 4220.0,
+        "low_price": 4008.0,
+        "close_price": 4069.0,
+        "volume": 5219155.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250510,
+        "open_price": 4120.0,
+        "high_price": 4219.0,
+        "low_price": 3975.0,
+        "close_price": 4131.0,
+        "volume": 23002531.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250507,
+        "open_price": 4098.0,
+        "high_price": 4098.0,
+        "low_price": 4001.0,
+        "close_price": 4097.0,
+        "volume": 35325101.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250506,
+        "open_price": 3950.0,
+        "high_price": 3980.0,
+        "low_price": 3950.0,
+        "close_price": 3979.0,
+        "volume": 22364925.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250505,
+        "open_price": 3770.0,
+        "high_price": 3881.0,
+        "low_price": 3770.0,
+        "close_price": 3865.0,
+        "volume": 10769674.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250504,
+        "open_price": 3692.0,
+        "high_price": 3770.0,
+        "low_price": 3636.0,
+        "close_price": 3768.0,
+        "volume": 6522256.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250503,
+        "open_price": 3759.0,
+        "high_price": 3850.0,
+        "low_price": 3649.0,
+        "close_price": 3661.0,
+        "volume": 9406290.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250430,
+        "open_price": 3817.0,
+        "high_price": 3817.0,
+        "low_price": 3720.0,
+        "close_price": 3761.0,
+        "volume": 5416521.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250429,
+        "open_price": 3680.0,
+        "high_price": 3780.0,
+        "low_price": 3680.0,
+        "close_price": 3725.0,
+        "volume": 3028205.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250428,
+        "open_price": 3770.0,
+        "high_price": 3883.0,
+        "low_price": 3691.0,
+        "close_price": 3708.0,
+        "volume": 9992644.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250427,
+        "open_price": 3850.0,
+        "high_price": 4009.0,
+        "low_price": 3778.0,
+        "close_price": 3805.0,
+        "volume": 6624480.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250426,
+        "open_price": 3860.0,
+        "high_price": 4030.0,
+        "low_price": 3821.0,
+        "close_price": 3894.0,
+        "volume": 3488031.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250423,
+        "open_price": 4000.0,
+        "high_price": 4090.0,
+        "low_price": 3876.0,
+        "close_price": 3930.0,
+        "volume": 4496244.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250422,
+        "open_price": 4040.0,
+        "high_price": 4100.0,
+        "low_price": 3880.0,
+        "close_price": 3995.0,
+        "volume": 8592948.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250421,
+        "open_price": 4000.0,
+        "high_price": 4023.0,
+        "low_price": 3890.0,
+        "close_price": 3988.0,
+        "volume": 8268100.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250420,
+        "open_price": 3876.0,
+        "high_price": 3907.0,
+        "low_price": 3876.0,
+        "close_price": 3906.0,
+        "volume": 12150492.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250419,
+        "open_price": 3766.0,
+        "high_price": 3876.0,
+        "low_price": 3722.0,
+        "close_price": 3794.0,
+        "volume": 4030355.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250416,
+        "open_price": 3769.0,
+        "high_price": 3836.0,
+        "low_price": 3614.0,
+        "close_price": 3764.0,
+        "volume": 7686812.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250415,
+        "open_price": 3788.0,
+        "high_price": 3869.0,
+        "low_price": 3657.0,
+        "close_price": 3725.0,
+        "volume": 3860148.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250414,
+        "open_price": 3815.0,
+        "high_price": 3819.0,
+        "low_price": 3710.0,
+        "close_price": 3770.0,
+        "volume": 5619183.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250413,
+        "open_price": 3660.0,
+        "high_price": 3711.0,
+        "low_price": 3650.0,
+        "close_price": 3708.0,
+        "volume": 9312920.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250412,
+        "open_price": 3550.0,
+        "high_price": 3706.0,
+        "low_price": 3502.0,
+        "close_price": 3603.0,
+        "volume": 2021485.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250409,
+        "open_price": 3680.0,
+        "high_price": 3758.0,
+        "low_price": 3551.0,
+        "close_price": 3599.0,
+        "volume": 3647483.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250408,
+        "open_price": 3734.0,
+        "high_price": 3737.0,
+        "low_price": 3620.0,
+        "close_price": 3660.0,
+        "volume": 3437730.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250407,
+        "open_price": 3594.0,
+        "high_price": 3760.0,
+        "low_price": 3593.0,
+        "close_price": 3629.0,
+        "volume": 6300825.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250406,
+        "open_price": 3670.0,
+        "high_price": 3813.0,
+        "low_price": 3591.0,
+        "close_price": 3704.0,
+        "volume": 3624315.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250405,
+        "open_price": 3668.0,
+        "high_price": 3885.0,
+        "low_price": 3668.0,
+        "close_price": 3702.0,
+        "volume": 7483550.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250330,
+        "open_price": 3734.0,
+        "high_price": 3734.0,
+        "low_price": 3734.0,
+        "close_price": 3781.0,
+        "volume": 3375026.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250329,
+        "open_price": 3775.0,
+        "high_price": 3775.0,
+        "low_price": 3775.0,
+        "close_price": 3849.0,
+        "volume": 2068384.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250326,
+        "open_price": 3826.0,
+        "high_price": 3826.0,
+        "low_price": 3826.0,
+        "close_price": 3891.0,
+        "volume": 2568257.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250325,
+        "open_price": 3970.0,
+        "high_price": 4062.0,
+        "low_price": 3831.0,
+        "close_price": 3944.0,
+        "volume": 2297176.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250318,
+        "open_price": 3874.0,
+        "high_price": 4040.0,
+        "low_price": 3874.0,
+        "close_price": 3944.0,
+        "volume": 2347114.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250317,
+        "open_price": 3900.0,
+        "high_price": 4071.0,
+        "low_price": 3861.0,
+        "close_price": 3993.0,
+        "volume": 3019964.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250316,
+        "open_price": 4030.0,
+        "high_price": 4100.0,
+        "low_price": 3890.0,
+        "close_price": 3953.0,
+        "volume": 3744822.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250315,
+        "open_price": 4040.0,
+        "high_price": 4067.0,
+        "low_price": 3951.0,
+        "close_price": 4010.0,
+        "volume": 4587132.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250312,
+        "open_price": 3860.0,
+        "high_price": 4098.0,
+        "low_price": 3860.0,
+        "close_price": 3949.0,
+        "volume": 4687620.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250311,
+        "open_price": 3910.0,
+        "high_price": 4140.0,
+        "low_price": 3903.0,
+        "close_price": 3979.0,
+        "volume": 2195661.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250310,
+        "open_price": 4022.0,
+        "high_price": 4169.0,
+        "low_price": 4022.0,
+        "close_price": 4023.0,
+        "volume": 5792668.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250309,
+        "open_price": 4069.0,
+        "high_price": 4215.0,
+        "low_price": 4068.0,
+        "close_price": 4146.0,
+        "volume": 2137716.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250308,
+        "open_price": 4220.0,
+        "high_price": 4309.0,
+        "low_price": 4073.0,
+        "close_price": 4193.0,
+        "volume": 3716295.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250305,
+        "open_price": 4210.0,
+        "high_price": 4328.0,
+        "low_price": 4169.0,
+        "close_price": 4198.0,
+        "volume": 4580296.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250304,
+        "open_price": 4350.0,
+        "high_price": 4420.0,
+        "low_price": 4164.0,
+        "close_price": 4297.0,
+        "volume": 2806090.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250303,
+        "open_price": 4240.0,
+        "high_price": 4431.0,
+        "low_price": 4185.0,
+        "close_price": 4292.0,
+        "volume": 11065518.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250302,
+        "open_price": 4263.0,
+        "high_price": 4460.0,
+        "low_price": 4263.0,
+        "close_price": 4314.0,
+        "volume": 8578842.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250301,
+        "open_price": 4250.0,
+        "high_price": 4510.0,
+        "low_price": 4250.0,
+        "close_price": 4394.0,
+        "volume": 8473883.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250226,
+        "open_price": 4357.0,
+        "high_price": 4550.0,
+        "low_price": 4357.0,
+        "close_price": 4381.0,
+        "volume": 8377283.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250225,
+        "open_price": 4640.0,
+        "high_price": 4677.0,
+        "low_price": 4405.0,
+        "close_price": 4491.0,
+        "volume": 7297735.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250224,
+        "open_price": 4370.0,
+        "high_price": 4630.0,
+        "low_price": 4370.0,
+        "close_price": 4541.0,
+        "volume": 7341410.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250223,
+        "open_price": 4431.0,
+        "high_price": 4431.0,
+        "low_price": 4431.0,
+        "close_price": 4505.0,
+        "volume": 2610993.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250222,
+        "open_price": 4485.0,
+        "high_price": 4485.0,
+        "low_price": 4485.0,
+        "close_price": 4568.0,
+        "volume": 2293887.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250219,
+        "open_price": 4780.0,
+        "high_price": 4879.0,
+        "low_price": 4599.0,
+        "close_price": 4623.0,
+        "volume": 5920165.0
+    },
+    {
+        "symbol": "لبوتان",
+        "trade_date": 20250218,
+        "open_price": 4781.0,
+        "high_price": 4876.0,
+        "low_price": 4620.0,
+        "close_price": 4741.0,
+        "volume": 6625491.0
+    }
+]

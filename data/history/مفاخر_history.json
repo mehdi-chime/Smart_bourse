@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260901,
+        "open_price": 11020.0,
+        "high_price": 11020.0,
+        "low_price": 10380.0,
+        "close_price": 10780.0,
+        "volume": 8993923.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260831,
+        "open_price": 10500.0,
+        "high_price": 10740.0,
+        "low_price": 10160.0,
+        "close_price": 10700.0,
+        "volume": 17849461.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260829,
+        "open_price": 10500.0,
+        "high_price": 10600.0,
+        "low_price": 10000.0,
+        "close_price": 10430.0,
+        "volume": 30399966.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260826,
+        "open_price": 10430.0,
+        "high_price": 10580.0,
+        "low_price": 10070.0,
+        "close_price": 10300.0,
+        "volume": 6159801.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260825,
+        "open_price": 10390.0,
+        "high_price": 10390.0,
+        "low_price": 10150.0,
+        "close_price": 10290.0,
+        "volume": 5627471.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260824,
+        "open_price": 10090.0,
+        "high_price": 10100.0,
+        "low_price": 10020.0,
+        "close_price": 10090.0,
+        "volume": 3079682.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260823,
+        "open_price": 9760.0,
+        "high_price": 9850.0,
+        "low_price": 9630.0,
+        "close_price": 9810.0,
+        "volume": 15973496.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260822,
+        "open_price": 9540.0,
+        "high_price": 9640.0,
+        "low_price": 9190.0,
+        "close_price": 9570.0,
+        "volume": 5271385.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260819,
+        "open_price": 9800.0,
+        "high_price": 9800.0,
+        "low_price": 9340.0,
+        "close_price": 9360.0,
+        "volume": 3307821.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260818,
+        "open_price": 9900.0,
+        "high_price": 9900.0,
+        "low_price": 9340.0,
+        "close_price": 9620.0,
+        "volume": 8544906.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260817,
+        "open_price": 9620.0,
+        "high_price": 9620.0,
+        "low_price": 9620.0,
+        "close_price": 9620.0,
+        "volume": 2075129.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260816,
+        "open_price": 8970.0,
+        "high_price": 9510.0,
+        "low_price": 8970.0,
+        "close_price": 9340.0,
+        "volume": 4552745.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260815,
+        "open_price": 9610.0,
+        "high_price": 9610.0,
+        "low_price": 9220.0,
+        "close_price": 9240.0,
+        "volume": 9239856.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260811,
+        "open_price": 9740.0,
+        "high_price": 9800.0,
+        "low_price": 9440.0,
+        "close_price": 9500.0,
+        "volume": 8046034.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260810,
+        "open_price": 9520.0,
+        "high_price": 9980.0,
+        "low_price": 9520.0,
+        "close_price": 9730.0,
+        "volume": 8472724.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260809,
+        "open_price": 10100.0,
+        "high_price": 10100.0,
+        "low_price": 9520.0,
+        "close_price": 9760.0,
+        "volume": 32788115.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260808,
+        "open_price": 9810.0,
+        "high_price": 9810.0,
+        "low_price": 9810.0,
+        "close_price": 9810.0,
+        "volume": 1339241.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260805,
+        "open_price": 9530.0,
+        "high_price": 9530.0,
+        "low_price": 9530.0,
+        "close_price": 9530.0,
+        "volume": 7713658.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260803,
+        "open_price": 9270.0,
+        "high_price": 9270.0,
+        "low_price": 9100.0,
+        "close_price": 9260.0,
+        "volume": 31413911.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260802,
+        "open_price": 9160.0,
+        "high_price": 9440.0,
+        "low_price": 8930.0,
+        "close_price": 9000.0,
+        "volume": 10141001.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260801,
+        "open_price": 9160.0,
+        "high_price": 9590.0,
+        "low_price": 9160.0,
+        "close_price": 9200.0,
+        "volume": 23442276.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260729,
+        "open_price": 9440.0,
+        "high_price": 9440.0,
+        "low_price": 9440.0,
+        "close_price": 9440.0,
+        "volume": 1749046.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260728,
+        "open_price": 9730.0,
+        "high_price": 9730.0,
+        "low_price": 9730.0,
+        "close_price": 9730.0,
+        "volume": 3878764.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260727,
+        "open_price": 10030.0,
+        "high_price": 10030.0,
+        "low_price": 10030.0,
+        "close_price": 10030.0,
+        "volume": 1156164.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260726,
+        "open_price": 10180.0,
+        "high_price": 10710.0,
+        "low_price": 10180.0,
+        "close_price": 10340.0,
+        "volume": 5710244.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260725,
+        "open_price": 10270.0,
+        "high_price": 10870.0,
+        "low_price": 10250.0,
+        "close_price": 10490.0,
+        "volume": 14726247.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260722,
+        "open_price": 10610.0,
+        "high_price": 10610.0,
+        "low_price": 10020.0,
+        "close_price": 10560.0,
+        "volume": 12010875.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260721,
+        "open_price": 10310.0,
+        "high_price": 10310.0,
+        "low_price": 10310.0,
+        "close_price": 10310.0,
+        "volume": 3315656.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260720,
+        "open_price": 10010.0,
+        "high_price": 10010.0,
+        "low_price": 10000.0,
+        "close_price": 10010.0,
+        "volume": 5807123.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260719,
+        "open_price": 9700.0,
+        "high_price": 9720.0,
+        "low_price": 9680.0,
+        "close_price": 9720.0,
+        "volume": 7799919.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260718,
+        "open_price": 9510.0,
+        "high_price": 9510.0,
+        "low_price": 8970.0,
+        "close_price": 9440.0,
+        "volume": 26274673.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260715,
+        "open_price": 9240.0,
+        "high_price": 9240.0,
+        "low_price": 9240.0,
+        "close_price": 9240.0,
+        "volume": 6009759.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260714,
+        "open_price": 8980.0,
+        "high_price": 8980.0,
+        "low_price": 8980.0,
+        "close_price": 8980.0,
+        "volume": 4260296.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260713,
+        "open_price": 8720.0,
+        "high_price": 8720.0,
+        "low_price": 8720.0,
+        "close_price": 8720.0,
+        "volume": 3369937.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260712,
+        "open_price": 8390.0,
+        "high_price": 8660.0,
+        "low_price": 8160.0,
+        "close_price": 8470.0,
+        "volume": 12773741.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260711,
+        "open_price": 8410.0,
+        "high_price": 8410.0,
+        "low_price": 8410.0,
+        "close_price": 8410.0,
+        "volume": 2359247.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260708,
+        "open_price": 8180.0,
+        "high_price": 8180.0,
+        "low_price": 7970.0,
+        "close_price": 8170.0,
+        "volume": 22267017.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260707,
+        "open_price": 7950.0,
+        "high_price": 7950.0,
+        "low_price": 7950.0,
+        "close_price": 7950.0,
+        "volume": 212908.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260701,
+        "open_price": 7720.0,
+        "high_price": 7720.0,
+        "low_price": 7720.0,
+        "close_price": 7720.0,
+        "volume": 1493251.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260630,
+        "open_price": 7500.0,
+        "high_price": 7500.0,
+        "low_price": 7500.0,
+        "close_price": 7500.0,
+        "volume": 1608372.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260629,
+        "open_price": 7290.0,
+        "high_price": 7290.0,
+        "low_price": 7290.0,
+        "close_price": 7290.0,
+        "volume": 5908013.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260628,
+        "open_price": 7080.0,
+        "high_price": 7080.0,
+        "low_price": 7080.0,
+        "close_price": 7080.0,
+        "volume": 1797363.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260627,
+        "open_price": 6880.0,
+        "high_price": 6880.0,
+        "low_price": 6880.0,
+        "close_price": 6880.0,
+        "volume": 1913870.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260623,
+        "open_price": 6600.0,
+        "high_price": 6910.0,
+        "low_price": 6600.0,
+        "close_price": 6680.0,
+        "volume": 5821012.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260622,
+        "open_price": 6790.0,
+        "high_price": 6900.0,
+        "low_price": 6790.0,
+        "close_price": 6800.0,
+        "volume": 1325806.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260621,
+        "open_price": 7100.0,
+        "high_price": 7100.0,
+        "low_price": 7000.0,
+        "close_price": 7000.0,
+        "volume": 1116519.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260620,
+        "open_price": 7590.0,
+        "high_price": 7590.0,
+        "low_price": 7150.0,
+        "close_price": 7210.0,
+        "volume": 4678454.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260617,
+        "open_price": 7140.0,
+        "high_price": 7540.0,
+        "low_price": 7140.0,
+        "close_price": 7370.0,
+        "volume": 6161693.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260616,
+        "open_price": 7620.0,
+        "high_price": 7620.0,
+        "low_price": 7180.0,
+        "close_price": 7360.0,
+        "volume": 20047441.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260615,
+        "open_price": 7400.0,
+        "high_price": 7400.0,
+        "low_price": 7400.0,
+        "close_price": 7400.0,
+        "volume": 876195.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260614,
+        "open_price": 7190.0,
+        "high_price": 7190.0,
+        "low_price": 7190.0,
+        "close_price": 7190.0,
+        "volume": 1369244.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260613,
+        "open_price": 6990.0,
+        "high_price": 6990.0,
+        "low_price": 6990.0,
+        "close_price": 6990.0,
+        "volume": 1029531.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260610,
+        "open_price": 6850.0,
+        "high_price": 6880.0,
+        "low_price": 6480.0,
+        "close_price": 6790.0,
+        "volume": 9407684.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260609,
+        "open_price": 6560.0,
+        "high_price": 6700.0,
+        "low_price": 6560.0,
+        "close_price": 6680.0,
+        "volume": 2460318.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260608,
+        "open_price": 6510.0,
+        "high_price": 6520.0,
+        "low_price": 6510.0,
+        "close_price": 6510.0,
+        "volume": 1371609.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260607,
+        "open_price": 6590.0,
+        "high_price": 6800.0,
+        "low_price": 6590.0,
+        "close_price": 6710.0,
+        "volume": 5617572.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260606,
+        "open_price": 6500.0,
+        "high_price": 6770.0,
+        "low_price": 6500.0,
+        "close_price": 6640.0,
+        "volume": 3177865.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260603,
+        "open_price": 6790.0,
+        "high_price": 6790.0,
+        "low_price": 6580.0,
+        "close_price": 6590.0,
+        "volume": 3514897.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260602,
+        "open_price": 6600.0,
+        "high_price": 6940.0,
+        "low_price": 6550.0,
+        "close_price": 6780.0,
+        "volume": 9316343.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260601,
+        "open_price": 6780.0,
+        "high_price": 6780.0,
+        "low_price": 6640.0,
+        "close_price": 6750.0,
+        "volume": 14160944.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260531,
+        "open_price": 6590.0,
+        "high_price": 6590.0,
+        "low_price": 6590.0,
+        "close_price": 6590.0,
+        "volume": 788849.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260530,
+        "open_price": 6330.0,
+        "high_price": 6410.0,
+        "low_price": 6300.0,
+        "close_price": 6400.0,
+        "volume": 6949282.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260526,
+        "open_price": 6230.0,
+        "high_price": 6400.0,
+        "low_price": 6230.0,
+        "close_price": 6230.0,
+        "volume": 11435172.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260525,
+        "open_price": 6720.0,
+        "high_price": 6720.0,
+        "low_price": 6340.0,
+        "close_price": 6420.0,
+        "volume": 10932517.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260524,
+        "open_price": 6530.0,
+        "high_price": 6530.0,
+        "low_price": 6530.0,
+        "close_price": 6530.0,
+        "volume": 562517.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260523,
+        "open_price": 6210.0,
+        "high_price": 6390.0,
+        "low_price": 6210.0,
+        "close_price": 6340.0,
+        "volume": 20491216.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260520,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5960.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260519,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5960.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5960.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5960.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5960.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5960.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5960.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5960.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5960.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5960.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5960.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5960.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5960.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5960.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5960.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5960.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5960.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5960.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5960.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5970.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5970.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5970.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5970.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5970.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5970.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5970.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5970.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5970.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5970.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5970.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5970.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5970.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5970.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5970.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5970.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5970.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5970.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5970.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5970.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5970.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5970.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5970.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5970.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5970.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5970.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5970.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5970.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5970.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5970.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5970.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 5970.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260225,
+        "open_price": 5740.0,
+        "high_price": 6080.0,
+        "low_price": 5740.0,
+        "close_price": 5970.0,
+        "volume": 4801795.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260224,
+        "open_price": 5910.0,
+        "high_price": 5910.0,
+        "low_price": 5910.0,
+        "close_price": 5910.0,
+        "volume": 994190.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260223,
+        "open_price": 6030.0,
+        "high_price": 6270.0,
+        "low_price": 6030.0,
+        "close_price": 6090.0,
+        "volume": 1594184.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260222,
+        "open_price": 6210.0,
+        "high_price": 6210.0,
+        "low_price": 6210.0,
+        "close_price": 6210.0,
+        "volume": 709399.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260221,
+        "open_price": 6410.0,
+        "high_price": 6410.0,
+        "low_price": 6400.0,
+        "close_price": 6400.0,
+        "volume": 1138186.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260218,
+        "open_price": 6600.0,
+        "high_price": 6600.0,
+        "low_price": 6400.0,
+        "close_price": 6590.0,
+        "volume": 8871208.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260217,
+        "open_price": 6410.0,
+        "high_price": 6410.0,
+        "low_price": 6410.0,
+        "close_price": 6410.0,
+        "volume": 1185755.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260216,
+        "open_price": 6230.0,
+        "high_price": 6230.0,
+        "low_price": 6220.0,
+        "close_price": 6230.0,
+        "volume": 2742221.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260215,
+        "open_price": 5860.0,
+        "high_price": 6200.0,
+        "low_price": 5840.0,
+        "close_price": 6050.0,
+        "volume": 3903659.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260214,
+        "open_price": 6130.0,
+        "high_price": 6150.0,
+        "low_price": 6000.0,
+        "close_price": 6020.0,
+        "volume": 1548218.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260210,
+        "open_price": 6170.0,
+        "high_price": 6250.0,
+        "low_price": 6170.0,
+        "close_price": 6180.0,
+        "volume": 1513817.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260209,
+        "open_price": 6520.0,
+        "high_price": 6520.0,
+        "low_price": 6360.0,
+        "close_price": 6360.0,
+        "volume": 1335394.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260208,
+        "open_price": 6650.0,
+        "high_price": 6720.0,
+        "low_price": 6420.0,
+        "close_price": 6550.0,
+        "volume": 2928702.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260207,
+        "open_price": 6440.0,
+        "high_price": 6670.0,
+        "low_price": 6440.0,
+        "close_price": 6610.0,
+        "volume": 2955856.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260203,
+        "open_price": 6600.0,
+        "high_price": 6760.0,
+        "low_price": 6420.0,
+        "close_price": 6480.0,
+        "volume": 1512351.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260202,
+        "open_price": 6670.0,
+        "high_price": 6840.0,
+        "low_price": 6470.0,
+        "close_price": 6610.0,
+        "volume": 4331094.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260201,
+        "open_price": 6610.0,
+        "high_price": 6740.0,
+        "low_price": 6550.0,
+        "close_price": 6670.0,
+        "volume": 3863913.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260131,
+        "open_price": 6330.0,
+        "high_price": 6560.0,
+        "low_price": 6330.0,
+        "close_price": 6550.0,
+        "volume": 6156775.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260128,
+        "open_price": 6340.0,
+        "high_price": 6520.0,
+        "low_price": 6250.0,
+        "close_price": 6370.0,
+        "volume": 2646432.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260127,
+        "open_price": 6350.0,
+        "high_price": 6440.0,
+        "low_price": 6350.0,
+        "close_price": 6360.0,
+        "volume": 3728715.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260126,
+        "open_price": 6560.0,
+        "high_price": 6750.0,
+        "low_price": 6370.0,
+        "close_price": 6540.0,
+        "volume": 8311032.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260125,
+        "open_price": 6250.0,
+        "high_price": 6620.0,
+        "low_price": 6250.0,
+        "close_price": 6560.0,
+        "volume": 4359472.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260124,
+        "open_price": 6370.0,
+        "high_price": 6640.0,
+        "low_price": 6340.0,
+        "close_price": 6430.0,
+        "volume": 4330984.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260121,
+        "open_price": 6420.0,
+        "high_price": 6600.0,
+        "low_price": 6300.0,
+        "close_price": 6530.0,
+        "volume": 2322266.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260120,
+        "open_price": 6130.0,
+        "high_price": 6450.0,
+        "low_price": 6130.0,
+        "close_price": 6410.0,
+        "volume": 2625763.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260119,
+        "open_price": 6310.0,
+        "high_price": 6500.0,
+        "low_price": 6160.0,
+        "close_price": 6270.0,
+        "volume": 2314284.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260118,
+        "open_price": 6400.0,
+        "high_price": 6420.0,
+        "low_price": 6320.0,
+        "close_price": 6350.0,
+        "volume": 1172075.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260114,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260113,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6330.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260112,
+        "open_price": 6380.0,
+        "high_price": 6650.0,
+        "low_price": 6280.0,
+        "close_price": 6330.0,
+        "volume": 7083403.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260111,
+        "open_price": 6470.0,
+        "high_price": 6470.0,
+        "low_price": 6470.0,
+        "close_price": 6470.0,
+        "volume": 771434.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260110,
+        "open_price": 6670.0,
+        "high_price": 6670.0,
+        "low_price": 6670.0,
+        "close_price": 6670.0,
+        "volume": 397643.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260107,
+        "open_price": 7160.0,
+        "high_price": 7160.0,
+        "low_price": 6850.0,
+        "close_price": 6870.0,
+        "volume": 1684431.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260106,
+        "open_price": 7200.0,
+        "high_price": 7200.0,
+        "low_price": 6940.0,
+        "close_price": 7060.0,
+        "volume": 4275216.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260105,
+        "open_price": 6960.0,
+        "high_price": 7200.0,
+        "low_price": 6960.0,
+        "close_price": 7030.0,
+        "volume": 7320435.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20260104,
+        "open_price": 7160.0,
+        "high_price": 7210.0,
+        "low_price": 7160.0,
+        "close_price": 7170.0,
+        "volume": 182952.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251231,
+        "open_price": 7380.0,
+        "high_price": 7380.0,
+        "low_price": 7380.0,
+        "close_price": 7380.0,
+        "volume": 1447498.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251230,
+        "open_price": 7380.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 7600.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251229,
+        "open_price": 7800.0,
+        "high_price": 7800.0,
+        "low_price": 7550.0,
+        "close_price": 7600.0,
+        "volume": 561198.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251228,
+        "open_price": 7830.0,
+        "high_price": 7830.0,
+        "low_price": 7620.0,
+        "close_price": 7780.0,
+        "volume": 1489231.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251227,
+        "open_price": 7630.0,
+        "high_price": 7630.0,
+        "low_price": 7450.0,
+        "close_price": 7610.0,
+        "volume": 3389505.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251224,
+        "open_price": 7430.0,
+        "high_price": 7450.0,
+        "low_price": 7080.0,
+        "close_price": 7410.0,
+        "volume": 5731324.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251223,
+        "open_price": 7240.0,
+        "high_price": 7240.0,
+        "low_price": 7230.0,
+        "close_price": 7240.0,
+        "volume": 4030222.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251222,
+        "open_price": 7030.0,
+        "high_price": 7030.0,
+        "low_price": 7030.0,
+        "close_price": 7030.0,
+        "volume": 955857.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251221,
+        "open_price": 6920.0,
+        "high_price": 6920.0,
+        "low_price": 6920.0,
+        "close_price": 6830.0,
+        "volume": 1228515.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251220,
+        "open_price": 6870.0,
+        "high_price": 6870.0,
+        "low_price": 6870.0,
+        "close_price": 6720.0,
+        "volume": 605457.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251217,
+        "open_price": 6670.0,
+        "high_price": 6710.0,
+        "low_price": 6500.0,
+        "close_price": 6670.0,
+        "volume": 1933500.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251216,
+        "open_price": 6620.0,
+        "high_price": 6660.0,
+        "low_price": 6450.0,
+        "close_price": 6520.0,
+        "volume": 1512758.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251215,
+        "open_price": 6430.0,
+        "high_price": 6600.0,
+        "low_price": 6430.0,
+        "close_price": 6470.0,
+        "volume": 971248.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251214,
+        "open_price": 6530.0,
+        "high_price": 6580.0,
+        "low_price": 6380.0,
+        "close_price": 6430.0,
+        "volume": 1106998.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251213,
+        "open_price": 6350.0,
+        "high_price": 6460.0,
+        "low_price": 6350.0,
+        "close_price": 6420.0,
+        "volume": 1934546.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251210,
+        "open_price": 6270.0,
+        "high_price": 6380.0,
+        "low_price": 6240.0,
+        "close_price": 6280.0,
+        "volume": 1303116.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251209,
+        "open_price": 6300.0,
+        "high_price": 6330.0,
+        "low_price": 6190.0,
+        "close_price": 6260.0,
+        "volume": 1002775.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251208,
+        "open_price": 6380.0,
+        "high_price": 6380.0,
+        "low_price": 6180.0,
+        "close_price": 6270.0,
+        "volume": 1985013.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251207,
+        "open_price": 6470.0,
+        "high_price": 6470.0,
+        "low_price": 6260.0,
+        "close_price": 6370.0,
+        "volume": 703312.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251206,
+        "open_price": 6350.0,
+        "high_price": 6480.0,
+        "low_price": 6350.0,
+        "close_price": 6390.0,
+        "volume": 893151.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251203,
+        "open_price": 6470.0,
+        "high_price": 6480.0,
+        "low_price": 6330.0,
+        "close_price": 6390.0,
+        "volume": 333930.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251202,
+        "open_price": 6380.0,
+        "high_price": 6460.0,
+        "low_price": 6310.0,
+        "close_price": 6390.0,
+        "volume": 1831698.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251201,
+        "open_price": 6500.0,
+        "high_price": 6540.0,
+        "low_price": 6360.0,
+        "close_price": 6500.0,
+        "volume": 417472.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251130,
+        "open_price": 6420.0,
+        "high_price": 6650.0,
+        "low_price": 6360.0,
+        "close_price": 6520.0,
+        "volume": 385744.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251129,
+        "open_price": 6440.0,
+        "high_price": 6580.0,
+        "low_price": 6430.0,
+        "close_price": 6540.0,
+        "volume": 381404.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251126,
+        "open_price": 6650.0,
+        "high_price": 6660.0,
+        "low_price": 6470.0,
+        "close_price": 6550.0,
+        "volume": 1637232.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251125,
+        "open_price": 6530.0,
+        "high_price": 6610.0,
+        "low_price": 6400.0,
+        "close_price": 6560.0,
+        "volume": 3253617.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251123,
+        "open_price": 6380.0,
+        "high_price": 6580.0,
+        "low_price": 6380.0,
+        "close_price": 6420.0,
+        "volume": 885917.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251122,
+        "open_price": 6330.0,
+        "high_price": 6490.0,
+        "low_price": 6260.0,
+        "close_price": 6390.0,
+        "volume": 1420625.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251119,
+        "open_price": 6370.0,
+        "high_price": 6610.0,
+        "low_price": 6320.0,
+        "close_price": 6430.0,
+        "volume": 1653407.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251118,
+        "open_price": 6670.0,
+        "high_price": 6670.0,
+        "low_price": 6360.0,
+        "close_price": 6510.0,
+        "volume": 556376.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251117,
+        "open_price": 6450.0,
+        "high_price": 6600.0,
+        "low_price": 6450.0,
+        "close_price": 6540.0,
+        "volume": 966206.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251116,
+        "open_price": 6450.0,
+        "high_price": 6640.0,
+        "low_price": 6450.0,
+        "close_price": 6570.0,
+        "volume": 1896333.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251115,
+        "open_price": 6520.0,
+        "high_price": 6670.0,
+        "low_price": 6460.0,
+        "close_price": 6570.0,
+        "volume": 1097100.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251112,
+        "open_price": 6600.0,
+        "high_price": 6650.0,
+        "low_price": 6490.0,
+        "close_price": 6640.0,
+        "volume": 730492.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251111,
+        "open_price": 6780.0,
+        "high_price": 6780.0,
+        "low_price": 6530.0,
+        "close_price": 6680.0,
+        "volume": 647092.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251110,
+        "open_price": 6620.0,
+        "high_price": 6640.0,
+        "low_price": 6610.0,
+        "close_price": 6730.0,
+        "volume": 843106.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251109,
+        "open_price": 6750.0,
+        "high_price": 6950.0,
+        "low_price": 6690.0,
+        "close_price": 6810.0,
+        "volume": 843849.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251108,
+        "open_price": 6770.0,
+        "high_price": 7070.0,
+        "low_price": 6750.0,
+        "close_price": 6890.0,
+        "volume": 973047.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251105,
+        "open_price": 6930.0,
+        "high_price": 7090.0,
+        "low_price": 6880.0,
+        "close_price": 6940.0,
+        "volume": 1874057.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251104,
+        "open_price": 7170.0,
+        "high_price": 7260.0,
+        "low_price": 6990.0,
+        "close_price": 7090.0,
+        "volume": 1781194.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251103,
+        "open_price": 6930.0,
+        "high_price": 7200.0,
+        "low_price": 6920.0,
+        "close_price": 7080.0,
+        "volume": 1764471.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251102,
+        "open_price": 6930.0,
+        "high_price": 7080.0,
+        "low_price": 6930.0,
+        "close_price": 7110.0,
+        "volume": 304719.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251101,
+        "open_price": 7100.0,
+        "high_price": 7250.0,
+        "low_price": 6930.0,
+        "close_price": 7120.0,
+        "volume": 1303027.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251029,
+        "open_price": 6970.0,
+        "high_price": 7110.0,
+        "low_price": 6970.0,
+        "close_price": 7040.0,
+        "volume": 624138.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251028,
+        "open_price": 6790.0,
+        "high_price": 7080.0,
+        "low_price": 6790.0,
+        "close_price": 7050.0,
+        "volume": 3389717.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251027,
+        "open_price": 7030.0,
+        "high_price": 7080.0,
+        "low_price": 6850.0,
+        "close_price": 6880.0,
+        "volume": 6780217.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251026,
+        "open_price": 7260.0,
+        "high_price": 7280.0,
+        "low_price": 6860.0,
+        "close_price": 7060.0,
+        "volume": 6600778.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251025,
+        "open_price": 7070.0,
+        "high_price": 7070.0,
+        "low_price": 7030.0,
+        "close_price": 7070.0,
+        "volume": 7101689.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251022,
+        "open_price": 6890.0,
+        "high_price": 6890.0,
+        "low_price": 6890.0,
+        "close_price": 6870.0,
+        "volume": 2174149.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251021,
+        "open_price": 6690.0,
+        "high_price": 6690.0,
+        "low_price": 6690.0,
+        "close_price": 6690.0,
+        "volume": 2507736.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251020,
+        "open_price": 6390.0,
+        "high_price": 6510.0,
+        "low_price": 6350.0,
+        "close_price": 6500.0,
+        "volume": 5151934.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251019,
+        "open_price": 6450.0,
+        "high_price": 6450.0,
+        "low_price": 6270.0,
+        "close_price": 6330.0,
+        "volume": 981335.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251018,
+        "open_price": 6430.0,
+        "high_price": 6450.0,
+        "low_price": 6310.0,
+        "close_price": 6330.0,
+        "volume": 1144778.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251015,
+        "open_price": 6510.0,
+        "high_price": 6510.0,
+        "low_price": 6240.0,
+        "close_price": 6280.0,
+        "volume": 1919467.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251014,
+        "open_price": 6520.0,
+        "high_price": 6550.0,
+        "low_price": 6320.0,
+        "close_price": 6430.0,
+        "volume": 1491792.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251013,
+        "open_price": 6530.0,
+        "high_price": 6740.0,
+        "low_price": 6400.0,
+        "close_price": 6510.0,
+        "volume": 2553379.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251012,
+        "open_price": 6620.0,
+        "high_price": 6640.0,
+        "low_price": 6450.0,
+        "close_price": 6590.0,
+        "volume": 2386895.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251011,
+        "open_price": 6450.0,
+        "high_price": 6450.0,
+        "low_price": 6360.0,
+        "close_price": 6450.0,
+        "volume": 5531478.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251008,
+        "open_price": 6170.0,
+        "high_price": 6550.0,
+        "low_price": 6170.0,
+        "close_price": 6270.0,
+        "volume": 4136209.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251007,
+        "open_price": 6360.0,
+        "high_price": 6480.0,
+        "low_price": 6330.0,
+        "close_price": 6360.0,
+        "volume": 2356043.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251006,
+        "open_price": 6720.0,
+        "high_price": 6720.0,
+        "low_price": 6520.0,
+        "close_price": 6520.0,
+        "volume": 2594083.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251005,
+        "open_price": 6690.0,
+        "high_price": 6920.0,
+        "low_price": 6650.0,
+        "close_price": 6720.0,
+        "volume": 1533359.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251004,
+        "open_price": 6650.0,
+        "high_price": 6990.0,
+        "low_price": 6650.0,
+        "close_price": 6850.0,
+        "volume": 696903.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20251001,
+        "open_price": 6790.0,
+        "high_price": 6790.0,
+        "low_price": 6790.0,
+        "close_price": 6840.0,
+        "volume": 1581474.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250930,
+        "open_price": 6820.0,
+        "high_price": 6830.0,
+        "low_price": 6820.0,
+        "close_price": 7000.0,
+        "volume": 283294.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250929,
+        "open_price": 7080.0,
+        "high_price": 7270.0,
+        "low_price": 6920.0,
+        "close_price": 7030.0,
+        "volume": 1394920.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250928,
+        "open_price": 7020.0,
+        "high_price": 7360.0,
+        "low_price": 7020.0,
+        "close_price": 7130.0,
+        "volume": 4170743.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250927,
+        "open_price": 7080.0,
+        "high_price": 7080.0,
+        "low_price": 7080.0,
+        "close_price": 7230.0,
+        "volume": 587140.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250924,
+        "open_price": 7090.0,
+        "high_price": 7090.0,
+        "low_price": 7090.0,
+        "close_price": 7290.0,
+        "volume": 93593.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250923,
+        "open_price": 7130.0,
+        "high_price": 7130.0,
+        "low_price": 7110.0,
+        "close_price": 7300.0,
+        "volume": 213593.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250922,
+        "open_price": 7350.0,
+        "high_price": 7410.0,
+        "low_price": 7100.0,
+        "close_price": 7320.0,
+        "volume": 4402010.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250921,
+        "open_price": 6840.0,
+        "high_price": 7220.0,
+        "low_price": 6840.0,
+        "close_price": 7200.0,
+        "volume": 5287537.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250920,
+        "open_price": 6900.0,
+        "high_price": 7030.0,
+        "low_price": 6790.0,
+        "close_price": 7010.0,
+        "volume": 4232076.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250917,
+        "open_price": 6830.0,
+        "high_price": 6850.0,
+        "low_price": 6710.0,
+        "close_price": 6830.0,
+        "volume": 2812558.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250916,
+        "open_price": 6700.0,
+        "high_price": 6700.0,
+        "low_price": 6690.0,
+        "close_price": 6660.0,
+        "volume": 1859829.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250915,
+        "open_price": 6570.0,
+        "high_price": 6570.0,
+        "low_price": 6510.0,
+        "close_price": 6510.0,
+        "volume": 1735324.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250914,
+        "open_price": 6400.0,
+        "high_price": 6440.0,
+        "low_price": 6400.0,
+        "close_price": 6380.0,
+        "volume": 1667017.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250913,
+        "open_price": 6350.0,
+        "high_price": 6360.0,
+        "low_price": 6230.0,
+        "close_price": 6260.0,
+        "volume": 1353637.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250909,
+        "open_price": 6300.0,
+        "high_price": 6310.0,
+        "low_price": 6120.0,
+        "close_price": 6180.0,
+        "volume": 826711.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250908,
+        "open_price": 6280.0,
+        "high_price": 6280.0,
+        "low_price": 6190.0,
+        "close_price": 6130.0,
+        "volume": 383417.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250907,
+        "open_price": 6070.0,
+        "high_price": 6230.0,
+        "low_price": 6070.0,
+        "close_price": 6100.0,
+        "volume": 661025.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250906,
+        "open_price": 6030.0,
+        "high_price": 6210.0,
+        "low_price": 6030.0,
+        "close_price": 6050.0,
+        "volume": 137476.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250903,
+        "open_price": 6150.0,
+        "high_price": 6180.0,
+        "low_price": 6120.0,
+        "close_price": 6040.0,
+        "volume": 620622.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250902,
+        "open_price": 6150.0,
+        "high_price": 6150.0,
+        "low_price": 6100.0,
+        "close_price": 6000.0,
+        "volume": 430424.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250831,
+        "open_price": 6090.0,
+        "high_price": 6090.0,
+        "low_price": 5920.0,
+        "close_price": 5980.0,
+        "volume": 888494.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250830,
+        "open_price": 6050.0,
+        "high_price": 6050.0,
+        "low_price": 5820.0,
+        "close_price": 5920.0,
+        "volume": 1208490.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250827,
+        "open_price": 5990.0,
+        "high_price": 6000.0,
+        "low_price": 5830.0,
+        "close_price": 5920.0,
+        "volume": 1825345.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250826,
+        "open_price": 5640.0,
+        "high_price": 5960.0,
+        "low_price": 5640.0,
+        "close_price": 5830.0,
+        "volume": 907329.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250825,
+        "open_price": 5750.0,
+        "high_price": 5910.0,
+        "low_price": 5640.0,
+        "close_price": 5790.0,
+        "volume": 374649.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250823,
+        "open_price": 5940.0,
+        "high_price": 5940.0,
+        "low_price": 5740.0,
+        "close_price": 5810.0,
+        "volume": 175142.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250820,
+        "open_price": 5950.0,
+        "high_price": 5950.0,
+        "low_price": 5700.0,
+        "close_price": 5810.0,
+        "volume": 271297.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250819,
+        "open_price": 5750.0,
+        "high_price": 5960.0,
+        "low_price": 5650.0,
+        "close_price": 5810.0,
+        "volume": 542857.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250818,
+        "open_price": 5890.0,
+        "high_price": 5970.0,
+        "low_price": 5810.0,
+        "close_price": 5820.0,
+        "volume": 355179.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250817,
+        "open_price": 5900.0,
+        "high_price": 5960.0,
+        "low_price": 5700.0,
+        "close_price": 5800.0,
+        "volume": 698937.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250816,
+        "open_price": 5660.0,
+        "high_price": 5920.0,
+        "low_price": 5660.0,
+        "close_price": 5790.0,
+        "volume": 701833.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250813,
+        "open_price": 5930.0,
+        "high_price": 5930.0,
+        "low_price": 5660.0,
+        "close_price": 5770.0,
+        "volume": 366971.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250812,
+        "open_price": 5880.0,
+        "high_price": 5900.0,
+        "low_price": 5750.0,
+        "close_price": 5770.0,
+        "volume": 743184.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250811,
+        "open_price": 5790.0,
+        "high_price": 5810.0,
+        "low_price": 5790.0,
+        "close_price": 5730.0,
+        "volume": 1320744.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250810,
+        "open_price": 5740.0,
+        "high_price": 5760.0,
+        "low_price": 5730.0,
+        "close_price": 5650.0,
+        "volume": 802781.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250809,
+        "open_price": 5720.0,
+        "high_price": 5740.0,
+        "low_price": 5700.0,
+        "close_price": 5600.0,
+        "volume": 296503.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250806,
+        "open_price": 5580.0,
+        "high_price": 5690.0,
+        "low_price": 5570.0,
+        "close_price": 5580.0,
+        "volume": 656564.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250805,
+        "open_price": 5440.0,
+        "high_price": 5550.0,
+        "low_price": 5440.0,
+        "close_price": 5570.0,
+        "volume": 477835.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250804,
+        "open_price": 5460.0,
+        "high_price": 5470.0,
+        "low_price": 5460.0,
+        "close_price": 5600.0,
+        "volume": 280390.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250803,
+        "open_price": 5500.0,
+        "high_price": 5550.0,
+        "low_price": 5470.0,
+        "close_price": 5620.0,
+        "volume": 252092.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250802,
+        "open_price": 5510.0,
+        "high_price": 5610.0,
+        "low_price": 5510.0,
+        "close_price": 5630.0,
+        "volume": 848225.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250730,
+        "open_price": 5520.0,
+        "high_price": 5520.0,
+        "low_price": 5520.0,
+        "close_price": 5680.0,
+        "volume": 101246.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250729,
+        "open_price": 5530.0,
+        "high_price": 5540.0,
+        "low_price": 5530.0,
+        "close_price": 5690.0,
+        "volume": 101367.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250728,
+        "open_price": 5560.0,
+        "high_price": 5560.0,
+        "low_price": 5540.0,
+        "close_price": 5700.0,
+        "volume": 193111.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250727,
+        "open_price": 5570.0,
+        "high_price": 5590.0,
+        "low_price": 5560.0,
+        "close_price": 5710.0,
+        "volume": 298431.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250726,
+        "open_price": 5670.0,
+        "high_price": 5670.0,
+        "low_price": 5610.0,
+        "close_price": 5730.0,
+        "volume": 751511.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250723,
+        "open_price": 5730.0,
+        "high_price": 5880.0,
+        "low_price": 5640.0,
+        "close_price": 5780.0,
+        "volume": 523249.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250722,
+        "open_price": 5900.0,
+        "high_price": 5980.0,
+        "low_price": 5810.0,
+        "close_price": 5810.0,
+        "volume": 221248.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250721,
+        "open_price": 5880.0,
+        "high_price": 5880.0,
+        "low_price": 5730.0,
+        "close_price": 5810.0,
+        "volume": 117377.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250720,
+        "open_price": 5700.0,
+        "high_price": 5900.0,
+        "low_price": 5700.0,
+        "close_price": 5810.0,
+        "volume": 575633.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250719,
+        "open_price": 5870.0,
+        "high_price": 5870.0,
+        "low_price": 5710.0,
+        "close_price": 5810.0,
+        "volume": 153971.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250716,
+        "open_price": 5850.0,
+        "high_price": 5880.0,
+        "low_price": 5790.0,
+        "close_price": 5810.0,
+        "volume": 1251923.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250715,
+        "open_price": 5670.0,
+        "high_price": 5880.0,
+        "low_price": 5640.0,
+        "close_price": 5800.0,
+        "volume": 1141118.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250714,
+        "open_price": 5820.0,
+        "high_price": 5860.0,
+        "low_price": 5680.0,
+        "close_price": 5800.0,
+        "volume": 812353.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250713,
+        "open_price": 5690.0,
+        "high_price": 5700.0,
+        "low_price": 5660.0,
+        "close_price": 5810.0,
+        "volume": 276872.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250712,
+        "open_price": 5760.0,
+        "high_price": 6020.0,
+        "low_price": 5740.0,
+        "close_price": 5830.0,
+        "volume": 1477191.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250709,
+        "open_price": 5780.0,
+        "high_price": 6060.0,
+        "low_price": 5760.0,
+        "close_price": 5910.0,
+        "volume": 246338.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250708,
+        "open_price": 5800.0,
+        "high_price": 5800.0,
+        "low_price": 5780.0,
+        "close_price": 5930.0,
+        "volume": 298786.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250707,
+        "open_price": 6050.0,
+        "high_price": 6080.0,
+        "low_price": 5840.0,
+        "close_price": 5950.0,
+        "volume": 732480.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250702,
+        "open_price": 5880.0,
+        "high_price": 6150.0,
+        "low_price": 5880.0,
+        "close_price": 5910.0,
+        "volume": 6081499.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250701,
+        "open_price": 5890.0,
+        "high_price": 5890.0,
+        "low_price": 5890.0,
+        "close_price": 6060.0,
+        "volume": 116865.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250630,
+        "open_price": 6070.0,
+        "high_price": 6070.0,
+        "low_price": 6070.0,
+        "close_price": 6070.0,
+        "volume": 9688168.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250629,
+        "open_price": 6210.0,
+        "high_price": 6210.0,
+        "low_price": 6210.0,
+        "close_price": 6250.0,
+        "volume": 1846219.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250628,
+        "open_price": 6310.0,
+        "high_price": 6310.0,
+        "low_price": 6310.0,
+        "close_price": 6400.0,
+        "volume": 1228452.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6500.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6500.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6500.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6500.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6500.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6500.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6500.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6500.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250611,
+        "open_price": 6340.0,
+        "high_price": 6640.0,
+        "low_price": 6340.0,
+        "close_price": 6500.0,
+        "volume": 794836.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250610,
+        "open_price": 6530.0,
+        "high_price": 6610.0,
+        "low_price": 6440.0,
+        "close_price": 6500.0,
+        "volume": 1741615.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250609,
+        "open_price": 6690.0,
+        "high_price": 6790.0,
+        "low_price": 6630.0,
+        "close_price": 6630.0,
+        "volume": 2334360.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250608,
+        "open_price": 6750.0,
+        "high_price": 6990.0,
+        "low_price": 6750.0,
+        "close_price": 6830.0,
+        "volume": 1394040.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250607,
+        "open_price": 6950.0,
+        "high_price": 6960.0,
+        "low_price": 6950.0,
+        "close_price": 6950.0,
+        "volume": 2648474.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250603,
+        "open_price": 7200.0,
+        "high_price": 7370.0,
+        "low_price": 7150.0,
+        "close_price": 7160.0,
+        "volume": 2064369.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250602,
+        "open_price": 7330.0,
+        "high_price": 7500.0,
+        "low_price": 7310.0,
+        "close_price": 7370.0,
+        "volume": 1284358.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250601,
+        "open_price": 7410.0,
+        "high_price": 7410.0,
+        "low_price": 7300.0,
+        "close_price": 7300.0,
+        "volume": 3132656.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250531,
+        "open_price": 7570.0,
+        "high_price": 7700.0,
+        "low_price": 7410.0,
+        "close_price": 7520.0,
+        "volume": 1180071.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250528,
+        "open_price": 7720.0,
+        "high_price": 7860.0,
+        "low_price": 7600.0,
+        "close_price": 7630.0,
+        "volume": 2127095.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250527,
+        "open_price": 7800.0,
+        "high_price": 7900.0,
+        "low_price": 7780.0,
+        "close_price": 7830.0,
+        "volume": 1768035.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250526,
+        "open_price": 7930.0,
+        "high_price": 7930.0,
+        "low_price": 7610.0,
+        "close_price": 7780.0,
+        "volume": 2120547.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250525,
+        "open_price": 8050.0,
+        "high_price": 8090.0,
+        "low_price": 7650.0,
+        "close_price": 7720.0,
+        "volume": 3425405.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250524,
+        "open_price": 7910.0,
+        "high_price": 7920.0,
+        "low_price": 7760.0,
+        "close_price": 7880.0,
+        "volume": 1727198.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250521,
+        "open_price": 7430.0,
+        "high_price": 7870.0,
+        "low_price": 7430.0,
+        "close_price": 7690.0,
+        "volume": 7439936.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250520,
+        "open_price": 7500.0,
+        "high_price": 7690.0,
+        "low_price": 7330.0,
+        "close_price": 7650.0,
+        "volume": 4030038.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250519,
+        "open_price": 7300.0,
+        "high_price": 7660.0,
+        "low_price": 7220.0,
+        "close_price": 7470.0,
+        "volume": 6708548.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250518,
+        "open_price": 7500.0,
+        "high_price": 7580.0,
+        "low_price": 7360.0,
+        "close_price": 7440.0,
+        "volume": 1407573.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250517,
+        "open_price": 7060.0,
+        "high_price": 7430.0,
+        "low_price": 7030.0,
+        "close_price": 7360.0,
+        "volume": 3367424.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250514,
+        "open_price": 7200.0,
+        "high_price": 7240.0,
+        "low_price": 7060.0,
+        "close_price": 7220.0,
+        "volume": 4100945.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250513,
+        "open_price": 6860.0,
+        "high_price": 7070.0,
+        "low_price": 6720.0,
+        "close_price": 7030.0,
+        "volume": 3683721.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250512,
+        "open_price": 6950.0,
+        "high_price": 6950.0,
+        "low_price": 6950.0,
+        "close_price": 6870.0,
+        "volume": 1251237.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250511,
+        "open_price": 6740.0,
+        "high_price": 6740.0,
+        "low_price": 6740.0,
+        "close_price": 6750.0,
+        "volume": 1989849.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250510,
+        "open_price": 6940.0,
+        "high_price": 6940.0,
+        "low_price": 6940.0,
+        "close_price": 6940.0,
+        "volume": 2209060.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250507,
+        "open_price": 7400.0,
+        "high_price": 7400.0,
+        "low_price": 6980.0,
+        "close_price": 7150.0,
+        "volume": 7039075.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250506,
+        "open_price": 7240.0,
+        "high_price": 7240.0,
+        "low_price": 7240.0,
+        "close_price": 7190.0,
+        "volume": 1765888.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250505,
+        "open_price": 7110.0,
+        "high_price": 7110.0,
+        "low_price": 7100.0,
+        "close_price": 7030.0,
+        "volume": 1361515.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250504,
+        "open_price": 6900.0,
+        "high_price": 6910.0,
+        "low_price": 6830.0,
+        "close_price": 6910.0,
+        "volume": 3361436.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250503,
+        "open_price": 6640.0,
+        "high_price": 6790.0,
+        "low_price": 6420.0,
+        "close_price": 6710.0,
+        "volume": 5326658.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250430,
+        "open_price": 6500.0,
+        "high_price": 6600.0,
+        "low_price": 6450.0,
+        "close_price": 6600.0,
+        "volume": 7712708.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250429,
+        "open_price": 6260.0,
+        "high_price": 6540.0,
+        "low_price": 6250.0,
+        "close_price": 6410.0,
+        "volume": 1335882.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250428,
+        "open_price": 6500.0,
+        "high_price": 6630.0,
+        "low_price": 6250.0,
+        "close_price": 6370.0,
+        "volume": 2622883.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250427,
+        "open_price": 6640.0,
+        "high_price": 6640.0,
+        "low_price": 6280.0,
+        "close_price": 6440.0,
+        "volume": 1401490.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250426,
+        "open_price": 6490.0,
+        "high_price": 6490.0,
+        "low_price": 6330.0,
+        "close_price": 6470.0,
+        "volume": 2544132.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250423,
+        "open_price": 6370.0,
+        "high_price": 6370.0,
+        "low_price": 6170.0,
+        "close_price": 6310.0,
+        "volume": 2074294.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250422,
+        "open_price": 6100.0,
+        "high_price": 6300.0,
+        "low_price": 6100.0,
+        "close_price": 6190.0,
+        "volume": 1075999.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6170.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6170.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 6170.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250416,
+        "open_price": 6330.0,
+        "high_price": 6330.0,
+        "low_price": 6120.0,
+        "close_price": 6170.0,
+        "volume": 844421.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250415,
+        "open_price": 6110.0,
+        "high_price": 6330.0,
+        "low_price": 6080.0,
+        "close_price": 6170.0,
+        "volume": 4247328.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250414,
+        "open_price": 6510.0,
+        "high_price": 6510.0,
+        "low_price": 6220.0,
+        "close_price": 6260.0,
+        "volume": 2368551.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250413,
+        "open_price": 6370.0,
+        "high_price": 6510.0,
+        "low_price": 6370.0,
+        "close_price": 6410.0,
+        "volume": 1583262.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250412,
+        "open_price": 6320.0,
+        "high_price": 6470.0,
+        "low_price": 6200.0,
+        "close_price": 6330.0,
+        "volume": 1041584.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250409,
+        "open_price": 6450.0,
+        "high_price": 6450.0,
+        "low_price": 6320.0,
+        "close_price": 6390.0,
+        "volume": 1617212.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250408,
+        "open_price": 6500.0,
+        "high_price": 6640.0,
+        "low_price": 6500.0,
+        "close_price": 6510.0,
+        "volume": 1052590.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250407,
+        "open_price": 6470.0,
+        "high_price": 6560.0,
+        "low_price": 6430.0,
+        "close_price": 6450.0,
+        "volume": 2183024.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250406,
+        "open_price": 6350.0,
+        "high_price": 6700.0,
+        "low_price": 6350.0,
+        "close_price": 6620.0,
+        "volume": 1560549.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250405,
+        "open_price": 6300.0,
+        "high_price": 6660.0,
+        "low_price": 6280.0,
+        "close_price": 6510.0,
+        "volume": 2607813.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250330,
+        "open_price": 6420.0,
+        "high_price": 6650.0,
+        "low_price": 6400.0,
+        "close_price": 6470.0,
+        "volume": 3142501.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250329,
+        "open_price": 6480.0,
+        "high_price": 6750.0,
+        "low_price": 6480.0,
+        "close_price": 6590.0,
+        "volume": 1105966.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250326,
+        "open_price": 6700.0,
+        "high_price": 6850.0,
+        "low_price": 6680.0,
+        "close_price": 6680.0,
+        "volume": 2136337.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250325,
+        "open_price": 6890.0,
+        "high_price": 7070.0,
+        "low_price": 6740.0,
+        "close_price": 6880.0,
+        "volume": 941067.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250318,
+        "open_price": 6890.0,
+        "high_price": 6890.0,
+        "low_price": 6890.0,
+        "close_price": 6940.0,
+        "volume": 1553114.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250317,
+        "open_price": 7070.0,
+        "high_price": 7070.0,
+        "low_price": 7070.0,
+        "close_price": 7100.0,
+        "volume": 1800534.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250316,
+        "open_price": 7200.0,
+        "high_price": 7380.0,
+        "low_price": 7130.0,
+        "close_price": 7280.0,
+        "volume": 714299.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250315,
+        "open_price": 7010.0,
+        "high_price": 7380.0,
+        "low_price": 7010.0,
+        "close_price": 7350.0,
+        "volume": 2255100.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250312,
+        "open_price": 7110.0,
+        "high_price": 7220.0,
+        "low_price": 7110.0,
+        "close_price": 7170.0,
+        "volume": 1504631.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250311,
+        "open_price": 7550.0,
+        "high_price": 7550.0,
+        "low_price": 7160.0,
+        "close_price": 7320.0,
+        "volume": 559911.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250310,
+        "open_price": 7180.0,
+        "high_price": 7620.0,
+        "low_price": 7180.0,
+        "close_price": 7380.0,
+        "volume": 10226323.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250309,
+        "open_price": 7200.0,
+        "high_price": 7200.0,
+        "low_price": 7200.0,
+        "close_price": 7400.0,
+        "volume": 152580.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250308,
+        "open_price": 7540.0,
+        "high_price": 7540.0,
+        "low_price": 7120.0,
+        "close_price": 7420.0,
+        "volume": 11816038.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250305,
+        "open_price": 7330.0,
+        "high_price": 7330.0,
+        "low_price": 7330.0,
+        "close_price": 7330.0,
+        "volume": 10421424.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250304,
+        "open_price": 7140.0,
+        "high_price": 7150.0,
+        "low_price": 7140.0,
+        "close_price": 7120.0,
+        "volume": 1904294.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250303,
+        "open_price": 7000.0,
+        "high_price": 7060.0,
+        "low_price": 6660.0,
+        "close_price": 6950.0,
+        "volume": 3207164.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250302,
+        "open_price": 6980.0,
+        "high_price": 6980.0,
+        "low_price": 6980.0,
+        "close_price": 6860.0,
+        "volume": 857051.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250301,
+        "open_price": 6500.0,
+        "high_price": 6830.0,
+        "low_price": 6500.0,
+        "close_price": 6780.0,
+        "volume": 1764455.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250226,
+        "open_price": 6560.0,
+        "high_price": 6700.0,
+        "low_price": 6480.0,
+        "close_price": 6640.0,
+        "volume": 872859.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250225,
+        "open_price": 6790.0,
+        "high_price": 6840.0,
+        "low_price": 6630.0,
+        "close_price": 6680.0,
+        "volume": 651959.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250224,
+        "open_price": 6610.0,
+        "high_price": 6780.0,
+        "low_price": 6610.0,
+        "close_price": 6660.0,
+        "volume": 990913.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250223,
+        "open_price": 6480.0,
+        "high_price": 6710.0,
+        "low_price": 6480.0,
+        "close_price": 6620.0,
+        "volume": 1281263.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250222,
+        "open_price": 6750.0,
+        "high_price": 6760.0,
+        "low_price": 6510.0,
+        "close_price": 6670.0,
+        "volume": 588969.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250219,
+        "open_price": 6610.0,
+        "high_price": 6760.0,
+        "low_price": 6570.0,
+        "close_price": 6710.0,
+        "volume": 1048153.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250218,
+        "open_price": 6620.0,
+        "high_price": 6720.0,
+        "low_price": 6610.0,
+        "close_price": 6740.0,
+        "volume": 798186.0
+    },
+    {
+        "symbol": "مفاخر",
+        "trade_date": 20250217,
+        "open_price": 6870.0,
+        "high_price": 6870.0,
+        "low_price": 6700.0,
+        "close_price": 6810.0,
+        "volume": 1002580.0
+    }
+]

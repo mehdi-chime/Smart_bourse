@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260901,
+        "open_price": 34125.0,
+        "high_price": 35965.0,
+        "low_price": 34125.0,
+        "close_price": 35266.0,
+        "volume": 167782.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260831,
+        "open_price": 35092.0,
+        "high_price": 35232.0,
+        "low_price": 35092.0,
+        "close_price": 35180.0,
+        "volume": 13018.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260829,
+        "open_price": 35264.0,
+        "high_price": 35977.0,
+        "low_price": 35219.0,
+        "close_price": 35437.0,
+        "volume": 185305.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260826,
+        "open_price": 34878.0,
+        "high_price": 35175.0,
+        "low_price": 34878.0,
+        "close_price": 34930.0,
+        "volume": 58103.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260825,
+        "open_price": 34312.0,
+        "high_price": 34392.0,
+        "low_price": 34312.0,
+        "close_price": 34362.0,
+        "volume": 153205.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260824,
+        "open_price": 33127.0,
+        "high_price": 33895.0,
+        "low_price": 33127.0,
+        "close_price": 33676.0,
+        "volume": 383060.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260823,
+        "open_price": 33537.0,
+        "high_price": 33884.0,
+        "low_price": 33107.0,
+        "close_price": 33632.0,
+        "volume": 204504.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260822,
+        "open_price": 32700.0,
+        "high_price": 32930.0,
+        "low_price": 32700.0,
+        "close_price": 32898.0,
+        "volume": 113414.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260819,
+        "open_price": 32673.0,
+        "high_price": 32815.0,
+        "low_price": 32349.0,
+        "close_price": 32367.0,
+        "volume": 153044.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260818,
+        "open_price": 32900.0,
+        "high_price": 32923.0,
+        "low_price": 32027.0,
+        "close_price": 32349.0,
+        "volume": 365338.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260817,
+        "open_price": 31507.0,
+        "high_price": 31972.0,
+        "low_price": 31507.0,
+        "close_price": 31968.0,
+        "volume": 519282.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260816,
+        "open_price": 31023.0,
+        "high_price": 31333.0,
+        "low_price": 31023.0,
+        "close_price": 31041.0,
+        "volume": 117545.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260815,
+        "open_price": 30737.0,
+        "high_price": 31306.0,
+        "low_price": 30736.0,
+        "close_price": 30869.0,
+        "volume": 85874.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260811,
+        "open_price": 31048.0,
+        "high_price": 31349.0,
+        "low_price": 31038.0,
+        "close_price": 31047.0,
+        "volume": 233682.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260810,
+        "open_price": 30340.0,
+        "high_price": 30729.0,
+        "low_price": 30340.0,
+        "close_price": 30440.0,
+        "volume": 398685.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260809,
+        "open_price": 30151.0,
+        "high_price": 30170.0,
+        "low_price": 29586.0,
+        "close_price": 30138.0,
+        "volume": 782047.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260808,
+        "open_price": 29580.0,
+        "high_price": 29581.0,
+        "low_price": 29299.0,
+        "close_price": 29550.0,
+        "volume": 540952.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260805,
+        "open_price": 28724.0,
+        "high_price": 28724.0,
+        "low_price": 28566.0,
+        "close_price": 28720.0,
+        "volume": 624718.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260803,
+        "open_price": 27311.0,
+        "high_price": 28000.0,
+        "low_price": 27311.0,
+        "close_price": 27888.0,
+        "volume": 416815.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260802,
+        "open_price": 27073.0,
+        "high_price": 27480.0,
+        "low_price": 26981.0,
+        "close_price": 27311.0,
+        "volume": 377077.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260801,
+        "open_price": 26934.0,
+        "high_price": 27044.0,
+        "low_price": 26920.0,
+        "close_price": 26979.0,
+        "volume": 358111.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260729,
+        "open_price": 26910.0,
+        "high_price": 27048.0,
+        "low_price": 26910.0,
+        "close_price": 26915.0,
+        "volume": 50906.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260728,
+        "open_price": 27071.0,
+        "high_price": 27071.0,
+        "low_price": 26821.0,
+        "close_price": 26959.0,
+        "volume": 230725.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260727,
+        "open_price": 26761.0,
+        "high_price": 27010.0,
+        "low_price": 26561.0,
+        "close_price": 26671.0,
+        "volume": 70292.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260726,
+        "open_price": 26237.0,
+        "high_price": 26237.0,
+        "low_price": 26237.0,
+        "close_price": 26237.0,
+        "volume": 77367.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260725,
+        "open_price": 25599.0,
+        "high_price": 25599.0,
+        "low_price": 25420.0,
+        "close_price": 25473.0,
+        "volume": 158390.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260722,
+        "open_price": 25490.0,
+        "high_price": 25490.0,
+        "low_price": 25100.0,
+        "close_price": 25218.0,
+        "volume": 498329.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260721,
+        "open_price": 25310.0,
+        "high_price": 25400.0,
+        "low_price": 24811.0,
+        "close_price": 25098.0,
+        "volume": 623162.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260720,
+        "open_price": 24672.0,
+        "high_price": 24900.0,
+        "low_price": 24211.0,
+        "close_price": 24692.0,
+        "volume": 650332.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260719,
+        "open_price": 24248.0,
+        "high_price": 24248.0,
+        "low_price": 24100.0,
+        "close_price": 24189.0,
+        "volume": 301000.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260718,
+        "open_price": 24245.0,
+        "high_price": 24245.0,
+        "low_price": 24245.0,
+        "close_price": 24245.0,
+        "volume": 10000.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260715,
+        "open_price": 24930.0,
+        "high_price": 24930.0,
+        "low_price": 24930.0,
+        "close_price": 24930.0,
+        "volume": 2000.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260714,
+        "open_price": 24554.0,
+        "high_price": 25306.0,
+        "low_price": 24554.0,
+        "close_price": 24585.0,
+        "volume": 52211.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260713,
+        "open_price": 25051.0,
+        "high_price": 25061.0,
+        "low_price": 25051.0,
+        "close_price": 25056.0,
+        "volume": 59325.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260712,
+        "open_price": 25770.0,
+        "high_price": 25770.0,
+        "low_price": 25508.0,
+        "close_price": 25563.0,
+        "volume": 473169.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260711,
+        "open_price": 26296.0,
+        "high_price": 26297.0,
+        "low_price": 26296.0,
+        "close_price": 26296.0,
+        "volume": 63300.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260708,
+        "open_price": 26390.0,
+        "high_price": 26999.0,
+        "low_price": 26390.0,
+        "close_price": 26833.0,
+        "volume": 361617.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260707,
+        "open_price": 26791.0,
+        "high_price": 27200.0,
+        "low_price": 26791.0,
+        "close_price": 26922.0,
+        "volume": 58170.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260701,
+        "open_price": 26703.0,
+        "high_price": 27247.0,
+        "low_price": 26000.0,
+        "close_price": 26541.0,
+        "volume": 303281.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260630,
+        "open_price": 26573.0,
+        "high_price": 26591.0,
+        "low_price": 26308.0,
+        "close_price": 26454.0,
+        "volume": 122804.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260629,
+        "open_price": 25705.0,
+        "high_price": 26219.0,
+        "low_price": 25705.0,
+        "close_price": 26063.0,
+        "volume": 3819316.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260628,
+        "open_price": 25461.0,
+        "high_price": 25978.0,
+        "low_price": 25461.0,
+        "close_price": 25705.0,
+        "volume": 104673.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260627,
+        "open_price": 25860.0,
+        "high_price": 26370.0,
+        "low_price": 25853.0,
+        "close_price": 25980.0,
+        "volume": 21077.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260623,
+        "open_price": 25301.0,
+        "high_price": 25934.0,
+        "low_price": 25301.0,
+        "close_price": 25853.0,
+        "volume": 181197.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260622,
+        "open_price": 25275.0,
+        "high_price": 25695.0,
+        "low_price": 24925.0,
+        "close_price": 25301.0,
+        "volume": 234136.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260621,
+        "open_price": 26206.0,
+        "high_price": 26206.0,
+        "low_price": 25693.0,
+        "close_price": 25695.0,
+        "volume": 446436.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260620,
+        "open_price": 26500.0,
+        "high_price": 26836.0,
+        "low_price": 26000.0,
+        "close_price": 26487.0,
+        "volume": 884594.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260617,
+        "open_price": 26091.0,
+        "high_price": 26100.0,
+        "low_price": 25569.0,
+        "close_price": 26056.0,
+        "volume": 225304.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260616,
+        "open_price": 25848.0,
+        "high_price": 25848.0,
+        "low_price": 25840.0,
+        "close_price": 25848.0,
+        "volume": 1708317.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260615,
+        "open_price": 25096.0,
+        "high_price": 25096.0,
+        "low_price": 25096.0,
+        "close_price": 25096.0,
+        "volume": 916397.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260614,
+        "open_price": 24366.0,
+        "high_price": 24366.0,
+        "low_price": 24366.0,
+        "close_price": 24366.0,
+        "volume": 500487.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260613,
+        "open_price": 23657.0,
+        "high_price": 23657.0,
+        "low_price": 23657.0,
+        "close_price": 23657.0,
+        "volume": 500000.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260610,
+        "open_price": 22981.0,
+        "high_price": 22981.0,
+        "low_price": 22559.0,
+        "close_price": 22968.0,
+        "volume": 1106684.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260609,
+        "open_price": 22311.0,
+        "high_price": 22312.0,
+        "low_price": 22311.0,
+        "close_price": 22312.0,
+        "volume": 563789.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260608,
+        "open_price": 21663.0,
+        "high_price": 21663.0,
+        "low_price": 21663.0,
+        "close_price": 21663.0,
+        "volume": 262778.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260607,
+        "open_price": 22192.0,
+        "high_price": 22363.0,
+        "low_price": 22155.0,
+        "close_price": 22332.0,
+        "volume": 499629.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260606,
+        "open_price": 21051.0,
+        "high_price": 21797.0,
+        "low_price": 21051.0,
+        "close_price": 21712.0,
+        "volume": 129497.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260603,
+        "open_price": 22061.0,
+        "high_price": 22061.0,
+        "low_price": 21050.0,
+        "close_price": 21441.0,
+        "volume": 392504.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260602,
+        "open_price": 21777.0,
+        "high_price": 21800.0,
+        "low_price": 21300.0,
+        "close_price": 21635.0,
+        "volume": 937880.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260601,
+        "open_price": 21724.0,
+        "high_price": 21724.0,
+        "low_price": 21100.0,
+        "close_price": 21574.0,
+        "volume": 814411.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260531,
+        "open_price": 21091.0,
+        "high_price": 21092.0,
+        "low_price": 21091.0,
+        "close_price": 21092.0,
+        "volume": 560334.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260530,
+        "open_price": 20324.0,
+        "high_price": 20523.0,
+        "low_price": 20324.0,
+        "close_price": 20478.0,
+        "volume": 1041826.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260526,
+        "open_price": 20106.0,
+        "high_price": 20294.0,
+        "low_price": 19705.0,
+        "close_price": 19926.0,
+        "volume": 859681.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260525,
+        "open_price": 20299.0,
+        "high_price": 20319.0,
+        "low_price": 19575.0,
+        "close_price": 19919.0,
+        "volume": 866705.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260524,
+        "open_price": 19744.0,
+        "high_price": 19744.0,
+        "low_price": 19744.0,
+        "close_price": 19744.0,
+        "volume": 1730821.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260523,
+        "open_price": 19067.0,
+        "high_price": 19170.0,
+        "low_price": 19067.0,
+        "close_price": 19169.0,
+        "volume": 630000.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260520,
+        "open_price": 18503.0,
+        "high_price": 18710.0,
+        "low_price": 18503.0,
+        "close_price": 18612.0,
+        "volume": 9454.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260519,
+        "open_price": 18269.0,
+        "high_price": 19399.0,
+        "low_price": 18269.0,
+        "close_price": 18357.0,
+        "volume": 7728.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260225,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260224,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18834.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260223,
+        "open_price": 18620.0,
+        "high_price": 18990.0,
+        "low_price": 18620.0,
+        "close_price": 18834.0,
+        "volume": 1001.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260222,
+        "open_price": 19370.0,
+        "high_price": 19370.0,
+        "low_price": 19080.0,
+        "close_price": 19088.0,
+        "volume": 9270.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260221,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 19670.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260218,
+        "open_price": 19980.0,
+        "high_price": 19980.0,
+        "low_price": 19610.0,
+        "close_price": 19670.0,
+        "volume": 703.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260217,
+        "open_price": 19980.0,
+        "high_price": 19980.0,
+        "low_price": 19980.0,
+        "close_price": 19980.0,
+        "volume": 254.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260216,
+        "open_price": 19400.0,
+        "high_price": 19400.0,
+        "low_price": 19400.0,
+        "close_price": 19400.0,
+        "volume": 778.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260215,
+        "open_price": 19970.0,
+        "high_price": 19980.0,
+        "low_price": 19970.0,
+        "close_price": 19970.0,
+        "volume": 2090.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260214,
+        "open_price": 21250.0,
+        "high_price": 21250.0,
+        "low_price": 20270.0,
+        "close_price": 20580.0,
+        "volume": 30549.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260210,
+        "open_price": 20640.0,
+        "high_price": 20640.0,
+        "low_price": 20630.0,
+        "close_price": 20640.0,
+        "volume": 11198.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260209,
+        "open_price": 21070.0,
+        "high_price": 21070.0,
+        "low_price": 21060.0,
+        "close_price": 21060.0,
+        "volume": 15000.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260208,
+        "open_price": 21710.0,
+        "high_price": 21710.0,
+        "low_price": 21710.0,
+        "close_price": 21710.0,
+        "volume": 250.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260207,
+        "open_price": 21810.0,
+        "high_price": 21810.0,
+        "low_price": 21670.0,
+        "close_price": 21670.0,
+        "volume": 833012.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260203,
+        "open_price": 21200.0,
+        "high_price": 21200.0,
+        "low_price": 21200.0,
+        "close_price": 21200.0,
+        "volume": 50.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260202,
+        "open_price": 21200.0,
+        "high_price": 21200.0,
+        "low_price": 20800.0,
+        "close_price": 20830.0,
+        "volume": 11048.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260201,
+        "open_price": 20800.0,
+        "high_price": 20800.0,
+        "low_price": 20800.0,
+        "close_price": 20800.0,
+        "volume": 12400.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260131,
+        "open_price": 21030.0,
+        "high_price": 21030.0,
+        "low_price": 21030.0,
+        "close_price": 21030.0,
+        "volume": 76784.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260128,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 21680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260127,
+        "open_price": 21350.0,
+        "high_price": 22010.0,
+        "low_price": 21350.0,
+        "close_price": 21680.0,
+        "volume": 83940.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260126,
+        "open_price": 22010.0,
+        "high_price": 22010.0,
+        "low_price": 22010.0,
+        "close_price": 22010.0,
+        "volume": 279553.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260125,
+        "open_price": 22690.0,
+        "high_price": 22970.0,
+        "low_price": 22690.0,
+        "close_price": 22690.0,
+        "volume": 507810.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260124,
+        "open_price": 23420.0,
+        "high_price": 23420.0,
+        "low_price": 22630.0,
+        "close_price": 23390.0,
+        "volume": 103627.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260121,
+        "open_price": 23620.0,
+        "high_price": 23620.0,
+        "low_price": 22330.0,
+        "close_price": 23320.0,
+        "volume": 1326429.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260120,
+        "open_price": 23650.0,
+        "high_price": 23650.0,
+        "low_price": 22800.0,
+        "close_price": 22980.0,
+        "volume": 186712.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260119,
+        "open_price": 22670.0,
+        "high_price": 23120.0,
+        "low_price": 22600.0,
+        "close_price": 22990.0,
+        "volume": 445227.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260118,
+        "open_price": 21780.0,
+        "high_price": 22670.0,
+        "low_price": 21780.0,
+        "close_price": 22450.0,
+        "volume": 640860.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260114,
+        "open_price": 22030.0,
+        "high_price": 22770.0,
+        "low_price": 22010.0,
+        "close_price": 22010.0,
+        "volume": 569095.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260113,
+        "open_price": 22730.0,
+        "high_price": 22740.0,
+        "low_price": 22260.0,
+        "close_price": 22690.0,
+        "volume": 132266.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260112,
+        "open_price": 22420.0,
+        "high_price": 22810.0,
+        "low_price": 22400.0,
+        "close_price": 22480.0,
+        "volume": 160534.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260111,
+        "open_price": 21850.0,
+        "high_price": 22260.0,
+        "low_price": 21790.0,
+        "close_price": 22160.0,
+        "volume": 274782.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260110,
+        "open_price": 22450.0,
+        "high_price": 22470.0,
+        "low_price": 22450.0,
+        "close_price": 22450.0,
+        "volume": 522728.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260107,
+        "open_price": 23250.0,
+        "high_price": 23270.0,
+        "low_price": 22800.0,
+        "close_price": 23140.0,
+        "volume": 1142831.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260106,
+        "open_price": 23020.0,
+        "high_price": 23020.0,
+        "low_price": 22900.0,
+        "close_price": 23010.0,
+        "volume": 1259488.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260105,
+        "open_price": 21760.0,
+        "high_price": 22400.0,
+        "low_price": 21760.0,
+        "close_price": 22350.0,
+        "volume": 2026536.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20260104,
+        "open_price": 22590.0,
+        "high_price": 22590.0,
+        "low_price": 21700.0,
+        "close_price": 21750.0,
+        "volume": 547486.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251231,
+        "open_price": 21870.0,
+        "high_price": 22330.0,
+        "low_price": 21870.0,
+        "close_price": 21980.0,
+        "volume": 563056.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251230,
+        "open_price": 22110.0,
+        "high_price": 22110.0,
+        "low_price": 22100.0,
+        "close_price": 22100.0,
+        "volume": 556529.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251229,
+        "open_price": 22900.0,
+        "high_price": 22900.0,
+        "low_price": 22480.0,
+        "close_price": 22780.0,
+        "volume": 82146.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251228,
+        "open_price": 23420.0,
+        "high_price": 23420.0,
+        "low_price": 23000.0,
+        "close_price": 23160.0,
+        "volume": 192485.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251227,
+        "open_price": 23080.0,
+        "high_price": 23190.0,
+        "low_price": 22980.0,
+        "close_price": 23190.0,
+        "volume": 333310.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251224,
+        "open_price": 22310.0,
+        "high_price": 22530.0,
+        "low_price": 22120.0,
+        "close_price": 22520.0,
+        "volume": 614299.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251223,
+        "open_price": 21860.0,
+        "high_price": 21930.0,
+        "low_price": 21710.0,
+        "close_price": 21880.0,
+        "volume": 123718.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251222,
+        "open_price": 21820.0,
+        "high_price": 22000.0,
+        "low_price": 21810.0,
+        "close_price": 21860.0,
+        "volume": 500250.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251221,
+        "open_price": 21650.0,
+        "high_price": 21650.0,
+        "low_price": 21470.0,
+        "close_price": 21630.0,
+        "volume": 151000.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251220,
+        "open_price": 21060.0,
+        "high_price": 21490.0,
+        "low_price": 21060.0,
+        "close_price": 21460.0,
+        "volume": 328091.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251217,
+        "open_price": 20870.0,
+        "high_price": 21200.0,
+        "low_price": 20870.0,
+        "close_price": 20870.0,
+        "volume": 156597.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251216,
+        "open_price": 21390.0,
+        "high_price": 21390.0,
+        "low_price": 20480.0,
+        "close_price": 20680.0,
+        "volume": 716209.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251215,
+        "open_price": 20560.0,
+        "high_price": 20970.0,
+        "low_price": 20560.0,
+        "close_price": 20900.0,
+        "volume": 18856.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251214,
+        "open_price": 20250.0,
+        "high_price": 20480.0,
+        "low_price": 20100.0,
+        "close_price": 20360.0,
+        "volume": 103068.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251213,
+        "open_price": 20000.0,
+        "high_price": 20610.0,
+        "low_price": 20000.0,
+        "close_price": 20280.0,
+        "volume": 5900.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251210,
+        "open_price": 19980.0,
+        "high_price": 20300.0,
+        "low_price": 19920.0,
+        "close_price": 20030.0,
+        "volume": 60230.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251209,
+        "open_price": 19630.0,
+        "high_price": 19950.0,
+        "low_price": 19630.0,
+        "close_price": 19930.0,
+        "volume": 4836.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251208,
+        "open_price": 19400.0,
+        "high_price": 19750.0,
+        "low_price": 19400.0,
+        "close_price": 19530.0,
+        "volume": 48695.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251207,
+        "open_price": 19790.0,
+        "high_price": 19840.0,
+        "low_price": 19300.0,
+        "close_price": 19450.0,
+        "volume": 604140.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251206,
+        "open_price": 19330.0,
+        "high_price": 19370.0,
+        "low_price": 19220.0,
+        "close_price": 19320.0,
+        "volume": 391293.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251203,
+        "open_price": 18790.0,
+        "high_price": 18850.0,
+        "low_price": 18780.0,
+        "close_price": 18810.0,
+        "volume": 61023.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251202,
+        "open_price": 18650.0,
+        "high_price": 18690.0,
+        "low_price": 18600.0,
+        "close_price": 18660.0,
+        "volume": 75861.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251201,
+        "open_price": 18490.0,
+        "high_price": 18530.0,
+        "low_price": 18490.0,
+        "close_price": 18510.0,
+        "volume": 92652.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251130,
+        "open_price": 18290.0,
+        "high_price": 18450.0,
+        "low_price": 18210.0,
+        "close_price": 18230.0,
+        "volume": 1068997.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251129,
+        "open_price": 18500.0,
+        "high_price": 18500.0,
+        "low_price": 18100.0,
+        "close_price": 18400.0,
+        "volume": 669655.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251126,
+        "open_price": 18650.0,
+        "high_price": 18950.0,
+        "low_price": 18650.0,
+        "close_price": 18650.0,
+        "volume": 500110.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251125,
+        "open_price": 18050.0,
+        "high_price": 18790.0,
+        "low_price": 18050.0,
+        "close_price": 18540.0,
+        "volume": 1378529.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251123,
+        "open_price": 18100.0,
+        "high_price": 18420.0,
+        "low_price": 18060.0,
+        "close_price": 18250.0,
+        "volume": 1161204.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251122,
+        "open_price": 18470.0,
+        "high_price": 18470.0,
+        "low_price": 18000.0,
+        "close_price": 18150.0,
+        "volume": 515323.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251119,
+        "open_price": 18400.0,
+        "high_price": 18400.0,
+        "low_price": 18040.0,
+        "close_price": 18040.0,
+        "volume": 536276.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251118,
+        "open_price": 18380.0,
+        "high_price": 18480.0,
+        "low_price": 18130.0,
+        "close_price": 18380.0,
+        "volume": 2900300.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251117,
+        "open_price": 18140.0,
+        "high_price": 18250.0,
+        "low_price": 18140.0,
+        "close_price": 18220.0,
+        "volume": 512559.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251116,
+        "open_price": 18080.0,
+        "high_price": 18230.0,
+        "low_price": 18010.0,
+        "close_price": 18070.0,
+        "volume": 630819.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251115,
+        "open_price": 18040.0,
+        "high_price": 18050.0,
+        "low_price": 18040.0,
+        "close_price": 18040.0,
+        "volume": 520000.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251112,
+        "open_price": 18040.0,
+        "high_price": 18250.0,
+        "low_price": 18040.0,
+        "close_price": 18040.0,
+        "volume": 10060.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251111,
+        "open_price": 18240.0,
+        "high_price": 18240.0,
+        "low_price": 18110.0,
+        "close_price": 18110.0,
+        "volume": 2760000.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251110,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18430.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251109,
+        "open_price": 18510.0,
+        "high_price": 18510.0,
+        "low_price": 18260.0,
+        "close_price": 18430.0,
+        "volume": 70150.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251108,
+        "open_price": 18780.0,
+        "high_price": 18780.0,
+        "low_price": 18560.0,
+        "close_price": 18780.0,
+        "volume": 10051.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251105,
+        "open_price": 18580.0,
+        "high_price": 18850.0,
+        "low_price": 18580.0,
+        "close_price": 18740.0,
+        "volume": 1730.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251104,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18950.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251103,
+        "open_price": 18930.0,
+        "high_price": 19000.0,
+        "low_price": 18930.0,
+        "close_price": 18950.0,
+        "volume": 82000.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251102,
+        "open_price": 18600.0,
+        "high_price": 18770.0,
+        "low_price": 18600.0,
+        "close_price": 18730.0,
+        "volume": 3780.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251101,
+        "open_price": 19150.0,
+        "high_price": 19150.0,
+        "low_price": 18690.0,
+        "close_price": 18740.0,
+        "volume": 474052.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251029,
+        "open_price": 18800.0,
+        "high_price": 18830.0,
+        "low_price": 18800.0,
+        "close_price": 18800.0,
+        "volume": 79904.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251028,
+        "open_price": 18660.0,
+        "high_price": 18900.0,
+        "low_price": 18660.0,
+        "close_price": 18800.0,
+        "volume": 672.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251027,
+        "open_price": 18380.0,
+        "high_price": 18480.0,
+        "low_price": 18360.0,
+        "close_price": 18450.0,
+        "volume": 42263.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251026,
+        "open_price": 18320.0,
+        "high_price": 18320.0,
+        "low_price": 18230.0,
+        "close_price": 18300.0,
+        "volume": 21050.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251025,
+        "open_price": 18100.0,
+        "high_price": 18170.0,
+        "low_price": 18070.0,
+        "close_price": 18090.0,
+        "volume": 34966.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251022,
+        "open_price": 18050.0,
+        "high_price": 18170.0,
+        "low_price": 17920.0,
+        "close_price": 18090.0,
+        "volume": 109424.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251021,
+        "open_price": 18190.0,
+        "high_price": 18190.0,
+        "low_price": 17840.0,
+        "close_price": 17950.0,
+        "volume": 64162.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251020,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 18200.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251019,
+        "open_price": 18330.0,
+        "high_price": 18410.0,
+        "low_price": 17940.0,
+        "close_price": 18200.0,
+        "volume": 1916075.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251018,
+        "open_price": 18130.0,
+        "high_price": 18140.0,
+        "low_price": 17910.0,
+        "close_price": 18140.0,
+        "volume": 2260242.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251015,
+        "open_price": 17650.0,
+        "high_price": 18000.0,
+        "low_price": 17560.0,
+        "close_price": 17620.0,
+        "volume": 708120.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251014,
+        "open_price": 18320.0,
+        "high_price": 18320.0,
+        "low_price": 17920.0,
+        "close_price": 18020.0,
+        "volume": 698197.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251013,
+        "open_price": 18260.0,
+        "high_price": 18300.0,
+        "low_price": 17930.0,
+        "close_price": 18190.0,
+        "volume": 67072.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251012,
+        "open_price": 17880.0,
+        "high_price": 18180.0,
+        "low_price": 17880.0,
+        "close_price": 18040.0,
+        "volume": 607678.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251011,
+        "open_price": 17390.0,
+        "high_price": 17670.0,
+        "low_price": 17390.0,
+        "close_price": 17660.0,
+        "volume": 71502.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251008,
+        "open_price": 17660.0,
+        "high_price": 17660.0,
+        "low_price": 17100.0,
+        "close_price": 17270.0,
+        "volume": 2201666.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251007,
+        "open_price": 16900.0,
+        "high_price": 17260.0,
+        "low_price": 16900.0,
+        "close_price": 17250.0,
+        "volume": 2664842.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251006,
+        "open_price": 17470.0,
+        "high_price": 17480.0,
+        "low_price": 16850.0,
+        "close_price": 17080.0,
+        "volume": 2273988.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251005,
+        "open_price": 16970.0,
+        "high_price": 17250.0,
+        "low_price": 16970.0,
+        "close_price": 16980.0,
+        "volume": 412770.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251004,
+        "open_price": 16530.0,
+        "high_price": 16810.0,
+        "low_price": 16530.0,
+        "close_price": 16800.0,
+        "volume": 1229627.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20251001,
+        "open_price": 16510.0,
+        "high_price": 16520.0,
+        "low_price": 16270.0,
+        "close_price": 16330.0,
+        "volume": 41739.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250930,
+        "open_price": 16780.0,
+        "high_price": 16830.0,
+        "low_price": 16310.0,
+        "close_price": 16690.0,
+        "volume": 375817.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250929,
+        "open_price": 16630.0,
+        "high_price": 16630.0,
+        "low_price": 16550.0,
+        "close_price": 16620.0,
+        "volume": 1326644.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250928,
+        "open_price": 16140.0,
+        "high_price": 16150.0,
+        "low_price": 15920.0,
+        "close_price": 16150.0,
+        "volume": 3137095.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250927,
+        "open_price": 15680.0,
+        "high_price": 15680.0,
+        "low_price": 15670.0,
+        "close_price": 15680.0,
+        "volume": 3414300.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250924,
+        "open_price": 15230.0,
+        "high_price": 15230.0,
+        "low_price": 15230.0,
+        "close_price": 15230.0,
+        "volume": 3685.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250923,
+        "open_price": 15690.0,
+        "high_price": 15690.0,
+        "low_price": 15690.0,
+        "close_price": 15690.0,
+        "volume": 500.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250922,
+        "open_price": 15880.0,
+        "high_price": 15880.0,
+        "low_price": 15730.0,
+        "close_price": 15800.0,
+        "volume": 701.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250921,
+        "open_price": 15420.0,
+        "high_price": 15420.0,
+        "low_price": 15420.0,
+        "close_price": 15420.0,
+        "volume": 4560000.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250920,
+        "open_price": 15610.0,
+        "high_price": 15610.0,
+        "low_price": 15300.0,
+        "close_price": 15460.0,
+        "volume": 1279013.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250917,
+        "open_price": 16050.0,
+        "high_price": 16050.0,
+        "low_price": 15650.0,
+        "close_price": 15670.0,
+        "volume": 1151707.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250916,
+        "open_price": 16130.0,
+        "high_price": 16130.0,
+        "low_price": 15850.0,
+        "close_price": 15860.0,
+        "volume": 506886.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250915,
+        "open_price": 15930.0,
+        "high_price": 16160.0,
+        "low_price": 15930.0,
+        "close_price": 16040.0,
+        "volume": 721688.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250914,
+        "open_price": 16160.0,
+        "high_price": 16160.0,
+        "low_price": 15860.0,
+        "close_price": 16000.0,
+        "volume": 1201894.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250913,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 15690.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250909,
+        "open_price": 15850.0,
+        "high_price": 15850.0,
+        "low_price": 15680.0,
+        "close_price": 15690.0,
+        "volume": 10000.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250908,
+        "open_price": 15920.0,
+        "high_price": 16080.0,
+        "low_price": 15920.0,
+        "close_price": 16030.0,
+        "volume": 20408.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250907,
+        "open_price": 15400.0,
+        "high_price": 15800.0,
+        "low_price": 15400.0,
+        "close_price": 15690.0,
+        "volume": 203735.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250906,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 15340.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250903,
+        "open_price": 15640.0,
+        "high_price": 15640.0,
+        "low_price": 15340.0,
+        "close_price": 15340.0,
+        "volume": 4565067.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250902,
+        "open_price": 15330.0,
+        "high_price": 15340.0,
+        "low_price": 15330.0,
+        "close_price": 15340.0,
+        "volume": 700000.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250831,
+        "open_price": 14900.0,
+        "high_price": 14900.0,
+        "low_price": 14900.0,
+        "close_price": 14900.0,
+        "volume": 533.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250830,
+        "open_price": 15030.0,
+        "high_price": 15030.0,
+        "low_price": 14700.0,
+        "close_price": 14720.0,
+        "volume": 23256.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250827,
+        "open_price": 15150.0,
+        "high_price": 15150.0,
+        "low_price": 15150.0,
+        "close_price": 15150.0,
+        "volume": 329801.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250826,
+        "open_price": 15000.0,
+        "high_price": 15000.0,
+        "low_price": 15000.0,
+        "close_price": 15000.0,
+        "volume": 200.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250825,
+        "open_price": 15290.0,
+        "high_price": 15290.0,
+        "low_price": 15050.0,
+        "close_price": 15050.0,
+        "volume": 188716.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250823,
+        "open_price": 15270.0,
+        "high_price": 15270.0,
+        "low_price": 15270.0,
+        "close_price": 15270.0,
+        "volume": 773217.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250820,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 15140.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250819,
+        "open_price": 15160.0,
+        "high_price": 15390.0,
+        "low_price": 15080.0,
+        "close_price": 15140.0,
+        "volume": 487624.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250818,
+        "open_price": 15340.0,
+        "high_price": 15340.0,
+        "low_price": 15100.0,
+        "close_price": 15240.0,
+        "volume": 1010000.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250817,
+        "open_price": 15270.0,
+        "high_price": 15330.0,
+        "low_price": 15270.0,
+        "close_price": 15330.0,
+        "volume": 1697865.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250816,
+        "open_price": 14890.0,
+        "high_price": 14890.0,
+        "low_price": 14890.0,
+        "close_price": 14890.0,
+        "volume": 1001.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250813,
+        "open_price": 15200.0,
+        "high_price": 15200.0,
+        "low_price": 14930.0,
+        "close_price": 14960.0,
+        "volume": 231958.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250812,
+        "open_price": 15510.0,
+        "high_price": 15510.0,
+        "low_price": 15320.0,
+        "close_price": 15390.0,
+        "volume": 1850.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250811,
+        "open_price": 15320.0,
+        "high_price": 15320.0,
+        "low_price": 15320.0,
+        "close_price": 15320.0,
+        "volume": 2251.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250810,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 15320.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250809,
+        "open_price": 15320.0,
+        "high_price": 15320.0,
+        "low_price": 15320.0,
+        "close_price": 15320.0,
+        "volume": 2045.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250806,
+        "open_price": 15450.0,
+        "high_price": 15450.0,
+        "low_price": 15240.0,
+        "close_price": 15240.0,
+        "volume": 172844.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250805,
+        "open_price": 15600.0,
+        "high_price": 15600.0,
+        "low_price": 15600.0,
+        "close_price": 15600.0,
+        "volume": 36992.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250804,
+        "open_price": 15510.0,
+        "high_price": 15510.0,
+        "low_price": 15500.0,
+        "close_price": 15500.0,
+        "volume": 6861.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250803,
+        "open_price": 15620.0,
+        "high_price": 15630.0,
+        "low_price": 15620.0,
+        "close_price": 15630.0,
+        "volume": 431.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250802,
+        "open_price": 15750.0,
+        "high_price": 15750.0,
+        "low_price": 15660.0,
+        "close_price": 15680.0,
+        "volume": 205643.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250730,
+        "open_price": 15920.0,
+        "high_price": 15920.0,
+        "low_price": 15920.0,
+        "close_price": 15920.0,
+        "volume": 471.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250729,
+        "open_price": 16140.0,
+        "high_price": 16140.0,
+        "low_price": 16140.0,
+        "close_price": 16140.0,
+        "volume": 39065.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250728,
+        "open_price": 16170.0,
+        "high_price": 16170.0,
+        "low_price": 16130.0,
+        "close_price": 16160.0,
+        "volume": 150261.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250727,
+        "open_price": 16820.0,
+        "high_price": 16820.0,
+        "low_price": 16540.0,
+        "close_price": 16590.0,
+        "volume": 7531.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250726,
+        "open_price": 16550.0,
+        "high_price": 16550.0,
+        "low_price": 16550.0,
+        "close_price": 16550.0,
+        "volume": 7879.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250723,
+        "open_price": 16770.0,
+        "high_price": 16890.0,
+        "low_price": 16770.0,
+        "close_price": 16770.0,
+        "volume": 200071.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250722,
+        "open_price": 16770.0,
+        "high_price": 17040.0,
+        "low_price": 16770.0,
+        "close_price": 16770.0,
+        "volume": 2642577.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250721,
+        "open_price": 16590.0,
+        "high_price": 16710.0,
+        "low_price": 16580.0,
+        "close_price": 16620.0,
+        "volume": 25580.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250720,
+        "open_price": 16650.0,
+        "high_price": 16650.0,
+        "low_price": 16330.0,
+        "close_price": 16420.0,
+        "volume": 22900.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250719,
+        "open_price": 16190.0,
+        "high_price": 16190.0,
+        "low_price": 16180.0,
+        "close_price": 16180.0,
+        "volume": 82028.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250716,
+        "open_price": 16030.0,
+        "high_price": 16030.0,
+        "low_price": 16030.0,
+        "close_price": 16030.0,
+        "volume": 2801.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250715,
+        "open_price": 15880.0,
+        "high_price": 15880.0,
+        "low_price": 15880.0,
+        "close_price": 15880.0,
+        "volume": 1493.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250714,
+        "open_price": 16050.0,
+        "high_price": 16050.0,
+        "low_price": 15150.0,
+        "close_price": 15730.0,
+        "volume": 4099600.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250713,
+        "open_price": 15270.0,
+        "high_price": 15620.0,
+        "low_price": 15270.0,
+        "close_price": 15590.0,
+        "volume": 32354.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250712,
+        "open_price": 15300.0,
+        "high_price": 15300.0,
+        "low_price": 15000.0,
+        "close_price": 15170.0,
+        "volume": 180851.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250709,
+        "open_price": 14910.0,
+        "high_price": 15170.0,
+        "low_price": 14900.0,
+        "close_price": 14900.0,
+        "volume": 121885.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250708,
+        "open_price": 15070.0,
+        "high_price": 15070.0,
+        "low_price": 15060.0,
+        "close_price": 15060.0,
+        "volume": 153612.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250707,
+        "open_price": 15090.0,
+        "high_price": 15390.0,
+        "low_price": 15000.0,
+        "close_price": 15220.0,
+        "volume": 123302.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250702,
+        "open_price": 16140.0,
+        "high_price": 16140.0,
+        "low_price": 15200.0,
+        "close_price": 15250.0,
+        "volume": 677018.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250701,
+        "open_price": 15670.0,
+        "high_price": 15670.0,
+        "low_price": 15670.0,
+        "close_price": 15670.0,
+        "volume": 802906.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250630,
+        "open_price": 16150.0,
+        "high_price": 16150.0,
+        "low_price": 16150.0,
+        "close_price": 16150.0,
+        "volume": 506262.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250629,
+        "open_price": 16640.0,
+        "high_price": 16640.0,
+        "low_price": 16640.0,
+        "close_price": 16640.0,
+        "volume": 1001461.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250628,
+        "open_price": 17150.0,
+        "high_price": 17150.0,
+        "low_price": 17150.0,
+        "close_price": 17150.0,
+        "volume": 501258.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 17680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 17680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 17680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 17680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 17680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 17680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 17680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 17680.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250611,
+        "open_price": 17680.0,
+        "high_price": 18030.0,
+        "low_price": 17680.0,
+        "close_price": 17680.0,
+        "volume": 515593.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250610,
+        "open_price": 17880.0,
+        "high_price": 17890.0,
+        "low_price": 17570.0,
+        "close_price": 17880.0,
+        "volume": 832791.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250609,
+        "open_price": 18140.0,
+        "high_price": 18140.0,
+        "low_price": 17620.0,
+        "close_price": 17770.0,
+        "volume": 195235.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250608,
+        "open_price": 18130.0,
+        "high_price": 18150.0,
+        "low_price": 18130.0,
+        "close_price": 18150.0,
+        "volume": 36954.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250607,
+        "open_price": 18130.0,
+        "high_price": 18130.0,
+        "low_price": 17840.0,
+        "close_price": 17910.0,
+        "volume": 1173824.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250603,
+        "open_price": 18440.0,
+        "high_price": 18440.0,
+        "low_price": 18130.0,
+        "close_price": 18390.0,
+        "volume": 1095673.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250602,
+        "open_price": 18530.0,
+        "high_price": 18530.0,
+        "low_price": 18230.0,
+        "close_price": 18480.0,
+        "volume": 584832.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250601,
+        "open_price": 18200.0,
+        "high_price": 18300.0,
+        "low_price": 18140.0,
+        "close_price": 18180.0,
+        "volume": 206107.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250531,
+        "open_price": 18300.0,
+        "high_price": 18820.0,
+        "low_price": 18280.0,
+        "close_price": 18420.0,
+        "volume": 611264.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250528,
+        "open_price": 18570.0,
+        "high_price": 18710.0,
+        "low_price": 18380.0,
+        "close_price": 18500.0,
+        "volume": 1041937.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250527,
+        "open_price": 18100.0,
+        "high_price": 18630.0,
+        "low_price": 18070.0,
+        "close_price": 18410.0,
+        "volume": 2591983.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250526,
+        "open_price": 18210.0,
+        "high_price": 18210.0,
+        "low_price": 17860.0,
+        "close_price": 18090.0,
+        "volume": 638626.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250525,
+        "open_price": 17970.0,
+        "high_price": 18280.0,
+        "low_price": 17950.0,
+        "close_price": 18120.0,
+        "volume": 1183861.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250524,
+        "open_price": 17900.0,
+        "high_price": 18230.0,
+        "low_price": 17870.0,
+        "close_price": 17880.0,
+        "volume": 371036.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250521,
+        "open_price": 17810.0,
+        "high_price": 18300.0,
+        "low_price": 17500.0,
+        "close_price": 17800.0,
+        "volume": 618631.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250520,
+        "open_price": 18090.0,
+        "high_price": 18310.0,
+        "low_price": 17870.0,
+        "close_price": 17980.0,
+        "volume": 851872.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250519,
+        "open_price": 18310.0,
+        "high_price": 18310.0,
+        "low_price": 18150.0,
+        "close_price": 18150.0,
+        "volume": 437885.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250518,
+        "open_price": 18020.0,
+        "high_price": 18350.0,
+        "low_price": 18010.0,
+        "close_price": 18100.0,
+        "volume": 674514.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250517,
+        "open_price": 18450.0,
+        "high_price": 18450.0,
+        "low_price": 18250.0,
+        "close_price": 18320.0,
+        "volume": 1460653.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250514,
+        "open_price": 18190.0,
+        "high_price": 18300.0,
+        "low_price": 17970.0,
+        "close_price": 18130.0,
+        "volume": 363024.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250513,
+        "open_price": 18650.0,
+        "high_price": 18650.0,
+        "low_price": 18010.0,
+        "close_price": 18170.0,
+        "volume": 2321219.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250512,
+        "open_price": 18250.0,
+        "high_price": 18250.0,
+        "low_price": 17920.0,
+        "close_price": 18110.0,
+        "volume": 2835095.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250511,
+        "open_price": 17720.0,
+        "high_price": 17730.0,
+        "low_price": 17700.0,
+        "close_price": 17720.0,
+        "volume": 576708.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250510,
+        "open_price": 17850.0,
+        "high_price": 18020.0,
+        "low_price": 17690.0,
+        "close_price": 17780.0,
+        "volume": 1550012.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250507,
+        "open_price": 18140.0,
+        "high_price": 18340.0,
+        "low_price": 18090.0,
+        "close_price": 18210.0,
+        "volume": 1711901.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250506,
+        "open_price": 17840.0,
+        "high_price": 18030.0,
+        "low_price": 17700.0,
+        "close_price": 17810.0,
+        "volume": 2482614.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250505,
+        "open_price": 17700.0,
+        "high_price": 17890.0,
+        "low_price": 17540.0,
+        "close_price": 17640.0,
+        "volume": 37184.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250504,
+        "open_price": 17220.0,
+        "high_price": 17700.0,
+        "low_price": 17220.0,
+        "close_price": 17370.0,
+        "volume": 135225.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250503,
+        "open_price": 17270.0,
+        "high_price": 17300.0,
+        "low_price": 17260.0,
+        "close_price": 17260.0,
+        "volume": 2950508.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250430,
+        "open_price": 17620.0,
+        "high_price": 17820.0,
+        "low_price": 17500.0,
+        "close_price": 17790.0,
+        "volume": 4386576.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250429,
+        "open_price": 17380.0,
+        "high_price": 17380.0,
+        "low_price": 17250.0,
+        "close_price": 17310.0,
+        "volume": 72702.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250428,
+        "open_price": 17460.0,
+        "high_price": 17460.0,
+        "low_price": 17120.0,
+        "close_price": 17180.0,
+        "volume": 272707.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250427,
+        "open_price": 17000.0,
+        "high_price": 17280.0,
+        "low_price": 17000.0,
+        "close_price": 17060.0,
+        "volume": 222691.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250426,
+        "open_price": 17740.0,
+        "high_price": 17740.0,
+        "low_price": 17250.0,
+        "close_price": 17300.0,
+        "volume": 539624.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250423,
+        "open_price": 17490.0,
+        "high_price": 17490.0,
+        "low_price": 17210.0,
+        "close_price": 17230.0,
+        "volume": 65120.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250422,
+        "open_price": 17220.0,
+        "high_price": 17350.0,
+        "low_price": 17150.0,
+        "close_price": 17200.0,
+        "volume": 175800.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250421,
+        "open_price": 17390.0,
+        "high_price": 17390.0,
+        "low_price": 17220.0,
+        "close_price": 17370.0,
+        "volume": 11522718.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250420,
+        "open_price": 16890.0,
+        "high_price": 16890.0,
+        "low_price": 16890.0,
+        "close_price": 16890.0,
+        "volume": 3231028.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250419,
+        "open_price": 16320.0,
+        "high_price": 16610.0,
+        "low_price": 16200.0,
+        "close_price": 16400.0,
+        "volume": 799208.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250416,
+        "open_price": 16120.0,
+        "high_price": 16390.0,
+        "low_price": 15810.0,
+        "close_price": 16130.0,
+        "volume": 2171948.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250415,
+        "open_price": 16450.0,
+        "high_price": 16450.0,
+        "low_price": 16160.0,
+        "close_price": 16190.0,
+        "volume": 2171867.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250414,
+        "open_price": 16500.0,
+        "high_price": 16700.0,
+        "low_price": 16500.0,
+        "close_price": 16650.0,
+        "volume": 1243751.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250413,
+        "open_price": 16040.0,
+        "high_price": 16260.0,
+        "low_price": 16040.0,
+        "close_price": 16220.0,
+        "volume": 1965010.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250412,
+        "open_price": 15860.0,
+        "high_price": 15900.0,
+        "low_price": 15700.0,
+        "close_price": 15790.0,
+        "volume": 542399.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250409,
+        "open_price": 16030.0,
+        "high_price": 16030.0,
+        "low_price": 15580.0,
+        "close_price": 15730.0,
+        "volume": 778829.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250408,
+        "open_price": 15660.0,
+        "high_price": 15910.0,
+        "low_price": 15550.0,
+        "close_price": 15830.0,
+        "volume": 2296022.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250407,
+        "open_price": 15450.0,
+        "high_price": 15570.0,
+        "low_price": 15450.0,
+        "close_price": 15450.0,
+        "volume": 200065.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250406,
+        "open_price": 15530.0,
+        "high_price": 15680.0,
+        "low_price": 15400.0,
+        "close_price": 15490.0,
+        "volume": 468729.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250405,
+        "open_price": 15750.0,
+        "high_price": 15750.0,
+        "low_price": 15400.0,
+        "close_price": 15470.0,
+        "volume": 721168.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250330,
+        "open_price": 15340.0,
+        "high_price": 15530.0,
+        "low_price": 15340.0,
+        "close_price": 15470.0,
+        "volume": 18607.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250329,
+        "open_price": 15400.0,
+        "high_price": 15400.0,
+        "low_price": 15200.0,
+        "close_price": 15280.0,
+        "volume": 8477.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250326,
+        "open_price": 15220.0,
+        "high_price": 15400.0,
+        "low_price": 15200.0,
+        "close_price": 15230.0,
+        "volume": 3246.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250325,
+        "open_price": 15030.0,
+        "high_price": 15290.0,
+        "low_price": 15030.0,
+        "close_price": 15120.0,
+        "volume": 254222.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250318,
+        "open_price": 14900.0,
+        "high_price": 15100.0,
+        "low_price": 14820.0,
+        "close_price": 14860.0,
+        "volume": 619067.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250317,
+        "open_price": 15160.0,
+        "high_price": 15360.0,
+        "low_price": 15160.0,
+        "close_price": 15220.0,
+        "volume": 60125.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250316,
+        "open_price": 15180.0,
+        "high_price": 15230.0,
+        "low_price": 15040.0,
+        "close_price": 15140.0,
+        "volume": 29977.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250315,
+        "open_price": 15040.0,
+        "high_price": 15150.0,
+        "low_price": 15040.0,
+        "close_price": 15090.0,
+        "volume": 446797.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250312,
+        "open_price": 14730.0,
+        "high_price": 14930.0,
+        "low_price": 14730.0,
+        "close_price": 14760.0,
+        "volume": 4193.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250311,
+        "open_price": 14820.0,
+        "high_price": 14900.0,
+        "low_price": 14820.0,
+        "close_price": 14870.0,
+        "volume": 27530.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250310,
+        "open_price": 14870.0,
+        "high_price": 15050.0,
+        "low_price": 14870.0,
+        "close_price": 15050.0,
+        "volume": 371.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250309,
+        "open_price": 14810.0,
+        "high_price": 14810.0,
+        "low_price": 14810.0,
+        "close_price": 14810.0,
+        "volume": 1420.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250308,
+        "open_price": 15200.0,
+        "high_price": 15310.0,
+        "low_price": 15000.0,
+        "close_price": 15050.0,
+        "volume": 206366.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250305,
+        "open_price": 15170.0,
+        "high_price": 15350.0,
+        "low_price": 15160.0,
+        "close_price": 15170.0,
+        "volume": 18843.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250304,
+        "open_price": 15470.0,
+        "high_price": 15470.0,
+        "low_price": 15300.0,
+        "close_price": 15390.0,
+        "volume": 10200.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250303,
+        "open_price": 15460.0,
+        "high_price": 15600.0,
+        "low_price": 15300.0,
+        "close_price": 15470.0,
+        "volume": 100386.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250302,
+        "open_price": 15460.0,
+        "high_price": 15660.0,
+        "low_price": 15460.0,
+        "close_price": 15630.0,
+        "volume": 367433.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250301,
+        "open_price": 15530.0,
+        "high_price": 15700.0,
+        "low_price": 15200.0,
+        "close_price": 15510.0,
+        "volume": 520537.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250226,
+        "open_price": 15430.0,
+        "high_price": 15650.0,
+        "low_price": 15380.0,
+        "close_price": 15430.0,
+        "volume": 246275.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250225,
+        "open_price": 15440.0,
+        "high_price": 15630.0,
+        "low_price": 15320.0,
+        "close_price": 15450.0,
+        "volume": 2169739.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250224,
+        "open_price": 15180.0,
+        "high_price": 15390.0,
+        "low_price": 15180.0,
+        "close_price": 15340.0,
+        "volume": 1001200.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250223,
+        "open_price": 14870.0,
+        "high_price": 15100.0,
+        "low_price": 14750.0,
+        "close_price": 14950.0,
+        "volume": 863167.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250222,
+        "open_price": 14940.0,
+        "high_price": 14940.0,
+        "low_price": 14750.0,
+        "close_price": 14860.0,
+        "volume": 1330.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250219,
+        "open_price": 14790.0,
+        "high_price": 14790.0,
+        "low_price": 14790.0,
+        "close_price": 14790.0,
+        "volume": 30100.0
+    },
+    {
+        "symbol": "جاودان",
+        "trade_date": 20250218,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 14770.0,
+        "volume": 0.0
+    }
+]

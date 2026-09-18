@@ -1,0 +1,3287 @@
+[
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260901,
+        "open_price": 44750.0,
+        "high_price": 44750.0,
+        "low_price": 43000.0,
+        "close_price": 44460.0,
+        "volume": 26397631.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260831,
+        "open_price": 43450.0,
+        "high_price": 43450.0,
+        "low_price": 43450.0,
+        "close_price": 43450.0,
+        "volume": 9118551.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260829,
+        "open_price": 42290.0,
+        "high_price": 42290.0,
+        "low_price": 41520.0,
+        "close_price": 42190.0,
+        "volume": 11156972.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260826,
+        "open_price": 41370.0,
+        "high_price": 41370.0,
+        "low_price": 40410.0,
+        "close_price": 41060.0,
+        "volume": 12933478.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260825,
+        "open_price": 40180.0,
+        "high_price": 40190.0,
+        "low_price": 39310.0,
+        "close_price": 40170.0,
+        "volume": 9824591.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260824,
+        "open_price": 38000.0,
+        "high_price": 39200.0,
+        "low_price": 37300.0,
+        "close_price": 39020.0,
+        "volume": 11815844.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260823,
+        "open_price": 38120.0,
+        "high_price": 38930.0,
+        "low_price": 37220.0,
+        "close_price": 38060.0,
+        "volume": 7131875.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260822,
+        "open_price": 37800.0,
+        "high_price": 39000.0,
+        "low_price": 37760.0,
+        "close_price": 38080.0,
+        "volume": 13950485.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260819,
+        "open_price": 37900.0,
+        "high_price": 38890.0,
+        "low_price": 37730.0,
+        "close_price": 37880.0,
+        "volume": 15199022.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260818,
+        "open_price": 38500.0,
+        "high_price": 40390.0,
+        "low_price": 38440.0,
+        "close_price": 38890.0,
+        "volume": 14427978.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260817,
+        "open_price": 39130.0,
+        "high_price": 39660.0,
+        "low_price": 39130.0,
+        "close_price": 39620.0,
+        "volume": 16986016.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260816,
+        "open_price": 39580.0,
+        "high_price": 39580.0,
+        "low_price": 38400.0,
+        "close_price": 38510.0,
+        "volume": 19992963.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260815,
+        "open_price": 41030.0,
+        "high_price": 41030.0,
+        "low_price": 38670.0,
+        "close_price": 39580.0,
+        "volume": 17716743.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260811,
+        "open_price": 39850.0,
+        "high_price": 39850.0,
+        "low_price": 39300.0,
+        "close_price": 39840.0,
+        "volume": 22394749.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260810,
+        "open_price": 38700.0,
+        "high_price": 38700.0,
+        "low_price": 38000.0,
+        "close_price": 38690.0,
+        "volume": 12356821.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260809,
+        "open_price": 37630.0,
+        "high_price": 37630.0,
+        "low_price": 37070.0,
+        "close_price": 37580.0,
+        "volume": 36069173.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260808,
+        "open_price": 36540.0,
+        "high_price": 36540.0,
+        "low_price": 36540.0,
+        "close_price": 36540.0,
+        "volume": 6600407.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260805,
+        "open_price": 35480.0,
+        "high_price": 35480.0,
+        "low_price": 35480.0,
+        "close_price": 35480.0,
+        "volume": 5258842.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260803,
+        "open_price": 34450.0,
+        "high_price": 34450.0,
+        "low_price": 34450.0,
+        "close_price": 34450.0,
+        "volume": 10141901.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260802,
+        "open_price": 33510.0,
+        "high_price": 33510.0,
+        "low_price": 32910.0,
+        "close_price": 33450.0,
+        "volume": 20596443.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260801,
+        "open_price": 32500.0,
+        "high_price": 33500.0,
+        "low_price": 32240.0,
+        "close_price": 32540.0,
+        "volume": 25770575.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260729,
+        "open_price": 33200.0,
+        "high_price": 33280.0,
+        "low_price": 32300.0,
+        "close_price": 33230.0,
+        "volume": 100371824.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260728,
+        "open_price": 32320.0,
+        "high_price": 32320.0,
+        "low_price": 32320.0,
+        "close_price": 32320.0,
+        "volume": 33415590.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260727,
+        "open_price": 31020.0,
+        "high_price": 31950.0,
+        "low_price": 31020.0,
+        "close_price": 31380.0,
+        "volume": 51044719.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260726,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 25880.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260725,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 30380.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260722,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 30380.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260721,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 30380.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260720,
+        "open_price": 30380.0,
+        "high_price": 30380.0,
+        "low_price": 30380.0,
+        "close_price": 30380.0,
+        "volume": 3888921.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260719,
+        "open_price": 28110.0,
+        "high_price": 29680.0,
+        "low_price": 28110.0,
+        "close_price": 29500.0,
+        "volume": 7236801.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260718,
+        "open_price": 28810.0,
+        "high_price": 29420.0,
+        "low_price": 28810.0,
+        "close_price": 28820.0,
+        "volume": 14772548.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260715,
+        "open_price": 29600.0,
+        "high_price": 30370.0,
+        "low_price": 29600.0,
+        "close_price": 29700.0,
+        "volume": 11917910.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260714,
+        "open_price": 30510.0,
+        "high_price": 30510.0,
+        "low_price": 30510.0,
+        "close_price": 30510.0,
+        "volume": 1688083.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260713,
+        "open_price": 31450.0,
+        "high_price": 31450.0,
+        "low_price": 31450.0,
+        "close_price": 31450.0,
+        "volume": 3535648.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260712,
+        "open_price": 32420.0,
+        "high_price": 32430.0,
+        "low_price": 32420.0,
+        "close_price": 32420.0,
+        "volume": 6599030.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260711,
+        "open_price": 33450.0,
+        "high_price": 34070.0,
+        "low_price": 33400.0,
+        "close_price": 33420.0,
+        "volume": 11846532.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260708,
+        "open_price": 34740.0,
+        "high_price": 34740.0,
+        "low_price": 32720.0,
+        "close_price": 34430.0,
+        "volume": 32919421.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260707,
+        "open_price": 33770.0,
+        "high_price": 33770.0,
+        "low_price": 33410.0,
+        "close_price": 33730.0,
+        "volume": 6733325.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260701,
+        "open_price": 32810.0,
+        "high_price": 32810.0,
+        "low_price": 32190.0,
+        "close_price": 32790.0,
+        "volume": 23589475.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260630,
+        "open_price": 31860.0,
+        "high_price": 31860.0,
+        "low_price": 31540.0,
+        "close_price": 31860.0,
+        "volume": 15597961.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260629,
+        "open_price": 30850.0,
+        "high_price": 31610.0,
+        "low_price": 30850.0,
+        "close_price": 30940.0,
+        "volume": 21752320.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260628,
+        "open_price": 32710.0,
+        "high_price": 32710.0,
+        "low_price": 31730.0,
+        "close_price": 31800.0,
+        "volume": 7415686.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260627,
+        "open_price": 32720.0,
+        "high_price": 32720.0,
+        "low_price": 32310.0,
+        "close_price": 32710.0,
+        "volume": 8441146.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260623,
+        "open_price": 31770.0,
+        "high_price": 31770.0,
+        "low_price": 31770.0,
+        "close_price": 31770.0,
+        "volume": 3478440.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260622,
+        "open_price": 31290.0,
+        "high_price": 31860.0,
+        "low_price": 30020.0,
+        "close_price": 30850.0,
+        "volume": 16868882.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260621,
+        "open_price": 31660.0,
+        "high_price": 31660.0,
+        "low_price": 29820.0,
+        "close_price": 30940.0,
+        "volume": 27763197.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260620,
+        "open_price": 30750.0,
+        "high_price": 30750.0,
+        "low_price": 30220.0,
+        "close_price": 30740.0,
+        "volume": 24928775.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260617,
+        "open_price": 29970.0,
+        "high_price": 29970.0,
+        "low_price": 29230.0,
+        "close_price": 29860.0,
+        "volume": 15918580.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260616,
+        "open_price": 29130.0,
+        "high_price": 29130.0,
+        "low_price": 28500.0,
+        "close_price": 29100.0,
+        "volume": 85456129.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260615,
+        "open_price": 28290.0,
+        "high_price": 28290.0,
+        "low_price": 28290.0,
+        "close_price": 28290.0,
+        "volume": 6847032.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260614,
+        "open_price": 27300.0,
+        "high_price": 28110.0,
+        "low_price": 27300.0,
+        "close_price": 27470.0,
+        "volume": 52408878.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260613,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24560.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260610,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24560.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260609,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24560.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260608,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24560.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260607,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24560.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260606,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24560.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260603,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24560.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260602,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24560.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260601,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24560.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260531,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24560.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260530,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24560.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260526,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24560.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260525,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24560.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260524,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24560.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260523,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24560.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260520,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24560.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260519,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 24560.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260518,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260517,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260516,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260513,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260512,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260511,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260510,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260509,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260506,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260505,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260504,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260503,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260502,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260429,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260428,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260427,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260426,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260425,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260422,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260421,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260420,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260419,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260418,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260415,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260413,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260412,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260411,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260408,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260407,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260406,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260405,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260404,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260331,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260330,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260329,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260328,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260325,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260318,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260317,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260316,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260315,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260314,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260310,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260309,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260308,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260307,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260304,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260303,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260302,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260228,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 34390.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260225,
+        "open_price": 32860.0,
+        "high_price": 34590.0,
+        "low_price": 32860.0,
+        "close_price": 34390.0,
+        "volume": 2029028.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260224,
+        "open_price": 33680.0,
+        "high_price": 34270.0,
+        "low_price": 33600.0,
+        "close_price": 33620.0,
+        "volume": 2574773.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260223,
+        "open_price": 34330.0,
+        "high_price": 35490.0,
+        "low_price": 34330.0,
+        "close_price": 34630.0,
+        "volume": 5686604.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260222,
+        "open_price": 35390.0,
+        "high_price": 35390.0,
+        "low_price": 35390.0,
+        "close_price": 35390.0,
+        "volume": 2175498.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260221,
+        "open_price": 36480.0,
+        "high_price": 36480.0,
+        "low_price": 36480.0,
+        "close_price": 36480.0,
+        "volume": 1791854.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260218,
+        "open_price": 39510.0,
+        "high_price": 39510.0,
+        "low_price": 37420.0,
+        "close_price": 37600.0,
+        "volume": 4149929.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260217,
+        "open_price": 38670.0,
+        "high_price": 39970.0,
+        "low_price": 38250.0,
+        "close_price": 38570.0,
+        "volume": 3527897.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260216,
+        "open_price": 39400.0,
+        "high_price": 40000.0,
+        "low_price": 39400.0,
+        "close_price": 39430.0,
+        "volume": 2935138.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260215,
+        "open_price": 40610.0,
+        "high_price": 41420.0,
+        "low_price": 40610.0,
+        "close_price": 40610.0,
+        "volume": 2090076.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260214,
+        "open_price": 43790.0,
+        "high_price": 43790.0,
+        "low_price": 41480.0,
+        "close_price": 41860.0,
+        "volume": 2596721.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260210,
+        "open_price": 42410.0,
+        "high_price": 43860.0,
+        "low_price": 42410.0,
+        "close_price": 42760.0,
+        "volume": 7507548.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260209,
+        "open_price": 43720.0,
+        "high_price": 43740.0,
+        "low_price": 43720.0,
+        "close_price": 43720.0,
+        "volume": 2915432.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260208,
+        "open_price": 46880.0,
+        "high_price": 46880.0,
+        "low_price": 44200.0,
+        "close_price": 45070.0,
+        "volume": 3805909.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260207,
+        "open_price": 45570.0,
+        "high_price": 45570.0,
+        "low_price": 44810.0,
+        "close_price": 45560.0,
+        "volume": 7500985.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260203,
+        "open_price": 46470.0,
+        "high_price": 46470.0,
+        "low_price": 43790.0,
+        "close_price": 44250.0,
+        "volume": 4604742.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260202,
+        "open_price": 45150.0,
+        "high_price": 45150.0,
+        "low_price": 44800.0,
+        "close_price": 45140.0,
+        "volume": 6300813.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260201,
+        "open_price": 43290.0,
+        "high_price": 45500.0,
+        "low_price": 43290.0,
+        "close_price": 43840.0,
+        "volume": 10842015.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260131,
+        "open_price": 44580.0,
+        "high_price": 45890.0,
+        "low_price": 44580.0,
+        "close_price": 44620.0,
+        "volume": 3368323.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260128,
+        "open_price": 45950.0,
+        "high_price": 46000.0,
+        "low_price": 45950.0,
+        "close_price": 45950.0,
+        "volume": 7955297.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260127,
+        "open_price": 47370.0,
+        "high_price": 47370.0,
+        "low_price": 47370.0,
+        "close_price": 47370.0,
+        "volume": 1701214.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260126,
+        "open_price": 48830.0,
+        "high_price": 48830.0,
+        "low_price": 48830.0,
+        "close_price": 48830.0,
+        "volume": 1218676.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260125,
+        "open_price": 50340.0,
+        "high_price": 50340.0,
+        "low_price": 50340.0,
+        "close_price": 50340.0,
+        "volume": 1333270.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260124,
+        "open_price": 51910.0,
+        "high_price": 52000.0,
+        "low_price": 51890.0,
+        "close_price": 51890.0,
+        "volume": 9336306.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260121,
+        "open_price": 53460.0,
+        "high_price": 54500.0,
+        "low_price": 53460.0,
+        "close_price": 53490.0,
+        "volume": 21044820.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260120,
+        "open_price": 55110.0,
+        "high_price": 55990.0,
+        "low_price": 55110.0,
+        "close_price": 55110.0,
+        "volume": 43693137.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260119,
+        "open_price": 57350.0,
+        "high_price": 58300.0,
+        "low_price": 56610.0,
+        "close_price": 56810.0,
+        "volume": 15030526.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260118,
+        "open_price": 57700.0,
+        "high_price": 60310.0,
+        "low_price": 57330.0,
+        "close_price": 58360.0,
+        "volume": 14154679.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260114,
+        "open_price": 58910.0,
+        "high_price": 58910.0,
+        "low_price": 58910.0,
+        "close_price": 58910.0,
+        "volume": 2348958.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260113,
+        "open_price": 62000.0,
+        "high_price": 62460.0,
+        "low_price": 60440.0,
+        "close_price": 60730.0,
+        "volume": 5533474.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260112,
+        "open_price": 61200.0,
+        "high_price": 62470.0,
+        "low_price": 61200.0,
+        "close_price": 62300.0,
+        "volume": 16495146.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260111,
+        "open_price": 59650.0,
+        "high_price": 62430.0,
+        "low_price": 59200.0,
+        "close_price": 60660.0,
+        "volume": 10631278.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260110,
+        "open_price": 60470.0,
+        "high_price": 63810.0,
+        "low_price": 60470.0,
+        "close_price": 61020.0,
+        "volume": 12889703.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260107,
+        "open_price": 62460.0,
+        "high_price": 62460.0,
+        "low_price": 61000.0,
+        "close_price": 62340.0,
+        "volume": 35777415.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260106,
+        "open_price": 60650.0,
+        "high_price": 60650.0,
+        "low_price": 60650.0,
+        "close_price": 60650.0,
+        "volume": 18403635.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260105,
+        "open_price": 58890.0,
+        "high_price": 58890.0,
+        "low_price": 58890.0,
+        "close_price": 58890.0,
+        "volume": 5052556.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20260104,
+        "open_price": 57900.0,
+        "high_price": 58790.0,
+        "low_price": 55370.0,
+        "close_price": 57180.0,
+        "volume": 14666926.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251231,
+        "open_price": 54900.0,
+        "high_price": 58280.0,
+        "low_price": 54900.0,
+        "close_price": 57080.0,
+        "volume": 7573752.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251230,
+        "open_price": 56590.0,
+        "high_price": 56590.0,
+        "low_price": 56590.0,
+        "close_price": 56590.0,
+        "volume": 15060170.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251229,
+        "open_price": 60100.0,
+        "high_price": 60100.0,
+        "low_price": 58300.0,
+        "close_price": 58330.0,
+        "volume": 13099535.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251228,
+        "open_price": 60500.0,
+        "high_price": 60800.0,
+        "low_price": 59000.0,
+        "close_price": 60100.0,
+        "volume": 11002837.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251227,
+        "open_price": 59570.0,
+        "high_price": 59600.0,
+        "low_price": 58150.0,
+        "close_price": 59370.0,
+        "volume": 13126798.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251224,
+        "open_price": 57400.0,
+        "high_price": 58010.0,
+        "low_price": 56730.0,
+        "close_price": 57870.0,
+        "volume": 10879156.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251223,
+        "open_price": 55840.0,
+        "high_price": 57250.0,
+        "low_price": 55300.0,
+        "close_price": 56330.0,
+        "volume": 6233298.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251222,
+        "open_price": 58590.0,
+        "high_price": 58590.0,
+        "low_price": 55840.0,
+        "close_price": 56300.0,
+        "volume": 14926677.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251221,
+        "open_price": 58990.0,
+        "high_price": 58990.0,
+        "low_price": 56650.0,
+        "close_price": 57560.0,
+        "volume": 11892009.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251220,
+        "open_price": 57620.0,
+        "high_price": 57690.0,
+        "low_price": 56230.0,
+        "close_price": 57530.0,
+        "volume": 19387510.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251217,
+        "open_price": 54580.0,
+        "high_price": 56230.0,
+        "low_price": 54000.0,
+        "close_price": 56010.0,
+        "volume": 24411638.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251216,
+        "open_price": 54860.0,
+        "high_price": 54860.0,
+        "low_price": 53310.0,
+        "close_price": 54600.0,
+        "volume": 34848773.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251215,
+        "open_price": 53270.0,
+        "high_price": 53270.0,
+        "low_price": 53270.0,
+        "close_price": 53270.0,
+        "volume": 3792106.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251214,
+        "open_price": 51720.0,
+        "high_price": 51720.0,
+        "low_price": 51720.0,
+        "close_price": 51720.0,
+        "volume": 6251187.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251213,
+        "open_price": 50220.0,
+        "high_price": 50220.0,
+        "low_price": 50220.0,
+        "close_price": 50220.0,
+        "volume": 2298541.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251210,
+        "open_price": 48750.0,
+        "high_price": 48770.0,
+        "low_price": 48200.0,
+        "close_price": 48760.0,
+        "volume": 7976697.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251209,
+        "open_price": 46330.0,
+        "high_price": 47620.0,
+        "low_price": 46200.0,
+        "close_price": 47350.0,
+        "volume": 4667813.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251208,
+        "open_price": 46200.0,
+        "high_price": 46650.0,
+        "low_price": 46080.0,
+        "close_price": 46240.0,
+        "volume": 2305184.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251207,
+        "open_price": 47300.0,
+        "high_price": 47560.0,
+        "low_price": 46070.0,
+        "close_price": 46670.0,
+        "volume": 2125438.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251206,
+        "open_price": 47100.0,
+        "high_price": 47560.0,
+        "low_price": 46210.0,
+        "close_price": 46680.0,
+        "volume": 7684596.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251203,
+        "open_price": 45900.0,
+        "high_price": 46750.0,
+        "low_price": 45900.0,
+        "close_price": 46490.0,
+        "volume": 2027211.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251202,
+        "open_price": 45900.0,
+        "high_price": 46790.0,
+        "low_price": 45900.0,
+        "close_price": 46540.0,
+        "volume": 1443590.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251201,
+        "open_price": 47640.0,
+        "high_price": 47640.0,
+        "low_price": 45920.0,
+        "close_price": 46470.0,
+        "volume": 1887328.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251130,
+        "open_price": 46590.0,
+        "high_price": 47070.0,
+        "low_price": 45410.0,
+        "close_price": 46290.0,
+        "volume": 1513625.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251129,
+        "open_price": 47300.0,
+        "high_price": 47380.0,
+        "low_price": 45900.0,
+        "close_price": 46180.0,
+        "volume": 3140617.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251126,
+        "open_price": 48000.0,
+        "high_price": 48000.0,
+        "low_price": 46560.0,
+        "close_price": 47310.0,
+        "volume": 1591084.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251125,
+        "open_price": 47500.0,
+        "high_price": 47590.0,
+        "low_price": 46510.0,
+        "close_price": 47500.0,
+        "volume": 4187825.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251123,
+        "open_price": 45250.0,
+        "high_price": 46990.0,
+        "low_price": 45250.0,
+        "close_price": 46210.0,
+        "volume": 3138368.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251122,
+        "open_price": 46310.0,
+        "high_price": 46940.0,
+        "low_price": 45230.0,
+        "close_price": 45800.0,
+        "volume": 5493448.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251119,
+        "open_price": 46540.0,
+        "high_price": 47130.0,
+        "low_price": 46300.0,
+        "close_price": 46620.0,
+        "volume": 914808.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251118,
+        "open_price": 46600.0,
+        "high_price": 47900.0,
+        "low_price": 46520.0,
+        "close_price": 46670.0,
+        "volume": 4138582.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251117,
+        "open_price": 48090.0,
+        "high_price": 49030.0,
+        "low_price": 46960.0,
+        "close_price": 47950.0,
+        "volume": 1744972.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251116,
+        "open_price": 47700.0,
+        "high_price": 49000.0,
+        "low_price": 46720.0,
+        "close_price": 47830.0,
+        "volume": 1569915.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251115,
+        "open_price": 48350.0,
+        "high_price": 48850.0,
+        "low_price": 46900.0,
+        "close_price": 47770.0,
+        "volume": 1185438.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251112,
+        "open_price": 46850.0,
+        "high_price": 48260.0,
+        "low_price": 46730.0,
+        "close_price": 47610.0,
+        "volume": 2190739.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251111,
+        "open_price": 46960.0,
+        "high_price": 47600.0,
+        "low_price": 46440.0,
+        "close_price": 46860.0,
+        "volume": 1257086.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251110,
+        "open_price": 48230.0,
+        "high_price": 48230.0,
+        "low_price": 46850.0,
+        "close_price": 46960.0,
+        "volume": 3008699.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251109,
+        "open_price": 48910.0,
+        "high_price": 49000.0,
+        "low_price": 48280.0,
+        "close_price": 48290.0,
+        "volume": 5274341.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251108,
+        "open_price": 50140.0,
+        "high_price": 50980.0,
+        "low_price": 49000.0,
+        "close_price": 49770.0,
+        "volume": 1096661.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251105,
+        "open_price": 49070.0,
+        "high_price": 50370.0,
+        "low_price": 49070.0,
+        "close_price": 49720.0,
+        "volume": 2589523.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251104,
+        "open_price": 51200.0,
+        "high_price": 51690.0,
+        "low_price": 50120.0,
+        "close_price": 50420.0,
+        "volume": 5694322.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251103,
+        "open_price": 51220.0,
+        "high_price": 52580.0,
+        "low_price": 51120.0,
+        "close_price": 51660.0,
+        "volume": 3637132.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251102,
+        "open_price": 50960.0,
+        "high_price": 52000.0,
+        "low_price": 50040.0,
+        "close_price": 51220.0,
+        "volume": 2783815.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251101,
+        "open_price": 52750.0,
+        "high_price": 52750.0,
+        "low_price": 50050.0,
+        "close_price": 51540.0,
+        "volume": 3032789.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251029,
+        "open_price": 52900.0,
+        "high_price": 52900.0,
+        "low_price": 51240.0,
+        "close_price": 51570.0,
+        "volume": 5411208.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251028,
+        "open_price": 53930.0,
+        "high_price": 54000.0,
+        "low_price": 51890.0,
+        "close_price": 52820.0,
+        "volume": 4478421.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251027,
+        "open_price": 51770.0,
+        "high_price": 53120.0,
+        "low_price": 51770.0,
+        "close_price": 52670.0,
+        "volume": 5053540.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251026,
+        "open_price": 51530.0,
+        "high_price": 53090.0,
+        "low_price": 51530.0,
+        "close_price": 51730.0,
+        "volume": 20353667.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251025,
+        "open_price": 53120.0,
+        "high_price": 53120.0,
+        "low_price": 53120.0,
+        "close_price": 53120.0,
+        "volume": 11618232.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251022,
+        "open_price": 56210.0,
+        "high_price": 57180.0,
+        "low_price": 54490.0,
+        "close_price": 54760.0,
+        "volume": 7579262.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251021,
+        "open_price": 58190.0,
+        "high_price": 58190.0,
+        "low_price": 55120.0,
+        "close_price": 56170.0,
+        "volume": 1511784.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251020,
+        "open_price": 57700.0,
+        "high_price": 58670.0,
+        "low_price": 55540.0,
+        "close_price": 56760.0,
+        "volume": 2080467.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251019,
+        "open_price": 57310.0,
+        "high_price": 57310.0,
+        "low_price": 56400.0,
+        "close_price": 57250.0,
+        "volume": 8106880.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251018,
+        "open_price": 55660.0,
+        "high_price": 55660.0,
+        "low_price": 54990.0,
+        "close_price": 55650.0,
+        "volume": 3085962.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251015,
+        "open_price": 53060.0,
+        "high_price": 55280.0,
+        "low_price": 52800.0,
+        "close_price": 54040.0,
+        "volume": 3365122.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251014,
+        "open_price": 54160.0,
+        "high_price": 54160.0,
+        "low_price": 51460.0,
+        "close_price": 53670.0,
+        "volume": 7937270.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251013,
+        "open_price": 52640.0,
+        "high_price": 52640.0,
+        "low_price": 51630.0,
+        "close_price": 52590.0,
+        "volume": 9535693.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251012,
+        "open_price": 51000.0,
+        "high_price": 51140.0,
+        "low_price": 50110.0,
+        "close_price": 51110.0,
+        "volume": 2711972.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251011,
+        "open_price": 49000.0,
+        "high_price": 49710.0,
+        "low_price": 48980.0,
+        "close_price": 49660.0,
+        "volume": 3963964.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251008,
+        "open_price": 49920.0,
+        "high_price": 49920.0,
+        "low_price": 48150.0,
+        "close_price": 48270.0,
+        "volume": 3195947.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251007,
+        "open_price": 50760.0,
+        "high_price": 50760.0,
+        "low_price": 48800.0,
+        "close_price": 49630.0,
+        "volume": 3972933.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251006,
+        "open_price": 49950.0,
+        "high_price": 50750.0,
+        "low_price": 48600.0,
+        "close_price": 49340.0,
+        "volume": 3640334.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251005,
+        "open_price": 50420.0,
+        "high_price": 50420.0,
+        "low_price": 49000.0,
+        "close_price": 49900.0,
+        "volume": 3673029.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251004,
+        "open_price": 48510.0,
+        "high_price": 49310.0,
+        "low_price": 48510.0,
+        "close_price": 48960.0,
+        "volume": 1579716.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20251001,
+        "open_price": 47850.0,
+        "high_price": 48900.0,
+        "low_price": 47830.0,
+        "close_price": 47880.0,
+        "volume": 5776151.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250930,
+        "open_price": 50540.0,
+        "high_price": 50540.0,
+        "low_price": 49060.0,
+        "close_price": 49300.0,
+        "volume": 5319755.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250929,
+        "open_price": 50570.0,
+        "high_price": 50570.0,
+        "low_price": 50250.0,
+        "close_price": 50570.0,
+        "volume": 6853974.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250928,
+        "open_price": 49280.0,
+        "high_price": 49280.0,
+        "low_price": 49280.0,
+        "close_price": 49100.0,
+        "volume": 1868584.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250927,
+        "open_price": 45720.0,
+        "high_price": 47990.0,
+        "low_price": 45720.0,
+        "close_price": 47850.0,
+        "volume": 3467910.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250924,
+        "open_price": 46850.0,
+        "high_price": 46850.0,
+        "low_price": 45970.0,
+        "close_price": 46600.0,
+        "volume": 1129243.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250923,
+        "open_price": 48000.0,
+        "high_price": 48000.0,
+        "low_price": 46010.0,
+        "close_price": 46990.0,
+        "volume": 702257.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250922,
+        "open_price": 47300.0,
+        "high_price": 48230.0,
+        "low_price": 47210.0,
+        "close_price": 47130.0,
+        "volume": 687103.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250921,
+        "open_price": 46720.0,
+        "high_price": 47490.0,
+        "low_price": 46720.0,
+        "close_price": 46830.0,
+        "volume": 2160077.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250920,
+        "open_price": 47650.0,
+        "high_price": 47650.0,
+        "low_price": 47650.0,
+        "close_price": 48160.0,
+        "volume": 1329102.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250917,
+        "open_price": 49000.0,
+        "high_price": 49010.0,
+        "low_price": 48580.0,
+        "close_price": 49120.0,
+        "volume": 878902.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250916,
+        "open_price": 51500.0,
+        "high_price": 51500.0,
+        "low_price": 48610.0,
+        "close_price": 49400.0,
+        "volume": 1093833.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250915,
+        "open_price": 51050.0,
+        "high_price": 51360.0,
+        "low_price": 49470.0,
+        "close_price": 50110.0,
+        "volume": 1313165.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250914,
+        "open_price": 49620.0,
+        "high_price": 51050.0,
+        "low_price": 49620.0,
+        "close_price": 50470.0,
+        "volume": 1349231.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250913,
+        "open_price": 49500.0,
+        "high_price": 50380.0,
+        "low_price": 49160.0,
+        "close_price": 49570.0,
+        "volume": 1226579.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250909,
+        "open_price": 50480.0,
+        "high_price": 50480.0,
+        "low_price": 48960.0,
+        "close_price": 49180.0,
+        "volume": 3132293.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250908,
+        "open_price": 48640.0,
+        "high_price": 50050.0,
+        "low_price": 48610.0,
+        "close_price": 49900.0,
+        "volume": 2886390.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250907,
+        "open_price": 48000.0,
+        "high_price": 49800.0,
+        "low_price": 47540.0,
+        "close_price": 48600.0,
+        "volume": 2173528.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250906,
+        "open_price": 50450.0,
+        "high_price": 50450.0,
+        "low_price": 47540.0,
+        "close_price": 48770.0,
+        "volume": 6119248.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250903,
+        "open_price": 49010.0,
+        "high_price": 49010.0,
+        "low_price": 49010.0,
+        "close_price": 49010.0,
+        "volume": 2334483.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250902,
+        "open_price": 47590.0,
+        "high_price": 47590.0,
+        "low_price": 47500.0,
+        "close_price": 47590.0,
+        "volume": 3997874.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250831,
+        "open_price": 46000.0,
+        "high_price": 46310.0,
+        "low_price": 45650.0,
+        "close_price": 46210.0,
+        "volume": 5092484.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250830,
+        "open_price": 42750.0,
+        "high_price": 45160.0,
+        "low_price": 42750.0,
+        "close_price": 44970.0,
+        "volume": 6637638.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250827,
+        "open_price": 43860.0,
+        "high_price": 43860.0,
+        "low_price": 43100.0,
+        "close_price": 43850.0,
+        "volume": 2946253.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250826,
+        "open_price": 42000.0,
+        "high_price": 44350.0,
+        "low_price": 41780.0,
+        "close_price": 42590.0,
+        "volume": 1809411.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250825,
+        "open_price": 43810.0,
+        "high_price": 43810.0,
+        "low_price": 43010.0,
+        "close_price": 43070.0,
+        "volume": 4065181.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250823,
+        "open_price": 43780.0,
+        "high_price": 44480.0,
+        "low_price": 43750.0,
+        "close_price": 44330.0,
+        "volume": 1666048.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250820,
+        "open_price": 43830.0,
+        "high_price": 44730.0,
+        "low_price": 43830.0,
+        "close_price": 44660.0,
+        "volume": 546070.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250819,
+        "open_price": 43790.0,
+        "high_price": 45160.0,
+        "low_price": 43770.0,
+        "close_price": 44730.0,
+        "volume": 1198249.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250818,
+        "open_price": 45580.0,
+        "high_price": 45580.0,
+        "low_price": 44400.0,
+        "close_price": 45120.0,
+        "volume": 1737660.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250817,
+        "open_price": 44410.0,
+        "high_price": 44420.0,
+        "low_price": 43650.0,
+        "close_price": 44260.0,
+        "volume": 2024746.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250816,
+        "open_price": 43060.0,
+        "high_price": 43600.0,
+        "low_price": 42680.0,
+        "close_price": 43130.0,
+        "volume": 2928382.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250813,
+        "open_price": 43600.0,
+        "high_price": 44630.0,
+        "low_price": 43600.0,
+        "close_price": 43750.0,
+        "volume": 1794344.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250812,
+        "open_price": 45920.0,
+        "high_price": 45950.0,
+        "low_price": 44630.0,
+        "close_price": 44940.0,
+        "volume": 5008435.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250811,
+        "open_price": 48380.0,
+        "high_price": 48380.0,
+        "low_price": 45950.0,
+        "close_price": 46010.0,
+        "volume": 2070216.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250810,
+        "open_price": 48250.0,
+        "high_price": 48940.0,
+        "low_price": 46810.0,
+        "close_price": 47370.0,
+        "volume": 4628754.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250809,
+        "open_price": 47930.0,
+        "high_price": 49200.0,
+        "low_price": 47910.0,
+        "close_price": 48250.0,
+        "volume": 4925160.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250806,
+        "open_price": 50600.0,
+        "high_price": 50630.0,
+        "low_price": 49130.0,
+        "close_price": 49390.0,
+        "volume": 4084797.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250805,
+        "open_price": 50890.0,
+        "high_price": 51900.0,
+        "low_price": 50110.0,
+        "close_price": 50640.0,
+        "volume": 1720663.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250804,
+        "open_price": 50890.0,
+        "high_price": 52460.0,
+        "low_price": 50890.0,
+        "close_price": 51390.0,
+        "volume": 2133803.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250803,
+        "open_price": 53670.0,
+        "high_price": 53670.0,
+        "low_price": 51930.0,
+        "close_price": 52460.0,
+        "volume": 7860489.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250802,
+        "open_price": 54170.0,
+        "high_price": 55000.0,
+        "low_price": 52600.0,
+        "close_price": 53530.0,
+        "volume": 9876289.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250730,
+        "open_price": 53520.0,
+        "high_price": 53520.0,
+        "low_price": 53520.0,
+        "close_price": 54220.0,
+        "volume": 940097.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250729,
+        "open_price": 54330.0,
+        "high_price": 54330.0,
+        "low_price": 54330.0,
+        "close_price": 55170.0,
+        "volume": 821305.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250728,
+        "open_price": 56000.0,
+        "high_price": 57000.0,
+        "low_price": 55990.0,
+        "close_price": 56010.0,
+        "volume": 1907107.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250727,
+        "open_price": 57420.0,
+        "high_price": 59780.0,
+        "low_price": 57420.0,
+        "close_price": 57720.0,
+        "volume": 21593277.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250726,
+        "open_price": 59190.0,
+        "high_price": 59190.0,
+        "low_price": 59190.0,
+        "close_price": 59190.0,
+        "volume": 9293934.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250723,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 61020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250722,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 61020.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250721,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 69380.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250720,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 69380.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250719,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 69380.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250716,
+        "open_price": 69640.0,
+        "high_price": 69640.0,
+        "low_price": 69180.0,
+        "close_price": 69380.0,
+        "volume": 3294032.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250715,
+        "open_price": 69130.0,
+        "high_price": 69400.0,
+        "low_price": 68650.0,
+        "close_price": 68860.0,
+        "volume": 4425458.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250714,
+        "open_price": 67990.0,
+        "high_price": 67990.0,
+        "low_price": 67330.0,
+        "close_price": 67880.0,
+        "volume": 2788105.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250713,
+        "open_price": 66100.0,
+        "high_price": 66100.0,
+        "low_price": 66100.0,
+        "close_price": 66010.0,
+        "volume": 1517871.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250712,
+        "open_price": 64480.0,
+        "high_price": 64480.0,
+        "low_price": 63930.0,
+        "close_price": 64180.0,
+        "volume": 1343473.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250709,
+        "open_price": 62110.0,
+        "high_price": 64040.0,
+        "low_price": 62050.0,
+        "close_price": 62610.0,
+        "volume": 2493082.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250708,
+        "open_price": 66880.0,
+        "high_price": 66880.0,
+        "low_price": 63910.0,
+        "close_price": 63960.0,
+        "volume": 1936783.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250707,
+        "open_price": 66010.0,
+        "high_price": 66010.0,
+        "low_price": 65010.0,
+        "close_price": 65880.0,
+        "volume": 2973981.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250702,
+        "open_price": 63660.0,
+        "high_price": 66700.0,
+        "low_price": 63660.0,
+        "close_price": 64090.0,
+        "volume": 14025777.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250701,
+        "open_price": 64710.0,
+        "high_price": 64710.0,
+        "low_price": 64710.0,
+        "close_price": 65620.0,
+        "volume": 769952.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250630,
+        "open_price": 65810.0,
+        "high_price": 65810.0,
+        "low_price": 65810.0,
+        "close_price": 66710.0,
+        "volume": 784526.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250629,
+        "open_price": 67840.0,
+        "high_price": 67840.0,
+        "low_price": 67840.0,
+        "close_price": 67840.0,
+        "volume": 1880515.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250628,
+        "open_price": 68970.0,
+        "high_price": 68970.0,
+        "low_price": 68970.0,
+        "close_price": 69930.0,
+        "volume": 772796.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250625,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 71100.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250624,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 71100.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250623,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 71100.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250622,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 71100.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250621,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 71100.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250618,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 71100.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250616,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 71100.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250615,
+        "open_price": 0.0,
+        "high_price": 0.0,
+        "low_price": 0.0,
+        "close_price": 71100.0,
+        "volume": 0.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250611,
+        "open_price": 71410.0,
+        "high_price": 71520.0,
+        "low_price": 70730.0,
+        "close_price": 71100.0,
+        "volume": 1377992.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250610,
+        "open_price": 72330.0,
+        "high_price": 72330.0,
+        "low_price": 70790.0,
+        "close_price": 71360.0,
+        "volume": 1720333.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250609,
+        "open_price": 72700.0,
+        "high_price": 73770.0,
+        "low_price": 71610.0,
+        "close_price": 72330.0,
+        "volume": 1615208.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250608,
+        "open_price": 70660.0,
+        "high_price": 73260.0,
+        "low_price": 70660.0,
+        "close_price": 72580.0,
+        "volume": 2312581.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250607,
+        "open_price": 72990.0,
+        "high_price": 73000.0,
+        "low_price": 70910.0,
+        "close_price": 71260.0,
+        "volume": 3247214.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250603,
+        "open_price": 73250.0,
+        "high_price": 73880.0,
+        "low_price": 72700.0,
+        "close_price": 73100.0,
+        "volume": 1047871.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250602,
+        "open_price": 73960.0,
+        "high_price": 73970.0,
+        "low_price": 73040.0,
+        "close_price": 73250.0,
+        "volume": 933808.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250601,
+        "open_price": 73410.0,
+        "high_price": 73670.0,
+        "low_price": 72900.0,
+        "close_price": 73030.0,
+        "volume": 1688871.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250531,
+        "open_price": 74240.0,
+        "high_price": 74240.0,
+        "low_price": 73000.0,
+        "close_price": 73620.0,
+        "volume": 2091260.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250528,
+        "open_price": 74190.0,
+        "high_price": 74600.0,
+        "low_price": 73880.0,
+        "close_price": 74170.0,
+        "volume": 924306.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250527,
+        "open_price": 73540.0,
+        "high_price": 74900.0,
+        "low_price": 73540.0,
+        "close_price": 74190.0,
+        "volume": 1415010.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250526,
+        "open_price": 74750.0,
+        "high_price": 75000.0,
+        "low_price": 72680.0,
+        "close_price": 73540.0,
+        "volume": 1383846.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250525,
+        "open_price": 74340.0,
+        "high_price": 74340.0,
+        "low_price": 72510.0,
+        "close_price": 73370.0,
+        "volume": 825685.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250524,
+        "open_price": 75000.0,
+        "high_price": 75860.0,
+        "low_price": 72720.0,
+        "close_price": 74400.0,
+        "volume": 1653039.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250521,
+        "open_price": 73720.0,
+        "high_price": 75000.0,
+        "low_price": 73720.0,
+        "close_price": 73730.0,
+        "volume": 7483471.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250520,
+        "open_price": 75990.0,
+        "high_price": 75990.0,
+        "low_price": 75990.0,
+        "close_price": 75990.0,
+        "volume": 14379652.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250519,
+        "open_price": 79350.0,
+        "high_price": 79360.0,
+        "low_price": 77760.0,
+        "close_price": 78340.0,
+        "volume": 2169702.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250518,
+        "open_price": 79700.0,
+        "high_price": 80780.0,
+        "low_price": 79210.0,
+        "close_price": 79500.0,
+        "volume": 1438908.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250517,
+        "open_price": 81000.0,
+        "high_price": 81000.0,
+        "low_price": 79230.0,
+        "close_price": 79580.0,
+        "volume": 1390439.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250514,
+        "open_price": 79610.0,
+        "high_price": 80660.0,
+        "low_price": 79210.0,
+        "close_price": 79590.0,
+        "volume": 2185166.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250513,
+        "open_price": 81200.0,
+        "high_price": 81200.0,
+        "low_price": 79020.0,
+        "close_price": 79800.0,
+        "volume": 1558102.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250512,
+        "open_price": 79410.0,
+        "high_price": 79410.0,
+        "low_price": 78800.0,
+        "close_price": 79410.0,
+        "volume": 3779587.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250511,
+        "open_price": 79100.0,
+        "high_price": 79100.0,
+        "low_price": 76510.0,
+        "close_price": 77100.0,
+        "volume": 3145572.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250510,
+        "open_price": 78050.0,
+        "high_price": 79530.0,
+        "low_price": 77380.0,
+        "close_price": 78220.0,
+        "volume": 1927224.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250507,
+        "open_price": 80190.0,
+        "high_price": 80300.0,
+        "low_price": 78510.0,
+        "close_price": 79560.0,
+        "volume": 3666682.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250506,
+        "open_price": 78220.0,
+        "high_price": 79880.0,
+        "low_price": 76770.0,
+        "close_price": 77980.0,
+        "volume": 2743015.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250505,
+        "open_price": 80000.0,
+        "high_price": 81800.0,
+        "low_price": 78170.0,
+        "close_price": 79010.0,
+        "volume": 1542997.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250504,
+        "open_price": 78130.0,
+        "high_price": 80200.0,
+        "low_price": 78130.0,
+        "close_price": 79450.0,
+        "volume": 2392623.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250503,
+        "open_price": 80520.0,
+        "high_price": 82000.0,
+        "low_price": 80520.0,
+        "close_price": 80530.0,
+        "volume": 3061889.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250430,
+        "open_price": 83490.0,
+        "high_price": 84330.0,
+        "low_price": 82640.0,
+        "close_price": 83010.0,
+        "volume": 4055111.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250429,
+        "open_price": 84300.0,
+        "high_price": 84350.0,
+        "low_price": 81810.0,
+        "close_price": 83700.0,
+        "volume": 4494495.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250428,
+        "open_price": 81800.0,
+        "high_price": 81910.0,
+        "low_price": 79900.0,
+        "close_price": 81910.0,
+        "volume": 4680124.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250427,
+        "open_price": 78810.0,
+        "high_price": 81000.0,
+        "low_price": 78810.0,
+        "close_price": 79530.0,
+        "volume": 2390117.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250426,
+        "open_price": 81120.0,
+        "high_price": 83500.0,
+        "low_price": 81110.0,
+        "close_price": 81240.0,
+        "volume": 6659500.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250423,
+        "open_price": 83610.0,
+        "high_price": 83610.0,
+        "low_price": 83610.0,
+        "close_price": 83610.0,
+        "volume": 1433267.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250422,
+        "open_price": 86190.0,
+        "high_price": 86380.0,
+        "low_price": 86190.0,
+        "close_price": 86190.0,
+        "volume": 1781571.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250421,
+        "open_price": 89900.0,
+        "high_price": 90000.0,
+        "low_price": 84960.0,
+        "close_price": 88850.0,
+        "volume": 5979428.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250420,
+        "open_price": 87380.0,
+        "high_price": 87380.0,
+        "low_price": 86570.0,
+        "close_price": 87380.0,
+        "volume": 4572896.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250419,
+        "open_price": 84100.0,
+        "high_price": 86990.0,
+        "low_price": 83900.0,
+        "close_price": 84840.0,
+        "volume": 4143613.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250416,
+        "open_price": 82500.0,
+        "high_price": 87270.0,
+        "low_price": 82500.0,
+        "close_price": 85210.0,
+        "volume": 2546710.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250415,
+        "open_price": 89420.0,
+        "high_price": 89420.0,
+        "low_price": 84500.0,
+        "close_price": 84740.0,
+        "volume": 5989230.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250414,
+        "open_price": 87110.0,
+        "high_price": 87110.0,
+        "low_price": 86000.0,
+        "close_price": 87110.0,
+        "volume": 8322954.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250413,
+        "open_price": 83550.0,
+        "high_price": 84640.0,
+        "low_price": 83550.0,
+        "close_price": 84580.0,
+        "volume": 4680159.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250412,
+        "open_price": 79430.0,
+        "high_price": 83150.0,
+        "low_price": 79430.0,
+        "close_price": 82180.0,
+        "volume": 2094828.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250409,
+        "open_price": 81790.0,
+        "high_price": 81790.0,
+        "low_price": 79610.0,
+        "close_price": 81120.0,
+        "volume": 2451556.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250408,
+        "open_price": 79410.0,
+        "high_price": 79410.0,
+        "low_price": 79410.0,
+        "close_price": 79410.0,
+        "volume": 1428663.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250407,
+        "open_price": 77780.0,
+        "high_price": 78400.0,
+        "low_price": 76430.0,
+        "close_price": 77100.0,
+        "volume": 1962425.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250406,
+        "open_price": 77770.0,
+        "high_price": 80000.0,
+        "low_price": 77750.0,
+        "close_price": 78480.0,
+        "volume": 1791687.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250405,
+        "open_price": 82790.0,
+        "high_price": 82790.0,
+        "low_price": 79000.0,
+        "close_price": 80080.0,
+        "volume": 2916801.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250330,
+        "open_price": 80100.0,
+        "high_price": 82700.0,
+        "low_price": 80000.0,
+        "close_price": 81190.0,
+        "volume": 2003439.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250329,
+        "open_price": 82790.0,
+        "high_price": 82790.0,
+        "low_price": 79970.0,
+        "close_price": 81740.0,
+        "volume": 2232167.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250326,
+        "open_price": 82960.0,
+        "high_price": 82980.0,
+        "low_price": 81220.0,
+        "close_price": 82280.0,
+        "volume": 2505026.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250325,
+        "open_price": 80570.0,
+        "high_price": 80570.0,
+        "low_price": 80560.0,
+        "close_price": 80570.0,
+        "volume": 1644843.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250318,
+        "open_price": 77360.0,
+        "high_price": 79650.0,
+        "low_price": 77360.0,
+        "close_price": 78230.0,
+        "volume": 6875001.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250317,
+        "open_price": 77740.0,
+        "high_price": 80320.0,
+        "low_price": 77300.0,
+        "close_price": 79750.0,
+        "volume": 3518281.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250316,
+        "open_price": 77950.0,
+        "high_price": 78650.0,
+        "low_price": 76600.0,
+        "close_price": 77990.0,
+        "volume": 1686570.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250315,
+        "open_price": 74500.0,
+        "high_price": 76480.0,
+        "low_price": 74500.0,
+        "close_price": 76430.0,
+        "volume": 2966331.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250312,
+        "open_price": 72620.0,
+        "high_price": 75200.0,
+        "low_price": 72620.0,
+        "close_price": 74260.0,
+        "volume": 1363654.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250311,
+        "open_price": 74900.0,
+        "high_price": 76090.0,
+        "low_price": 72750.0,
+        "close_price": 73240.0,
+        "volume": 1336143.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250310,
+        "open_price": 73970.0,
+        "high_price": 76290.0,
+        "low_price": 73950.0,
+        "close_price": 74800.0,
+        "volume": 1733022.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250309,
+        "open_price": 75480.0,
+        "high_price": 75730.0,
+        "low_price": 73490.0,
+        "close_price": 74130.0,
+        "volume": 6968489.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250308,
+        "open_price": 77540.0,
+        "high_price": 77570.0,
+        "low_price": 75220.0,
+        "close_price": 75760.0,
+        "volume": 5890129.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250305,
+        "open_price": 77500.0,
+        "high_price": 79000.0,
+        "low_price": 76950.0,
+        "close_price": 77540.0,
+        "volume": 3353860.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250304,
+        "open_price": 76110.0,
+        "high_price": 79880.0,
+        "low_price": 76110.0,
+        "close_price": 78620.0,
+        "volume": 2838597.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250303,
+        "open_price": 77560.0,
+        "high_price": 77800.0,
+        "low_price": 77560.0,
+        "close_price": 77560.0,
+        "volume": 7269959.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250302,
+        "open_price": 77520.0,
+        "high_price": 80520.0,
+        "low_price": 77520.0,
+        "close_price": 79950.0,
+        "volume": 3577020.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250301,
+        "open_price": 75600.0,
+        "high_price": 78690.0,
+        "low_price": 75600.0,
+        "close_price": 78180.0,
+        "volume": 6239478.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250226,
+        "open_price": 75590.0,
+        "high_price": 77830.0,
+        "low_price": 75500.0,
+        "close_price": 76400.0,
+        "volume": 4968787.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250225,
+        "open_price": 78660.0,
+        "high_price": 78660.0,
+        "low_price": 75880.0,
+        "close_price": 77830.0,
+        "volume": 6997652.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250224,
+        "open_price": 74680.0,
+        "high_price": 76430.0,
+        "low_price": 74680.0,
+        "close_price": 76370.0,
+        "volume": 2845259.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250223,
+        "open_price": 75420.0,
+        "high_price": 76900.0,
+        "low_price": 73200.0,
+        "close_price": 74210.0,
+        "volume": 4924783.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250222,
+        "open_price": 77990.0,
+        "high_price": 77990.0,
+        "low_price": 73480.0,
+        "close_price": 75220.0,
+        "volume": 6313400.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250219,
+        "open_price": 75750.0,
+        "high_price": 75750.0,
+        "low_price": 75750.0,
+        "close_price": 75750.0,
+        "volume": 3193671.0
+    },
+    {
+        "symbol": "بوعلی",
+        "trade_date": 20250218,
+        "open_price": 73000.0,
+        "high_price": 73670.0,
+        "low_price": 72000.0,
+        "close_price": 73550.0,
+        "volume": 4540953.0
+    }
+]
