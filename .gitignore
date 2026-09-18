@@ -1,7 +1,55 @@
-# __pycache__/ 
-# *.pyc 
-# *.db 
-# *.csv 
-# data/ 
-# logs/ 
-#  database/ 
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+*.egg-info/
+.venv/
+venv/
+env/
+
+# === IDE ===
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# === داده‌ی سنگین ===
+data/history/*.json
+data/history/*.db
+data/smart_bourse.db
+data/smart_bourse.db-journal
+data/real_flow/*.json
+data/real_flow/*.xlsx
+data/real_flow/*.html
+data/real_flow/history/
+data/ai/
+data/market_today.json
+data/watchlist.json
+*.csv
+*.xlsx
+*.parquet
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# === لاگ‌ها ===
+logs/
+*.log
+
+# === بک‌آپ‌ها ===
+*.bak
+*.backup
+*_OLD.txt
+*_old.txt
+
+# === موقت ===
+~$*
+*.tmp
+New Text Document.txt
+Thumbs.db
+.DS_Store
