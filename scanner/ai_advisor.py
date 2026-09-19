@@ -1,10 +1,9 @@
 """
 Project : Smart_Bourse
 File    : scanner/ai_advisor.py
-Version : 1.0.0
-
+Version : 2.0.0
 Description :
-    مشاور AI
+    مشاور AI — با cache برای سرعت ۳ برابر
 """
 
 import json
@@ -29,6 +28,7 @@ class AIAdvisor:
     def __init__(self):
         self.engine = AIEngine()
         self.data_dir = REAL_FLOW_DIR
+        self._history_cache = {}
 
     def find_latest_json(self):
         if not self.data_dir.exists():
@@ -38,24 +38,35 @@ class AIAdvisor:
         return files[0] if files else None
 
     def _lookup_price(self, symbol, days_ago):
+        """قیمت چند روز پیش — با cache (یه بار درخواست، چند قیمت)"""
+        if symbol not in self._history_cache:
+            try:
+                df = att.get_history(symbol)
+                if df is not None and not df.empty and "Close" in df.columns:
+                    self._history_cache[symbol] = df["Close"].tolist()
+                else:
+                    self._history_cache[symbol] = []
+            except Exception:
+                self._history_cache[symbol] = []
+
+        prices = self._history_cache[symbol]
+        if len(prices) <= days_ago:
+            return None
         try:
-            df = att.get_history(symbol)
-            if df is None or df.empty or len(df) <= days_ago:
-                return None
-            return float(df["Close"].iloc[-1 - days_ago])
+            return float(prices[-1 - days_ago])
         except Exception:
             return None
 
     def run(self, json_file=None):
         print()
         print("=" * 70)
-        print("  🧠 Smart_Bourse AI Advisor")
+        print("  Smart_Bourse AI Advisor")
         print("=" * 70)
 
         print()
-        print("📚 چک نتایج سیگنال‌های قبلی ...")
+        print("چک نتایج سیگنال‌های قبلی ...")
         checked = self.engine.check_outcomes(self._lookup_price)
-        print("   " + str(checked) + " نتیجه چک شد")
+        print("   " + str(checked) + " نتیجه جدید چک شد")
 
         self.engine.report()
 
@@ -68,14 +79,14 @@ class AIAdvisor:
             return
 
         print()
-        print("📄 خواندن سیگنال‌های جدید: " + json_file.name)
+        print("خواندن سیگنال‌های جدید: " + json_file.name)
         with open(json_file, "r", encoding="utf-8") as f:
             data = json.load(f)
 
         trade_date = data.get("date")
 
         print()
-        print("💾 ثبت سیگنال‌ها تو حافظه AI ...")
+        print("ثبت سیگنال‌ها تو حافظه AI ...")
 
         for cat in ["safe_buy", "safe_sell", "queue_buy"]:
             for item in data.get(cat, []):
@@ -94,7 +105,7 @@ class AIAdvisor:
 
         print()
         print("=" * 70)
-        print("  🎯 توصیه AI برای هر نماد")
+        print("  توصیه AI برای هر نماد")
         print("=" * 70)
 
         tech_file = self.data_dir / ("technical_" + str(trade_date) + ".json")
@@ -132,7 +143,7 @@ class AIAdvisor:
                 )
 
                 print("   " + symbol.ljust(10) + " | نسبت: " + str(round(advice["ratio"], 2)).rjust(7) + " | امتیاز: " + str(advice["final_score"]).rjust(5) + " | اعتماد: " + str(advice["confidence"]))
-                print("      💡 " + advice["advice"])
+                print("      " + advice["advice"])
 
         print()
         print("=" * 70)

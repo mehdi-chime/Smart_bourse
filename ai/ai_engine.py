@@ -1,10 +1,9 @@
 """
 Project : Smart_Bourse
 File    : ai/ai_engine.py
-Version : 1.0.0
-
+Version : 2.0.0
 Description :
-    مغز AI
+    مغز AI — با چک نتیجه هوشمند (فقط وقتی زمانش رسیده)
 """
 
 from datetime import datetime
@@ -39,25 +38,67 @@ class AIEngine:
         )
 
     def check_outcomes(self, price_lookup_func):
+        """
+        چک کردن نتیجه‌ی سیگنال‌ها
+        نکته مهم: فقط وقتی چک می‌کنه که واقعاً اون روزها گذشته باشه
+        """
         pending = self.memory.get_pending_signals()
         checked = 0
+        skipped = 0
+
+        today = datetime.now().date()
+
         for p in pending:
             symbol = p["symbol"]
             price_signal = p.get("last_price")
-            if not price_signal:
+            signal_date_str = p.get("date")
+
+            if not price_signal or not signal_date_str:
+                skipped += 1
                 continue
+
+            # محاسبه‌ی روزهای گذشته
             try:
-                price_1d = price_lookup_func(symbol, 1)
-                price_3d = price_lookup_func(symbol, 3)
-                price_7d = price_lookup_func(symbol, 7)
+                signal_date = datetime.strptime(str(signal_date_str), "%Y-%m-%d").date()
+                days_passed = (today - signal_date).days
             except Exception:
+                skipped += 1
                 continue
+
+            if days_passed < 1:
+                # هنوز یه روز هم نگذشته
+                skipped += 1
+                continue
+
+            # فقط اون قیمت‌هایی که زمانشون رسیده
+            price_1d = None
+            price_3d = None
+            price_7d = None
+
+            if days_passed >= 1:
+                price_1d = price_lookup_func(symbol, 1)
+            if days_passed >= 3:
+                price_3d = price_lookup_func(symbol, 3)
+            if days_passed >= 7:
+                price_7d = price_lookup_func(symbol, 7)
+
+            # تعیین موفقیت (اولویت: 7d > 3d > 1d)
             success = None
             cat = p["category"]
-            if cat == "SAFE_BUY" and price_3d:
-                success = price_3d > price_signal
-            elif cat == "SAFE_SELL" and price_3d:
-                success = price_3d < price_signal
+
+            for price_check in [price_7d, price_3d, price_1d]:
+                if price_check:
+                    if cat == "SAFE_BUY":
+                        success = price_check > price_signal
+                    elif cat == "SAFE_SELL":
+                        success = price_check < price_signal
+                    break
+
+            # اگه هیچ قیمتی موجود نبود، رد کن
+            if success is None:
+                skipped += 1
+                continue
+
             self.memory.save_outcome(
                 trade_date=p["date"],
                 symbol=symbol,
@@ -69,6 +110,10 @@ class AIEngine:
                 success=success,
             )
             checked += 1
+
+        if skipped > 0:
+            print("   (" + str(skipped) + " سیگنال هنوز زمانش نرسیده)")
+
         return checked
 
     def get_insight(self):
@@ -143,23 +188,23 @@ class AIEngine:
         insight = self.get_insight()
         print()
         print("=" * 70)
-        print("  🧠 Smart_Bourse AI — گزارش حافظه")
+        print("  Smart_Bourse AI — گزارش حافظه")
         print("=" * 70)
         m = insight["memory"]
         print()
-        print("📚 حافظه:")
+        print("حافظه:")
         print("   کل سیگنال‌ها     : " + str(m["total_signals"]))
         print("   نتایج چک‌شده     : " + str(m["total_outcomes"]))
         print("   در انتظار چک    : " + str(m["pending"]))
         print("   موفق            : " + str(m["success_count"]))
         print("   ناموفق           : " + str(m["failure_count"]))
         print()
-        print("⚖️  وزن‌های یادگرفته:")
+        print("وزن‌های یادگرفته:")
         for k, v in insight["weights"].items():
             print("   " + k.ljust(15) + " : " + str(round(v, 3)))
         if insight["category_stats"]:
             print()
-            print("📊 آمار دسته‌ها:")
+            print("آمار دسته‌ها:")
             for cat, s in insight["category_stats"].items():
                 rate = s.get("success_rate", 0)
                 print("   " + cat.ljust(12) + " : " + str(s["success"]) + "/" + str(s["total"]) + "  (" + str(round(rate * 100, 1)) + "%)")

@@ -16,10 +16,10 @@ EXCLUDE_PATTERNS = [
     "__pycache__", ".pyc", ".pyo", ".bak", ".backup",
     "_OLD.txt", "_old.txt", "smart_bourse.db", "db-journal",
     "smart_bourse.log", "New Text Document",
-    "data/history/", "data/real_flow/", "data/ai/",
+    "data/history/", "data/real_flow/", "data/ai/", "data/portfolio/",
     "data/market_today.json", "data/watchlist.json",
     "logs/", ".venv", "venv/", ".idea", ".vscode",
-    "status.txt",
+    "status.txt", "trades_input.txt", "reports/",
 ]
 
 
@@ -88,7 +88,8 @@ def main():
         return
 
     for f in files:
-        run('git add "' + f.replace('"', '\\"') + '"')
+        safe = f.replace('"', '\\"')
+        run('git add "' + safe + '"')
 
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M")
     code, out, err = run('git commit -m "Auto-update: ' + timestamp + '"')

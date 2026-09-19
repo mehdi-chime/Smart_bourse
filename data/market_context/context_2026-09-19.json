@@ -1,0 +1,77 @@
+{
+  "date": "2026-09-19",
+  "timestamp": "2026-09-19T17:13:21.276722",
+  "index": {
+    "total": 7448839.41,
+    "total_change": -108893.66,
+    "total_change_pct": -1.44,
+    "equal_weight": 1986769.81,
+    "state": "بسته"
+  },
+  "breadth": {
+    "advancers": 91,
+    "decliners": 416,
+    "unchanged": 94
+  },
+  "currency": {
+    "usd": 2279000.0
+  },
+  "sectors": [
+    {
+      "name": "صنعت 17",
+      "change": 2.69,
+      "type": "top"
+    },
+    {
+      "name": "صنعت 21",
+      "change": 0.91,
+      "type": "top"
+    },
+    {
+      "name": "صنعت 14",
+      "change": 0.84,
+      "type": "top"
+    },
+    {
+      "name": "صنعت 10",
+      "change": 0.78,
+      "type": "top"
+    },
+    {
+      "name": "صنعت 19",
+      "change": -0.32,
+      "type": "top"
+    },
+    {
+      "name": "صنعت 73",
+      "change": -2.75,
+      "type": "bottom"
+    },
+    {
+      "name": "صنعت 26",
+      "change": -2.78,
+      "type": "bottom"
+    },
+    {
+      "name": "صنعت 20",
+      "change": -2.8,
+      "type": "bottom"
+    },
+    {
+      "name": "صنعت 47",
+      "change": -2.83,
+      "type": "bottom"
+    },
+    {
+      "name": "صنعت 1",
+      "change": -2.92,
+      "type": "bottom"
+    }
+  ],
+  "interpretation": {
+    "index": "🔴 نزولی شدید",
+    "breadth": "🔴 عرضه قوی",
+    "currency": "💵 دلار: 2,279,000",
+    "overall": "🔴 بازار منفی — احتیاط"
+  }
+}
