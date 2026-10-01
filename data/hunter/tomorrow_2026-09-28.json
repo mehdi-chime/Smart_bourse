@@ -1,0 +1,232 @@
+{
+  "date": "2026-09-28",
+  "time": "01:12:02",
+  "top": [
+    {
+      "symbol": "فروس",
+      "last": 4020.0,
+      "yesterday": 4090.0,
+      "min_a": 3970.0,
+      "max_a": 4210.0,
+      "change": -1.71,
+      "distance_from_min": 1.2594458438287155,
+      "vol_buy": 25161837.0,
+      "vol_sell": 27294352.0,
+      "vol_buy_n": 2587819.0,
+      "vol_sell_n": 455304.0,
+      "score": 75,
+      "profit": 4.795340050377823,
+      "buy_target": 3970.0,
+      "sell_target": 4210.0,
+      "stop_loss": 3890.6,
+      "reasons": [
+        "فاصله 2% از کف",
+        "حقوقی قوی (5.7x)",
+        "منفی کم (-1.71%)"
+      ]
+    },
+    {
+      "symbol": "فرآور",
+      "last": 7910.0,
+      "yesterday": 7980.0,
+      "min_a": 7750.0,
+      "max_a": 8210.0,
+      "change": -2.63,
+      "distance_from_min": 2.064516129032258,
+      "vol_buy": 56772123.0,
+      "vol_sell": 68113999.0,
+      "vol_buy_n": 11644579.0,
+      "vol_sell_n": 302703.0,
+      "score": 70,
+      "profit": 4.685483870967739,
+      "buy_target": 7750.0,
+      "sell_target": 8210.0,
+      "stop_loss": 7595.0,
+      "reasons": [
+        "حقوقی قوی (38.5x)",
+        "منفی کم (-2.63%)"
+      ]
+    },
+    {
+      "symbol": "شوينده",
+      "last": 41970.0,
+      "yesterday": 42250.0,
+      "min_a": 40990.0,
+      "max_a": 43510.0,
+      "change": -1.92,
+      "distance_from_min": 2.3908270309831665,
+      "vol_buy": 4602051.0,
+      "vol_sell": 6864755.0,
+      "vol_buy_n": 2282174.0,
+      "vol_sell_n": 19470.0,
+      "score": 70,
+      "profit": 4.897840936813864,
+      "buy_target": 40990.0,
+      "sell_target": 43510.0,
+      "stop_loss": 40170.2,
+      "reasons": [
+        "حقوقی قوی (117.2x)",
+        "منفی کم (-1.92%)"
+      ]
+    },
+    {
+      "symbol": "ونفت",
+      "last": 10310.0,
+      "yesterday": 10520.0,
+      "min_a": 10210.0,
+      "max_a": 10830.0,
+      "change": -2.38,
+      "distance_from_min": 0.9794319294809012,
+      "vol_buy": 54318651.0,
+      "vol_sell": 55319651.0,
+      "vol_buy_n": 1001000.0,
+      "vol_sell_n": 0.0,
+      "score": 70,
+      "profit": 4.822477962781586,
+      "buy_target": 10210.0,
+      "sell_target": 10830.0,
+      "stop_loss": 10005.8,
+      "reasons": [
+        "نزدیک کف",
+        "حقوقی فقط خریدار",
+        "منفی کم (-2.38%)"
+      ]
+    },
+    {
+      "symbol": "ولغدر",
+      "last": 3660.0,
+      "yesterday": 3750.0,
+      "min_a": 3640.0,
+      "max_a": 3860.0,
+      "change": -1.07,
+      "distance_from_min": 0.5494505494505495,
+      "vol_buy": 26774689.0,
+      "vol_sell": 28179011.0,
+      "vol_buy_n": 1404322.0,
+      "vol_sell_n": 0.0,
+      "score": 70,
+      "profit": 4.793956043956045,
+      "buy_target": 3640.0,
+      "sell_target": 3860.0,
+      "stop_loss": 3567.2,
+      "reasons": [
+        "نزدیک کف",
+        "حقوقی فقط خریدار",
+        "منفی کم (-1.07%)"
+      ]
+    },
+    {
+      "symbol": "غشهد",
+      "last": 9800.0,
+      "yesterday": 10020.0,
+      "min_a": 9720.0,
+      "max_a": 10320.0,
+      "change": -2.5,
+      "distance_from_min": 0.823045267489712,
+      "vol_buy": 23818056.0,
+      "vol_sell": 25018056.0,
+      "vol_buy_n": 1200000.0,
+      "vol_sell_n": 0.0,
+      "score": 70,
+      "profit": 4.922839506172845,
+      "buy_target": 9720.0,
+      "sell_target": 10320.0,
+      "stop_loss": 9525.6,
+      "reasons": [
+        "نزدیک کف",
+        "حقوقی فقط خریدار",
+        "منفی کم (-2.50%)"
+      ]
+    },
+    {
+      "symbol": "لسرما",
+      "last": 6560.0,
+      "yesterday": 6760.0,
+      "min_a": 6560.0,
+      "max_a": 6960.0,
+      "change": -2.96,
+      "distance_from_min": 0.0,
+      "vol_buy": 8213377.0,
+      "vol_sell": 11231377.0,
+      "vol_buy_n": 3018000.0,
+      "vol_sell_n": 0.0,
+      "score": 70,
+      "profit": 4.8475609756097615,
+      "buy_target": 6560.0,
+      "sell_target": 6960.0,
+      "stop_loss": 6428.8,
+      "reasons": [
+        "نزدیک کف",
+        "حقوقی فقط خریدار",
+        "منفی کم (-2.96%)"
+      ]
+    },
+    {
+      "symbol": "وملي",
+      "last": 270600.0,
+      "yesterday": 271500.0,
+      "min_a": 263400.0,
+      "max_a": 279600.0,
+      "change": -1.84,
+      "distance_from_min": 2.733485193621868,
+      "vol_buy": 347422.0,
+      "vol_sell": 554930.0,
+      "vol_buy_n": 244605.0,
+      "vol_sell_n": 37097.0,
+      "score": 70,
+      "profit": 4.900341685649208,
+      "buy_target": 263400.0,
+      "sell_target": 279600.0,
+      "stop_loss": 258132.0,
+      "reasons": [
+        "حقوقی قوی (6.6x)",
+        "منفی کم (-1.84%)"
+      ]
+    },
+    {
+      "symbol": "ثشاهد",
+      "last": 11420.0,
+      "yesterday": 11420.0,
+      "min_a": 11080.0,
+      "max_a": 11760.0,
+      "change": -1.49,
+      "distance_from_min": 3.068592057761733,
+      "vol_buy": 43035612.0,
+      "vol_sell": 55823584.0,
+      "vol_buy_n": 13314399.0,
+      "vol_sell_n": 526427.0,
+      "score": 65,
+      "profit": 4.887184115523464,
+      "buy_target": 11080.0,
+      "sell_target": 11760.0,
+      "stop_loss": 10858.4,
+      "reasons": [
+        "حقوقی قوی (25.3x)",
+        "منفی کم (-1.49%)"
+      ]
+    },
+    {
+      "symbol": "چفيبر",
+      "last": 6220.0,
+      "yesterday": 6300.0,
+      "min_a": 6120.0,
+      "max_a": 6480.0,
+      "change": -1.75,
+      "distance_from_min": 1.6339869281045754,
+      "vol_buy": 16315906.0,
+      "vol_sell": 17193906.0,
+      "vol_buy_n": 878000.0,
+      "vol_sell_n": 0.0,
+      "score": 65,
+      "profit": 4.632352941176472,
+      "buy_target": 6120.0,
+      "sell_target": 6480.0,
+      "stop_loss": 5997.599999999999,
+      "reasons": [
+        "فاصله 2% از کف",
+        "حقوقی فقط خریدار",
+        "منفی کم (-1.75%)"
+      ]
+    }
+  ]
+}

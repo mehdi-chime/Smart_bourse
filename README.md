@@ -1,37 +1,118 @@
-# Smart_Bourse
+# 🎯 Smart_Bourse
 
-System for Iran Stock Market Analysis
+> سیستم تحلیل بورس ایران با AI یادگیرنده
 
-## Features
+---
 
-- Real money flow filter
-- Technical analysis (RSI, MACD, MA)
-- AI Engine with memory
-- HTML Dashboard
-- Trading journal
-- Strategy backtest
-- Market context (index, dollar, sectors)
-- Decision engine
-- Live Monitor (order book)
+## 📌 درباره
 
-## Install
+Smart_Bourse یک سیستم تحلیل و معامله‌گری بورس ایران است که:
 
-pip install algotik-tse pandas numpy openpyxl
+- **هر روز** داده‌های بازار را جمع‌آوری می‌کند
+- **تحلیل** تکنیکال و بنیادی انجام می‌دهد
+- **سیگنال** خرید/فروش تولید می‌کند
+- **به ایتا** پیام می‌فرستد
+- **با AI** یاد می‌گیرد و بهتر می‌شود
 
-## Run
+---
 
-python main.py
-python run_decision.py
-python backtest/accumulation_sim.py
-python scanner/live_monitor.py
+## 🧠 فلسفه — شطرنج بورس
 
-## For Teachers
+> «مثل شطرنج: هر روز بازی کن، ضعف‌ها را بفهم، حذف کن.
+> AI هم همین: هر روز داده بگیر، تحلیل کن، بعد از یک سال خودش معامله کن.»
 
-This project is made for education.
+---
 
-## License
+## 🎯 استراتژی
+
+```
+سهم‌هایی که RSI پایین دارند + در منفی 3% هستند
+    ↓
+بخر
+    ↓
+وقتی به مثبت 3% رسیدند
+    ↓
+بفروش
+```
+
+---
+
+## 📁 ساختار
+
+| پوشه | کار |
+|:---|:---|
+| `ai/` | موتور AI (ML، حافظه، یادگیری) |
+| `analysis/` | تحلیل |
+| `backtest/` | بک‌تست |
+| `core/` | هسته |
+| `data/` | داده‌ها |
+| `database/` | دیتابیس |
+| `engines/` | موتورها |
+| `indicators/` | اندیکاتورها |
+| `market/` | بازار |
+| `portfolio/` | پرتفوی |
+| `scanner/` | اسکنرها |
+| `strategy/` | استراتژی |
+| `utils/` | ابزار |
+
+---
+
+## 🚀 نصب
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## 🎮 اجرا
+
+```bash
+# منوی اصلی
+python smart_bourse_v10.py
+
+# اسکنر
+python smart_scanner_v8.py
+
+# حالت مدرسه
+python school_mode_v7.py
+
+# بررسی شبانه
+python night_check.py
+```
+
+---
+
+## 🤖 AI
+
+AI این سیستم شامل:
+
+- `ai_engine.py` — موتور اصلی (advise, check_outcomes)
+- `memory.py` — حافظه (JSONL)
+- `learner.py` — یادگیری (تنظیم وزن)
+- `ml_model.py` — مدل ML (RandomForest)
+- `trainer.py` — آموزش
+
+---
+
+## 📊 وضعیت
+
+| معیار | مقدار |
+|:---|:---:|
+| دقت AI | ~55% |
+| فایل‌های py | 505 |
+| خطوط کد | 76,000+ |
+| دیتابیس | 5 |
+
+---
+
+## 📝 مجوز
 
 Free for educational and personal use.
 
-Created by: Mehdi Jalali
-With collaboration: DeepSeek AI
+---
+
+**Created by:** Mehdi Jalali
+**With collaboration:** DeepSeek AI
+
+*آخرین آپدیت: 2026-10-01*

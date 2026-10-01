@@ -1,0 +1,4510 @@
+{
+  "تابان08": [
+    {
+      "time": "09:00:12",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    }
+  ],
+  "پكوير": [
+    {
+      "time": "09:30:52",
+      "price": 3520.0,
+      "change_pct": -2.23,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8710678992733902
+    },
+    {
+      "time": "09:32:57",
+      "price": 3540.0,
+      "change_pct": -2.23,
+      "buy_queue": NaN,
+      "sell_queue": NaN,
+      "ratio": 0.872902863338142
+    },
+    {
+      "time": "09:35:02",
+      "price": 3540.0,
+      "change_pct": -1.96,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8703899287704244
+    },
+    {
+      "time": "09:37:12",
+      "price": 3540.0,
+      "change_pct": -1.96,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8730666447923687
+    },
+    {
+      "time": "09:39:17",
+      "price": 3540.0,
+      "change_pct": -1.96,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8734871714765323
+    },
+    {
+      "time": "09:41:19",
+      "price": 3550.0,
+      "change_pct": -1.96,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8726870202651369
+    },
+    {
+      "time": "09:43:00",
+      "price": 3540.0,
+      "change_pct": -1.96,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8727711309438974
+    },
+    {
+      "time": "09:45:06",
+      "price": 3550.0,
+      "change_pct": -1.96,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8704210930165689
+    },
+    {
+      "time": "09:47:19",
+      "price": 3550.0,
+      "change_pct": -1.96,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8661359797315077
+    },
+    {
+      "time": "09:49:23",
+      "price": 3550.0,
+      "change_pct": -1.96,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8635654269940525
+    },
+    {
+      "time": "09:51:24",
+      "price": 3530.0,
+      "change_pct": -1.68,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8607061053104219
+    },
+    {
+      "time": "09:53:31",
+      "price": 3510.0,
+      "change_pct": -1.68,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8615290561307476
+    },
+    {
+      "time": "09:55:34",
+      "price": 3540.0,
+      "change_pct": -1.68,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8584066098076488
+    },
+    {
+      "time": "09:57:41",
+      "price": 3540.0,
+      "change_pct": -1.68,
+      "buy_queue": NaN,
+      "sell_queue": NaN,
+      "ratio": 0.8555119121598966
+    },
+    {
+      "time": "09:59:46",
+      "price": 3550.0,
+      "change_pct": -1.68,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.852971805848617
+    },
+    {
+      "time": "10:01:51",
+      "price": 3530.0,
+      "change_pct": -1.68,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8513542146687753
+    },
+    {
+      "time": "10:04:00",
+      "price": 3530.0,
+      "change_pct": -1.68,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8497570132219949
+    },
+    {
+      "time": "10:06:03",
+      "price": 3550.0,
+      "change_pct": -1.68,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8480841131777199
+    },
+    {
+      "time": "10:08:07",
+      "price": 3540.0,
+      "change_pct": -1.68,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8446098722421781
+    },
+    {
+      "time": "10:10:18",
+      "price": 3540.0,
+      "change_pct": -1.68,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8421560218618191
+    },
+    {
+      "time": "10:11:56",
+      "price": 3540.0,
+      "change_pct": -1.68,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8404794402962591
+    },
+    {
+      "time": "10:14:02",
+      "price": 3530.0,
+      "change_pct": -1.68,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8403764782973014
+    },
+    {
+      "time": "10:16:11",
+      "price": 3540.0,
+      "change_pct": -1.68,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8413131598160549
+    },
+    {
+      "time": "10:18:19",
+      "price": 3550.0,
+      "change_pct": -1.68,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.844452424465988
+    },
+    {
+      "time": "10:20:26",
+      "price": 3590.0,
+      "change_pct": -1.68,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8465653364413434
+    },
+    {
+      "time": "10:22:36",
+      "price": 3610.0,
+      "change_pct": -1.68,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8466362348376064
+    },
+    {
+      "time": "10:24:44",
+      "price": 3620.0,
+      "change_pct": -1.68,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8196620301045731
+    },
+    {
+      "time": "10:26:49",
+      "price": 3640.0,
+      "change_pct": -1.4,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8176243001880035
+    },
+    {
+      "time": "10:28:56",
+      "price": 3650.0,
+      "change_pct": -1.4,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8165301430369628
+    },
+    {
+      "time": "10:31:04",
+      "price": 3650.0,
+      "change_pct": -1.4,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.817419311313464
+    },
+    {
+      "time": "10:33:13",
+      "price": 3650.0,
+      "change_pct": -1.4,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.813626407184211
+    },
+    {
+      "time": "10:35:23",
+      "price": 3650.0,
+      "change_pct": -1.12,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8174888936928305
+    },
+    {
+      "time": "10:37:30",
+      "price": 3650.0,
+      "change_pct": -1.12,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8110760793200341
+    },
+    {
+      "time": "10:39:40",
+      "price": 3650.0,
+      "change_pct": -1.12,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8049039191483864
+    },
+    {
+      "time": "10:41:51",
+      "price": 3620.0,
+      "change_pct": -1.12,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8029567914233321
+    },
+    {
+      "time": "10:43:59",
+      "price": 3580.0,
+      "change_pct": -1.12,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8009861037706684
+    },
+    {
+      "time": "10:46:00",
+      "price": 3630.0,
+      "change_pct": -1.12,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.7989418286723459
+    },
+    {
+      "time": "10:48:06",
+      "price": 3630.0,
+      "change_pct": -1.12,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.7973096346379661
+    },
+    {
+      "time": "10:50:12",
+      "price": 3600.0,
+      "change_pct": -1.12,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8152269102195795
+    },
+    {
+      "time": "10:52:18",
+      "price": 3620.0,
+      "change_pct": -0.84,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8141350071576406
+    },
+    {
+      "time": "10:54:25",
+      "price": 3600.0,
+      "change_pct": -0.84,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8136190381569853
+    },
+    {
+      "time": "10:56:40",
+      "price": 3640.0,
+      "change_pct": -0.84,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8134235260641486
+    },
+    {
+      "time": "10:58:55",
+      "price": 3640.0,
+      "change_pct": -0.84,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8155778921467137
+    },
+    {
+      "time": "11:01:14",
+      "price": 3630.0,
+      "change_pct": -0.84,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8169809609792819
+    },
+    {
+      "time": "11:03:22",
+      "price": 3640.0,
+      "change_pct": -0.84,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8177606730787707
+    },
+    {
+      "time": "11:05:27",
+      "price": 3620.0,
+      "change_pct": -0.84,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8179842600633113
+    },
+    {
+      "time": "11:07:33",
+      "price": 3610.0,
+      "change_pct": -0.84,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8182348459123939
+    },
+    {
+      "time": "11:09:40",
+      "price": 3610.0,
+      "change_pct": -0.84,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8272750126864412
+    },
+    {
+      "time": "11:11:48",
+      "price": 3610.0,
+      "change_pct": -0.84,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8274409188834805
+    },
+    {
+      "time": "11:14:00",
+      "price": 3610.0,
+      "change_pct": -0.84,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8271575878903451
+    }
+  ],
+  "سهرمز": [
+    {
+      "time": "09:30:52",
+      "price": 20070.0,
+      "change_pct": 0.15,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8837041531079367
+    },
+    {
+      "time": "09:32:57",
+      "price": 20440.0,
+      "change_pct": 0.2,
+      "buy_queue": NaN,
+      "sell_queue": NaN,
+      "ratio": 0.8837041531079367
+    },
+    {
+      "time": "09:35:02",
+      "price": 20440.0,
+      "change_pct": 0.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8837041531079367
+    },
+    {
+      "time": "09:37:12",
+      "price": 20440.0,
+      "change_pct": 0.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8837041531079367
+    },
+    {
+      "time": "09:39:17",
+      "price": 20440.0,
+      "change_pct": 0.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8837041531079367
+    },
+    {
+      "time": "09:41:19",
+      "price": 20200.0,
+      "change_pct": 0.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8838358796709483
+    },
+    {
+      "time": "09:43:00",
+      "price": 20200.0,
+      "change_pct": 0.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8861869363485425
+    },
+    {
+      "time": "09:45:06",
+      "price": 20100.0,
+      "change_pct": 0.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8864810503851512
+    },
+    {
+      "time": "09:47:19",
+      "price": 20100.0,
+      "change_pct": 0.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8871061006480573
+    },
+    {
+      "time": "09:49:23",
+      "price": 20100.0,
+      "change_pct": 0.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8882915261851834
+    },
+    {
+      "time": "09:51:24",
+      "price": 20100.0,
+      "change_pct": 0.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8885513193752921
+    },
+    {
+      "time": "09:53:31",
+      "price": 20270.0,
+      "change_pct": 0.25,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8902349638933542
+    },
+    {
+      "time": "09:55:34",
+      "price": 20270.0,
+      "change_pct": 0.3,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8952493179103914
+    },
+    {
+      "time": "09:57:41",
+      "price": 20270.0,
+      "change_pct": 0.3,
+      "buy_queue": NaN,
+      "sell_queue": NaN,
+      "ratio": 0.8954570605255904
+    },
+    {
+      "time": "09:59:46",
+      "price": 20370.0,
+      "change_pct": 0.3,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8959440813434059
+    },
+    {
+      "time": "10:01:51",
+      "price": 20200.0,
+      "change_pct": 0.3,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.897101853821934
+    },
+    {
+      "time": "10:04:00",
+      "price": 20200.0,
+      "change_pct": 0.35,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8989752641373111
+    },
+    {
+      "time": "10:06:03",
+      "price": 20360.0,
+      "change_pct": 0.35,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8991839318534328
+    },
+    {
+      "time": "10:08:07",
+      "price": 20200.0,
+      "change_pct": 0.35,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8992802456374326
+    },
+    {
+      "time": "10:10:18",
+      "price": 20200.0,
+      "change_pct": 0.35,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8992802456374326
+    },
+    {
+      "time": "10:11:56",
+      "price": 20200.0,
+      "change_pct": 0.35,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8992802456374326
+    },
+    {
+      "time": "10:14:02",
+      "price": 20350.0,
+      "change_pct": 0.35,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.9097017195721466
+    },
+    {
+      "time": "10:16:11",
+      "price": 20220.0,
+      "change_pct": 0.5,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.9107067309180589
+    },
+    {
+      "time": "10:18:19",
+      "price": 20220.0,
+      "change_pct": 0.5,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.9110679857766328
+    },
+    {
+      "time": "10:20:26",
+      "price": 20380.0,
+      "change_pct": 0.65,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8296943503776185
+    },
+    {
+      "time": "10:22:36",
+      "price": 20380.0,
+      "change_pct": 0.65,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8253010941642532
+    },
+    {
+      "time": "10:24:44",
+      "price": 20220.0,
+      "change_pct": 0.7,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8281934479633649
+    },
+    {
+      "time": "10:26:49",
+      "price": 20210.0,
+      "change_pct": 0.7,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8356517882343454
+    },
+    {
+      "time": "10:28:56",
+      "price": 20210.0,
+      "change_pct": 0.7,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8378714358466706
+    },
+    {
+      "time": "10:31:04",
+      "price": 20430.0,
+      "change_pct": 0.75,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8408725330837106
+    },
+    {
+      "time": "10:33:13",
+      "price": 20460.0,
+      "change_pct": 0.75,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8423687339887471
+    },
+    {
+      "time": "10:35:23",
+      "price": 20460.0,
+      "change_pct": 0.75,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.842370941830156
+    },
+    {
+      "time": "10:37:30",
+      "price": 20450.0,
+      "change_pct": 0.75,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8428112704462952
+    },
+    {
+      "time": "10:39:40",
+      "price": 20450.0,
+      "change_pct": 0.75,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8630893554120831
+    },
+    {
+      "time": "10:41:51",
+      "price": 20490.0,
+      "change_pct": 1.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8645034384037296
+    },
+    {
+      "time": "10:43:59",
+      "price": 20250.0,
+      "change_pct": 1.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.864898716654476
+    },
+    {
+      "time": "10:46:00",
+      "price": 20250.0,
+      "change_pct": 1.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.864898716654476
+    },
+    {
+      "time": "10:48:06",
+      "price": 20250.0,
+      "change_pct": 1.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8649395384252796
+    },
+    {
+      "time": "10:50:12",
+      "price": 20300.0,
+      "change_pct": 1.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8658979797796673
+    },
+    {
+      "time": "10:52:18",
+      "price": 20300.0,
+      "change_pct": 1.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8658979797796673
+    },
+    {
+      "time": "10:54:25",
+      "price": 20490.0,
+      "change_pct": 1.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8671243694267057
+    },
+    {
+      "time": "10:56:40",
+      "price": 20490.0,
+      "change_pct": 1.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8676843286145657
+    },
+    {
+      "time": "10:58:55",
+      "price": 20400.0,
+      "change_pct": 1.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8676843286145657
+    },
+    {
+      "time": "11:01:14",
+      "price": 20400.0,
+      "change_pct": 1.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8676844875402823
+    },
+    {
+      "time": "11:03:22",
+      "price": 20410.0,
+      "change_pct": 1.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8821286160580524
+    },
+    {
+      "time": "11:05:27",
+      "price": 20500.0,
+      "change_pct": 1.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8841033846936397
+    },
+    {
+      "time": "11:07:33",
+      "price": 20000.0,
+      "change_pct": 1.25,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.1590704257533828
+    },
+    {
+      "time": "11:09:40",
+      "price": 20000.0,
+      "change_pct": 1.25,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.1590704257533828
+    },
+    {
+      "time": "11:11:48",
+      "price": 20070.0,
+      "change_pct": 1.25,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.1578204176737263
+    },
+    {
+      "time": "11:14:00",
+      "price": 20080.0,
+      "change_pct": 1.25,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.1578204176737263
+    }
+  ],
+  "احيا": [
+    {
+      "time": "09:30:52",
+      "price": 5060.0,
+      "change_pct": 2.4,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.6846413159302034
+    },
+    {
+      "time": "09:32:57",
+      "price": 5060.0,
+      "change_pct": 2.4,
+      "buy_queue": NaN,
+      "sell_queue": NaN,
+      "ratio": 0.6847983366472792
+    },
+    {
+      "time": "09:35:02",
+      "price": 5110.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.6811221524391804
+    },
+    {
+      "time": "09:37:12",
+      "price": 5120.0,
+      "change_pct": 2.4,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.7007579977231674
+    },
+    {
+      "time": "09:39:17",
+      "price": 5110.0,
+      "change_pct": 2.4,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.7071428093286991
+    },
+    {
+      "time": "09:41:19",
+      "price": 5100.0,
+      "change_pct": 2.4,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.7272211321440185
+    },
+    {
+      "time": "09:43:00",
+      "price": 5100.0,
+      "change_pct": 2.4,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.725987895399257
+    },
+    {
+      "time": "09:45:06",
+      "price": 5090.0,
+      "change_pct": 2.4,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.7240967512576836
+    },
+    {
+      "time": "09:47:19",
+      "price": 5090.0,
+      "change_pct": 2.4,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.7222913052142562
+    },
+    {
+      "time": "09:49:23",
+      "price": 5080.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.7228606657269487
+    },
+    {
+      "time": "09:51:24",
+      "price": 5080.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.7245325968297176
+    },
+    {
+      "time": "09:53:31",
+      "price": 5080.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.7252209146701593
+    },
+    {
+      "time": "09:55:34",
+      "price": 5070.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.7272166238102488
+    },
+    {
+      "time": "09:57:41",
+      "price": 5070.0,
+      "change_pct": 2.2,
+      "buy_queue": NaN,
+      "sell_queue": NaN,
+      "ratio": 0.7267163958723145
+    },
+    {
+      "time": "09:59:46",
+      "price": 5060.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.726778838831995
+    },
+    {
+      "time": "10:01:51",
+      "price": 5070.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.7240898673659923
+    },
+    {
+      "time": "10:04:00",
+      "price": 5070.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.7234069917677227
+    },
+    {
+      "time": "10:06:03",
+      "price": 5080.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.7229201493919893
+    },
+    {
+      "time": "10:08:07",
+      "price": 5070.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.721409694530388
+    },
+    {
+      "time": "10:10:18",
+      "price": 5070.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.7194339297672655
+    },
+    {
+      "time": "10:11:56",
+      "price": 5060.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.7184820108318498
+    },
+    {
+      "time": "10:14:02",
+      "price": 5060.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.7166159003486504
+    },
+    {
+      "time": "10:16:11",
+      "price": 5070.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.7176148724655835
+    },
+    {
+      "time": "10:18:19",
+      "price": 5070.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.7181551181478787
+    },
+    {
+      "time": "10:20:26",
+      "price": 5080.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.7232629928920093
+    },
+    {
+      "time": "10:22:36",
+      "price": 5080.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.7233629818465387
+    },
+    {
+      "time": "10:24:44",
+      "price": 5070.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.7232548734389599
+    },
+    {
+      "time": "10:26:49",
+      "price": 5070.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.7228329320806451
+    },
+    {
+      "time": "10:28:56",
+      "price": 5070.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.7249434604087326
+    },
+    {
+      "time": "10:31:04",
+      "price": 5080.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.7256868613557368
+    },
+    {
+      "time": "10:33:13",
+      "price": 5070.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.7272851067877091
+    },
+    {
+      "time": "10:35:23",
+      "price": 5080.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.7281220663297777
+    },
+    {
+      "time": "10:37:30",
+      "price": 5080.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.7303631174671124
+    },
+    {
+      "time": "10:39:40",
+      "price": 5070.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.7414019765789395
+    },
+    {
+      "time": "10:41:51",
+      "price": 5080.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.7364077697070074
+    },
+    {
+      "time": "10:43:59",
+      "price": 5080.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.7339298507298708
+    },
+    {
+      "time": "10:46:00",
+      "price": 5090.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.7371925073541147
+    },
+    {
+      "time": "10:48:06",
+      "price": 5100.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.7660512592514647
+    },
+    {
+      "time": "10:50:12",
+      "price": 5090.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.7662424225531167
+    },
+    {
+      "time": "10:52:18",
+      "price": 5110.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.7739369914479253
+    },
+    {
+      "time": "10:54:25",
+      "price": 5120.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.7605909389482848
+    },
+    {
+      "time": "10:56:40",
+      "price": 5120.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.7625552278001262
+    },
+    {
+      "time": "10:58:55",
+      "price": 5120.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.7928520681300202
+    },
+    {
+      "time": "11:01:14",
+      "price": 5130.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8158328733881932
+    },
+    {
+      "time": "11:03:22",
+      "price": 5130.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8164016196593376
+    },
+    {
+      "time": "11:05:27",
+      "price": 5120.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8168982409287999
+    },
+    {
+      "time": "11:07:33",
+      "price": 5130.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8182932794215372
+    },
+    {
+      "time": "11:09:40",
+      "price": 5120.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8203493697132479
+    },
+    {
+      "time": "11:11:48",
+      "price": 5120.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8213500060397038
+    },
+    {
+      "time": "11:14:00",
+      "price": 5130.0,
+      "change_pct": 2.2,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8219360110348652
+    }
+  ],
+  "خپارس": [
+    {
+      "time": "09:30:52",
+      "price": 2056.0,
+      "change_pct": -0.88,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.9301803901513602
+    },
+    {
+      "time": "09:32:57",
+      "price": 2057.0,
+      "change_pct": -0.83,
+      "buy_queue": NaN,
+      "sell_queue": NaN,
+      "ratio": 0.9302969110898647
+    },
+    {
+      "time": "09:35:02",
+      "price": 2078.0,
+      "change_pct": -0.78,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.9375354042216711
+    },
+    {
+      "time": "09:37:12",
+      "price": 2084.0,
+      "change_pct": -0.78,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.9414172414580836
+    },
+    {
+      "time": "09:39:17",
+      "price": 2106.0,
+      "change_pct": -0.34,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.9497647713985107
+    },
+    {
+      "time": "09:41:19",
+      "price": 2094.0,
+      "change_pct": -0.19,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.9514890006190404
+    },
+    {
+      "time": "09:43:00",
+      "price": 2098.0,
+      "change_pct": -0.1,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.9536882247994408
+    },
+    {
+      "time": "09:45:06",
+      "price": 2098.0,
+      "change_pct": -0.1,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.9545605029597597
+    },
+    {
+      "time": "09:47:19",
+      "price": 2102.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.9566127478497473
+    },
+    {
+      "time": "09:49:23",
+      "price": 2093.0,
+      "change_pct": 0.1,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.9565643954141627
+    },
+    {
+      "time": "09:51:24",
+      "price": 2106.0,
+      "change_pct": 0.29,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.958334321683676
+    },
+    {
+      "time": "09:53:31",
+      "price": 2095.0,
+      "change_pct": 0.34,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.9597150690796695
+    },
+    {
+      "time": "09:55:34",
+      "price": 2088.0,
+      "change_pct": 0.34,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.9597876727866739
+    },
+    {
+      "time": "09:57:41",
+      "price": 2081.0,
+      "change_pct": 0.34,
+      "buy_queue": NaN,
+      "sell_queue": NaN,
+      "ratio": 0.9606553881091932
+    },
+    {
+      "time": "09:59:46",
+      "price": 2083.0,
+      "change_pct": 0.34,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.960738842786618
+    },
+    {
+      "time": "10:01:51",
+      "price": 2086.0,
+      "change_pct": 0.34,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.9612447596507298
+    },
+    {
+      "time": "10:04:00",
+      "price": 2090.0,
+      "change_pct": 0.34,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.9615086334941219
+    },
+    {
+      "time": "10:06:03",
+      "price": 2089.0,
+      "change_pct": 0.39,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.9659027929196985
+    },
+    {
+      "time": "10:08:07",
+      "price": 2086.0,
+      "change_pct": 0.39,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.9661841374291043
+    },
+    {
+      "time": "10:10:18",
+      "price": 2071.0,
+      "change_pct": 0.39,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.9705385589720622
+    },
+    {
+      "time": "10:11:56",
+      "price": 2101.0,
+      "change_pct": 0.54,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8426567780157602
+    },
+    {
+      "time": "10:14:02",
+      "price": 2111.0,
+      "change_pct": 1.46,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.9196605677261469
+    },
+    {
+      "time": "10:16:11",
+      "price": 2117.0,
+      "change_pct": 1.9,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.9788461736235023
+    },
+    {
+      "time": "10:18:19",
+      "price": 2117.0,
+      "change_pct": 2.09,
+      "buy_queue": 38729272.0,
+      "sell_queue": 0.0,
+      "ratio": 0.9838366999385029
+    },
+    {
+      "time": "10:20:26",
+      "price": 2117.0,
+      "change_pct": 2.14,
+      "buy_queue": 8275764.0,
+      "sell_queue": 0.0,
+      "ratio": 0.9930940609220461
+    },
+    {
+      "time": "10:22:36",
+      "price": 2117.0,
+      "change_pct": 2.14,
+      "buy_queue": 19845724.0,
+      "sell_queue": 0.0,
+      "ratio": 0.9995102245443234
+    },
+    {
+      "time": "10:24:44",
+      "price": 2111.0,
+      "change_pct": 2.24,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0052689717237573
+    },
+    {
+      "time": "10:26:49",
+      "price": 2117.0,
+      "change_pct": 2.24,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0052356516092626
+    },
+    {
+      "time": "10:28:56",
+      "price": 2117.0,
+      "change_pct": 2.24,
+      "buy_queue": 7327171.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0055175956039457
+    },
+    {
+      "time": "10:31:04",
+      "price": 2117.0,
+      "change_pct": 2.29,
+      "buy_queue": 1694468.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0065575379517993
+    },
+    {
+      "time": "10:33:13",
+      "price": 2114.0,
+      "change_pct": 2.29,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0065311974209128
+    },
+    {
+      "time": "10:35:23",
+      "price": 2112.0,
+      "change_pct": 2.29,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0065149165886471
+    },
+    {
+      "time": "10:37:30",
+      "price": 2115.0,
+      "change_pct": 2.29,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0064815876786144
+    },
+    {
+      "time": "10:39:40",
+      "price": 2116.0,
+      "change_pct": 2.29,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0063975503782483
+    },
+    {
+      "time": "10:41:51",
+      "price": 2117.0,
+      "change_pct": 2.29,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.006308404249085
+    },
+    {
+      "time": "10:43:59",
+      "price": 2117.0,
+      "change_pct": 2.29,
+      "buy_queue": 5463166.0,
+      "sell_queue": 0.0,
+      "ratio": 1.01707000839982
+    },
+    {
+      "time": "10:46:00",
+      "price": 2117.0,
+      "change_pct": 2.33,
+      "buy_queue": 170528.0,
+      "sell_queue": 0.0,
+      "ratio": 1.019163107539138
+    },
+    {
+      "time": "10:48:06",
+      "price": 2117.0,
+      "change_pct": 2.33,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.023665575168341
+    },
+    {
+      "time": "10:50:12",
+      "price": 2116.0,
+      "change_pct": 2.33,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.02556206575248
+    },
+    {
+      "time": "10:52:18",
+      "price": 2116.0,
+      "change_pct": 2.33,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.026240689336047
+    },
+    {
+      "time": "10:54:25",
+      "price": 2110.0,
+      "change_pct": 2.33,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0274737725329837
+    },
+    {
+      "time": "10:56:40",
+      "price": 2108.0,
+      "change_pct": 2.33,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0273979699689784
+    },
+    {
+      "time": "10:58:55",
+      "price": 2091.0,
+      "change_pct": 2.33,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.027301761297203
+    },
+    {
+      "time": "11:01:14",
+      "price": 2106.0,
+      "change_pct": 2.33,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0272311630964694
+    },
+    {
+      "time": "11:03:22",
+      "price": 2106.0,
+      "change_pct": 2.33,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0286365089497889
+    },
+    {
+      "time": "11:05:27",
+      "price": 2106.0,
+      "change_pct": 2.33,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0286177754559322
+    },
+    {
+      "time": "11:07:33",
+      "price": 2106.0,
+      "change_pct": 2.33,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0286046632370622
+    },
+    {
+      "time": "11:09:40",
+      "price": 2109.0,
+      "change_pct": 2.33,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0283014971077802
+    },
+    {
+      "time": "11:11:48",
+      "price": 2107.0,
+      "change_pct": 2.33,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.031443344021472
+    },
+    {
+      "time": "11:14:00",
+      "price": 2098.0,
+      "change_pct": 2.33,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0356948406498583
+    }
+  ],
+  "خگستر": [
+    {
+      "time": "09:30:52",
+      "price": 4000.0,
+      "change_pct": 2.06,
+      "buy_queue": 285945950.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0263525691654165
+    },
+    {
+      "time": "09:32:57",
+      "price": 4000.0,
+      "change_pct": 2.06,
+      "buy_queue": NaN,
+      "sell_queue": NaN,
+      "ratio": 1.0324144335734076
+    },
+    {
+      "time": "09:35:02",
+      "price": 4000.0,
+      "change_pct": 2.06,
+      "buy_queue": 260507179.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0389880387784995
+    },
+    {
+      "time": "09:37:12",
+      "price": 4000.0,
+      "change_pct": 2.06,
+      "buy_queue": 258268375.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0388923749732641
+    },
+    {
+      "time": "09:39:17",
+      "price": 4000.0,
+      "change_pct": 2.06,
+      "buy_queue": 256132261.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0387913517008907
+    },
+    {
+      "time": "09:41:19",
+      "price": 4000.0,
+      "change_pct": 2.06,
+      "buy_queue": 187059479.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0381967590704753
+    },
+    {
+      "time": "09:43:00",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 164702793.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0378739109893143
+    },
+    {
+      "time": "09:45:06",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 159586713.0,
+      "sell_queue": 0.0,
+      "ratio": 1.035687138624663
+    },
+    {
+      "time": "09:47:19",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 146144073.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0352190250142146
+    },
+    {
+      "time": "09:49:23",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 131174804.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0695027856830241
+    },
+    {
+      "time": "09:51:24",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 55649266.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0657019724258905
+    },
+    {
+      "time": "09:53:31",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 63993193.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0563957939875424
+    },
+    {
+      "time": "09:55:34",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 210837217.0,
+      "sell_queue": 0.0,
+      "ratio": 1.056149091059959
+    },
+    {
+      "time": "09:57:41",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": NaN,
+      "sell_queue": NaN,
+      "ratio": 1.0549934072239608
+    },
+    {
+      "time": "09:59:46",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 241372702.0,
+      "sell_queue": 0.0,
+      "ratio": 1.054807583937255
+    },
+    {
+      "time": "10:01:51",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 242512017.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0547150794577067
+    },
+    {
+      "time": "10:04:00",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 223962600.0,
+      "sell_queue": 0.0,
+      "ratio": 1.054670231255879
+    },
+    {
+      "time": "10:06:03",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 210110818.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0545192280978506
+    },
+    {
+      "time": "10:08:07",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 211774732.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0542498406984973
+    },
+    {
+      "time": "10:10:18",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 209230319.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0537538579901957
+    },
+    {
+      "time": "10:11:56",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 213462162.0,
+      "sell_queue": 0.0,
+      "ratio": 1.053605653503755
+    },
+    {
+      "time": "10:14:02",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 217996042.0,
+      "sell_queue": 0.0,
+      "ratio": 1.053444152663126
+    },
+    {
+      "time": "10:16:11",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 220271890.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0531726243576238
+    },
+    {
+      "time": "10:18:19",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 222988166.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0530250398832812
+    },
+    {
+      "time": "10:20:26",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 222305978.0,
+      "sell_queue": 0.0,
+      "ratio": 1.052993718902218
+    },
+    {
+      "time": "10:22:36",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 222132313.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0528345882275427
+    },
+    {
+      "time": "10:24:44",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 221910799.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0527861822081943
+    },
+    {
+      "time": "10:26:49",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 219181319.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0527078910643126
+    },
+    {
+      "time": "10:28:56",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 224830523.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0525725125183512
+    },
+    {
+      "time": "10:31:04",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 228600914.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0523259307915307
+    },
+    {
+      "time": "10:33:13",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 228278461.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0522977666542193
+    },
+    {
+      "time": "10:35:23",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 221678152.0,
+      "sell_queue": 0.0,
+      "ratio": 1.052233200020785
+    },
+    {
+      "time": "10:37:30",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 222188470.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0522062405565813
+    },
+    {
+      "time": "10:39:40",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 221830288.0,
+      "sell_queue": 0.0,
+      "ratio": 1.052158235881936
+    },
+    {
+      "time": "10:41:51",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 225770488.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0520352191759696
+    },
+    {
+      "time": "10:43:59",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 228076093.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0519977303535268
+    },
+    {
+      "time": "10:46:00",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 227854147.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0519118002190138
+    },
+    {
+      "time": "10:48:06",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 228349423.0,
+      "sell_queue": 0.0,
+      "ratio": 1.051558346137993
+    },
+    {
+      "time": "10:50:12",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 227945803.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0514256800892383
+    },
+    {
+      "time": "10:52:18",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 227455579.0,
+      "sell_queue": 0.0,
+      "ratio": 1.051366402630557
+    },
+    {
+      "time": "10:54:25",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 227659399.0,
+      "sell_queue": 0.0,
+      "ratio": 1.051345116370335
+    },
+    {
+      "time": "10:56:40",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 223284406.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0512939840422575
+    },
+    {
+      "time": "10:58:55",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 218692899.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0510129734641853
+    },
+    {
+      "time": "11:01:14",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 218907100.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0509989974328278
+    },
+    {
+      "time": "11:03:22",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 226153460.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0509861983681732
+    },
+    {
+      "time": "11:05:27",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 216814110.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0958824444011526
+    },
+    {
+      "time": "11:07:33",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 224935932.0,
+      "sell_queue": 0.0,
+      "ratio": 1.095848227673055
+    },
+    {
+      "time": "11:09:40",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 227044166.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0958174287408182
+    },
+    {
+      "time": "11:11:48",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 227951741.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0957527147805926
+    },
+    {
+      "time": "11:14:00",
+      "price": 4000.0,
+      "change_pct": 2.31,
+      "buy_queue": 230740497.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0957435250833092
+    }
+  ],
+  "فولاد": [
+    {
+      "time": "09:30:52",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 3414966394.0,
+      "sell_queue": 0.0,
+      "ratio": 3.689831134996097
+    },
+    {
+      "time": "09:32:57",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": NaN,
+      "sell_queue": NaN,
+      "ratio": 3.7505137752878897
+    },
+    {
+      "time": "09:35:02",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 3396896745.0,
+      "sell_queue": 0.0,
+      "ratio": 4.133469651043187
+    },
+    {
+      "time": "09:37:12",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 3395408914.0,
+      "sell_queue": 0.0,
+      "ratio": 4.1241362251973595
+    },
+    {
+      "time": "09:39:17",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 3385385916.0,
+      "sell_queue": 0.0,
+      "ratio": 4.125630422822043
+    },
+    {
+      "time": "09:41:19",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 3329546963.0,
+      "sell_queue": 0.0,
+      "ratio": 4.181844438127328
+    },
+    {
+      "time": "09:43:00",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 3357454067.0,
+      "sell_queue": 0.0,
+      "ratio": 4.180871852775694
+    },
+    {
+      "time": "09:45:06",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 3323975733.0,
+      "sell_queue": 0.0,
+      "ratio": 4.5863345704356995
+    },
+    {
+      "time": "09:47:19",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 3334184696.0,
+      "sell_queue": 0.0,
+      "ratio": 4.575507757998116
+    },
+    {
+      "time": "09:49:23",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 3324732708.0,
+      "sell_queue": 0.0,
+      "ratio": 4.143653202967479
+    },
+    {
+      "time": "09:51:24",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 3323385623.0,
+      "sell_queue": 0.0,
+      "ratio": 4.11140115809036
+    },
+    {
+      "time": "09:53:31",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 3301831994.0,
+      "sell_queue": 0.0,
+      "ratio": 4.046641325586053
+    },
+    {
+      "time": "09:55:34",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 3302710662.0,
+      "sell_queue": 0.0,
+      "ratio": 4.015405923958677
+    },
+    {
+      "time": "09:57:41",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": NaN,
+      "sell_queue": NaN,
+      "ratio": 4.027784441891479
+    },
+    {
+      "time": "09:59:46",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 3294212952.0,
+      "sell_queue": 0.0,
+      "ratio": 3.867319020592093
+    },
+    {
+      "time": "10:01:51",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 3293892350.0,
+      "sell_queue": 0.0,
+      "ratio": 3.846754391386177
+    },
+    {
+      "time": "10:04:00",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 3293226189.0,
+      "sell_queue": 0.0,
+      "ratio": 3.837376974371914
+    },
+    {
+      "time": "10:06:03",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 3294431737.0,
+      "sell_queue": 0.0,
+      "ratio": 3.7593055808208846
+    },
+    {
+      "time": "10:08:07",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 3284691371.0,
+      "sell_queue": 0.0,
+      "ratio": 3.740239692958881
+    },
+    {
+      "time": "10:10:18",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 3223169420.0,
+      "sell_queue": 0.0,
+      "ratio": 3.7335202833708285
+    },
+    {
+      "time": "10:11:56",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 3194034648.0,
+      "sell_queue": 0.0,
+      "ratio": 3.72744052196436
+    },
+    {
+      "time": "10:14:02",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 3191634603.0,
+      "sell_queue": 0.0,
+      "ratio": 3.722450075230531
+    },
+    {
+      "time": "10:16:11",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 3183666126.0,
+      "sell_queue": 0.0,
+      "ratio": 3.7065594204413457
+    },
+    {
+      "time": "10:18:19",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 3173106156.0,
+      "sell_queue": 0.0,
+      "ratio": 3.6837302940023697
+    },
+    {
+      "time": "10:20:26",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 3167738157.0,
+      "sell_queue": 0.0,
+      "ratio": 3.6748581451888347
+    },
+    {
+      "time": "10:22:36",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 3171680444.0,
+      "sell_queue": 0.0,
+      "ratio": 3.657873988018667
+    },
+    {
+      "time": "10:24:44",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 3190997242.0,
+      "sell_queue": 0.0,
+      "ratio": 3.656940777661926
+    },
+    {
+      "time": "10:26:49",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 3184969279.0,
+      "sell_queue": 0.0,
+      "ratio": 3.644503964086329
+    },
+    {
+      "time": "10:28:56",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 3183171639.0,
+      "sell_queue": 0.0,
+      "ratio": 3.6281480803548907
+    },
+    {
+      "time": "10:31:04",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 3144895809.0,
+      "sell_queue": 0.0,
+      "ratio": 3.608362677048946
+    },
+    {
+      "time": "10:33:13",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 3143271407.0,
+      "sell_queue": 0.0,
+      "ratio": 3.619940260984486
+    },
+    {
+      "time": "10:35:23",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 3078566126.0,
+      "sell_queue": 0.0,
+      "ratio": 3.630364583605766
+    },
+    {
+      "time": "10:37:30",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 3019338724.0,
+      "sell_queue": 0.0,
+      "ratio": 4.265697434411094
+    },
+    {
+      "time": "10:39:40",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 2910640640.0,
+      "sell_queue": 0.0,
+      "ratio": 4.08853270414717
+    },
+    {
+      "time": "10:41:51",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 2918305759.0,
+      "sell_queue": 0.0,
+      "ratio": 4.04221980906234
+    },
+    {
+      "time": "10:43:59",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 2921194065.0,
+      "sell_queue": 0.0,
+      "ratio": 4.026514062690273
+    },
+    {
+      "time": "10:46:00",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 2920087489.0,
+      "sell_queue": 0.0,
+      "ratio": 4.008725618564861
+    },
+    {
+      "time": "10:48:06",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 2918321730.0,
+      "sell_queue": 0.0,
+      "ratio": 4.005137358551565
+    },
+    {
+      "time": "10:50:12",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 2919511880.0,
+      "sell_queue": 0.0,
+      "ratio": 3.99923906784888
+    },
+    {
+      "time": "10:52:18",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 2875503434.0,
+      "sell_queue": 0.0,
+      "ratio": 4.144274662936786
+    },
+    {
+      "time": "10:54:25",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 2811606069.0,
+      "sell_queue": 0.0,
+      "ratio": 4.323576692734861
+    },
+    {
+      "time": "10:56:40",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 2763521089.0,
+      "sell_queue": 0.0,
+      "ratio": 4.268874041184512
+    },
+    {
+      "time": "10:58:55",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 2760946374.0,
+      "sell_queue": 0.0,
+      "ratio": 4.17201677313134
+    },
+    {
+      "time": "11:01:14",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 2757512714.0,
+      "sell_queue": 0.0,
+      "ratio": 4.114618735486366
+    },
+    {
+      "time": "11:03:22",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 2760615654.0,
+      "sell_queue": 0.0,
+      "ratio": 4.2118812005488335
+    },
+    {
+      "time": "11:05:27",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 2745601898.0,
+      "sell_queue": 0.0,
+      "ratio": 4.198412571002307
+    },
+    {
+      "time": "11:07:33",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 2731415869.0,
+      "sell_queue": 0.0,
+      "ratio": 4.18492817215494
+    },
+    {
+      "time": "11:09:40",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 2691493279.0,
+      "sell_queue": 0.0,
+      "ratio": 4.258638721055176
+    },
+    {
+      "time": "11:11:48",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 2710566818.0,
+      "sell_queue": 0.0,
+      "ratio": 4.248109833564228
+    },
+    {
+      "time": "11:14:00",
+      "price": 3620.0,
+      "change_pct": 2.84,
+      "buy_queue": 2624684987.0,
+      "sell_queue": 0.0,
+      "ratio": 4.59035187152125
+    }
+  ],
+  "تابان09": [
+    {
+      "time": "09:02:37",
+      "price": 977130.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "09:00:34",
+      "price": 977130.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    }
+  ],
+  "تابان15": [
+    {
+      "time": "09:13:56",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "09:15:59",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "10:56:26",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "10:58:28",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "11:00:35",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "11:02:45",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "11:04:49",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "11:06:53",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "11:08:57",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "11:11:03",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "11:13:12",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "11:15:25",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "11:17:37",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "11:19:45",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "11:21:59",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "11:24:05",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "11:26:11",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "11:28:22",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "11:30:27",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "11:32:39",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "11:34:45",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "11:36:55",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "11:39:23",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "11:41:35",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "11:43:59",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "11:46:08",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "11:48:22",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "11:50:24",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "11:52:34",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "11:54:41",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "11:56:47",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "11:59:00",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "12:01:10",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "12:03:21",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "12:05:38",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "12:07:55",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "12:12:34",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "12:14:42",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "12:16:47",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "12:19:00",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "12:21:17",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "12:25:23",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "12:27:40",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "12:30:03",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "09:10:25",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "09:12:41",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "09:14:41",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "09:16:42",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "09:19:04",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "10:24:08",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    }
+  ],
+  "تابان16": [
+    {
+      "time": "10:42:07",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "10:44:20",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "10:46:37",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "10:48:54",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "10:51:18",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "10:53:28",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "09:21:02",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "09:23:10",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "09:25:10",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "09:27:08",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "09:29:05",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "09:31:04",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "09:33:01",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "09:34:58",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "09:37:05",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "09:39:10",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "09:41:17",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "09:43:13",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "09:45:14",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "09:47:08",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "09:49:05",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "09:51:02",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "09:52:58",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "09:54:55",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "09:56:56",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "09:58:56",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "10:01:00",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "10:02:31",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "10:04:37",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "10:06:42",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "10:08:49",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "10:10:57",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "10:13:06",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "10:15:12",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "10:17:25",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "10:19:32",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "10:21:49",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "10:26:44",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "10:29:01",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "10:31:27",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "10:33:47",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "10:36:04",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "10:38:19",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "10:40:29",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "10:42:47",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "10:44:59",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "10:47:12",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "10:49:25",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "10:51:39",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "10:53:54",
+      "price": 831500.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    }
+  ],
+  "تابان26": [
+    {
+      "time": "09:21:15",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    }
+  ],
+  "پيزد": [
+    {
+      "time": "09:30:52",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 9912776.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0360972952056053
+    },
+    {
+      "time": "09:32:57",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": NaN,
+      "sell_queue": NaN,
+      "ratio": 1.0360965510547613
+    },
+    {
+      "time": "09:35:02",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 10483796.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0360920491621832
+    },
+    {
+      "time": "09:37:12",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 10954773.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0360763259613097
+    },
+    {
+      "time": "09:39:17",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 10871713.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0358575565736623
+    },
+    {
+      "time": "09:41:19",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 10671941.0,
+      "sell_queue": 0.0,
+      "ratio": 1.035713228489347
+    },
+    {
+      "time": "09:43:00",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 10989901.0,
+      "sell_queue": 0.0,
+      "ratio": 1.03571187374567
+    },
+    {
+      "time": "09:45:06",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 11104738.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0355890602392297
+    },
+    {
+      "time": "09:47:19",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 11194511.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0354413535383702
+    },
+    {
+      "time": "09:49:23",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 11501518.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0354144267041776
+    },
+    {
+      "time": "09:51:24",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 11696810.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0354137606069131
+    },
+    {
+      "time": "09:53:31",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 11718865.0,
+      "sell_queue": 0.0,
+      "ratio": 1.035411046310645
+    },
+    {
+      "time": "09:55:34",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 11912518.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0354096642416293
+    },
+    {
+      "time": "09:57:41",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": NaN,
+      "sell_queue": NaN,
+      "ratio": 1.0353641970040395
+    },
+    {
+      "time": "09:59:46",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 11725015.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0353314609229332
+    },
+    {
+      "time": "10:01:51",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 11205018.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0745857351248564
+    },
+    {
+      "time": "10:04:00",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 11177501.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0744204585130621
+    },
+    {
+      "time": "10:06:03",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 11188594.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0744179983767477
+    },
+    {
+      "time": "10:08:07",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 11331571.0,
+      "sell_queue": 0.0,
+      "ratio": 1.074354406128619
+    },
+    {
+      "time": "10:10:18",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 11336073.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0743489536050008
+    },
+    {
+      "time": "10:11:56",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 11122593.0,
+      "sell_queue": 0.0,
+      "ratio": 1.073208021749718
+    },
+    {
+      "time": "10:14:02",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 11123147.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0731834725835068
+    },
+    {
+      "time": "10:16:11",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 11180431.0,
+      "sell_queue": 0.0,
+      "ratio": 1.073179543313431
+    },
+    {
+      "time": "10:18:19",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 11145135.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0731517685903091
+    },
+    {
+      "time": "10:20:26",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 11145815.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0731505293903811
+    },
+    {
+      "time": "10:22:36",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 11179015.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0731465980248724
+    },
+    {
+      "time": "10:24:44",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 11166616.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0731415295526041
+    },
+    {
+      "time": "10:26:49",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 11344068.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0730995614487995
+    },
+    {
+      "time": "10:28:56",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 11319387.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0730545908504585
+    },
+    {
+      "time": "10:31:04",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 11326377.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0730532482050241
+    },
+    {
+      "time": "10:33:13",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 11328416.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0730382633622926
+    },
+    {
+      "time": "10:35:23",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 11133493.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0730339061062266
+    },
+    {
+      "time": "10:37:30",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 11183901.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0730303858679593
+    },
+    {
+      "time": "10:39:40",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 11198734.0,
+      "sell_queue": 0.0,
+      "ratio": 1.073027500311712
+    },
+    {
+      "time": "10:41:51",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 11217417.0,
+      "sell_queue": 0.0,
+      "ratio": 1.073024716022253
+    },
+    {
+      "time": "10:43:59",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 11234215.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0730153262244075
+    },
+    {
+      "time": "10:46:00",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 11229926.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0730056919848356
+    },
+    {
+      "time": "10:48:06",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 11235561.0,
+      "sell_queue": 0.0,
+      "ratio": 1.07296941106926
+    },
+    {
+      "time": "10:50:12",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 10977058.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0725722057160771
+    },
+    {
+      "time": "10:52:18",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 10793174.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0725722057160771
+    },
+    {
+      "time": "10:54:25",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 10796820.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0725500368057792
+    },
+    {
+      "time": "10:56:40",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 10803707.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0725333359394433
+    },
+    {
+      "time": "10:58:55",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 10807795.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0725195821956028
+    },
+    {
+      "time": "11:01:14",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 10851597.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0725156131840101
+    },
+    {
+      "time": "11:03:22",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 10845194.0,
+      "sell_queue": 0.0,
+      "ratio": 1.072452156980792
+    },
+    {
+      "time": "11:05:27",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 10901058.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0713261352999726
+    },
+    {
+      "time": "11:07:33",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 10901558.0,
+      "sell_queue": 0.0,
+      "ratio": 1.07132485543578
+    },
+    {
+      "time": "11:09:40",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 10937234.0,
+      "sell_queue": 0.0,
+      "ratio": 1.071319640062539
+    },
+    {
+      "time": "11:11:48",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 11537021.0,
+      "sell_queue": 0.0,
+      "ratio": 1.071317080846244
+    },
+    {
+      "time": "11:14:00",
+      "price": 13030.0,
+      "change_pct": 2.92,
+      "buy_queue": 11008151.0,
+      "sell_queue": 0.0,
+      "ratio": 1.071315801306971
+    }
+  ],
+  "تابان18": [
+    {
+      "time": "09:03:11",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    }
+  ],
+  "تابان17": [
+    {
+      "time": "09:54:29",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    },
+    {
+      "time": "12:10:08",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    }
+  ],
+  "تابان19": [
+    {
+      "time": "09:56:54",
+      "price": 831290.0,
+      "change_pct": 0.0,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0
+    }
+  ],
+  "تابان23": [
+    {
+      "time": "12:23:31",
+      "price": 1000000.0,
+      "change_pct": 0.0,
+      "buy_queue": NaN,
+      "sell_queue": NaN,
+      "ratio": 0
+    }
+  ],
+  "سمهريز": [
+    {
+      "time": "10:47:12",
+      "price": 26970.0,
+      "change_pct": 1.32,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.9384877902041447
+    },
+    {
+      "time": "10:49:25",
+      "price": 27040.0,
+      "change_pct": 1.4,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8860183148748091
+    },
+    {
+      "time": "10:51:39",
+      "price": 27070.0,
+      "change_pct": 1.4,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8862516567473362
+    },
+    {
+      "time": "10:53:54",
+      "price": 27040.0,
+      "change_pct": 1.44,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8893457770323335
+    },
+    {
+      "time": "10:06:01",
+      "price": 26200.0,
+      "change_pct": -2.82,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8383013147550238
+    },
+    {
+      "time": "10:08:13",
+      "price": 26190.0,
+      "change_pct": -2.85,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8147541372613908
+    },
+    {
+      "time": "10:10:20",
+      "price": 26200.0,
+      "change_pct": -2.85,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8129446770396986
+    },
+    {
+      "time": "10:12:25",
+      "price": 26200.0,
+      "change_pct": -2.85,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.817137861720151
+    },
+    {
+      "time": "10:14:50",
+      "price": 26210.0,
+      "change_pct": -2.85,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 0.8189846425538307
+    },
+    {
+      "time": "09:08:55",
+      "price": 26490.0,
+      "change_pct": 1.03,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0010501739049449
+    },
+    {
+      "time": "09:11:06",
+      "price": 26610.0,
+      "change_pct": 1.07,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0008801940195258
+    },
+    {
+      "time": "09:13:20",
+      "price": 26630.0,
+      "change_pct": 1.18,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0007482786159363
+    },
+    {
+      "time": "09:15:28",
+      "price": 26650.0,
+      "change_pct": 1.33,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0004994089563728
+    },
+    {
+      "time": "09:17:32",
+      "price": 26650.0,
+      "change_pct": 1.33,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.000474878630026
+    },
+    {
+      "time": "09:19:47",
+      "price": 26620.0,
+      "change_pct": 1.33,
+      "buy_queue": NaN,
+      "sell_queue": NaN,
+      "ratio": 1.0005365645348072
+    },
+    {
+      "time": "09:21:58",
+      "price": 26590.0,
+      "change_pct": 1.37,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0004851246970752
+    },
+    {
+      "time": "09:24:04",
+      "price": 26590.0,
+      "change_pct": 1.37,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.000557092813707
+    },
+    {
+      "time": "09:26:07",
+      "price": 26580.0,
+      "change_pct": 1.37,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0004917458873803
+    },
+    {
+      "time": "09:28:19",
+      "price": 26500.0,
+      "change_pct": 1.37,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0004463415552998
+    },
+    {
+      "time": "09:30:30",
+      "price": 26500.0,
+      "change_pct": 1.37,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0005221623589602
+    },
+    {
+      "time": "09:33:05",
+      "price": 26490.0,
+      "change_pct": 1.37,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0005057918581433
+    },
+    {
+      "time": "09:35:10",
+      "price": 26480.0,
+      "change_pct": 1.33,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0004853136951963
+    },
+    {
+      "time": "09:37:38",
+      "price": 26480.0,
+      "change_pct": 1.33,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0004517928716203
+    },
+    {
+      "time": "09:40:36",
+      "price": 26250.0,
+      "change_pct": 1.33,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.000447999824636
+    },
+    {
+      "time": "09:42:54",
+      "price": 26000.0,
+      "change_pct": 1.03,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0520247041102817
+    },
+    {
+      "time": "09:44:57",
+      "price": 26170.0,
+      "change_pct": 0.76,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0749166221635105
+    },
+    {
+      "time": "09:47:05",
+      "price": 26190.0,
+      "change_pct": 0.72,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0693530798454594
+    },
+    {
+      "time": "09:49:14",
+      "price": 26220.0,
+      "change_pct": 0.69,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0643817399500528
+    },
+    {
+      "time": "09:51:19",
+      "price": 26260.0,
+      "change_pct": 0.65,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0612168365930958
+    },
+    {
+      "time": "09:53:20",
+      "price": 26300.0,
+      "change_pct": 0.65,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0606089850561817
+    },
+    {
+      "time": "09:55:23",
+      "price": 26380.0,
+      "change_pct": 0.65,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.057898432114863
+    },
+    {
+      "time": "09:57:22",
+      "price": 26410.0,
+      "change_pct": 0.65,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0574749314579222
+    },
+    {
+      "time": "09:59:21",
+      "price": 26440.0,
+      "change_pct": 0.65,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0562231119289782
+    },
+    {
+      "time": "10:01:17",
+      "price": 26410.0,
+      "change_pct": 0.65,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0550000081088664
+    },
+    {
+      "time": "10:03:14",
+      "price": 26390.0,
+      "change_pct": 0.65,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0543848578418127
+    },
+    {
+      "time": "10:05:15",
+      "price": 26390.0,
+      "change_pct": 0.65,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0536335935266774
+    },
+    {
+      "time": "10:07:31",
+      "price": 26360.0,
+      "change_pct": 0.65,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0529649336796287
+    },
+    {
+      "time": "10:09:44",
+      "price": 26330.0,
+      "change_pct": 0.65,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0523486141243317
+    },
+    {
+      "time": "10:11:53",
+      "price": 26370.0,
+      "change_pct": 0.65,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0520398921100795
+    },
+    {
+      "time": "10:14:03",
+      "price": 26350.0,
+      "change_pct": 0.65,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0513021047046405
+    },
+    {
+      "time": "10:16:15",
+      "price": 26350.0,
+      "change_pct": 0.65,
+      "buy_queue": NaN,
+      "sell_queue": NaN,
+      "ratio": 1.0493864825191934
+    },
+    {
+      "time": "10:18:16",
+      "price": 26340.0,
+      "change_pct": 0.65,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.049004389493393
+    },
+    {
+      "time": "10:20:32",
+      "price": 26370.0,
+      "change_pct": 0.65,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0480350984044249
+    },
+    {
+      "time": "10:22:40",
+      "price": 26390.0,
+      "change_pct": 0.65,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0475530113682174
+    },
+    {
+      "time": "10:24:49",
+      "price": 26400.0,
+      "change_pct": 0.65,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0457820346670987
+    },
+    {
+      "time": "10:26:56",
+      "price": 26400.0,
+      "change_pct": 0.65,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.044780952827389
+    },
+    {
+      "time": "10:29:04",
+      "price": 26460.0,
+      "change_pct": 0.65,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0443010277927276
+    },
+    {
+      "time": "10:31:09",
+      "price": 26480.0,
+      "change_pct": 0.65,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0436676246542747
+    },
+    {
+      "time": "10:33:07",
+      "price": 26510.0,
+      "change_pct": 0.65,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0430031649903377
+    },
+    {
+      "time": "10:35:13",
+      "price": 26540.0,
+      "change_pct": 0.65,
+      "buy_queue": 0.0,
+      "sell_queue": 0.0,
+      "ratio": 1.0423809751429554
+    }
+  ],
+  "تابان": [
+    {
+      "time": "09:30:52",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 733368054.0,
+      "sell_queue": 0.0,
+      "ratio": 1.4590744056871408
+    },
+    {
+      "time": "09:32:57",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": NaN,
+      "sell_queue": NaN,
+      "ratio": 1.4564999587628678
+    },
+    {
+      "time": "09:35:02",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 730826148.0,
+      "sell_queue": 0.0,
+      "ratio": 1.4434066871304077
+    },
+    {
+      "time": "09:37:12",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 729492590.0,
+      "sell_queue": 0.0,
+      "ratio": 1.4332429482620392
+    },
+    {
+      "time": "09:39:17",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 726697926.0,
+      "sell_queue": 0.0,
+      "ratio": 1.4267711716321403
+    },
+    {
+      "time": "09:41:19",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 723816390.0,
+      "sell_queue": 0.0,
+      "ratio": 1.4094690817501339
+    },
+    {
+      "time": "09:43:00",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 723787551.0,
+      "sell_queue": 0.0,
+      "ratio": 1.404549739122082
+    },
+    {
+      "time": "09:45:06",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 722403727.0,
+      "sell_queue": 0.0,
+      "ratio": 1.392992704530789
+    },
+    {
+      "time": "09:47:19",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 722238480.0,
+      "sell_queue": 0.0,
+      "ratio": 1.3865136723717897
+    },
+    {
+      "time": "09:49:23",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 722019146.0,
+      "sell_queue": 0.0,
+      "ratio": 1.778811833540768
+    },
+    {
+      "time": "09:51:24",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 702748691.0,
+      "sell_queue": 0.0,
+      "ratio": 2.0704817873600505
+    },
+    {
+      "time": "09:53:31",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 699777586.0,
+      "sell_queue": 0.0,
+      "ratio": 2.1435858456182544
+    },
+    {
+      "time": "09:55:34",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 699048990.0,
+      "sell_queue": 0.0,
+      "ratio": 2.126217528784491
+    },
+    {
+      "time": "09:57:41",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": NaN,
+      "sell_queue": NaN,
+      "ratio": 2.106802067369626
+    },
+    {
+      "time": "09:59:46",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 695976430.0,
+      "sell_queue": 0.0,
+      "ratio": 2.0893379126247353
+    },
+    {
+      "time": "10:01:51",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 695241569.0,
+      "sell_queue": 0.0,
+      "ratio": 2.074550773040209
+    },
+    {
+      "time": "10:04:00",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 695058698.0,
+      "sell_queue": 0.0,
+      "ratio": 2.0646052337398273
+    },
+    {
+      "time": "10:06:03",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 694259258.0,
+      "sell_queue": 0.0,
+      "ratio": 2.0558940830573738
+    },
+    {
+      "time": "10:08:07",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 688321995.0,
+      "sell_queue": 0.0,
+      "ratio": 2.237522237557973
+    },
+    {
+      "time": "10:10:18",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 688051480.0,
+      "sell_queue": 0.0,
+      "ratio": 2.230027001588259
+    },
+    {
+      "time": "10:11:56",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 686663634.0,
+      "sell_queue": 0.0,
+      "ratio": 2.2109370778869173
+    },
+    {
+      "time": "10:14:02",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 684873024.0,
+      "sell_queue": 0.0,
+      "ratio": 2.2092065484083077
+    },
+    {
+      "time": "10:16:11",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 684389661.0,
+      "sell_queue": 0.0,
+      "ratio": 2.196822146741394
+    },
+    {
+      "time": "10:18:19",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 684708332.0,
+      "sell_queue": 0.0,
+      "ratio": 2.1776771163121067
+    },
+    {
+      "time": "10:20:26",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 684974865.0,
+      "sell_queue": 0.0,
+      "ratio": 2.170723699104872
+    },
+    {
+      "time": "10:22:36",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 685940285.0,
+      "sell_queue": 0.0,
+      "ratio": 2.1572666341705253
+    },
+    {
+      "time": "10:24:44",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 687471848.0,
+      "sell_queue": 0.0,
+      "ratio": 2.1483332555244865
+    },
+    {
+      "time": "10:26:49",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 689676753.0,
+      "sell_queue": 0.0,
+      "ratio": 2.1282999181650935
+    },
+    {
+      "time": "10:28:56",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 688093540.0,
+      "sell_queue": 0.0,
+      "ratio": 2.1194004177522956
+    },
+    {
+      "time": "10:31:04",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 687456564.0,
+      "sell_queue": 0.0,
+      "ratio": 2.110124007687713
+    },
+    {
+      "time": "10:33:13",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 685898060.0,
+      "sell_queue": 0.0,
+      "ratio": 2.0986283286954293
+    },
+    {
+      "time": "10:35:23",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 685517723.0,
+      "sell_queue": 0.0,
+      "ratio": 2.088663325273298
+    },
+    {
+      "time": "10:37:30",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 685788041.0,
+      "sell_queue": 0.0,
+      "ratio": 2.0767516137701474
+    },
+    {
+      "time": "10:39:40",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 685478024.0,
+      "sell_queue": 0.0,
+      "ratio": 2.0712596315415737
+    },
+    {
+      "time": "10:41:51",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 685267217.0,
+      "sell_queue": 0.0,
+      "ratio": 2.0582661179601014
+    },
+    {
+      "time": "10:43:59",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 684966331.0,
+      "sell_queue": 0.0,
+      "ratio": 2.0498076169818864
+    },
+    {
+      "time": "10:46:00",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 685619207.0,
+      "sell_queue": 0.0,
+      "ratio": 2.0383200316823804
+    },
+    {
+      "time": "10:48:06",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 686191512.0,
+      "sell_queue": 0.0,
+      "ratio": 2.032114882758088
+    },
+    {
+      "time": "10:50:12",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 686232426.0,
+      "sell_queue": 0.0,
+      "ratio": 2.0249557013099517
+    },
+    {
+      "time": "10:52:18",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 686019209.0,
+      "sell_queue": 0.0,
+      "ratio": 2.014670763239491
+    },
+    {
+      "time": "10:54:25",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 685737835.0,
+      "sell_queue": 0.0,
+      "ratio": 2.007801299605635
+    },
+    {
+      "time": "10:56:40",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 684889856.0,
+      "sell_queue": 0.0,
+      "ratio": 1.9966896450386142
+    },
+    {
+      "time": "10:58:55",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 683244698.0,
+      "sell_queue": 0.0,
+      "ratio": 1.98113690220881
+    },
+    {
+      "time": "11:01:14",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 682727208.0,
+      "sell_queue": 0.0,
+      "ratio": 1.9740123916537635
+    },
+    {
+      "time": "11:03:22",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 681650938.0,
+      "sell_queue": 0.0,
+      "ratio": 1.9673786522408656
+    },
+    {
+      "time": "11:05:27",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 680774856.0,
+      "sell_queue": 0.0,
+      "ratio": 1.9619584351746633
+    },
+    {
+      "time": "11:07:33",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 680854690.0,
+      "sell_queue": 0.0,
+      "ratio": 1.9562646447914886
+    },
+    {
+      "time": "11:09:40",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 680358218.0,
+      "sell_queue": 0.0,
+      "ratio": 1.9403691360919406
+    },
+    {
+      "time": "11:11:48",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 679829872.0,
+      "sell_queue": 0.0,
+      "ratio": 1.935575310147019
+    },
+    {
+      "time": "11:14:00",
+      "price": 22430.0,
+      "change_pct": 2.98,
+      "buy_queue": 679461036.0,
+      "sell_queue": 0.0,
+      "ratio": 1.9313993978850272
+    }
+  ]
+}

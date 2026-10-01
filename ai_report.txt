@@ -1,0 +1,1010 @@
+====================================================================================================
+  🔍 گزارش ai/
+  📅 2026-10-01 10:58:17
+====================================================================================================
+
+
+================================================================================
+📄 ai\ai_engine.py
+================================================================================
+خطوط: 210
+حجم: 7,327 bytes
+کلاس‌ها: ['AIEngine']
+توابع: []
+importها: ['pathlib', 'sys', 'ai.learner', 'datetime', 'ai.memory']
+save: True
+load: True
+learn: True
+predict: False
+feedback: False
+
+
+================================================================================
+📄 ai\backtest_optimizer.py
+================================================================================
+خطوط: 229
+حجم: 9,702 bytes
+کلاس‌ها: ['BacktestOptimizer']
+توابع: []
+importها: ['database.database', 'pathlib', 'numpy', 'sys', 'os', 'datetime', 'pandas', 'history.history_database']
+save: False
+load: True
+learn: True
+predict: False
+feedback: True
+
+
+================================================================================
+📄 ai\learner.py
+================================================================================
+خطوط: 86
+حجم: 2,983 bytes
+کلاس‌ها: ['AILearner']
+توابع: []
+importها: ['json', 'pathlib']
+save: True
+load: True
+learn: True
+predict: False
+feedback: False
+
+
+================================================================================
+📄 ai\memory.py
+================================================================================
+خطوط: 116
+حجم: 4,080 bytes
+کلاس‌ها: ['AIMemory']
+توابع: []
+importها: ['datetime', 'json', 'pathlib']
+save: True
+load: True
+learn: False
+predict: False
+feedback: False
+
+
+================================================================================
+📄 ai\momentum_scanner.py
+================================================================================
+خطوط: 60
+حجم: 2,286 bytes
+کلاس‌ها: ['MomentumScanner']
+توابع: []
+importها: ['datetime', 'sqlite3', 'pandas']
+save: False
+load: True
+learn: False
+predict: False
+feedback: False
+
+
+================================================================================
+📄 ai\order_flow_analyzer.py
+================================================================================
+خطوط: 91
+حجم: 3,002 bytes
+کلاس‌ها: ['OrderFlowAnalyzer']
+توابع: []
+importها: ['datetime', 'sqlite3', 'pandas']
+save: False
+load: True
+learn: False
+predict: False
+feedback: False
+
+
+================================================================================
+📄 ai\whale_detector.py
+================================================================================
+خطوط: 63
+حجم: 2,641 bytes
+کلاس‌ها: ['WhaleDetector']
+توابع: []
+importها: ['json', 'os']
+save: False
+load: True
+learn: False
+predict: False
+feedback: False
+
+
+====================================================================================================
+  📝 محتوای کامل:
+====================================================================================================
+
+
+================================================================================
+📄 ai\ai_engine.py
+================================================================================
+
+
+import sys
+from datetime import datetime
+from pathlib import Path
+
+PROJECT_ROOT = Path(__file__).parent.parent
+sys.path.insert(0, str(PROJECT_ROOT))
+
+from ai.memory import AIMemory
+from ai.learner import AILearner
+
+
+class AIEngine:
+
+    def __init__(self):
+        self.memory = AIMemory()
+        self.learner = AILearner()
+
+    def record_signal(self, trade_date, symbol, category, ratio,
+                      rsi=None, technical_score=None, final_score=None,
+                      last_price=None, market_change_pct=None):
+        self.memory.save_signal(
+            trade_date=trade_date,
+            symbol=symbol,
+            category=category,
+            ratio=ratio,
+            rsi=rsi,
+            technical_score=technical_score,
+            final_score=final_score,
+            last_price=last_price,
+            context={"market_change_pct": market_change_pct},
+        )
+
+    def check_outcomes(self, price_lookup_func, market_lookup_func=None):
+        """چک نتیجه - با مقایسه نسبی با بازار"""
+        pending = self.memory.get_pending_signals()
+        checked = 0
+        skipped = 0
+
+        today = datetime.now().date()
+
+        for p in pending:
+            symbol = p["symbol"]
+            price_signal = p.get("last_price")
+            signal_date_str = p.get("date")
+
+            if not price_signal or not signal_date_str:
+                skipped += 1
+                continue
+
+            try:
+                signal_date = datetime.strptime(str(signal_date_str), "%Y-%m-%d").date()
+                days_passed = (today - signal_date).days
+            except Exception:
+                skipped += 1
+                continue
+
+            if days_passed < 1:
+                skipped += 1
+                continue
+
+            price_1d = None
+            price_3d = None
+            price_7d = None
+
+            if days_passed >= 1:
+                price_1d = price_lookup_func(symbol, 1)
+            if days_passed >= 3:
+                price_3d = price_lookup_func(symbol, 3)
+            if days_passed >= 7:
+                price_7d = price_lookup_func(symbol, 7)
+
+            # موفقیت نسبی
+            success = None
+            cat = p["category"]
+
+            best_price = None
+            for pc in [price_7d, price_3d, price_1d]:
+                if pc:
+                    best_price = pc
+                    break
+
+            if best_price:
+                change_pct = (best_price - price_signal) / price_signal * 100
+
+                # موفقیت نسبی: آستانه‌ها نرم‌تر
+                if cat == "SAFE_BUY":
+                    success = change_pct > -2.0  # اگه بیشتر از -2٪ افتاد = موفق
+                elif cat == "SAFE_SELL":
+                    success = change_pct < 2.0   # اگه بیشتر از +2٪ رشد نکرد = موفق
+
+            if success is None:
+                skipped += 1
+                continue
+
+            self.memory.save_outcome(
+                trade_date=p["date"],
+                symbol=symbol,
+                category=cat,
+                price_at_signal=price_signal,
+                price_after_1d=price_1d,
+                price_after_3d=price_3d,
+                price_after_7d=price_7d,
+                success=success,
+            )
+            checked += 1
+
+        if skipped > 0:
+            print("   (" + str(skipped) + " skipped)")
+        return checked
+
+    def get_insight(self):
+        stats = self.memory.stats()
+        outcomes = self.memory.load_outcomes()
+        category_stats = self.learner.learn_from_outcomes(outcomes)
+        return {
+            "memory": stats,
+            "category_stats": category_stats,
+            "weights": self.learner.weights,
+        }
+
+    def advise(self, symbol, category, ratio, rsi=None, technical_score=None):
+        outcomes = self.memory.load_outcomes()
+        confidence = self.learner.get_confidence(category, outcomes)
+        mf_score = self._score_money_flow(ratio)
+        tech_score = technical_score or 50
+        w = self.learner.weights
+        final = (
+            w["money_flow"] * mf_score
+            + w["technical"] * tech_score
+            + w["context"] * 50
+        )
+        advice = self._make_advice(category, final, confidence, rsi)
+        return {
+            "symbol": symbol,
+            "category": category,
+            "ratio": ratio,
+            "rsi": rsi,
+            "final_score": round(final, 1),
+            "confidence": round(confidence, 2),
+            "weights": w,
+            "advice": advice,
+        }
+
+    @staticmethod
+    def _score_money_flow(ratio):
+        if ratio >= 10:
+            return 100
+        elif ratio >= 5:
+            return 85
+        elif ratio >= 2:
+            return 65
+        elif ratio >= 1:
+            return 50
+        elif ratio >= 0.5:
+            return 35
+        elif ratio >= 0.2:
+            return 20
+        return 10
+
+    @staticmethod
+    def _make_advice(category, final_score, confidence, rsi):
+        if rsi and rsi > 80:
+            return "منتظر اصلاح بمان — سهم در اوج قیمت است"
+        if rsi and rsi < 30 and category == "SAFE_BUY":
+            return "فرصت خوب — فشار خرید حقیقی با اشباع فروش"
+        if category == "SAFE_BUY":
+            if final_score > 75 and confidence > 0.6:
+                return "کاندید قوی — بررسی بیشتر"
+            elif final_score > 60:
+                return "کاندید متوسط — زیر نظر بگیر"
+            else:
+                return "ضعیف — احتمالاً ارزش ورود ندارد"
+        if category == "SAFE_SELL":
+            return "فشار فروش — احتمال ریزش"
+        if category == "QUEUE_BUY":
+            return "صف خرید — بررسی کن که واقعی است یا دام"
+        return "معمولی — نیاز به بررسی بیشتر"
+
+    def report(self):
+        insight = self.get_insight()
+        print()
+        print("=" * 70)
+        print("  Smart_Bourse AI - Memory Report")
+        print("=" * 70)
+        m = insight["memory"]
+        print()
+        print("Memory:")
+        print("   Total signals    : " + str(m["total_signals"]))
+        print("   Checked outcomes : " + str(m["total_outcomes"]))
+        print("   Pending          : " + str(m["pending"]))
+        print("   Success          : " + str(m["success_count"]))
+        print("   Failed           : " + str(m["failure_count"]))
+        print()
+        print("Weights:")
+        for k, v in insight["weights"].items():
+            print("   " + k.ljust(15) + " : " + str(round(v, 3)))
+        if insight["category_stats"]:
+            print()
+            print("Category stats:")
+            for cat, s in insight["category_stats"].items():
+                rate = s.get("success_rate", 0)
+                print("   " + cat.ljust(12) + " : " + str(s["success"]) + "/" + str(s["total"]) + "  (" + str(round(rate * 100, 1)) + "%)")
+        print("=" * 70)
+
+
+if __name__ == "__main__":
+    engine = AIEngine()
+    engine.report()
+
+
+
+================================================================================
+📄 ai\backtest_optimizer.py
+================================================================================
+
+"""
+ai/backtest_optimizer.py
+بهینه‌ساز بک‌تست - شبیه‌سازی استراتژی‌ها روی داده‌های تاریخی
+نسخه ۲.۰ - با مدیریت سرمایه و کارمزد
+"""
+
+import sys
+import os
+from pathlib import Path
+
+# ========== تنظیم مسیر ==========
+BASE_DIR = Path(__file__).resolve().parent.parent
+sys.path.append(str(BASE_DIR))
+
+import pandas as pd
+import numpy as np
+from datetime import datetime
+from history.history_database import HistoryDatabase
+from database.database import Database
+
+
+class BacktestOptimizer:
+    def __init__(self, symbol, initial_cash=100_000_000, trade_fee=0.0125):
+        """
+        پارامترها:
+        - symbol: نماد مورد نظر (مثل 'خگستر')
+        - initial_cash: سرمایه اولیه (پیش‌فرض ۱۰۰ میلیون تومان)
+        - trade_fee: کارمزد معاملات (پیش‌فرض ۱.۲۵٪)
+        """
+        self.symbol = symbol
+        self.initial_cash = initial_cash
+        self.trade_fee = trade_fee
+        self.data = None
+        self.results = {}
+
+    def load_data(self, days=None):
+        """بارگذاری داده‌های تاریخی از دیتابیس"""
+        history_db = HistoryDatabase()
+        history_db.connect()
+        
+        if days:
+            stocks = history_db.get_history(self.symbol, days)
+        else:
+            stocks = history_db.get_history(self.symbol, 9999)  # همه داده‌ها
+        
+        history_db.close()
+
+        if not stocks:
+            print(f"❌ داده‌ای برای {self.symbol} پیدا نشد.")
+            return False
+
+        # تبدیل به DataFrame
+        self.data = pd.DataFrame([{
+            'date': s.trade_date,
+            'open': s.open_price,
+            'high': s.high_price,
+            'low': s.low_price,
+            'close': s.close_price,
+            'volume': s.volume
+        } for s in stocks])
+
+        self.data['date'] = pd.to_datetime(self.data['date'])
+        self.data = self.data.sort_values('date').reset_index(drop=True)
+        print(f"✅ {len(self.data)} روز داده برای {self.symbol} بارگذاری شد.")
+        return True
+
+    def run_strategy(self, buy_threshold=-3, sell_threshold=3, risk_percent=0.2):
+        """
+        اجرای استراتژی با آستانه‌های مشخص و مدیریت سرمایه
+        - buy_threshold: درصد منفی برای خرید (مثلاً -۳)
+        - sell_threshold: درصد مثبت برای فروش (مثلاً +۳)
+        - risk_percent: درصد سرمایه‌ای که در هر معامله ریسک می‌کنیم (پیش‌فرض ۲۰٪)
+        """
+        if self.data is None or len(self.data) < 60:
+            return None
+
+        cash = self.initial_cash
+        position = 0
+        trades = []
+        total_profit = 0
+
+        self.data['change'] = self.data['close'].pct_change() * 100
+
+        for i in range(60, len(self.data)):
+            close_price = self.data.loc[i, 'close']
+            change = self.data.loc[i, 'change']
+
+            if change <= buy_threshold and position == 0:
+                # محاسبه حجم بر اساس درصد ریسک
+                risk_amount = cash * risk_percent
+                max_volume = risk_amount / (close_price * (1 + self.trade_fee))
+                volume = int(max_volume)
+                if volume > 0:
+                    cost = volume * close_price * (1 + self.trade_fee)
+                    cash -= cost
+                    position += volume
+                    trades.append({
+                        'date': self.data.loc[i, 'date'],
+                        'type': 'BUY',
+                        'price': close_price,
+                        'volume': volume,
+                        'cost': cost
+                    })
+
+            elif change >= sell_threshold and position > 0:
+                revenue = position * close_price * (1 - self.trade_fee)
+                profit = revenue - (position * self.data.loc[i-1, 'close'])
+                cash += revenue
+                trades.append({
+                    'date': self.data.loc[i, 'date'],
+                    'type': 'SELL',
+                    'price': close_price,
+                    'volume': position,
+                    'revenue': revenue,
+                    'profit': profit
+                })
+                total_profit += profit
+                position = 0
+
+        final_value = cash + (position * self.data.iloc[-1]['close'] if position > 0 else 0)
+
+        win_trades = [t for t in trades if t.get('profit', 0) > 0]
+        loss_trades = [t for t in trades if t.get('profit', 0) < 0]
+
+        return {
+            'total_trades': len(trades),
+            'win_trades': len(win_trades),
+            'loss_trades': len(loss_trades),
+            'win_rate': len(win_trades) / len(trades) * 100 if trades else 0,
+            'total_profit': total_profit,
+            'final_value': final_value,
+            'return_percent': ((final_value - self.initial_cash) / self.initial_cash) * 100,
+            'trades': trades,
+            'buy_threshold': buy_threshold,
+            'sell_threshold': sell_threshold,
+            'risk_percent': risk_percent
+        }
+
+    def optimize(self, buy_range=(-5, 0), sell_range=(1, 6), step=0.5, risk_percent=0.2):
+        """بهینه‌سازی آستانه‌ها با مدیریت سرمایه"""
+        best_result = None
+        best_score = -999999
+
+        print(f"🔍 بهینه‌سازی آستانه‌ها برای {self.symbol}...")
+        print(f"   محدوده خرید: {buy_range[0]} تا {buy_range[1]}")
+        print(f"   محدوده فروش: {sell_range[0]} تا {sell_range[1]}")
+        print(f"   درصد ریسک در هر معامله: {risk_percent * 100:.0f}٪")
+
+        buy_values = np.arange(buy_range[0], buy_range[1] + step, step)
+        sell_values = np.arange(sell_range[0], sell_range[1] + step, step)
+
+        total_tests = len(buy_values) * len(sell_values)
+        test_count = 0
+
+        for buy in buy_values:
+            for sell in sell_values:
+                test_count += 1
+                result = self.run_strategy(buy_threshold=buy, sell_threshold=sell, risk_percent=risk_percent)
+                if result:
+                    # امتیاز: ترکیبی از سود و درصد برد
+                    score = (result['return_percent'] * 0.6) + (result['win_rate'] * 0.4)
+                    if score > best_score:
+                        best_score = score
+                        best_result = result
+                        best_result['score'] = score
+
+        print(f"✅ {total_tests} حالت تست شد.")
+        return best_result
+
+    def report(self, result):
+        """گزارش خروجی"""
+        if not result:
+            return "❌ نتیجه‌ای برای گزارش وجود ندارد."
+
+        lines = [
+            "=" * 60,
+            f"📊 گزارش بک‌تست - {self.symbol}",
+            "=" * 60,
+            f"سرمایه اولیه: {self.initial_cash:,.0f} تومان",
+            f"آستانه خرید: {result.get('buy_threshold', 'N/A')}٪",
+            f"آستانه فروش: {result.get('sell_threshold', 'N/A')}٪",
+            f"درصد ریسک در هر معامله: {result.get('risk_percent', 0) * 100:.0f}٪",
+            "",
+            "📈 آمار معاملات:",
+            f"   تعداد کل معاملات: {result.get('total_trades', 0)}",
+            f"   معاملات برنده: {result.get('win_trades', 0)}",
+            f"   معاملات بازنده: {result.get('loss_trades', 0)}",
+            f"   درصد برد: {result.get('win_rate', 0):.1f}٪",
+            "",
+            "💰 عملکرد مالی:",
+            f"   سود کل: {result.get('total_profit', 0):,.0f} تومان",
+            f"   ارزش نهایی: {result.get('final_value', 0):,.0f} تومان",
+            f"   بازده کل: {result.get('return_percent', 0):.2f}٪",
+            ""
+        ]
+
+        if result.get('trades'):
+            lines.append("📝 تاریخچه معاملات (۱۰ مورد آخر):")
+            for t in result['trades'][-10:]:
+                if t['type'] == 'BUY':
+                    lines.append(f"   🟢 خرید {t['volume']} سهم در {t['price']:,.0f} ریال")
+                else:
+                    profit = t.get('profit', 0)
+                    emoji = "🟢" if profit > 0 else "🔴"
+                    lines.append(f"   {emoji} فروش {t['volume']} سهم در {t['price']:,.0f} | سود: {profit:,.0f}")
+
+        lines.append("=" * 60)
+        return "\n".join(lines)
+
+
+# ========== بخش تست ==========
+if __name__ == "__main__":
+    optimizer = BacktestOptimizer("خگستر", initial_cash=100_000_000)
+
+    if optimizer.load_data():
+        # استراتژی پیش‌فرض با ۲۰٪ ریسک
+        result = optimizer.run_strategy(buy_threshold=-3, sell_threshold=3, risk_percent=0.2)
+        if result:
+            print(optimizer.report(result))
+
+        # بهینه‌سازی با ۲۰٪ ریسک
+        print("\n" + "=" * 60)
+        print("🚀 شروع بهینه‌سازی...")
+        print("=" * 60)
+        best = optimizer.optimize(buy_range=(-5, -1), sell_range=(1, 5), step=0.5, risk_percent=0.2)
+        if best:
+            print("\n🏆 بهترین نتیجه:")
+            print(optimizer.report(best))
+
+
+
+================================================================================
+📄 ai\learner.py
+================================================================================
+
+"""
+Project : Smart_Bourse
+File    : ai/learner.py
+Version : 1.0.0
+
+Description :
+    یادگیری از نتایج
+"""
+
+import json
+from pathlib import Path
+
+
+class AILearner:
+
+    def __init__(self, base_dir=None):
+        if base_dir is None:
+            base_dir = Path(__file__).parent.parent / "data" / "ai"
+        self.base_dir = Path(base_dir)
+        self.base_dir.mkdir(parents=True, exist_ok=True)
+
+        self.weights_file = self.base_dir / "weights.json"
+        self.default_weights = {
+            "money_flow": 0.40,
+            "technical": 0.35,
+            "context": 0.25,
+        }
+        self.weights = self.load_weights()
+
+    def load_weights(self):
+        if self.weights_file.exists():
+            try:
+                with open(self.weights_file, "r", encoding="utf-8") as f:
+                    return json.load(f)
+            except Exception:
+                pass
+        return dict(self.default_weights)
+
+    def save_weights(self):
+        with open(self.weights_file, "w", encoding="utf-8") as f:
+            json.dump(self.weights, f, ensure_ascii=False, indent=2)
+
+    def learn_from_outcomes(self, outcomes):
+        if not outcomes:
+            return {}
+        stats = {}
+        for o in outcomes:
+            cat = o.get("category", "UNKNOWN")
+            if cat not in stats:
+                stats[cat] = {"total": 0, "success": 0, "fail": 0}
+            stats[cat]["total"] += 1
+            if o.get("success") is True:
+                stats[cat]["success"] += 1
+            elif o.get("success") is False:
+                stats[cat]["fail"] += 1
+        for cat, s in stats.items():
+            if s["total"] > 0:
+                s["success_rate"] = round(s["success"] / s["total"], 3)
+            else:
+                s["success_rate"] = 0.0
+        return stats
+
+    def adjust_weights(self, outcomes):
+        if len(outcomes) < 20:
+            return self.weights
+        safe_buy_outcomes = [o for o in outcomes if o.get("category") == "SAFE_BUY"]
+        if safe_buy_outcomes:
+            success = sum(1 for o in safe_buy_outcomes if o.get("success"))
+            rate = success / len(safe_buy_outcomes)
+            if rate > 0.6:
+                self.weights["money_flow"] = min(0.55, self.weights["money_flow"] + 0.02)
+            elif rate < 0.4:
+                self.weights["money_flow"] = max(0.25, self.weights["money_flow"] - 0.02)
+        total = sum(self.weights.values())
+        for k in self.weights:
+            self.weights[k] = round(self.weights[k] / total, 3)
+        self.save_weights()
+        return self.weights
+
+    def get_confidence(self, category, outcomes):
+        cat_outcomes = [o for o in outcomes if o.get("category") == category]
+        if len(cat_outcomes) < 5:
+            return 0.5
+        success = sum(1 for o in cat_outcomes if o.get("success"))
+        return round(success / len(cat_outcomes), 3)
+
+
+
+================================================================================
+📄 ai\memory.py
+================================================================================
+
+"""
+Project : Smart_Bourse
+File    : ai/memory.py
+Version : 1.0.0
+
+Description :
+    حافظه‌ی AI — ذخیره‌ی همه‌ی سیگنال‌ها و نتایج
+"""
+
+import json
+from datetime import datetime
+from pathlib import Path
+
+
+class AIMemory:
+
+    def __init__(self, base_dir=None):
+        if base_dir is None:
+            base_dir = Path(__file__).parent.parent / "data" / "ai"
+        self.base_dir = Path(base_dir)
+        self.base_dir.mkdir(parents=True, exist_ok=True)
+
+        self.signals_file = self.base_dir / "memory.jsonl"
+        self.outcomes_file = self.base_dir / "outcomes.jsonl"
+        self.context_file = self.base_dir / "market_context.jsonl"
+
+    def save_signal(self, trade_date, symbol, category, ratio,
+                    rsi=None, technical_score=None, final_score=None,
+                    last_price=None, context=None):
+        entry = {
+            "date": trade_date,
+            "saved_at": datetime.now().isoformat(),
+            "symbol": symbol,
+            "category": category,
+            "ratio": ratio,
+            "rsi": rsi,
+            "technical_score": technical_score,
+            "final_score": final_score,
+            "last_price": last_price,
+            "context": context or {},
+        }
+        with open(self.signals_file, "a", encoding="utf-8") as f:
+            f.write(json.dumps(entry, ensure_ascii=False) + "\n")
+
+    def save_outcome(self, trade_date, symbol, category, price_at_signal,
+                     price_after_1d=None, price_after_3d=None,
+                     price_after_7d=None, success=None):
+        entry = {
+            "date": trade_date,
+            "checked_at": datetime.now().isoformat(),
+            "symbol": symbol,
+            "category": category,
+            "price_at_signal": price_at_signal,
+            "price_after_1d": price_after_1d,
+            "price_after_3d": price_after_3d,
+            "price_after_7d": price_after_7d,
+            "success": success,
+        }
+        with open(self.outcomes_file, "a", encoding="utf-8") as f:
+            f.write(json.dumps(entry, ensure_ascii=False) + "\n")
+
+    def save_context(self, trade_date, context):
+        entry = {
+            "date": trade_date,
+            "saved_at": datetime.now().isoformat(),
+            **context,
+        }
+        with open(self.context_file, "a", encoding="utf-8") as f:
+            f.write(json.dumps(entry, ensure_ascii=False) + "\n")
+
+    def load_signals(self):
+        if not self.signals_file.exists():
+            return []
+        entries = []
+        with open(self.signals_file, "r", encoding="utf-8") as f:
+            for line in f:
+                try:
+                    entries.append(json.loads(line))
+                except Exception:
+                    pass
+        return entries
+
+    def load_outcomes(self):
+        if not self.outcomes_file.exists():
+            return []
+        entries = []
+        with open(self.outcomes_file, "r", encoding="utf-8") as f:
+            for line in f:
+                try:
+                    entries.append(json.loads(line))
+                except Exception:
+                    pass
+        return entries
+
+    def get_pending_signals(self, days_ago=7):
+        signals = self.load_signals()
+        outcomes = self.load_outcomes()
+        checked = {(o["date"], o["symbol"]) for o in outcomes}
+        pending = []
+        for s in signals:
+            key = (s["date"], s["symbol"])
+            if key not in checked:
+                pending.append(s)
+        return pending
+
+    def stats(self):
+        signals = self.load_signals()
+        outcomes = self.load_outcomes()
+        return {
+            "total_signals": len(signals),
+            "total_outcomes": len(outcomes),
+            "pending": len(self.get_pending_signals()),
+            "success_count": sum(1 for o in outcomes if o.get("success")),
+            "failure_count": sum(1 for o in outcomes if o.get("success") is False),
+        }
+
+
+
+================================================================================
+📄 ai\momentum_scanner.py
+================================================================================
+
+"""
+ai/momentum_scanner.py
+تشخیص سهام با شتاب قیمتی در بازه‌های کوتاه‌مدت
+"""
+
+import sqlite3
+import pandas as pd
+from datetime import datetime, timedelta
+
+class MomentumScanner:
+    def __init__(self, db_path="data/market_data.db"):
+        self.db_path = db_path
+
+    def get_latest_data(self, symbol, minutes=5):
+        """دریافت داده‌های چند دقیقه اخیر یک سهم"""
+        conn = sqlite3.connect(self.db_path)
+        query = f"""
+            SELECT price, timestamp FROM live_data 
+            WHERE symbol = '{symbol}'
+            AND timestamp > datetime('now', '-{minutes} minutes')
+            ORDER BY timestamp
+        """
+        df = pd.read_sql_query(query, conn)
+        conn.close()
+        return df
+
+    def calculate_momentum(self, symbol, windows=[1, 3, 5]):
+        """محاسبه شتاب قیمت در بازه‌های مختلف"""
+        results = {}
+        for w in windows:
+            df = self.get_latest_data(symbol, w)
+            if len(df) < 2:
+                results[w] = None
+                continue
+            start_price = df.iloc[0]['price']
+            end_price = df.iloc[-1]['price']
+            change_percent = ((end_price - start_price) / start_price) * 100
+            results[w] = {
+                'change_percent': change_percent,
+                'start_price': start_price,
+                'end_price': end_price,
+                'records': len(df)
+            }
+        return results
+
+    def scan_all(self, symbols, min_momentum=0.5):
+        """اسکن همه سهام و پیدا کردن سهام با شتاب بالا"""
+        candidates = []
+        for symbol in symbols:
+            momentum = self.calculate_momentum(symbol)
+            if momentum.get(3) and abs(momentum[3]['change_percent']) >= min_momentum:
+                candidates.append({
+                    'symbol': symbol,
+                    'momentum_1m': momentum.get(1),
+                    'momentum_3m': momentum.get(3),
+                    'momentum_5m': momentum.get(5)
+                })
+        candidates.sort(key=lambda x: abs(x['momentum_3m']['change_percent']), reverse=True)
+        return candidates[:10]
+
+
+
+================================================================================
+📄 ai\order_flow_analyzer.py
+================================================================================
+
+"""
+ai/order_flow_analyzer.py
+تحلیل جریان سفارشات و تشخیص فشار خرید و فروش
+"""
+
+import sqlite3
+import pandas as pd
+from datetime import datetime, timedelta
+
+class OrderFlowAnalyzer:
+    def __init__(self, db_path="data/market_data.db"):
+        self.db_path = db_path
+    
+    def get_recent_data(self, symbol="خگستر", minutes=5):
+        """دریافت داده‌های چند دقیقه اخیر"""
+        try:
+            conn = sqlite3.connect(self.db_path)
+            query = f"""
+                SELECT * FROM live_data 
+                WHERE symbol = '{symbol}'
+                AND timestamp > datetime('now', '-{minutes} minutes')
+                ORDER BY timestamp
+            """
+            df = pd.read_sql_query(query, conn)
+            conn.close()
+            return df
+        except:
+            return pd.DataFrame()
+    
+    def get_last_price(self, symbol="خگستر"):
+        """دریافت آخرین قیمت ثبت‌شده"""
+        try:
+            conn = sqlite3.connect(self.db_path)
+            query = f"""
+                SELECT price, timestamp FROM live_data 
+                WHERE symbol = '{symbol}'
+                ORDER BY timestamp DESC
+                LIMIT 1
+            """
+            df = pd.read_sql_query(query, conn)
+            conn.close()
+            if not df.empty:
+                return df.iloc[0]['price'], df.iloc[0]['timestamp']
+        except:
+            pass
+        return 0, None
+    
+    def analyze_pressure(self, symbol="خگستر", minutes=5):
+        """تحلیل فشار خرید و فروش"""
+        df = self.get_recent_data(symbol, minutes)
+        
+        if df.empty:
+            last_price, last_time = self.get_last_price(symbol)
+            return {
+                "signal": "NEUTRAL",
+                "pressure": 0.5,
+                "avg_buy": 0,
+                "avg_sell": 0,
+                "records": 0,
+                "last_price": last_price,
+                "last_time": last_time
+            }
+        
+        avg_buy = df['buy_volume'].mean() if 'buy_volume' in df else 0
+        avg_sell = df['sell_volume'].mean() if 'sell_volume' in df else 0
+        
+        if avg_sell == 0:
+            pressure = 0.5
+        else:
+            pressure = avg_buy / avg_sell
+        
+        if pressure > 1.2:
+            signal = "BUY"
+        elif pressure < 0.8:
+            signal = "SELL"
+        else:
+            signal = "HOLD"
+        
+        last_price = df.iloc[-1]['price'] if 'price' in df else 0
+        last_time = df.iloc[-1]['timestamp'] if 'timestamp' in df else None
+        
+        return {
+            "signal": signal,
+            "pressure": round(pressure, 2),
+            "avg_buy": int(avg_buy),
+            "avg_sell": int(avg_sell),
+            "records": len(df),
+            "last_price": last_price,
+            "last_time": last_time
+        }
+
+
+
+================================================================================
+📄 ai\whale_detector.py
+================================================================================
+
+import json
+import os
+
+class WhaleDetector:
+    def __init__(self):
+        # مسیر پوشه‌ای که فایل‌های JSON در آن هستند
+        self.data_folder = os.path.join(os.path.dirname(__file__), "..", "data")
+        self.data_folder = os.path.abspath(self.data_folder)  # مسیر کامل
+        print(f"🔍 مسیر پوشه داده: {self.data_folder}")  # برای اطمینان
+
+        # آستانه تشخیص نهنگ (۱ میلیون سهم)
+        self.whale_threshold = 1_000_000
+
+    def load_json(self, filename):
+        path = os.path.join(self.data_folder, filename)
+        if os.path.exists(path):
+            with open(path, "r", encoding="utf-8") as f:
+                return json.load(f)
+        else:
+            print(f"❌ فایل {path} پیدا نشد.")
+            return None
+
+    def detect_from_order_book(self, filename="order_book_khegostar.json"):
+        data = self.load_json(filename)
+        if not data:
+            return {"signal": f"⚠️ فایل {filename} پیدا نشد"}
+
+        whales = []
+        best_limits = data.get("bestLimits", [])
+        for item in best_limits:
+            buy_vol = item.get("qTitMeDem", 0)
+            sell_vol = item.get("qTitMeOf", 0)
+            if buy_vol > self.whale_threshold:
+                whales.append({"type": "BUY", "volume": buy_vol})
+            if sell_vol > self.whale_threshold:
+                whales.append({"type": "SELL", "volume": sell_vol})
+
+        if not whales:
+            return {"signal": "⚪ هیچ نهنگی در صفوف شناسایی نشد"}
+
+        buy_count = sum(1 for w in whales if w['type'] == "BUY")
+        sell_count = sum(1 for w in whales if w['type'] == "SELL")
+        signal = "🟢 خرید" if buy_count > sell_count else "🔴 فروش" if sell_count > buy_count else "⚪ متعادل"
+
+        return {"signal": signal, "buy_count": buy_count, "sell_count": sell_count}
+
+    def report(self, filename="order_book_khegostar.json"):
+        result = self.detect_from_order_book(filename)
+        lines = [
+            "=" * 50,
+            f"🐋 تشخیص نهنگ‌ها - {filename}",
+            "=" * 50,
+            f"سیگنال: {result.get('signal', 'نامشخص')}",
+            f"تعداد نهنگ‌های خریدار: {result.get('buy_count', 0)}",
+            f"تعداد نهنگ‌های فروشنده: {result.get('sell_count', 0)}",
+            "=" * 50
+        ]
+        return "\n".join(lines)
+
+if __name__ == "__main__":
+    detector = WhaleDetector()
+    print(detector.report())

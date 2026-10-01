@@ -1,0 +1,18 @@
+[
+  {
+    "symbol": "وکغدیر",
+    "buy_date": "2026-09-18",
+    "sell_date": "2026-09-18",
+    "buy_price": 6960.0,
+    "sell_price": 7500.0,
+    "quantity": 1000,
+    "invested": 6960000.0,
+    "proceeds": 7500000.0,
+    "profit": 540000.0,
+    "profit_pct": 7.76,
+    "buy_reason": "نسبت خرید حقیقی 20.3",
+    "sell_reason": "رسید به حد سود",
+    "hold_days": 0,
+    "closed_at": "2026-09-18T18:32:48.326314"
+  }
+]

@@ -1,14 +1,18 @@
 """
 Project : Smart_Bourse
 File    : ai/memory.py
-Version : 1.0.0
+Version : 2.0.0
 
 Description :
     حافظه‌ی AI — ذخیره‌ی همه‌ی سیگنال‌ها و نتایج
+    
+Changes v2.0:
+    - days_ago درست شد
+    - فیلتر تاریخ واقعی
 """
 
 import json
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 
 
@@ -92,15 +96,35 @@ class AIMemory:
                     pass
         return entries
 
-    def get_pending_signals(self, days_ago=7):
+    def get_pending_signals(self, days_ago=30):
+        """
+        سیگنال‌های چک‌نشده
+        
+        نسخه ۲.۰: days_ago درست کار می‌کند
+        """
         signals = self.load_signals()
         outcomes = self.load_outcomes()
         checked = {(o["date"], o["symbol"]) for o in outcomes}
+        
+        # فیلتر تاریخ
+        cutoff = datetime.now() - timedelta(days=days_ago)
+        
         pending = []
         for s in signals:
             key = (s["date"], s["symbol"])
-            if key not in checked:
-                pending.append(s)
+            if key in checked:
+                continue
+            
+            # چک تاریخ
+            try:
+                signal_date = datetime.strptime(str(s["date"]), "%Y-%m-%d")
+                if signal_date < cutoff:
+                    continue
+            except Exception:
+                pass
+            
+            pending.append(s)
+        
         return pending
 
     def stats(self):

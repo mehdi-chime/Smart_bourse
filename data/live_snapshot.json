@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-09-20T01:24:57.140714",
+  "time": "01:24:57",
+  "holdings": [
+    {
+      "symbol": "تابان",
+      "user_name": "تابان",
+      "qty": 3697,
+      "buy_price": null,
+      "price": 18710.0,
+      "change_pct": 2.97,
+      "value": 69170870.0,
+      "profit_value": null,
+      "profit_pct": null,
+      "status": "NORMAL"
+    },
+    {
+      "symbol": "پكوير",
+      "user_name": "پکویر",
+      "qty": 23518,
+      "buy_price": null,
+      "price": 3700.0,
+      "change_pct": 2.78,
+      "value": 87016600.0,
+      "profit_value": null,
+      "profit_pct": null,
+      "status": "NORMAL"
+    },
+    {
+      "symbol": "سهرمز",
+      "user_name": "سمهریز",
+      "qty": 5350,
+      "buy_price": null,
+      "price": 20020.0,
+      "change_pct": -2.76,
+      "value": 107107000.0,
+      "profit_value": null,
+      "profit_pct": null,
+      "status": "NORMAL"
+    },
+    {
+      "symbol": "احيا",
+      "user_name": "احیا",
+      "qty": 49122,
+      "buy_price": null,
+      "price": 5040.0,
+      "change_pct": -2.5,
+      "value": 247574880.0,
+      "profit_value": null,
+      "profit_pct": null,
+      "status": "NORMAL"
+    },
+    {
+      "symbol": "پيزد",
+      "user_name": "پیزد",
+      "qty": 23220,
+      "buy_price": null,
+      "price": 12510.0,
+      "change_pct": 2.69,
+      "value": 290482200.0,
+      "profit_value": null,
+      "profit_pct": null,
+      "status": "NORMAL"
+    },
+    {
+      "symbol": "خپارس",
+      "user_name": "خپارس",
+      "qty": 217948,
+      "buy_price": null,
+      "price": 2097.0,
+      "change_pct": 3.0,
+      "value": 457036956.0,
+      "profit_value": null,
+      "profit_pct": null,
+      "status": "NORMAL"
+    },
+    {
+      "symbol": "خگستر",
+      "user_name": "خگستر",
+      "qty": 468777,
+      "buy_price": 4327,
+      "price": 4140.0,
+      "change_pct": -2.11,
+      "value": 1940736780.0,
+      "profit_value": -87661299.0,
+      "profit_pct": -4.32,
+      "status": "NORMAL"
+    },
+    {
+      "symbol": "فولاد",
+      "user_name": "فولاد",
+      "qty": 431948,
+      "buy_price": 3394,
+      "price": 3280.0,
+      "change_pct": -0.51,
+      "value": 1416789440.0,
+      "profit_value": -49242072.0,
+      "profit_pct": -3.36,
+      "status": "NORMAL"
+    }
+  ],
+  "total_value": 4615914726.0,
+  "total_cost": 3494429591,
+  "total_profit": -136903371.0
+}

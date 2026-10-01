@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-01T17:54:33.659369",
+  "samples": 104,
+  "features": 6,
+  "train_accuracy": 1.0,
+  "test_accuracy": 1.0,
+  "feature_importance": {
+    "ratio": 0.54,
+    "rsi": 0.0,
+    "tech_score": 0.0,
+    "final_score": 0.0,
+    "price": 0.46,
+    "market_pct": 0.0
+  }
+}

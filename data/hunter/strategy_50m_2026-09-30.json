@@ -1,0 +1,125 @@
+{
+  "date": "2026-09-30",
+  "time": "00:54:32",
+  "capital": 500000000,
+  "layers": {
+    "safe": [
+      {
+        "symbol": "خزر",
+        "name": "فنرسازي‌زر",
+        "last": 2030.0,
+        "min_a": 2010.0,
+        "max_a": 2134.0,
+        "eps": 394.0,
+        "pe": 5.15,
+        "rsi": 20.3,
+        "atr_pct": 3.9,
+        "score": 55,
+        "profit": 4.919154228855711,
+        "buy_target": 2010.0,
+        "sell_target": 2134.0,
+        "stop_loss": 1970
+      },
+      {
+        "symbol": "شراز",
+        "name": "پالايش نفت شيراز",
+        "last": 93430.0,
+        "min_a": 90790.0,
+        "max_a": 96390.0,
+        "eps": 10165.0,
+        "pe": 9.19,
+        "rsi": 19.6,
+        "atr_pct": 4.43,
+        "score": 50,
+        "profit": 4.918080185042402,
+        "buy_target": 90790.0,
+        "sell_target": 96390.0,
+        "stop_loss": 88974
+      },
+      {
+        "symbol": "كيانا",
+        "name": "گروه مالي كيان",
+        "last": 7540.0,
+        "min_a": 7270.0,
+        "max_a": 7710.0,
+        "eps": 804.0,
+        "pe": 9.38,
+        "rsi": 22.9,
+        "atr_pct": 3.57,
+        "score": 40,
+        "profit": 4.802269601100413,
+        "buy_target": 7270.0,
+        "sell_target": 7710.0,
+        "stop_loss": 7125
+      }
+    ],
+    "medium": [
+      {
+        "symbol": "فاراك",
+        "name": "ماشين‌ سازي‌ اراك‌",
+        "last": 2906.0,
+        "min_a": 2885.0,
+        "max_a": 3063.0,
+        "eps": 423.0,
+        "pe": 6.87,
+        "rsi": 32.0,
+        "atr_pct": 4.51,
+        "score": 70,
+        "profit": 4.919844020797233,
+        "buy_target": 2885.0,
+        "sell_target": 3063.0,
+        "stop_loss": 2827
+      },
+      {
+        "symbol": "حفاري",
+        "name": "حفاري شمال",
+        "last": 5800.0,
+        "min_a": 5780.0,
+        "max_a": 6120.0,
+        "eps": 2511.0,
+        "pe": 2.31,
+        "rsi": 32.8,
+        "atr_pct": 3.65,
+        "score": 70,
+        "profit": 4.632352941176472,
+        "buy_target": 5780.0,
+        "sell_target": 6120.0,
+        "stop_loss": 5664
+      },
+      {
+        "symbol": "بموتو",
+        "name": "موتوژن‌",
+        "last": 3440.0,
+        "min_a": 3240.0,
+        "max_a": 3440.0,
+        "eps": 484.0,
+        "pe": 7.11,
+        "rsi": 36.1,
+        "atr_pct": 4.19,
+        "score": 65,
+        "profit": 4.922839506172845,
+        "buy_target": 3240.0,
+        "sell_target": 3440.0,
+        "stop_loss": 3175
+      }
+    ],
+    "aggressive": [
+      {
+        "symbol": "شراز",
+        "name": "پالايش نفت شيراز",
+        "last": 93430.0,
+        "min_a": 90790.0,
+        "max_a": 96390.0,
+        "eps": 10165.0,
+        "pe": 9.19,
+        "rsi": 19.6,
+        "atr_pct": 4.43,
+        "score": 50,
+        "profit": 4.918080185042402,
+        "buy_target": 90790.0,
+        "sell_target": 96390.0,
+        "stop_loss": 88974
+      }
+    ]
+  }
+}

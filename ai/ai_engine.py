@@ -1,14 +1,20 @@
 """
 Project : Smart_Bourse
 File    : ai/ai_engine.py
-Version : 2.0.0
+Version : 3.0.0
+
 Description :
-    مغز AI — با چک نتیجه هوشمند (فقط وقتی زمانش رسیده)
+    موتور اصلی AI - با ML
+
+Changes v3.0:
+    - ادغام ML (RandomForest)
+    - پیش‌بینی با ML
+    - ترکیب ML + weight-based
 """
 
+import sys
 from datetime import datetime
 from pathlib import Path
-import sys
 
 PROJECT_ROOT = Path(__file__).parent.parent
 sys.path.insert(0, str(PROJECT_ROOT))
@@ -22,10 +28,22 @@ class AIEngine:
     def __init__(self):
         self.memory = AIMemory()
         self.learner = AILearner()
+        
+        # ML
+        self.ml_model = None
+        try:
+            from ai.ml_model import MLModel
+            self.ml_model = MLModel()
+        except Exception:
+            pass
+
+    # ═══════════════════════════════════════════════════════
+    # ثبت سیگنال
+    # ═══════════════════════════════════════════════════════
 
     def record_signal(self, trade_date, symbol, category, ratio,
                       rsi=None, technical_score=None, final_score=None,
-                      last_price=None):
+                      last_price=None, market_change_pct=None):
         self.memory.save_signal(
             trade_date=trade_date,
             symbol=symbol,
@@ -35,17 +53,17 @@ class AIEngine:
             technical_score=technical_score,
             final_score=final_score,
             last_price=last_price,
+            context={"market_change_pct": market_change_pct},
         )
 
-    def check_outcomes(self, price_lookup_func):
-        """
-        چک کردن نتیجه‌ی سیگنال‌ها
-        نکته مهم: فقط وقتی چک می‌کنه که واقعاً اون روزها گذشته باشه
-        """
+    # ═══════════════════════════════════════════════════════
+    # چک نتیجه
+    # ═══════════════════════════════════════════════════════
+
+    def check_outcomes(self, price_lookup_func, market_lookup_func=None):
         pending = self.memory.get_pending_signals()
         checked = 0
         skipped = 0
-
         today = datetime.now().date()
 
         for p in pending:
@@ -57,7 +75,6 @@ class AIEngine:
                 skipped += 1
                 continue
 
-            # محاسبه‌ی روزهای گذشته
             try:
                 signal_date = datetime.strptime(str(signal_date_str), "%Y-%m-%d").date()
                 days_passed = (today - signal_date).days
@@ -66,35 +83,30 @@ class AIEngine:
                 continue
 
             if days_passed < 1:
-                # هنوز یه روز هم نگذشته
                 skipped += 1
                 continue
 
-            # فقط اون قیمت‌هایی که زمانشون رسیده
-            price_1d = None
-            price_3d = None
-            price_7d = None
+            price_1d = price_lookup_func(symbol, 1) if days_passed >= 1 else None
+            price_3d = price_lookup_func(symbol, 3) if days_passed >= 3 else None
+            price_7d = price_lookup_func(symbol, 7) if days_passed >= 7 else None
 
-            if days_passed >= 1:
-                price_1d = price_lookup_func(symbol, 1)
-            if days_passed >= 3:
-                price_3d = price_lookup_func(symbol, 3)
-            if days_passed >= 7:
-                price_7d = price_lookup_func(symbol, 7)
-
-            # تعیین موفقیت (اولویت: 7d > 3d > 1d)
-            success = None
-            cat = p["category"]
-
-            for price_check in [price_7d, price_3d, price_1d]:
-                if price_check:
-                    if cat == "SAFE_BUY":
-                        success = price_check > price_signal
-                    elif cat == "SAFE_SELL":
-                        success = price_check < price_signal
+            best_price = None
+            for pc in [price_7d, price_3d, price_1d]:
+                if pc:
+                    best_price = pc
                     break
 
-            # اگه هیچ قیمتی موجود نبود، رد کن
+            if best_price:
+                change_pct = (best_price - price_signal) / price_signal * 100
+                cat = p["category"]
+                success = None
+                if cat == "SAFE_BUY":
+                    success = change_pct > 1.0
+                elif cat == "SAFE_SELL":
+                    success = change_pct < -1.0
+            else:
+                success = None
+
             if success is None:
                 skipped += 1
                 continue
@@ -112,9 +124,12 @@ class AIEngine:
             checked += 1
 
         if skipped > 0:
-            print("   (" + str(skipped) + " سیگنال هنوز زمانش نرسیده)")
-
+            print("   (" + str(skipped) + " skipped)")
         return checked
+
+    # ═══════════════════════════════════════════════════════
+    # بینش
+    # ═══════════════════════════════════════════════════════
 
     def get_insight(self):
         stats = self.memory.stats()
@@ -126,88 +141,156 @@ class AIEngine:
             "weights": self.learner.weights,
         }
 
-    def advise(self, symbol, category, ratio, rsi=None, technical_score=None):
+    # ═══════════════════════════════════════════════════════
+    # مشاوره — نسخه ۳.۰ (با ML)
+    # ═══════════════════════════════════════════════════════
+
+    def advise(self, symbol, category, ratio, rsi=None, technical_score=None,
+               market_change_pct=None, last_price=None):
         outcomes = self.memory.load_outcomes()
         confidence = self.learner.get_confidence(category, outcomes)
+        
+        # امتیازها
         mf_score = self._score_money_flow(ratio)
         tech_score = technical_score or 50
+        rsi_score = self._score_rsi(rsi)
+        context_score = self._score_context(market_change_pct)
+        
+        # وزن‌ها
         w = self.learner.weights
-        final = (
+        
+        # فرمول weight-based
+        weight_score = (
             w["money_flow"] * mf_score
             + w["technical"] * tech_score
-            + w["context"] * 50
+            + w["context"] * context_score
         )
+        
+        # ML prediction
+        ml_score = None
+        if self.ml_model and self.ml_model.is_ready() and last_price:
+            try:
+                X = [[
+                    ratio,
+                    rsi if rsi is not None else 50,
+                    technical_score if technical_score is not None else 50,
+                    weight_score,
+                    last_price,
+                    market_change_pct if market_change_pct is not None else 0,
+                ]]
+                proba = self.ml_model.predict_proba(X)
+                if proba is not None and len(proba) > 0:
+                    ml_score = round(proba[0][1] * 100, 1)
+            except Exception as e:
+                print(f"ML error: {e}")
+        
+        # ترکیب
+        if ml_score is not None:
+            # 60% ML + 40% weight
+            final = 0.6 * ml_score + 0.4 * weight_score
+            mode = "ML+weight"
+        else:
+            final = weight_score
+            mode = "weight-only"
+        
         advice = self._make_advice(category, final, confidence, rsi)
+        
         return {
             "symbol": symbol,
             "category": category,
             "ratio": ratio,
             "rsi": rsi,
+            "mf_score": mf_score,
+            "tech_score": tech_score,
+            "rsi_score": rsi_score,
+            "context_score": context_score,
+            "weight_score": round(weight_score, 1),
+            "ml_score": ml_score,
             "final_score": round(final, 1),
             "confidence": round(confidence, 2),
+            "mode": mode,
             "weights": w,
             "advice": advice,
         }
 
+    # ═══════════════════════════════════════════════════════
+    # امتیازها
+    # ═══════════════════════════════════════════════════════
+
     @staticmethod
     def _score_money_flow(ratio):
-        if ratio >= 10:
-            return 100
-        elif ratio >= 5:
-            return 85
-        elif ratio >= 2:
-            return 65
-        elif ratio >= 1:
-            return 50
-        elif ratio >= 0.5:
-            return 35
-        elif ratio >= 0.2:
-            return 20
+        if ratio >= 10: return 100
+        elif ratio >= 5: return 85
+        elif ratio >= 2: return 65
+        elif ratio >= 1: return 50
+        elif ratio >= 0.5: return 35
+        elif ratio >= 0.2: return 20
         return 10
+
+    @staticmethod
+    def _score_rsi(rsi):
+        if rsi is None: return 50
+        if rsi < 20: return 100
+        elif rsi < 30: return 85
+        elif rsi < 40: return 70
+        elif rsi < 50: return 55
+        elif rsi < 60: return 40
+        elif rsi < 70: return 25
+        else: return 10
+
+    @staticmethod
+    def _score_context(market_change_pct):
+        if market_change_pct is None: return 50
+        if market_change_pct > 2: return 80
+        elif market_change_pct > 1: return 70
+        elif market_change_pct > 0: return 60
+        elif market_change_pct > -1: return 50
+        elif market_change_pct > -2: return 40
+        else: return 30
 
     @staticmethod
     def _make_advice(category, final_score, confidence, rsi):
         if rsi and rsi > 80:
-            return "منتظر اصلاح بمان — سهم در اوج قیمت است"
+            return "منتظر اصلاح بمان"
         if rsi and rsi < 30 and category == "SAFE_BUY":
-            return "فرصت خوب — فشار خرید حقیقی با اشباع فروش"
+            return "فرصت خوب"
         if category == "SAFE_BUY":
             if final_score > 75 and confidence > 0.6:
-                return "کاندید قوی — بررسی بیشتر"
+                return "کاندید قوی"
             elif final_score > 60:
-                return "کاندید متوسط — زیر نظر بگیر"
+                return "کاندید متوسط"
             else:
-                return "ضعیف — احتمالاً ارزش ورود ندارد"
+                return "ضعیف"
         if category == "SAFE_SELL":
-            return "فشار فروش — احتمال ریزش"
+            return "فشار فروش"
         if category == "QUEUE_BUY":
-            return "صف خرید — بررسی کن که واقعی است یا دام"
-        return "معمولی — نیاز به بررسی بیشتر"
+            return "صف خرید"
+        return "معمولی"
+
+    # ═══════════════════════════════════════════════════════
+    # گزارش
+    # ═══════════════════════════════════════════════════════
 
     def report(self):
         insight = self.get_insight()
         print()
         print("=" * 70)
-        print("  Smart_Bourse AI — گزارش حافظه")
+        print("  Smart_Bourse AI - Report (v3.0)")
         print("=" * 70)
         m = insight["memory"]
         print()
-        print("حافظه:")
-        print("   کل سیگنال‌ها     : " + str(m["total_signals"]))
-        print("   نتایج چک‌شده     : " + str(m["total_outcomes"]))
-        print("   در انتظار چک    : " + str(m["pending"]))
-        print("   موفق            : " + str(m["success_count"]))
-        print("   ناموفق           : " + str(m["failure_count"]))
+        print("Memory:")
+        print("   Total signals    : " + str(m["total_signals"]))
+        print("   Checked outcomes : " + str(m["total_outcomes"]))
+        print("   Pending          : " + str(m["pending"]))
+        print("   Success          : " + str(m["success_count"]))
+        print("   Failed           : " + str(m["failure_count"]))
         print()
-        print("وزن‌های یادگرفته:")
+        print("Weights:")
         for k, v in insight["weights"].items():
             print("   " + k.ljust(15) + " : " + str(round(v, 3)))
-        if insight["category_stats"]:
-            print()
-            print("آمار دسته‌ها:")
-            for cat, s in insight["category_stats"].items():
-                rate = s.get("success_rate", 0)
-                print("   " + cat.ljust(12) + " : " + str(s["success"]) + "/" + str(s["total"]) + "  (" + str(round(rate * 100, 1)) + "%)")
+        print()
+        print(f"ML Model: {'✅ ready' if self.ml_model and self.ml_model.is_ready() else '❌ not ready'}")
         print("=" * 70)
 
 

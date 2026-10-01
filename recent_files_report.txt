@@ -1,0 +1,248 @@
+====================================================================================================
+  📊 گزارش فایل‌های جدید (10 روز اخیر)
+  📅 2026-10-01 03:12:47
+====================================================================================================
+
+  📈 آمار کلی:
+     کل فایل‌ها (بدون skip): 1,555
+     فایل‌های 10 روز اخیر: 168
+
+  📁 بر اساس پسوند:
+     .py             →   71 فایل
+     .jsonl          →   54 فایل
+     .json           →   24 فایل
+     .txt            →    8 فایل
+     .md             →    3 فایل
+     .html           →    2 فایل
+     .bak            →    2 فایل
+     .zip            →    1 فایل
+     .xlsx           →    1 فایل
+     بدون پسوند      →    1 فایل
+     .v52bak         →    1 فایل
+
+  📂 بر اساس پوشه:
+     (ریشه)                         →   54 فایل
+     scanner                        →   29 فایل
+     data\hunter                    →   13 فایل
+     data\real_flow\history\symbols →   10 فایل
+     data                           →    6 فایل
+     data\live_records\2026-09-30   →    5 فایل
+     data\live_records\2026-09-29   →    5 فایل
+     data\live_records\2026-09-28   →    5 فایل
+     data\live_records\2026-09-27   →    5 فایل
+     reports                        →    5 فایل
+     data\live_records\2026-09-26   →    5 فایل
+     data\live_records\2026-09-23   →    5 فایل
+     data\live_records\2026-09-22   →    5 فایل
+     data\live_records\2026-09-21   →    5 فایل
+     data\real_flow                 →    3 فایل
+     data\ai                        →    2 فایل
+     reports\chatgpt_bridge         →    2 فایل
+     docs\roadmap_archive           →    1 فایل
+     data\real_flow\history         →    1 فایل
+     data\portfolio_history         →    1 فایل
+     data\market_context            →    1 فایل
+
+====================================================================================================
+  📝 لیست کامل فایل‌های 10 روز اخیر:
+====================================================================================================
+
+
+📅 2026-10-01 (8 فایل)
+----------------------------------------------------------------------------------------------------
+  [03:12:45]      6,713 b  find_recent_files.py
+  [03:00:12]      5,896 b  PROJECT_MEMORY.md
+  [02:45:20]  1,208,523 b  for_deepseek_all.txt
+  [02:45:16]      2,586 b  zip_to_text.py
+  [02:40:07]    350,651 b  for_deepseek_20261001_0240.zip
+  [02:40:02]     11,848 b  collect_files.py
+  [02:34:32]     11,382 b  project_scan.json
+  [02:34:28]     10,948 b  scan_project.py
+
+📅 2026-09-30 (30 فایل)
+----------------------------------------------------------------------------------------------------
+  [23:42:13]      7,543 b  data\hunter\tomorrow_v5_2026-09-30.json
+  [23:11:38]      2,721 b  market_analysis.py
+  [23:05:40]      1,474 b  shakhes_check.py
+  [22:58:30]     10,494 b  night_check.py
+  [22:48:57]      7,731 b  check_tomorrow.py
+  [22:38:11]      5,203 b  pick_stock_v2.py
+  [22:29:29]      5,214 b  pick_stock.py
+  [22:27:07]    897,141 b  data\all_symbols.json
+  [22:26:07]      2,700 b  fetch_all_symbols.py
+  [22:12:19]    630,760 b  all_symbols.json
+  [22:07:20]     20,313 b  smart_bourse_v10.py
+  [21:12:08]      1,724 b  install_startup.py
+  [21:09:02]      5,501 b  school_mode_v7.py
+  [20:45:31]      5,158 b  check_dafra_now.py
+  [17:28:13]     17,144 b  data\hunter\golden_2026-09-30.json
+  [13:19:25]    100,444 b  data\smart_alert_history.json
+  [13:19:25]         46 b  data\smart_alert_sent.json
+  [11:15:00]     64,578 b  data\live_records\2026-09-30\شستا.jsonl
+  [11:15:00]     64,831 b  data\live_records\2026-09-30\خساپا.jsonl
+  [11:15:00]     65,132 b  data\live_records\2026-09-30\خودرو.jsonl
+  [11:15:00]     65,116 b  data\live_records\2026-09-30\فولاد.jsonl
+  [11:15:00]     65,110 b  data\live_records\2026-09-30\خگستر.jsonl
+  [01:41:42]      7,088 b  eitaa_news_reader.py
+  [01:33:33]      2,072 b  eitaa_channels.py
+  [01:29:03]      5,106 b  telegram_reader.py
+  [01:15:36]      1,243 b  test_connection.py
+  [01:04:18]     16,080 b  eitaa_alert_v6.py
+  [00:54:32]      3,100 b  data\hunter\strategy_50m_2026-09-30.json
+  [00:43:55]      9,149 b  strategy_50m.py
+  [00:42:06]     19,093 b  analyze_foolad_khegostar.py
+
+📅 2026-09-29 (20 فایل)
+----------------------------------------------------------------------------------------------------
+  [21:45:06]     16,538 b  data\hunter\golden_2026-09-29.json
+  [21:40:10]     14,157 b  golden_scanner.py
+  [21:39:41]     14,157 b  # golden_scanner.py
+  [21:26:05]     59,616 b  data\hunter\smart_v8_2026-09-29.json
+  [21:21:27]     13,194 b  smart_scanner_v8.py
+  [21:18:09]      4,452 b  check_aap_now.py
+  [20:55:01]      1,831 b  check_dcapsul.py
+  [19:11:00]      7,572 b  data\hunter\tomorrow_v5_2026-09-29.json
+  [12:30:57]     34,997 b  data\live_records\2026-09-29\شستا.jsonl
+  [12:30:57]     22,145 b  data\live_records\2026-09-29\خساپا.jsonl
+  [12:30:57]     34,777 b  data\live_records\2026-09-29\خودرو.jsonl
+  [12:30:57]     35,664 b  data\live_records\2026-09-29\فولاد.jsonl
+  [12:30:57]     34,461 b  data\live_records\2026-09-29\خگستر.jsonl
+  [12:29:51]    100,394 b  data\hunter\smart_v5_2026-09-29.json
+  [02:59:36]      3,561 b  daily_runner_v5.py
+  [02:55:00]     13,083 b  smart_scanner_v5.py
+  [02:52:33]      4,685 b  school_mode_v5.py
+  [02:47:35]     10,358 b  tomorrow_v5.py
+  [02:02:21]      1,557 b  install_school_v5.py
+  [01:42:58]      4,312 b  check_rtap_now.py
+
+📅 2026-09-28 (12 فایل)
+----------------------------------------------------------------------------------------------------
+  [12:44:40]     27,916 b  data\live_records\2026-09-28\شستا.jsonl
+  [12:44:39]     27,522 b  data\live_records\2026-09-28\خساپا.jsonl
+  [12:44:39]     27,736 b  data\live_records\2026-09-28\خودرو.jsonl
+  [12:44:39]     28,206 b  data\live_records\2026-09-28\فولاد.jsonl
+  [12:44:39]     27,685 b  data\live_records\2026-09-28\خگستر.jsonl
+  [09:41:18]      1,641 b  data\sent_v3.json
+  [01:54:28]      2,696 b  check_khepars_v2.py
+  [01:50:13]      6,050 b  check_khegostar_khepars.py
+  [01:19:35]     14,258 b  data\hunter\tomorrow_v2_2026-09-28.json
+  [01:18:30]     10,940 b  tomorrow_picks_v2.py
+  [01:12:02]      6,106 b  data\hunter\tomorrow_2026-09-28.json
+  [01:11:14]      7,401 b  tomorrow_picks.py
+
+📅 2026-09-27 (59 فایل)
+----------------------------------------------------------------------------------------------------
+  [13:09:50]      1,749 b  install_school_v3.py
+  [13:09:45]      2,416 b  scanner\create_install_school.py
+  [13:04:44]     11,803 b  school_mode_v3.py
+  [12:43:57]     14,840 b  scanner\school_mode_v3.py
+  [12:30:49]     95,205 b  data\live_records\2026-09-27\شستا.jsonl
+  [12:30:49]     94,841 b  data\live_records\2026-09-27\خساپا.jsonl
+  [12:30:49]     95,194 b  data\live_records\2026-09-27\خودرو.jsonl
+  [12:30:49]     96,003 b  data\live_records\2026-09-27\فولاد.jsonl
+  [12:30:49]     97,126 b  data\live_records\2026-09-27\خگستر.jsonl
+  [12:15:21]      4,774 b  scanner\analyze_dalbar_deep.py
+  [12:11:21]      5,317 b  scanner\check_dalbar.py
+  [12:02:19]      4,620 b  scanner\check_dafra_now.py
+  [11:51:44]      4,560 b  scanner\check_sanosa.py
+  [11:48:07]        282 b  data\sent_signals_v2.json
+  [11:45:46]     13,119 b  scanner\school_mode_v2.py
+  [11:41:46]      3,014 b  scanner\school_mode_khepars.py
+  [11:39:30]      3,486 b  scanner\khepars_strategy.py
+  [11:37:26]      3,419 b  scanner\analyze_khepars_daily.py
+  [11:33:35]      6,338 b  scanner\detect_queue_trap.py
+  [11:26:54]     35,949 b  data\hunter\fixed_2026-09-27.json
+  [11:24:26]      6,392 b  scanner\fix_hunter_target.py
+  [11:13:04]        649 b  data\sent_signals.json
+  [11:12:43]     13,521 b  scanner\school_mode_runner.py
+  [11:08:13]      3,440 b  scanner\auto_morning_runner.py
+  [10:48:16]      2,267 b  scanner\check_eitaa.py
+  [10:43:11]      4,659 b  scanner\adaptive_strategy.py
+  [10:37:41]      7,045 b  scanner\find_growth_stocks.py
+  [10:36:02]      6,066 b  scanner\find_sell_queue.py
+  [10:22:59]      4,609 b  scanner\smart_order.py
+  [10:14:59]      2,833 b  scanner\check_orders.py
+  [09:43:54]     13,177 b  reports\hunter_2026-09-27.txt
+  [09:43:54]     28,480 b  data\hunter\hunter_2026-09-27.json
+  [09:28:48]      6,307 b  morning_scan.py
+  [01:08:09]        207 b  docs\roadmap_archive\README.md
+  [01:08:09]      3,362 b  ROADMAP_4.md
+  [01:08:07]      7,593 b  install_roadmap_4.py
+  [00:48:46]      4,493 b  reports\portfolio_2026-09-27.html
+  [00:48:46]      9,493 b  reports\dashboard_2026-09-26.html
+  [00:48:46]     29,798 b  data\ai\memory.jsonl
+  [00:48:46]     24,772 b  data\ai\outcomes.jsonl
+  [00:48:33]      6,037 b  data\real_flow\technical_2026-09-26.json
+  [00:48:17]        165 b  data\real_flow\history\symbols\خوساز2.jsonl
+  [00:48:17]        164 b  data\real_flow\history\symbols\وخاور2.jsonl
+  [00:48:16]        182 b  data\real_flow\history\symbols\تملت.jsonl
+  [00:48:16]        369 b  data\real_flow\history\symbols\نوري.jsonl
+  [00:48:16]        188 b  data\real_flow\history\symbols\شپديس.jsonl
+  [00:48:16]        187 b  data\real_flow\history\symbols\فارس.jsonl
+  [00:48:16]        182 b  data\real_flow\history\symbols\ما.jsonl
+  [00:48:16]      1,012 b  data\real_flow\history\history.jsonl
+  [00:48:16]        183 b  data\real_flow\history\symbols\دعبيد.jsonl
+  [00:48:16]        183 b  data\real_flow\history\symbols\شهر.jsonl
+  [00:48:16]        184 b  data\real_flow\history\symbols\پارس.jsonl
+  [00:48:16]     54,727 b  data\real_flow\real_flow_2026-09-26.xlsx
+  [00:48:05]  2,175,887 b  data\real_flow\real_flow_2026-09-26.json
+  [00:45:35]      1,182 b  data\portfolio_history\2026-09-27.jsonl
+  [00:41:55]      1,523 b  data\market_context\context_2026-09-27.json
+  [00:37:17]      8,247 b  cleanup_project.py
+  [00:18:32]     67,366 b  reports\deep_scan_2026-09-27_00-18.txt
+  [00:18:27]      9,934 b  deep_scan.py
+
+📅 2026-09-26 (14 فایل)
+----------------------------------------------------------------------------------------------------
+  [23:53:56]     32,004 b  data\hunter\scores_2026-09-26.json
+  [23:52:48]     12,210 b  analyze_top_signals.py
+  [23:14:14]      7,756 b  reports\hunter_2026-09-26.txt
+  [23:14:14]     16,747 b  data\hunter\hunter_2026-09-26.json
+  [23:09:40]     10,280 b  scanner\opportunity_hunter_v54.py
+  [23:09:39]     12,064 b  install.py
+  [21:30:54]    144,565 b  project_report.txt
+  [21:30:27]      3,718 b  scanner\scan_project.py
+  [16:33:05]     51,946 b  structure.txt
+  [10:16:09]      5,206 b  data\live_records\2026-09-26\شستا.jsonl
+  [10:16:09]      5,121 b  data\live_records\2026-09-26\خساپا.jsonl
+  [10:16:09]      5,159 b  data\live_records\2026-09-26\خودرو.jsonl
+  [10:16:09]      5,094 b  data\live_records\2026-09-26\فولاد.jsonl
+  [10:16:09]      5,032 b  data\live_records\2026-09-26\خگستر.jsonl
+
+📅 2026-09-23 (5 فایل)
+----------------------------------------------------------------------------------------------------
+  [10:56:57]    102,968 b  data\live_records\2026-09-23\شستا.jsonl
+  [10:56:57]    101,508 b  data\live_records\2026-09-23\خساپا.jsonl
+  [10:56:57]     56,304 b  data\live_records\2026-09-23\خودرو.jsonl
+  [10:56:57]    104,955 b  data\live_records\2026-09-23\فولاد.jsonl
+  [10:56:57]    101,953 b  data\live_records\2026-09-23\خگستر.jsonl
+
+📅 2026-09-22 (10 فایل)
+----------------------------------------------------------------------------------------------------
+  [12:30:31]    101,618 b  data\live_records\2026-09-22\شستا.jsonl
+  [12:30:31]    101,027 b  data\live_records\2026-09-22\خساپا.jsonl
+  [12:30:31]    101,246 b  data\live_records\2026-09-22\خودرو.jsonl
+  [12:30:31]     98,637 b  data\live_records\2026-09-22\فولاد.jsonl
+  [12:30:31]     98,855 b  data\live_records\2026-09-22\خگستر.jsonl
+  [10:35:38]          0 b  powershell
+  [10:34:06]      9,511 b  scanner\portfolio_alert.py
+  [10:34:06]      9,405 b  scanner\portfolio_alert.py.v52bak
+  [10:18:46]      9,405 b  scanner\portfolio_alert.py.bak
+  [09:45:20]      7,235 b  scanner\market_screener.py
+
+📅 2026-09-21 (10 فایل)
+----------------------------------------------------------------------------------------------------
+  [23:15:57]    127,244 b  reports\chatgpt_bridge\latest_report.txt
+  [23:15:57]    127,244 b  reports\chatgpt_bridge\report_2026-09-21_23-15-57.txt
+  [10:01:46]     10,703 b  scanner\decision_maker.py
+  [09:56:36]     27,076 b  data\live_records\2026-09-21\شستا.jsonl
+  [09:56:36]     26,954 b  data\live_records\2026-09-21\خساپا.jsonl
+  [09:56:36]     27,172 b  data\live_records\2026-09-21\خودرو.jsonl
+  [09:56:36]     27,271 b  data\live_records\2026-09-21\فولاد.jsonl
+  [09:56:36]     26,934 b  data\live_records\2026-09-21\خگستر.jsonl
+  [09:49:26]      9,153 b  scanner\smart_indicators.py
+  [09:49:26]      9,153 b  scanner\smart_indicators.py.bak
+
+====================================================================================================
+  پایان گزارش
+====================================================================================================

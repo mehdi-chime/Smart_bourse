@@ -1,0 +1,1413 @@
+====================================================================================================
+SMART_BOURSE PROJECT REPORT
+====================================================================================================
+
+## ساختار پوشه‌ها
+
+📁 smart_bours/
+  📁 ai/
+  📁 analysis/
+  📁 backtest/
+  📁 backup/
+  📁 charts/
+  📁 core/
+    📁 data/
+  📁 data/
+    📁 ai/
+    📁 backtest/
+    📁 history/
+    📁 live_records/
+      📁 2026-09-19/
+      📁 2026-09-20/
+      📁 2026-09-21/
+      📁 2026-09-22/
+      📁 2026-09-23/
+      📁 2026-09-26/
+    📁 market_context/
+    📁 portfolio/
+    📁 portfolio_history/
+    📁 real_flow/
+      📁 history/
+        📁 symbols/
+  📁 database/
+  📁 decision/
+  📁 docs/
+  📁 eitaa/
+  📁 engines/
+  📁 fundamental/
+  📁 history/
+  📁 indicators/
+  📁 logs/
+  📁 market/
+  📁 models/
+  📁 monitors/
+  📁 news/
+  📁 paper/
+  📁 portfolio/
+  📁 python ba claude/
+    📁 def/
+  📁 reports/
+    📁 chatgpt_bridge/
+    📁 diagnostics/
+    📁 tal/
+  📁 risk/
+  📁 scanner/
+    📁 data/
+      📁 real_flow/
+  📁 scheduler/
+  📁 strategy/
+  📁 tests/
+    📁 data/
+      📁 history/
+  📁 ui/
+  📁 utils/
+
+## فایل‌های پایتون (Python Files)
+
+مسیر                                                             خطوط        حجم  توضیح
+----------------------------------------------------------------------------------------------------------------------------------
+ai\ai_engine.py                                                   209       7327  import sys | from datetime import datetime | from pathlib import Path
+ai\backtest_optimizer.py                                          228       9702  """ | ai/backtest_optimizer.py | بهینه‌ساز بک‌تست - شبیه‌سازی استراتژی‌ها روی داده‌های تاریخی | نسخه
+ai\learner.py                                                      85       2983  """ | Project : Smart_Bourse | File    : ai/learner.py | Version : 1.0.0
+ai\memory.py                                                      115       4080  """ | Project : Smart_Bourse | File    : ai/memory.py | Version : 1.0.0
+ai\momentum_scanner.py                                             59       2286  """ | ai/momentum_scanner.py | تشخیص سهام با شتاب قیمتی در بازه‌های کوتاه‌مدت | """
+ai\order_flow_analyzer.py                                          90       3002  """ | ai/order_flow_analyzer.py | تحلیل جریان سفارشات و تشخیص فشار خرید و فروش | """
+ai\whale_detector.py                                               62       2641  import json | import os | class WhaleDetector: | def __init__(self):
+analysis\__init__.py                                                8        219  """ | analysis/__init__.py | ماژول تحلیل بازار | """
+analysis\analysis.py                                              193       3593  """ | Project : Smart_Bourse | File : analysis.py
+analysis\backtest.py                                               31        345  """ | Project : Smart_Bourse | File : backtest.py
+analysis\candlestick.py                                             0          0  
+analysis\portfolio.py                                              45        598  """ | Project : Smart_Bourse | File : portfolio.py
+analysis\report.py                                                 31        355  """ | Project : Smart_Bourse | File : report.py
+analysis\risk.py                                                   37        450  """ | Project : Smart_Bourse | File : risk.py
+analysis\score.py                                                  47        707  """ | Project : Smart_Bourse | File : score.py
+analysis\score_engine.py                                            0          0  
+analysis\signal.py                                                 55        771  """ | Project : Smart_Bourse | File : signal.py
+analysis\signal_engine.py                                         229       4316  """ | Project : Smart_Bourse | File : signal_engine.py
+analysis\strategy.py                                              322       7644  """ | Project : Smart_Bourse | File : strategy.py
+analysis\support_resistance.py                                     97       3418  """ | analysis/support_resistance.py | تشخیص نقاط حمایت و مقاومت | """
+analysis\trend.py                                                  89       3052  """ | analysis/trend.py | تشخیص روند بازار - شامل کلاس‌های Trend و TrendAnalyzer | """
+analysis\trend_detector.py                                        108       1735  """ | Project : Smart_Bourse | File : trend_detector.py
+analyze_all_whales.py                                              95       3859  import json | import os | from datetime import datetime | class WhaleDetector:
+auto_push.py                                                      111       3058  """ | Project : Smart_Bourse | File    : auto_push.py | Version : 3.0.0 | Description :
+auto_trader.py                                                    179       6299  """ | auto_trader.py | معامله‌گر خودکار - فقط در روزهای منفی خرید می‌کند و حد ضرر را مدیریت می‌کند |
+backtest\__init__.py                                                0          0  
+backtest\accumulation_sim.py                                      141       4203  import sys | from pathlib import Path | PROJECT_ROOT = Path(__file__).parent.parent
+backtest\backtest.py                                                0          0  
+backtest\backtest_engine.py                                       363       6608  """ | Project : Smart_Bourse | File : backtest_engine.py
+backtest\foolad_backtest.py                                       349      12298  """ | Project : Smart_Bourse | File    : backtest/foolad_backtest.py | Version : 2.0.0 | Description
+backtest\strategy_backtest.py                                     260       9136  """ | Project : Smart_Bourse | File    : backtest/strategy_backtest.py | Version : 1.0.0 | Descripti
+batch_backtest.py                                                  37       1146  """ | batch_backtest.py | اجرای بک‌تست روی چند سهم به‌صورت همزمان | """
+bidar_scraper.py                                                   60       2344  """ | bidar_scraper.py | جمع‌آوری داده‌های لحظه‌ای از Bidar Trader و ذخیره در قالب JSON | """
+charts\candlestick.py                                              68       1027  """ | Project : Smart_Bourse | File : candlestick.py
+charts\chart.py                                                    81       1199  """ | Project : Smart_Bourse | File : chart.py
+chatgpt_bridge.py                                                 404       9125  from __future__ import annotations | import subprocess | from datetime import datetime
+check_data.py                                                       4        110  import pandas as pd | import os | print("فایل‌های داخل پوشه data:", os.listdir("data")[:5])
+check_data_date.py                                                 82       2540  """ | check_data_date.py | بررسی آخرین تاریخ داده‌های لحظه‌ای و تاریخی | """
+check_db.py                                                        13        344  from database.database import Database | db = Database() | db.connect()
+check_history.py                                                   22        640  from history.history_database import HistoryDatabase | from database.database import Database | # در
+check_project.py                                                  100       2585  from pathlib import Path | from datetime import datetime | # مسیر پروژه | PROJECT_PATH = Path(__file
+check_stock_data.py                                                42       1524  """ | check_stock_data.py | بررسی داده‌های ذخیره‌شده برای چند سهم خاص | """
+config.py                                                          35       1315  """ | config.py | تنظیمات مرکزی پروژه Smart Bourse | """
+core\data_fetcher.py                                              127       4962  """ | core/data_fetcher.py | دریافت خودکار داده‌های لحظه‌ای از TSETMC | نسخه ۳.۰ - سرعت ۲ ثانیه - خا
+core\event_analyzer.py                                            122       5123  """ | core/event_analyzer.py | تحلیل تأثیر رویدادهای خاص بازار (عرضه اولیه، مجامع، و ...) | نسخه ۱.۰
+core\logger.py                                                     29       1115  """ | core/logger.py | مدیریت لاگ‌های پروژه - نسخه نهایی | """
+core\market_health.py                                              79       3170  import json | import os | def calculate_market_health(data): | """
+core\trade_recorder.py                                             54       1810  """ | core/trade_recorder.py | ذخیره‌سازی و تحلیل معاملات انجام‌شده در طول روز | """
+create_fundamental_csv.py                                          29       1172  """ | create_fundamental_csv.py | ساخت فایل fundamental_data.csv با داده‌های نمونه | """
+create_project.py                                                  64        982  """ | Project : Smart_Bourse | File : create_project.py
+custom_signal.py                                                   17        643  import json | with open("data/market_today.json", "r", encoding="utf-8") as f: | stocks = json.load(
+daily_change.py                                                     9        323  import json | with open("data/market_today.json", "r", encoding="utf-8") as f: | stocks = json.load(
+daily_runner.py                                                   246       9720  """ | daily_runner.py | اسکریپت اجرای روزانه - دانلود خودکار داده + وضعیت بازار + موتورها + هوش مصنو
+database\__init__.py                                                0          0  
+database\database.py                                              231       7122  """ | Project : Smart_Bourse | File : database.py
+database\symbol_repository.py                                     339       6475  """ | Project : Smart_Bourse | File : symbol_repository.py
+decision\ai_decision_engine.py                                    115       4231  """ | decision/ai_decision_engine.py | موتور تصمیم‌گیری هوشمند - ترکیب سیگنال‌ها و صدور دستور نهایی 
+delete_symbols.py                                                  12        205  from database.database import Database | db = Database() | db.connect()
+download_all_history.py                                            46       1414  """ | download_all_history.py | دانلود تاریخچه ۳۶۵ روزه برای همه سهام | """
+edu_showcase.py                                                   175       7441  import sys | import json | from datetime import datetime | from pathlib import Path
+eitaa\eitaa_bot.py                                                 87       1394  """ | Project : Smart_Bourse | File : eitaa_bot.py
+engines\advanced_scanner.py                                       220       8769  """ | engines/advanced_scanner.py | موتور جستجوی پیشرفته - بررسی همه سهام با داده‌های ۳۶۵ روزه | نسخ
+engines\crisis_swing_engine.py                                     76       3017  """ | engines/crisis_swing_engine.py | موتور نوسان‌گیری در روزهای بحرانی - خرید در منفی ۳ و فروش در 
+engines\long_term_engine.py                                       121       4651  """ | engines/long_term_engine.py | موتور سرمایه‌گذاری بلندمدت - قیمت‌ها بر اساس ریال | """
+engines\market_psychology_engine.py                                84       4150  """ | engines/market_psychology_engine.py | موتور تشخیص ریزش موقتی از ساختاری | """
+engines\mid_term_engine.py                                        175       7152  """ | engines/mid_term_engine.py | موتور میان‌مدت - پیدا کردن سهام با روند صعودی و پتانسیل رشد ۲۰ تا
+engines\swing_engine.py                                            76       2794  """ | engines/swing_engine.py | موتور نوسان‌گیری روزانه - قیمت‌ها بر اساس ریال | """
+engines\swing_target.py.py                                        121       4735  """ | engines/swing_engine.py | موتور نوسان‌گیری روزانه - مخصوص سهام خاص (خگستر، خبهمن و ...) | با ت
+excel_to_json.py                                                   25        904  import pandas as pd | import json | import os | # خواندن فایل Excel (همون فایلی که از TSETMC گرفتی)
+filter_volume.py                                                    9        303  import json | with open("data/market_today.json", "r", encoding="utf-8") as f: | stocks = json.load(
+find_basing_relative.py                                           124       4497  """ | find_basing_relative.py | پیدا کردن سهام با رشد کمتر از میانگین صنعت + ورود پول حقیقی | """
+find_basing_stocks.py                                              83       2684  """ | find_basing_stocks.py | پیدا کردن سهام با رشد کم در ۶ ماه گذشته (کف‌سازی) | """
+find_basing_stocks_advanced.py                                    102       3298  """ | find_basing_stocks_advanced.py | پیدا کردن سهام با رشد کم + ورود پول حقیقی | """
+find_data.py                                                       13        354  import os | def scan_folder(folder): | if os.path.exists(folder): | print(f"📂 محتویات پوشه: {folder}
+find_high_buyer_ratio.py                                          100       3629  """ | find_high_buyer_ratio.py | پیدا کردن سهام با نسبت خریداران حقیقی به فروشندگان حقیقی بالا | """
+find_high_buyer_ratio_weekly.py                                    91       3234  """ | find_high_buyer_ratio_weekly.py | پیدا کردن سهام با نسبت خریداران بالا در یک هفته اخیر (بر اسا
+find_order_book.py                                                 10        330  import os | folder = "data" | if os.path.exists(folder): | files = os.listdir(folder)
+full_scanner.py                                                   150       5486  """ | full_scanner.py | اسکنر کامل بازار با استفاده از کلاس MarketScanner | """
+fundamental\fundamental_analyzer.py                               199       7694  """ | fundamental/fundamental_analyzer.py | تحلیل بنیادی با استفاده از داده‌های کدال (از فایل CSV) |
+history\__init__.py                                                 0          0  
+history\history_database.py                                       448       8920  """ | Project : Smart_Bourse | File : history_database.py
+history\history_downloader.py                                     307       6037  """ | Project : Smart_Bourse | File : history_downloader.py
+history\history_manager.py                                         68       1234  """ | Project : Smart_Bourse | File : history_manager.py
+indicators\__init__.py                                              0          0  
+indicators\adx.py                                                 232       5107  """ | Project : Smart_Bourse | File : adx.py
+indicators\atr.py                                                  88       1816  """ | Project : Smart_Bourse | File : atr.py
+indicators\bollinger.py                                            83       1668  """ | Project : Smart_Bourse | File : bollinger.py
+indicators\ema.py                                                  49        866  """ | Project : Smart_Bourse | File : ema.py
+indicators\fibonacci.py                                           147       3058  """ | Project : Smart_Bourse | File : fibonacci.py
+indicators\ichimoku.py                                            306       6190  """ | Project : Smart_Bourse | File : ichimoku.py
+indicators\indicator_manager.py                                    99       2350  """ | Project : Smart_Bourse | File : indicator_manager.py
+indicators\macd.py                                                 85       1566  """ | Project : Smart_Bourse | File : macd.py
+indicators\moving_average.py                                      128       2316  """ | Project : Smart_Bourse | File : moving_average.py
+indicators\rsi.py                                                 199       3996  """ | Project : Smart_Bourse | File : rsi.py
+indicators\supertrend.py                                          284       6124  """ | Project : Smart_Bourse | File : supertrend.py
+install.py                                                         56       2058  # Smart_Bourse Installer v52 | # Add Befajr using qty number (safe from encoding issues) | from path
+install_edu.py                                                    175       7441  import sys | import json | from datetime import datetime | from pathlib import Path
+install_scheduler.py                                              103       2905  import sys | import subprocess | from pathlib import Path
+list_files.py                                                      10        284  import os | folder = "history" | if os.path.exists(folder): | files = os.listdir(folder)
+main.py                                                           126       3642  import sys | from pathlib import Path | PROJECT_ROOT = Path(__file__).parent.resolve()
+make_edu.py                                                       166       8092  from pathlib import Path | code = '''import sys | import json | from datetime import datetime
+market.py                                                          37        660  """ | Project : Smart_Bourse | File : market.py
+market\__init__.py                                                 11        157  """ | Market Package | """ | from .api import MarketAPI
+market\api.py                                                     267       6204  """ | Project : Smart_Bourse | File : api.py
+market\data_loader.py                                              73       1215  """ | Project : Smart_Bourse | File : data_loader.py
+market\data_validator.py                                          237       4856  """ | Project : Smart_Bourse | File : data_validator.py
+market\history_downloader.py                                      172       3494  """ | Project : Smart_Bourse | File : history_downloader.py
+market\market_manager.py                                          138       2914  """ | Project : Smart_Bourse | File : market_manager.py
+market\market_scanner.py                                          217       4621  """ | Project : Smart_Bourse | File : market_scanner.py
+market\market_status.py                                           175       4051  """ | Project : Smart_Bourse | File : market_status.py
+market\scheduler.py                                                73       1301  """ | Project : Smart_Bourse | File : scheduler.py
+market\sector_manager.py                                          110       2051  """ | Project : Smart_Bourse | File : sector_manager.py
+market\symbol_downloader.py                                       159       4326  """ | Project : Smart_Bourse | File : symbol_downloader.py
+market\symbol_loader.py                                            42        675  """ | Project : Smart_Bourse | File : symbol_loader.py
+market\symbol_manager.py                                           89       1613  """ | Project : Smart_Bourse | File : symbol_manager.py
+market\updater.py                                                  98       1964  """ | Project : Smart_Bourse | File : updater.py
+market_downloader.py                                              112       3991  """ | Project : Smart_Bourse | File : market_downloader.py | Version : 5.0.0 | Description : Downloa
+market_manager.py                                                 175       3284  """ | Project : Smart_Bourse | File : market_manager.py
+market_scanner.py                                                 196       7593  import os | import pandas as pd | import numpy as np | from history.history_database import HistoryD
+models\__init__.py                                                  0          0  
+models\stock.py                                                    41        555  """ | Project : Smart_Bourse | File : stock.py
+monitors\tal_monitor.py                                           392       8628  # Smart_Bourse | # TAL Monitor - TSETMC Market Watch | # File: monitors/tal_monitor.py | import json
+news\news_analyzer.py                                              89       1334  """ | Project : Smart_Bourse | File : news_analyzer.py
+order_book_parser.py                                               42       2037  import json | # داده‌ای که از سایت گرفتی (برای تست) | raw_data = { | "bestLimits": [
+paper\paper_trading.py                                            161       2683  """ | Project : Smart_Bourse | File : paper_trading.py
+portfolio\__init__.py                                               0          0  
+portfolio\journal.py                                              317      11686  """ | Project : Smart_Bourse | File    : portfolio/journal.py | Version : 1.1.0 | Description :
+portfolio\portfolio.py                                            185       3341  """ | Project : Smart_Bourse | File : portfolio.py
+portfolio\position.py                                             113       1819  """ | Project : Smart_Bourse | File : position.py
+process_trades.py                                                 176       5092  """ | Project : Smart_Bourse | File    : process_trades.py | Version : 1.0.0 | Description :
+project_config.py                                                  11        179  """ | Smart_Bourse | Project Configuration | Version : 0.0.2 | """
+python ba claude\def\tamrin_1_def.py                                4         57  def salam(): | print("سلام دنیا") | salam()
+python ba claude\def\tamrin_2_def.py                                5         85  def salam_be(esm): | print("سلام", esm) | salam_be("Ali") | salam_be("Sara")
+python ba claude\def\tamrin__3def.py                               16        266  e=0 | o=0 | def e(a): | for item in a: | if(a%2==0):
+python ba claude\tamrin1-1.py                                       9        333  list_1=[] | numbers=int(input("how many numbers do you want to enter: ")) | for i in range(numbers):
+python ba claude\tamrin1.py                                        16        405  list_1 = [] | numbers = int(input("how many numbers do you want to enter: ")) | for i in range(numbe
+python ba claude\tamrin2_2.py                                      14        429  # in barname baraye hesab kardan inke yek listi az adad begire, bad beshmare chandta zire 10 chanta 
+python ba claude\tamrin3.py                                         5         84  def power(base,exponent): | y=base**exponent | return y | print(power(2,5))
+python ba claude\tamrin3_3.py                                       5         86  def jame_kala(x): | y=2*x**2+5 | return(y) | result=jame_kala(2) | print(result)
+python ba claude\tamrin4.py                                         6         73  def test1(x): | y = x + 1 | return y | result=test1(5)
+reports\excel_export.py                                            79       1166  """ | Project : Smart_Bourse | File : excel_export.py
+reports\performance_report.py                                      85       1323  """ | Project : Smart_Bourse | File : performance_report.py
+reports\report_generator.py                                       101       1680  """ | Project : Smart_Bourse | File : report_generator.py
+reports\report_manager.py                                           9        108  # config.py | PROJECT_NAME = "Smart Bourse" | VERSION = "0.1"
+risk\__init__.py                                                    0          0  
+risk\risk_manager.py                                              195       3074  """ | Project : Smart_Bourse | File : risk_manager.py
+run.py                                                            343      13220  """ | Project : Smart_Bourse | File : run.py | Version : 9.0.0 | Description : Main Entry Point with
+run_downloader.py                                                  11        437  from market_downloader import MarketDownloader | if __name__ == "__main__": | print("🚀 شروع دانلود د
+save_order_book.py                                                 18        847  import json | # داده‌ای که از سایت گرفتی | data = { | "bestLimits": [
+scanner\__init__.py                                                 0          0  
+scanner\ai_advisor.py                                             216       6762  import sys | import json | from datetime import datetime | from pathlib import Path
+scanner\alert_config.py                                            44       3101  # ═══════════════════════════════════════════════════════════ | # Smart_Bourse - Alert Configuration
+scanner\alert_monitor.py                                          250       8492  import sys | import time | import json | from datetime import datetime
+scanner\auto_portfolio_alert.py                                   110       2607  import sys | import time | from datetime import datetime | from pathlib import Path
+scanner\auto_runner.py                                            214       5676  import sys | import time | import json | import os
+scanner\dashboard_builder.py                                      501      17910  """ | Project : Smart_Bourse | File    : scanner/dashboard_builder.py | Version : 1.0.0 | Descriptio
+scanner\decision_maker.py                                         325      10703  import sys | from datetime import datetime | from pathlib import Path
+scanner\deep_analyzer.py                                          240       8207  """ | Project : Smart_Bourse | File    : scanner/deep_analyzer.py | Version : 1.0.0 | Description :
+scanner\detect_symbols.py                                          71       2032  import sys | from pathlib import Path | PROJECT_ROOT = Path(__file__).parent.parent
+scanner\edu_showcase.py                                           158       7876  import sys | import json | from datetime import datetime | from pathlib import Path
+scanner\find_khepars.py                                            37       1094  import sys | from pathlib import Path | PROJECT_ROOT = Path(__file__).parent.parent
+scanner\find_missing.py                                            99       3846  import sys | from pathlib import Path | PROJECT_ROOT = Path(__file__).parent.parent
+scanner\html_reporter.py                                          365      12015  """ | Project : Smart_Bourse | File    : html_reporter.py | Version : 1.0.0 | Author  : Mehdi Jalali
+scanner\live_analyzer.py                                           97       3013  import sys | import json | from datetime import datetime | from pathlib import Path
+scanner\live_dashboard.py                                         262      10196  import sys | import json | from datetime import datetime | from pathlib import Path
+scanner\live_monitor.py                                           166       4915  import sys | import time | from datetime import datetime | from pathlib import Path
+scanner\live_portfolio.py                                         125       3939  import sys | from datetime import datetime | from pathlib import Path
+scanner\live_recorder.py                                          157       4370  import sys | import time | from datetime import datetime | from pathlib import Path
+scanner\market_context.py                                         310      11033  """ | Project : Smart_Bourse | File    : scanner/market_context.py | Version : 1.2.0 | Description :
+scanner\market_screener.py                                        229       7235  import sys | from datetime import datetime | from pathlib import Path
+scanner\portfolio_alert.py                                        257       9511  import sys | import time | import json | from datetime import datetime
+scanner\portfolio_history.py                                       71       1804  import sys | import json | from datetime import datetime | from pathlib import Path
+scanner\portfolio_report.py                                       238       8550  """ | Project : Smart_Bourse | File    : scanner/portfolio_report.py | Version : 1.1.0 | Description
+scanner\portfolio_tracker.py                                      126       3955  import sys | import json | from datetime import datetime | from pathlib import Path
+scanner\real_flow_filter.py                                       436      16934  """ | Project : Smart_Bourse | File    : real_flow_filter.py | Version : 7.0.0 | Author  : Mehdi Jal
+scanner\scan_project.py                                           102       3718  # scan_project.py | # این فایل رو تو ریشه smart_bours بذار: F:\python\har roz ba python\smart_bours\
+scanner\scanner.py                                                 83       1570  """ | Project : Smart_Bourse | File : scanner.py
+scanner\smart_alert.py                                            418      16805  import sys | import time | import json | from datetime import datetime
+scanner\smart_indicators.py                                       313       9153  import sys | import json | from datetime import datetime | from pathlib import Path
+scanner\technical_analyzer.py                                     322       9949  """ | Project : Smart_Bourse | File    : technical_analyzer.py | Version : 2.1.0 | Author  : Mehdi J
+scanner\test_count.py                                              21        934  import sys | import json | from datetime import datetime | from pathlib import Path
+scheduler\scheduler.py                                             98       1612  """ | Project : Smart_Bourse | File : scheduler.py
+send_diagnostic_to_github.py                                      320       7300  from pathlib import Path | from datetime import datetime | import subprocess | import sys | import o
+show_db.py                                                         75       2203  """ | show_db.py | نمایش محتویات دیتابیس market_data.db با استفاده از پایتون | """
+show_stocks.py                                                      8        290  import json | with open("data/market_today.json", "r", encoding="utf-8") as f: | stocks = json.load(
+simple_signal.py                                                   17        546  import json | with open("data/market_today.json", "r", encoding="utf-8") as f: | stocks = json.load(
+strategy\risk_manager.py                                          181       4439  """ | Project : Smart_Bourse | File : risk_manager.py
+strategy\scenario_engine.py                                       387       8885  """ | Project : Smart_Bourse | File : scenario_engine.py
+strategy\score_manager.py                                         197       4966  """ | Project : Smart_Bourse | File : score_manager.py
+strategy\signal_engine.py                                         488      10930  """ | Project : Smart_Bourse | File : signal_engine.py
+strategy\signal_manager.py                                        183       3637  """ | Project : Smart_Bourse | File : signal_manager.py
+strategy\strategy_manager.py                                      303       7014  """ | Project : Smart_Bourse | File : strategy_manager.py
+sync_for_ai.py                                                    191       6189  # sync_for_ai.py | """ | اسکریپت آماده‌سازی و آپلود فایل‌های کلیدی پروژه به گیت‌هاب | تا دستیار هوش 
+sync_missing_python_to_github.py                                  226       7485  from pathlib import Path | import subprocess | import sys
+test.khegostar.py                                                  21        501  from database.database import Database | db = Database() | db.connect() | symbols = db.get_all_symbo
+test_api.py                                                        19        521  # test_api.py | import requests | session = requests.Session() | session.headers.update({
+test_csv.py                                                        12        334  import pandas as pd | import os | csv_path = "data/fundamental_data.csv"
+test_database.py                                                   32        486  from database.database import Database | from models.stock import Stock | db = Database()
+test_eitaa.py                                                      36       1130  """ | test_eitaa.py | تست ارسال پیام به ایتا | """
+test_foolad.py                                                     33        690  from database.symbol_repository import SymbolRepository | repo = SymbolRepository() | from database.
+tests\__init__.py                                                   0          0  
+tests\test_foolad_api.py                                           20        325  import sys | sys.path.insert(0, r"F:\python\har roz ba python\smart_bours") | from market.api import
+tests\test_indicators.py                                          660      14328  """ | Project : Smart_Bourse | File : test_indicators.py
+tests\test_logger.py                                               11        175  from utils.logger import Logger | log = Logger() | log.write("Program Started")
+tests\test_market_scanner.py                                       71       1047  """ | Project : Smart_Bourse | File : test_market_scanner.py
+tests\test_rsi.py                                                 114       2027  import os | import sys | # Add Smart_Bourse root folder to Python path | PROJECT_ROOT = os.path.dirn
+tests\test_scenario_engine.py                                      90       1573  print("TEST SCENARIO ENGINE") | import sys | sys.path.insert(
+tests\test_signal_engine.py                                       643      13859  """ | Project : Smart_Bourse | File : test_signal_engine.py
+tests\test_stock.py                                                19        263  from models.stock import Stock | stock = Stock() | stock.symbol = "FOOLAD"
+tsetmc_all_symbols.py                                              90       3313  """ | tsetmc_all_symbols.py | دریافت داده‌های لحظه‌ای برای همه نمادهای موجود در دیتابیس | """
+tsetmc_auto.py                                                     79       3179  import requests | import json | import os | from datetime import datetime
+tsetmc_fetcher.py                                                  30       1016  import requests | import json | import os | # ========== آدرس API واقعی ==========
+tsetmc_order.py                                                    28        900  import requests | import json | import os | # ========== آدرس API صفوف ==========
+tsetmc_selenium.py                                                 78       3154  from selenium import webdriver | from selenium.webdriver.common.by import By | from selenium.webdriv
+ui\dashboard.py                                                     0          0  
+ui\main_dashboard.py                                               61        999  """ | Project : Smart_Bourse | File : main_dashboard.py
+update_khegostar.py                                                10        393  from history.history_downloader import HistoryDownloader | downloader = HistoryDownloader() | if dow
+update_project.py                                                 135       2307  """ | Project : Smart_Bourse | File : update_project.py
+update_roadmap.py                                                 207       8798  """ | Project : Smart_Bourse | File    : update_roadmap.py | Version : 1.0.0 | Author  : Mehdi Jalal
+utils\__init__.py                                                   0          0  
+utils\file_manager.py                                              59       1167  """ | Project : Smart_Bourse | File : file_manager.py
+utils\logger.py                                                    42        710  """ | Project : Smart_Bourse | File : logger.py
+utils\symbol_map.py                                                16        268  SYMBOL_MAP = { | "Foolad": { | "fa": "فولاد", | "inscode": 46348559193224090 | },
+view_structure.py                                                  11        362  import json | with open("data/market_today.json", "r", encoding="utf-8") as f: | data = json.load(f)
+
+### جمع کل: 224 فایل پایتون، 27798 خط کد
+
+## فایل‌های مهم غیرپایتون
+
+  DeepSeek_RoadMap.txt                                                         1926 bytes
+  DeepSeek_RoadMap_OLD.txt                                                     3657 bytes
+  goto_bours.bat                                                                 66 bytes
+  New Text Document.txt                                                           0 bytes
+  README.md                                                                     671 bytes
+  requirements.txt                                                                0 bytes
+  run.bat                                                                        75 bytes
+  run_alert.bat                                                                 123 bytes
+  run_all.bat                                                                   196 bytes
+  run_first70.txt                                                              1736 bytes
+  Smart_Bourse_RoadMap.txt                                                     1487 bytes
+  structure.txt                                                               51946 bytes
+  trades_input.txt                                                              262 bytes
+  core\data\events.json                                                         268 bytes
+  data\bidar_data.json                                                       277172 bytes
+  data\config.json                                                              125 bytes
+  data\events.json                                                              268 bytes
+  data\fundamental_data.csv                                                     403 bytes
+  data\fundamental_data.csv.txt                                                 409 bytes
+  data\live_snapshot.json                                                      2516 bytes
+  data\market_today.json                                                     269103 bytes
+  data\order_book_khegostar.json                                                710 bytes
+  data\portfolio_alert_state.json                                               412 bytes
+  data\smart_alert_history.json                                               91607 bytes
+  data\smart_alert_sent.json                                                    268 bytes
+  data\symbols.txt                                                               40 bytes
+  data\symbol_id_map.json                                                     33037 bytes
+  data\tsetmc_20260902_033119.json                                             2299 bytes
+  data\tsetmc_all_20260902_040150.json                                      2674511 bytes
+  data\tsetmc_order.json                                                       1169 bytes
+  data\tsetmc_price.json                                                        900 bytes
+  data\watchlist.json                                                            87 bytes
+  data\backtest\backtest_2026-09-18.json                                       9348 bytes
+  data\backtest\foolad_backtest_2026-09-18.json                                9163 bytes
+  data\history\femeli_history.json                                            83684 bytes
+  data\history\foolad_history.json                                            82666 bytes
+  data\history\khodro_history.json                                            81869 bytes
+  data\history\market_2026_07_24.json                                           682 bytes
+  data\history\market_2026_07_25.json                                           682 bytes
+  data\history\market_2026_07_26.json                                           682 bytes
+  data\history\market_2026_07_27.json                                           682 bytes
+  data\history\market_2026_07_28.json                                           682 bytes
+  data\history\market_2026_07_30.json                                           682 bytes
+  data\history\market_2026_07_31.json                                           682 bytes
+  data\history\market_2026_08_01.json                                           682 bytes
+  data\history\market_2026_08_02.json                                           682 bytes
+  data\history\market_2026_08_03.json                                           682 bytes
+  data\history\market_2026_08_05.json                                           682 bytes
+  data\history\market_2026_08_06.json                                           682 bytes
+  data\history\market_2026_08_07.json                                           682 bytes
+  data\history\market_2026_08_08.json                                           682 bytes
+  data\history\market_2026_08_09.json                                           682 bytes
+  data\history\market_2026_08_10.json                                           682 bytes
+  data\history\market_2026_08_11.json                                           682 bytes
+  data\history\market_2026_08_12.json                                           476 bytes
+  data\history\market_2026_08_13.json                                           713 bytes
+  data\history\market_2026_08_15.json                                           714 bytes
+  data\history\market_2026_08_25.json                                           713 bytes
+  data\history\market_2026_08_30.json                                           713 bytes
+  data\history\market_2026_09_01.json                                           714 bytes
+  data\history\آباد_history.json                                              83012 bytes
+  data\history\آبادا_history.json                                             84299 bytes
+  data\history\آبادح_history.json                                             79573 bytes
+  data\history\آرام_history.json                                              85159 bytes
+  data\history\آرامش_history.json                                             87116 bytes
+  data\history\آسا_history.json                                               59212 bytes
+  data\history\آسیا_history.json                                              83883 bytes
+  data\history\آفاق_history.json                                              86390 bytes
+  data\history\آلومینا_history.json                                           87852 bytes
+  data\history\آوان_history.json                                              13867 bytes
+  data\history\آپ_history.json                                                82996 bytes
+  data\history\آپح_history.json                                               27598 bytes
+  data\history\آکو_history.json                                               18202 bytes
+  data\history\اتوآگاه_history.json                                           87214 bytes
+  data\history\اتوکار_history.json                                             5668 bytes
+  data\history\اتکام_history.json                                             84292 bytes
+  data\history\اتکامح_history.json                                            80722 bytes
+  data\history\اجداد_history.json                                             79938 bytes
+  data\history\اخابر_history.json                                             83464 bytes
+  data\history\اخابرح_history.json                                            80668 bytes
+  data\history\اردستان_history.json                                           87127 bytes
+  data\history\ارزش_history.json                                              85072 bytes
+  data\history\ارمغان_history.json                                            87549 bytes
+  data\history\اروند_history.json                                             81795 bytes
+  data\history\استیل_history.json                                             85870 bytes
+  data\history\اطلس ریس07_history.json                                        83641 bytes
+  data\history\اطلس_history.json                                              85464 bytes
+  data\history\اطمينان_history.json                                           79938 bytes
+  data\history\اعتبارسهام_history.json                                        67832 bytes
+  data\history\افران_history.json                                             87442 bytes
+  data\history\افق ملت_history.json                                           87273 bytes
+  data\history\افق_history.json                                               84221 bytes
+  data\history\افقح_history.json                                              79573 bytes
+  data\history\البرز_history.json                                             84639 bytes
+  data\history\البرزح_history.json                                            80668 bytes
+  data\history\امیدح_history.json                                             79938 bytes
+  data\history\امین_history.json                                              83632 bytes
+  data\history\امینح_history.json                                             80167 bytes
+  data\history\انار_history.json                                              84980 bytes
+  data\history\انتخاب094_history.json                                         14383 bytes
+  data\history\اهرم_history.json                                              85604 bytes
+  data\history\اپال_history.json                                              84410 bytes
+  data\history\اکتان_history.json                                             85547 bytes
+  data\history\بالبر_history.json                                             84635 bytes
+  data\history\بالبرح_history.json                                            80668 bytes
+  data\history\بانکا_history.json                                             75980 bytes
+  data\history\بانکدار_history.json                                           71753 bytes
+  data\history\بانکپاد_history.json                                            2711 bytes
+  data\history\بانکیا_history.json                                            27585 bytes
+  data\history\بترانس_history.json                                            85445 bytes
+  data\history\بترانسح_history.json                                           81817 bytes
+  data\history\بذر_history.json                                               84011 bytes
+  data\history\برکت_history.json                                              83968 bytes
+  data\history\بسويچ_history.json                                             84634 bytes
+  data\history\بسویچ_history.json                                             84011 bytes
+  data\history\بشهاب_history.json                                             84147 bytes
+  data\history\بشهابح_history.json                                            80668 bytes
+  data\history\بفجر_history.json                                              82850 bytes
+  data\history\بفجرح_history.json                                             80303 bytes
+  data\history\بكابح_history.json                                             84011 bytes
+  data\history\بلوط_history.json                                              85944 bytes
+  data\history\بموتو_history.json                                             84563 bytes
+  data\history\بموتوح_history.json                                            80303 bytes
+  data\history\بنکر_history.json                                              52869 bytes
+  data\history\بنیرو_history.json                                             84515 bytes
+  data\history\بنیروح_history.json                                            80668 bytes
+  data\history\بهمن_history.json                                              79109 bytes
+  data\history\بهین رو_history.json                                           86969 bytes
+  data\history\بورس_history.json                                              84006 bytes
+  data\history\بوعلی_history.json                                             85407 bytes
+  data\history\بپویا_history.json                                             84159 bytes
+  data\history\بکاب_history.json                                              83609 bytes
+  data\history\بکامح_history.json                                             80210 bytes
+  data\history\بیدار_history.json                                             86130 bytes
+  data\history\تابان_history.json                                              4425 bytes
+  data\history\تادیکو_history.json                                            81467 bytes
+  data\history\تاراز_history.json                                             84963 bytes
+  data\history\تاصیکو_history.json                                            86130 bytes
+  data\history\تاصیکوح_history.json                                           81858 bytes
+  data\history\تاپیکو_history.json                                            86449 bytes
+  data\history\تایرا_history.json                                             84562 bytes
+  data\history\تایراح_history.json                                            80668 bytes
+  data\history\تداوم_history.json                                             87302 bytes
+  data\history\تراست_history.json                                              6088 bytes
+  data\history\ترام چاپ061_history.json                                       24740 bytes
+  data\history\ترام چاپ06_history.json                                        83488 bytes
+  data\history\ترمه_history.json                                              84268 bytes
+  data\history\تصمیم_history.json                                             86697 bytes
+  data\history\تمدن_history.json                                              78843 bytes
+  data\history\تمشک_history.json                                              85342 bytes
+  data\history\تملت_history.json                                              83723 bytes
+  data\history\تملتح_history.json                                             79938 bytes
+  data\history\تنوین_history.json                                             84596 bytes
+  data\history\توسکا_history.json                                             87257 bytes
+  data\history\تپمپی_history.json                                             84427 bytes
+  data\history\تپمپیح_history.json                                            80668 bytes
+  data\history\تکاردان_history.json                                           85932 bytes
+  data\history\تکشا_history.json                                              83313 bytes
+  data\history\تکشاح_history.json                                             80303 bytes
+  data\history\تکمبا_history.json                                             84353 bytes
+  data\history\تکمباح_history.json                                            80303 bytes
+  data\history\تکنوح_history.json                                             79938 bytes
+  data\history\تیپیکو_history.json                                            86337 bytes
+  data\history\تیپیکوح_history.json                                           81763 bytes
+  data\history\ثاخت_history.json                                              82916 bytes
+  data\history\ثاختح_history.json                                             79938 bytes
+  data\history\ثامان_history.json                                             84733 bytes
+  data\history\ثامانح_history.json                                            80303 bytes
+  data\history\ثاژن_history.json                                              49084 bytes
+  data\history\ثبهساز_history.json                                            85476 bytes
+  data\history\ثروت ساز_history.json                                          86950 bytes
+  data\history\ثشاهد_history.json                                             84895 bytes
+  data\history\ثشاهدح_history.json                                            80303 bytes
+  data\history\ثشرق_history.json                                              84281 bytes
+  data\history\ثشرقح_history.json                                             79938 bytes
+  data\history\ثفارس_history.json                                             85433 bytes
+  data\history\ثمر_history.json                                               56625 bytes
+  data\history\ثنوسا_history.json                                             84402 bytes
+  data\history\ثنوساح_history.json                                            80303 bytes
+  data\history\ثهام_history.json                                              84860 bytes
+  data\history\ثپهران_history.json                                            78562 bytes
+  data\history\ثپهرانح_history.json                                           38582 bytes
+  data\history\جاودان_history.json                                            85956 bytes
+  data\history\جم_history.json                                                82951 bytes
+  data\history\جمح_history.json                                               78843 bytes
+  data\history\جهش_history.json                                               84532 bytes
+  data\history\حتایدح_history.json                                            80668 bytes
+  data\history\حتوکا_history.json                                             84231 bytes
+  data\history\حفارس_history.json                                             84411 bytes
+  data\history\حفاری_history.json                                             84778 bytes
+  data\history\حپترو_history.json                                             85293 bytes
+  data\history\حپتروح_history.json                                            81217 bytes
+  data\history\حکشتی_history.json                                             84642 bytes
+  data\history\خاتم_history.json                                              86210 bytes
+  data\history\خاذین_history.json                                             84473 bytes
+  data\history\خبرنا_history.json                                             84507 bytes
+  data\history\خبره_history.json                                              27779 bytes
+  data\history\خبرگان_history.json                                            86426 bytes
+  data\history\خبهمن_history.json                                             84929 bytes
+  data\history\خبهمنح_history.json                                            80303 bytes
+  data\history\ختراک_history.json                                             84491 bytes
+  data\history\ختراکح_history.json                                            80668 bytes
+  data\history\ختور_history.json                                              83796 bytes
+  data\history\ختورح_history.json                                             80303 bytes
+  data\history\ختوقا_history.json                                             84654 bytes
+  data\history\ختوقاح_history.json                                            80303 bytes
+  data\history\خراسان_history.json                                            86644 bytes
+  data\history\خرینگ_history.json                                             85345 bytes
+  data\history\خرینگح_history.json                                            79573 bytes
+  data\history\خزامیاح_history.json                                           80668 bytes
+  data\history\خزر_history.json                                               82981 bytes
+  data\history\خزرح_history.json                                              79208 bytes
+  data\history\خساپا_history.json                                             83417 bytes
+  data\history\خساپاح_history.json                                            80668 bytes
+  data\history\خشرق_history.json                                              83730 bytes
+  data\history\خشرقح_history.json                                             79573 bytes
+  data\history\خفنر_history.json                                              83741 bytes
+  data\history\خفنرح_history.json                                             79938 bytes
+  data\history\خلنت_history.json                                              83540 bytes
+  data\history\خمحرکه_history.json                                            85287 bytes
+  data\history\خمحرکهح_history.json                                           81398 bytes
+  data\history\خمحور_history.json                                             84443 bytes
+  data\history\خمحورح_history.json                                            80668 bytes
+  data\history\خمهر_history.json                                              83703 bytes
+  data\history\خمهرح_history.json                                             79573 bytes
+  data\history\خموتور_history.json                                            85275 bytes
+  data\history\خموتورح_history.json                                           81398 bytes
+  data\history\خنصیر_history.json                                             84470 bytes
+  data\history\خودران_history.json                                            86519 bytes
+  data\history\خودرو_history.json                                             83327 bytes
+  data\history\خودروح_history.json                                            80668 bytes
+  data\history\خوساز_history.json                                             85566 bytes
+  data\history\خوسازح_history.json                                            80668 bytes
+  data\history\خچرخش_history.json                                             85373 bytes
+  data\history\خچرخشح_history.json                                            80668 bytes
+  data\history\خکار_history.json                                              83848 bytes
+  data\history\خکارح_history.json                                             79938 bytes
+  data\history\خکمک_history.json                                              83892 bytes
+  data\history\خگستر_history.json                                           1017330 bytes
+  data\history\خگسترح_history.json                                            81037 bytes
+  data\history\دابور_history.json                                             85585 bytes
+  data\history\دابورح_history.json                                            81033 bytes
+  data\history\داتام_history.json                                             84496 bytes
+  data\history\داتامح_history.json                                            80303 bytes
+  data\history\داترا_history.json                                             81799 bytes
+  data\history\دارو_history.json                                              83781 bytes
+  data\history\داروح_history.json                                             80303 bytes
+  data\history\داروند_history.json                                             3097 bytes
+  data\history\دارونو_history.json                                            86505 bytes
+  data\history\داسوه_history.json                                             85116 bytes
+  data\history\داسوهح_history.json                                            80668 bytes
+  data\history\دالبر_history.json                                             84500 bytes
+  data\history\دالبرح_history.json                                            80746 bytes
+  data\history\دامین_history.json                                             85462 bytes
+  data\history\دامینح_history.json                                            80668 bytes
+  data\history\دانا_history.json                                              83833 bytes
+  data\history\داناح_history.json                                             79938 bytes
+  data\history\دتماد_history.json                                             85083 bytes
+  data\history\دتمادح_history.json                                            81033 bytes
+  data\history\دجابر_history.json                                             85005 bytes
+  data\history\دجابرح_history.json                                            80668 bytes
+  data\history\ددام_history.json                                              83550 bytes
+  data\history\ددامح_history.json                                             80303 bytes
+  data\history\درازک_history.json                                             83713 bytes
+  data\history\درازکح_history.json                                            80668 bytes
+  data\history\درسا_history.json                                              84340 bytes
+  data\history\دروز_history.json                                              83080 bytes
+  data\history\دروزح_history.json                                             79938 bytes
+  data\history\دزهراویح_history.json                                          82128 bytes
+  data\history\دسبحا_history.json                                             84449 bytes
+  data\history\دسبحاح_history.json                                            81196 bytes
+  data\history\دسبحان_history.json                                            85075 bytes
+  data\history\دسبحانح_history.json                                           81586 bytes
+  data\history\دسیناح_history.json                                            81033 bytes
+  data\history\دشیمی_history.json                                             85447 bytes
+  data\history\دشیمیح_history.json                                            81033 bytes
+  data\history\دعبید_history.json                                             85231 bytes
+  data\history\دفارا_history.json                                             84812 bytes
+  data\history\دفاراح_history.json                                            80668 bytes
+  data\history\دفرا_history.json                                              84563 bytes
+  data\history\دفراح_history.json                                             79938 bytes
+  data\history\دلتا_history.json                                               9169 bytes
+  data\history\دلر_history.json                                               83356 bytes
+  data\history\دلرح_history.json                                              79573 bytes
+  data\history\دلقما_history.json                                             84500 bytes
+  data\history\دلقماح_history.json                                            80668 bytes
+  data\history\دلوسه_history.json                                             34824 bytes
+  data\history\دپارس_history.json                                             85266 bytes
+  data\history\دپارسح_history.json                                            81658 bytes
+  data\history\دکیمی_history.json                                             84813 bytes
+  data\history\دی سهام_history.json                                           85901 bytes
+  data\history\دیبا_history.json                                              85754 bytes
+  data\history\دیران_history.json                                             84404 bytes
+  data\history\دیرانح_history.json                                            80668 bytes
+  data\history\ذوب_history.json                                               82433 bytes
+  data\history\رادان_history.json                                             42580 bytes
+  data\history\رانفور_history.json                                            85132 bytes
+  data\history\رانفورح_history.json                                           81717 bytes
+  data\history\رایکا_history.json                                             86437 bytes
+  data\history\رتاپ_history.json                                              83583 bytes
+  data\history\رتاپح_history.json                                             79938 bytes
+  data\history\رمپنا_history.json                                             85506 bytes
+  data\history\رمپناح_history.json                                            80668 bytes
+  data\history\رونق_history.json                                              83585 bytes
+  data\history\رویش همراه_history.json                                        76100 bytes
+  data\history\رکیش_history.json                                              83905 bytes
+  data\history\رکیشح_history.json                                             79573 bytes
+  data\history\زشک_history.json                                                1723 bytes
+  data\history\زمرد کوروش_history.json                                        90477 bytes
+  data\history\زمگسا_history.json                                             85375 bytes
+  data\history\زمگساح_history.json                                            80668 bytes
+  data\history\زپارس_history.json                                             85206 bytes
+  data\history\سآبیک_history.json                                             85641 bytes
+  data\history\ساراب_history.json                                             84811 bytes
+  data\history\سارابح_history.json                                            80303 bytes
+  data\history\ساربیل_history.json                                            86211 bytes
+  data\history\ساربیلح_history.json                                           81398 bytes
+  data\history\ساروم_history.json                                             86630 bytes
+  data\history\سارومح_history.json                                            81033 bytes
+  data\history\سبجنو_history.json                                             85581 bytes
+  data\history\سبجنوح_history.json                                            80668 bytes
+  data\history\سبزآبنوس_history.json                                           8711 bytes
+  data\history\سبهان_history.json                                             84530 bytes
+  data\history\سبهانح_history.json                                            81033 bytes
+  data\history\ستران_history.json                                             84894 bytes
+  data\history\سخاش_history.json                                              84120 bytes
+  data\history\سخاشح_history.json                                             80303 bytes
+  data\history\سخزر_history.json                                              83774 bytes
+  data\history\سخزرح_history.json                                             79938 bytes
+  data\history\سخوز_history.json                                              84822 bytes
+  data\history\سخوزح_history.json                                             80303 bytes
+  data\history\سداد_history.json                                              22788 bytes
+  data\history\سدشت_history.json                                              84494 bytes
+  data\history\سدشتح_history.json                                             79573 bytes
+  data\history\سدور_history.json                                              84775 bytes
+  data\history\سدورح_history.json                                             79938 bytes
+  data\history\سرو_history.json                                               84604 bytes
+  data\history\سرود_history.json                                              84118 bytes
+  data\history\سرودح_history.json                                             79573 bytes
+  data\history\سرچشمه_history.json                                            84861 bytes
+  data\history\سرچشمهح_history.json                                           81763 bytes
+  data\history\سشرق_history.json                                              85096 bytes
+  data\history\سشرقح_history.json                                             78843 bytes
+  data\history\سشمال_history.json                                             85464 bytes
+  data\history\سشمالح_history.json                                            81119 bytes
+  data\history\سصفها_history.json                                             85273 bytes
+  data\history\سصفهاح_history.json                                            80668 bytes
+  data\history\سغرب_history.json                                              83834 bytes
+  data\history\سغربح_history.json                                             79938 bytes
+  data\history\سفار_history.json                                              85700 bytes
+  data\history\سفارح_history.json                                             79938 bytes
+  data\history\سفارس_history.json                                             85481 bytes
+  data\history\سفارسح_history.json                                            80303 bytes
+  data\history\سفانو_history.json                                             85478 bytes
+  data\history\سفانوح_history.json                                            81033 bytes
+  data\history\سقاین_history.json                                             85001 bytes
+  data\history\سقاینح_history.json                                            80668 bytes
+  data\history\سلام_history.json                                              85100 bytes
+  data\history\سلیمان_history.json                                            69126 bytes
+  data\history\سلیمانح_history.json                                           41035 bytes
+  data\history\سمازن_history.json                                             85629 bytes
+  data\history\سمان_history.json                                              85091 bytes
+  data\history\سنیر_history.json                                              83770 bytes
+  data\history\سنیرح_history.json                                             80303 bytes
+  data\history\سها_history.json                                               49492 bytes
+  data\history\سهرمز_history.json                                             85396 bytes
+  data\history\سهرمزح_history.json                                            81267 bytes
+  data\history\سهگمت_history.json                                             86483 bytes
+  data\history\سهگمتح_history.json                                            80668 bytes
+  data\history\سولار_history.json                                             10730 bytes
+  data\history\سپ_history.json                                                82794 bytes
+  data\history\سپاهاح_history.json                                            79573 bytes
+  data\history\سپح_history.json                                               78843 bytes
+  data\history\سپر_history.json                                               85961 bytes
+  data\history\سپید مطهر06_history.json                                       84318 bytes
+  data\history\سپید_history.json                                              84209 bytes
+  data\history\سکرد_history.json                                              84339 bytes
+  data\history\سکردح_history.json                                             79573 bytes
+  data\history\سکرما_history.json                                             85425 bytes
+  data\history\سیتاح_history.json                                             79938 bytes
+  data\history\سیدکو_history.json                                             85421 bytes
+  data\history\سیدکوح_history.json                                            79938 bytes
+  data\history\سیستم_history.json                                             85624 bytes
+  data\history\سیلامح_history.json                                            80668 bytes
+  data\history\سیمانا_history.json                                            86424 bytes
+  data\history\سیمانو_history.json                                            86701 bytes
+  data\history\شاراکح_history.json                                            80668 bytes
+  data\history\شارپیلنح_history.json                                          70896 bytes
+  data\history\شاملا_history.json                                             85693 bytes
+  data\history\شاملاح_history.json                                            81150 bytes
+  data\history\شبریز_history.json                                             85878 bytes
+  data\history\شبندر_history.json                                             85056 bytes
+  data\history\شبهرن_history.json                                             85614 bytes
+  data\history\شبهرنح_history.json                                            81033 bytes
+  data\history\شتاب_history.json                                              85359 bytes
+  data\history\شتبریز_history.json                                            35142 bytes
+  data\history\شتران_history.json                                             84912 bytes
+  data\history\شخارک_history.json                                             84499 bytes
+  data\history\شخارکح_history.json                                            81033 bytes
+  data\history\شدوص_history.json                                              83731 bytes
+  data\history\شدوصح_history.json                                             79938 bytes
+  data\history\شراز_history.json                                              84971 bytes
+  data\history\شستا_history.json                                              84504 bytes
+  data\history\شسپا_history.json                                              84024 bytes
+  data\history\شسینا_history.json                                             84452 bytes
+  data\history\شفا_history.json                                               83384 bytes
+  data\history\شفارس_history.json                                             84464 bytes
+  data\history\شفارسح_history.json                                            80668 bytes
+  data\history\شفن_history.json                                               82791 bytes
+  data\history\شفنح_history.json                                              79208 bytes
+  data\history\شلعاب_history.json                                             83642 bytes
+  data\history\شلعابح_history.json                                            80022 bytes
+  data\history\شمس_history.json                                               83293 bytes
+  data\history\شنفت_history.json                                              84507 bytes
+  data\history\شنفتح_history.json                                             80303 bytes
+  data\history\شهر_history.json                                               83098 bytes
+  data\history\شپارس_history.json                                             84173 bytes
+  data\history\شپارسح_history.json                                            81033 bytes
+  data\history\شپدیس_history.json                                             86519 bytes
+  data\history\شپدیسح_history.json                                            80668 bytes
+  data\history\شپمچا_history.json                                             49278 bytes
+  data\history\شپنا_history.json                                              84376 bytes
+  data\history\شپناح_history.json                                             79938 bytes
+  data\history\شکربن_history.json                                             84787 bytes
+  data\history\شکربنح_history.json                                            80668 bytes
+  data\history\شکلر_history.json                                              84813 bytes
+  data\history\شکلرح_history.json                                             79938 bytes
+  data\history\شگستر_history.json                                             84053 bytes
+  data\history\شگسترح_history.json                                            80668 bytes
+  data\history\شگل_history.json                                               82805 bytes
+  data\history\شگلح_history.json                                              79759 bytes
+  data\history\شیراز_history.json                                             85415 bytes
+  data\history\شیرازح_history.json                                            80668 bytes
+  data\history\صالح07_history.json                                            81115 bytes
+  data\history\صبا_history.json                                               83355 bytes
+  data\history\صباح_history.json                                              79208 bytes
+  data\history\صترام505_history.json                                          82128 bytes
+  data\history\صحافظ512_history.json                                          82174 bytes
+  data\history\صحافظ809_history.json                                          40977 bytes
+  data\history\صدف_history.json                                               83775 bytes
+  data\history\صرازی712_history.json                                          27477 bytes
+  data\history\صصیکو081_history.json                                          34250 bytes
+  data\history\صصیکو810_history.json                                          34227 bytes
+  data\history\صصیکو81_history.json                                           34098 bytes
+  data\history\صفارس008_history.json                                          42350 bytes
+  data\history\صفارس07_history.json                                           81966 bytes
+  data\history\صفارس086_history.json                                          52274 bytes
+  data\history\صفارس730_history.json                                          82395 bytes
+  data\history\صفارس73_history.json                                           81787 bytes
+  data\history\صفارس7_history.json                                            81489 bytes
+  data\history\صفارس840_history.json                                          60716 bytes
+  data\history\صفارس860_history.json                                          52251 bytes
+  data\history\صفروس607_history.json                                          82358 bytes
+  data\history\صفروس670_history.json                                          82166 bytes
+  data\history\صفولا051_history.json                                          82128 bytes
+  data\history\صفولا51_history.json                                           81763 bytes
+  data\history\صفولا52_history.json                                           81684 bytes
+  data\history\صفولا612_history.json                                          83914 bytes
+  data\history\صنایع ایران05_history.json                                     85801 bytes
+  data\history\صنهال_history.json                                             87069 bytes
+  data\history\صکسرا510_history.json                                          81967 bytes
+  data\history\صکورش505_history.json                                          82215 bytes
+  data\history\صکویر510_history.json                                          82082 bytes
+  data\history\صگل0509_history.json                                           81983 bytes
+  data\history\ضاطلس051102_history.json                                        9804 bytes
+  data\history\ضاطلس051103_history.json                                        9910 bytes
+  data\history\ضاطلس051109_history.json                                        9549 bytes
+  data\history\ضاطلس052500_history.json                                        9720 bytes
+  data\history\ضاطلس052503_history.json                                        9742 bytes
+  data\history\ضاطلس052504_history.json                                        9840 bytes
+  data\history\ضاطلس052509_history.json                                        9549 bytes
+  data\history\ضاطلس060900_history.json                                        9704 bytes
+  data\history\ضاطلس060901_history.json                                        9726 bytes
+  data\history\ضاطلس060906_history.json                                        9831 bytes
+  data\history\ضاطلس062200_history.json                                        9685 bytes
+  data\history\ضاطلس062201_history.json                                        9637 bytes
+  data\history\ضاطلس062203_history.json                                        9723 bytes
+  data\history\ضاطلس062206_history.json                                        9848 bytes
+  data\history\ضاطلس062209_history.json                                        9602 bytes
+  data\history\ضاطلس070503_history.json                                        2913 bytes
+  data\history\ضاطلس070504_history.json                                        2905 bytes
+  data\history\ضاطلس070508_history.json                                        2889 bytes
+  data\history\ضاطلس070510_history.json                                        2889 bytes
+  data\history\ضاطلس071900_history.json                                        2957 bytes
+  data\history\ضاطلس071904_history.json                                        2889 bytes
+  data\history\ضاطلس071906_history.json                                        2889 bytes
+  data\history\ضاطلس071910_history.json                                        2889 bytes
+  data\history\ضبساما722_history.json                                          4652 bytes
+  data\history\ضبساما724_history.json                                          4652 bytes
+  data\history\ضبساما728_history.json                                          4687 bytes
+  data\history\ضبساما731_history.json                                          4601 bytes
+  data\history\ضتاص7005_history.json                                          12134 bytes
+  data\history\ضتاص7008_history.json                                          12292 bytes
+  data\history\ضتاص9018_history.json                                           4799 bytes
+  data\history\ضتاص9020_history.json                                           4911 bytes
+  data\history\ضتوان514_history.json                                          11852 bytes
+  data\history\ضتوان516_history.json                                          11748 bytes
+  data\history\ضتوان517_history.json                                          11710 bytes
+  data\history\ضتوان520_history.json                                          11689 bytes
+  data\history\ضتوان521_history.json                                          11616 bytes
+  data\history\ضتوان522_history.json                                          11618 bytes
+  data\history\ضتوان524_history.json                                          11572 bytes
+  data\history\ضتوان526_history.json                                          10077 bytes
+  data\history\ضتوان527_history.json                                          10077 bytes
+  data\history\ضتوان529_history.json                                          10077 bytes
+  data\history\ضتوان626_history.json                                          11683 bytes
+  data\history\ضتوان629_history.json                                          11679 bytes
+  data\history\ضتوان631_history.json                                          11567 bytes
+  data\history\ضتوان634_history.json                                          11391 bytes
+  data\history\ضتوان636_history.json                                          11614 bytes
+  data\history\ضتوان638_history.json                                          10172 bytes
+  data\history\ضتوان735_history.json                                           2412 bytes
+  data\history\ضجار6042_history.json                                          12542 bytes
+  data\history\ضجار6045_history.json                                          12461 bytes
+  data\history\ضجار8025_history.json                                           7997 bytes
+  data\history\ضجار8030_history.json                                           8080 bytes
+  data\history\ضجوا6005_history.json                                          13031 bytes
+  data\history\ضجوا6011_history.json                                           3913 bytes
+  data\history\ضجوا8000_history.json                                           2401 bytes
+  data\history\ضجوا8008_history.json                                           2401 bytes
+  data\history\ضخود6046_history.json                                          13025 bytes
+  data\history\ضخود6047_history.json                                          12925 bytes
+  data\history\ضخود6048_history.json                                          13005 bytes
+  data\history\ضخود6052_history.json                                          12954 bytes
+  data\history\ضخود6056_history.json                                          12665 bytes
+  data\history\ضخود7137_history.json                                           8990 bytes
+  data\history\ضخود7138_history.json                                           8952 bytes
+  data\history\ضخود8053_history.json                                           5007 bytes
+  data\history\ضخود8054_history.json                                           4993 bytes
+  data\history\ضخود8061_history.json                                           4956 bytes
+  data\history\ضذوب5020_history.json                                          10210 bytes
+  data\history\ضذوب5024_history.json                                          10340 bytes
+  data\history\ضذوب5026_history.json                                          10388 bytes
+  data\history\ضذوب5028_history.json                                          10239 bytes
+  data\history\ضذوب6009_history.json                                          11815 bytes
+  data\history\ضذوب6015_history.json                                          11873 bytes
+  data\history\ضذوب6016_history.json                                          12023 bytes
+  data\history\ضذوب6021_history.json                                          11789 bytes
+  data\history\ضذوب7037_history.json                                           7900 bytes
+  data\history\ضذوب7042_history.json                                           7975 bytes
+  data\history\ضذوب8021_history.json                                           3185 bytes
+  data\history\ضذوب8025_history.json                                           3101 bytes
+  data\history\ضذوب8030_history.json                                           3132 bytes
+  data\history\ضراز1009_history.json                                            875 bytes
+  data\history\ضراز6009_history.json                                          12242 bytes
+  data\history\ضراز6011_history.json                                          12090 bytes
+  data\history\ضراز8000_history.json                                           9746 bytes
+  data\history\ضراز8005_history.json                                           9655 bytes
+  data\history\ضراز8008_history.json                                           9744 bytes
+  data\history\ضستا6041_history.json                                          12366 bytes
+  data\history\ضستا6043_history.json                                          12394 bytes
+  data\history\ضستا6044_history.json                                          12396 bytes
+  data\history\ضستا6049_history.json                                          12618 bytes
+  data\history\ضستا6053_history.json                                           3187 bytes
+  data\history\ضستا7052_history.json                                           9062 bytes
+  data\history\ضستا7053_history.json                                           8960 bytes
+  data\history\ضستا7055_history.json                                           8901 bytes
+  data\history\ضستا7057_history.json                                           9109 bytes
+  data\history\ضستا7060_history.json                                           9061 bytes
+  data\history\ضستا8049_history.json                                           4140 bytes
+  data\history\ضستا8059_history.json                                           4008 bytes
+  data\history\ضسپا5022_history.json                                          11664 bytes
+  data\history\ضسپا5030_history.json                                          11646 bytes
+  data\history\ضسپا6042_history.json                                          10878 bytes
+  data\history\ضسپا6044_history.json                                          10799 bytes
+  data\history\ضسپا7021_history.json                                           7228 bytes
+  data\history\ضسپا7027_history.json                                           7254 bytes
+  data\history\ضشنا6036_history.json                                          12470 bytes
+  data\history\ضشنا6037_history.json                                          12384 bytes
+  data\history\ضشنا6039_history.json                                          12340 bytes
+  data\history\ضشنا6040_history.json                                          12136 bytes
+  data\history\ضشنا6044_history.json                                          12506 bytes
+  data\history\ضشنا6049_history.json                                           7881 bytes
+  data\history\ضشنا8056_history.json                                           8308 bytes
+  data\history\ضشنا8057_history.json                                           8218 bytes
+  data\history\ضشنا8058_history.json                                           8265 bytes
+  data\history\ضشنا8061_history.json                                           8248 bytes
+  data\history\ضشنا8064_history.json                                           7945 bytes
+  data\history\ضشنا8066_history.json                                           8149 bytes
+  data\history\ضصاد5021_history.json                                          11301 bytes
+  data\history\ضصاد5029_history.json                                          11292 bytes
+  data\history\ضصاد5031_history.json                                          11154 bytes
+  data\history\ضصاد5033_history.json                                          11132 bytes
+  data\history\ضصاد7036_history.json                                          11726 bytes
+  data\history\ضصاد7044_history.json                                          11783 bytes
+  data\history\ضصاد9040_history.json                                           3097 bytes
+  data\history\ضصاد9043_history.json                                           3167 bytes
+  data\history\ضطعام600_history.json                                           9066 bytes
+  data\history\ضطعام805_history.json                                            441 bytes
+  data\history\ضفرابورس702_history.json                                        3828 bytes
+  data\history\ضفرابورس704_history.json                                        3914 bytes
+  data\history\ضفرابورس708_history.json                                        3932 bytes
+  data\history\ضفرابورس925_history.json                                        3932 bytes
+  data\history\ضفرابورس929_history.json                                        3900 bytes
+  data\history\ضفرابورس931_history.json                                        3908 bytes
+  data\history\ضفزر503_history.json                                            7793 bytes
+  data\history\ضفزر506_history.json                                            7805 bytes
+  data\history\ضفزر614_history.json                                            4025 bytes
+  data\history\ضفزر622_history.json                                            4006 bytes
+  data\history\ضفزر624_history.json                                            4008 bytes
+  data\history\ضفزر716_history.json                                             912 bytes
+  data\history\ضمان_history.json                                              84715 bytes
+  data\history\ضمخا5011_history.json                                          10204 bytes
+  data\history\ضمخا5021_history.json                                          10196 bytes
+  data\history\ضمخا7091_history.json                                          11670 bytes
+  data\history\ضمخا7097_history.json                                          11684 bytes
+  data\history\ضمخا7103_history.json                                           2957 bytes
+  data\history\ضمخا7105_history.json                                            657 bytes
+  data\history\ضمخا9014_history.json                                           3118 bytes
+  data\history\ضمخا9015_history.json                                           3079 bytes
+  data\history\ضمخا9020_history.json                                           3158 bytes
+  data\history\ضمخا9022_history.json                                           3055 bytes
+  data\history\ضمخا9023_history.json                                           3055 bytes
+  data\history\ضملت5025_history.json                                          11404 bytes
+  data\history\ضملت5027_history.json                                          11353 bytes
+  data\history\ضملت5028_history.json                                          11378 bytes
+  data\history\ضملت5032_history.json                                          11379 bytes
+  data\history\ضملت6021_history.json                                          12132 bytes
+  data\history\ضملت7040_history.json                                           7313 bytes
+  data\history\ضملت7048_history.json                                           7132 bytes
+  data\history\ضملت8078_history.json                                           3115 bytes
+  data\history\ضملت8079_history.json                                           3121 bytes
+  data\history\ضملی7072_history.json                                          12370 bytes
+  data\history\ضملی9034_history.json                                           4180 bytes
+  data\history\ضموج514_history.json                                           11948 bytes
+  data\history\ضموج517_history.json                                           12060 bytes
+  data\history\ضموج518_history.json                                           12008 bytes
+  data\history\ضموج522_history.json                                           12023 bytes
+  data\history\ضموج524_history.json                                           10112 bytes
+  data\history\ضموج525_history.json                                           10003 bytes
+  data\history\ضموج527_history.json                                           10002 bytes
+  data\history\ضموج637_history.json                                           12097 bytes
+  data\history\ضموج639_history.json                                           11721 bytes
+  data\history\ضموج644_history.json                                           11721 bytes
+  data\history\ضموج648_history.json                                           10215 bytes
+  data\history\ضموج652_history.json                                           10022 bytes
+  data\history\ضموج723_history.json                                            1956 bytes
+  data\history\ضموج844_history.json                                            1956 bytes
+  data\history\ضهرم5025_history.json                                          11543 bytes
+  data\history\ضهرم5031_history.json                                          11510 bytes
+  data\history\ضهرم6041_history.json                                          11294 bytes
+  data\history\ضهرم6043_history.json                                          11228 bytes
+  data\history\ضهرم7052_history.json                                           6313 bytes
+  data\history\ضهمن5025_history.json                                           9177 bytes
+  data\history\ضهمن5026_history.json                                           8941 bytes
+  data\history\ضهمن5028_history.json                                           9265 bytes
+  data\history\ضهمن5033_history.json                                           9091 bytes
+  data\history\ضهمن7027_history.json                                           2496 bytes
+  data\history\ضهمن7034_history.json                                           2464 bytes
+  data\history\ضهمن7039_history.json                                           2450 bytes
+  data\history\ضهمن9026_history.json                                           1965 bytes
+  data\history\طبیعت061_history.json                                          82046 bytes
+  data\history\طبیعت064_history.json                                          82224 bytes
+  data\history\طبیعت067_history.json                                          82152 bytes
+  data\history\طبیعت076_history.json                                          67302 bytes
+  data\history\طعام_history.json                                              69236 bytes
+  data\history\طلوع_history.json                                              86168 bytes
+  data\history\طیور_history.json                                              21052 bytes
+  data\history\ظبهمن55_history.json                                           58645 bytes
+  data\history\ظبهمن56_history.json                                           59517 bytes
+  data\history\ظتجار55_history.json                                           59517 bytes
+  data\history\ظحسیر0511_history.json                                         31683 bytes
+  data\history\ظخابر55_history.json                                           58645 bytes
+  data\history\ظخاور0604_history.json                                         10343 bytes
+  data\history\ظخود56_history.json                                            58971 bytes
+  data\history\ظدفارا64_history.json                                          39163 bytes
+  data\history\ظذوب55_history.json                                            58107 bytes
+  data\history\ظساپا056_history.json                                          58914 bytes
+  data\history\ظساپا505_history.json                                          79938 bytes
+  data\history\ظسپ509_history.json                                            66653 bytes
+  data\history\ظصند55_history.json                                            58107 bytes
+  data\history\ظغگل55_history.json                                            58107 bytes
+  data\history\ظمعاد504_history.json                                          56943 bytes
+  data\history\ظملت55_history.json                                            58971 bytes
+  data\history\ظمپنا55_history.json                                           58645 bytes
+  data\history\ظنوین56_history.json                                           57773 bytes
+  data\history\ظهرمز0509_history.json                                         42023 bytes
+  data\history\ظهرمز0603_history.json                                         42023 bytes
+  data\history\ظپارس56_history.json                                           58645 bytes
+  data\history\ظپست55_history.json                                            58107 bytes
+  data\history\ظکشو510_history.json                                           36025 bytes
+  data\history\ظگستر56_history.json                                           59517 bytes
+  data\history\عامر06_history.json                                            44187 bytes
+  data\history\عقیق_history.json                                              84676 bytes
+  data\history\عمارت دی_history.json                                          16760 bytes
+  data\history\غاذر_history.json                                              84365 bytes
+  data\history\غاذرح_history.json                                             79938 bytes
+  data\history\غالبر_history.json                                             85231 bytes
+  data\history\غالبرح_history.json                                            81033 bytes
+  data\history\غانیزان_history.json                                           86380 bytes
+  data\history\غانیزانح_history.json                                          17692 bytes
+  data\history\غبشهر_history.json                                             84314 bytes
+  data\history\غبشهرح_history.json                                            80668 bytes
+  data\history\غبهنوش_history.json                                            85954 bytes
+  data\history\غبهنوشح_history.json                                           81398 bytes
+  data\history\غدام_history.json                                              84405 bytes
+  data\history\غدامح_history.json                                             79938 bytes
+  data\history\غدشت_history.json                                              83526 bytes
+  data\history\غدشتح_history.json                                             80831 bytes
+  data\history\غزر_history.json                                               82952 bytes
+  data\history\غزنجان_history.json                                            78899 bytes
+  data\history\غسالم_history.json                                             84486 bytes
+  data\history\غسالمح_history.json                                            80303 bytes
+  data\history\غشاذر_history.json                                             84752 bytes
+  data\history\غشاذرح_history.json                                            80303 bytes
+  data\history\غشان_history.json                                              83722 bytes
+  data\history\غشانح_history.json                                             79938 bytes
+  data\history\غشصفا_history.json                                             84553 bytes
+  data\history\غشصفاح_history.json                                            80668 bytes
+  data\history\غشهد_history.json                                              83697 bytes
+  data\history\غمهرا_history.json                                             84997 bytes
+  data\history\غمهراح_history.json                                            81398 bytes
+  data\history\غنوش_history.json                                              84050 bytes
+  data\history\غنوشح_history.json                                             79938 bytes
+  data\history\غکورش_history.json                                             84734 bytes
+  data\history\غگرجیح_history.json                                            81033 bytes
+  data\history\غگل_history.json                                               82819 bytes
+  data\history\غگلح_history.json                                              79573 bytes
+  data\history\فاذر_history.json                                              82777 bytes
+  data\history\فاذرح_history.json                                             79938 bytes
+  data\history\فاراک_history.json                                             84702 bytes
+  data\history\فاراکح_history.json                                            80303 bytes
+  data\history\فارس_history.json                                              83933 bytes
+  data\history\فارمانی_history.json                                           86663 bytes
+  data\history\فاما_history.json                                              83516 bytes
+  data\history\فاماح_history.json                                             79938 bytes
+  data\history\فایرا_history.json                                             84544 bytes
+  data\history\فایراح_history.json                                            80303 bytes
+  data\history\فباهنر_history.json                                            85702 bytes
+  data\history\فباهنرح_history.json                                           81763 bytes
+  data\history\فبیستون_history.json                                           81398 bytes
+  data\history\فجام_history.json                                              83724 bytes
+  data\history\فجامح_history.json                                             79938 bytes
+  data\history\فجر_history.json                                               83145 bytes
+  data\history\فجرح_history.json                                              78843 bytes
+  data\history\فخاس_history.json                                              83692 bytes
+  data\history\فخاسح_history.json                                             80303 bytes
+  data\history\فخوز_history.json                                              82930 bytes
+  data\history\فخوزح_history.json                                             79938 bytes
+  data\history\فرآور_history.json                                             84533 bytes
+  data\history\فرآورح_history.json                                            80668 bytes
+  data\history\فراطرح061_history.json                                         82858 bytes
+  data\history\فراطرح062_history.json                                         82858 bytes
+  data\history\فردا_history.json                                              86536 bytes
+  data\history\فردوس_history.json                                             79938 bytes
+  data\history\فرصت_history.json                                              83584 bytes
+  data\history\فروس_history.json                                              83592 bytes
+  data\history\فروسح_history.json                                             79938 bytes
+  data\history\فروژ_history.json                                              83217 bytes
+  data\history\فسازان_history.json                                            85375 bytes
+  data\history\فسازانح_history.json                                           81398 bytes
+  data\history\فسبزوار_history.json                                           87136 bytes
+  data\history\فسرب_history.json                                              83180 bytes
+  data\history\فسربح_history.json                                             79938 bytes
+  data\history\فسوژ_history.json                                              83958 bytes
+  data\history\فسپا_history.json                                              83852 bytes
+  data\history\فسپاح_history.json                                             79938 bytes
+  data\history\فسیکو_history.json                                             79938 bytes
+  data\history\فلامی_history.json                                             84149 bytes
+  data\history\فلامیح_history.json                                            80668 bytes
+  data\history\فلوله_history.json                                             84432 bytes
+  data\history\فلولهح_history.json                                            80668 bytes
+  data\history\فمراد_history.json                                             84958 bytes
+  data\history\فمرادح_history.json                                            80668 bytes
+  data\history\فملی_history.json                                              84418 bytes
+  data\history\فنوال_history.json                                             84439 bytes
+  data\history\فنوالح_history.json                                            80668 bytes
+  data\history\فنورد_history.json                                             84375 bytes
+  data\history\فنوردح_history.json                                            80303 bytes
+  data\history\فهامون_history.json                                            82090 bytes
+  data\history\فولاد_history.json                                             84127 bytes
+  data\history\فولادح_history.json                                            80303 bytes
+  data\history\فولاژ_history.json                                             84483 bytes
+  data\history\فولاژح_history.json                                            80668 bytes
+  data\history\فپنتاح_history.json                                            80668 bytes
+  data\history\فپوشش_history.json                                               222 bytes
+  data\history\فیروزه_history.json                                            86672 bytes
+  data\history\قثابت_history.json                                             84526 bytes
+  data\history\قثابتح_history.json                                            80668 bytes
+  data\history\قرن_history.json                                               84114 bytes
+  data\history\قرنح_history.json                                              79573 bytes
+  data\history\قزوینح_history.json                                            80668 bytes
+  data\history\قشهد_history.json                                              83356 bytes
+  data\history\قشکر_history.json                                              82995 bytes
+  data\history\قصفها_history.json                                             84625 bytes
+  data\history\قصفهاح_history.json                                            80668 bytes
+  data\history\قطران_history.json                                             79938 bytes
+  data\history\قلرست_history.json                                             84805 bytes
+  data\history\قلرستح_history.json                                            80668 bytes
+  data\history\قمرو_history.json                                              83311 bytes
+  data\history\قمروح_history.json                                             79938 bytes
+  data\history\قنیشا_history.json                                             84549 bytes
+  data\history\قنیشاح_history.json                                            80668 bytes
+  data\history\قهکمتح_history.json                                            80668 bytes
+  data\history\قپیرا_history.json                                             84749 bytes
+  data\history\قپیراح_history.json                                            80668 bytes
+  data\history\لابسا_history.json                                             84272 bytes
+  data\history\لابساح_history.json                                            80303 bytes
+  data\history\لبن_history.json                                                9678 bytes
+  data\history\لبوتان_history.json                                            85139 bytes
+  data\history\لبوتانح_history.json                                           81033 bytes
+  data\history\لخزر_history.json                                              83010 bytes
+  data\history\لخزرح_history.json                                             79938 bytes
+  data\history\لسرماح_history.json                                            80303 bytes
+  data\history\لطیف_history.json                                              83524 bytes
+  data\history\لوتوس_history.json                                             84450 bytes
+  data\history\لوتوسح_history.json                                            81124 bytes
+  data\history\لورچ08_history.json                                            81048 bytes
+  data\history\لپارس_history.json                                             85473 bytes
+  data\history\لپارسح_history.json                                            81033 bytes
+  data\history\ما_history.json                                                82203 bytes
+  data\history\ماح_history.json                                               77748 bytes
+  data\history\مانا_history.json                                              84296 bytes
+  data\history\مانی_history.json                                              86065 bytes
+  data\history\ماهور_history.json                                             87428 bytes
+  data\history\متال_history.json                                              84978 bytes
+  data\history\محتشم_history.json                                             84458 bytes
+  data\history\مختلط_history.json                                             39904 bytes
+  data\history\مدار_history.json                                              78843 bytes
+  data\history\مداران_history.json                                            84965 bytes
+  data\history\مدارانح_history.json                                           81836 bytes
+  data\history\مزه_history.json                                               76114 bytes
+  data\history\مطهر06_history.json                                            80989 bytes
+  data\history\مظنه شهر10_history.json                                        83588 bytes
+  data\history\مظنه شهر1_history.json                                         83223 bytes
+  data\history\مظنه شهر2_history.json                                         83223 bytes
+  data\history\مظنه شهر3_history.json                                         83223 bytes
+  data\history\مظنه شهر4_history.json                                         83223 bytes
+  data\history\مظنه شهر5_history.json                                         83223 bytes
+  data\history\مظنه شهر6_history.json                                         83223 bytes
+  data\history\مظنه شهر7_history.json                                         83223 bytes
+  data\history\مظنه شهر8_history.json                                         83223 bytes
+  data\history\مظنه شهر9_history.json                                         83223 bytes
+  data\history\مظنه10_history.json                                            81033 bytes
+  data\history\مظنه1_history.json                                             10832 bytes
+  data\history\مظنه2_history.json                                             10832 bytes
+  data\history\مظنه3_history.json                                             80668 bytes
+  data\history\مظنه4_history.json                                             80668 bytes
+  data\history\مظنه5_history.json                                             80668 bytes
+  data\history\مظنه6_history.json                                             80668 bytes
+  data\history\مظنه7_history.json                                             80668 bytes
+  data\history\مظنه8_history.json                                             80668 bytes
+  data\history\مظنه9_history.json                                             80668 bytes
+  data\history\مظنه_history.json                                              80303 bytes
+  data\history\معدن_history.json                                              82937 bytes
+  data\history\مفاخر_history.json                                             84423 bytes
+  data\history\ملت_history.json                                               82941 bytes
+  data\history\ملتح_history.json                                              78843 bytes
+  data\history\مهرگان_history.json                                            82878 bytes
+  data\history\میدکو_history.json                                             84476 bytes
+  data\history\میدکوح_history.json                                            80687 bytes
+  data\history\نارین_history.json                                             85128 bytes
+  data\history\ناما_history.json                                              83942 bytes
+  data\history\ناماح_history.json                                             55435 bytes
+  data\history\نان_history.json                                               82106 bytes
+  data\history\نانو دارو08_history.json                                       57106 bytes
+  data\history\نماد_history.json                                              80877 bytes
+  data\history\نمرینو_history.json                                            85069 bytes
+  data\history\نوری_history.json                                              84487 bytes
+  data\history\نیروانا_history.json                                           41438 bytes
+  data\history\هامرز_history.json                                             86817 bytes
+  data\history\هانا_history.json                                              34289 bytes
+  data\history\های وب_history.json                                            82923 bytes
+  data\history\هم تراز_history.json                                           54974 bytes
+  data\history\همتا_history.json                                              84251 bytes
+  data\history\همراه_history.json                                             84574 bytes
+  data\history\همراهح_history.json                                            81033 bytes
+  data\history\هوشمند_history.json                                            82501 bytes
+  data\history\وآذر_history.json                                              83658 bytes
+  data\history\وآذرح_history.json                                             80303 bytes
+  data\history\واتی_history.json                                              83744 bytes
+  data\history\واتیح_history.json                                             79573 bytes
+  data\history\واعتبار_history.json                                           85967 bytes
+  data\history\واعتبارح_history.json                                          81763 bytes
+  data\history\والبر_history.json                                             84499 bytes
+  data\history\والبرح_history.json                                            80768 bytes
+  data\history\وامید_history.json                                             85182 bytes
+  data\history\وامیدح_history.json                                            81535 bytes
+  data\history\وبازار_history.json                                            86232 bytes
+  data\history\وبانک_history.json                                             84688 bytes
+  data\history\وبشهر_history.json                                             84201 bytes
+  data\history\وبشهرح_history.json                                            81080 bytes
+  data\history\وبصادر_history.json                                            84373 bytes
+  data\history\وبملت_history.json                                             85044 bytes
+  data\history\وبملتح_history.json                                            80668 bytes
+  data\history\وبهمن_history.json                                             84520 bytes
+  data\history\وبهمنح_history.json                                            80303 bytes
+  data\history\وبوعلی_history.json                                            85051 bytes
+  data\history\وبیمهح_history.json                                            80303 bytes
+  data\history\وتجارت_history.json                                            84475 bytes
+  data\history\وتجارتح_history.json                                           81033 bytes
+  data\history\وتوس_history.json                                              83804 bytes
+  data\history\وتوسح_history.json                                             79573 bytes
+  data\history\وتوسم_history.json                                             84442 bytes
+  data\history\وتوسمح_history.json                                            80950 bytes
+  data\history\وتوشه_history.json                                             84276 bytes
+  data\history\وتوشهح_history.json                                            80668 bytes
+  data\history\وتوصا_history.json                                             84727 bytes
+  data\history\وتوصاح_history.json                                            80303 bytes
+  data\history\وتوکا_history.json                                             84598 bytes
+  data\history\وتوکاح_history.json                                            80668 bytes
+  data\history\وخارزم_history.json                                            85624 bytes
+  data\history\وخارزمح_history.json                                           81806 bytes
+  data\history\وخاور_history.json                                             84724 bytes
+  data\history\وخاورح_history.json                                            80668 bytes
+  data\history\ورنا_history.json                                              83986 bytes
+  data\history\ورناح_history.json                                             78843 bytes
+  data\history\وساخت_history.json                                             84459 bytes
+  data\history\وساختح_history.json                                            80303 bytes
+  data\history\وساشرقی_history.json                                           81033 bytes
+  data\history\وساپا_history.json                                             84424 bytes
+  data\history\وساپاح_history.json                                            79938 bytes
+  data\history\وسبوشهر_history.json                                           81398 bytes
+  data\history\وستهران_history.json                                           81398 bytes
+  data\history\وسخراج_history.json                                            80668 bytes
+  data\history\وسخراش_history.json                                            80668 bytes
+  data\history\وسخوز_history.json                                             79573 bytes
+  data\history\وسزنجان_history.json                                           81398 bytes
+  data\history\وسصفا_history.json                                             79573 bytes
+  data\history\وسفارس_history.json                                            80668 bytes
+  data\history\وسقزوین_history.json                                           81398 bytes
+  data\history\وسقم_history.json                                              79208 bytes
+  data\history\وسلرستا_history.json                                           81033 bytes
+  data\history\وسمازن_history.json                                            80303 bytes
+  data\history\وسمحال_history.json                                            80668 bytes
+  data\history\وسمرکز_history.json                                            80668 bytes
+  data\history\وسمنان_history.json                                            80668 bytes
+  data\history\وسهرمز_history.json                                            80303 bytes
+  data\history\وسهمدا_history.json                                            80303 bytes
+  data\history\وسپه_history.json                                              83830 bytes
+  data\history\وسپهح_history.json                                             80593 bytes
+  data\history\وسکرد_history.json                                             79573 bytes
+  data\history\وسکرشا_history.json                                            80303 bytes
+  data\history\وسکرمان_history.json                                           81033 bytes
+  data\history\وسکهبو_history.json                                            80668 bytes
+  data\history\وسگلستا_history.json                                           81033 bytes
+  data\history\وسگیلا_history.json                                            80303 bytes
+  data\history\وسیزد_history.json                                             79938 bytes
+  data\history\وسیلام_history.json                                            80668 bytes
+  data\history\وسینا_history.json                                             84595 bytes
+  data\history\وسیناح_history.json                                            80303 bytes
+  data\history\وشستان_history.json                                            80668 bytes
+  data\history\وصنا_history.json                                              83838 bytes
+  data\history\وصناح_history.json                                             79208 bytes
+  data\history\وصندوق_history.json                                            86520 bytes
+  data\history\وصندوقح_history.json                                           81763 bytes
+  data\history\وصنعت_history.json                                             84486 bytes
+  data\history\وصنعتح_history.json                                            79938 bytes
+  data\history\وطوبی_history.json                                             84482 bytes
+  data\history\وطوبیح_history.json                                            80303 bytes
+  data\history\ولتاژ_history.json                                             30527 bytes
+  data\history\ولساپا_history.json                                            84160 bytes
+  data\history\ولساپاح_history.json                                           81033 bytes
+  data\history\ولصنم_history.json                                             84540 bytes
+  data\history\ولصنمح_history.json                                            80303 bytes
+  data\history\ولغدر_history.json                                             84363 bytes
+  data\history\ولملت_history.json                                             84275 bytes
+  data\history\ولملتح_history.json                                            80668 bytes
+  data\history\ولنوینح_history.json                                           77825 bytes
+  data\history\ولپارس_history.json                                            85054 bytes
+  data\history\ولکار_history.json                                             84414 bytes
+  data\history\ولکارح_history.json                                            80668 bytes
+  data\history\ومدیر_history.json                                             84584 bytes
+  data\history\ومعادن_history.json                                            85526 bytes
+  data\history\ومعین_history.json                                             79938 bytes
+  data\history\وملی_history.json                                              85893 bytes
+  data\history\ومهان_history.json                                             84521 bytes
+  data\history\ونفت_history.json                                              83639 bytes
+  data\history\ونفتح_history.json                                             79938 bytes
+  data\history\ونوین_history.json                                             84727 bytes
+  data\history\ونوینح_history.json                                            80668 bytes
+  data\history\ونچر_history.json                                              80451 bytes
+  data\history\ونیرو_history.json                                             83683 bytes
+  data\history\ونیروح_history.json                                            80668 bytes
+  data\history\ونیکیح_history.json                                            81011 bytes
+  data\history\وهور_history.json                                              83882 bytes
+  data\history\وهورح_history.json                                             79573 bytes
+  data\history\وپارس_history.json                                             84806 bytes
+  data\history\وپارسح_history.json                                            80303 bytes
+  data\history\وپاسار_history.json                                            85469 bytes
+  data\history\وپاسارح_history.json                                           81398 bytes
+  data\history\وپترو_history.json                                             85430 bytes
+  data\history\وپتروح_history.json                                            80668 bytes
+  data\history\وپخش_history.json                                              84857 bytes
+  data\history\وپخشح_history.json                                             80303 bytes
+  data\history\وپست_history.json                                              83610 bytes
+  data\history\وپستح_history.json                                             79938 bytes
+  data\history\وکار_history.json                                              83733 bytes
+  data\history\وکارح_history.json                                             79938 bytes
+  data\history\وکغدیر_history.json                                            85348 bytes
+  data\history\وکغدیرح_history.json                                           81398 bytes
+  data\history\پارس_history.json                                              83662 bytes
+  data\history\پارسان_history.json                                            86090 bytes
+  data\history\پارسانح_history.json                                           81033 bytes
+  data\history\پارسیانح_history.json                                          82128 bytes
+  data\history\پارند_history.json                                             87256 bytes
+  data\history\پاسا_history.json                                              84525 bytes
+  data\history\پاساح_history.json                                             80303 bytes
+  data\history\پاسار06_history.json                                           81951 bytes
+  data\history\پاسار09_history.json                                           11451 bytes
+  data\history\پالایش_history.json                                            87860 bytes
+  data\history\پاکشو_history.json                                             84474 bytes
+  data\history\پتایر_history.json                                             84556 bytes
+  data\history\پتروآگاه_history.json                                          87828 bytes
+  data\history\پتروصبا_history.json                                           86592 bytes
+  data\history\پترول_history.json                                             84503 bytes
+  data\history\پترولح_history.json                                            80668 bytes
+  data\history\پخش اول_history.json                                           81033 bytes
+  data\history\پدرخش_history.json                                             84073 bytes
+  data\history\پدرخشح_history.json                                            80668 bytes
+  data\history\پرداخت_history.json                                            84988 bytes
+  data\history\پرداختح_history.json                                           81763 bytes
+  data\history\پرطلا_history.json                                             74901 bytes
+  data\history\پسهند_history.json                                             85525 bytes
+  data\history\پلاسک_history.json                                             84400 bytes
+  data\history\پلاسکح_history.json                                            80303 bytes
+  data\history\پوراطب072_history.json                                         82858 bytes
+  data\history\پژوهان09_history.json                                           9971 bytes
+  data\history\پکرمان_history.json                                            85208 bytes
+  data\history\پکویرح_history.json                                            80668 bytes
+  data\history\پی پاد_history.json                                            84739 bytes
+  data\history\پیشران_history.json                                            73523 bytes
+  data\history\چافست_history.json                                             85144 bytes
+  data\history\چافستح_history.json                                            80668 bytes
+  data\history\چاپ_history.json                                               35993 bytes
+  data\history\چبسپا_history.json                                             49278 bytes
+  data\history\چبسپاح_history.json                                            49728 bytes
+  data\history\چتر_history.json                                               83899 bytes
+  data\history\چخزر_history.json                                              84750 bytes
+  data\history\چدن_history.json                                               83225 bytes
+  data\history\چرمش_history.json                                              79208 bytes
+  data\history\چکارم_history.json                                             49278 bytes
+  data\history\چکارمح_history.json                                            49728 bytes
+  data\history\کاخ_history.json                                               27885 bytes
+  data\history\کاذر_history.json                                              83688 bytes
+  data\history\کاردان_history.json                                            87529 bytes
+  data\history\کالا_history.json                                              84101 bytes
+  data\history\کاماح_history.json                                             79938 bytes
+  data\history\کاوه_history.json                                              83958 bytes
+  data\history\کاوهح_history.json                                             79938 bytes
+  data\history\کبافق_history.json                                             85457 bytes
+  data\history\کبافقح_history.json                                            80303 bytes
+  data\history\کترام_history.json                                             84391 bytes
+  data\history\کترامح_history.json                                            80668 bytes
+  data\history\کدماح_history.json                                             80668 bytes
+  data\history\کرازی_history.json                                             83898 bytes
+  data\history\کرازیح_history.json                                            80911 bytes
+  data\history\کربن_history.json                                              84495 bytes
+  data\history\کربنح_history.json                                             28621 bytes
+  data\history\کرماشا_history.json                                            86359 bytes
+  data\history\کرماشاح_history.json                                           81398 bytes
+  data\history\کزغال_history.json                                             84412 bytes
+  data\history\کزغالح_history.json                                            81206 bytes
+  data\history\کساوه_history.json                                             85052 bytes
+  data\history\کساوهح_history.json                                            80668 bytes
+  data\history\کساپا_history.json                                             84353 bytes
+  data\history\کساپاح_history.json                                            80668 bytes
+  data\history\کسراح_history.json                                             79573 bytes
+  data\history\کسرام_history.json                                             83192 bytes
+  data\history\کسعدی_history.json                                             84487 bytes
+  data\history\کفرا_history.json                                              83302 bytes
+  data\history\کفراح_history.json                                             80216 bytes
+  data\history\کفپارس_history.json                                            85144 bytes
+  data\history\کفپارسح_history.json                                           81033 bytes
+  data\history\کلوند_history.json                                             84463 bytes
+  data\history\کلوندح_history.json                                            81136 bytes
+  data\history\کلید_history.json                                              85627 bytes
+  data\history\کماسه_history.json                                             84410 bytes
+  data\history\کماسهح_history.json                                            80668 bytes
+  data\history\کمنگنز_history.json                                            85016 bytes
+  data\history\کمنگنزح_history.json                                           81763 bytes
+  data\history\کنور_history.json                                              83714 bytes
+  data\history\کنورح_history.json                                             80295 bytes
+  data\history\کوچین_history.json                                             82173 bytes
+  data\history\کویر_history.json                                              83865 bytes
+  data\history\کویرح_history.json                                             80303 bytes
+  data\history\کپارسح_history.json                                            81033 bytes
+  data\history\کپرور_history.json                                             84814 bytes
+  data\history\کپشیر_history.json                                             85088 bytes
+  data\history\کچینی_history.json                                             49278 bytes
+  data\history\کگاز_history.json                                              84634 bytes
+  data\history\کگازح_history.json                                             80303 bytes
+  data\history\کگل_history.json                                               82982 bytes
+  data\history\کگلح_history.json                                              79643 bytes
+  data\history\کیان_history.json                                              86790 bytes
+  data\history\کیانا_history.json                                             83969 bytes
+  data\history\کیاناح_history.json                                            77812 bytes
+  data\history\کیمیاتک_history.json                                           86417 bytes
+  data\history\گلچین07_history.json                                           32507 bytes
+  data\history\یلدا_history.json                                              61234 bytes
+  data\market_context\context_2026-09-18.json                                  1493 bytes
+  data\market_context\context_2026-09-19.json                                  1522 bytes
+  data\portfolio\closed_positions.json                                          463 bytes
+  data\portfolio\open_positions.json                                            253 bytes
+  data\real_flow\real_flow_2026-09-16.json                                  2189725 bytes
+  data\real_flow\real_flow_2026-09-18.json                                  2189361 bytes
+  data\real_flow\real_flow_2026-09-19.json                                  2171796 bytes
+  data\real_flow\technical_2026-09-18.json                                     4581 bytes
+  data\real_flow\technical_2026-09-19.json                                    14337 bytes
+  python ba claude\python_learning_roadmap.txt                                 2404 bytes
+  reports\auto_trader_signal.txt                                                644 bytes
+  reports\daily_signal.txt                                                     3211 bytes
+  reports\latest_report.txt                                                  156837 bytes
+  reports\market_scanner_report.txt                                         1002710 bytes
+  reports\technical_analysis_report.txt                                        4850 bytes
+  reports\chatgpt_bridge\latest_report.txt                                   127244 bytes
+  reports\chatgpt_bridge\report_2026-09-12_16-38-37.txt                      317866 bytes
+  reports\chatgpt_bridge\report_2026-09-21_23-15-57.txt                      127244 bytes
+  reports\diagnostics\report_2026-09-12_13-46-12.txt                         156746 bytes
+  reports\diagnostics\report_2026-09-12_13-51-27.txt                         156837 bytes
+  scanner\data\real_flow\real_flow_2026-09-17.json                           668026 bytes
+  scanner\data\real_flow\real_flow_2026-09-18.json                          2189725 bytes
+
+====================================================================================================
+END OF REPORT
+====================================================================================================

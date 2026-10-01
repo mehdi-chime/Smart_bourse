@@ -1,0 +1,12 @@
+[
+  {
+    "symbol": "نوری",
+    "buy_date": "2026-09-18",
+    "buy_price": 46400.0,
+    "quantity": 100,
+    "invested": 4640000.0,
+    "reason": "تکنیکال",
+    "status": "OPEN",
+    "created_at": "2026-09-18T18:32:48.312874"
+  }
+]

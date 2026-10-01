@@ -1,0 +1,147 @@
+====================================================================================================
+  🧪 گزارش تست فایل‌های مهم
+  📅 2026-10-01 03:18:01
+====================================================================================================
+
+  کل: 112
+  ✅ import موفق: 107
+  ⚠️ خطا: 3
+  ❌ نیست: 2
+
+====================================================================================================
+  📝 نتایج تفصیلی:
+====================================================================================================
+
+
+✅ import موفق:
+----------------------------------------------------------------------------------------------------
+  ✅ main.py                                                      (127 خط)
+  ✅ config.py                                                    (36 خط)
+  ✅ project_config.py                                            (12 خط)
+  ✅ auto_trader.py                                               (180 خط)
+  ✅ smart_scanner_v5.py                                          (426 خط)
+  ✅ smart_scanner_v8.py                                          (433 خط)
+  ✅ golden_scanner.py                                            (458 خط)
+  ✅ tomorrow_picks.py                                            (235 خط)
+  ✅ tomorrow_picks_v2.py                                         (340 خط)
+  ✅ tomorrow_v5.py                                               (340 خط)
+  ✅ check_tomorrow.py                                            (286 خط)
+  ✅ night_check.py                                               (360 خط)
+  ✅ school_mode_v3.py                                            (378 خط)
+  ✅ school_mode_v5.py                                            (183 خط)
+  ✅ school_mode_v7.py                                            (209 خط)
+  ✅ install_school_v3.py                                         (69 خط)
+  ✅ install_school_v5.py                                         (63 خط)
+  ✅ smart_bourse_v10.py                                          (650 خط)
+  ✅ ai\ai_engine.py                                              (210 خط)
+  ✅ ai\learner.py                                                (86 خط)
+  ✅ ai\memory.py                                                 (116 خط)
+  ✅ ai\backtest_optimizer.py                                     (229 خط)
+  ✅ ai\momentum_scanner.py                                       (60 خط)
+  ✅ ai\order_flow_analyzer.py                                    (91 خط)
+  ✅ ai\whale_detector.py                                         (63 خط)
+  ✅ analysis\analysis.py                                         (194 خط)
+  ✅ analysis\strategy.py                                         (323 خط)
+  ✅ analysis\trend.py                                            (90 خط)
+  ✅ analysis\trend_detector.py                                   (109 خط)
+  ✅ analysis\support_resistance.py                               (98 خط)
+  ✅ strategy\signal_engine.py                                    (489 خط)
+  ✅ strategy\signal_manager.py                                   (184 خط)
+  ✅ strategy\strategy_manager.py                                 (304 خط)
+  ✅ strategy\risk_manager.py                                     (182 خط)
+  ✅ strategy\score_manager.py                                    (198 خط)
+  ✅ strategy\scenario_engine.py                                  (388 خط)
+  ✅ engines\advanced_scanner.py                                  (221 خط)
+  ✅ engines\crisis_swing_engine.py                               (77 خط)
+  ✅ engines\long_term_engine.py                                  (122 خط)
+  ✅ engines\market_psychology_engine.py                          (85 خط)
+  ✅ engines\mid_term_engine.py                                   (176 خط)
+  ✅ engines\swing_engine.py                                      (77 خط)
+  ✅ decision\ai_decision_engine.py                               (116 خط)
+  ✅ eitaa\eitaa_bot.py                                           (88 خط)
+  ✅ database\database.py                                         (232 خط)
+  ✅ database\symbol_repository.py                                (340 خط)
+  ✅ market\api.py                                                (268 خط)
+  ✅ market\market_manager.py                                     (139 خط)
+  ✅ market\market_scanner.py                                     (218 خط)
+  ✅ market\market_status.py                                      (176 خط)
+  ✅ history\history_database.py                                  (449 خط)
+  ✅ history\history_downloader.py                                (308 خط)
+  ✅ history\history_manager.py                                   (69 خط)
+  ✅ indicators\rsi.py                                            (200 خط)
+  ✅ indicators\macd.py                                           (86 خط)
+  ✅ indicators\atr.py                                            (89 خط)
+  ✅ indicators\adx.py                                            (233 خط)
+  ✅ indicators\bollinger.py                                      (84 خط)
+  ✅ indicators\ema.py                                            (50 خط)
+  ✅ indicators\ichimoku.py                                       (307 خط)
+  ✅ indicators\supertrend.py                                     (285 خط)
+  ✅ scanner\alert_config.py                                      (45 خط)
+  ✅ scanner\auto_runner.py                                       (215 خط)
+  ✅ scanner\smart_alert.py                                       (419 خط)
+  ✅ scanner\real_flow_filter.py                                  (437 خط)
+  ✅ scanner\technical_analyzer.py                                (323 خط)
+  ✅ scanner\deep_analyzer.py                                     (241 خط)
+  ✅ scanner\decision_maker.py                                    (326 خط)
+  ✅ scanner\market_context.py                                    (311 خط)
+  ✅ scanner\portfolio_alert.py                                   (258 خط)
+  ✅ scanner\portfolio_tracker.py                                 (127 خط)
+  ✅ scanner\live_monitor.py                                      (167 خط)
+  ✅ scanner\live_dashboard.py                                    (263 خط)
+  ✅ scanner\html_reporter.py                                     (366 خط)
+  ✅ scanner\dashboard_builder.py                                 (502 خط)
+  ✅ scanner\smart_indicators.py                                  (314 خط)
+  ✅ scanner\ai_advisor.py                                        (217 خط)
+  ✅ scanner\alert_monitor.py                                     (251 خط)
+  ✅ scanner\auto_portfolio_alert.py                              (111 خط)
+  ✅ scanner\live_analyzer.py                                     (98 خط)
+  ✅ scanner\live_portfolio.py                                    (126 خط)
+  ✅ scanner\live_recorder.py                                     (158 خط)
+  ✅ scanner\market_screener.py                                   (230 خط)
+  ✅ scanner\portfolio_history.py                                 (72 خط)
+  ✅ scanner\portfolio_report.py                                  (239 خط)
+  ✅ portfolio\portfolio.py                                       (186 خط)
+  ✅ portfolio\journal.py                                         (318 خط)
+  ✅ portfolio\position.py                                        (114 خط)
+  ✅ risk\risk_manager.py                                         (196 خط)
+  ✅ reports\excel_export.py                                      (80 خط)
+  ✅ reports\performance_report.py                                (86 خط)
+  ✅ reports\report_generator.py                                  (102 خط)
+  ✅ reports\report_manager.py                                    (10 خط)
+  ✅ utils\file_manager.py                                        (60 خط)
+  ✅ utils\logger.py                                              (43 خط)
+  ✅ utils\symbol_map.py                                          (17 خط)
+  ✅ core\data_fetcher.py                                         (128 خط)
+  ✅ core\event_analyzer.py                                       (123 خط)
+  ✅ core\logger.py                                               (30 خط)
+  ✅ core\market_health.py                                        (80 خط)
+  ✅ core\trade_recorder.py                                       (55 خط)
+  ✅ fundamental\fundamental_analyzer.py                          (200 خط)
+  ✅ paper\paper_trading.py                                       (162 خط)
+  ✅ news\news_analyzer.py                                        (90 خط)
+  ✅ models\stock.py                                              (42 خط)
+  ✅ scheduler\scheduler.py                                       (99 خط)
+  ✅ ui\main_dashboard.py                                         (62 خط)
+
+⚠️ خطا در import:
+----------------------------------------------------------------------------------------------------
+  ⚠️ run.py                                                      
+     نوع: ModuleNotFoundError
+     پیام: No module named 'market_downloader'
+  ⚠️ daily_runner.py                                             
+     نوع: ModuleNotFoundError
+     پیام: No module named 'market_downloader'
+  ⚠️ analysis\signal_engine.py                                   
+     نوع: ModuleNotFoundError
+     پیام: No module named 'indicators.ma'
+
+❌ فایل نیست:
+----------------------------------------------------------------------------------------------------
+  ❌ chatgpt_bridge.py
+  ❌ auto_push.py
+
+====================================================================================================
+  📊 خطاها بر اساس نوع:
+====================================================================================================
+
+  ModuleNotFoundError: 3

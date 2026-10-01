@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<title>Smart Bourse - Live</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:Tahoma,sans-serif;background:linear-gradient(135deg,#0f2027,#203a43,#2c5364);min-height:100vh;padding:20px;color:#fff}
+.container{max-width:1400px;margin:0 auto}
+.header{background:linear-gradient(135deg,#667eea,#764ba2);border-radius:20px;padding:30px;text-align:center;margin-bottom:20px}
+.header h1{font-size:28px}
+.header .time{font-size:14px;opacity:.9;margin-top:8px}
+.card{background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.1);border-radius:16px;padding:25px;margin-bottom:20px}
+.card h2{font-size:20px;margin-bottom:15px;padding-bottom:10px;border-bottom:2px solid rgba(255,255,255,.1)}
+table{width:100%;border-collapse:collapse;font-size:14px}
+th{background:rgba(255,255,255,.08);padding:12px;text-align:right;color:#b8c6db}
+td{padding:12px;border-bottom:1px solid rgba(255,255,255,.05)}
+tr:hover{background:rgba(255,255,255,.05)}
+.badge{display:inline-block;padding:4px 10px;border-radius:15px;font-size:12px;font-weight:bold}
+.badge.buy{background:rgba(56,239,125,.25);color:#38ef7d;border:1px solid #38ef7d}
+.badge.sell{background:rgba(244,92,67,.25);color:#f45c43;border:1px solid #f45c43}
+.total{text-align:center;font-size:24px;margin-top:20px;padding:15px;background:rgba(56,239,125,.15);border-radius:12px}
+.footer{text-align:center;padding:15px;color:#8898aa;font-size:12px}
+</style>
+<script>
+setTimeout(function(){location.reload();}, 30000);
+</script>
+</head>
+<body>
+<div class="container">
+<div class="header">
+<h1>📊 Live Dashboard</h1>
+<div class="time">آخرین به‌روزرسانی: 01:24:57 | Auto-refresh هر 30 ثانیه</div>
+</div>
+<div class="card">
+<h2>💼 پرتفوی (8 سهم)</h2>
+<table>
+<thead><tr><th>نماد</th><th>تعداد</th><th>خرید</th><th>قیمت</th><th>تغییر</th><th>ارزش (M)</th><th>سود/ضرر</th><th>وضعیت</th></tr></thead>
+<tbody><tr><td><b>تابان</b></td><td>3,697</td><td>-</td><td>18,710</td><td style='color:#38ef7d'>+2.97%</td><td>69.2 M</td><td>-</td><td></td></tr><tr><td><b>پكوير</b></td><td>23,518</td><td>-</td><td>3,700</td><td style='color:#38ef7d'>+2.78%</td><td>87.0 M</td><td>-</td><td></td></tr><tr><td><b>سهرمز</b></td><td>5,350</td><td>-</td><td>20,020</td><td style='color:#f45c43'>-2.76%</td><td>107.1 M</td><td>-</td><td></td></tr><tr><td><b>احيا</b></td><td>49,122</td><td>-</td><td>5,040</td><td style='color:#f45c43'>-2.50%</td><td>247.6 M</td><td>-</td><td></td></tr><tr><td><b>پيزد</b></td><td>23,220</td><td>-</td><td>12,510</td><td style='color:#38ef7d'>+2.69%</td><td>290.5 M</td><td>-</td><td></td></tr><tr><td><b>خپارس</b></td><td>217,948</td><td>-</td><td>2,097</td><td style='color:#38ef7d'>+3.00%</td><td>457.0 M</td><td>-</td><td></td></tr><tr><td><b>خگستر</b></td><td>468,777</td><td>4,327</td><td>4,140</td><td style='color:#f45c43'>-2.11%</td><td>1,940.7 M</td><td><span style='color:#f45c43'>-4.32%</span><br><small style='color:#f45c43'>-9M ت</small></td><td></td></tr><tr><td><b>فولاد</b></td><td>431,948</td><td>3,394</td><td>3,280</td><td style='color:#f45c43'>-0.51%</td><td>1,416.8 M</td><td><span style='color:#f45c43'>-3.36%</span><br><small style='color:#f45c43'>-5M ت</small></td><td></td></tr></tbody>
+</table>
+<div class="total">ارزش کل: <b>4,615.9 M ریال</b></div>
+<div style='text-align:center;margin-top:10px;font-size:18px'>سود/ضرر: <b style='color:#f45c43'>-14M تومان (-3.92%)</b></div>
+</div>
+<div class="footer">
+Smart Bourse © 2026 - Mehdi Jalali
+</div>
+</div>
+</body>
+</html>
