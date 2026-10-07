@@ -1,0 +1,441 @@
+{
+  "date": "2026-10-04 20:34:30",
+  "total_funds": 433,
+  "by_type": {
+    "املاک": 6,
+    "صندوق در صندوق": 4,
+    "درآمد ثابت": 78,
+    "سهامی": 65,
+    "کالایی": 57,
+    "نامشخص": 111,
+    "بخشی": 75,
+    "اهرمی": 10,
+    "نقره": 3,
+    "طلا": 10,
+    "مختلط": 7,
+    "شاخصی": 7
+  },
+  "top": [
+    {
+      "symbol": "چتر",
+      "name": "صندوق س.بخشي گستره فيروزه2-ب",
+      "ins_code": "118005828419984",
+      "fund_type": "بخشی",
+      "last": 20509.0,
+      "change": 1.91,
+      "nav": 20756.0,
+      "bubble": -1.19,
+      "ratio": 2.94,
+      "has_buy_queue": true,
+      "has_sell_queue": false,
+      "score": 81,
+      "reasons": [
+        "Rozane +1.9%",
+        "صف خرید",
+        "Nesbat 2.94",
+        "Kesr -1.19%"
+      ],
+      "min_a": 19315.0,
+      "max_a": 20509.0
+    },
+    {
+      "symbol": "برليان",
+      "name": "صندوق سرمايه گذاري برليان-سهام",
+      "ins_code": "4216536645718658",
+      "fund_type": "سهامی",
+      "last": 50750.0,
+      "change": 2.36,
+      "nav": 48491.0,
+      "bubble": 4.66,
+      "ratio": 4.78,
+      "has_buy_queue": true,
+      "has_sell_queue": false,
+      "score": 73,
+      "reasons": [
+        "Rozane +2.4%",
+        "صف خرید",
+        "Nesbat 4.78"
+      ],
+      "min_a": 47794.0,
+      "max_a": 50750.0
+    },
+    {
+      "symbol": "كاخ",
+      "name": "صندوق س كاخ-املاك",
+      "ins_code": "71595553356620707",
+      "fund_type": "املاک",
+      "last": 13257.0,
+      "change": 2.28,
+      "nav": 13362.0,
+      "bubble": -0.79,
+      "ratio": 1.44,
+      "has_buy_queue": true,
+      "has_sell_queue": false,
+      "score": 70,
+      "reasons": [
+        "Rozane +2.3%",
+        "صف خرید",
+        "Nesbat 1.44",
+        "Kesr -0.79%"
+      ],
+      "min_a": 12485.0,
+      "max_a": 13257.0
+    },
+    {
+      "symbol": "دانيك",
+      "name": "ص.س.املاك ومستغلات نيك راي",
+      "ins_code": "67717913151786055",
+      "fund_type": "املاک",
+      "last": 15786.0,
+      "change": 2.99,
+      "nav": 21610.0,
+      "bubble": -26.95,
+      "ratio": 1.0,
+      "has_buy_queue": true,
+      "has_sell_queue": false,
+      "score": 65,
+      "reasons": [
+        "Rozane +3.0%",
+        "صف خرید",
+        "Kesr -26.95%"
+      ],
+      "min_a": 14868.0,
+      "max_a": 15786.0
+    },
+    {
+      "symbol": "بزرگ",
+      "name": "صندوق س.سرزمين بزرگ بازار-س",
+      "ins_code": "13286519531933238",
+      "fund_type": "طلا",
+      "last": 19546.0,
+      "change": -1.8,
+      "nav": 20729.0,
+      "bubble": -5.71,
+      "ratio": 2.05,
+      "has_buy_queue": false,
+      "has_sell_queue": false,
+      "score": 58,
+      "reasons": [
+        "Rozane -1.8%",
+        "Nesbat 2.05",
+        "Kesr -5.71%"
+      ],
+      "min_a": 19519.0,
+      "max_a": 20725.0
+    },
+    {
+      "symbol": "فرا الگوريتم",
+      "name": "صندوق س.بخشي فرا الگوريتم1-ب",
+      "ins_code": "31389079379596565",
+      "fund_type": "بخشی",
+      "last": 38039.0,
+      "change": 1.19,
+      "nav": 38368.0,
+      "bubble": -0.86,
+      "ratio": 2.59,
+      "has_buy_queue": false,
+      "has_sell_queue": false,
+      "score": 56,
+      "reasons": [
+        "Rozane +1.2%",
+        "Nesbat 2.59",
+        "Kesr -0.86%"
+      ],
+      "min_a": 37238.0,
+      "max_a": 39540.0
+    },
+    {
+      "symbol": "عمارت دي",
+      "name": "صندوق س دي-املاك",
+      "ins_code": "41480981133648877",
+      "fund_type": "املاک",
+      "last": 14570.0,
+      "change": 1.03,
+      "nav": 14985.0,
+      "bubble": -2.77,
+      "ratio": 1.71,
+      "has_buy_queue": false,
+      "has_sell_queue": false,
+      "score": 55,
+      "reasons": [
+        "Rozane +1.0%",
+        "Nesbat 1.71",
+        "Kesr -2.77%"
+      ],
+      "min_a": 13981.0,
+      "max_a": 14845.0
+    },
+    {
+      "symbol": "خبرگان",
+      "name": "صندوق س انديشه خبرگان-سهام",
+      "ins_code": "27639047710974505",
+      "fund_type": "سهامی",
+      "last": 68926.0,
+      "change": 1.8,
+      "nav": 69504.0,
+      "bubble": -0.83,
+      "ratio": 1.55,
+      "has_buy_queue": false,
+      "has_sell_queue": false,
+      "score": 53,
+      "reasons": [
+        "Rozane +1.8%",
+        "Nesbat 1.55",
+        "Kesr -0.83%"
+      ],
+      "min_a": 66653.0,
+      "max_a": 70775.0
+    },
+    {
+      "symbol": "فرصت",
+      "name": "صندوق س فرصت آفرين سرمايه-سهام",
+      "ins_code": "8602793697394313",
+      "fund_type": "سهامی",
+      "last": 29200.0,
+      "change": 1.69,
+      "nav": 28801.0,
+      "bubble": 1.39,
+      "ratio": 0.01,
+      "has_buy_queue": true,
+      "has_sell_queue": false,
+      "score": 53,
+      "reasons": [
+        "Rozane +1.7%",
+        "صف خرید"
+      ],
+      "min_a": 27503.0,
+      "max_a": 29203.0
+    },
+    {
+      "symbol": "رويين",
+      "name": "صندوق س.بخشي صنايع سورنا1-ب",
+      "ins_code": "53059909885484371",
+      "fund_type": "بخشی",
+      "last": 34870.0,
+      "change": 1.92,
+      "nav": 34895.0,
+      "bubble": -0.07,
+      "ratio": 1.57,
+      "has_buy_queue": false,
+      "has_sell_queue": false,
+      "score": 51,
+      "reasons": [
+        "Rozane +1.9%",
+        "Nesbat 1.57",
+        "Kesr -0.07%"
+      ],
+      "min_a": 34018.0,
+      "max_a": 36122.0
+    },
+    {
+      "symbol": "مالك آتيه",
+      "name": "ص.س.املاك و مستغلات مالك آتيه",
+      "ins_code": "37118058361762279",
+      "fund_type": "املاک",
+      "last": 12754.0,
+      "change": 2.99,
+      "nav": 14079.0,
+      "bubble": -9.41,
+      "ratio": 1.12,
+      "has_buy_queue": false,
+      "has_sell_queue": false,
+      "score": 50,
+      "reasons": [
+        "Rozane +3.0%",
+        "Nesbat 1.12",
+        "Kesr -9.41%"
+      ],
+      "min_a": 12012.0,
+      "max_a": 12754.0
+    },
+    {
+      "symbol": "فيروزا",
+      "name": "صندوق ارمغان فيروزه آسيا-ثابت",
+      "ins_code": "10795723506538053",
+      "fund_type": "درآمد ثابت",
+      "last": 92513.0,
+      "change": 0.13,
+      "nav": 92834.0,
+      "bubble": -0.35,
+      "ratio": 2.19,
+      "has_buy_queue": false,
+      "has_sell_queue": false,
+      "score": 50,
+      "reasons": [
+        "Rozane +0.1%",
+        "Nesbat 2.19",
+        "Kesr -0.35%"
+      ],
+      "min_a": 89623.0,
+      "max_a": 95165.0
+    },
+    {
+      "symbol": "نويد",
+      "name": "ص.س.درآمد ثابت فاروس نويد-د",
+      "ins_code": "30150802188959856",
+      "fund_type": "درآمد ثابت",
+      "last": 10236.0,
+      "change": 0.12,
+      "nav": 10248.0,
+      "bubble": -0.12,
+      "ratio": 2.92,
+      "has_buy_queue": false,
+      "has_sell_queue": false,
+      "score": 50,
+      "reasons": [
+        "Rozane +0.1%",
+        "Nesbat 2.92",
+        "Kesr -0.12%"
+      ],
+      "min_a": 9917.0,
+      "max_a": 10529.0
+    },
+    {
+      "symbol": "اصيل",
+      "name": "صندوق درآمدثابت مشترك البرز-د",
+      "ins_code": "8021561335311415",
+      "fund_type": "درآمد ثابت",
+      "last": 21935.0,
+      "change": 0.12,
+      "nav": 21966.0,
+      "bubble": -0.14,
+      "ratio": 3.56,
+      "has_buy_queue": false,
+      "has_sell_queue": false,
+      "score": 50,
+      "reasons": [
+        "Rozane +0.1%",
+        "Nesbat 3.56",
+        "Kesr -0.14%"
+      ],
+      "min_a": 21251.0,
+      "max_a": 22565.0
+    },
+    {
+      "symbol": "شميم",
+      "name": "صندوق س.درآمدثابت شميم تابان-د",
+      "ins_code": "64659064562132185",
+      "fund_type": "درآمد ثابت",
+      "last": 19329.0,
+      "change": 0.15,
+      "nav": 19412.0,
+      "bubble": -0.43,
+      "ratio": 2.05,
+      "has_buy_queue": false,
+      "has_sell_queue": false,
+      "score": 50,
+      "reasons": [
+        "Rozane +0.1%",
+        "Nesbat 2.05",
+        "Kesr -0.43%"
+      ],
+      "min_a": 18722.0,
+      "max_a": 19880.0
+    },
+    {
+      "symbol": "دامون",
+      "name": "ص.س. درآمد ثابت آسمان دامون-د",
+      "ins_code": "43009306066217458",
+      "fund_type": "درآمد ثابت",
+      "last": 22029.0,
+      "change": 0.14,
+      "nav": 22039.0,
+      "bubble": -0.05,
+      "ratio": 2.57,
+      "has_buy_queue": false,
+      "has_sell_queue": false,
+      "score": 50,
+      "reasons": [
+        "Rozane +0.1%",
+        "Nesbat 2.57",
+        "Kesr -0.05%"
+      ],
+      "min_a": 21340.0,
+      "max_a": 22658.0
+    },
+    {
+      "symbol": "پايش",
+      "name": "صندوق س.درآمد ثابت دينا-د",
+      "ins_code": "58722731270352481",
+      "fund_type": "درآمد ثابت",
+      "last": 21383.0,
+      "change": 0.12,
+      "nav": 21420.0,
+      "bubble": -0.17,
+      "ratio": 4.04,
+      "has_buy_queue": false,
+      "has_sell_queue": false,
+      "score": 50,
+      "reasons": [
+        "Rozane +0.1%",
+        "Nesbat 4.04",
+        "Kesr -0.17%"
+      ],
+      "min_a": 20715.0,
+      "max_a": 21995.0
+    },
+    {
+      "symbol": "ماني",
+      "name": "صندوق س. با درآمد ثابت ماني",
+      "ins_code": "61265100181977543",
+      "fund_type": "درآمد ثابت",
+      "last": 34441.0,
+      "change": 0.13,
+      "nav": 34526.0,
+      "bubble": -0.25,
+      "ratio": 2.49,
+      "has_buy_queue": false,
+      "has_sell_queue": false,
+      "score": 50,
+      "reasons": [
+        "Rozane +0.1%",
+        "Nesbat 2.49",
+        "Kesr -0.25%"
+      ],
+      "min_a": 33366.0,
+      "max_a": 35428.0
+    },
+    {
+      "symbol": "كارين",
+      "name": "صندوق س نگين سامان-ثابت",
+      "ins_code": "16056283141617755",
+      "fund_type": "درآمد ثابت",
+      "last": 19685.0,
+      "change": 0.12,
+      "nav": 19701.0,
+      "bubble": -0.08,
+      "ratio": 11.32,
+      "has_buy_queue": false,
+      "has_sell_queue": false,
+      "score": 50,
+      "reasons": [
+        "Rozane +0.1%",
+        "Nesbat 11.32",
+        "Kesr -0.08%"
+      ],
+      "min_a": 19071.0,
+      "max_a": 20249.0
+    },
+    {
+      "symbol": "آبي",
+      "name": "ص.س.درآمد ثابت آبي هامون-د",
+      "ins_code": "29833953891226346",
+      "fund_type": "درآمد ثابت",
+      "last": 10450.0,
+      "change": 0.13,
+      "nav": 10493.0,
+      "bubble": -0.41,
+      "ratio": 3.32,
+      "has_buy_queue": false,
+      "has_sell_queue": false,
+      "score": 50,
+      "reasons": [
+        "Rozane +0.1%",
+        "Nesbat 3.32",
+        "Kesr -0.41%"
+      ],
+      "min_a": 10123.0,
+      "max_a": 10749.0
+    }
+  ]
+}

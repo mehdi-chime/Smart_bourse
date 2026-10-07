@@ -1,0 +1,26 @@
+[
+  {
+    "symbol": "وتوصا",
+    "buy_price": 3027,
+    "quantity": 3027,
+    "buy_date": "2026-10-05"
+  },
+  {
+    "symbol": "چاپ",
+    "buy_price": 19644,
+    "quantity": 4072,
+    "buy_date": "2026-10-05"
+  },
+  {
+    "symbol": "خزر",
+    "buy_price": 2082,
+    "quantity": 52068,
+    "buy_date": "2026-10-05"
+  },
+  {
+    "symbol": "حفاری",
+    "buy_price": 5857,
+    "quantity": 34327,
+    "buy_date": "2026-10-05"
+  }
+]

@@ -1,0 +1,164 @@
+{
+  "date": "2026-10-05T19:37:03.688834",
+  "success_threshold": 3.0,
+  "stats": {
+    "total": 104,
+    "wins": 36,
+    "losses": 68,
+    "win_rate": 34.62,
+    "avg_return": 2.09,
+    "ratio_low": {
+      "total": 76,
+      "wins": 36,
+      "win_rate": 47.37
+    },
+    "ratio_high": {
+      "total": 28,
+      "wins": 0,
+      "win_rate": 0.0
+    }
+  },
+  "good_symbols": [
+    {
+      "symbol": "دشيمي",
+      "total": 4,
+      "win_rate": 100.0,
+      "avg_return": 8.14
+    },
+    {
+      "symbol": "آلومينا",
+      "total": 4,
+      "win_rate": 100.0,
+      "avg_return": 7.75
+    },
+    {
+      "symbol": "شنفت",
+      "total": 4,
+      "win_rate": 100.0,
+      "avg_return": 5.42
+    },
+    {
+      "symbol": "همراه",
+      "total": 4,
+      "win_rate": 100.0,
+      "avg_return": 5.15
+    },
+    {
+      "symbol": "افق",
+      "total": 4,
+      "win_rate": 100.0,
+      "avg_return": 4.92
+    },
+    {
+      "symbol": "قرن",
+      "total": 4,
+      "win_rate": 100.0,
+      "avg_return": 4.58
+    },
+    {
+      "symbol": "اتكام",
+      "total": 4,
+      "win_rate": 100.0,
+      "avg_return": 4.45
+    },
+    {
+      "symbol": "واميد",
+      "total": 4,
+      "win_rate": 100.0,
+      "avg_return": 4.03
+    },
+    {
+      "symbol": "قهكمت",
+      "total": 4,
+      "win_rate": 100.0,
+      "avg_return": 3.34
+    }
+  ],
+  "bad_symbols": [
+    {
+      "symbol": "مداران",
+      "total": 4,
+      "win_rate": 0
+    },
+    {
+      "symbol": "فرآور",
+      "total": 4,
+      "win_rate": 0
+    },
+    {
+      "symbol": "چكاوه",
+      "total": 4,
+      "win_rate": 0
+    },
+    {
+      "symbol": "پكوير",
+      "total": 4,
+      "win_rate": 0
+    },
+    {
+      "symbol": "نوري",
+      "total": 4,
+      "win_rate": 0
+    },
+    {
+      "symbol": "وكغدير",
+      "total": 4,
+      "win_rate": 0
+    },
+    {
+      "symbol": "داروند",
+      "total": 4,
+      "win_rate": 0
+    },
+    {
+      "symbol": "كنور",
+      "total": 4,
+      "win_rate": 0
+    },
+    {
+      "symbol": "رتاپ",
+      "total": 4,
+      "win_rate": 0
+    },
+    {
+      "symbol": "بنيرو",
+      "total": 4,
+      "win_rate": 0
+    },
+    {
+      "symbol": "وسينا",
+      "total": 4,
+      "win_rate": 0
+    },
+    {
+      "symbol": "سيسكو",
+      "total": 4,
+      "win_rate": 0
+    },
+    {
+      "symbol": "پاكشو",
+      "total": 4,
+      "win_rate": 0
+    },
+    {
+      "symbol": "بوعلي",
+      "total": 4,
+      "win_rate": 0
+    },
+    {
+      "symbol": "سيتا",
+      "total": 4,
+      "win_rate": 0
+    },
+    {
+      "symbol": "وبشهر",
+      "total": 4,
+      "win_rate": 0
+    },
+    {
+      "symbol": "كيمياتك",
+      "total": 4,
+      "win_rate": 0
+    }
+  ]
+}

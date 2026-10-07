@@ -1,0 +1,56 @@
+[
+  {
+    "symbol": "كيمياتك",
+    "total": 4,
+    "win_rate": 100.0,
+    "avg_return": 1.65
+  },
+  {
+    "symbol": "بوعلي",
+    "total": 4,
+    "win_rate": 100.0,
+    "avg_return": 1.6
+  },
+  {
+    "symbol": "كنور",
+    "total": 4,
+    "win_rate": 100.0,
+    "avg_return": 1.28
+  },
+  {
+    "symbol": "پاكشو",
+    "total": 4,
+    "win_rate": 100.0,
+    "avg_return": 1.15
+  },
+  {
+    "symbol": "بنيرو",
+    "total": 4,
+    "win_rate": 100.0,
+    "avg_return": 1.07
+  },
+  {
+    "symbol": "سيتا",
+    "total": 4,
+    "win_rate": 100.0,
+    "avg_return": 0.96
+  },
+  {
+    "symbol": "وبشهر",
+    "total": 4,
+    "win_rate": 100.0,
+    "avg_return": 0.96
+  },
+  {
+    "symbol": "سيسكو",
+    "total": 4,
+    "win_rate": 100.0,
+    "avg_return": 0.75
+  },
+  {
+    "symbol": "رتاپ",
+    "total": 4,
+    "win_rate": 100.0,
+    "avg_return": 0.74
+  }
+]

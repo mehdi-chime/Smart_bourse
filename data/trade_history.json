@@ -1,0 +1,67 @@
+[
+  {
+    "type": "SELL",
+    "symbol": "رتاپ",
+    "quantity": 8377,
+    "buy_price": 9060,
+    "sell_price": 9734,
+    "profit": 5646098,
+    "profit_pct": 7.439293598233995,
+    "date": "2026-10-05 14:18:04"
+  },
+  {
+    "type": "SELL",
+    "symbol": "فرآورده تزریقی",
+    "quantity": 8422,
+    "buy_price": 44464,
+    "sell_price": 46607,
+    "profit": 18048346,
+    "profit_pct": 4.819629363080245,
+    "date": "2026-10-05 14:18:04"
+  },
+  {
+    "type": "SELL",
+    "symbol": "کاویر تایر",
+    "quantity": 23518,
+    "buy_price": 3714,
+    "sell_price": 3697,
+    "profit": -399806,
+    "profit_pct": -0.45772751750134627,
+    "date": "2026-10-05 14:18:04"
+  },
+  {
+    "type": "BUY",
+    "symbol": "وتوصا",
+    "quantity": 24848,
+    "buy_price": 3001,
+    "date": "2026-10-05 14:18:04"
+  },
+  {
+    "type": "BUY",
+    "symbol": "چاپ",
+    "quantity": 16972,
+    "buy_price": 8331,
+    "date": "2026-10-05 14:18:04"
+  },
+  {
+    "type": "BUY",
+    "symbol": "خزر",
+    "quantity": 52068,
+    "buy_price": 2082,
+    "date": "2026-10-05 14:18:04"
+  },
+  {
+    "type": "BUY",
+    "symbol": "حفاری",
+    "quantity": 34327,
+    "buy_price": 5857,
+    "date": "2026-10-05 14:18:04"
+  },
+  {
+    "type": "BUY",
+    "symbol": "فجر انرژی",
+    "quantity": 34284,
+    "buy_price": 10740,
+    "date": "2026-10-05 14:18:05"
+  }
+]

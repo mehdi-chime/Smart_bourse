@@ -1,0 +1,56 @@
+[
+  {
+    "symbol": "دشيمي",
+    "total": 4,
+    "win_rate": 100.0,
+    "avg_return": 8.14
+  },
+  {
+    "symbol": "آلومينا",
+    "total": 4,
+    "win_rate": 100.0,
+    "avg_return": 7.75
+  },
+  {
+    "symbol": "شنفت",
+    "total": 4,
+    "win_rate": 100.0,
+    "avg_return": 5.42
+  },
+  {
+    "symbol": "همراه",
+    "total": 4,
+    "win_rate": 100.0,
+    "avg_return": 5.15
+  },
+  {
+    "symbol": "افق",
+    "total": 4,
+    "win_rate": 100.0,
+    "avg_return": 4.92
+  },
+  {
+    "symbol": "قرن",
+    "total": 4,
+    "win_rate": 100.0,
+    "avg_return": 4.58
+  },
+  {
+    "symbol": "اتكام",
+    "total": 4,
+    "win_rate": 100.0,
+    "avg_return": 4.45
+  },
+  {
+    "symbol": "واميد",
+    "total": 4,
+    "win_rate": 100.0,
+    "avg_return": 4.03
+  },
+  {
+    "symbol": "قهكمت",
+    "total": 4,
+    "win_rate": 100.0,
+    "avg_return": 3.34
+  }
+]

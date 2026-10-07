@@ -1,0 +1,303 @@
+{
+  "date": "2026-10-04 20:14:27",
+  "total_funds": 24,
+  "top": [
+    {
+      "symbol": "شوينده3",
+      "name": "مديريت صنعت شوينده ت.ص.بهشهر",
+      "ins_code": "59291155825353717",
+      "fund_type": "بخشی",
+      "last": 46740.0,
+      "change": 2.82,
+      "nav": 0.0,
+      "bubble": null,
+      "ratio": 1.0,
+      "has_buy_queue": true,
+      "has_sell_queue": false,
+      "score": 45,
+      "reasons": [
+        "Rozane +2.8% (20)",
+        "صف خرید (25)"
+      ],
+      "min_a": 46740.0,
+      "max_a": 46740.0
+    },
+    {
+      "symbol": "وكغدير",
+      "name": "بين المللي توسعه ص. معادن غدير",
+      "ins_code": "40553302624764543",
+      "fund_type": "نامشخص",
+      "last": 7490.0,
+      "change": 2.56,
+      "nav": 0.0,
+      "bubble": null,
+      "ratio": 1.74,
+      "has_buy_queue": false,
+      "has_sell_queue": false,
+      "score": 35,
+      "reasons": [
+        "Rozane +2.6% (20)",
+        "Nesbat 1.74 (15)"
+      ],
+      "min_a": 7200.0,
+      "max_a": 7640.0
+    },
+    {
+      "symbol": "صبا3",
+      "name": "گروه مالي صبا تامين",
+      "ins_code": "692882904419382",
+      "fund_type": "نامشخص",
+      "last": 10810.0,
+      "change": 0.93,
+      "nav": 0.0,
+      "bubble": null,
+      "ratio": 1.09,
+      "has_buy_queue": false,
+      "has_sell_queue": true,
+      "score": 25,
+      "reasons": [
+        "Rozane +0.9% (10)",
+        "صف فروش (5)",
+        "Nesbat 1.09 (10)"
+      ],
+      "min_a": 10810.0,
+      "max_a": 10810.0
+    },
+    {
+      "symbol": "وكغدير3",
+      "name": "بين المللي توسعه ص. معادن غدير",
+      "ins_code": "70357306059597129",
+      "fund_type": "نامشخص",
+      "last": 7610.0,
+      "change": 2.56,
+      "nav": 0.0,
+      "bubble": null,
+      "ratio": 1.0,
+      "has_buy_queue": false,
+      "has_sell_queue": true,
+      "score": 25,
+      "reasons": [
+        "Rozane +2.6% (20)",
+        "صف فروش (5)"
+      ],
+      "min_a": 7610.0,
+      "max_a": 7610.0
+    },
+    {
+      "symbol": "وصندوق3",
+      "name": "سرمايه‌گذاري‌صندوق‌بازنشستگي‌",
+      "ins_code": "52508470851011956",
+      "fund_type": "نامشخص",
+      "last": 28810.0,
+      "change": 2.31,
+      "nav": 0.0,
+      "bubble": null,
+      "ratio": 1.0,
+      "has_buy_queue": false,
+      "has_sell_queue": true,
+      "score": 25,
+      "reasons": [
+        "Rozane +2.3% (20)",
+        "صف فروش (5)"
+      ],
+      "min_a": 28810.0,
+      "max_a": 28810.0
+    },
+    {
+      "symbol": "ميدكو3",
+      "name": "توسعه معادن وص.معدني خاورميانه",
+      "ins_code": "6375951461729203",
+      "fund_type": "نامشخص",
+      "last": 6040.0,
+      "change": -2.74,
+      "nav": 0.0,
+      "bubble": null,
+      "ratio": 1.0,
+      "has_buy_queue": false,
+      "has_sell_queue": true,
+      "score": 20,
+      "reasons": [
+        "Rozane -2.7% (15)",
+        "صف فروش (5)"
+      ],
+      "min_a": 6040.0,
+      "max_a": 6040.0
+    },
+    {
+      "symbol": "چاپ3",
+      "name": "ص.چاپ وبسته بندي آسان قزوين",
+      "ins_code": "45602077511325616",
+      "fund_type": "نامشخص",
+      "last": 19430.0,
+      "change": -2.85,
+      "nav": 0.0,
+      "bubble": null,
+      "ratio": 1.0,
+      "has_buy_queue": false,
+      "has_sell_queue": true,
+      "score": 20,
+      "reasons": [
+        "Rozane -2.9% (15)",
+        "صف فروش (5)"
+      ],
+      "min_a": 19430.0,
+      "max_a": 19430.0
+    },
+    {
+      "symbol": "صبا",
+      "name": "گروه مالي صبا تامين",
+      "ins_code": "33938004134399485",
+      "fund_type": "نامشخص",
+      "last": 10400.0,
+      "change": 0.93,
+      "nav": 0.0,
+      "bubble": null,
+      "ratio": 1.17,
+      "has_buy_queue": false,
+      "has_sell_queue": false,
+      "score": 20,
+      "reasons": [
+        "Rozane +0.9% (10)",
+        "Nesbat 1.17 (10)"
+      ],
+      "min_a": 10390.0,
+      "max_a": 11030.0
+    },
+    {
+      "symbol": "تاپيكو3",
+      "name": "س. نفت و گاز و پتروشيمي تأمين",
+      "ins_code": "447502040159260",
+      "fund_type": "نامشخص",
+      "last": 51990.0,
+      "change": -2.9,
+      "nav": 0.0,
+      "bubble": null,
+      "ratio": 1.0,
+      "has_buy_queue": false,
+      "has_sell_queue": true,
+      "score": 20,
+      "reasons": [
+        "Rozane -2.9% (15)",
+        "صف فروش (5)"
+      ],
+      "min_a": 51990.0,
+      "max_a": 51990.0
+    },
+    {
+      "symbol": "وصندوق",
+      "name": "سرمايه‌گذاري‌صندوق‌بازنشستگي‌",
+      "ins_code": "37204371816016200",
+      "fund_type": "نامشخص",
+      "last": 28180.0,
+      "change": 2.31,
+      "nav": 0.0,
+      "bubble": null,
+      "ratio": 0.84,
+      "has_buy_queue": false,
+      "has_sell_queue": false,
+      "score": 20,
+      "reasons": [
+        "Rozane +2.3% (20)"
+      ],
+      "min_a": 27320.0,
+      "max_a": 29000.0
+    },
+    {
+      "symbol": "پترول3",
+      "name": "گ.س.وت.ص.پتروشيمي خليج فارس",
+      "ins_code": "48074889792964599",
+      "fund_type": "نامشخص",
+      "last": 2442.0,
+      "change": -2.79,
+      "nav": 0.0,
+      "bubble": null,
+      "ratio": 1.0,
+      "has_buy_queue": false,
+      "has_sell_queue": true,
+      "score": 20,
+      "reasons": [
+        "Rozane -2.8% (15)",
+        "صف فروش (5)"
+      ],
+      "min_a": 2442.0,
+      "max_a": 2442.0
+    },
+    {
+      "symbol": "شيران3",
+      "name": "س. صنايع‌شيميايي‌ايران",
+      "ins_code": "23505364492553137",
+      "fund_type": "نامشخص",
+      "last": 11300.0,
+      "change": -2.5,
+      "nav": 0.0,
+      "bubble": null,
+      "ratio": 1.0,
+      "has_buy_queue": false,
+      "has_sell_queue": true,
+      "score": 20,
+      "reasons": [
+        "Rozane -2.5% (15)",
+        "صف فروش (5)"
+      ],
+      "min_a": 11300.0,
+      "max_a": 11300.0
+    },
+    {
+      "symbol": "شوينده",
+      "name": "مديريت صنعت شوينده ت.ص.بهشهر",
+      "ins_code": "3493306453706327",
+      "fund_type": "بخشی",
+      "last": 46820.0,
+      "change": 2.82,
+      "nav": 0.0,
+      "bubble": null,
+      "ratio": 0.22,
+      "has_buy_queue": false,
+      "has_sell_queue": false,
+      "score": 20,
+      "reasons": [
+        "Rozane +2.8% (20)"
+      ],
+      "min_a": 44100.0,
+      "max_a": 46820.0
+    },
+    {
+      "symbol": "شيران",
+      "name": "س. صنايع‌شيميايي‌ايران",
+      "ins_code": "35796086458096255",
+      "fund_type": "نامشخص",
+      "last": 11250.0,
+      "change": -2.5,
+      "nav": 0.0,
+      "bubble": null,
+      "ratio": 0.67,
+      "has_buy_queue": false,
+      "has_sell_queue": false,
+      "score": 15,
+      "reasons": [
+        "Rozane -2.5% (15)"
+      ],
+      "min_a": 11250.0,
+      "max_a": 11930.0
+    },
+    {
+      "symbol": "تاپيكو",
+      "name": "س. نفت و گاز و پتروشيمي تأمين",
+      "ins_code": "22560050433388046",
+      "fund_type": "نامشخص",
+      "last": 51940.0,
+      "change": -2.9,
+      "nav": 0.0,
+      "bubble": null,
+      "ratio": 0.49,
+      "has_buy_queue": false,
+      "has_sell_queue": false,
+      "score": 15,
+      "reasons": [
+        "Rozane -2.9% (15)"
+      ],
+      "min_a": 51940.0,
+      "max_a": 55140.0
+    }
+  ]
+}
