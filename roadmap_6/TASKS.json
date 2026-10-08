@@ -1,0 +1,62 @@
+{
+  "version": "6.0",
+  "created": "2026-10-07T23:49:14.438459",
+  "phases": [
+    {
+      "id": 1,
+      "title": "LLM Integration",
+      "weeks": 2,
+      "score": 1.0,
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "title": "Multi-Agent AI",
+      "weeks": 2,
+      "score": 1.0,
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "title": "Sentiment Analysis",
+      "weeks": 1,
+      "score": 0.5,
+      "status": "pending"
+    },
+    {
+      "id": 4,
+      "title": "Broker Integration",
+      "weeks": 2,
+      "score": 0.5,
+      "status": "pending"
+    },
+    {
+      "id": 5,
+      "title": "Backtrader",
+      "weeks": 1,
+      "score": 0.5,
+      "status": "pending"
+    },
+    {
+      "id": 6,
+      "title": "Dashboard",
+      "weeks": 1,
+      "score": 0.5,
+      "status": "pending"
+    },
+    {
+      "id": 7,
+      "title": "صندوق‌ها (ETF)",
+      "weeks": 1,
+      "score": 0.5,
+      "status": "pending"
+    },
+    {
+      "id": 8,
+      "title": "بورس کالا",
+      "weeks": 1,
+      "score": 0.5,
+      "status": "pending"
+    }
+  ]
+}

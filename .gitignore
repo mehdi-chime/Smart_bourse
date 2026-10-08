@@ -79,3 +79,9 @@ reports/*.txt
 *~
 alert_config*.bak
 alert_config*.backup
+config/llm_config.py
+**/llm_config.py
+**/setup_groq.py
+**/setup_deepseek.py
+.env.*
+# 🔒 BACKUPS

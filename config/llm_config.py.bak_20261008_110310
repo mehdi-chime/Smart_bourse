@@ -1,0 +1,22 @@
+import os
+
+# config/llm_config.py
+# تنظیمات LLM
+
+# ===== DeepSeek API =====
+# کلیدت رو از https://platform.deepseek.com بگیر
+DEEPSEEK_API_KEY = os.environ.get('DEEPSEEK_API_KEY', '')
+
+# ===== مدل =====
+LLM_MODEL = 'deepseek-chat'
+LLM_BASE_URL = 'https://api.deepseek.com'
+
+# ===== تنظیمات =====
+LLM_TEMPERATURE = 0.3
+LLM_MAX_TOKENS = 500
+LLM_TIMEOUT = 30
+
+# ===== سیستم پرامپت =====
+SYSTEM_PROMPT = '''تو یه تحلیل‌گر بورس ایران هستی.
+وظیفه‌ت: تحلیل خبر، پیشنهاد خرید/فروش، هشدار ریسک.
+جواب‌هات کوتاه، دقیق، به فارسی.'''

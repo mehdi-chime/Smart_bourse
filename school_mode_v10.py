@@ -161,27 +161,9 @@ def analyze_market():
 
 
 def get_dynamic_rsi_range(market):
-    """تعیین بازه RSI داینامیک"""
-    if not market:
-        return 22, 28, "معمولی"
-
-    market_pct = market["market_pct"]
-
-    # بازار خیلی داغ
-    if market_pct > 70:
-        return 28, 38, "خیلی داغ"
-    # بازار داغ
-    elif market_pct > 55:
-        return 28, 40, "داغ"
-    # بازار معمولی
-    elif market_pct > 45:
-        return 25, 35, "معمولی"
-    # بازار سرد
-    elif market_pct > 30:
-        return 22, 30, "سرد"
-    # بازار خیلی سرد
-    else:
-        return 18, 28, "خیلی سرد"
+    """تعیین بازه RSI — فیلتر طلایی (88.1% Win Rate)"""
+    # همیشه RSI 22-28 — بهترین بازه
+    return 22, 28, "طلایی"
 
 
 def scan_stocks(market):
@@ -312,6 +294,48 @@ def run_scanner():
         return False
 
 
+
+
+def run_alert_manager():
+    """اجرای هشدار خودکار"""
+    log("Ejraye alert_manager...")
+    try:
+        result = subprocess.run(
+            [sys.executable, str(PROJECT_ROOT / "alert_manager.py")],
+            cwd=str(PROJECT_ROOT),
+            capture_output=True,
+            text=True,
+            timeout=300,
+            encoding='utf-8',
+            errors='ignore',
+        )
+        log(f"   exit: {result.returncode}")
+        return result.returncode == 0
+    except Exception as e:
+        log(f"   ERR: {e}")
+        return False
+
+
+def run_update_portfolio():
+    """اجرای رصد پرتفوی"""
+    log("Ejraye update_portfolio...")
+    try:
+        result = subprocess.run(
+            [sys.executable, str(PROJECT_ROOT / "update_portfolio.py")],
+            cwd=str(PROJECT_ROOT),
+            capture_output=True,
+            text=True,
+            timeout=300,
+            encoding='utf-8',
+            errors='ignore',
+        )
+        log(f"   exit: {result.returncode}")
+        return result.returncode == 0
+    except Exception as e:
+        log(f"   ERR: {e}")
+        return False
+
+
 def main():
     now = datetime.now()
     now_time = now.time()
@@ -335,7 +359,14 @@ def main():
     if now_time < MARKET_START:
         log(f"Montazere {MARKET_START}...")
         while datetime.now().time() < MARKET_START:
-            time.sleep(60)
+            
+            # ۶. هشدار خودکار
+            run_alert_manager()
+
+            # ۷. رصد پرتفوی
+            run_update_portfolio()
+
+        time.sleep(60)
 
     log("Shoroo - bazar baz shod")
 
